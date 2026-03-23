@@ -1,0 +1,279 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+掌握用线段图法来分析题中的年龄关系.
+利用已经学习的和差、和倍、差倍的方法求解年龄问题．
+ SHAPE  \* MERGEFORMAT 
+知识点说明：
+一、年龄问题变化关系的三个基本规律：
+两人年龄的倍数关系是变化的量.
+每个人的年龄随着时间的增加都增加相等的量；
+两个人之间的年龄差不变
+二、年龄问题的解题要点是：
+1．入手：分析题意从表示年龄间倍数关系的条件入手理解数量关系．
+2．关键：抓住“年龄差”不变．
+3．解法：应用“差倍”、“和倍”或“和差”问题数量关系式．
+4．陷阱：求过去、现在、将来。
+年龄问题变化关系的三个基本规律：
+1．两人年龄的差是不变的量；
+2.两个人的年龄增加量是不变的；
+3．两人年龄的倍数关系是变化的量；
+年龄问题的解题正确率保证：验算！
+ SHAPE  \* MERGEFORMAT 
+年龄问题的综合
+小芬家由小芬和她的父母组成，小芬的父亲比母亲大 EMBED Equation.DSMT4  岁，今年全家年龄的和是 EMBED Equation.DSMT4  岁， EMBED Equation.DSMT4  年前这一家全家年龄的和是 EMBED Equation.DSMT4  岁．今年三人各是多少岁？
+【考点】年龄问题   【难度】3星   【题型】解答
+一家人的年龄和今年与 EMBED Equation.DSMT4  年前比较增加了 EMBED Equation.DSMT4  （岁），而如果按照三人计算 EMBED Equation.DSMT4  年后应增加 EMBED Equation.DSMT4  （岁），只能是小芬少了 EMBED Equation.DSMT4  岁，即小芬 EMBED Equation.DSMT4  年前出生，今年是 EMBED Equation.DSMT4  岁，今年父亲是 EMBED Equation.DSMT4  （岁），今年母亲是 EMBED Equation.DSMT4  （岁）．
+ 【答案】小芬 EMBED Equation.DSMT4  岁，母亲 EMBED Equation.DSMT4  岁，父亲 EMBED Equation.DSMT4  岁
+
+全家四口人，父亲比母亲大 EMBED Equation.DSMT4  岁，姐姐比弟弟大 EMBED Equation.DSMT4  岁．四年前他们全家的年龄和为 EMBED Equation.DSMT4  岁，而现在是 EMBED Equation.DSMT4  岁．问：现在各人的年龄是多少？
+【考点】年龄问题   【难度】3星   【题型】解答
+ EMBED Equation.DSMT4  ，我们知道四个人四年应该增长了 EMBED Equation.DSMT4  岁，但实际上只增长了 EMBED Equation.DSMT4  岁，是因为在四年前，弟弟还没有出生，那么弟弟今年应该是几岁呢？我们可以这样想：父亲、母亲、姐姐三个人四年增长了 EMBED Equation.DSMT4  岁， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  就是弟弟的年龄！那么很快能得到姐姐是 EMBED Equation.DSMT4  岁，父母今年的年龄和是 EMBED Equation.DSMT4  (岁)，根据和差问题，就可以得到父亲是： EMBED Equation.DSMT4  (岁)，母亲是 EMBED Equation.DSMT4  (岁)．
+ 【答案】弟弟 EMBED Equation.DSMT4  岁，姐姐 EMBED Equation.DSMT4  岁，母亲 EMBED Equation.DSMT4  岁，父亲 EMBED Equation.DSMT4  岁
+
+有一家三口，爸爸比妈妈大3岁，他们全家今年的年龄加起来正好是58岁，而5年前他们全家人年龄加起来刚好是45岁。小孩子今年____岁。
+【考点】年龄问题   【难度】3星   【题型】填空
+【关键词】走美杯，4年级，决赛
+如果孩子的年龄不小于5岁，则全家人的年龄和5年应相差15岁。而58-45=13(岁)，所以小孩今年5-(15-13) EMBED Equation.DSMT4   3(岁)。
+【答案】 EMBED Equation.DSMT4  岁
+
+一家三口人，爸爸与妈妈大3岁，现在他们一家人的年龄之和是80岁，10年前全家人的年龄之和是51岁，女儿今年        岁。
+【考点】年龄问题   【难度】3星   【题型】填空
+【关键词】希望杯,五年级,一试,第22题
+10 年前，三人的年龄和本应该为80-10×3=50，而实际为51，说明10年前孩子还没有出生，今年孩子9岁，爸爸妈妈年龄和为80-9=71、爸爸比妈妈大3岁，所以爸爸34岁，妈妈31岁。
+【答案】 EMBED Equation.DSMT4  岁
+
+李伟5年前的年龄与张磊8年后的年龄相等，李伟4年后与张磊3年前的年龄和是36岁，李伟和张磊两人今年各多少岁？
+【考点】年龄问题   【难度】3星   【题型】解答
+由题中“李伟5年前的年龄与张磊8年后的年龄相等”这个条件我们可以知道李伟比张磊大：
+ EMBED Equation.DSMT4  （岁）；又由题中“李伟4年后与张磊3年前的年龄和是36岁”可以知道他们两人今年的年龄和是： EMBED Equation.DSMT4  （岁），再根据和差关系就可以解答了．李伟的年龄： EMBED Equation.DSMT4  （岁），张磊的年龄： EMBED Equation.DSMT4  （岁）．
+ 【答案】李伟 EMBED Equation.DSMT4  岁，张磊 EMBED Equation.DSMT4  岁
+
+爸爸15年前的年龄相当于儿子12年后的年龄，当爸爸的年龄是儿子的4倍时，爸爸多少岁？
+【考点】年龄问题   【难度】3星   【题型】解答
+由“爸爸15年前的年龄相当于儿子12年后的年龄”可以知道，现在爸爸比儿子大： EMBED Equation.DSMT4  （岁）爸爸与儿子的年龄差已知，此题可转化为：爸爸比儿子大27岁，当爸爸的年龄是儿子的4倍时，爸爸多少岁？这是一道典型的差倍题．
+儿子的年龄是： EMBED Equation.DSMT4  （岁），爸爸的年龄是： EMBED Equation.DSMT4  （岁）．
+ 【答案】爸爸 EMBED Equation.DSMT4  岁
+
+小亮4年前的年龄与小红7年后的年龄之和是39岁，小红比小亮大8岁，则小红今年的年龄是__________岁，小亮今年的年龄是_______岁，________年前，小红的年龄是小亮年龄的3倍．
+【考点】年龄问题   【难度】3星   【题型】填空
+【关键词】学而思杯，3年级，第7题
+小红四年前比现在岁数少 EMBED Equation.DSMT4  ，小红七年后比现在岁数多 EMBED Equation.DSMT4  。所以和比现在多3。即今年小红和小亮的年龄之和是36岁。小红比小亮大 EMBED Equation.DSMT4  岁。所以小红今年的年龄是 EMBED Equation.DSMT4  岁，小亮今年的年龄是 EMBED Equation.DSMT4  岁，小红年龄是小亮年龄 EMBED Equation.DSMT4  倍时，年龄差就是小亮年龄的 EMBED Equation.DSMT4  倍，那么小亮的年龄就是 EMBED Equation.DSMT4  岁，这应该是在 EMBED Equation.DSMT4  年前。
+【答案】小红 EMBED Equation.DSMT4  岁，小亮 EMBED Equation.DSMT4  岁， EMBED Equation.DSMT4  年前。
+
+东东3年前的年龄与西西4年后的年龄之和是25岁，东东3年后的年龄等于西西l年前的年龄，求东东、西西今年的年龄各是多少？
+【考点】年龄问题   【难度】3星   【题型】解答
+东东3年后的年龄等于西西1年前的年龄，说明东东比西西小4岁； 东东3年前的年龄与西西4年后的年龄之和是25岁，所以今年东东和西西的年龄和是 EMBED Equation.DSMT4  (岁)，今年东东的年龄： EMBED Equation.DSMT4  (岁)，今年西西的年龄： EMBED Equation.DSMT4  (岁)．
+ 【答案】东东 EMBED Equation.DSMT4  岁，西西 EMBED Equation.DSMT4  岁
+
+哥哥5年后的年龄与弟弟3年前的年龄和是29岁，弟弟现在的年龄是两人年龄差的4倍．哥哥今年多少岁？
+【考点】年龄问题   【难度】3星   【题型】解答
+兄弟二人现在的年龄和是27岁，两人的年龄差是 EMBED Equation.DSMT4  （岁），哥哥现在 EMBED Equation.DSMT4  （岁）．
+ 【答案】哥哥 EMBED Equation.DSMT4  岁
+
+ EMBED Equation.DSMT4  年前爸爸的年龄是儿子的 EMBED Equation.DSMT4  倍， EMBED Equation.DSMT4  年后父子二人年龄和是 EMBED Equation.DSMT4  岁，父子二人今年分别多少岁？
+【考点】年龄问题   【难度】4星   【题型】解答
+ EMBED Equation.DSMT4  年后父子二人年龄和是 EMBED Equation.DSMT4  岁，那么 EMBED Equation.DSMT4  年前父子二人年龄和是 EMBED Equation.DSMT4  (岁)，所以 EMBED Equation.DSMT4  年前儿子的年龄是： EMBED Equation.DSMT4  (岁)，爸爸的年龄是： EMBED Equation.DSMT4  (岁)，今年爸爸的年龄是： EMBED Equation.DSMT4  (岁)，儿子年龄是 EMBED Equation.DSMT4  (岁)
+ 【答案】父亲 EMBED Equation.DSMT4  岁，儿子年龄 EMBED Equation.DSMT4  岁
+
+幼儿园的王阿姨今年的年龄是小华今年年龄的8倍，是小华3年后年龄的4倍，则小华今年____岁。
+【考点】年龄问题    【难度】4星   【题型】填空
+【关键词】希望杯，六年级，一试，第6题
+小华今年年龄和3年后年龄的差为3岁，也是王阿姨今年的年龄的 EMBED Equation.DSMT4  ，所以王阿姨今年24岁，小华今年3岁.
+【答案】3岁
+
+ EMBED Equation.DSMT4  年前父亲的年龄是儿子的 EMBED Equation.DSMT4  倍， EMBED Equation.DSMT4  年后父亲的年龄是儿子的 EMBED Equation.DSMT4  倍，问现在父子的年龄各是多少？
+【考点】年龄问题   【难度】4星   【题型】解答
+10年前到 EMBED Equation.DSMT4  年后，前后共经过： EMBED Equation.DSMT4  年，父子应各自比 EMBED Equation.DSMT4  年前增加 EMBED Equation.DSMT4  岁．假设此时父亲的年龄仍然是儿子的 EMBED Equation.DSMT4  倍，父亲的年龄应增加 EMBED Equation.DSMT4  (岁)，要比实际年龄多增加 EMBED Equation.DSMT4  (岁)，而实际倍数相差 EMBED Equation.DSMT4  倍，可以知道这 EMBED Equation.DSMT4  岁就相当于 EMBED Equation.DSMT4  年后儿子年龄的 EMBED Equation.DSMT4  倍．因此， EMBED Equation.DSMT4  年后儿子的年龄是： EMBED Equation.DSMT4  (岁)，父亲的年龄是： EMBED Equation.DSMT4  (岁)，儿子现在的年龄是 EMBED Equation.DSMT4  (岁)，父亲现在的年龄是： EMBED Equation.DSMT4  (岁)
+ 【答案】父亲 EMBED Equation.DSMT4  岁，儿子 EMBED Equation.DSMT4  岁
+
+今年父亲的年龄是儿子的5倍，15年后，父亲的年龄是儿子年龄的2倍，问：现在父子的年龄各是多少岁？
+【考点】年龄问题   【难度】4星   【题型】解答
+今年父子的年龄差是儿子的5－1＝4倍，15年后父子的年龄差是儿子的2－1＝1倍，这说明在过了15年后，儿子的年龄是现在的四倍，根据差倍问题的公式可以计算出儿子今年的年龄是15÷（4－1）＝5岁，父亲今年是5×5＝25岁．
+ 【答案】父亲 EMBED Equation.DSMT4  岁，儿子 EMBED Equation.DSMT4  岁
+
+
+ EMBED Equation.DSMT4  年前父亲的年龄是儿子年龄的 EMBED Equation.DSMT4  倍， EMBED Equation.DSMT4  年后父亲的年龄是儿子年龄的 EMBED Equation.DSMT4  倍，今年父亲        岁，儿子        岁。
+【考点】年龄问题   【难度】4星   【题型】填空
+【关键词】小机灵杯，决赛
+ EMBED Equation.DSMT4  年前儿子的年龄看做“ EMBED Equation.DSMT4  ”倍量，父亲的年龄为“ EMBED Equation.DSMT4  ”倍量，那么 EMBED Equation.DSMT4  年后， EMBED Equation.DSMT4  （岁），儿子的年龄为“ EMBED Equation.DSMT4  ”倍量 EMBED Equation.DSMT4  ，父亲的年龄是“ EMBED Equation.DSMT4  ”倍量 EMBED Equation.DSMT4  ，而此时儿子年龄的两倍为“ EMBED Equation.DSMT4  ”倍量 EMBED Equation.DSMT4  ，也等于父亲的年龄，所以“ EMBED Equation.DSMT4  ”倍量 EMBED Equation.DSMT4  （岁），那么“ EMBED Equation.DSMT4  ”倍量为 EMBED Equation.DSMT4  （岁），所以今年儿子年龄为 EMBED Equation.DSMT4  （岁），父亲年龄为 EMBED Equation.DSMT4  （岁）。
+ 【答案】父亲 EMBED Equation.DSMT4  岁，儿子 EMBED Equation.DSMT4  岁
+
+现在哥哥的年龄恰好是弟弟年龄的 EMBED Equation.DSMT4  倍．而 EMBED Equation.DSMT4  年前哥哥的年龄是弟弟年龄的 EMBED Equation.DSMT4  倍，则哥哥现在的年龄是      岁．
+【考点】年龄问题   【难度】4星   【题型】填空
+【关键词】湖北省，创新杯，初赛
+由于年龄差不变，设九年前弟弟的年龄为 EMBED Equation.DSMT4  份，则九年前哥哥与弟弟的年龄差为 EMBED Equation.DSMT4  份，而现在的年龄差为 EMBED Equation.DSMT4  倍量，所以对应的是 EMBED Equation.DSMT4  份，所以现在弟弟年龄为 EMBED Equation.DSMT4  份，所以 EMBED Equation.DSMT4  年前弟弟的年龄为 EMBED Equation.DSMT4  岁，则哥哥现在的年龄为 EMBED Equation.DSMT4  岁．
+
+ 【答案】哥哥 EMBED Equation.DSMT4  岁
+
+ EMBED Equation.DSMT4  年前爸爸的年龄是小玲的 EMBED Equation.DSMT4  倍， EMBED Equation.DSMT4  年后爸爸的年龄是小玲的 EMBED Equation.DSMT4  倍．问现在父女俩的年龄各是多少岁？
+【考点】年龄问题   【难度】4星   【题型】解答
+ EMBED Equation.DSMT4  年后爸爸的年龄是小玲的 EMBED Equation.DSMT4  倍，那么两人的年龄差等于小玲当时（ EMBED Equation.DSMT4  年后）的年龄，所以，两人的年龄差等于小玲 EMBED Equation.DSMT4  年前的年龄加 EMBED Equation.DSMT4  岁． EMBED Equation.DSMT4  年前爸爸的年龄是小玲的 EMBED Equation.DSMT4  倍，所以两人的年龄差等于小玲当时（ EMBED Equation.DSMT4  年前）年龄的 EMBED Equation.DSMT4  倍．由于年龄差是不变的，所以小玲 EMBED Equation.DSMT4  年前的年龄的 EMBED Equation.DSMT4  倍等于 EMBED Equation.DSMT4  ，小玲当时（ EMBED Equation.DSMT4  年前）的年龄为： EMBED Equation.DSMT4  （岁），现在的年龄为： EMBED Equation.DSMT4  （岁），爸爸现在的年龄为： EMBED Equation.DSMT4  （岁）．
+ 【答案】父亲 EMBED Equation.DSMT4  岁，小玲 EMBED Equation.DSMT4  岁
+
+前年，父亲年龄是儿子年龄的 EMBED Equation.DSMT4  倍；后年，父亲年龄是儿子年龄的 EMBED Equation.DSMT4  倍.父亲今年        岁.
+【考点】年龄问题   【难度】4星   【题型】填空
+【关键词】希望杯，五年级，初赛
+方法一：由题意知前年父亲和儿子的年龄比为 EMBED Equation.DSMT4  ，后年父亲和儿子的年龄比为 EMBED Equation.DSMT4  ，由于年龄差不变，前年年龄差为 EMBED Equation.DSMT4  ，后年年龄差为 EMBED Equation.DSMT4  ，所以年龄差为 EMBED Equation.DSMT4  .前年父亲和儿子的年龄比为 EMBED Equation.DSMT4  ，后年父亲和儿子的年龄比为 EMBED Equation.DSMT4  ，设前年父亲和儿子的年龄分别为 EMBED Equation.DSMT4  份， EMBED Equation.DSMT4  份，则后年父亲和儿子的年龄分别为 EMBED Equation.DSMT4  份， EMBED Equation.DSMT4  份，因为前年到后年过去了 EMBED Equation.DSMT4  年，恰好是 EMBED Equation.DSMT4  份，所以父亲今年的年龄为 EMBED Equation.DSMT4  （岁）
+方法二：设前年儿子的年龄是 EMBED Equation.DSMT4  岁，那么前年父子的年龄差为 EMBED Equation.DSMT4  ，那么后年儿子的年龄是 EMBED Equation.DSMT4  岁，父子的年龄差为 EMBED Equation.DSMT4  ，年龄差不变，所以 EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  ，那么前年父亲的年龄是 EMBED Equation.DSMT4  (岁)，今年是 EMBED Equation.DSMT4  (岁)。
+ 【答案】 EMBED Equation.DSMT4  岁
+
+12年前，父亲的年龄是女儿年龄的11倍；今年，父亲的年龄是女儿年龄的3倍，请问多少年后父亲年龄是女儿年龄的2倍
+【考点】年龄问题   【难度】4星   【题型】解答
+设12年前女儿年龄为1份，父亲年龄为11份，则年龄差为10份，由于年龄差不变所以现在的年龄差也应当为10份，而现在年龄差却差2倍，所以1倍为5份，所以父亲现在年龄为15份，女儿年龄为5份，这样12年对应为4份，所以年龄差为10份对应30岁，于是今年女儿年龄为15（岁），父亲年龄为 EMBED Equation.DSMT4  （岁）．
+当父亲年龄是女儿年龄的2倍时，父女年龄差是女儿年龄的 EMBED Equation.DSMT4  （倍）．
+因此那时女儿年龄即为父女年龄差30岁，
+所以再过 EMBED Equation.DSMT4  （年），父亲年龄是女儿年龄的2倍．
+ 【答案】 EMBED Equation.DSMT4  年
+
+1年前父母的年龄和是兄弟二人年龄和的7倍；4年后，父母的年龄和是兄弟二人年龄和的4倍。已知爸爸比妈妈大2岁，妈妈今年几岁？
+【考点】年龄问题   【难度】4星   【题型】解答
+将父母看成一个人，年龄每年增加2岁，兄弟看成一个人每年增加2岁，设父母1年前年龄和是7份，那么1年前兄弟二人的年龄就是1份，后来过了 EMBED Equation.DSMT4  年，兄弟年龄是1份加10，4倍就是4份加40，父母年龄是7份加10，所以1份就是 EMBED Equation.DSMT4  ，所以1年前父母和是70，妈妈年龄 EMBED Equation.DSMT4  ，妈妈今年35岁。
+ 【答案】妈妈 EMBED Equation.DSMT4  岁
+
+今年彬彬的年龄是表弟年龄的4倍，20年后，彬彬的年龄比表弟的年龄的2倍少l2岁，今年彬彬、表弟各多少岁？  
+【考点】年龄问题   【难度】4星   【题型】解答
+表弟今年年龄的 EMBED Equation.DSMT4  (倍)对应的是： EMBED Equation.DSMT4  (年)，由此可以求出表弟今年的年龄，使问题得解． EMBED Equation.DSMT4  (岁)， EMBED Equation.DSMT4  (岁)．所以表弟今年4岁，彬彬今年16岁．
+ 【答案】表弟 EMBED Equation.DSMT4  岁，彬彬 EMBED Equation.DSMT4  岁
+
+今年哥哥的年龄是弟弟的 EMBED Equation.DSMT4  倍， EMBED Equation.DSMT4  年后，哥哥的年龄比弟弟的 EMBED Equation.DSMT4  倍少 EMBED Equation.DSMT4  岁，今年哥哥        岁，弟弟         岁。
+【考点】年龄问题   【难度】4星   【题型】填空
+【关键词】学而思杯，3年级，第6题
+由题意知：给哥哥多加 EMBED Equation.DSMT4  岁,哥哥的年龄就是弟弟的 EMBED Equation.DSMT4  倍,可知弟弟今年的年龄是 EMBED Equation.DSMT4  (岁)。哥哥的年龄是 EMBED Equation.DSMT4  （岁）。
+【答案】哥哥今年 EMBED Equation.DSMT4  岁，弟弟今年 EMBED Equation.DSMT4  岁
+
+小航的爸爸比妈妈大4岁，今年小航的父母年龄之和是小航的7倍，3年后小航的父母年龄之和是小航的6倍，那么小航的妈妈今年多少岁？
+【考点】年龄问题   【难度】4星   【题型】解答
+今年小航的父母年龄之和是小航的7倍，3年后小航的父母年龄之和刚好是小航的6倍，则小航今年的年龄与父母增加的年龄的和刚好是小航增加年龄的6倍．即“小航今年的年龄” EMBED Equation.DSMT4    EMBED Equation.DSMT4  ，小航今年的年龄： EMBED Equation.DSMT4  （岁）．小航父母今年的年龄和： EMBED Equation.DSMT4  （岁）．小航的爸爸比妈妈大4岁，所以小航的妈妈今年的年龄： EMBED Equation.DSMT4  （岁）．
+ 【答案】小航妈妈 EMBED Equation.DSMT4  岁
+
+
+今年是2005年，父母亲年龄和是70岁，姐弟俩的年龄和是16岁。到2008年时，父亲的年龄是弟弟年龄的4倍，母亲的年龄是姐姐的3倍。那么，当父亲的年龄是姐姐年龄的2倍时，是______年。
+【考点】年龄问题   【难度】4星   【题型】填空
+【关键词】走美杯，5年级，决赛
+设今年父亲x岁，姐姐y岁，则母亲(70-x)岁，弟弟(16-y)岁。根据2008年的情况，可得
+    EMBED Equation.DSMT4  
+化简得  EMBED Equation.DSMT4      解得y EMBED Equation.DSMT4  9，x EMBED Equation.DSMT4  37。
+父亲比姐姐大37-9 EMBED Equation.DSMT4  28(岁)，再过28-9 EMBED Equation.DSMT4  19(年)，父亲的年龄是姐姐的2倍，即是2024年。
+【答案】 EMBED Equation.DSMT4  年
+
+已知祖孙三人，祖父和父亲的年龄差与父亲和孙子的年龄差相同，祖父和孙子年龄之和为 EMBED Equation.DSMT4  岁，明年祖父年龄恰好等于孙子年龄的 EMBED Equation.DSMT4  倍．求祖孙三人各多少岁?
+
+【考点】年龄问题   【难度】4星   【题型】解答
+“祖父和父亲的年龄差与父亲和孙子的年龄差相同”这一条件较难理解，可作出示意图，从图中容易看出，祖父和孙子年龄之和恰为父亲年龄的 EMBED Equation.DSMT4  倍．父亲的年龄为： EMBED Equation.DSMT4  (岁)，孙子的年龄为： EMBED Equation.DSMT4  (岁)，祖父的年龄为： EMBED Equation.DSMT4  (岁)．
+ 【答案】祖父年龄 EMBED Equation.DSMT4  岁，父亲年龄 EMBED Equation.DSMT4  岁，孙子年龄 EMBED Equation.DSMT4  岁
+
+当哥哥的年龄是弟弟现在的年龄时，哥哥的年龄是弟弟年龄的 EMBED Equation.DSMT4  倍，当弟弟的年龄是哥哥现在的年龄时，他们两人的年龄和是 EMBED Equation.DSMT4  ，弟弟现在多少岁？
+【考点】年龄问题   【难度】4星   【题型】解答 【关键词】希望杯，4年级，1试
+如图所示，用实线段分别表示弟弟和哥哥现在的年龄，两条实线段的长度之差表示年龄差．由于他们的年龄差不变，所以可以在图上确定出当“哥哥的年龄是弟弟现在的年龄”时弟弟的年龄，和当“弟弟的年龄是哥哥现在的年龄”时哥哥的年龄，倍数关系一目了然．
+
+           假设“当哥哥的年龄是弟弟现在的年龄时，哥哥的年龄是弟弟年龄的 EMBED Equation.DSMT4  倍”时弟弟的年龄为 EMBED Equation.DSMT4  份，则弟弟现在的年龄是 EMBED Equation.DSMT4  份，哥哥现在的年龄是 EMBED Equation.DSMT4  份，哥哥和弟弟的年龄差是 EMBED Equation.DSMT4  份．那么“当弟弟的年龄是哥哥现在的年龄时”，哥哥的年龄是 EMBED Equation.DSMT4  份，那么线段 EMBED Equation.DSMT4  代表的年龄是： EMBED Equation.DSMT4  (岁)．所以弟弟现在的年龄是： EMBED Equation.DSMT4  (岁)
+ 【答案】弟弟现在 EMBED Equation.DSMT4  岁
+
+
+
+甲现在的年龄是乙过去某一时刻年龄的2倍，那时甲正好是乙现在这样大，当乙到了甲现在的年龄时，甲与乙年龄之和为63，那么现在甲、乙年龄分别是多少岁？
+【考点】年龄问题   【难度】4星   【题型】解答
+如图所示，每一段表示甲乙二人的年龄差，根据题意可以得到如上线段图
+
+由当乙到了甲现在的年龄时，甲与乙年龄之和为63，可知年龄差为：63÷（5+4）=7（岁），所以现在甲年龄为：7×4=28（岁），乙年龄为：7×3=21（岁）
+ 【答案】甲 EMBED Equation.DSMT4  岁，乙 EMBED Equation.DSMT4  岁
+
+哥哥现在的年龄是弟弟当年年龄的 EMBED Equation.DSMT4  倍，哥哥当年的年龄与弟弟现在的年龄相同，哥哥与弟弟现在的年龄和为 EMBED Equation.DSMT4  岁．问：哥哥现在多少岁？
+【考点】年龄问题   【难度】4星   【题型】解答
+假设弟弟当年年龄是 EMBED Equation.DSMT4  份，那么哥哥现在的年龄就是 EMBED Equation.DSMT4  份，因为哥哥当年的年龄与弟弟现在的年龄相同，因为弟弟当年年龄，弟弟现在年龄( EMBED Equation.DSMT4  哥哥当年年龄)，哥哥现在年龄这三个数是等差的，所以弟弟现在年龄( EMBED Equation.DSMT4  哥哥当年年龄)就刚好是 EMBED Equation.DSMT4  份，那么兄弟现在的年龄和是 EMBED Equation.DSMT4  份，一份就是 EMBED Equation.DSMT4  ，哥哥现在是 EMBED Equation.DSMT4  (岁)．
+ 【答案】哥哥现在 EMBED Equation.DSMT4  岁
+
+一天，小慧和刘老师一起谈心，小慧问：“老师，您今年有多少岁啊？”刘老师 回答说：“你猜猜，当我像你这么大时，你才1岁；当你到我这么大时，我就34 岁了．”那么刘老师今年的年龄是多少岁呢？
+【考点】年龄问题   【难度】4星   【题型】解答
+小慧和刘老师的年龄差是一定的，设为1倍量，那么两人的年龄差是： EMBED Equation.DSMT4  （岁），所以，刘老师今年的年龄是： EMBED Equation.DSMT4  （岁）．
+ 【答案】 EMBED Equation.DSMT4  岁
+
+ 甲对乙说：“当我的岁数是你现在的岁数时，你才 EMBED Equation.DSMT4  岁．”乙对甲说：“当我的岁数是你现在的岁数时，你将 EMBED Equation.DSMT4  岁．”那么，甲现在(    )岁，乙现在(    )岁．
+【考点】年龄问题   【难度】4星   【题型】填空
+【关键词】祖冲之杯，数学邀请赛
+根据题意画出示意图：
+
+当乙 EMBED Equation.DSMT4  岁时，甲的年龄等于乙现在的岁数，用线段 EMBED Equation.DSMT4  表示，可知甲、乙二人年龄差等于线段 EMBED Equation.DSMT4  ；甲、乙现在的岁数差等于 EMBED Equation.DSMT4  ，当乙的岁数等于甲现在的岁数(线段 EMBED Equation.DSMT4  表示)，甲将50岁(线段 EMBED Equation.DSMT4  表示)，此时年龄差等于线段 EMBED Equation.DSMT4  ，因为年龄差是不变的量，所以 EMBED Equation.DSMT4  ,根据图， EMBED Equation.DSMT4  ,所以甲乙二人的年龄差为： EMBED Equation.DSMT4  (岁)，乙现在的岁数是： EMBED Equation.DSMT4  (岁)，甲现在的岁数是： EMBED Equation.DSMT4  (岁)。
+ 【答案】甲 EMBED Equation.DSMT4  岁，乙 EMBED Equation.DSMT4  岁
+
+小鲸鱼说：“妈妈，我长到您现在这么大时，您就 EMBED Equation.DSMT4  岁啦！”鲸鱼妈妈说：“我像你这么大时，你只有 EMBED Equation.DSMT4  岁．“求小鲸鱼和妈妈现在多少岁？
+【考点】年龄问题   【难度】4星   【题型】解答
+由小鲸鱼说的话，再过它和妈妈的年龄差年，妈妈就 EMBED Equation.DSMT4  岁，由鲸鱼妈妈说的话，在它们的年龄差年前，小鲸鱼只有 EMBED Equation.DSMT4  岁，所以，由 EMBED Equation.DSMT4  到31之间含有 EMBED Equation.DSMT4  个年龄差，所以年龄差为： EMBED Equation.DSMT4  (岁)，小鲸鱼现在的年龄是： EMBED Equation.DSMT4  (岁)，鲸鱼妈妈现在的年龄是： EMBED Equation.DSMT4  (岁)
+ 【答案】小鲸鱼妈妈年龄 EMBED Equation.DSMT4  岁
+
+哥哥对弟弟说：“当我在你现在的年龄时，你才 EMBED Equation.DSMT4  岁”．弟弟又对哥哥说：“当我长到你现在的年龄时，你已 EMBED Equation.DSMT4  岁了”，问哥哥和弟弟现在各多少岁？
+【考点】年龄问题   【难度】4星   【题型】解答
+7岁到22岁之间是3个年龄差，哥哥与弟弟的年龄差为5岁，因此弟弟现在年龄为12岁，哥哥现在年龄为17岁．
+ 【答案】哥哥现在 EMBED Equation.DSMT4  岁，弟弟 EMBED Equation.DSMT4  岁
+
+上学的路上，小明听到两个人在谈论各自的年龄，只听一人说“当我的年龄是你现在的年龄时，你才4岁。”另一人说“当我的年龄是你现在的年龄时，你将61岁，……”他们两人中，年龄较小的现在_____岁。
+【考点】年龄问题   【难度】4星   【题型】填空
+【关键词】希望杯,五年级,一试,第23题
+4到61岁你他们3个年龄差，所以年龄差=19，年龄较小的今年4+19=23岁
+【答案】 EMBED Equation.DSMT4  岁
+
+甲对乙说：“我在你这么大岁数的时候，你的岁数是我今年岁数的一半．”乙对甲说：“我到你这么大岁数的时候，你的岁数是我今年岁数的2倍减7．”问：甲、乙二人现在各多少岁？
+【考点】年龄问题   【难度】5星   【题型】解答
+从已知条件中可以看出甲比乙年龄大，甲乙年龄差这是一个不变的量．甲对乙说“我在你这么大岁数的时候”，意思是说几年以前．这几年就是甲乙的年龄差．因此，甲整句话可理解为：乙今年的岁数，减去年龄差，正好是甲今年岁数的一半．即，乙今－年龄差＝甲今的一半  （1）；乙对甲说“我到你这么大岁数的时候”，意思是说几年后．因此，乙整句话可理解为：甲今年的岁数，加上年龄差，正好是乙今年岁数的2倍减去7．即  甲今＋年龄差＝2×乙今－7   （2）.
+把甲乙的对话用下图表示为：
+
+由（1）得甲今＝2×乙今－2×年龄差 （3）；由（2）得 甲今＝2×乙今－7－年龄差 （4）
+由（3）（4）年龄差＝7（岁）从上图不难看出，甲现在的年龄是乙几年前年龄的2倍，1倍相当于2个年龄差，2倍相当于4个年龄差，乙现在的年龄相当3个年龄差．乙几年后的年龄和甲现在的年龄相等，所以乙几年后相当4个年龄差．甲几年后的年龄比乙几年后的年龄多一个年龄差，正好是7岁，从而得出年龄差是7岁．所以，乙现在年龄： 7×3＝21（岁），甲现在年龄： 7×4＝28（岁）.
+ 【答案】甲 EMBED Equation.DSMT4  岁，乙 EMBED Equation.DSMT4  岁
+
+爸爸在过 EMBED Equation.DSMT4  岁生日时，弟弟说：“等我长到哥哥现在的年龄时，我和哥哥那时的年龄之和等于那时爸爸的年龄”，那么哥哥今年多少岁？
+【考点】年龄问题   【难度】4星   【题型】解答
+【关键词】祖冲之杯，数学邀请赛
+方法一：设弟弟今年x岁，哥哥今年y岁，则哥哥与弟弟的年龄差为(y EMBED Equation.DSMT4  x)岁，弟弟长到哥哥年龄时，相当于长了（y EMBED Equation.DSMT4  x）岁，到那时弟弟年龄为y岁，哥哥年龄为y EMBED Equation.DSMT4  （y EMBED Equation.DSMT4  x）岁，爸爸年龄为50 EMBED Equation.DSMT4  （y EMBED Equation.DSMT4  x）岁，根据题意列方程得y EMBED Equation.DSMT4  y EMBED Equation.DSMT4  （y EMBED Equation.DSMT4  x） EMBED Equation.DSMT4  50 EMBED Equation.DSMT4  （y EMBED Equation.DSMT4  x）,解得y EMBED Equation.DSMT4  25,所以哥哥今年25岁．
+方法二：设a表示当弟弟和哥哥年龄一样时增加的岁数，其实就是哥哥比弟弟大的岁数．
+弟弟 |       |   a   |   
+哥哥 |                |  a    | 
+爸爸 |                                  |   a   |
+设经过了a年，当弟弟和哥哥的年龄一样时，他们的年龄和就相当于两个哥哥实际的岁数再加上a岁．爸爸的岁数就是实际的岁数加上a岁，抵消a岁．也就是两个哥哥的年龄等于爸爸的年龄．爸爸的年龄是50岁，哥哥的年龄就是25岁．
+ 【答案】哥哥今年 EMBED Equation.DSMT4  岁
+
+哥哥在过30岁生日时，弟弟说：“等我长到哥哥今年的年龄时，我哥哥那时候的年龄和我今年的年龄之和等于爸爸今年的年龄”，那么爸爸今年的年龄是           岁．
+【考点】年龄问题   【难度】4星   【题型】填空
+【关键词】学而思杯，4年级，第12题
+等我长到哥哥今年的年龄也就是 EMBED Equation.DSMT4  岁时，假设需要 EMBED Equation.DSMT4  年，则哥哥那时候就是 EMBED Equation.DSMT4  岁，我今年就是 EMBED Equation.DSMT4  岁，年龄之和是 EMBED Equation.DSMT4  岁，爸爸今年 EMBED Equation.DSMT4  岁。
+【答案】 EMBED Equation.DSMT4  岁
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+6-1-8.年龄问题（二）.题库	                        教师版                             page  PAGE 13 of  NUMPAGES 13
+
+
+知识精讲
+
+
+
+
+例题精讲
+
+
+6-1-8.年龄问题（二）
+
+
+
+
+教学目标
+
+
+
+
+
+

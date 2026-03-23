@@ -1,0 +1,222 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+学习同余的性质
+利用整除性质判别余数
+
+ SHAPE  \* MERGEFORMAT 
+同余定理
+1、定义：若两个整数a、b被自然数m除有相同的余数，那么称a、b对于模m同余，用式子表示为：a≡b ( mod m )，左边的式子叫做同余式。同余式读作：a同余于b，模m。
+2、重要性质及推论：
+（1）若两个数a，b除以同一个数m得到的余数相同，则a，b的差一定能被m整除
+例如： EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  除以 EMBED Equation.DSMT4  的余数都是 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  能被 EMBED Equation.DSMT4  整除．
+（2）用式子表示为：如果有a≡b ( mod m )，那么一定有a－b＝mk,k是整数，即m|(a－b)
+3、余数判别法
+当一个数不能被另一个数整除时，虽然可以用长除法去求得余数，但当被除位数较多时，计算是很麻烦的．建立余数判别法的基本思想是：为了求出“N被m除的余数”，我们希望找到一个较简单的数R，使得：N与R对于除数m同余．由于R是一个较简单的数，所以可以通过计算R被m除的余数来求得N被m除的余数．
+⑴ 整数N被2或5除的余数等于N的个位数被2或5除的余数；
+⑵ 整数N被4或25除的余数等于N的末两位数被4或25除的余数；
+⑶ 整数N被8或125除的余数等于N的末三位数被8或125除的余数；
+⑷ 整数N被3或9除的余数等于其各位数字之和被3或9除的余数；
+⑸ 整数N被11除的余数等于N的奇数位数之和与偶数位数之和的差被11除的余数；（不够减的话先适当	加11的倍数再减）；
+⑹ 整数N被7，11或13除的余数等于先将整数N从个位起从右往左每三位分一节，奇数节的数之和与偶数节的数之和的差被7，11或13除的余数就是原数被7，11或13除的余数．
+
+ SHAPE  \* MERGEFORMAT 
+
+模块一、两个数的同余问题
+
+有一个整数，除39,51,147所得的余数都是3，求这个数.
+【考点】两个数的同余问题   【难度】1星   【题型】解答
+(法1)  EMBED Equation.DSMT4  ，51-3=48， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，12的约数是 EMBED Equation.DSMT4  ，因为余数为3要小于除数，这个数是 EMBED Equation.DSMT4  ；
+(法2)由于所得的余数相同，得到这个数一定能整除这三个数中的任意两数的差，也就是说它是任意两数差的公约数． EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以这个数是 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+某个两位数加上3后被3除余1，加上4后被4除余1，加上5后被5除余1，这个两位数是______.   
+【考点】两个数的同余问题   【难度】2星   【题型】填空    
+【关键词】人大附中，分班考试                                       
+“加上3后被3除余1”其实原数还是余1，同理这个两位数除以4、5都余1，这样，这个数就是[3、4、5]+1=60+1=61。
+【答案】 EMBED Equation.DSMT4  
+
+有一个自然数，除345和543所得的余数相同，且商相差33．求这个数是多少？
+【考点】两个数的同余问题   【难度】3星   【题型】解答
+由于这个数除345和543的余数相同，那么它可能整除543-345，并且得到的商为33．所以所
+求的数为 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+一个大于10的自然数去除90、164后所得的两个余数的和等于这个自然数去除220后所得的余数，则这个自然数是多少？
+【考点】两个数的同余问题   【难度】3星   【题型】解答
+这个自然数去除90、164后所得的两个余数的和等于这个自然数去除 EMBED Equation.DSMT4  后所得的余数，所以254和220除以这个自然数后所得的余数相同，因此这个自然数是 EMBED Equation.DSMT4  的约数，又大于10，这个自然数只能是17或者是34．
+如果这个数是34，那么它去除90、164、220后所得的余数分别是22、28、16，不符合题目条件；如果这个数是17，那么它去除90、164、220后所得的余数分别是5、11、16，符合题目条件，所以这个自然数是17．
+【答案】 EMBED Equation.DSMT4  
+
+两位自然数 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  除以7都余1，并且 EMBED Equation.DSMT4  ，求 EMBED Equation.DSMT4  ．
+【考点】两个数的同余问题   【难度】3星   【题型】解答
+ EMBED Equation.DSMT4  能被7整除，即 EMBED Equation.DSMT4  能被7整除．所以只能有 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  可能为92和81，验算可得当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  满足题目要求， EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+现有糖果254粒,饼干210块和桔子186个.某幼儿园大班人数超过40.每人分得一样多的糖果,一样多的饼干,也分得一样多的桔子。余下的糖果、饼干和桔子的数量的比是：1：3：2，这个大班有_____名小朋友，每人分得糖果_____粒，饼干_____块，桔子_____个。
+【考点】两个数的同余问题   【难度】3星   【题型】解答
+【关键词】南京市，兴趣杯
+设大班共有a名小朋友。由于余下的糖果、饼干和桔子的数量之比是1:3:2，所以余下的糖果、桔子数目的和正好等于余下的饼干数，从而254+186-210一定是a的倍数，即254+186-210=230=1×230=10×23=2×5×23是a的倍数。同样，2×254-186=322=23×14=23×14=23×2×7也一定是a的倍数。所以，a只能是23×2的因数。但a﹥40,所以a=46。此时254=46×5+24，210=46×3+72，186=46×3+48。故大班有小朋友46名，每人分得糖果5粒，饼干3块，桔子3个。
+【答案】小朋友46名，每人分得糖果5粒，饼干3块，桔子3个
+
+模块二、三个数的同余问题
+有一个大于1的整数，除 EMBED Equation.DSMT4  所得的余数相同，求这个数.
+【考点】三个数的同余问题   【难度】3星   【题型】解答
+这个题没有告诉我们，这三个数除以这个数的余数分别是多少，但是由于所得的余数相同，根据同余定理，我们可以得到：这个数一定能整除这三个数中的任意两数的差，也就是说它是任意两数差的公约数． EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的约数有 EMBED Equation.DSMT4  ，所以这个数可能为 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+有一个整数，除300、262、205得到相同的余数。问这个整数是几?
+【考点】三个数的同余问题   【难度】3星   【题型】填空
+【关键词】华杯赛，初赛，第9题
+这个数除300、262，得到相同的余数，所以这个数整除300－262＝38，同理，这个数整除262－205＝57，因此，它是38、57的公约数19。
+【答案】 EMBED Equation.DSMT4  
+
+在除13511，13903及14589时能剩下相同余数的最大整数是_________．
+【考点】三个数的同余问题   【难度】3星   【题型】填空
+【关键词】小学数学奥林匹克
+因为 EMBED Equation.DSMT4  ,  EMBED Equation.DSMT4  ，由于13511，13903，14589要被同一个数除时，余数相同，那么，它们两两之差必能被同一个数整除． EMBED Equation.DSMT4  ，所以所求的最大整数是98.
+【答案】 EMBED Equation.DSMT4  
+
+140，225，293被某大于1的自然数除,所得余数都相同。2002除以这个自然数的余数是        .
+【考点】三个数的同余问题   【难度】3星   【题型】填空
+【关键词】三帆中学，入学测试
+这样我们用总结的知识点可知：任意两数的差肯定余0。那么这个自然数是293-225=68的约数,又是225-140=85的约数，因此就是68、85的公约数,所以这个自然数是17。所以2002除以17余13。
+【答案】 EMBED Equation.DSMT4  
+
+三个数：23，51，72，各除以大于1的同一个自然数，得到同一个余数，则这个除数是     。
+【考点】三个数的同余问题   【难度】3星   【题型】填空
+【关键词】希望杯，五年级，初赛，第4题，6分
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，（28，21）=7，所以这个除数是7。
+【答案】 EMBED Equation.DSMT4  
+
+学校新买来118个乒乓球，67个乒乓球拍和33个乒乓球网，如果将这三种物品平分给每个班级，那么这三种物品剩下的数量相同．请问学校共有多少个班？
+【考点】三个数的同余问题   【难度】3星   【题型】解答
+所求班级数是除以 EMBED Equation.DSMT4  余数相同的数．那么可知该数应该为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  
+的公约数，所求答案为17．
+【答案】 EMBED Equation.DSMT4  
+
+若2836，4582，5164，6522四个自然数都被同一个自然数相除，所得余数相同且为两位数，除数和余数的和为_______．
+【考点】三个数的同余问题   【难度】3星   【题型】填空
+【关键词】小学数学奥林匹克
+设除数为A．因为2836，4582，5164，6522除以A的余数相同，所以他们两两之差必能被A整除．又因为余数是两位数，所以A至少是两位数．4582-2836=1746， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，因为 EMBED Equation.DSMT4  ，所以A是194的大于10的约数．194的大于10的约数只有97和194．如果 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，余数不是两位数，与题意不符．如果 EMBED Equation.DSMT4  ，经检验，余数都是23，除数 EMBED Equation.DSMT4  余数 EMBED Equation.DSMT4  ．
+【答案】120
+
+一个大于1的数去除290，235，200时，得余数分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，则这个自然数是多少？
+【考点】三个数的同余问题   【难度】4星   【题型】解答
+根据题意可知，这个自然数去除290，233，195时，得到相同的余数（都为 EMBED Equation.DSMT4  ）．
+既然余数相同，我们可以利用余数定理，可知其中任意两数的差除以这个数肯定余0．那么这个自然数是 EMBED Equation.DSMT4  的约数，又是 EMBED Equation.DSMT4  的约数，因此就是57和38的公约数,因为57和38的公约数只有19和1，而这个数大于1，所以这个自然数是19．
+【答案】 EMBED Equation.DSMT4  
+
+有3个吉利数888，518，666，用它们分别除以同一个自然数，所得的余数依次为a,a+7,a+10,则这个自然数是_____.
+【考点】三个数的同余问题   【难度】4星   【题型】填空
+【关键词】清华附中，入学测试
+处理成余数相同的，则888、518-7、666-10的余数相同，这样我们可以转化成同余问题。这样我们用总结的知识点可知：任意两数的差肯定余0。那么这个自然数是888-656=232的约数，也是656-511=145的约数，因此就是232、145的公约数,所以这个自然数是29。
+【答案】 EMBED Equation.DSMT4  
+
+一个自然数除429、791、500所得的余数分别是 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，求这个自然数和 EMBED Equation.DSMT4  的值. 
+【考点】三个数的同余问题   【难度】4星   【题型】解答
+将这些数转化成被该自然数除后余数为 EMBED Equation.DSMT4  的数： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，这样这些数被这个自然数除所得的余数都是 EMBED Equation.DSMT4  ，故同余.
+将这三个数相减，得到 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，所求的自然数一定是 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  的公约数，而 EMBED Equation.DSMT4  ，所以这个自然数是 EMBED Equation.DSMT4  的约数，显然1是不符合条件的，那么只能是19.经过验证，当这个自然数是 EMBED Equation.DSMT4  时，除 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  所得的余数分别为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  时成立,所以这个自然数是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  
+
+甲、乙、丙三数分别为603，939，393．某数 EMBED Equation.DSMT4  除甲数所得余数是 EMBED Equation.DSMT4  除乙数所得余数的2倍， EMBED Equation.DSMT4  除乙数所得余数是 EMBED Equation.DSMT4  除丙数所得余数的2倍．求 EMBED Equation.DSMT4  等于多少？
+【考点】三个数的同余问题   【难度】4星   【题型】解答
+根据题意，这三个数除以 EMBED Equation.DSMT4  都有余数，则可以用带余除法的形式将它们表示出来： EMBED Equation.DSMT4   ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  由于 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，要消去余数 EMBED Equation.DSMT4  ,  EMBED Equation.DSMT4  ,  EMBED Equation.DSMT4  ,我们只能先把余数处理成相同的，再两数相减．这样我们先把第二个式子乘以2，使得被除数和余数都扩大2倍，同理，第三个式子乘以4．于是我们可以得到下面的式子： EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4  这样余数就处理成相同的．最后两两相减消去余数，意味着能被 EMBED Equation.DSMT4  整除． EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．51的约数有1、3、17、51，其中1、3显然不满足，检验17和51可知17满足，所以 EMBED Equation.DSMT4  等于17．
+【答案】 EMBED Equation.DSMT4  
+
+已知60，154，200被某自然数除所得的余数分别是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，求该自然数的值．
+【考点】三个数的同余问题   【难度】5星   【题型】解答
+根据题意可知，自然数61，154，201被该数除所得余数分别是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+由于 EMBED Equation.DSMT4  ，所以自然数 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  同余；由于 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  与201同余，所以除数是 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  的公约数，运用辗转相除法可得到 EMBED Equation.DSMT4  ，该除数为29．经检验成立．
+【答案】 EMBED Equation.DSMT4  
+
+有一个自然数，它除以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  所得到的商(＞ EMBED Equation.DSMT4  )与余数(＞ EMBED Equation.DSMT4  )之和都相等，这样的数最小可能是多少．
+【考点】三个数的同余问题   【难度】5星   【题型】解答
+
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  至少为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  至少为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  至少为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+最小为1081．
+【答案】 EMBED Equation.DSMT4  
+
+三个不同的自然数的和为2001，它们分别除以19,23,31所得的商相同，所得的余数也相同，这三个数是_______，_______，_______。
+【考点】三个数的同余问题   【难度】4星   【题型】填空
+【关键词】祖冲之杯
+设所得的商为 EMBED Equation.DSMT4  ，除数为 EMBED Equation.DSMT4  ． EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，由 EMBED Equation.DSMT4  ，可求得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．所以，这三个数分别是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  。
+【答案】523，631，847
+
+模块三、运用同余进行论证
+
+在3×3的方格表中已如右图填入了9个质数。将表中同一行或同一列的3个数加上相同的自然数称为一次操作。问：你能通过若干次操作使得表中9个数都变为相同的数吗？为什么？
+
+【考点】运用同余进行论证   【难度】3星   【题型】解答
+略
+【答案】因为表中9个质数之和恰为100，被3除余1，经过每一次操作，总和增加3的倍数，所以表中9个数之和除以3总是余1。如果表中9个数变为相等，那么9个数的总和应能被3整除，这就得出矛盾！所以，无论经过多少次操作，表中的数都不会变为9个相同的数。
+
+一个三位数除以17和19都有余数，并且除以17后所得的商与余数的和等于它除以19后所得到的商与余数的和．那么这样的三位数中最大数是多少，最小数是多少？
+【考点】运用同余进行论证   【难度】4星   【题型】解答
+【关键词】仁华学校
+设这个三位数为 EMBED Equation.DSMT4  ，它除以17和19的商分别为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，余数分别为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ．
+根据题意可知 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，得 EMBED Equation.DSMT4  ．所以 EMBED Equation.DSMT4  是9的倍数， EMBED Equation.DSMT4  是8的倍数．此时，由 EMBED Equation.DSMT4  知 EMBED Equation.DSMT4  ．由于 EMBED Equation.DSMT4  为三位数，最小为100，最大为999，所以 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  是9的倍数，所以 EMBED Equation.DSMT4  最小为9，最大为54．当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，故此时 EMBED Equation.DSMT4  最大为 EMBED Equation.DSMT4  ；当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  ，所以此时 EMBED Equation.DSMT4  最小为 EMBED Equation.DSMT4  ．所以这样的三位数中最大的是930，最小的是154．
+【答案】最大的是930，最小的是154
+
+从1，2，3，……，n中，任取57个数，使这57个数必有两个数的差为13，则n的最大值为多少？ 
+【考点】运用同余进行论证   【难度】4星   【题型】解答
+【关键词】西城实验
+被13除的同余序列当中，如余1的同余序列，1、14、27、40、53、66……，其中只要取到两个相邻的，这两个数的差为13；如果没有两个相邻的数，则没有两个数的差为13，不同的同余序列当中不可能有两个数的差为13，对于任意一条长度为x的序列，都最多能取 EMBED Equation.DSMT4  个数，使得取出的数中没有两个数的差为13，即从第1个数起隔1个取1个．
+基于以上，n个数分成13个序列，每条序列的长度为 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，两个长度差为1的序列，要使取出的数中没有两个数的差为13，能够被取得的数的个数之差也不会超过1，所以为使57个数中任意两个数的差都不等于13，则这57个数被分配在13条序列中，在每条序列被分配的数的个数差不会超过1，那么13个序列有8个序列分配了4个数，5个序列分配了5个数，则这13个序列中8个长度为8，5个长度为9，那么当n最小为 EMBED Equation.DSMT4  时，可以取出57个数，其中任两个数的差不为13，所以要使任取57个数必有两个数的差为13，那么n的最大值为108．
+【答案】 EMBED Equation.DSMT4  
+
+设 EMBED Equation.DSMT4  是质数，证明： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，…， EMBED Equation.DSMT4  被 EMBED Equation.DSMT4  除所得的余数各不相同．
+【考点】运用同余进行论证   【难度】5星   【题型】解答
+略
+【答案】假设有两个数 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，( EMBED Equation.DSMT4  )，它们的平方 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  被 EMBED Equation.DSMT4  除余数相同．那么，由
+同余定理得 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  是质数，所以 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  均小于 EMBED Equation.DSMT4  且大于0，可知， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  互质， EMBED Equation.DSMT4  也与 EMBED Equation.DSMT4  互质，即 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  都不能被 EMBED Equation.DSMT4  整除，产生矛盾，所以假设不成立，原题得证．
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+5-5-3.同余问题.题库	                        教师版                           page  PAGE 6 of  NUMPAGES 8
+
+
+
+5-5-3.同余问题
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

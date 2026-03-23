@@ -1,0 +1,315 @@
+{
+  "checked_at": "2026-03-23T08:24:35.210193+00:00",
+  "base_url": "http://127.0.0.1:18080",
+  "total_checks": 7,
+  "failed_checks": 1,
+  "ok": false,
+  "results": [
+    {
+      "name": "health",
+      "ok": true,
+      "status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": {
+          "status": "up"
+        },
+        "trace_id": "2f0a45f4aae3474599e62757f73932ed"
+      }
+    },
+    {
+      "name": "topics",
+      "ok": true,
+      "status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": [
+          {
+            "topic_id": "1-1-1-1",
+            "title": "小数四则混合运算综合",
+            "canonical_edition": "teacher",
+            "pair_status": "paired",
+            "prerequisites": [],
+            "learning_objectives": [
+              "本讲主要是通过一些速算技巧，培养学生的数感，并通过一些大数运算转化为简单运算，让学生感受学习的成就感，进而激发学生的学习兴趣"
+            ],
+            "common_mistakes": [
+              "二、要注意添括号或者去括号对运算符号的影响",
+              "注意到在被除数和除数的表达式中均出现了 【公式】 ，而且分别有相近的数 【公式】 与 【公式】 ，我们可以考虑把被除数做如下变形："
+            ],
+            "source_ref": {
+              "asset_id": "asset_97f0858849fbe632",
+              "file_path": "小学数学（教师版）/1-1-1-1 小数四则混合运算综合.教师版.doc",
+              "text_path": "artifacts/normalized/asset_97f0858849fbe632.txt"
+            }
+          }
+        ],
+        "meta": {
+          "total": 179,
+          "offset": 0,
+          "limit": 1
+        },
+        "trace_id": "a17ea7a8a34d4e72b5a9289b3aee1e51"
+      }
+    },
+    {
+      "name": "problems",
+      "ok": true,
+      "status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": [
+          {
+            "problem_id": "problem_c581a9b1d0da00cd",
+            "topic_id": "1-1-1-1",
+            "stem": "计算： 【公式】",
+            "answer": null,
+            "analysis_steps": null,
+            "method_tags": [
+              "四则混合运算之提取公因数"
+            ],
+            "method_tag_source": "direct",
+            "grade_band": "5",
+            "difficulty": "",
+            "grade_source": "topic_mode",
+            "difficulty_source": "none",
+            "source_ref": {
+              "asset_id": "asset_97f0858849fbe632",
+              "file_path": "小学数学（教师版）/1-1-1-1 小数四则混合运算综合.教师版.doc",
+              "text_path": "artifacts/normalized/asset_97f0858849fbe632.txt"
+            }
+          }
+        ],
+        "meta": {
+          "total": 1303,
+          "offset": 0,
+          "limit": 1
+        },
+        "trace_id": "775f430e8333489cb6add6e65beeff7a"
+      }
+    },
+    {
+      "name": "search_get",
+      "ok": false,
+      "status": 0,
+      "response": "'ascii' codec can't encode characters in position 31-32: ordinal not in range(128)"
+    },
+    {
+      "name": "search_post",
+      "ok": true,
+      "status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": {
+          "topics": [
+            {
+              "topic_id": "3-1-1",
+              "title": "行程问题基础",
+              "canonical_edition": "teacher",
+              "pair_status": "paired",
+              "prerequisites": [],
+              "learning_objectives": [],
+              "common_mistakes": [
+                "注意：在这种特定的题目中，随便选一个方便的数字做总路程并不是不科学的，因为我们可以把总路程设为“单位1”，这样做无非是设了“单位24”，也就是把所有路程扩大了24倍变成整数，没有任何问题，不论总路程设成多少，结论都是一样的，大家可以验证一下"
+              ],
+              "source_ref": {
+                "asset_id": "asset_1b129bf52f8fcbba",
+                "file_path": "小学数学（教师版）/3-1-1 行程问题基础.教师版.doc",
+                "text_path": "artifacts/normalized/asset_1b129bf52f8fcbba.txt"
+              }
+            }
+          ],
+          "problems": [
+            {
+              "problem_id": "problem_609d368dd0d0b612",
+              "topic_id": "3-1-1",
+              "stem": "如图，从A到B是12千米下坡路，从B到C是8千米平路，从C到D是4千米上坡路.小张步行，下坡的速度都是6千米/小时，平路速度都是4千米/小时，上坡速度都是2千米/小时.问小张从A到D的平均速度是多少?",
+              "answer": "4千米/时",
+              "analysis_steps": [
+                "从A到B的时间为：12÷6=2（小时），从B到C的时间为：8÷4=2（小时），从C到D的时间为：4÷2=2（小时），从A到D的总时间为：2+2+2=6（小时），总路程为：12+8+4=24（千米），那么从A到D 的平均速度为：24÷6=4（千米/时）．"
+              ],
+              "method_tags": [
+                "行程问题"
+              ],
+              "method_tag_source": "direct",
+              "grade_band": "4",
+              "difficulty": "2",
+              "grade_source": "topic_mode",
+              "difficulty_source": "direct",
+              "source_ref": {
+                "asset_id": "asset_1b129bf52f8fcbba",
+                "file_path": "小学数学（教师版）/3-1-1 行程问题基础.教师版.doc",
+                "text_path": "artifacts/normalized/asset_1b129bf52f8fcbba.txt"
+              }
+            }
+          ]
+        },
+        "meta": {
+          "topic_total": 6,
+          "problem_total": 91,
+          "limit": 1
+        },
+        "trace_id": "a8e5ec7af0a94b4384d912383ae87d99"
+      }
+    },
+    {
+      "name": "graph_validation",
+      "ok": true,
+      "status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": {
+          "topic_cycle_detected": false,
+          "chapter_cycle_detected": false,
+          "isolated_topic_count": 0,
+          "isolated_chapter_count": 4,
+          "override_error_count": 0,
+          "override_errors": []
+        },
+        "trace_id": "d6c1f4d6e9c143e7b723894e3ea045ec"
+      }
+    },
+    {
+      "name": "quality_summary",
+      "ok": true,
+      "status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": {
+          "topic_count": 179,
+          "problem_count": 1303,
+          "explanation_count": 179,
+          "problem_quality": {
+            "empty_answer_count": 98,
+            "empty_answer_rate_pct": 7.52,
+            "empty_analysis_count": 251,
+            "empty_analysis_rate_pct": 19.26,
+            "formula_only_answer_count": 403,
+            "formula_only_answer_rate_pct": 30.93,
+            "formula_in_stem_count": 948,
+            "formula_in_stem_rate_pct": 72.76,
+            "missing_grade_band_count": 155,
+            "missing_grade_band_rate_pct": 11.9,
+            "missing_difficulty_count": 21,
+            "missing_difficulty_rate_pct": 1.61,
+            "missing_method_tags_count": 0,
+            "missing_method_tags_rate_pct": 0.0,
+            "grade_source_distribution": {
+              "topic_mode": 750,
+              "direct": 398,
+              "none": 155
+            },
+            "difficulty_source_distribution": {
+              "none": 21,
+              "direct": 1163,
+              "topic_mode": 119
+            },
+            "method_tag_source_distribution": {
+              "direct": 1182,
+              "topic_title": 121
+            }
+          },
+          "topic_quality": {
+            "missing_learning_objectives_count": 126,
+            "missing_learning_objectives_rate_pct": 70.39,
+            "missing_common_mistakes_count": 71,
+            "missing_common_mistakes_rate_pct": 39.66
+          },
+          "explanation_quality": {
+            "missing_summary_count": 0,
+            "missing_summary_rate_pct": 0.0
+          },
+          "top_method_tags": [
+            {
+              "tag": "初赛",
+              "count": 238
+            },
+            {
+              "tag": "希望杯",
+              "count": 221
+            },
+            {
+              "tag": "决赛",
+              "count": 154
+            },
+            {
+              "tag": "迎春杯",
+              "count": 148
+            },
+            {
+              "tag": "六年级",
+              "count": 138
+            },
+            {
+              "tag": "走美杯",
+              "count": 136
+            },
+            {
+              "tag": "华杯赛",
+              "count": 135
+            },
+            {
+              "tag": "五年级",
+              "count": 122
+            },
+            {
+              "tag": "学而思杯",
+              "count": 91
+            },
+            {
+              "tag": "4年级",
+              "count": 86
+            },
+            {
+              "tag": "二试",
+              "count": 78
+            },
+            {
+              "tag": "四年级",
+              "count": 66
+            },
+            {
+              "tag": "6年级",
+              "count": 62
+            },
+            {
+              "tag": "5年级",
+              "count": 62
+            },
+            {
+              "tag": "复赛",
+              "count": 60
+            },
+            {
+              "tag": "一试",
+              "count": 59
+            },
+            {
+              "tag": "1试",
+              "count": 59
+            },
+            {
+              "tag": "列方程解应用题",
+              "count": 58
+            },
+            {
+              "tag": "10分",
+              "count": 56
+            },
+            {
+              "tag": "3年级",
+              "count": 53
+            }
+          ]
+        },
+        "trace_id": "68cee09f44e94c9ca9908a4feb07246a"
+      }
+    }
+  ]
+}

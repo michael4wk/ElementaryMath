@@ -1,0 +1,278 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+1、准确画出接送问题的过程图——标准：每个量在相同时间所走的路程要分清
+2、理解运动过程，抓住变化规律
+3、运用行程中的比例关系进行解题
+ SHAPE  \* MERGEFORMAT 
+校车问题——行走过程描述
+队伍多，校车少，校车来回接送，队伍不断步行和坐车，最终同时到达目的地，即到达目的地的最短时间，不要求证明。
+二、常见接送问题类型
+根据校车速度（来回不同）、班级速度（不同班不同速）、班数是否变化分类为四种常见题型：
+（1）车速不变-班速不变-班数2个（最常见）     （2）车速不变-班速不变-班数多个     （3）车速不变-班速变-班数2个     （4）车速变-班速不变-班数2个
+三、标准解法：
+画图＋列3个式子
+1、总时间=一个队伍坐车的时间+这个队伍步行的时间；
+2、班车走的总路程；
+3、一个队伍步行的时间=班车同时出发后回来接它的时间。
+
+模块一、汽车接送问题——接一个人
+某校和某工厂之间有一条公路，该校下午2时派车去该厂接某劳模来做报告，往返需用1小时．这位劳模在下午1时便离厂步行向学校走来，途中遇到接他的汽车，便立刻上车驶向学校，在下午2时40分到达．问：汽车速度是劳模步行速度的几倍？
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+车下午2时从学校出发，如图，
+
+在EMBED Equation.DSMT4点与劳模相遇，再返回EMBED Equation.DSMT4点，共用时40分钟，由此可知，在从EMBED Equation.DSMT4到EMBED Equation.DSMT4用了EMBED Equation.DSMT4分钟，也就是2时20分在EMBED Equation.DSMT4点与劳模相遇．此时劳模走了1小时20分，也就是80分钟．
+另一方面，汽车走两个EMBED Equation.DSMT4需要1小时，也就是从EMBED Equation.DSMT4点走到EMBED Equation.DSMT4点需要30分钟，而前面说走完EMBED Equation.DSMT4 需要20分钟，所以走完EMBED Equation.DSMT4要10分钟，也就是说EMBED Equation.DSMT4．走完EMBED Equation.DSMT4，劳模用了80分钟；走完EMBED Equation.DSMT4，汽车用了20分钟．劳模用时是汽车的4倍，而汽车行驶距离是劳模的2倍，所以汽车的速度是劳模速度的EMBED Equation.DSMT4倍．
+【点拨】复杂的行程问题总要先分析清楚过程．我们不把本题看作是一道相遇问题，因为在路程和速度都不知道的情况下，解相遇问题需要初中代数的知识．直接求出相遇点EMBED Equation.DSMT4到两端EMBED Equation.DSMT4、EMBED Equation.DSMT4的长度关系，再通过时间的倍数关系，就可以解出本题．解这道题，最重要的就是找出劳模和汽车间路程及所有时间的倍数关系．通过汽车的用时推出 EMBED Equation.DSMT4与EMBED Equation.DSMT4的倍数关系，再得出答案．
+如何避开运用分数和比例，方法有很多．对于这道题，如果认为学校与工厂间相距为3000米，则做出这道题就更容易了：汽车1分钟走EMBED Equation.DSMT4米．EMBED Equation.DSMT4相距1000米，劳模走了80分钟，所以劳模的速度是每分钟走EMBED Equation.DSMT4米，汽车速度是劳模的EMBED Equation.DSMT4倍．而实际上，3000米这个附加条件对结果并不起作用，只是使解题人的思路更加清晰．
+【答案】EMBED Equation.DSMT4倍
+
+张工程师每天早上EMBED Equation.DSMT4点准时被司机从家接到厂里。一天，张工程师早上EMBED Equation.DSMT4点就出了门，开始步行去厂里，在路上遇到了接他的汽车，于是，他就上车行完了剩下的路程，到厂时提前EMBED Equation.DSMT4分钟。这天，张工程师还是早上EMBED Equation.DSMT4点出门，但EMBED Equation.DSMT4分钟后他发现有东西没有带，于是回家去取，再出门后在路上遇到了接他的汽车，那么这次他比平常要提前        分钟到厂。
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+第一次提前EMBED Equation.DSMT4分钟是因为张工程师自己走了一段路，从而导致汽车不需要走那段路的来回，所以汽车开那段路的来回应该是EMBED Equation.DSMT4分钟，走一个单程是EMBED Equation.DSMT4分钟，而汽车每天EMBED Equation.DSMT4点到张工程师家里，所以那天早上汽车是EMBED Equation.DSMT4点EMBED Equation.DSMT4接到工程师的，张工程师走了EMBED Equation.DSMT4分钟，这段路如果是汽车开需要EMBED Equation.DSMT4分钟，所以汽车速度是张工程师步行速度的5倍，第二次，实际上相当于张工程师提前半小时出发，时间是遇到汽车之后的5倍，则张工程师走了EMBED Equation.DSMT4分钟时遇到司机，此时提前EMBED Equation.DSMT4（分钟）。
+【答案】EMBED Equation.DSMT4分钟
+
+李经理的司机每天早上7点30分到达李经理家接他去公司。有一天李经理7点从家里出发去公司，路上遇到从公司按时来接他的车，再乘车去公司，结果比平常早到5分钟。则李经理乘车的速度是步行速度的         倍。（假设车速、步行速度保持不变，汽车掉头与上下车时间忽略不计）
+【考点】行程问题之接送问题           【难度】3星          【题型】填空 【关键词】希望杯，五年级，一试
+因为司机是按时的所以，汽车比平时早到5分钟，实际上是因为少走了两个李经理步行的距离，所以司机接到李经理时，实际上在过2.5分钟就能到李经理家了，时间为7点27分30秒.而李经理步行了27分30秒，汽车2.5分钟行驶的路程，李经理走了27.5分.所以汽车速度是人的11倍.
+【答案】11倍
+
+模块二、汽车接送问题——接两个人或多人
+（一）、车速不变、人速不变
+（难度级别 ※※※）A、B两个连队同时分别从两个营地出发前往一个目的地进行演习，A连有卡车可以装载正好一个连的人员，为了让两个连队的士兵同时尽快到达目的地，A连士兵坐车出发一定时间后下车让卡车回去接B连的士兵，两营的士兵恰好同时到达目的地，已知营地与目的地之间的距离为32千米，士兵行军速度为8千米/小时，卡车行驶速度为40千米每小时，求两营士兵到达目的地一共要多少时间？
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+由于卡车的速度为士兵行军速度的5倍，因此卡车折回时已走的路程是B连士兵遇到卡车时已走路程的3倍，而卡车折回所走的路程是B连士兵遇到卡车时已走路程的2倍，卡车接到B连士兵后，还要行走3倍B连士兵遇到卡车时已走路程才能追上A连士兵，此时他们已经到达了目的地，因此总路程相当于4倍B连士兵遇到卡车时已走路程，所以B连士兵遇到卡车时已走路程为8千米，而卡车的总行程为（3+2+3）×8=64千米，这一段路，卡车行驶了64÷40=8/5小时，即1小时36分钟这也是两营士兵到达目的地所花的时间.
+【答案】1小时36分钟
+
+甲班与乙班学生同时从学校出发去公园，两班的步行速度相等都是EMBED Equation.DSMT4千米/小时，学校有一辆汽车，它的速度是每小时EMBED Equation.DSMT4千米，这辆汽车恰好能坐一个班的学生．为了使两班学生在最短时间内到达公园，设两地相距EMBED Equation.DSMT4千米，那么各个班的步行距离是多少？
+
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+由于汽车速度是甲乙两班步行速度的EMBED Equation.DSMT4倍，设乙班步行EMBED Equation.DSMT4份，汽车载甲班到EMBED Equation.DSMT4点开始返回到EMBED Equation.DSMT4点相遇，这样得出EMBED Equation.DSMT4，汽车从EMBED Equation.DSMT4点返回最终与乙班同时到达EMBED Equation.DSMT4点，汽车又行走了EMBED Equation.DSMT4份，所以总路程分成EMBED Equation.DSMT4份，所以每份EMBED Equation.DSMT4千米，所以各个班的步行距离为EMBED Equation.DSMT4千米．
+【答案】EMBED Equation.DSMT4千米
+
+（难度级别 ※※）甲、乙、丙三个班的学生一起去郊外活动，他们租了一辆大巴，但大巴只够一个班的学生坐，于是他们计划先让甲班的学生步行，乙丙两班的学生步行，甲班学生搭乘大巴一段路后，下车步行，然后大巴车回头去接乙班学生，并追赶上步行的甲班学生，再回头载上丙班学生后一直驶到终点，此时甲、乙两班也恰好赶到终点，已知学生步行的速度为5千米/小时，大巴车的行驶速度为55千米/小时，出发地到终点之间的距离为8千米，求这些学生到达终点一共所花的时间.
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+如图所示：
+
+虚线为学生步行部分，实线为大巴车行驶路段，由于大巴车的速度是学生的11倍，所以大巴车第一次折返点到出发点的距离是乙班学生搭车前步行距离的6倍，如果将乙班学生搭车前步行距离看作是一份的话，大巴车第一次折返点到出发点的距离为6份，大巴车第一次折返到接到乙班学生又行驶了5分距离，……如此大巴车一共行驶了6+5+6+5+6=28份距离，而A到F的总距离为8份，所以大巴车共行驶了28千米，所花的总时间为28/55小时.
+【答案】28/55小时
+
+海淀区劳动技术学校有EMBED Equation.DSMT4名学生到离学校EMBED Equation.DSMT4千米的郊区参加采摘活动，学校只有一辆限乘EMBED Equation.DSMT4人的中型面包车．为了让全体学生尽快地到达目的地．决定采取步行与乘车相结合的办法．已知学生步行的速度是每小时EMBED Equation.DSMT4千米，汽车行驶的速度是每小时EMBED Equation.DSMT4千米．请你设计一个方案，使全体学生都能到达目的地的最短时间是多少小时?
+
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+由于EMBED Equation.DSMT4名学生要分EMBED Equation.DSMT4次乘车，分别命名为甲、乙、丙、丁四组，且汽车的速度是步行速度的EMBED Equation.DSMT4倍，乙组步行EMBED Equation.DSMT4份路程，则汽车载甲组行驶EMBED Equation.DSMT4份，放下甲组开始返回与乙组的学生相遇，汽车载乙组追上甲组，把乙组放下再返回，甲组也步行了EMBED Equation.DSMT4份，丙组、丁组步行的路程和乙组相同，如图所示，所以全程为EMBED Equation.DSMT4份，恰好是EMBED Equation.DSMT4千米，其中汽车行驶了EMBED Equation.DSMT4千米，共步行了EMBED Equation.DSMT4千米，所以全体学生到达目的地的最短时间为EMBED Equation.DSMT4（小时）
+【答案】EMBED Equation.DSMT4小时
+
+甲、乙两班学生到离校39千米的博物馆参观，但只有一辆汽车，一次只能乘坐一个班的学生．为了尽快到达博物馆，两个班商定，由甲班先坐车，乙班先步行，同时出发，甲班学生在途中某地下车后步行去博物馆，汽车则从某地立即返回去接在途中步行的乙班学生．如果甲、乙两班学生步行速度相同，汽车速度是他们步行速度的10倍，那么汽车应在距博物馆多少千米处返回接乙班学生，才能使两班同时到达博物馆？
+
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+如图所示，当甲班乘车至EMBED Equation.DSMT4处后下车，然后步行至博物馆，车则返回去接乙班，至EMBED Equation.DSMT4处时恰好与乙班相遇，然后载着乙班直接到博物馆．
+由于甲、乙两班学生要同时到达，他们所用的时间是相同的，而总路程也相同，那么他们乘车的路程和步行的路程也分别相同，也就是说图中EMBED Equation.DSMT4与EMBED Equation.DSMT4相等．又乙班走完EMBED Equation.DSMT4时，汽车行驶了从EMBED Equation.DSMT4到EMBED Equation.DSMT4再从EMBED Equation.DSMT4到EMBED Equation.DSMT4这一段路程，由于汽车速度是他们步行速度的10倍，所以汽车走的这段路程是EMBED Equation.DSMT4的10倍，可得EMBED Equation.DSMT4是EMBED Equation.DSMT4的EMBED Equation.DSMT4倍，那么全程EMBED Equation.DSMT4是EMBED Equation.DSMT4的EMBED Equation.DSMT4倍，也是EMBED Equation.DSMT4的EMBED Equation.DSMT4倍，所以EMBED Equation.DSMT4为EMBED Equation.DSMT4千米，即汽车应在距博物馆6千米处返回接乙班．
+【答案】6千米
+
+（难度级别 ※※※※）甲、乙两班学生到离校24千米的飞机场参观，但只有一辆汽车，一次只能乘坐一个班的学生．为了尽快到达飞机场，两个班商定，由甲班先坐车，乙班先步行，同时出发，甲班学生在途中某地下车后步行去飞机场，汽车则从某地立即返回接在途中步行的乙班学生．如果甲、乙两班学生步行速度相同，汽车速度是他们步行速度的7倍，那么汽车应在距飞机场多少千米处返回接乙班学生，才能使两班同时到达飞机场?
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+设学生步行时速度为“1”，那么汽车的速度为“7”，有如下示意图．
+
+我们让甲班先乘车，那么当乙班步行至距学校l处，甲班已乘车至距学校7l处．此时甲班下车步行，汽车往回行驶接乙班，汽车、乙班将相遇．汽车、乙班的距离为7l-l=6l，两者的速度和为7+1=8，所需时间为6l÷8=0.75l，这段时间乙班学生又步行0.75l的路程，所以乙班学生共步行l+0.75l=1.75l后乘车而行．应要求甲、乙班同时出发、同时到达，且甲、乙两班步行的速度相等，所以甲班也应在步行1.75l路程后达到飞机场，有甲班经过的全程为7l+1.75l=8.75 l，应为全程．所以有7l=24÷8.75×7=19.2千米，即在距学校19.2千米的地方甲班学生下车步行，此地距飞机场24-19.2=4.8千米．即汽车应在距飞机场4.8千米的地方返回接乙班学生，才能使两班同时到达飞机场．
+【答案】4.8千米
+
+ ( “迎春杯”六年级初赛)EMBED Equation.DSMT4、EMBED Equation.DSMT4两地相距EMBED Equation.DSMT4千米．有一支游行队伍从EMBED Equation.DSMT4出发，向EMBED Equation.DSMT4匀速前进；当游行队伍队尾离开EMBED Equation.DSMT4时，甲、乙两人分别从EMBED Equation.DSMT4、EMBED Equation.DSMT4两地同时出发．乙向EMBED Equation.DSMT4步行；甲骑车先追向队头，追上队头后又立即骑向队尾，到达队尾后再立即追向队头，追上队头后又立即骑向队尾……当甲第EMBED Equation.DSMT4次追上队头时恰与乙相遇在距EMBED Equation.DSMT4地EMBED Equation.DSMT4千米处；当甲第EMBED Equation.DSMT4次追上队头时，甲恰好第一次到达EMBED Equation.DSMT4地，那么此时乙距EMBED Equation.DSMT4地还有__________千米．
+
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+整个行程如图所示．设甲第一次追上队头与第二次追上队头时队伍所行的距离为EMBED Equation.DSMT4千米，第一次从队头到队尾时甲所行距离为EMBED Equation.DSMT4千米．由于每一次甲都是从队尾追上队头，再从队头回到队尾，追上队头是一个追及过程，回到队尾是一个相遇过程，而追及、相遇的路程都是队伍的长度，队伍的长度是不变的，所以每一次追及、相遇的时间也是不变的，所以每一次甲追上队头到下一次甲追上队头这段时间内队伍所行的路程(即图中相邻两条虚线之间的距离)都是相同的，而每一次从队头到队尾时甲所行的路程也都是相同的．
+根据题意，甲第5次追上队头时距EMBED Equation.DSMT4地5.6千米，第7次追上队头时恰好到达EMBED Equation.DSMT4地，所以EMBED Equation.DSMT4；从图中可以看出，EMBED Equation.DSMT4，所以：EMBED Equation.DSMT4，解得EMBED Equation.DSMT4．
+甲第5次追上队头时恰与乙相遇在距EMBED Equation.DSMT4地5.6千米处，甲第5次追上队头时共行了
+EMBED Equation.DSMT4千米，根据时间一定，速度比等于路程之比，可得
+EMBED Equation.DSMT4．
+从甲第5次追上队头到甲第7次追上队头，甲共行了EMBED Equation.DSMT4千米，所以这段时间内乙行了EMBED Equation.DSMT4千米，所以此时乙距EMBED Equation.DSMT4地还有EMBED Equation.DSMT4(千米)．
+【答案】EMBED Equation.DSMT4千米
+
+ EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地相距 EMBED Equation.DSMT4  千米．有一支游行队伍从 EMBED Equation.DSMT4  出发，向 EMBED Equation.DSMT4  匀速前进；当游行队伍队尾离开 EMBED Equation.DSMT4  时，甲、乙两人分别从 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地同时出发．乙向 EMBED Equation.DSMT4  步行；甲骑车先追向队头，追上队头后又立即骑向队尾，到达队尾后再立即追向队头，追上队头后又立即骑向队尾……当甲第5次追上队头时恰与乙相遇在距 EMBED Equation.DSMT4  地5.6千米处；当甲第7次追上队头时，甲恰好第一次到达 EMBED Equation.DSMT4  地，那么此时乙距 EMBED Equation.DSMT4  地还有______千米．
+【考点】行程问题之接送问题           【难度】3星          【题型】填空 
+【关键词】迎春杯，六年级，初赛
+
+设第一次追上队头与第二次追上队头时队伍所行的距离为 EMBED Equation.DSMT4  千米，从队头到队尾时甲所行距离为 EMBED Equation.DSMT4  千米．则有： EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  ．所以有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，因为 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  (千米)
+【答案】EMBED Equation.DSMT4千米
+
+
+（二）车速不变、人速变
+（难度级别 ※※）甲班与乙班学生同时从学校出发去公园，甲班步行的速度是每小时4千米，乙班步行的速度是每小时3千米。学校有一辆汽车，它的速度是每小时48千米，这辆汽车恰好能坐一个班的学生。为了使两班学生在最短时间内到达公园，那么甲班学生与乙班学生需要步行的距离之比是多少千米？
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+方法一：不妨设乙班学生先步行，汽车将甲班学生送至A地后返回，在B处接到乙班学生，最后汽车与乙班学生同时到达公园，如图：
+
+EMBED Equation.DSMT4  \* MERGEFORMAT：EMBED Equation.DSMT4  \* MERGEFORMAT=1：12，EMBED Equation.DSMT4  \* MERGEFORMAT：EMBED Equation.DSMT4  \* MERGEFORMAT=1：16。乙班从C至B时，汽车从C~A~B，则两者路程之比为1：16，不妨设CB=1，则C~A~B=16，CA=（1＋16）÷2=8.5，则有CB：BA=1：7.5；类似设AD=1，分析可得AD：BA=1：5.5，综合得CB：BA：AD=22：165：30，说明甲乙两班步行的距离之比是15：11。
+方法二：如图，假设实线代表汽车行驶的路线，虚线代表甲班和乙班行走的路线，假设乙班行驶EMBED Equation.DSMT4份到达EMBED Equation.DSMT4点，则汽车行驶EMBED Equation.DSMT4份到达EMBED Equation.DSMT4点，汽车与乙班共行驶EMBED Equation.DSMT4份在EMBED Equation.DSMT4点相遇，其中乙班步行了EMBED Equation.DSMT4份，同时甲班步行了EMBED Equation.DSMT4份，此时汽车与甲班相差EMBED Equation.DSMT4份，这样甲班还需步行EMBED Equation.DSMT4份，所以甲班与乙班步行的路程比为EMBED Equation.DSMT4
+方法三：由于汽车速度是甲班速度的EMBED Equation.DSMT4倍，是乙班速度的EMBED Equation.DSMT4倍，设乙班步行EMBED Equation.DSMT4份，则汽车载甲班学生到EMBED Equation.DSMT4点返回与乙班相遇，共行EMBED Equation.DSMT4份，所以EMBED Equation.DSMT4，类似的设甲班步行EMBED Equation.DSMT4份，则汽车从EMBED Equation.DSMT4点返回到EMBED Equation.DSMT4点又与甲班同时到达EMBED Equation.DSMT4点，所以,EMBED Equation.DSMT4，所以EMBED Equation.DSMT4,所以甲班与乙班步行的路程比为EMBED Equation.DSMT4
+【答案】EMBED Equation.DSMT4
+
+（三）、车速变、人速不变
+甲、乙两班同学到42千米外的少年宫参加活动，但只有一辆汽车，且一次只能坐一个班的同学，已知学生步行速度相同为EMBED Equation.DSMT4千米／小时，汽车载人速度是EMBED Equation.DSMT4千米／小时，空车速度是EMBED Equation.DSMT4千米/小时．如果要使两班同学同时到达，且到达时间最短，那么这个最短时间是多少？
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+
+
+行车路线如图所示，设甲、乙两班步行的路程为1，车开出EMBED Equation.DSMT4后返回接乙班．
+由车与乙相遇的过程可知：EMBED Equation.DSMT4，解得EMBED Equation.DSMT4，
+因此，车开出EMBED Equation.DSMT4千米后，放下甲班回去接乙班，甲班需步行EMBED Equation.DSMT4千米，共用EMBED Equation.DSMT4小时．
+【答案】EMBED Equation.DSMT4小时
+
+有两个班的小学生要到少年宫参加活动，但只有一辆车接送，第一班的学生坐车从学校出发的同时，第二班学生开始步行；车到途中某处，让第一班学生下车步行，车立刻返回接第二班学生上车并直接开往少年宫，学生步行速度为每小时4公里，载学生时车速每小时40公里，空车时车速为每小时50公里．问：要使两班学生同时到达少年宫，第一班学生要步行全程的几分之几？
+【考点】行程问题之接送问题           【难度】5星          【题型】解答 
+由于两个班的同学都是一段路步行一段路乘车，而乘车的速度比步行快，中间又没有停留，因此要同时到达少年宫，两个班的同学步行的路程一定要一样长．如图所示，
+
+图中A是学校，B是少年宫，C是第一班学生下车的地点，D是第二班学生上车的地点．由上所述AD和CB一样长，设第一班同学下车时，第二班同学走到E处．由于载学生时车速为每小时40公里，而步行的速度为每小时4公里，是车速的1/10，因而AE是AC的1/10．在第一班学生下车后，汽车从C处迎着第二班学生开，车速是每小时50公里，而第二班学生从E处以每小时4公里的速度向前走，汽车和第二班学生在D点相遇．这是普通的行程问题，不难算出ED是EC的EMBED Equation.DSMT4.由于EC是AC的1-EMBED Equation.DSMT4=EMBED Equation.DSMT4，可见ED是AC的EMBED Equation.DSMT4．这样AD就是AC的EMBED Equation.DSMT4．又AD=CB，AD就是AB的EMBED Equation.DSMT4，故第一班学生步行了全程的EMBED Equation.DSMT4．
+【答案】EMBED Equation.DSMT4
+
+某学校学生计划乘坐旅行社的大巴前往郊外游玩，按照计划，旅行社的大巴准时从车站出发后能在约定时间到达学校，搭载满学生在预定时间到达目的地，已知学校的位置在车站和目的地之间，大巴车空载的时候的速度为EMBED Equation.DSMT4千米/小时，满载的时候速度为EMBED Equation.DSMT4千米/小时，由于某种原因大巴车晚出发了EMBED Equation.DSMT4分钟，学生在约定时间没有等到大巴车的情况下，步行前往目的地，在途中搭载上赶上来的大巴车，最后比预定时间晚了EMBED Equation.DSMT4分钟到达目的地，求学生们的步行速度．
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+大巴车空载的路程每多EMBED Equation.DSMT4千米，满载的路程就会少EMBED Equation.DSMT4千米，全程所花的时间就会少EMBED Equation.DSMT4小时EMBED Equation.DSMT4分钟，现在大巴车比原计划全程所花时间少了EMBED Equation.DSMT4分钟，所以，所以大巴车空载的路程比原计划多了EMBED Equation.DSMT4千米，也就是说，大巴车抵达学校后又行驶了EMBED Equation.DSMT4千米才接到学生，此时学生们已经出发了EMBED Equation.DSMT4分钟即EMBED Equation.DSMT4小时，所以学生们的步行速度为EMBED Equation.DSMT4千米/小时．
+【答案】EMBED Equation.DSMT4千米/小时
+
+（四）、车速变、人速变
+（台湾小学数学竞赛选拔赛决赛）甲、乙二人由EMBED Equation.DSMT4地同时出发朝向EMBED Equation.DSMT4地前进，EMBED Equation.DSMT4、EMBED Equation.DSMT4两地之距离为EMBED Equation.DSMT4千米．甲步行之速度为每小时EMBED Equation.DSMT4千米，乙步行之速度为每小时EMBED Equation.DSMT4千米．现有一辆自行车，甲骑车速度为每小时EMBED Equation.DSMT4千米，乙骑车的速度为每小时EMBED Equation.DSMT4千米．出发时由甲先骑车，乙步行，为了要使两人都尽快抵达目的地，骑自行车在前面的人可以将自行车留置在途中供后面的人继续骑．请问他们从出发到最后一人抵达目的地最少需要多少小时？
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+设甲骑车至离EMBED Equation.DSMT4地EMBED Equation.DSMT4千米处后停车，且剩余EMBED Equation.DSMT4千米改为步行，则乙步行了EMBED Equation.DSMT4千米后，剩余EMBED Equation.DSMT4千米改为骑车．因要求同时出发且尽速抵达目的地，故花费的时间应该相同，
+因此可得：EMBED Equation.DSMT4，解得EMBED Equation.DSMT4．
+故共花费了EMBED Equation.DSMT4小时．
+【答案】EMBED Equation.DSMT4小时
+
+模块三、汽车接送问题——借车赶路问题
+（难度级别 ※※※※※）三个人同时前往相距30千米的甲地，已知三人行走的速度相同，都是5千米每小时；现在还有一辆自行车，但只能一个人骑，已知骑车的速度为10千米每小时。现先让其中一人先骑车，到中途某地后放车放下，继续前进；第二个人到达后骑上再行驶一段后有放下让最后那人骑行，自己继续前进，这样三人同时到达甲地。问，三人花的时间各为多少？
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+由于每人的速度相同，所以每人行走的路程相同，骑车的路程也要相同，这样每人骑车的距离都是1/3，所以时间就是20÷5+10÷10=5小时
+【答案】5小时
+
+(全国“华罗庚金杯”少年数学邀请赛)EMBED Equation.DSMT4、EMBED Equation.DSMT4两地相距120千米，已知人的步行速度是每小时5千米，摩托车的行驶速度是每小时50千米，摩托车后座可带一人．问：有三人并配备一辆摩托车从EMBED Equation.DSMT4地到EMBED Equation.DSMT4地最少需要多少小时？(保留—位小数)
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+本题实际上是一个接送问题，要想使所用的时间最少，三人应同时到达．假设这三人分别为甲、乙、丙．由于摩托车只可同时带两个人，所以可安排甲一直骑摩托车，甲先带乙到某一处，丙则先步行，甲将乙带到后再折回去接丙，乙开始步行，最后三人同时到达．要想同时到达，则乙与丙步行的路程和乘车的路程都应相等．如下图所示．
+
+由于丙从EMBED Equation.DSMT4从走到EMBED Equation.DSMT4的时间内甲从EMBED Equation.DSMT4到EMBED Equation.DSMT4再回到EMBED Equation.DSMT4，相同的时间内二者所行的路程之比等于速度的比，而两者的速度比为EMBED Equation.DSMT4，所以EMBED Equation.DSMT4，全程EMBED Equation.DSMT4，所以从EMBED Equation.DSMT4地到EMBED Equation.DSMT4地所用的时间为：EMBED Equation.DSMT4(小时)．
+【答案】EMBED Equation.DSMT4小时
+
+兄弟两人骑马进城，全程51千米。马每时行12千米，但只能由一个人骑。哥哥每时步行5千米，弟弟每时步行4千米。两人轮换骑马和步行，骑马者走过一段距离就下鞍拴马（下鞍拴马的时间忽略不计），然后独自步行。而步行者到达此地，再上马前进。若他们早晨6点动身，则何时能同时到达城里？
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+设哥哥步行了x千米，则骑马行了（51－x）千米。而弟弟正好相反，步行了（51－x）千米，骑马行x千米。由哥哥骑马与步行所用的时间之和与弟弟相等，可列出方程EMBED Equation.DSMT4，解得x=30，所以两人用的时间同为EMBED Equation.DSMT4（小时），早晨6点动身，下午1点45分到达。
+【答案】1点45分
+
+（难度级别 ※）甲乙两人同时从学校出发去距离33千米外的公园，甲步行的速度是每小时4千米，乙步行的速度是每小时3千米。他们有一辆自行车，它的速度是每小时5千米，这辆车只能载一个人，所以先让其中一人先骑车到中途，然后把车放下之后继续前进，等另一个人赶到放车的位置后再骑车赶去，这样使两人同时到达公园。那么放车的位置距出发点多少千米？
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+根据两人到达公园所花时间相等这一等量关系可列出方程，设放车的位置距出发点x千米，如果甲先骑车,方程为：EMBED Equation.DSMT4，如果乙先骑车,方程为：EMBED Equation.DSMT4，两条方程分别解得x=9和x=24，所以有9千米和24千米两种答案.
+【答案】9千米和24千米
+
+EMBED Equation.DSMT4、EMBED Equation.DSMT4两人同时自甲地出发去乙地，EMBED Equation.DSMT4、EMBED Equation.DSMT4步行的速度分别为EMBED Equation.DSMT4米/分、EMBED Equation.DSMT4米/分，两人骑车的速度都是EMBED Equation.DSMT4米/分，EMBED Equation.DSMT4先骑车到途中某地下车把车放下，立即步行前进；EMBED Equation.DSMT4走到车处，立即骑车前进，当超过EMBED Equation.DSMT4一段路程后，把车放下，立即步行前进，两人如此继续交替用车，最后两人同时到达乙地，那么EMBED Equation.DSMT4从甲地到乙地的平均速度是        米/分．
+在整个行程中，车是从甲地到乙地，恰好过了一个全程，所以EMBED Equation.DSMT4、EMBED Equation.DSMT4两人步行的路程合起来也恰好是一个全程．而EMBED Equation.DSMT4步行的路程加上EMBED Equation.DSMT4骑车的路程也是一个全程，所以EMBED Equation.DSMT4步行的路程等于EMBED Equation.DSMT4骑车的路程，EMBED Equation.DSMT4骑车的路程等于EMBED Equation.DSMT4步行的路程．
+设EMBED Equation.DSMT4步行EMBED Equation.DSMT4米，骑车EMBED Equation.DSMT4米，那么EMBED Equation.DSMT4步行EMBED Equation.DSMT4米，骑车EMBED Equation.DSMT4米．由于两人同时到达，故所用时间相同，得：EMBED Equation.DSMT4，可得EMBED Equation.DSMT4．
+不妨设EMBED Equation.DSMT4步行了200米，那么骑车的路程为300米，所以EMBED Equation.DSMT4从甲地到乙地的平均速度是
+EMBED Equation.DSMT4(米/分)．
+【答案】EMBED Equation.DSMT4
+
+A、B两地相距30千米，甲乙丙三人同时从A到B，而且要求同时到达。现在有两辆自行车，但不许带人，但可以将自行车放在中途某处，后来的人可以接着骑。已知骑自行车的平均速度为每小时20千米，甲步行的速度是每小时5千米，乙和丙每小时4千米，那么三人需要多少小时可以同时到达？
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+因为乙丙步行速度相等，所以他们两人步行路程和骑车路程应该是相等的。对于甲因为他步行速度快一些，所以骑车路程少一点，步行路程多一些。现在考虑甲和乙丙步行路程的距离。甲多步行1千米要用EMBED Equation.DSMT4小时，乙多骑车1千米用EMBED Equation.DSMT4小时，甲多用EMBED Equation.DSMT4EMBED Equation.DSMT4小时。甲步行1千米比乙少用EMBED Equation.DSMT4小时，所以甲比乙多步行的路程是乙步行路程的：EMBED Equation.DSMT4.
+　     　这样设乙丙步行路程为3份，甲步行4份。如下图安排：
+
+这样甲骑车行骑车的EMBED Equation.DSMT4，步行EMBED Equation.DSMT4. 所以时间为：EMBED Equation.DSMT4小时。
+【答案】EMBED Equation.DSMT4小时
+
+设有甲、乙、丙三人，他们步行的速度相同，骑车的速度也相同，骑车的速度是步行速度的EMBED Equation.DSMT4倍．现甲从EMBED Equation.DSMT4地去EMBED Equation.DSMT4地，乙、丙从EMBED Equation.DSMT4地去EMBED Equation.DSMT4地，双方同时出发．出发时，甲、乙为步行，丙骑车．途中，当甲、丙相遇时，丙将车给甲骑，自己改为步行，三人仍按各自原有方向继续前进；当甲、乙相遇时，甲将车给乙骑，自己重又步行，三人仍按各自原有方向继续前进．问：三人之中谁最先达到自己的目的地？谁最后到达目的地？
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+由于每人的步行速度和骑车速度都相同，所以，要知道谁先到、谁后到，只要计算一下各人谁骑行最长，谁骑行最短．将整个路程分成EMBED Equation.DSMT4份，甲、丙最先相遇，丙骑行EMBED Equation.DSMT4份；甲先步行了EMBED Equation.DSMT4份，然后骑车与乙相遇，骑行EMBED Equation.DSMT4份；乙步行EMBED Equation.DSMT4份，骑行EMBED Equation.DSMT4份，可知，丙骑行的最长，甲骑行的最短，所以，丙最先到，甲最后到．
+【答案】丙最先到，甲最后到
+
+模块四、汽车接送问题——策略问题
+两辆同一型号的汽车从同一地点同时出发，沿同一方向同速直线前进，每车最多能带20桶汽油（连同油箱内的油）。每桶汽油可以使一辆汽车前进60千米，两车都必须返回出发地点，两辆车均可借对方的油，为了使一辆车尽可能地远离出发点，那么这辆车最远可达到离出发点多少千米远的地方？
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+甲乙两车从同一地点同时出发，沿同一方向同速直线前进， 每车最多能带20桶汽油（连同油箱内的油）。每桶汽油可以使一辆汽车前进60千米，两车都必须返回出发地点。为了使一辆车（例如甲车）尽可能地远离出发点，则甲、乙车同行，各耗掉a桶油时，乙车停下，并把甲车加满油（恰好加a桶），还需留下2a桶油供甲车返回到此地时补给甲（a桶）和自己（a桶）供返回原地时用所以乙车20桶=4a，a=5桶即甲车共向乙车最多借2a=10桶油 所以甲车最远可达到离出发点（10+20）*60/2=900千米远的地方必须返回
+【答案】900千米
+
+（难度等级 ※※※※）在一个沙漠地带，汽车每天行驶200千米，每辆汽车载运可行驶24天的汽油．现有甲、乙两辆汽车同时从某地出发，并在完成任务后，沿原路返回．为了让甲车尽可能开出更远的距离，乙车在行驶一段路程后，仅留下自己返回出发地的汽油，将其他的油给甲车．求甲车所能开行的最远距离．
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+3200
+【答案】 EMBED Equation.DSMT4  
+
+一个旅游者于是10时15分从旅游基地乘小艇出发，务必在不迟于当日13时返回。已知河水速度为1.4千米/小时，小艇在静水中的速度为3千米/小时，如果旅游者每过30分钟就休息15分钟，不靠岸，只能在某次休息后才返回，那么他从旅游基地出发乘艇走过的最大距离是＿＿＿＿千米。
+【考点】行程问题之接送问题           【难度】4星          【题型】填空 
+先逆水行30分，行（3-1.4）*30/60=0.8千米。休息15分。艇退1.4*15/60=0.35千米。再逆水行30分，行（3-1.4）*30/60=0.8千米。休息15分。艇退1.4*15/60=0.35千米。艇距基地(0.8-0.35)*3=1.35千米。1.35/(3+1.4)=0.31小时=19分。共用时：（30+15）*3+19=154分。是12时49分。共行路程：（0.8+0.35）*3+(0.8-0.35)*3=0.8*6=4.8千米 。
+【答案】4.8千米
+
+某沙漠通讯班接到紧急命令，让他们火速将一份情报送过沙漠。现在已知沙漠通讯班成员只有靠步行穿过沙漠，每个人步行穿过沙漠的时间均为12天，而每个人最多只能带8天的食物，请问，在假定每个人饭量大小相同，且所能带的食物相同的情况下，沙漠通讯班能否完成任务？如果能，那么最少需要几人才能将情报送过沙漠，怎么送？
+【考点】行程问题之接送问题           【难度】5星          【题型】填空 
+能，最少需要3人。送法如下：3人同时出发，同吃第一个人的食物，共同走2天后，第一人只剩2天的食物，正好够他返回时吃；第二人和第三人再共同前进2天，吃第二人的食物，这样第二人只剩4天的食物，又正好够他返回时吃这样，第三人还有8天的路程，正好他还有8天的食物，因此便可以突起沙漠，完成送情报的任务。
+【答案】能，最少需要3人
+
+甲、乙两人要到沙漠中探险，他们每天向沙漠深处走20千米，已知每人最多可携带一个人24天的食物和水．⑴ 如果不准将部分食物存放在途中，问其中一人最远可以深人沙漠多少千米（当然要求二人最后返回出发点）？⑵ 如果可以将部分食物存放于途中以备返回时取用，情况又怎样呢？
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+⑴ 怎么才能让其中一人走得最远呢？只能是另一人在某个地方将自己的部分食物和水（注意必须留足自己返回所需）补给第一个人，让他仍然有24天的食物和水，这样才能走得最远．
+
+如图所示，不妨设甲从A点出发，走了x天后到达B点处返回，甲在B点处留足返回时所需x天食物和水后，将其余食物与水全部给乙补足为24天．此时相当于甲的24天的食物和水供甲走2个x天和乙走1个x天，故有EMBED Equation.DSMT4（天）．所以甲应在第8天从B点处返回A．因为乙在B点已经消耗了8天的食物和水，但同时在B点甲又给乙补充了8天的食物和水，所以此时乙身上仍然携带有24天的食物和水．由于乙也要返回，所以乙最多只能往前走EMBED Equation.DSMT4（天）的路程到达C处，就必须返回．所以其中的一人最远只能深入沙漠EMBED Equation.DSMT4（千米）．
+（2） 如果允许存放部分食物和水于途中，则同上面分析类似，甲走了y天后不仅要补足乙的食物和水，还要存足y天的供乙返回时消耗的食物和水．
+
+即甲的24天的食物和水供甲、乙各走2个y天，所以EMBED Equation.DSMT4（天）．此时的乙不仅补足了24天的食物和水，而且甲还给他预留了返回的食物和水．所以乙就可以带着身上24天的食物和水继续往沙漠深处走12天后再返回，取得甲事先存放的食物和水后，然后再返回出发地．因此，乙共可深入沙漠EMBED Equation.DSMT4（千米）．
+【答案】EMBED Equation.DSMT4千米
+
+有5位探险家计划横穿沙漠．他们每人驾驶一辆吉普车，每辆车最多能携带可供一辆车行驶312千米的汽油．显然，5个人不可能共同穿越500千米以上的沙漠．于是，他们计划在保证其余车完全返回出发点的前提下，让一辆车穿越沙漠，当然实现这一计划需要几辆车相互借用汽油．问：穿越沙漠的那辆车最多能穿越多宽的沙漠？
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+首先得给这5辆吉普车设计一套行驶方案，而这个方案的核心就在于：其中的4辆车只是燃料供给车，它们的作用就是在保证自己能够返回的前提下，为第5辆车提供足够的燃料．
+
+如图所示，5辆车一起从A点出发，设第1辆车到B点时留下足够自己返回A点的汽油，剩下的汽油全部转给其余4辆车．注意，B点的最佳选择应该满足刚好使这4辆车全部加满汽油．
+剩下的4辆车继续前进，到C点时第2辆车留下够自己返回A点的汽油，剩下的汽油全部转给其余3辆车，使它们刚好加满汽油．
+剩下的3辆车继续前进……到E点时，第4辆车留下返回A点的汽油，剩下的汽油转给第5辆车．此时，第5辆车是加满汽油的，还能向前行驶312千米．
+以这种方式，第5辆车能走多远呢？我们来算算．
+5辆车到达B点时，第1辆车要把另外4辆车消耗掉的汽油补上，加上自己往返AB的汽油，所以应把行驶312千米的汽油分成6份，2份自己往返AB，4份给另外4辆车每辆加1份，刚好使这4辆车都加满汽油．因此AB的长为：EMBED Equation.DSMT4（千米）．
+接下来，就把5辆车的问题转化为4辆车的问题．4辆车从B点继续前进，到达C点时，4辆车共消耗掉4份汽油，再加上第2辆车从C经B返回A，所以第2辆车仍然要把汽油分成6等份，3份供自己从B到C，再从C返回A，3份给另外3辆车加满汽油，由此知BC长也是52千米．同样的道理，EMBED Equation.DSMT4（千米）．
+所以第5辆车最远能行驶：EMBED Equation.DSMT4（千米）．
+【答案】EMBED Equation.DSMT4千米
+
+（小学数学奥林匹克决赛试题）科学考察队的一辆越野车需要穿越一片全程大于EMBED Equation.DSMT4千米的沙漠，但这辆车每次装满汽油最多只能驶EMBED Equation.DSMT4千米，队长想出一个方法，在沙漠中设一个储油点EMBED Equation.DSMT4，越野车装满油从起点EMBED Equation.DSMT4出发，到储油点EMBED Equation.DSMT4时从车中取出部分油放进EMBED Equation.DSMT4储油点，然后返回出发点，加满油后再开往EMBED Equation.DSMT4，到EMBED Equation.DSMT4储油点时取出储存的油放在车上，从EMBED Equation.DSMT4出发点到达终点EMBED Equation.DSMT4．用队长想出的方法，越野车不用其他车帮助就完成了任务，那么，这辆越野车穿越这片沙漠的最大行程是         千米．
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+汽车从起点EMBED Equation.DSMT4行驶到EMBED Equation.DSMT4点时，首先要消耗掉往返EMBED Equation.DSMT4间路程的油，留下的油要保证再次到EMBED Equation.DSMT4点时油箱还是满的，所以这辆越野车穿越这片沙漠的最大行程是EMBED Equation.DSMT4（千米）
+【答案】EMBED Equation.DSMT4千米
+
+ (北大附中“资优博雅杯”数学竞赛)有一只小猴子在深山中发现了一片野香蕉园，它一共摘了EMBED Equation.DSMT4根香蕉，然后要走EMBED Equation.DSMT4米才能到家，如果它每次最多只能背EMBED Equation.DSMT4根香蕉，并且它每走EMBED Equation.DSMT4米就要吃掉一根香蕉，那么，它最多可以把    根香蕉带回家？
+【考点】行程问题之接送问题           【难度】3星          【题型】解答 
+首先，猴子背着100根香蕉直接回家，会怎样？在到家的时候，猴子刚好吃完最后一根香蕉，其他200根香蕉白白浪费了！折返，求最值问题，我们需要设计出一个最优方案．EMBED Equation.DSMT4．猴子必然要折返3次来拿香蕉．我们为猴子想到一个绝妙的主意：在半路上储存一部分香蕉．猴子的路线：
+
+这两个储存点EMBED Equation.DSMT4与EMBED Equation.DSMT4就是猴子放置香蕉的地方，怎么选呢？最好的情况是：
+(一)当猴子第①③④次回去时，都能在这里拿到足够到野香蕉园的香蕉．
+(二)当猴子第②④次到达储存点时，都能将之前路上消耗的香蕉补充好(即身上还有100个)
+(三)EMBED Equation.DSMT4点同上．
+EMBED Equation.DSMT4的距离为EMBED Equation.DSMT4，路上消耗EMBED Equation.DSMT4个香蕉．EMBED Equation.DSMT4的距离为EMBED Equation.DSMT4，路上消耗EMBED Equation.DSMT4个香蕉．
+猴子第一次到达EMBED Equation.DSMT4点，还有EMBED Equation.DSMT4个香蕉，回去又要消耗EMBED Equation.DSMT4个，只能留下EMBED Equation.DSMT4个香蕉．这EMBED Equation.DSMT4个香蕉将为猴子补充②③④次路过时的消耗和需求，每次都是EMBED Equation.DSMT4个，则EMBED Equation.DSMT4．EMBED Equation.DSMT4米，猴子将在EMBED Equation.DSMT4留下60个香蕉．
+那么当猴子②次到达EMBED Equation.DSMT4时，身上又有了100个香蕉，到⑤时还有EMBED Equation.DSMT4个，从⑤回③需要EMBED Equation.DSMT4个，可在EMBED Equation.DSMT4留下EMBED Equation.DSMT4个，用于⑥时补充从④到⑥的消耗EMBED Equation.DSMT4个．则：EMBED Equation.DSMT4．
+至此，猴子到家时所剩的香蕉为：EMBED Equation.DSMT4．
+因为猴子每走10米才吃一个香蕉，走到家时最后一个10米才走了EMBED Equation.DSMT4，所以还没有吃香蕉，应该还剩下54个香蕉．
+方法二：小猴子背EMBED Equation.DSMT4根香蕉最多走EMBED Equation.DSMT4米，那么EMBED Equation.DSMT4根香蕉需要有分三次背，就应有两个存储点如上图所示，所以还剩下的香蕉为EMBED Equation.DSMT4因为猴子每走10米才吃一个香蕉，走到家时最后一个10米才走了EMBED Equation.DSMT4，所以还没有吃香蕉，应该还剩下54个香蕉．
+【答案】54个香蕉
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+3-2-9.接送问题.题库	                                   教师版                                  page  PAGE 19 of  NUMPAGES 19
+
+
+
+接送问题
+
+教学目标
+
+知识精讲
+
+
+
+

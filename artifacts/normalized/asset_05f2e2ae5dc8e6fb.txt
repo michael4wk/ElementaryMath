@@ -1,0 +1,613 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+
+研究圆、扇形、弓形与三角形、矩形、平行四边形、梯形等图形组合而成的不规则图形，通过变动图形的位置或对图形进行分割、旋转、拼补，使它变成可以计算出面积的规则图形来计算它们的面积．
+圆的面积 EMBED Equation.DSMT4  ；扇形的面积 EMBED Equation.DSMT4  ；
+圆的周长 EMBED Equation.DSMT4  ；扇形的弧长 EMBED Equation.DSMT4  ．						
+
+跟曲线有关的图形元素：
+①扇形：扇形由 HYPERLINK "http://baike.baidu.com/view/686804.htm" \t "_blank" 顶点在 HYPERLINK "http://baike.baidu.com/view/297302.htm" \t "_blank" 圆心的角的两边和这两边所截一段圆弧围成的图形，扇形是圆的一部分．我们经常说的 EMBED Equation.DSMT4  圆、 EMBED Equation.DSMT4  圆、 EMBED Equation.DSMT4  圆等等其实都是扇形，而这个几分之几表示的其实是这个扇形的圆心角占这个圆周角的几分之几．那么一般的求法是什么呢？关键是 EMBED Equation.DSMT4  ．
+比如：扇形的面积 EMBED Equation.DSMT4  所在圆的面积 EMBED Equation.DSMT4  ；
+扇形中的弧长部分 EMBED Equation.DSMT4  所在圆的周长 EMBED Equation.DSMT4  
+扇形的周长 EMBED Equation.DSMT4  所在圆的周长 EMBED Equation.DSMT4   EMBED Equation.DSMT4  2 EMBED Equation.DSMT4  半径(易错点是把扇形的周长等同于扇形的弧长)
+②弓形：弓形一般不要求周长，主要求面积．
+一般来说，弓形面积 EMBED Equation.DSMT4  扇形面积-三角形面积．(除了半圆)
+③”弯角”：如图：   弯角的面积 EMBED Equation.DSMT4  正方形-扇形
+④”谷子”：如图：  “谷子”的面积 EMBED Equation.DSMT4  弓形面积 EMBED Equation.DSMT4  
+
+常用的思想方法：
+①转化思想(复杂转化为简单，不熟悉的转化为熟悉的)
+②等积变形(割补、平移、旋转等)
+③借来还去(加减法)
+④外围入手(从会求的图形或者能求的图形入手，看与要求的部分之间的”关系”)
+
+板块二  曲线型面积计算
+
+如图，已知扇形 EMBED Equation.DSMT4  的面积是半圆 EMBED Equation.DSMT4  面积的倍，则角 EMBED Equation.DSMT4  的度数是________．
+
+【考点】圆与扇形      【难度】3星            【题型】填空
+设半圆 EMBED Equation.DSMT4  的半径为1，则半圆面积为 EMBED Equation.DSMT4  ，扇形 EMBED Equation.DSMT4  的面积为 EMBED Equation.DSMT4  ．因为扇形 EMBED Equation.DSMT4  的面积为 EMBED Equation.DSMT4  ，所以， EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  ，即角 EMBED Equation.DSMT4  的度数是60度．
+【答案】60度
+
+如下图，直角三角形 EMBED Equation.DSMT4  的两条直角边分别长 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，分别以 EMBED Equation.DSMT4  为圆心， EMBED Equation.DSMT4  为半径画圆，已知图中阴影部分的面积是 EMBED Equation.DSMT4  ，那么角 EMBED Equation.DSMT4  是多少度( EMBED Equation.DSMT4  )
+
+【考点】圆与扇形      【难度】4星            【题型】解答
+ EMBED Equation.DSMT4  ,
+三角形 EMBED Equation.DSMT4  内两扇形面积和为 EMBED Equation.DSMT4  ，
+根据扇形面积公式两扇形面积和为 EMBED Equation.DSMT4  ,
+所以 EMBED Equation.DSMT4  , EMBED Equation.DSMT4  .
+【答案】60度
+
+如图，大小两圆的相交部分(即阴影区域)的面积是大圆面积的 EMBED Equation.DSMT4  ，是小圆面积的 EMBED Equation.DSMT4  ．如果量得小圆的半径是5厘米，那么大圆半径是多少厘米？
+
+【考点】圆与扇形      【难度】3星            【题型】解答
+小圆的面积为 EMBED Equation.DSMT4  ，则大小圆相交部分面积为 EMBED Equation.DSMT4  ,那么大圆的面积为 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  ，所以大圆半径为 EMBED Equation.DSMT4  厘米．
+【答案】7.5
+
+有七根直径5厘米的塑料管，用一根橡皮筋把它们勒紧成一捆(如图)，此时橡皮筋的长度是多少厘米？( EMBED Equation.DSMT4  取3)
+      
+【考点】圆与扇形      【难度】3星            【题型】解答
+由右图知，绳长等于6个线段 EMBED Equation.DSMT4  与6个 EMBED Equation.DSMT4  弧长之和．
+将图中与 EMBED Equation.DSMT4  弧相似的6个弧所对的圆心角平移拼补，可得到6个角的和是 EMBED Equation.DSMT4  ，
+所以 EMBED Equation.DSMT4  弧所对的圆心角是 EMBED Equation.DSMT4  ，6个 EMBED Equation.DSMT4  弧合起来等于直径5厘米的圆的周长．
+而线段 EMBED Equation.DSMT4  等于塑料管的直径，
+由此知绳长为： EMBED Equation.DSMT4  (厘米)．
+【答案】45
+
+如图，边长为12厘米的正五边形，分别以正五边形的5个顶点为圆心，12厘米为半径作圆弧，请问：中间阴影部分的周长是多少？( EMBED Equation.DSMT4  )
+
+【考点】圆与扇形      【难度】4星            【题型】解答
+如图，点 EMBED Equation.DSMT4  是在以 EMBED Equation.DSMT4  为中心的扇形上，所以 EMBED Equation.DSMT4  ，同理 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  是正三角形，同理，有 EMBED Equation.DSMT4  是正三角形．有 EMBED Equation.DSMT4  ，正五边形的一个内角是 EMBED Equation.DSMT4  ，因此 EMBED Equation.DSMT4  ，也就是说圆弧 EMBED Equation.DSMT4  的长度是半径为12厘米的圆周的一部分，这样相同的圆弧有5个，所以中间阴影部分的周长是 EMBED Equation.DSMT4  ．
+【答案】12.56
+
+如图是一个对称图形．比较黑色部分面积与灰色部分面积的大小，得：黑色部分面积________灰色部分面积．
+
+【考点】圆与扇形      【难度】3星            【题型】填空
+图中四个小圆的半径为大圆半径的一半，所以每个小圆的面积等于大圆面积的 EMBED Equation.DSMT4  ，则4个小圆的面积之和等于大圆的面积．而4个小圆重叠的部分为灰色部分，未覆盖的部分为黑色部分，所以这两部分面积相等，即灰色部分与黑色部分面积相等．
+【答案】相等
+
+如图，大圆半径为小圆的直径，已知图中阴影部分面积为 EMBED Equation.DSMT4  ，空白部分面积为 EMBED Equation.DSMT4  ，那么这两个部分的面积之比是多少？(圆周率取 EMBED Equation.DSMT4  )
+    
+【考点】圆与扇形      【难度】3星            【题型】解答
+如图添加辅助线，小圆内部的阴影部分可以填到外侧来，这样，空白部分就是一个圆的内接正方形．设大圆半径为 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ．
+移动图形是解这种题目的最好方法，一定要找出图形之间的关系．
+【答案】57:100
+
+用一块面积为36平方厘米的圆形铝板下料，从中裁出了7个同样大小的圆铝板．问：所余下的边角料的总面积是多少平方厘米？
+
+【考点】圆与扇形      【难度】4星            【题型】解答
+大圆直径是小圆的3倍，半径也是3倍，小圆面积∶大圆面积 EMBED Equation.DSMT4  ，
+小圆面积 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  个小圆总面积 EMBED Equation.DSMT4  ，
+边角料面积 EMBED Equation.DSMT4  (平方厘米)．
+【答案】8
+
+如图，若图中的圆和半圆都两两相切，两个小圆和三个半圆的半径都是1．求阴影部分的面积．
+
+【考点】圆与扇形      【难度】4星            【题型】解答
+由于直接求阴影部分面积太麻烦，所以考虑采用增加面积的方法来构造新图形．
+由右图可见，阴影部分面积等于 EMBED Equation.DSMT4  大圆面积减去一个小圆面积，再加上 EMBED Equation.DSMT4  的小扇形面积(即 EMBED Equation.DSMT4  小圆面积)，所以相当于 EMBED Equation.DSMT4  大圆面积减去 EMBED Equation.DSMT4  小圆面积．而大圆的半径为小圆的3倍，所以其面积为小圆的 EMBED Equation.DSMT4  倍，那么阴影部分面积为 EMBED Equation.DSMT4  ．
+【答案】2.5
+
+如图所示，求阴影面积，图中是一个正六边形，面积为1040平方厘米，空白部分是6个半径为10厘米的小扇形．(圆周率取 EMBED Equation.DSMT4  )
+
+【考点】圆与扇形      【难度】3星            【题型】解答
+所要求的阴影面积是用正六边形的面积减去六个小扇形面积、正六边形的面积已知，现在关键是小扇形面积如何求，有扇形面积公式 EMBED Equation.DSMT4  ．
+可求得，需要知道半径和扇形弧的度数，由已知正六边形每边所对圆心角为60°，那么 EMBED Equation.DSMT4  ，又知四边形 EMBED Equation.DSMT4  是平行四边形，所以 EMBED Equation.DSMT4  ，这样就可求出扇形的面积和为 EMBED Equation.DSMT4  (平方厘米)，阴影部分的面积 EMBED Equation.DSMT4  (平方厘米)．
+【答案】412
+
+(09年第十四届华杯赛初赛)如下图所示， EMBED Equation.DSMT4  是半圆的直径， EMBED Equation.DSMT4  是圆心， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的中点， EMBED Equation.DSMT4  是弦 EMBED Equation.DSMT4  的中点．若 EMBED EQUATION.DSMT4  是 EMBED EQUATION.DSMT4  上一点，半圆的面积等于12平方厘米，则图中阴影部分的面积是        平方厘米．
+
+【考点】圆与扇形      【难度】3星            【题型】填空
+如下图所示，连接 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ．
+
+本题中由于 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  是半圆的两个三等分点， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的中点， EMBED Equation.DSMT4  是弦 EMBED Equation.DSMT4  的中点，可见这个图形是对称的，由对称性可知 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  平行．由此可得 EMBED Equation.DSMT4  的面积与 EMBED Equation.DSMT4  的面积相等，所以阴影部分面积等于扇形 EMBED Equation.DSMT4  面积的一半，而扇形 EMBED Equation.DSMT4  的面积又等于半圆面积的 EMBED Equation.DSMT4  ，所以阴影部分面积等于半圆面积的 EMBED Equation.DSMT4  ，为 EMBED Equation.DSMT4  平方厘米．
+【答案】2
+
+【巩固】如图， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  是以 EMBED Equation.DSMT4  为直径的半圆的三等分点， EMBED Equation.DSMT4  是圆心，且半径为6．求图中阴影部分的面积．
+
+【考点】圆与扇形      【难度】3星            【题型】解答
+如图，连接 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ．
+由于 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  是半圆的三等分点，所以 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  都是正三角形，那么 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  是平行的．所以 EMBED Equation.DSMT4  的面积与 EMBED Equation.DSMT4  的面积相等，那么阴影部分的面积等于扇形 EMBED Equation.DSMT4  的面积，为 EMBED Equation.DSMT4  ．
+【答案】18.84
+
+如图，两个半径为1的半圆垂直相交，横放的半圆直径通过竖放半圆的圆心，求图中两块阴影部分的面积之差．( EMBED Equation.DSMT4  取3)
+
+【考点】圆与扇形      【难度】4星            【题型】解答
+本题要求两块阴影部分的面积之差，可以先分别求出两块阴影部分的面积，再计算它们的差，但是这样较为繁琐．由于是要求面积之差，可以考虑先从面积较大的阴影中割去与面积较小的阴影相同的图形，再求剩余图形的面积．
+如右图所示，可知弓形 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  均与弓形 EMBED Equation.DSMT4  相同，所以不妨割去弓形 EMBED Equation.DSMT4  ．剩下的图形中，容易看出来 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  是平行的，所以 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的面积相等，所以剩余图形的面积与扇形 EMBED Equation.DSMT4  的面积相等，而扇形 EMBED Equation.DSMT4  的面积为 EMBED Equation.DSMT4  ，所以图中两块阴影部分的面积之差为 EMBED Equation.DSMT4  ．
+【答案】0.5
+
+如图，两个正方形摆放在一起，其中大正方形边长为12，那么阴影部分面积是多少？(圆周率取 EMBED Equation.DSMT4  )
+
+【考点】圆与扇形      【难度】3星            【题型】解答
+方法一：设小正方形的边长为 EMBED Equation.DSMT4  ，则三角形 EMBED Equation.DSMT4  与梯形 EMBED Equation.DSMT4   的面积均为 EMBED Equation.DSMT4  ．阴影部分为：大正方形 EMBED Equation.DSMT4  梯形 EMBED Equation.DSMT4  三角形 EMBED Equation.DSMT4   EMBED Equation.DSMT4  右上角不规则部分 EMBED Equation.DSMT4  大正方形 EMBED Equation.DSMT4  右上角不规则部分 EMBED Equation.DSMT4   EMBED Equation.DSMT4  圆．因此阴影部分面积为： EMBED Equation.DSMT4  ．
+方法二：连接 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，设 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的交点为 EMBED Equation.DSMT4  ，由于四边形 EMBED Equation.DSMT4  是梯形，根据梯形蝴蝶定理有 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】113.04
+
+【巩固】如右图，两个正方形边长分别是10和6，求阴影部分的面积．( EMBED Equation.DSMT4  取3)
+      
+【考点】圆与扇形      【难度】3星            【题型】解答
+ (法1)观察可知阴影部分面积等于三角形 EMBED Equation.DSMT4  的面积减去月牙 EMBED Equation.DSMT4  的面积，那么求出月牙 EMBED Equation.DSMT4  的面积就成了解题的关键．
+月牙 EMBED Equation.DSMT4  的面积为正方形 EMBED Equation.DSMT4  的面积减去四分之一圆： EMBED Equation.DSMT4  ；
+则阴影部分的面积为三角形 EMBED Equation.DSMT4  的面积减去月牙 EMBED Equation.DSMT4  的面积，为：
+ EMBED Equation.DSMT4  ．
+(法2)观察可知 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  是平行的，于是连接 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ．
+则 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  面积相等，那么阴影部分面积等于 EMBED Equation.DSMT4  与小弓形的面积之和，也就等于 EMBED Equation.DSMT4  与扇形 EMBED Equation.DSMT4  的面积之和，为： EMBED Equation.DSMT4  ．
+【答案】39
+
+如图， EMBED Equation.DSMT4  是等腰直角三角形， EMBED Equation.DSMT4  是半圆周的中点， EMBED Equation.DSMT4  是半圆的直径．已知 EMBED Equation.DSMT4  ，那么阴影部分的面积是多少？(圆周率取 EMBED Equation.DSMT4  )
+       
+【考点】圆与扇形      【难度】3星            【题型】解答
+连接 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，如图， EMBED Equation.DSMT4  平行于 EMBED Equation.DSMT4  ，则在梯形 EMBED Equation.DSMT4  中，对角线交于 EMBED Equation.DSMT4  点，那么 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  面积相等，则阴影部分的面积转化为 EMBED Equation.DSMT4  与圆内的小弓形的面积和．
+ EMBED Equation.DSMT4  的面积为： EMBED Equation.DSMT4  ；
+弓形面积：  EMBED Equation.DSMT4  ；
+阴影部分面积为： EMBED Equation.DSMT4  ．
+【答案】32.125
+
+图中给出了两个对齐摆放的正方形，并以小正方形中右上顶点为圆心，边长为半径作一个扇形，按图中所给长度阴影部分面积为       ；( EMBED Equation.DSMT4  )
+    
+【考点】圆与扇形      【难度】3星            【题型】填空
+连接小正方形 EMBED Equation.DSMT4  ,有图可见
+ EMBED Equation.DSMT4  
+∵ EMBED Equation.DSMT4  
+∴ EMBED Equation.DSMT4  
+同理 EMBED Equation.DSMT4  ，∴ EMBED Equation.DSMT4  
+∴ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+∴ EMBED Equation.DSMT4  
+【答案】28.56
+
+如图，图形中的曲线是用半径长度的比为 EMBED Equation.DSMT4  的6条半圆曲线连成的．问：涂有阴影的部分的面积与未涂有阴影的部分的面积的比是多少？
+
+【考点】圆与扇形      【难度】4星            【题型】解答
+假设最小圆的半径为 EMBED Equation.DSMT4  ，则三种半圆曲线的半径分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ．
+        阴影部分的面积为： EMBED Equation.DSMT4  ，
+空白部分的面积为： EMBED Equation.DSMT4  ，
+        则阴影部分面积与空白部分面积的比为 EMBED Equation.DSMT4  ．
+【答案】5:11
+
+(西城实验考题)奥运会的会徽是五环图，一个五环图是由内圆直径为6厘米，外圆直径为8厘米的五个环组成，其中两两相交的小曲边四边形(阴影部分)的面积都相等，已知五个圆环盖住的面积是 EMBED Equation.DSMT4  平方厘米，求每个小曲边四边形的面积．( EMBED Equation.DSMT4  )
+
+【考点】圆与扇形      【难度】4星            【题型】解答
+⑴每个圆环的面积为： EMBED Equation.DSMT4  (平方厘米)；
+⑵五个圆环的面积和为： EMBED Equation.DSMT4  (平方厘米)；
+⑶八个阴影的面积为： EMBED Equation.DSMT4  (平方厘米)；
+⑷每个阴影的面积为： EMBED Equation.DSMT4  (平方厘米)．
+【答案】4.1
+
+已知正方形 EMBED Equation.DSMT4  的边长为10厘米，过它的四个顶点作一个大圆，过它的各边中点作一个小圆，再将对边中点用直线连擎起来得右图．那么，图中阴影部分的总面积等于______方厘米．( EMBED Equation.3  )
+
+【考点】圆与扇形      【难度】4星            【题型】填空
+ EMBED Equation.DSMT4  
+【答案】39.25
+
+如图，ABCD是边长为a的正方形，以AB、BC、CD、DA分别为直径画半圆，求这四个半圆弧所围成的阴影部分的面积．( EMBED Equation.DSMT4  取3)
+
+【考点】圆与扇形      【难度】3星            【题型】解答
+这道题目是很常见的面积计算问题．阴影部分是一个花瓣状的不规则图形，不能直接通过面积公式求解，观察发现阴影部分是一个对称图形，我们只需要在阴影部分的对称轴上作两条辅助线就明了了．
+如图，这样阴影部分就划分成了4个半圆减去三角形，我们可以求得，
+         EMBED Equation.DSMT4  
+		     EMBED Equation.DSMT4  
+		     EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+【巩固】如图，正方形ABCD的边长为4厘米，分别以B、D为圆心以4厘米为半径在正方形内画圆．求阴影部分面积．( EMBED Equation.DSMT4  取3)
+
+【考点】圆与扇形      【难度】3星            【题型】解答
+由题可知，图中阴影部分是两个扇形重叠的部分，我们可以利用容斥原理从图形整体上考虑来求阴影部分面积；同样，我们也可以通过作辅助线直接求阴影部分的面积．
+解法一：把两个扇形放在一起得到1个正方形的同时还重叠了一块阴影部分．
+则阴影部分的面积为 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ；
+解法二：连接AC，我们发现阴影部分面积的一半就是扇形减去三角形的面积，
+所以阴影部分面积 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ．
+【答案】8
+
+(四中考题)已知三角形 EMBED Equation.DSMT4  是直角三角形， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，求阴影部分的面积．
+
+【考点】圆与扇形      【难度】4星            【题型】解答
+从图中可以看出，阴影部分的面积等于两个半圆的面积和与直角三角形 EMBED Equation.DSMT4  的面积之差，所以阴影部分的面积为： EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )．
+【答案】3.85
+
+（奥林匹克决赛试题）在桌面上放置 EMBED Equation.DSMT4  个两两重叠、形状相同的圆形纸片.它们的面积都是 EMBED Equation.DSMT4  平方厘米，盖住桌面的总面积是 EMBED Equation.DSMT4  平方厘米， EMBED Equation.DSMT4  张纸片共同重叠的面积是 EMBED Equation.DSMT4  平方厘米.那么图中 EMBED Equation.DSMT4  个阴影部分的面积的和         是平方厘米.
+
+【考点】圆与扇形      【难度】4星            【题型】填空
+根据容斥原理得 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  （平方厘米）
+【答案】72
+
+如图所示， EMBED Equation.DSMT4  是一边长为 EMBED Equation.DSMT4  的正方形， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的中点，而 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的中点．以 EMBED Equation.DSMT4  为圆心、半径为 EMBED Equation.DSMT4  的四分之一圆的圆弧交 EMBED Equation.DSMT4  于 EMBED Equation.DSMT4  ，以 EMBED Equation.DSMT4  为圆心、半径为 EMBED Equation.DSMT4  的四分之一圆的圆弧交 EMBED Equation.DSMT4  于 EMBED Equation.DSMT4  点，若图中 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  两块面积之差为 EMBED Equation.DSMT4  (其中 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  为正整数)，请问 EMBED Equation.DSMT4  之值为何？
+  
+【考点】圆与扇形      【难度】3星            【题型】解答
+【关键词】国际小学数学竞赛
+ (法1) EMBED Equation.DSMT4  ， EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，而
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，
+所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+(法 EMBED Equation.DSMT4  )如右上图， EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，
+所以， EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  ．
+【答案】11
+
+【巩固】在图中，两个四分之一圆弧的半径分别是2和4，求两个阴影部分的面积差．(圆周率取 EMBED Equation.DSMT4  )
+
+【考点】圆与扇形      【难度】3星            【题型】解答
+我们只要看清楚阴影部分如何构成则不难求解．左边的阴影是大扇形减去小扇形，再扣除一个长方形中的不规则白色部分，而右边的阴影是长方形扣除这块不规则白色部分，那么它们的差应为大扇形减去小扇形，再减去长方形．则为： EMBED Equation.DSMT4  ．
+【答案】1.42
+
+如图，矩形ABCD中，AB EMBED Equation.DSMT4  6厘米，BC EMBED Equation.DSMT4  4厘米，扇形ABE半径AE EMBED Equation.DSMT4  6厘米，扇形CBF的半径CB EMBED Equation.DSMT4  4厘米，求阴影部分的面积．( EMBED Equation.DSMT4  取3)
+
+【考点】圆与扇形      【难度】3星            【题型】解答
+方法一：观察发现，阴影部分属于一个大的扇形，而这个扇形除了阴影部分之外，还有一个不规则的空白部分ABFD在左上，求出这个不规则部分的面积就成了解决这个问题的关键．
+我们先确定ABFD的面积，因为不规则部分ABFD与扇形BCF共同构成长方形ABCD，
+所以不规则部分ABFD的面积为 EMBED Equation.DSMT4  (平方厘米)，
+再从扇形ABE中考虑，让扇形ABE减去ABFD的面积，
+则有阴影部分面积为 EMBED Equation.DSMT4  (平方厘米)．
+方法二：利用容斥原理 EMBED Equation.DSMT4  (平方厘米)
+【答案】15
+
+【巩固】求图中阴影部分的面积．
+
+【考点】圆与扇形      【难度】3星            【题型】解答
+阴影部分面积 EMBED Equation.DSMT4  半圆面积 EMBED Equation.DSMT4  扇形面积 EMBED Equation.DSMT4  三角形面积 EMBED Equation.DSMT4  ．
+【答案】41.04
+
+【巩固】如右图，正方形的边长为5厘米，则图中阴影部分的面积是        平方厘米，( EMBED Equation.DSMT4  )
+
+【考点】圆与扇形      【难度】3星            【题型】填空
+观察可知阴影部分是被以 EMBED Equation.DSMT4  为半径的扇形、以 EMBED Equation.DSMT4  为直径的半圆形和对角线 EMBED Equation.DSMT4  分割出来的，分头求各小块阴影部分面积明显不是很方便，我们发现如果能求出左下边空白部分的面积，就很容易求出阴影部分的面积了，我们再观察可以发现左下边空白部分的面积就等于三角形 EMBED Equation.DSMT4  的面积减去扇形 EMBED Equation.DSMT4  的面积，那么我们的思路就很清楚了．
+因为 EMBED Equation.DSMT4  ，
+所以扇形 EMBED Equation.DSMT4  的面积为： EMBED Equation.DSMT4  (平方厘米)，
+那么左下边空白的面积为： EMBED Equation.DSMT4  (平方厘米)，
+又因为半圆面积为： EMBED Equation.DSMT4  (平方厘米)，
+所以阴影部分面积为： EMBED Equation.DSMT4  (平方厘米)．
+【答案】7.125
+
+如图所示，阴影部分的面积为多少？(圆周率取 EMBED Equation.DSMT4  )
+
+【考点】圆与扇形      【难度】4星            【题型】解答
+图中 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两部分的面积分别等于右边两幅图中的 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的面积．
+所以 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+【巩固】图中阴影部分的面积是        ．( EMBED Equation.DSMT4  取 EMBED Equation.DSMT4  )
+      
+【考点】圆与扇形      【难度】3星            【题型】填空
+如右上图，虚线将阴影部分分成两部分，分别计算这两部分的面积，再相加即可得到阴影部分的面积．
+所分成的弓形的面积为： EMBED Equation.DSMT4  ；
+另一部分的面积为： EMBED Equation.DSMT4  ；
+所以阴影部分面积为： EMBED Equation.DSMT4  ．
+【答案】1.92
+
+已知右图中正方形的边长为20厘米，中间的三段圆弧分别以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  为圆心，求阴影部分的面积．( EMBED Equation.DSMT4  )
+
+【考点】圆与扇形      【难度】4星            【题型】解答
+图中两块阴影部分的面积相等，可以先求出其中一块的面积．而这一块的面积，等于大正方形的面积减去一个 EMBED Equation.DSMT4  扇形的面积，再减去角上的小空白部分的面积，为：
+ EMBED Equation.DSMT4  (平方厘米)，所以阴影部分的面积为 EMBED Equation.DSMT4  (平方厘米)．
+【答案】150
+
+一个长方形的长为9，宽为6，一个半径为l的圆在这个长方形内任意运动，在长方形内这圆无法运动到的部分，面积的和是_____．( EMBED Equation.DSMT4  取3)
+【考点】圆与扇形      【难度】3星            【题型】填空
+方法一：圆在长方形内部无法运动到的地方就是长方形的四个角，而圆在角处运动时的情况如左下图，圆无法运动到的部分是图中阴影部分，那么我们可以先求出阴影部分面积，四个角的情况都相似，我们就可以求出总的面积是阴影部分面积的四倍．
+阴影部分面积是小正方形面积减去扇形面积，所以我们可以得到：
+每个角阴影部分面积为 EMBED Equation.DSMT4  ；
+那么圆无法运动到的部分面积为  EMBED Equation.DSMT4  
+
+方法二：如果把四个角拼起来，则阴影如右上图所示，则阴影面积为 EMBED Equation.DSMT4  
+【答案】1
+
+已知半圆所在的圆的面积为 EMBED Equation.DSMT4  平方厘米，求阴影部分的面积．( EMBED Equation.DSMT4  )
+
+【考点】圆与扇形      【难度】3星            【题型】解答
+由于阴影部分是一个不规则图形，所以要设法把它转化成规则图形来计算．从图中可以看出，阴影部分的面积是一个 EMBED EQUATION.DSMT4  的扇形与一个等腰直角三角形的面积差．
+由于半圆的面积为 EMBED EQUATION.DSMT4  平方厘米，所以 EMBED EQUATION.DSMT4  ．
+因此： EMBED EQUATION.DSMT4  (平方厘米)．
+由于 EMBED EQUATION.DSMT4  是等腰直角三角形，所以 EMBED EQUATION.DSMT4  ．
+因此：扇形 EMBED EQUATION.DSMT4  的面积 EMBED EQUATION.DSMT4  (平方厘米)．
+所以，阴影部分的面积等于： EMBED EQUATION.DSMT4  (平方厘米)．
+【答案】5.7
+
+如图，等腰直角三角形ABC的腰为10；以A为圆心，EF为圆弧，组成扇形AEF；两个阴影部分的面积相等．求扇形所在的圆面积．
+
+【考点】圆与扇形      【难度】4星            【题型】解答
+题目已经明确告诉我们ABC是等腰直角三角形，AEF是扇形，所以看似没有关系的两个阴影部分通过空白部分联系起来．
+等腰直角三角形的角A为45度，则扇形所在圆的面积为扇形面积的8倍．
+而扇形面积与等腰直角三角形面积相等，即 EMBED Equation.DSMT4  ，
+则圆的面积为 EMBED Equation.DSMT4  
+【答案】400
+
+如图，直角三角形ABC中，AB是圆的直径，且 EMBED Equation.DSMT4  ，阴影甲的面积比阴影乙的面积大7，求BC长．( EMBED Equation.DSMT4  )
+
+【考点】圆与扇形      【难度】3星            【题型】解答
+因为两块阴影部分都是不规则图形，单独对待它们无法运用面积公式进行处理，而解题的关键就是如何把它们联系起来，我们发现把两块阴影加上中间的一块，则变成1个半圆和1个直角三角形，这个时候我们就可以利用面积公式来求解了．
+因为阴影甲比阴影乙面积大7，也就是半圆面积比直角三角形面积大7．
+半圆面积为： EMBED Equation.DSMT4  ，则直角三角形的面积为157 EMBED Equation.DSMT4  7 EMBED Equation.DSMT4  150，可得BC EMBED Equation.DSMT4  2 EMBED Equation.DSMT4  150 EMBED Equation.DSMT4  20 EMBED Equation.DSMT4  15．
+【答案】15
+
+【巩固】三角形 EMBED Equation.DSMT4  是直角三角形，阴影 EMBED Equation.DSMT4  的面积比阴影 EMBED Equation.DSMT4  的面积小 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，求 EMBED Equation.DSMT4  的长度．
+
+【考点】圆与扇形      【难度】3星            【题型】解答
+由于阴影 EMBED Equation.DSMT4  的面积比阴影 EMBED Equation.DSMT4  的面积小 EMBED Equation.DSMT4  ，根据差不变原理，直角三角形 EMBED Equation.DSMT4  面积减去半圆面积为 EMBED Equation.DSMT4  ，则直角三角形 EMBED Equation.DSMT4  面积为 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )，
+ EMBED Equation.DSMT4  的长度为 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )．
+【答案】12.53
+
+【巩固】 如图，三角形 EMBED Equation.DSMT4  是直角三角形，阴影部分①比阴影部分②的面积小28平方厘米， EMBED Equation.DSMT4  长40厘米．求 EMBED Equation.DSMT4  的长度？( EMBED Equation.DSMT4  取 EMBED Equation.DSMT4  )
+    
+【考点】圆与扇形      【难度】3星            【题型】解答
+图中半圆的直径为 EMBED Equation.DSMT4  ，所以其面积为 EMBED Equation.DSMT4  ．
+   　　 有空白部分③与①的面积和为628，又②-① EMBED Equation.DSMT4  ，所以②、③部分的面积和 EMBED Equation.DSMT4  ．
+有直角三角形 EMBED Equation.DSMT4  的面积为 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ．所以 EMBED Equation.DSMT4  厘米．
+【答案】32.8
+
+图中的长方形的长与宽的比为 EMBED Equation.DSMT4  ，求阴影部分的面积．
+
+【考点】圆与扇形      【难度】3星            【题型】解答
+【关键词】十三分，入学测试题
+如下图，设半圆的圆心为 EMBED Equation.DSMT4  ，连接 EMBED Equation.DSMT4  ．
+从图中可以看出， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，根据勾股定理可得 EMBED Equation.DSMT4  ．
+阴影部分面积等于半圆的面积减去长方形的面积，
+为： EMBED Equation.DSMT4  ．
+
+【答案】244
+
+如图，求阴影部分的面积．( EMBED Equation.DSMT4  取3)
+
+【考点】圆与扇形      【难度】4星            【题型】解答
+如图，图中阴影部分为月牙儿状，月牙儿形状与扇形和弓形都不相同，目前我们还不能直接求出  它们的面积，那么我们应该怎么来解决呢？首先，我们分析下月牙儿状是怎么产生的，观察发现月牙儿形是两条圆弧所夹部分，再分析可以知道，两条圆弧分别是不同圆的圆周的一部分，那么我们就找到了解决问题的方法了．
+阴影部分面积 EMBED Equation.DSMT4   EMBED Equation.DSMT4  小圆面积 EMBED Equation.DSMT4   EMBED Equation.DSMT4  中圆面积 EMBED Equation.DSMT4  三角形面积 EMBED Equation.DSMT4   EMBED Equation.DSMT4  大圆面积
+			 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  6
+【答案】6
+
+如图，直角三角形的三条边长度为 EMBED Equation.DSMT4  ，它的内部放了一个半圆，图中阴影部分的面积为多少？
+
+【考点】圆与扇形      【难度】4星            【题型】解答
+ EMBED Equation.DSMT4  ，
+设半圆半径为 EMBED Equation.DSMT4  ，直角三角形面积用 EMBED Equation.DSMT4  表示为： EMBED Equation.DSMT4  
+又因为三角形直角边都已知，所以它的面积为 EMBED Equation.DSMT4  ，
+所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+所以 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+大圆半径为 EMBED Equation.DSMT4  ，小圆半径为 EMBED Equation.DSMT4  ，两个同心圆构成一个环形．以圆心 EMBED Equation.DSMT4  为顶点，半径 EMBED Equation.DSMT4  为边长作一个正方形：再以 EMBED Equation.DSMT4  为顶点，以 EMBED Equation.DSMT4  为边长作一个小正方形．图中阴影部分的面积为 EMBED Equation.DSMT4  平方厘米，求环形面积．(圆周率取 EMBED Equation.DSMT4  )
+
+【考点】圆与扇形      【难度】3星            【题型】解答
+【关键词】华校第一学期，期中测试，第6题
+环形的面积应该用大圆的面积减去小圆的面积，但分别求出两个圆的面积显然不可能．题中已知阴影部分的面积，也就是 EMBED Equation.3  平方厘米，那么环形的面积为：
+ EMBED Equation.DSMT4  (平方厘米)．
+【答案】157
+
+【巩固】图中阴影部分的面积是 EMBED Equation.DSMT4  ，求圆环的面积．
+
+【考点】圆与扇形      【难度】3星            【题型】解答
+设大圆半径为 EMBED Equation.DSMT4  ，小圆半径为 EMBED Equation.DSMT4  ，依题有 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ．
+则圆环面积为： EMBED Equation.DSMT4  ．
+【答案】157
+
+已知图中正方形的面积是20平方厘米，则图中里外两个圆的面积之和是        ．( EMBED Equation.DSMT4  取 EMBED Equation.DSMT4  )
+
+【考点】圆与扇形      【难度】3星            【题型】填空
+【关键词】101中学，考题
+设图中大圆的半径为 EMBED Equation.DSMT4  ，正方形的边长为 EMBED Equation.DSMT4  ，则小圆的直径等于正方形的边长，所以小圆的半径为 EMBED Equation.DSMT4  ，大圆的直径 EMBED Equation.DSMT4  等于正方形的对角线长，即 EMBED Equation.DSMT4  ，得 EMBED Equation.DSMT4  ．
+所以，大圆的面积与正方形的面积之比为： EMBED Equation.DSMT4  ，所以大圆面积为： EMBED Equation.DSMT4  ；小圆的面积与正方形的面积之比为： EMBED Equation.DSMT4  ，所以小圆的面积为： EMBED Equation.DSMT4  ；两个圆的面积之和为： EMBED Equation.DSMT4  (平方厘米)．
+【答案】47.1
+
+【巩固】图中小圆的面积是30平方厘米，则大圆的面积是        平方厘米．( EMBED Equation.DSMT4  取 EMBED Equation.DSMT4  )
+
+【考点】圆与扇形      【难度】3星            【题型】填空
+设图中大圆的半径为 EMBED Equation.DSMT4  ，正方形的边长为 EMBED Equation.DSMT4  ，则小圆的直径等于正方形的边长，所以小圆的半径为 EMBED Equation.DSMT4  ，大圆的直径 EMBED Equation.DSMT4  等于正方形的对角线长，即 EMBED Equation.DSMT4  ，得 EMBED Equation.DSMT4  ．
+所以，大圆的面积与小圆的面积之比为： EMBED Equation.DSMT4  ，
+即大圆的面积是小圆面积的2倍，大圆的面积为 EMBED Equation.DSMT4  (平方厘米)．
+【答案】60
+
+【巩固】(2008年四中考题)图中大正方形边长为 EMBED Equation.DSMT4  ，小正方形的面积是        ．
+
+【考点】圆与扇形      【难度】3星            【题型】填空
+设图中小正方形的边长为 EMBED Equation.DSMT4  ，由于圆的直径等于大正方形的边长，所以圆的直径为 EMBED Equation.DSMT4  ，而从图中可以看出，圆的直径等于小正方形的对角线长，所以 EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  ，即小正方形的面积为 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+【巩固】一些正方形内接于一些同心圆，如图所示．已知最小圆的半径为 EMBED Equation.DSMT4  ，请问阴影部分的面积为多少平方厘米？(取 EMBED Equation.DSMT4  )
+
+【考点】圆与扇形      【难度】3星            【题型】解答
+【关键词】台湾小学数学竞赛选拔，复赛
+我们将阴影部分的面积分为内圈、中圈、外圈三部分来计算．
+内圈等于内圆面积减去内部正方形的面积，也就是 EMBED Equation.DSMT4  ．
+内圆的直径为中部正方形的边长，即为 EMBED Equation.DSMT4  ，中部正方形的对角线等于中圆的直径，于是中圈阴影部分面积是 EMBED Equation.DSMT4  ．
+中圆的直径的平方即为外部正方形的面积，即为 EMBED Equation.DSMT4  ，外部正方形的对角线的平方即为外圆的直径的平方，即为 EMBED Equation.DSMT4  ，所以外圈阴影部分的面积是 EMBED Equation.DSMT4  ．
+所以阴影部分的面积是 EMBED Equation.DSMT4  (平方厘米)．
+【答案】8
+
+图中大正方形边长为 EMBED Equation.DSMT4  ，将其每条边进行三等分，连出四条虚线，再将虚线的中点连出一个正方形(如图)，在这个正方形中画出一个最大的圆，则圆的面积是多少？( EMBED Equation.DSMT4  )
+
+【考点】圆与扇形      【难度】3星            【题型】解答
+圆的直径也就是外切正方形的边长，它的长为： EMBED Equation.DSMT4  
+∴圆的面积为： EMBED Equation.DSMT4  
+【答案】12.56
+
+如下图所示，两个相同的正方形，左图中阴影部分是9个圆，右图中阴影部分是16个圆．哪个图中阴影部分的面积大？为什么？
+       
+【考点】圆与扇形      【难度】3星            【题型】解答
+设正方形的边长为 EMBED Equation.DSMT4  ，每一个圆的半径为 EMBED Equation.DSMT4  ，则正方形的每一条边上都有 EMBED Equation.DSMT4  个圆，从而正方形内部共有 EMBED Equation.DSMT4  个圆，于是这些圆的总面积为： EMBED Equation.DSMT4  ．
+可见阴影部分的面积与正方形的面积的比是固定的，也就是说阴影部分的面积只与正方形的边长有关系，与圆的半径无关，无论圆的半径怎样变化，只要正方形的边长不变，那么阴影部分的面积就是一定的．
+        由于上图中两个正方形的边长相同，所以两图中阴影部分的面积相等．
+【答案】相等
+
+如图，在 EMBED Equation.DSMT4  方格表中，分别以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  为圆心，半径为3、2、1，圆心角都是 EMBED Equation.DSMT4  的三段圆弧与正方形 EMBED Equation.DSMT4  的边界围成了两个带形，那么这两个带形的面积之比 EMBED Equation.DSMT4  
+      
+【考点】圆与扇形      【难度】5星            【题型】解答
+如右图，仔细观察图形不难发现带形 EMBED Equation.DSMT4  的面积等于曲边三角形 EMBED Equation.DSMT4  的面积减去曲边三角形 EMBED Equation.DSMT4   的面积，而这两个曲边三角形的面积都可以在各自所在的正方形内求出．
+所以， EMBED Equation.DSMT4  的面积 EMBED Equation.DSMT4  ；
+同理可求得带形 EMBED Equation.DSMT4  的面积：
+带形 EMBED Equation.DSMT4  的面积 EMBED Equation.DSMT4  曲边三角形 EMBED Equation.DSMT4  的面积 EMBED Equation.DSMT4  曲边三角形 EMBED Equation.DSMT4  的面积 EMBED Equation.DSMT4  ；
+所以， EMBED Equation.DSMT4  ．
+【答案】5:3
+
+如图中，正方形的边长是 EMBED Equation.DSMT4  ，两个顶点正好在圆心上，求图形的总面积是多少？(圆周率取 EMBED Equation.DSMT4  )
+
+【考点】圆与扇形      【难度】3星            【题型】解答
+ EMBED Equation.DSMT4  ．
+【答案】142.75
+
+如图，AB与CD是两条垂直的直径，圆O的半径为15， EMBED Equation.DSMT4  是以C为圆心，AC为半径的圆弧． 求阴影部分面积．
+
+【考点】圆与扇形      【难度】3星            【题型】解答
+阴影部分是个月牙形，不能直接通过面积公式求，那么我们可以把阴影部分看成半圆加上三角形ABC再减去扇形ACB的结果．
+半圆面积为 EMBED Equation.DSMT4  ，
+三角形ABC面积为 EMBED Equation.DSMT4  ，又因为三角形面积也等于 EMBED Equation.DSMT4  ，
+所以 EMBED Equation.DSMT4  ，
+那么扇形ACB的面积为 EMBED Equation.DSMT4  ．
+阴影部分面积 EMBED Equation.DSMT4  
+				 EMBED Equation.DSMT4  
+				 EMBED Equation.DSMT4   225 (平方厘米)
+【答案】225
+
+如下图所示，曲线 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  是两个半圆． EMBED Equation.DSMT4  平行于 EMBED Equation.DSMT4  ．如果大半圆的半径是1米，那么阴影部分是多少平方米？( EMBED Equation.DSMT4  取 EMBED Equation.DSMT4  )
+
+【考点】圆与扇形      【难度】3星            【题型】解答
+如左下图所示，弓形 EMBED Equation.DSMT4  的面积等于扇形 EMBED Equation.DSMT4  的面积与三角形 EMBED Equation.DSMT4  的面积之差，为 EMBED Equation.DSMT4  (平方米)，
+
+半圆 EMBED Equation.DSMT4  的面积为 EMBED Equation.DSMT4   EMBED Equation.DSMT4  (平方米)，
+所以阴影部分的面积为 EMBED Equation.DSMT4  (平方米)．
+【答案】1.07
+
+在右图所示的正方形 EMBED Equation.DSMT4  中，对角线 EMBED Equation.DSMT4  长2厘米．扇形 EMBED Equation.DSMT4  是以 EMBED Equation.DSMT4  为圆心，以 EMBED Equation.DSMT4  为半径的圆的一部分． 求阴影部分的面积．
+ 
+【考点】圆与扇形      【难度】3星            【题型】解答
+如右图所示， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+因为 EMBED Equation.DSMT4  ，
+所以阴影部分的面积为：
+ EMBED Equation.DSMT4  (平方厘米)．
+另解：观察可知阴影部分面积等于半圆面积与扇形 EMBED Equation.DSMT4  面积之和减去正方形 EMBED Equation.DSMT4  的面积，所以阴影部分的面积为 EMBED Equation.DSMT4  (平方厘米)．
+【答案】1.14
+
+某仿古钱币直径为 EMBED Equation.DSMT4  厘米，钱币内孔边缘恰好是圆心在钱币外缘均匀分布的等弧(如图)．求钱币在桌面上能覆盖的面积为多少？
+    
+【考点】圆与扇形      【难度】3星            【题型】解答
+将古钱币分成 EMBED Equation.DSMT4  个部分，外部的 EMBED Equation.DSMT4  个弓形的面积和等于大圆减去内接正方形，
+中间的四个扇形的面积恰好等于内接正方形内的内切圆面积，所以总面积等于：
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  ．
+【答案】10.84
+
+传说古老的天竺国有一座钟楼，钟楼上有一座大钟，这座大钟的钟面有10平方米．每当太阳西下，钟面就会出现奇妙的阴影(如右图)．那么，阴影部分的面积是      平方米．
+
+【考点】圆与扇形      【难度】4星            【题型】解答
+【关键词】小学生数学报
+等积变形，对应思想将中间的正三角形旋转如右图，图中阴影部分的面积与原图阴影部分的面积相等．由 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  面积相等，推知阴影部分占圆面积的一半． EMBED Equation.DSMT4  (平方米)．
+【答案】5
+
+【巩固】图中是一个钟表的圆面，图中阴影部分甲与阴影部分乙的面积之比是多少？
+
+【考点】圆与扇形      【难度】5星            【题型】解答
+根据图形特点，可以把阴影部分甲与乙分别从不同的角度进行分解：
+阴影部分甲 EMBED Equation.DSMT4  的扇形 EMBED Equation.DSMT4  三角形 EMBED Equation.DSMT4  小弓形；
+阴影部分乙 EMBED Equation.DSMT4  三角形 EMBED Equation.DSMT4  小弓形；
+由于 EMBED Equation.DSMT4  扇形的面积容易求得，所以问题的关键在于确定弓形与三角形的面积：
+
+综上所述：阴影部分甲的面积 EMBED Equation.DSMT4  圆的面积的 EMBED Equation.DSMT4  圆的面积的 EMBED Equation.DSMT4  ．所以甲、乙面积之比为 EMBED Equation.DSMT4  ．
+【答案】1:1
+
+【巩固】传说古老的天竺国有一座钟楼，钟楼上有一座大钟，这座大钟的钟面有10平方米．每当太阳西下，钟面就会出现奇妙的阴影(如左下图)．那么，阴影部分的面积是多少平方米？
+            
+【考点】圆与扇形      【难度】4星            【题型】解答
+在这个题目中，阴影部分和空白部分都是不规则图形，那么我们既无法通过面积公式直接求出阴影部分面积，也无法通过求出空白部分面积，再用大圆面积减去空白部分面积求解，这个时候，我们只能利用整体思想，通过转化，寻找阴影部分与整体图形的关系．
+将原题图中的等边三角形旋转30°(注意，只转三角形，圆形不动)，得到右上图．因为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  都是等边三角形，所以四边形 EMBED Equation.DSMT4  是菱形，推知 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  面积相等．又因为弦 EMBED Equation.DSMT4  所对的弓形与弦 EMBED Equation.DSMT4  所对的弓形面积相等，所以扇形 EMBED Equation.DSMT4  中阴影部分面积占一半．同理，在扇形 EMBED Equation.DSMT4  、扇形 EMBED Equation.DSMT4  中，阴影部分面积也占一半．所以，阴影部分面积占圆面积的一半，是 EMBED Equation.DSMT4  (平方米)．
+【答案】5
+
+【巩固】如图，已知三角形 EMBED Equation.DSMT4  是边长为26厘米的正三角形，圆 EMBED Equation.DSMT4  的半径为 EMBED Equation.DSMT4  厘米．
+　　　　 EMBED Equation.DSMT4  ．求阴影部分的面积．
+
+【考点】圆与扇形      【难度】5星            【题型】解答
+直接解决．
+	　　总阴影面积 EMBED Equation.DSMT4  每块阴影面积 EMBED Equation.DSMT4  (大弓形 EMBED Equation.DSMT4  小弓形) EMBED Equation.DSMT4  ．
+	　　关键在于大弓形中三角形的面积，
+	　　设 EMBED Equation.DSMT4  为弧 EMBED Equation.DSMT4  的中点，则可知 EMBED Equation.DSMT4  是菱形， EMBED Equation.DSMT4  是正三角形，
+	　　所以，三角形 EMBED Equation.DSMT4  的面积 EMBED Equation.DSMT4  ．
+	　　所以大弓形的面积：  EMBED Equation.DSMT4  
+　　　　　　　　　　　　　　　 EMBED Equation.DSMT4  
+　　　　　　　　　　　　　　　 EMBED Equation.DSMT4  ．
+	　　小弓形的面积： EMBED Equation.DSMT4  ．
+　　　　所以，总阴影面积 EMBED Equation.DSMT4  (平方厘米)．
+【答案】221.625
+
+如下图，两个半径相等的圆相交，两圆的圆心相距正好等于半径， EMBED Equation.DSMT4  弦约等于17厘米，半径为10厘米，求阴影部分的面积．
+
+【考点】圆与扇形      【难度】3星            【题型】解答
+阴影部分由两个相等的弓形组成，所以只需要求出一个弓形的面积就可以了．
+由已知条件，若分别连结 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，如图所示，就可以得到两个等边三角形(各边长均等于半径)，则 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ．
+这样就可以求出以 EMBED Equation.DSMT4  为圆心的扇形 EMBED Equation.DSMT4  的面积，然后再减去三角形 EMBED Equation.DSMT4  的面积，就得到弓形的面积，三角形 EMBED Equation.DSMT4  的面积可采用面积公式直接求出，其中底是弦 EMBED Equation.DSMT4  ，高是 EMBED Equation.DSMT4  的一半．
+所以，阴影部分面积 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  (平方厘米)．
+【答案】 EMBED Equation.DSMT4  
+
+下图中， EMBED Equation.DSMT4  ，阴影部分的面积是                 
+       
+【考点】圆与扇形      【难度】4星            【题型】填空
+如图可知 EMBED Equation.DSMT4  3，设大半圆半径为 EMBED Equation.DSMT4  ，小圆半径为 EMBED Equation.DSMT4  ，如右图 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，根据勾股定理得 EMBED Equation.DSMT4  ，故大半圆面积等于小圆面积，由图可知
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】4.5
+
+如图， EMBED Equation.DSMT4  是平行四边形， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，高 EMBED Equation.DSMT4  ，弧 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  为半径，弧 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  为半径，则阴影部分的面积为多少？(精确到 EMBED Equation.DSMT4  )
+
+【考点】圆与扇形      【难度】5星            【题型】解答
+因为四边形 EMBED Equation.DSMT4  是平行四边形， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以
+         EMBED Equation.DSMT4  ，
+         EMBED Equation.DSMT4  ．
+        因为平行四边形 EMBED Equation.DSMT4  的高 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ．
+        由图中可看出，扇形 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的面积之和，减去平行四边形 EMBED Equation.DSMT4  的面积，等于曲边四边形 EMBED Equation.DSMT4  的面积；平行四边形 EMBED Equation.DSMT4  的面积减去扇形 EMBED Equation.DSMT4  与扇形 EMBED Equation.DSMT4  的面积，等于曲边四边形 EMBED Equation.DSMT4  的面积．则
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  ．
+【答案】5.83
+
+如图所示，两条线段相互垂直，全长为30厘米．圆紧贴直线从一端滚动到另一端(没有离开也没有滑动)．在圆周上设一个定点 EMBED Equation.DSMT4  ，点 EMBED Equation.DSMT4  从圆开始滚动时是接触直线的，当圆停止滚动时也接触到直线，而在圆滚动的全部过程中点 EMBED Equation.DSMT4  是不接触直线的．那么，圆的半径是多少厘米？(设圆周率为3．14，除不尽时，请四舍五入保留小数点后两位．如有多种答案请全部写出)
+
+【考点】圆与扇形      【难度】3星            【题型】解答
+如上图：因为在圆滚动的全部过程中点 EMBED Equation.DSMT4  是不接触直线的，所以这个圆的运动情况有两种可能．一种是圆滚动了不足一圈，根据 EMBED Equation.DSMT4  点的初始位置和终止位置，可知圆滚动了270º．另一种是圆在第一条直线上滚动了将近一圈，在第二条直线上又滚动了将近一圈，根据 EMBED Equation.DSMT4  点的初始位置和终止位置，可知圆滚动了 EMBED Equation.DSMT4  ．
+因为两条线段共长30厘米，所以270º的弧长或者630º的弧长再加上两个半径是30厘米．
+ EMBED Equation.DSMT4  (厘米)，或者 EMBED Equation.3  (厘米)，所以圆的半径是 EMBED Equation.DSMT4  厘米或 EMBED Equation.DSMT4  厘米．
+【答案】2.31
+
+将一块边长为 EMBED Equation.DSMT4  厘米的有缺损的正方形铁皮(如图)剪成一块无缺损的正方形铁皮，求剪成的正方形铁皮的面积的最大值.
+
+图1					   图2					   图3
+【考点】圆与扇形      【难度】5星            【题型】解答
+【关键词】希望杯
+如图 EMBED Equation.DSMT4  所示，使 EMBED Equation.DSMT4  (厘米)，则正方形 EMBED Equation.DSMT4  的面积为 EMBED Equation.DSMT4   (平方厘米).如图 EMBED Equation.DSMT4  所示，使 EMBED Equation.DSMT4  (厘米)，则正方形 EMBED Equation.DSMT4  的面积为 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  (平方厘米).
+如图 EMBED Equation.DSMT4  所示，连结 EMBED Equation.DSMT4  交曲线于点 EMBED Equation.DSMT4  ，使 EMBED Equation.DSMT4  .观察图 EMBED Equation.DSMT4  可知 EMBED Equation.DSMT4  (厘米).(注： EMBED Equation.DSMT4  的长度在( EMBED Equation.DSMT4  )厘米之间均可．)于是正方形 EMBED Equation.DSMT4  的面积为 EMBED Equation.DSMT4  (平方厘米).
+因为 EMBED Equation.DSMT4  ，所以剪成的正方形铁皮的面积最大为 EMBED Equation.DSMT4  平方厘米. 
+【答案】110.25
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+
+
+
+
+
+
+
+
+圆与扇形
+
+例题精讲
+
+
+

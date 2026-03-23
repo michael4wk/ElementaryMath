@@ -1,0 +1,150 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+了解容斥原理二量重叠和三量重叠的内容；
+掌握容斥原理的在组合计数等各个方面的应用．
+ SHAPE  \* MERGEFORMAT 
+一、两量重叠问题
+在一些计数问题中，经常遇到有关集合元素个数的计算．求两个集合并集的元素的个数，不能简单地把两个集合的元素个数相加，而要从两个集合个数之和中减去重复计算的元素个数，即减去交集的元素个数，用式子可表示成： EMBED Equation.DSMT4  (其中符号“ EMBED Equation.DSMT4  ”读作“并”，相当于中文“和”或者“或”的意思；符号“ EMBED Equation.DSMT4  ”读作“交”，相当于中文“且”的意思．)则称这一公式为包含与排除原理，简称容斥原理．图示如下: EMBED Equation.DSMT4  表示小圆部分， EMBED Equation.DSMT4  表示大圆部分， EMBED Equation.DSMT4  表示大圆与小圆的公共部分，记为： EMBED Equation.DSMT4  ，即阴影面积．图示如下: EMBED Equation.DSMT4  表示小圆部分， EMBED Equation.DSMT4  表示大圆部分， EMBED Equation.DSMT4  表示大圆与小圆的公共部分，记为： EMBED Equation.DSMT4  ，即阴影面积．
+　       
+
+包含与排除原理告诉我们，要计算两个集合 EMBED Equation.DSMT4  的并集 EMBED Equation.DSMT4  的元素的个数，可分以下两步进行：
+第一步：分别计算集合 EMBED Equation.DSMT4  的元素个数，然后加起来，即先求 EMBED Equation.DSMT4  (意思是把 EMBED Equation.DSMT4  的一切元素都“包含”进来，加在一起)；
+第二步：从上面的和中减去交集的元素个数，即减去 EMBED Equation.DSMT4  (意思是“排除”了重复计算的元素个数)．
+二、三量重叠问题
+ EMBED Equation.DSMT4  类、 EMBED Equation.DSMT4  类与 EMBED Equation.DSMT4  类元素个数的总和 EMBED Equation.DSMT4  类元素的个数 EMBED Equation.DSMT4  类元素个数 EMBED Equation.DSMT4  类元素个数 EMBED Equation.DSMT4  既是 EMBED Equation.DSMT4  类又是 EMBED Equation.DSMT4  类的元素个数 EMBED Equation.DSMT4  既是 EMBED Equation.DSMT4  类又是 EMBED Equation.DSMT4  类的元素个数 EMBED Equation.DSMT4  既是 EMBED Equation.DSMT4  类又是 EMBED Equation.DSMT4  类的元素个数 EMBED Equation.DSMT4  同时是 EMBED Equation.DSMT4  类、 EMBED Equation.DSMT4  类、 EMBED Equation.DSMT4  类的元素个数．用符号表示为： EMBED Equation.DSMT4  ．图示如下：
+
+
+在解答有关包含排除问题时，我们常常利用圆圈图(韦恩图)来帮助分析思考．
+
+ SHAPE  \* MERGEFORMAT 
+“走美”主试委员会为三～八年级准备决赛试题。每个年级 EMBED Equation.DSMT4  道题，并且至少有 EMBED Equation.DSMT4  道题与其他各年级都不同。如果每道题出现在不同年级，最多只能出现 EMBED Equation.DSMT4  次。本届活动至少要准备        道决赛试题。
+【考点】容斥原理之最值问题   【难度】4星   【题型】填空
+【关键词】走美杯，4年级，决赛，第9题
+每个年级都有自己 EMBED Equation.DSMT4  道题目，然后可以三至五年级共用 EMBED Equation.DSMT4  道题目，六到八年级共用 EMBED Equation.DSMT4  道题目，总共有 EMBED Equation.DSMT4  （道）题目。
+【答案】 EMBED Equation.DSMT4  题
+
+将1～13这13个数字分别填入如图所示的由四个大小相同的圆分割成的13个区域中，然后把每个圆内的7个数相加，最后把四个圆的和相加，问：和最大是多少？
+【考点】容斥原理之最值问题   【难度】4星   【题型】填空
+
+越是中间，被重复计算的越多，最中心的区域被重复计算四次，将数字按从大到小依次填写于被重复计算多的区格中，最大和为：
+13×4+（12+11+10+9）×3+（8+7+6+5）×2+（4+3+2+1）=240.
+【答案】 EMBED Equation.DSMT4  
+
+如图，5条同样长的线段拼成了一个五角星．如果每条线段上恰有1994个点被染成红色，那么在这个五角星上红色点最少有多少个?
+【考点】容斥原理之最值问题   【难度】4星   【题型】填空
+
+如下图，下图中“”位置均有两条线段通过，也就是交点，如果这些交点所对应的线段都在“”位置恰有红色点，那么在五角星上重叠的红色点最多，所以此时显现的红色点最少，有1994×5-(2-1)×10=9960个．
+【答案】 EMBED Equation.DSMT4  
+
+某班共有学生48人，其中27人会游泳，33人会骑自行车，40人会打乒乓球．那么，这个班至少有多少学生这三项运动都会？
+【考点】容斥原理之最值问题   【难度】4星   【题型】填空
+（法1）首先看至少有多少人会游泳、自行车两项，由于会游泳的有27人，会骑自行车的有33人，而总人数为48人，在会游泳人数和会骑自行车人数确定的情况下，两项都会的学生至少有 EMBED Equation.DSMT4  人，再看会游泳、自行车以及乒乓球三项的学生人数，至少有 EMBED Equation.DSMT4  人.
+　　　　该情况可以用线段图来构造和示意：
+　　　　
+　　　　（法2）设三项运动都会的人有 EMBED Equation.DSMT4  人，只会两项的有 EMBED Equation.DSMT4  人，只会一项的有 EMBED Equation.DSMT4  人，
+　　　　那么根据在统计中会 EMBED Equation.DSMT4  项运动的学生被统计 EMBED Equation.DSMT4  次的规律有以下等式：
+　　　　 EMBED Equation.DSMT4  
+　　　　由第一条方程可得到 EMBED Equation.DSMT4  ，将其代入第二条式子得到：
+　　　　 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ①
+　　　　而第二条式子还能得到式子 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ②
+　　　　联立①和②得到 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ．可行情况构造同上．
+【答案】 EMBED Equation.DSMT4  
+
+【巩固】某班有 EMBED Equation.DSMT4  名学生，参加语文竞赛的有 EMBED Equation.DSMT4  人，参加数学竞赛的有 EMBED Equation.DSMT4  人，参加英语竞赛的有 EMBED Equation.DSMT4  人，每人最多参加两科，那么参加两科的最多有        人．
+【考点】容斥原理之最值问题   【难度】4星   【题型】填空
+根据题意可知，该班参加竞赛的共有 EMBED Equation.DSMT4  人次．由于每人最多参加两科，也就是说有参加2科的，有参加1科的，也有不参加的，共是71人次．要求参加两科的人数最多，则让这 EMBED Equation.DSMT4  人次尽可能多地重复，而 EMBED Equation.DSMT4  ，所以至多有 EMBED Equation.DSMT4  人参加两科，此时还有1人参加1科．
+那么是否存在35人参加两科的情况呢？由于此时还有1人是只参加一科的，假设这个人只参加数学一科，那么可知此时参加语文、数学两科的共有 EMBED Equation.DSMT4  人，参加语文、英语两科的共有 EMBED Equation.DSMT4  人，参加数学、英语两科的共有 EMBED Equation.DSMT4  人．也就是说，此时全班有15人参加语文、数学两科，13人参加语文、英语两科，7人参加数学、英语两科，1人只参加数学1科，还有14人不参加．检验可知符合题设条件．所以35人是可以达到的，则参加两科的最多有35人．（当然本题中也可以假设只参加一科的参加的是语文或英语）
+【答案】 EMBED Equation.DSMT4  
+
+【巩固】60人中有 EMBED Equation.DSMT4  的人会打乒乓球， EMBED Equation.DSMT4  的人会打羽毛球， EMBED Equation.DSMT4  的人会打排球，这三项运动都会的人有 EMBED Equation.DSMT4  人，问：这三项运动都不会的最多有多少人？
+【考点】容斥原理之最值问题   【难度】4星   【题型】填空
+设只会打乒乓球和羽毛球两项的人有 EMBED Equation.DSMT4  人，只会打乒乓球和排球两项的有 EMBED Equation.DSMT4  人，只会打羽毛球和排球两项的有 EMBED Equation.DSMT4  人．由于只会三项运动中的一项的不可能小于 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  有如下关系：
+　　　　 EMBED Equation.DSMT4  
+将三条关系式相加，得到 EMBED Equation.DSMT4  ，而60人当中会至少一项运动的人数有
+ EMBED Equation.DSMT4  人，所以60人当中三项都不会的人数最多4人（当 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别取 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  时，不等式组成立）．
+【答案】 EMBED Equation.DSMT4  
+
+图书室有100本书，借阅图书者需在图书上签名．已知这100本书中有甲、乙、丙签名的分别有33，44和55本，其中同时有甲、乙签名的图书为29本，同时有甲、丙签名的图书为25本，同时有乙、丙签名的图书为36本．问这批图书中最少有多少本没有被甲、乙、丙中的任何一人借阅过?
+
+【考点】容斥原理之最值问题   【难度】4星   【题型】填空
+设甲借过的书组成集合A，乙借过的书组成集合B，丙借过的书组成集合C．=33, =44，=55，=29，=25，=36．
+本题只需算出甲、乙、丙中至少有一人借过的书的最大值，再将其与100作差即可．
+,
+当最大时，有最大值.也就是说当三人都借过的书最多时，甲、乙、丙中至少有一人借过的书最多．
+而最大不超过、、、、、 6个数中的最小值，所以最大为25．此时=33+44+55-29-25-36+25=67，即三者至少有一人借过的书最多为67本，所以这批图书中最少有33本没有被甲、乙、丙中的任何一人借阅过．
+【答案】 EMBED Equation.DSMT4  
+
+【巩固】甲、乙、丙都在读同-一本故事书，书中有100个故事．每个人都从某一个故事开始，按顺序往后读．已知甲读了75个故事，乙读了60个故事，丙读了52个故事．那么甲、乙、丙3人共同读过的故事最少有多少个?
+
+【考点】容斥原理之最值问题   【难度】4星   【题型】填空
+考虑甲乙两人情况，有甲乙都读过的最少为：75+60-100=35个，此时甲单独读过的为75-35=40个，乙单独读过的为60-35=25个；欲使甲、乙、丙三人都读过的书最少时，应将丙读过的书尽量分散在某端，于是三者都读过书最少为52-40=12个．
+【答案】 EMBED Equation.DSMT4  
+
+某数学竞赛共160人进入决赛，决赛共四题，做对第一题的有136人，做对第二题的有125人，做对第三题的有118人，做对第四题的有104人。在这次决赛中至少有____得满分。
+【考点】容斥原理之最值问题   【难度】5星   【题型】填空
+【关键词】走美杯，5年级，决赛，第10题
+设得满分的人都做对3道题时得满分的人最少，有136+125+118+104-160 EMBED Equation.DSMT4  3=3(人)。
+【答案】 EMBED Equation.DSMT4  人
+
+某班有46人，其中有40人会骑自行车，38人会打乒乓球，35人会打羽毛球，27人会游泳，则该班这四项运动都会的至少有         人。
+【考点】容斥原理之最值问题   【难度】5星   【题型】填空
+【关键词】希望杯，4年级，1试
+不会骑车的6人，不会打乒乓球的8人，不会羽毛球的11人，不会游泳的19人，那么至少不会一项的最多只有6+8+11+19=44人，那么思想都会的至少44人
+【答案】 EMBED Equation.DSMT4  人
+
+在阳光明媚的一天下午，甲、乙、丙、丁四人给100盆花浇水，已知甲浇了30盆，乙浇了75盆，丙浇了80盆，丁浇了90盆，请问恰好被3个人浇过的花最少有多少盆？
+【考点】容斥原理之最值问题   【难度】5星   【题型】填空
+为了恰好被3个人浇过的花盆数量最少，那么被四个人浇过的花、两个人浇过的花和一个人浇过的花数量都要尽量多，那么应该可以知道被四个人浇过的花数量最多是30盆，那么接下来就变成乙浇了45盆，丙浇了50盆，丁浇60盆了，这时共有 EMBED Equation.DSMT4  盆花，我们要让这70盆中恰好被3个人浇过的花最少，这就是简单的容斥原理了，恰好被3个人浇过的花最少有 EMBED Equation.DSMT4  盆．
+【答案】 EMBED Equation.DSMT4  
+
+甲、乙、丙同时给100盆花浇水．已知甲浇了78盆，乙浇了68盆，丙浇了58盆，那么3人都浇过的花最少有多少盆?
+【考点】容斥原理之最值问题   【难度】4星   【题型】填空
+只考虑甲乙两人情况，有甲、乙都浇过的最少为：78+68-100=46盆，此时甲单独浇过的为78-46=32盆，乙单独浇过的为68-46=22盆；
+欲使甲、乙、丙三人都浇过的花最少时，应将丙浇过的花尽量分散在两端．于是三者都浇过花最少为58-32-22=4盆．
+【答案】 EMBED Equation.DSMT4  
+
+在阳光明媚的一天下午，甲、乙、丙、丁四人给100盆花浇水，已知甲浇了30盆，乙浇了75盆，丙浇了80盆，丁浇了90盆，请问恰好被1个人浇过的花最少有多少盆？
+【考点】容斥原理之最值问题   【难度】5星   【题型】填空
+100盆花共被浇水275次，平均每盆被浇 EMBED Equation.DSMT4  次，为了让被浇1次的花多，我们也需要被浇4次的花尽量多，为30盆，那么余下70盆共被浇155次，平均每盆被浇 EMBED Equation.DSMT4  次，说明需要一些花被浇3次才可以．我们假设70盆都被浇3次，那么多出55次，每盆花少浇2次变为被浇1次最多可以变27次，所以本题答案为27盆．
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+7-7-5.容斥原理之最值问题.题库	                         教师版                        page  PAGE 6 of  NUMPAGES 6
+
+
+
+7-7-5.容斥原理之最值问题
+
+
+教学目标
+
+例题精讲
+
+1．先包含： EMBED Equation.DSMT4  
+重叠部分 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  重叠了 EMBED Equation.DSMT4  次，多加了 EMBED Equation.DSMT4  次．
+2．再排除： EMBED Equation.DSMT4  
+重叠部分 EMBED Equation.DSMT4  重叠了 EMBED Equation.DSMT4  次，但是在进行 EMBED Equation.DSMT4    EMBED Equation.DSMT4  计算时都被减掉了．
+3．再包含： EMBED Equation.DSMT4  ．
+
+图中小圆表示 EMBED Equation.DSMT4  的元素的个数，中圆表示 EMBED Equation.DSMT4  的元素的个数，大圆表示 EMBED Equation.DSMT4  的元素的个数．
+
+知识要点
+
+1．先包含—— EMBED Equation.DSMT4  
+重叠部分 EMBED Equation.DSMT4  计算了 EMBED Equation.DSMT4  次，多加了 EMBED Equation.DSMT4  次；
+2．再排除—— EMBED Equation.DSMT4  
+把多加了 EMBED Equation.DSMT4  次的重叠部分 EMBED Equation.DSMT4  减去．
+
+
+

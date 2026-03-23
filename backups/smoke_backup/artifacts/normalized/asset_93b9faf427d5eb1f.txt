@@ -1,0 +1,206 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+掌握质数与合数的定义
+能够用特殊的偶质数2与质数5解题
+能够利用质数个位数的特点解题
+质数、合数综合运用
+ SHAPE  \* MERGEFORMAT 
+一、质数与合数
+一个数除了1和它本身，不再有别的约数，这个数叫做质数(也叫做素数).一个数除了1和它本身，还有别的约数，这个数叫做合数.
+要特别记住：0和1不是质数，也不是合数.
+常用的100以内的质数：2、3、5、7、11、13、17、19、23、29、31、37、41、43、47、53、59、61、67、71、73、79、83、89、97，共计25个；除了2其余的质数都是奇数；除了2和5，其余的质数个位数字只能是1，3，7或9.
+考点：⑴ 值得注意的是很多题都会以质数2的特殊性为考点.
+⑵ 除了2和5，其余质数个位数字只能是1，3，7或9.这也是很多题解题思路，需要大家注意.
+二、判断一个数是否为质数的方法
+根据定义如果能够找到一个小于p的质数q(均为整数)，使得q能够整除p，那么p就不是质数，所以我们只要拿所有小于p的质数去除p就可以了；但是这样的计算量很大，对于不太大的p，我们可以先找一个大于且接近p的平方数 EMBED Equation.DSMT4  ，再列出所有不大于K的质数，用这些质数去除p，如没有能够除尽的那么p就为质数.例如：149很接近 EMBED Equation.DSMT4  ，根据整除的性质149不能被2、3、5、7、11整除，所以149是质数.。
+ SHAPE  \* MERGEFORMAT 
+模块一、偶质数2
+如果 EMBED Equation.DSMT4  都是质数，并且 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  的最小值是_________
+【考点】偶质数2  【难度】2星   【题型】填空
+【关键词】希望杯，4年级，初赛，17题
+本题考察的是最小的偶质数2，所以 EMBED Equation.DSMT4  最小是2.	
+【答案】 EMBED Equation.DSMT4  
+
+两个质数之和为 EMBED Equation.DSMT4  ，求这两个质数的乘积是多少.
+【考点】偶质数2   【难度】2星   【题型】解答
+因为和为奇数，所以这两个数必为一奇一偶，所以其中一个是 EMBED Equation.DSMT4  ，另一个是 EMBED Equation.DSMT4  ，乘积为 EMBED Equation.DSMT4  .我们要善于抓住此类题的突破口。
+【答案】74
+
+将1999表示为两年质数之和：l999=口+口，在口中填入质数。共有多少种表示法?
+【考点】偶质数2     【难度】2星   【题型】填空
+【关键词】华杯赛初赛第1题
+因为两个奇数的和是偶数，所以将1999表示成两个质数的和，这两个质数中必有一个是偶数，因而也就是2，另一个是　1999－2＝1997即1999＝2十1997，只有一种填法(我们将2＋1997与1997＋2作为同一种)．
+【答案】一种
+
+A，B，C为3个小于20的质数， EMBED Equation.DSMT4  ，求这三个质数. 
+【考点】偶质数2   【难度】2星   【题型】解答
+因为三个质数之和为偶数，所以这三个质数必为两奇一偶，其中偶数只能是 EMBED Equation.DSMT4  ，另两个奇质数之和为 EMBED Equation.DSMT4  ，又因为这三个数都要小于 EMBED Equation.DSMT4  ，所以只能为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，所以这三个质数分别是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+
+把100分拆成三个质数（只能被1和它本身整除且大于1的自然数叫做质数）的和，共有_____种方法。
+【考点】偶质数2   【难度】2星   【题型】填空
+【关键词】走美杯，四年级，初赛，第6题
+100是个偶数，拆成3个质数之和，而质数中除2以外，其他的都是奇数，3个奇数之和为奇数，所以其中必有2，现在知两个质数之和为98，则可拆成61+37、67+31、19+79。所以共有3种方法。
+【答案】 EMBED Equation.DSMT4  种
+
+已知3个不同质数的和是最小的合数的完全平方，求这3个质数的乘积是多少？
+【考点】偶质数2   【难度】2星   【题型】解答
+最小的合数是4，其平方为16．我们知道奇数个奇数的和是奇数，所以这3个质数中必然有2，那么其余2个的和是14，只能一个是3一个是11，因此这3个质数的乘积是 EMBED Equation.DSMT4  ．
+【答案】66
+
+7个连续质数从大到小排列是a、b、c、d、e、f、g已知它们的和是偶数，那么d是多少？
+【考点】偶质数2   【难度】2星   【题型】解答
+因为7个质数的和是偶数，所以这7个质数不可能都是奇数.我们知道是偶数的质数只有2，因此这7个质数中必有一个是2.又因为2是最小的质数，并且这7个连续质数是从大到小排列的，所以 EMBED Equation.DSMT4  .其他6个数从大到小依次是17、13、11、7、5、3.这样 EMBED Equation.DSMT4  .
+【答案】7
+
+如果a，b均为质数，且 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ______.
+【考点】偶质数2   【难度】3星   【题型】填空
+【关键词】希望杯，五年级，复赛，第8题，4分
+根据题意a,b中必然有一个偶质数2，，当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ，当 EMBED Equation.DSMT4  时不符合题意，所以 EMBED Equation.DSMT4  .
+【答案】7
+
+如果a，b均为质数，且3d＋7b＝41，则a＋b＝________。
+【考点】偶质数2    【难度】3星   【题型】填空
+【关键词】希望杯，六年级，二试，第9题，4分
+根据奇偶性我们可以知道a、b中必然有一个是2，若a=2，则b=7,满足题意；若b=2,则a=9，与题意不符。所以a为2、b为7，则a+b=9。
+【答案】 EMBED Equation.DSMT4  
+
+已知P,Q都是质数，并且 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  =
+【考点】偶质数2   【难度】3星   【题型】填空
+本题充分考察质数与数字奇偶性知识点的结合。通过观察发现题目中有2个未知数，但是都是质数，从结果上看2003是一个奇数，那么前面2个乘积必须为1个奇数1个偶数，那么P和Q中必须有一个是2才可以。由大小关系可以发现只能Q是2，解出P=199,P×Q=398。
+【答案】398
+
+ EMBED Equation.DSMT4 都是质数，如果 EMBED Equation.DSMT4 ，那么 EMBED Equation.DSMT4            。
+【考点】偶质数2   【难度】3星   【题型】填空
+【关键词】希望杯，五年级，复赛，第5题，6分
+由于342是2的倍数，不是4的倍数，所以 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  为一奇一偶，则 EMBED Equation.DSMT4  或者 EMBED Equation.DSMT4  为质数2，令 EMBED Equation.DSMT4  ，而342=2×3×3×19，则 EMBED Equation.DSMT4  或者 EMBED Equation.DSMT4  或者 EMBED Equation.DSMT4  ，对应的 EMBED Equation.DSMT4  为7或者55或者169，只有7是质数，所以 EMBED Equation.DSMT4  =7。
+【答案】 EMBED Equation.DSMT4  
+
+三个质数△、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，如果 EMBED Equation.DSMT4   EMBED Equation.DSMT4  △ EMBED Equation.DSMT4  1，△ EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，那么△是多少？
+【考点】偶质数2   【难度】3星   【题型】填空
+除了2以外的质数都是奇数，这样的两个奇数相加必然得偶数不成立，所以△、 EMBED Equation.DSMT4  必有一个偶质数2，又因为 EMBED Equation.DSMT4   EMBED Equation.DSMT4  △ EMBED Equation.DSMT4  1，所以△ EMBED Equation.DSMT4  2
+【答案】2
+
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  都是质数，并且 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，  EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4   ____ 。
+【考点】偶质数2   【难度】3星   【题型】填空
+【关键词】希望杯，五年级，初赛，第8题，5分
+ EMBED Equation.DSMT4  为奇数，所以a=2，b=31，c=13，d=53，那么cd=13×53=689
+【答案】 EMBED Equation.DSMT4  
+
+已知 EMBED Equation.DSMT4  是质数， EMBED Equation.DSMT4  也是质数，求 EMBED Equation.DSMT4  是多少？
+【考点】偶质数2   【难度】3星   【题型】解答
+ EMBED Equation.DSMT4  是质数， EMBED Equation.DSMT4  必定是合数，而且大于1．又由于 EMBED Equation.DSMT4  是质数， EMBED Equation.DSMT4  大于1， EMBED Equation.DSMT4  一定是奇质数，则 EMBED Equation.DSMT4  一定是偶数．所以 EMBED Equation.DSMT4  必定是偶质数，即 EMBED Equation.DSMT4  ． EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】2029
+
+当p和  EMBED Equation.DSMT4  +5都是质数时， EMBED Equation.DSMT4  +5=       。
+【考点】偶质数2    【难度】3星   【题型】填空
+【关键词】希望杯，五年级，初赛，第6题，6分
+p和p3+5奇偶性不同，所以较小的p一定是2，所以p3+5=13， EMBED Equation.DSMT4  +5= EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  是质数， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  都是质数．求 EMBED Equation.DSMT4  是多少？
+【考点】偶质数2   【难度】3星   【题型】解答
+由题意知 EMBED Equation.DSMT4  是一个奇数，因为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  是3的倍数，所以 EMBED Equation.DSMT4  
+【答案】3
+
+4只同样的瓶子内分别装有一定数量的油．每瓶和其他各瓶分别合称一次，记录千克数如下：8，9，10，11，12，13．已知4只空瓶的重量之和以及油的重量之和均为质数，求最重的两瓶内有多少油？
+【考点】偶质数2   【难度】3星   【题型】解答
+由于每只瓶都称了三次，因此记录数据之和是 EMBED Equation.DSMT4  瓶油(连瓶)重量之和的 EMBED Equation.DSMT4  倍，即 EMBED Equation.DSMT4  瓶油(连瓶)共重( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  (千克)而油重之和及瓶重之和均为质数，所以它们必为一奇一偶，由于 EMBED Equation.DSMT4  是唯一的偶质数，只有两种可能：⑴ 油重之和为 EMBED Equation.DSMT4  千克，瓶重之和为 EMBED Equation.DSMT4  千克，每只瓶重 EMBED Equation.DSMT4  千克，最重的两瓶内的油为 EMBED Equation.DSMT4  (千克)．⑵ 油重之和为 EMBED Equation.DSMT4  千克，瓶重之和为 EMBED Equation.DSMT4  千克，每只瓶重 EMBED Equation.DSMT4  千克，最重的两瓶内的油为 EMBED Equation.DSMT4  (千克)，这与油重之和 EMBED Equation.DSMT4  千克矛盾．因此最重的两瓶内共有 EMBED Equation.DSMT4  千克油。
+【答案】12
+
+三个数 EMBED Equation.DSMT4  都是质数，它们的倒数和的倒数是_______。
+【考点】偶质数2    【难度】3星   【题型】填空
+【关键词】希望杯，六年级，初赛，第12题，6分
+P与P+1和+2奇偶性不同，所以P只能是2,另外两个是3和5，所以它们的倒数和的倒数是 EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  
+
+用0，1，2，…，9这10个数字组成6个质数，每个数字至多用1次，每个质数都不大于500，那么共有多少种不同的组成6个质数的方法．请将所有方法都列出来．
+【考点】偶质数2   【难度】3星   【题型】解答
+【关键词】小学数学夏令营
+除了2以外，质数都是奇数，因为0～9中只有5个奇数，所以如果想组成6个质数，则其中一定有2．又尾数为5的数中只有5是质数，所以5只能单独作为6个质数中的一个数．另4个质数分别以1，3，7，9为个位数，从而列举如下：{2，3，5，7，41，89}，{2，3，5，7，61，89}，{2，3，5，7，89，401}，{2，3，5，7，89，461}，{2，3，5，7，61，409}，{2，3，5，47，61，89}，{2，3，5，41，67，89}，{2，3，5，67，89，401}，{2，5，7，43，61，89}，{2，5，7，61，83，409}．即共有10种不同的方法．
+【答案】10
+
+如果一些不同质数的平均数为21，那么它们中最大的一个数的最大可能值为       ．
+【考点】偶质数2     【难度】4星   【题型】填空
+【关键词】迎春杯，高年级，复赛，4题
+对于任意一组数，其中大于平均数的超出部分之和一定等于小于平均数的不足部分之和，所以为了使这些质数中最大的数更大，应该尽可能多地取小于21的质数，由于大于21的所有质数都是奇数，所以大于平均数21的超出部分之和一定是偶数，相应的所取的小于21的质数与21的差之和也应该是偶数，所以唯一的偶质数2是不能取的，因为它与21的差为奇数．剩下7个数的和是75，21×8-75=93，小于93的最大的质数是89．当这些质数取3，5，7，11，13，19，89时符合条件．
+【答案】 EMBED Equation.DSMT4  
+模块二、质数5
+已知 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  都是质数，那么 EMBED Equation.DSMT4           。
+【考点】质数 EMBED Equation.DSMT4     【难度】3星   【题型】填空
+【关键词】学而思杯，6年级，第4题
+由于 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  除以 EMBED Equation.DSMT4  的余数分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，  EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  这 EMBED Equation.DSMT4  个数除以 EMBED Equation.DSMT4  的余数互不相同，那么其中必然有除以 EMBED Equation.DSMT4  余 EMBED Equation.DSMT4  的，也就是有 EMBED Equation.DSMT4  的倍数，而这 EMBED Equation.DSMT4  个数都是质数，那么只能是 EMBED Equation.DSMT4  。由于 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  都比 EMBED Equation.DSMT4  大，所以 EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+模块三、数字的拆分
+将60拆成10个质数之和，要求最大的质数尽可能小，那么其中最大的质数是多少？
+【考点】数字的拆分   【难度】2星   【题型】解答
+最大的质数必大于5，否则10个质数之和将不大于50，又60=7+7+7+7+7+7+7+7+2+2即8个7与2个2的和为60，故其中最大的质数是7．
+【答案】7
+
+将50分拆成10个质数的和，要求其中最大的质数尽可能大，则这个最大的质数是多少？
+【考点】数字的拆分   【难度】2星   【题型】解答
+若要求最大的质数尽可能大，则其余9个质数应尽可能小，最佳的方案是9个2。但是此时剩余的数为32，不是质数，所以退而求其次，另其余9个数为8个2，1个3，那么第10个数为31
+【答案】31
+
+将37拆成若干个不同的质数之和，有多少种不同的拆法？将每一种拆法中拆出的那些质数相乘，得到的乘积中，哪个最小？
+【考点】数字的拆分   【难度】3星   【题型】解答
+枚举法：有些学生会问，老师：什么时候用枚举法？1.数不大，种类比较少2.没有规律，不能用排列组合等方法3.能有方法做的时候建议不采用枚举的方法
+37=3+5+29=2+5+7+23=3+11+23=2+3+13+19=5+13+19
+7+11+19=2+5+11+19=7+13+17=2+5+13+17=2+7+11+17
+共有10种不同的拆法，其中3×5×29=435最小
+【答案】10种，最小乘积为435
+
+甲乙两人的年龄和为一个质数，这个数的个位与十位数字的和是13，甲比乙大13岁，那么乙今年多大？ 
+【考点】数字的拆分   【难度】3星   【题型】解答
+个位与十位数字之和为13，那么这样的质数在两位数中只有67，三位数中为167，再继续则不符合常理，所以甲乙年龄有可能分别为40,27岁，或者90，77岁，所以乙的年龄可能为27岁或77岁。
+【答案】27或77
+
+三位数 EMBED Equation.DSMT4  满足：它的所有质因数之和是 EMBED Equation.DSMT4  。这样的三位数 EMBED Equation.DSMT4  有        个。
+【考点】数字的拆分   【难度】2星   【题型】填空
+【关键词】学而思杯，6年级，1试
+ EMBED Equation.DSMT4  以内的质数有 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，所以这样的三位数有 EMBED Equation.DSMT4  个。
+【答案】13个
+
+从20以内的质数中选出6个数，写在一个正方体的六个面上，使两个相对面的和都相等，所选的6个数是__________________ 
+【考点】数字的拆分   【难度】3   【题型】填空
+【关键词】走美杯，五年级，初赛，第6题
+20以内的质数有：2，3，5，7，11，13，17，19.显然2不能入选，否则会出现有的和为奇数，有的和为偶数的情况，那么还剩下3，5，7，11，13，17，19这7个数。从中选择6个，相当于从中剔除1个。由于这7个数的和为 EMBED Equation.DSMT4  ，是3的倍数，而选出的6个数之和也是3的倍数，所以被剔除的那个数也是3的倍数，只能是3。所以选出的6个数是：5，7，11，13，17，19.
+【答案】5，7，11，13，17，19.
+
+已知n个自然数之积是2007，这n个自然数之和也是2007，那么n的值最大是_______。
+【考点】分解质因数   【难度】2星   【题型】填空
+【关键词】希望杯，六年级，二试，第10题，5分
+为了构造和与积都等于2007的一组自然数，首先把2007拆成若干个整数之积，然后把和不足的地方用1补足。容易看出来，2007拆分成的整数越多，它们的和就越小，需要添加的1也就越多。2007的质因数分解式是32×223，3+3+223=229，还需要补2007-229=1778个1。所以共有1781个。
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+5-3-2.质数与合数（二）.题库	                        教师版                           page  PAGE 2 of  NUMPAGES 7
+
+
+
+5-3-2.质数与合数（二）
+
+知识框架
+
+知识点拨
+
+例题精讲
+
+
+

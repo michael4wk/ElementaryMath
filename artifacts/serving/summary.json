@@ -1,0 +1,10 @@
+{
+  "audiences": [
+    "student",
+    "teacher"
+  ],
+  "topic_count": 179,
+  "problem_count": 1303,
+  "explanation_count": 179,
+  "total_written_rows": 3322
+}

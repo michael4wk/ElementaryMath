@@ -1,0 +1,451 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE \* MERGEFORMAT 
+定义新运算这类题目是在考验我们的适应能力，我们大家都习惯四则运算，定义新运算就打破了运算规则，要求我们要严格按照题目的规定做题．新定义的运算符号，常见的如△、◎、※等等，这些特殊的运算符号，表示特定的意义，是人为设定的．解答这类题目的关键是理解新定义，严格按照新定义的式子代入数值，把定义的新运算转化成我们所熟悉的四则运算。
+
+ SHAPE \* MERGEFORMAT 
+一  定义新运算
+基本概念：定义一种新的运算符号，这个新的运算符号包含有多种基本（混合）运算。
+基本思路：严格按照新定义的运算规则，把已知的数代入，转化为加减乘除的运算，然后按照基本运算过程、规律进行运算。
+关键问题：正确理解定义的运算符号的意义。
+注意事项：①新的运算不一定符合运算规律，特别注意运算顺序。
+          ②每个新定义的运算符号只能在本题中使用。 
+我们学过的常用运算有：＋、－、×、÷等.
+如：2＋3＝5            2×3＝6
+都是2和3，为什么运算结果不同呢？主要是运算方式不同，实际是对应法则不同.可见一种运算实际就是两个数与一个数的一种对应方法，对应法则不同就是不同的运算.当然，这个对应法则应该是对任意两个数，通过这个法则都有一个唯一确定的数与它们对应.只要符合这个要求，不同的法则就是不同的运算.在这一讲中，我们定义了一些新的运算形式，它们与我们常用的“＋”，“－”，“×”，“÷”运算不相同.
+二  定义新运算分类
+1.直接运算型
+2.反解未知数型
+3.观察规律型
+4.其他类型综合
+
+ SHAPE \* MERGEFORMAT 
+模块一、直接运算型
+若 EMBED Equation.DSMT4  表示 EMBED Equation.DSMT4  ，求 EMBED Equation.DSMT4  的值。
+【考点】定义新运算之直接运算           【难度】2星          【题型】计算 
+A*B是这样结果这样计算出来：先计算A＋3B的结果，再计算A＋B的结果，最后两个结果求乘积。
+由  A*B＝（A＋3B）×（A＋B）
+可知： 5*7＝（5＋3×7）×（5＋7） ＝（5＋21）×12 ＝ 26×12  ＝ 312
+【答案】 EMBED Equation.DSMT4  
+
+定义新运算为a△b＝（a＋1）÷b，求的值。6△（3△4）
+【考点】定义新运算之直接运算           【难度】2星          【题型】计算 
+所求算式是两重运算，先计算括号，所得结果再计算。由a△b＝（a＋1）÷b得，3△4＝（3＋1）÷4＝4÷4＝1；6△（3△4）＝6△1＝（6＋1）÷1＝7
+【答案】 EMBED Equation.DSMT4  
+
+设 EMBED Equation.DSMT4  △ EMBED Equation.DSMT4  ，那么，5△ EMBED Equation.DSMT4  ______，(5△2) △ EMBED Equation.DSMT4  _____.
+【考点】定义新运算之直接运算           【难度】2星          【题型】计算 
+ EMBED Equation.DSMT4  
+         EMBED Equation.DSMT4  , EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  表示数， EMBED Equation.DSMT4  表示 EMBED Equation.DSMT4  ，求3 EMBED Equation.DSMT4  (6 EMBED Equation.DSMT4  8) 
+【考点】定义新运算之直接运算           【难度】2星          【题型】计算 
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+已知a,b是任意自然数,我们规定: a⊕b= a+b-1, EMBED Equation.DSMT4  ,那么
+ EMBED Equation.DSMT4            . 
+【考点】定义新运算之直接运算           【难度】3星          【题型】计算 
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  表示 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【考点】定义新运算之直接运算           【难度】2星          【题型】计算 
+【关键词】走美杯，3年级，初赛
+原式 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+规定运算“☆”为：若a>b，则a☆b=a＋b；若a=b，则a☆b=a－b＋1；若a<b，则a☆b=a×b。那么，（2☆3）＋（4☆4）＋（7☆5）=        。
+【考点】定义新运算之直接运算           【难度】2星          【题型】计算 
+【关键词】希望杯，四年级，二试
+19
+【答案】 EMBED Equation.DSMT4  
+
+“△”是一种新运算，规定：a△b＝a×c＋b×d(其中c，d为常数)，如5△7＝5×c＋7×d。如果1△2＝5，2△3＝8，那么6△1OOO的计算结果是________。
+【考点】定义新运算之直接运算           【难度】2星          【题型】计算 
+【关键词】希望杯，六年级，二试
+1△2＝1×c＋2×d=5，2△3＝2×c＋3×d=8， 可得c=1,d=2 6△1000＝6×c＋1000×d=2006
+【答案】 EMBED Equation.DSMT4  
+
+对于非零自然数a和b，规定符号 EMBED Equation.DSMT4 的含义是：a EMBED Equation.DSMT4 b＝ EMBED Equation.DSMT4  EMBED Equation.DSMT4  （m是一个确定的整数）。如果1 EMBED Equation.DSMT4 4＝2 EMBED Equation.DSMT4 3，那么3 EMBED Equation.DSMT4 4等于________。
+【考点】定义新运算之直接运算           【难度】2星          【题型】计算 
+【关键词】希望杯，六年级，二试
+根据1 EMBED Equation.DSMT4  4=2 EMBED Equation.DSMT4  3，得到 EMBED Equation.DSMT4  ，解出m=6。所以， EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+对于任意的整数x与y定义新运算“△”： EMBED Equation.DSMT4  ,求2△9。
+【考点】定义新运算之直接运算           【难度】2星          【题型】计算 
+【关键词】北京市 ，迎春杯
+根据定义 EMBED Equation.DSMT4   于是有 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+“*”表示一种运算符号，它的含义是： EMBED Equation.DSMT4   ，已知
+	 EMBED Equation.DSMT4  ，求 EMBED Equation.DSMT4  。
+【考点】定义新运算之直接运算           【难度】2星          【题型】计算 
+根据题意得 EMBED Equation.DSMT4   ，所以
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+[A]表示自然数A的约数的个数.例如4有1,2,4三个约数,可以表示成[4]=3.计算:  EMBED Equation.DSMT4  =          . 
+【考点】定义新运算之直接运算           【难度】3星          【题型】计算 
+因为 EMBED Equation.DSMT4  有 EMBED Equation.DSMT4  个约数,所以[18]=6,同样可知[22]=4,[7]=2.
+原式 EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  
+
+x为正数,<x>表示不超过x的质数的个数,如<5.1>=3,即不超过5.1的质数有2,3,5共3个.那么<<19>+<93>+<4>×<1>×<8>>的值是          . 
+【考点】定义新运算之直接运算           【难度】3星          【题型】计算 
+<19>为不超过19的质数,有2,3,5,7,11,13,17,19共8个.<93>为不超过的质数,共24个,易知<1>=0,所以，原式=<<19>+<93>>=<8+24>=<32>=11.
+【答案】 EMBED Equation.DSMT4  
+
+定义运算“△”如下:对于两个自然数a和b,它们的最大公约数与最小公倍数的和记为a△b.例如:4△6=(4,6)+[4,6]=2+12=14.根据上面定义的运算,18△12=          . 
+【考点】定义新运算之直接运算           【难度】3星          【题型】计算 
+18△12=(18,12)+[18,12]=6+36=42. 
+【答案】 EMBED Equation.DSMT4  
+
+我们规定：符号 EMBED Equation.DSMT4  表示选择两数中较大数的运算，例如：5 EMBED Equation.DSMT4  3=3 EMBED Equation.DSMT4  5=5，符号△表示选择两数中较小数的运算，例如：5△3=3△5=3，计算： EMBED Equation.DSMT4  的结果是多少？ 
+【考点】定义新运算之直接运算           【难度】3星          【题型】计算 
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+规定：符号“&”为选择两数中较大数的运算，“◎”为选择两数中较小数的运算。计算下式：[（7◎3）& 5]×[ 5◎（3 & 7）] 
+【考点】定义新运算之直接运算           【难度】3星          【题型】计算 
+新定义运算进行计算时如果遇到有括号的，要先计算小括号里的，再计算中括号里的。
+ [（7◎6）& 5]×[ 5◎（3 & 9）]＝[ 6 & 5] ×[ 5◎9 ]＝6×5＝30
+【答案】 EMBED Equation.DSMT4  
+
+我们规定：A EMBED Equation.DSMT4  B表示A、B中较大的数，A△B表示A、B中较小的数。则 EMBED Equation.DSMT4                        
+【考点】定义新运算之直接运算           【难度】3星          【题型】计算 
+【关键词】走美杯，3年级，决赛
+根据题目要求计算如下： EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+如果规定a※b =13×a-b ÷8，那么17※24的最后结果是______。
+【考点】定义新运算之直接运算           【难度】2星          【题型】计算 
+【关键词】希望杯，4年级，1试
+17※24=13×17-24÷8=221-3=218
+【答案】 EMBED Equation.DSMT4  
+
+若用G（a）表示自然数a的约数的个数，如：自然数6的约数有1、2、3、6，共4个，记作G（6）=4，则G(36)+G(42)=         。
+【考点】定义新运算之直接运算           【难度】2星          【题型】计算 
+【关键词】希望杯，4年级，1试
+36的约数有：1、2、3、4、6、9、12、18、36。42的约数有：1、2、3、6、7、14、21、42。所以有 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+如果 EMBED Equation.DSMT4  ,那么 EMBED Equation.DSMT4             。
+【考点】定义新运算之直接运算           【难度】2星          【题型】计算 
+【关键词】希望杯，4年级，1试
+2&5=2+5÷10=2.5
+【答案】 EMBED Equation.DSMT4  
+
+ “华”、“杯”、“赛”三个字的四角号码分别是“2440”、“4199”和“3088”，将“华杯赛”的编码取为244041993088，如果这个编码从左起的奇数位的数码不变，偶数位的数码改变为关于9的补码，例如：0变9，1变8等，那么“华杯赛”新的编码是________.
+【考点】定义新运算之直接运算           【难度】2星          【题型】计算 
+【关键词】华杯赛，六年级，决赛
+偶数位自左至右依次为4、0、1、9、0、8，它们关于9的补码自左至右依次为5、9、8、0、9、1，所以“华杯赛”新的编码是：254948903981
+【答案】 EMBED Equation.DSMT4  
+
+羊和狼在一起时，狼要吃掉羊.所以关于羊及狼，我们规定一种运算，用符号△表示：羊△羊=羊；羊△狼=狼；狼△羊=狼；狼△狼=狼，以上运算的意思是：羊与羊在一起还是羊，狼与狼在一起还是狼，但是狼与羊在一起便只剩下狼了。小朋友总是希望羊能战胜狼.所以我们规定另一种运算，用符号☆表示：羊☆羊=羊；羊☆狼=羊；狼☆羊=羊；狼☆狼=狼，这个运算的意思是：羊与羊在一起还是羊，狼与狼在一起还是狼，但由于羊能战胜狼，当狼与羊在一起时，它便被羊赶走而只剩下羊了。对羊或狼，可以用上面规定的运算作混合运算，混合运算的法规是从左到右，括号内先算.运算的结果或是羊，或是狼．求下式的结果：羊△(狼☆羊)☆羊△(狼△狼) 
+【考点】定义新运算之直接运算           【难度】3星          【题型】计算 
+【关键词】华杯赛，复赛
+因为狼△狼=狼，所以原式=羊△(狼☆羊)☆羊△狼无论前面结果如何，最后一步羊△狼或者狼△狼总等于狼，所以 原式=狼
+【答案】狼
+
+一般我们都认为手枪指向谁，谁好像是有危险的，下面的规则同学们能看懂吗
+规定：警察小偷 EMBED Equation.DSMT4  警察，警察 HYPERLINK "http://www.iecool.com/vector/show/237/124058.htm"  INCLUDEPICTURE "http://pic2.iecool.com/yundonglei/qiuleier/qiuleier2_0722.jpg" \* MERGEFORMATINET 小偷 EMBED Equation.DSMT4  小偷．
+        那么：（猎人小兔） HYPERLINK "http://www.iecool.com/vector/show/237/124058.htm"  INCLUDEPICTURE "http://pic2.iecool.com/yundonglei/qiuleier/qiuleier2_0722.jpg" \* MERGEFORMATINET （山羊 HYPERLINK "http://www.iecool.com/vector/show/237/124058.htm"  INCLUDEPICTURE "http://pic2.iecool.com/yundonglei/qiuleier/qiuleier2_0722.jpg" \* MERGEFORMATINET 白菜） EMBED Equation.DSMT4              ．
+【考点】定义新运算之直接运算           【难度】2星          【题型】计算 
+【关键词】学而思杯，4年级
+谁握着枪就留下谁，结果应该是 白菜
+【答案】白菜
+
+模块二、反解未知数型
+如果a△b表示 EMBED Equation.DSMT4  ,例如3△4 EMBED Equation.DSMT4  ,那么,当a△5=30时, a=       . 
+【考点】定义新运算之反解未知数           【难度】3星          【题型】计算 
+依题意,得 EMBED Equation.DSMT4  ,解得 EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  
+
+ 规定新运算※:a※b=3a-2b.若x※(4※1)=7,则x=          . 
+【考点】定义新运算之反解未知数           【难度】3星          【题型】计算 
+因为4※1= EMBED Equation.DSMT4  ,所以x※(4※1)= x※10=3x-20.故3x-20=7,解得x=9.
+【答案】 EMBED Equation.DSMT4  
+
+如果a⊙b表示 EMBED Equation.DSMT4  ,例如4⊙5=3×4-2×5=2,那么,当x⊙5比5⊙x大5时, x=         
+【考点】定义新运算之反解未知数           【难度】3星          【题型】计算 
+根据题意x⊙5-5⊙x=(3x-2×5)-(3×5-2x)=5x-25, 由5x-25=5,解得x=6.
+【答案】 EMBED Equation.DSMT4  
+
+对于数a、b、c、d，规定，< a、b、c、d >＝2ab－c＋d，已知< 1、3、5、x >＝7，求x的值。
+【考点】定义新运算之反解未知数           【难度】3星          【题型】计算 
+根据新定义的算式，列出关于x的等式，解出x即可。  将1、3、5、x代入新定义的运算得：2×1×3－5＋x＝1＋x，又根据已知< 1、3、5、x >＝7，故1＋x＝7，x＝6。
+【答案】 EMBED Equation.DSMT4  
+
+定义新运算为 EMBED Equation.DSMT4  ， = 1 \* GB2 ⑴求 EMBED Equation.DSMT4  的值； = 2 \* GB2 ⑵若 EMBED Equation.DSMT4  则x的值为多少？ 
+【考点】定义新运算之反解未知数           【难度】3星          【题型】计算 
+ = 1 \* GB2 ⑴因为 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  
+ = 2 \* GB2 ⑵ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以x的值为4.4.
+【答案】 = 1 \* GB2 ⑴ EMBED Equation.DSMT4            = 2 \* GB2 ⑵ EMBED Equation.DSMT4  
+
+对于任意的两个自然数 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，规定新运算 EMBED Equation.DSMT4  ： EMBED Equation.DSMT4  ，其中 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  表示自然数.如果 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  等于几？ 
+【考点】定义新运算之反解未知数           【难度】4星          【题型】计算 
+方法一：由题中所给定义可知， EMBED Equation.DSMT4  为多少，则就有多少个乘数． EMBED Equation.DSMT4  ，即：60 EMBED Equation.DSMT4  2 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ，即3 EMBED Equation.DSMT4  3 EMBED Equation.DSMT4  ,所以 EMBED Equation.DSMT4  ．
+方法二：可以先将（x EMBED Equation.DSMT4  3）看作一个整体 EMBED Equation.DSMT4  ，那么就是 EMBED Equation.DSMT4   EMBED Equation.DSMT4  2 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4   EMBED Equation.DSMT4  2 EMBED Equation.DSMT4  ,所以 EMBED Equation.DSMT4  ，那么也就有x EMBED Equation.DSMT4  3 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，即3 EMBED Equation.DSMT4  3 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+定义 EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  之间（包含 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ）所有与 EMBED Equation.DSMT4  奇偶性相同的自然数的平均数，例如： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．在算术 EMBED Equation.DSMT4  的方格中填入恰当的自然数后可使等式成立，那么所填的数是多少？ 
+【考点】定义新运算之反解未知数           【难度】4星          【题型】计算 
+ EMBED Equation.DSMT4  ，所以方格中填的数一定大于80．如果填的是个奇数，那么只能是 EMBED Equation.DSMT4  ；如果填的是个偶数，那么这个数与60的平均数应该是80，所以只能是 EMBED Equation.DSMT4  ．因此所填的数可能是100和101．
+【答案】 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  
+
+如有 EMBED Equation.DSMT4  # EMBED Equation.DSMT4  新运算， EMBED Equation.DSMT4  # EMBED Equation.DSMT4  表示 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  中较大的数除以较小数后的余数.例如；2#7=1，8#3=2，9#16=7，21#2=1.如（21#（21# EMBED Equation.DSMT4  ））=5，则 EMBED Equation.DSMT4  可以是________（ EMBED Equation.DSMT4  小于50）
+【考点】定义新运算之反解未知数           【难度】4星          【题型】计算 
+【关键词】101中学，入学测试
+这是一道把数论、定义新运算、倒推法、解方程等知识结合在一起的综合题.可采用枚举与筛选的方法.
+第一步先把（21# EMBED Equation.DSMT4  ）看成一个整体 EMBED Equation.DSMT4  .对于21# EMBED Equation.DSMT4   EMBED Equation.DSMT4  5，这个式子，一方面可把21作被除数，则 EMBED Equation.DSMT4  等	于（21-5） EMBED Equation.DSMT4  16的大于5的约数，有两个解8与16；另一方面可把21作除数，
+这样满足要求的数为26，47…，即形如21N+5这样的数有无数个.但必须得考虑，这些解都是由 EMBED Equation.DSMT4  所	代表的式子（21# EMBED Equation.DSMT4  ）运算得来，而这个运算的结果是必须小于其中的每一个数的，也就是余数必须	比被除数与除数都要小才行，因此大于21的那些 EMBED Equation.DSMT4  的值都得舍去.现在只剩下8，与16.
+第二步求：（21# EMBED Equation.DSMT4  ） EMBED Equation.DSMT4  8与（21# EMBED Equation.DSMT4  ） EMBED Equation.DSMT4  16.对于（21# EMBED Equation.DSMT4  ） EMBED Equation.DSMT4  8可分别解得，把21作被除数时： EMBED Equation.DSMT4   EMBED Equation.DSMT4  13，  	把21作除数时为： EMBED Equation.DSMT4   EMBED Equation.DSMT4  29，50，…形如21N+8的整数（N是正整数）.
+对于（21# EMBED Equation.DSMT4  ） EMBED Equation.DSMT4  16 ，把21作被除数无解，21作除数时同理可得： EMBED Equation.DSMT4   EMBED Equation.DSMT4  37，58……所有形如21N+16	这样的整数.（N是正整数）. 所以符合条件的答案是13,29,37．
+【答案】13,29,37．
+
+已知 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  满足 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ；其中 EMBED Equation.DSMT4  表示不大于 EMBED Equation.DSMT4  的最大整数， EMBED Equation.DSMT4  表示 EMBED Equation.DSMT4   的小数部分，即 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4           。
+【考点】定义新运算之反解未知数           【难度】3星          【题型】计算 
+【关键词】学而思杯，6年级，第3题
+根据题意， EMBED Equation.DSMT4  是整数，所以 EMBED Equation.DSMT4  也是整数，那么 EMBED Equation.DSMT4  ，由此可得 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+规定：A○B表示A、B中较大的数，A△B表示A、B中较小的数．若（A○5＋B△3）×（B○5+ A△3）＝96，且A、B均为大于0的自然数，A×B的所有取值为                                ．（8级）
+【考点】定义新运算之反解未知数           【难度】3星          【题型】计算 
+【关键词】走美杯，6年级，决赛
+分类讨论，由于题目中所要求的定义新运算的符号是较大的数与较大的数，则对于A或者B有3类不同的范围，A小于3，A大于等于3，小于5，A大于等于5。对于B也有类似，两者合起来共有3×3=9种不同的组合，我们分别讨论。
+当A＜3，B＜3，则（5+B）×（5+A）=96=6×16=8×12，无解；
+当3≤A＜5，B＜3时，则有（5+B）×（5+3）=96，显然无解；
+当A≥5，B＜3时，则有（A+B）×（5+3）=96，则A+B=12.
+所以有A=10，B=2，此时乘积为20或者A=11,B=1,此时乘积为11。
+当A＜3，3≤B＜5，有（5+3）×（5+A）=96，无解；
+当3≤A＜5，3≤B＜5，有（5+3）×（5+3）=96，无解；
+当A≥5，3≤B＜5，有（A+3）×（5+3）=27，则A=9.此时B=3后者B=4。则他们乘积有27与36两种；
+当A＜3，B≥5时，有（5+3）×（B+A）=96。此时A+B=12。A与B的乘积有11与20两种；
+当3≤A＜5，B≥5，有（5+3）×（B+3）=96。此时有B=9.不符；
+
+当A≥5，B≥5，有（A+3）×（B+3）=96=8×12。则A=5,B=9，乘积为45。
+所以A与B的乘积有11,20,27，36,45共五种
+【答案】11,20,27,36,45
+
+模块三、观察规律型
+如果    1※2＝1＋11
+      			 2※3＝2＋22＋222              
+      			 3※4＝3＋33＋333＋333＋3333
+计算  （3※2）×5。
+【考点】定义新运算之找规律           【难度】3星          【题型】计算 
+通过观察发现：a※b中的b表示加数的个数，每个加数数位上的数字都由a组成，都由一个数位，依次增加到b个数位。（5※3）×5  ＝（5＋55＋555）×5＝3075  
+【答案】 EMBED Equation.DSMT4  
+
+规定:6※2=6+66=72
+	2※3=2+22+222=246,
+             1※4=1+11+111+1111=1234.           
+             7※5=                  
+【考点】定义新运算之找规律           【难度】3星          【题型】计算 
+7※5=7+77+777+7777+77777=86415.
+【答案】 EMBED Equation.DSMT4  
+
+有一个数学运算符号 EMBED Equation.DSMT4  ，使下列算式成立： 
+         EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，求 EMBED Equation.DSMT4  
+【考点】定义新运算之找规律           【难度】3星          【题型】计算 
+通过对 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  这几个算式的观察，找到规律： ，因此
+【答案】 EMBED Equation.DSMT4  
+
+规定 EMBED Equation.DSMT4  △ EMBED Equation.DSMT4   EMBED Equation.DSMT4  , 计算：（2△1） EMBED Equation.DSMT4  （11△10） EMBED Equation.DSMT4  ______. 
+【考点】定义新运算之找规律           【难度】3星          【题型】计算 
+这个题目直接套用定义给的公式非常麻烦，需要套用10次，然后再求和．但是我们注意到要求的10项值有一个共同的特点就是在要我们求得这个式子中b＝a－1，所以，我们不妨把b＝a－1代入原定义．
+a△b EMBED Equation.DSMT4  就变成了a△b EMBED Equation.DSMT4   EMBED Equation.DSMT4  ．所以2△1 EMBED Equation.DSMT4  ，3△2 EMBED Equation.DSMT4  ，……，3△2 EMBED Equation.DSMT4  ，则原式 EMBED Equation.DSMT4  ＋ EMBED Equation.DSMT4  ＋ EMBED Equation.DSMT4  ＋…＋ EMBED Equation.DSMT4   EMBED Equation.DSMT4  ．
+这里需要补充一个公式： EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+一个数n的数字中为奇数的那些数字的和记为 EMBED Equation.DSMT4  ，为偶数的那些数字的和记为 EMBED Equation.DSMT4  ，例如 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+ EMBED Equation.DSMT4           ； EMBED Equation.DSMT4  ＝       ． 
+【考点】定义新运算之找规律           【难度】3星          【题型】计算 
+【关键词】走美杯，5年级，决赛
+可以换个方向考虑。数字1在个位出现10次，在十位出现10次，在百位出现1次，共21次。数字2到9中的每一个在个位出现10次，在十位也出现10次，共20次。
+所以，1到100中所有奇数数字的和等于(1+3+5+7+9)×20+1=501；
+所有偶数数字的和等于(2+4+6+8)×20=400。
+【答案】 EMBED Equation.DSMT4  
+
+模块四、综合型题目
+已知：10△3=14， 8△7=2， EMBED Equation.DSMT4△EMBED Equation.DSMT4，根据这几个算式找规律，如果  EMBED Equation.DSMT4△EMBED Equation.DSMT4=1，那么EMBED Equation.DSMT4=               .
+【考点】定义新运算之综合题           【难度】3星          【题型】计算 
+【关键词】华杯赛，五年级，决赛
+规律是 a△b=(a－b)×2, 所以 EMBED Equation.DSMT4△x=EMBED Equation.DSMT4，即 EMBED Equation.DSMT4
+【答案】 EMBED Equation.DSMT4  
+
+如果 EMBED Equation.DSMT4 、 EMBED Equation.DSMT4 、 EMBED Equation.DSMT4 是3个整数，则它们满足加法交换律和结合律，即 ⑴ EMBED Equation.DSMT4 ；⑵ EMBED Equation.DSMT4 。 现在规定一种运算"*"，它对于整数 a、 b、c 、d 满足：  EMBED Equation.DSMT4 。 例： EMBED Equation.DSMT4   请你举例说明，"*"运算是否满足交换律、结合律。
+【考点】定义新运算之综合题           【难度】3星          【题型】计算 
+【关键词】希望杯，四年级，二试
+ (2,1)*(4,3)=(2×4+1×3,2×4－1×3)=(11,5)
+(4,3)*(2,1)=(4×3+2×1,4×3－2×1)=(11,5)
+所以“*”满足交换律
+[(2,1)* (6,5)]*(4,3)=(17,7)=(11,5)* (4,3)= (89,47)
+(2,1)*[ (6,5)*(4,3)]=(2,1) * (39,9)= (87,69) 所以“*”不满足结合律
+【答案】 “*”满足交换律
+ “*”不满足结合律
+
+用 EMBED Equation.DSMT4 表示 EMBED Equation.DSMT4 的小数部分， EMBED Equation.DSMT4 表示不超过 EMBED Equation.DSMT4 的最大整数。例如： EMBED Equation.DSMT4 记 EMBED Equation.DSMT4 ，请计算 EMBED Equation.DSMT4 的值。
+【考点】定义新运算之综合题           【难度】3星          【题型】计算 
+【关键词】希望杯，四年级，二试
+代入计算结果分别为：0.4，1，0，1
+【答案】0.4，1，0，1
+
+在计算机中，对于图中的数据(或运算)的读法规则是：先读第一分支圆圈中的，再读与它相连的第二分支左边的圆圈中的，最后读与它相连的第二分支右边的圆圈中的，也就是说，对于每一个圆圈中的数据(或运算)都是按"中→左→右"的顺序。如：图A表示：2+3， B表示2+3×2－1。图C中表示的式子的运算结果是________ 。
+【考点】定义新运算之综合题           【难度】3星          【题型】计算 
+【关键词】希望杯，四年级，二试
+ “教研龙”认为第2个图最上面的圆圈应该有个2，原题却没有。第3个图从上到下第3行第3个圈为2，第四个圈为42+[(3+5)÷2]-4=2
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  表示成 EMBED Equation.DSMT4  ; EMBED Equation.DSMT4  表示成 EMBED Equation.DSMT4  .
+试求下列的值: 
+(1) EMBED Equation.DSMT4          (2) EMBED Equation.DSMT4   (3) EMBED Equation.DSMT4  ;
+(4)如果x, y分别表示若干个2的数的乘积,试证明: EMBED Equation.DSMT4  . 
+【考点】定义新运算之综合题           【难度】3星          【题型】计算 
+(1) EMBED Equation.DSMT4  ;
+(2) EMBED Equation.DSMT4  ;
+(3)因为 EMBED Equation.DSMT4  ,所以 EMBED Equation.DSMT4  ;
+(4)略
+【答案】(1) EMBED Equation.DSMT4        (2)81      (3) EMBED Equation.DSMT4        
+(4) 令 EMBED Equation.DSMT4  则 EMBED Equation.DSMT4  .
+   EMBED Equation.DSMT4  .
+
+对于任意有理数x, y,定义一种运算“※”，规定:x※y= EMBED Equation.DSMT4  ,其中的 EMBED Equation.DSMT4  表示已知数,等式右边是通常的加、减、乘运算.又知道1※2=3,2※3=4,x※m=x(m≠0),则m的数值是 _________。
+【考点】定义新运算之综合题           【难度】4星          【题型】计算 
+由题设的等式x※y= EMBED Equation.DSMT4  及x※m=x(m≠0),得   EMBED Equation.DSMT4  ,  所以bm=0,又m≠0,故b=0.因此x※y=ax-cxy.  由1※2=3,2※3=4,得 EMBED Equation.DSMT4   
+解得a=5,c=1.  所以x※y=5x-xy,令x=1,y=m得5-m=1,故m=4.
+【答案】 EMBED Equation.DSMT4  
+
+x、y表示两个数，规定新运算“*”及“△”如下：x*y=mx+ny，x△y=kxy，其中 m、n、k均为自然数，已知 1*2=5，（2*3）△4=64，求（1△2）*3的值. 
+【考点】定义新运算之综合题           【难度】4星          【题型】计算 
+ x、y表示两个数，规定新运算“*”及“△”如下：x*y=mx+ny，x△y=kxy，其中 m、n、k均为自然数，已知 1*2=5，（2*3）△4=64，求（1△2）*3的值.
+分析 我们采用分析法，从要求的问题入手，题目要求（1△2）*3的值，首先我们要计算1△2，根	据“△”的定义：1△2=k×1×2=2k，由于k的值不知道，所以首先要计算出k的值.k值求出后，
+l△2的值也就计算出来了，我们设1△2=a.
+(1△2）*3=a*3，按“*”的定义： a*3=ma+3n，在只有求出m、n时，我们才能计算a*3的值.因此	要计算（1△2）* 3的值，我们就要先求出 k、m、n的值.通过1*2 =5可以求出m、n的值，
+通过（2*3）△4=64求出 k的值.
+因为1**2=m×1+n×2=m+2n，所以有m+2n=5.又因为m、n均为自然数，所以解出：
+　    　 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  （舍去） EMBED Equation.DSMT4  
+①当m=1，n=2时：
+（2*3）△4=（1×2+2×3）△4=8△4=k×8×4=32k
+有32k=64，解出k=2.
+②当m=3，n=1时：
+（2*3）△4=（3×2+1×3）△4=9△4=k×9×4=36k
+有36k=64，解出 EMBED Equation.DSMT4  ，这与k 是自然数矛盾，因此m=3，n=1， EMBED Equation.DSMT4  这组值应舍去。
+所以m=l，n=2，k=2. 
+（1△2）*3=（2×1×2）*3=4*3　=1×4+2×3=10.
+【答案】 EMBED Equation.DSMT4  
+
+对于任意的两个自然数 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，规定新运算 EMBED Equation.DSMT4  ：  EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，其中 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  表示自然数. = 1 \* GB2 ⑴求1 EMBED Equation.DSMT4  100的值； = 2 \* GB2 ⑵已知 EMBED Equation.DSMT4   EMBED Equation.DSMT4  10 EMBED Equation.DSMT4  75，求 EMBED Equation.DSMT4  为多少？ = 3 \* GB2 ⑶如果（ EMBED Equation.DSMT4  3） EMBED Equation.DSMT4  2 EMBED Equation.DSMT4  121，那么 EMBED Equation.DSMT4  等于几？ 
+【考点】定义新运算之综合题           【难度】3星          【题型】计算 
+ = 1 \* GB2 ⑴1 EMBED Equation.DSMT4  100 EMBED Equation.DSMT4   EMBED Equation.DSMT4       
+ = 2 \* GB2 ⑵x EMBED Equation.DSMT4  10 EMBED Equation.DSMT4   EMBED Equation.DSMT4  75,解得x EMBED Equation.DSMT4  3
+ = 3 \* GB2 ⑶方法一：由题中所给定义可知，b为多少，则就有多少个加数． EMBED Equation.DSMT4  ，即：60 EMBED Equation.DSMT4  2 EMBED Equation.DSMT4  121，则x EMBED Equation.DSMT4  3 EMBED Equation.DSMT4  60； EMBED Equation.DSMT4  ，即19 EMBED Equation.DSMT4  3 EMBED Equation.DSMT4  60,所以x EMBED Equation.DSMT4  19．
+方法二：可以先将（x EMBED Equation.DSMT4  3）看作一个整体y，那么就是y EMBED Equation.DSMT4  2 EMBED Equation.DSMT4  121，y EMBED Equation.DSMT4  2 EMBED Equation.DSMT4  , EMBED Equation.DSMT4   所以y EMBED Equation.DSMT4  60，那么也就有x EMBED Equation.DSMT4  3 EMBED Equation.DSMT4  60， EMBED Equation.DSMT4  ，即19 EMBED Equation.DSMT4  3 EMBED Equation.DSMT4  60，所以x EMBED Equation.DSMT4  19．
+【答案】 EMBED Equation.DSMT4  
+
+两个不等的自然数a和b,较大的数除以较小的数,余数记为a☉b,比如5☉2=1,7☉25=4,6☉8=2. （8级）
+        (1)求1991☉2000,(5☉19)☉19,(19☉5)☉5;
+        (2)已知11☉x=2,而x小于20,求x;
+        (3)已知(19☉x)☉19=5,而x小于50,求x. 
+【考点】定义新运算之综合题           【难度】3星          【题型】计算 
+(1)1991☉2000=9;
+由5☉19=4,得(5☉19)☉19=4☉19=3;
+由19☉5=4,得(19☉5)☉5=4☉5=1.
+(2)我们不知道11和x哪个大(注意,x≠11),即哪个作除数,哪个作被除数,这样就要分两种情况讨论.
+1) x<11,这时x除11余2, x整除11-2=9.又x≥3(因为x应大于余数2),所以x=3或9.
+2) x>11,这时11除x余2,这说明x是11的倍数加2,但x<20,所以x=11+2=13. 因此(2)的解为x=3,9,13. 
+(3)这个方程比(2)又要复杂一些,但我们可以用同样的方法来解.
+用y表示19☉x,不管19作除数还是被除数,19☉x都比19小,所以y应小于19.
+方程y☉19=5,说明y除19余5,所以y整除19-5=14,由于y≥6,所以y=7,14.
+当y=7时,分两种情况解19☉x=7.
+1) x<19,此时x除19余7,x整除19-7=12.由于x≥8,所以x=12.
+2) x>19,此时19除x余7, x是19的倍数加7,由于x<50,所以x=19+7=26 EMBED Equation.DSMT4  =45.
+当y=14时,分两种情况解19☉x=14.
+1) x<19,这时x除19余14, x整除19-14=5,但x大于14,这是不可能的.
+2)x>19,此时19除x余14,这就表明x是19的倍数加14,因为x<50,所以x=19+14=33.
+总之,方程(19☉x)☉19=5有四个解, x=12,26,33,45.
+【答案】(1) EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ； EMBED Equation.DSMT4       (2) x=3,9,13.     (3) x=12,26,33,45.
+
+设a,b是两个非零的数,定义a※b EMBED Equation.DSMT4  . 
+(1)计算(2※3)※4与2※(3※4).
+(2)如果已知a是一个自然数,且a※3=2,试求出a的值.  
+【考点】定义新运算之综合题           【难度】3星          【题型】计算 
+(1)按照定义有2※3 EMBED Equation.DSMT4  ,3※4 EMBED Equation.DSMT4  .于是(2※3)※4 EMBED Equation.DSMT4  ※4= EMBED Equation.DSMT4  .2※(3※4)=2※ EMBED Equation.DSMT4  .
+(2)由已知得 EMBED Equation.DSMT4  ①
+若a≥6,则 EMBED Equation.DSMT4  ≥2,从而 EMBED Equation.DSMT4  与①矛盾.因此a≤5,对a=1,2,3,4,5这5个可能的值,一一代入①式中检查知,只有a=3符合要求.
+【答案】(1) (2※3)※4 EMBED Equation.DSMT4  ；2※(3※4) EMBED Equation.DSMT4  .         (2) a=3
+
+定义运算“⊙”如下: 
+        对于两个自然数a和b,它们的最大公约数与最小公倍数的差记为a⊙b.
+        比如:10和14,最小公倍数为70,最大公约数为2,则10⊙14=70-2=68.
+        (1)求12⊙21,5⊙15;
+        (2)说明,如果c整除a和b,则c也整除a⊙b;如果c整除a和a⊙b,则c也整除b; 
+        (3)已知6⊙x=27,求x的值.
+【考点】定义新运算之综合题           【难度】3星          【题型】计算 
+(1)为求12⊙21,先求出12与21的最小公倍数和最大公约数分别为84,3, 因此12⊙21=84-3=81,同样道理5⊙15=15-5=10.
+(2)略
+(3)由于运算“⊙”没有直接的表达式,解这个方程有一些困难,我们设法逐步缩小探索范围.  因为	6与x的最小公倍数不小于27+1=28,不大于27+6=33,而28到33之间,只有30是6 的 倍数,可见             6和x的最小公倍数是30,因此它们的最大公约数是30-27=3.
+由“两个数的最小公倍数与最大公约数的积=这两个数的积”,得到 EMBED Equation.DSMT4  .
+所以 EMBED Equation.DSMT4  .
+【答案】(1) EMBED Equation.DSMT4  ； EMBED Equation.DSMT4           (2) 如果c整除a和b,那么c是a和b的公约数,则c整除a,b的最大公约数,显然c也整除a,b最小     公倍数,所以c整除最小公倍数与最大公约的差,即c整除a⊙b.
+如果c整除a和a⊙b,由c整除a推知c整除a,b的最小公倍数,再由c整除a⊙b推知, 
+整除a,b的最大公约数,而这个最大公约数整除b,所以 c整除b.
+(3) EMBED Equation.DSMT4  
+
+“⊙”表示一种新的运算符号，已知：2⊙3 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ；7⊙2 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ：3⊙5 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，……按此规则，如果n⊙8 EMBED Equation.DSMT4  68，那么，n  EMBED Equation.DSMT4  ____.
+【考点】定义新运算之综合题           【难度】3星          【题型】计算 
+因为从已知条件可归纳出的运算规则：⊙表示几个连续自然数之和，⊙前面的数表示第一个加数，⊙后面的数表示加数的个数，于是 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4   . EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+喜羊羊喜欢研究数学，它用计算器求 EMBED Equation.DSMT4  个正整数 EMBED Equation.DSMT4  的值。当它依次按了 EMBED Equation.DSMT4  得到数字 EMBED Equation.DSMT4  。而当它依次按 EMBED Equation.DSMT4  时，惊讶地发现得到的数值却是 EMBED Equation.DSMT4  。这时喜羊羊才明白计算器先做除法再做加法。于是，她依次按 EMBED Equation.DSMT4  ，得到了正确的结果为             。（填出所有可能情况）
+【考点】定义新运算之综合题           【难度】3星          【题型】计算 
+【关键词】走美杯，3年级，初赛，第14题
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+则 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  
+
+国际统一书号ISBN由10个数字组成，前面9个数字分成3组，分别用来表示区域、出版社和书名，最后一个数字则作为核检之用。核检码可以根据前9个数字按照一定的顺序算得。如：某书的书号是ISBN 7-107-17543-2，它的核检码的计算顺序是：  ①7×10＋1×9＋0×8＋7×7＋1×6＋7×5＋5×4＋4×3＋3×2＝207； ②207÷11＝18……9；    ③11－9＝2。这里的2就是该书号的核检码。 依照上面的顺序，求书号ISBN-7-303-07618-□的核检码。
+【考点】定义新运算之综合题           【难度】3星          【题型】计算 
+【关键词】希望杯，六年级，二试
+7×10＋3×9＋0× 8＋3×7＋0×6＋7×5＋6×4＋1×3＋8×2＝196；  EMBED Equation.DSMT4 ；  EMBED Equation.DSMT4 。 所以该书号的核检码是2.
+【答案】 EMBED Equation.DSMT4  
+
+如图2一只甲虫从画有方格的木板上的A点出发，沿着一段一段的横线、竖线爬行到B，图1中的路线对应下面的算式： EMBED Equation.DSMT4  .请在图2中用粗线画出对应于算式： EMBED Equation.DSMT4  的路线． 
+
+【考点】定义新运算之综合题           【难度】3星          【题型】计算 
+【关键词】2003年，希望杯
+如图3所示，通过图1分析知道向上前进一格要加上1，向下前进一格要减1，向左前进一格要减去2，向右前进一格要加上2.
+【答案】 
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+1-3-1.定义新运算.题库	                                教师版                                     page  PAGE 16 of  NUMPAGES 16
+
+
+
+定义新运算
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

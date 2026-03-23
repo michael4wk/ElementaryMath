@@ -1,0 +1,281 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+研究圆、扇形、弓形与三角形、矩形、平行四边形、梯形等图形组合而成的不规则图形，通过变动图形的位置或对图形进行分割、旋转、拼补，使它变成可以计算出面积的规则图形来计算它们的面积．
+圆的面积 EMBED Equation.DSMT4  ；扇形的面积 EMBED Equation.DSMT4  ；
+圆的周长 EMBED Equation.DSMT4  ；扇形的弧长 EMBED Equation.DSMT4  ．
+跟曲线有关的图形元素：
+①扇形：扇形由 HYPERLINK "http://baike.baidu.com/view/686804.htm" \t "_blank" 顶点在 HYPERLINK "http://baike.baidu.com/view/297302.htm" \t "_blank" 圆心的角的两边和这两边所截一段圆弧围成的图形，扇形是圆的一部分．我们经常说的 EMBED Equation.DSMT4  圆、 EMBED Equation.DSMT4  圆、 EMBED Equation.DSMT4  圆等等其实都是扇形，而这个几分之几表示的其实是这个扇形的圆心角占这个圆周角的几分之几．那么一般的求法是什么呢？关键是 EMBED Equation.DSMT4  ．
+比如：扇形的面积 EMBED Equation.DSMT4  所在圆的面积 EMBED Equation.DSMT4  ；
+扇形中的弧长部分 EMBED Equation.DSMT4  所在圆的周长 EMBED Equation.DSMT4  
+扇形的周长 EMBED Equation.DSMT4  所在圆的周长 EMBED Equation.DSMT4   EMBED Equation.DSMT4  2 EMBED Equation.DSMT4  半径(易错点是把扇形的周长等同于扇形的弧长)
+②弓形：弓形一般不要求周长，主要求面积．
+一般来说，弓形面积 EMBED Equation.DSMT4  扇形面积-三角形面积．(除了半圆)
+③”弯角”：如图：   弯角的面积 EMBED Equation.DSMT4  正方形-扇形
+④”谷子”：如图：  “谷子”的面积 EMBED Equation.DSMT4  弓形面积 EMBED Equation.DSMT4  
+
+常用的思想方法：
+①转化思想(复杂转化为简单，不熟悉的转化为熟悉的)
+②等积变形(割补、平移、旋转等)
+③借来还去(加减法)
+④外围入手(从会求的图形或者能求的图形入手，看与要求的部分之间的”关系”)
+
+板块、曲线型旋转问题
+
+正三角形 EMBED Equation.DSMT4  的边长是6厘米，在一条直线上将它翻滚几次，使 EMBED Equation.DSMT4  点再次落在这条直线上，那么 EMBED Equation.DSMT4  点在翻滚过程中经过的路线总长度是多少厘米？如果三角形面积是15平方厘米，那么三角形在滚动过程中扫过的面积是多少平方厘米？(结果保留 EMBED Equation.DSMT4  )
+
+【考点】曲线型旋转问题   【难度】3星   【题型】解答  
+如图所示， EMBED Equation.DSMT4  点在翻滚过程中经过的路线为两段 EMBED Equation.DSMT4  的圆弧，所以路线的总长度为：
+ EMBED Equation.DSMT4  厘米；
+三角形在滚动过程中扫过的图形的为两个 EMBED Equation.DSMT4  的扇形加上一个与其相等的正三角形，面积为： EMBED Equation.DSMT4  平方厘米．
+【答案】 EMBED Equation.DSMT4  
+
+【巩固】直角三角形 EMBED Equation.DSMT4  放在一条直线上，斜边 EMBED Equation.DSMT4  长 EMBED Equation.DSMT4  厘米，直角边 EMBED Equation.DSMT4  长 EMBED Equation.DSMT4  厘米．如下图所示，三角形由位置Ⅰ绕 EMBED Equation.DSMT4  点转动，到达位置Ⅱ，此时 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  点分别到达 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  点；再绕 EMBED Equation.DSMT4  点转动，到达位置Ⅲ，此时 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  点分别到达 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  点．求 EMBED Equation.DSMT4  点经 EMBED Equation.DSMT4  到 EMBED Equation.DSMT4  走过的路径的长．
+
+【考点】曲线型旋转问题   【难度】3星   【题型】解答  
+由于 EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  的一半，所以 EMBED Equation.DSMT4  ，则弧 EMBED Equation.DSMT4  为大圆周长的 EMBED Equation.DSMT4  ，弧 EMBED Equation.DSMT4  为小圆周长的 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  即为 EMBED Equation.DSMT4  点经 EMBED Equation.DSMT4  到 EMBED Equation.DSMT4  的路径，所以 EMBED Equation.DSMT4  点经 EMBED Equation.DSMT4  到 EMBED Equation.DSMT4  走过的路径的长为 EMBED Equation.DSMT4  (厘米)．
+【答案】 EMBED Equation.DSMT4  
+
+【巩固】如图，一条直线上放着一个长和宽分别为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  的长方形Ⅰ．它的对角线长恰好是 EMBED Equation.DSMT4  ．让这个长方形绕顶点 EMBED Equation.DSMT4  顺时针旋转 EMBED Equation.DSMT4  后到达长方形Ⅱ的位置，这样连续做三次，点 EMBED Equation.DSMT4  到达点 EMBED Equation.DSMT4  的位置．求点 EMBED Equation.DSMT4  走过的路程的长．
+      
+【考点】曲线型旋转问题   【难度】3星   【题型】解答
+因为长方形旋转了三次，所以 EMBED Equation.DSMT4  点在整个运动过程中也走了三段路程(如右上图所示)．
+这三段路程分别是：
+第1段是弧 EMBED Equation.DSMT4  ，它的长度是 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )；
+第2段是弧 EMBED Equation.DSMT4  ，它的长度是 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )；
+第3段是弧 EMBED Equation.DSMT4  ，它的长度是 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )；
+所以 EMBED Equation.DSMT4  点走过的路程长为： EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )．
+【答案】6π
+
+草场上有一个长20米、宽10米的关闭着的羊圈，在羊圈的一角用长30米的绳子拴着一只羊(见如图)．问：这只羊能够活动的范围有多大？(圆周率取 EMBED Equation.DSMT4  )
+       
+【考点】曲线型旋转问题   【难度】3星   【题型】解答
+如图所示，羊活动的范围可以分为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  三部分，其中 EMBED Equation.DSMT4  是半径 EMBED Equation.DSMT4  米的 EMBED Equation.DSMT4  个圆， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  分别是半径为 EMBED Equation.DSMT4  米和 EMBED Equation.DSMT4  米的 EMBED Equation.DSMT4  个圆．
+所以羊活动的范围是 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  ．
+【答案】2512
+
+【巩固】一只狗被拴在底座为边长 EMBED Equation.DSMT4  的等边三角形建筑物的墙角上(如图)，绳长是 EMBED Equation.DSMT4  ，求狗所能到的地方的总面积．(圆周率按 EMBED Equation.DSMT4  计算)
+
+【考点】曲线型旋转问题   【难度】3星   【题型】解答
+如图所示，羊活动的范围是一个半径 EMBED Equation.DSMT4  ，圆心角300°的扇形与两个半径 EMBED Equation.DSMT4  ，圆心角120°的扇形之和．所以答案是 EMBED Equation.DSMT4  ．
+【答案】43.96
+
+如图是一个直径为 EMBED Equation.DSMT4  的半圆，让这个半圆以 EMBED Equation.DSMT4  点为轴沿逆时针方向旋转 EMBED Equation.DSMT4  ，此时 EMBED Equation.DSMT4  点移动到 EMBED Equation.DSMT4  点，求阴影部分的面积．(图中长度单位为 EMBED Equation.DSMT4  ，圆周率按 EMBED Equation.DSMT4  计算)．
+
+【考点】曲线型旋转问题   【难度】3星   【题型】解答
+面积 EMBED Equation.DSMT4  圆心角为 EMBED Equation.DSMT4  的扇形面积 EMBED Equation.DSMT4  半圆 EMBED Equation.DSMT4  空白部分面积(也是半圆) EMBED Equation.DSMT4  圆心角为 EMBED Equation.DSMT4  的扇形面积 EMBED Equation.DSMT4  ．
+【答案】4.5
+
+如图所示，直角三角形 EMBED Equation.DSMT4  的斜边 EMBED Equation.DSMT4  长为10厘米， EMBED Equation.DSMT4  ，此时 EMBED Equation.DSMT4  长5厘米．以点 EMBED Equation.DSMT4  为中心，将 EMBED Equation.DSMT4  顺时针旋转 EMBED Equation.DSMT4  ，点 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别到达点 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的位置．求 EMBED Equation.DSMT4  边扫过的图形即图中阴影部分的面积．( EMBED Equation.DSMT4  取3)
+
+【考点】曲线型旋转问题   【难度】3星   【题型】解答
+注意分割、平移、补齐．
+
+如图所示，将图形 = 1 \* GB2 ⑴移补到图形 = 2 \* GB2 ⑵的位置，
+因为 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  ，
+则阴影部分为一圆环的 EMBED Equation.DSMT4  ．
+所以阴影部分面积为 EMBED Equation.DSMT4  (平方厘米)． 
+【答案】75
+
+【巩固】如右图，以 EMBED Equation.DSMT4  为斜边的直角三角形的面积是24平方厘米，斜边长10厘米，将它以 EMBED Equation.DSMT4  点为中心旋转 EMBED Equation.DSMT4  ，问：三角形扫过的面积是多少？( EMBED Equation.DSMT4  取3)
+
+【考点】曲线型旋转问题   【难度】3星   【题型】解答
+从图中可以看出，直角三角形扫过的面积就是图中图形的总面积，等于一个三角形的面积与四分之一圆的面积之和．圆的半径就是直角三角形的斜边 EMBED Equation.DSMT4  ．
+因此可以求得，三角形扫过的面积为： EMBED Equation.DSMT4  (平方厘米)．
+【答案】99
+
+【巩固】(“学而思杯”数学试题)如图，直角三角形 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  为直角，且 EMBED Equation.DSMT4  厘米， EMBED Equation.DSMT4   厘米，则在将 EMBED Equation.DSMT4  绕 EMBED Equation.DSMT4  点顺时针旋转 EMBED Equation.DSMT4  的过程中， EMBED Equation.DSMT4  边扫过图形的面积为        ．( EMBED Equation.DSMT4  )
+      
+【考点】曲线型旋转问题   【难度】3星   【题型】解答
+如右上图所示，假设 EMBED Equation.DSMT4  旋转 EMBED Equation.DSMT4  到达 EMBED Equation.DSMT4  的位置．阴影部分为 EMBED Equation.DSMT4  边扫过的图形．
+从图中可以看出，阴影部分面积等于整个图形的总面积减去空白部分面积，而整个图形总面积等于扇形 EMBED Equation.DSMT4  的面积与 EMBED Equation.DSMT4  的面积之和，空白部分面积等于扇形 EMBED Equation.DSMT4  的面积与 EMBED Equation.DSMT4  的面积，由于 EMBED Equation.DSMT4  的面积与 EMBED Equation.DSMT4  的面积相等，所以阴影部分的面积等于扇形 EMBED Equation.DSMT4  与扇形 EMBED Equation.DSMT4  的面积之差，为 EMBED Equation.DSMT4  (平方厘米)．
+【答案】12.56
+
+如下图，△ABC是一个等腰直角三角形，直角边的长度是1米。现在以C点为圆点，顺时针旋转90度，那么，AB边在旋转时所扫过的面积是平方米            。（ EMBED Equation.DSMT4  =3.14）
+
+
+【考点】曲线型旋转问题   【难度】3星   【题型】解答
+边扫过的面积为左下图阴影部分，可分为右下图所示的两部分。
+    
+因为 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  。
+所求面积为 EMBED Equation.DSMT4  （平方米）
+【答案】0.6775
+
+如图30-14，将长方形ABCD绕顶点C顺时针旋转90度，若AB=4，BC=3，AC=5，求AD边扫过部分的面积．( EMBED Equation.DSMT4  取3.14)
+
+【考点】曲线型旋转问题   【难度】3星   【题型】解答
+如下图所示，
+
+如下图所示，端点A扫过的轨迹为 EMBED Equation.DSMT4  ，端点D扫过轨迹为 EMBED Equation.DSMT4  ，而AD之间的点，扫过的轨迹在以A、D轨迹，AD， EMBED Equation.DSMT4  所形成的封闭图形内，且这个封闭图形的每一点都有线段AD上某点扫过，所以AD边扫过的图形为阴影部分．显然,
+有阴影部分面积为 EMBED Equation.DSMT4  ,而直角三角形 EMBED Equation.DSMT4  、ACD面积相等．
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+ 即AD边扫过部分的面积为7．065平方厘米．
+【答案】7.065
+
+(祖冲之杯竞赛试题)如图， EMBED Equation.DSMT4  是一个长为 EMBED Equation.DSMT4  ，宽为 EMBED Equation.DSMT4  ，对角线长为 EMBED Equation.DSMT4  的正方形，它绕 EMBED Equation.DSMT4  点按顺时针方向旋转 EMBED Equation.DSMT4  ，分别求出四边扫过图形的面积．
+
+【考点】曲线型旋转问题   【难度】3星   【题型】解答
+容易发现， EMBED Equation.DSMT4  边和 EMBED Equation.DSMT4  边旋转后扫过的图形都是以线段长度为半径的圆的 EMBED Equation.DSMT4  ，如图：
+
+因此DC边扫过图形的面积为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  边扫过图形的面积为 EMBED Equation.3  ．
+2、研究 EMBED Equation.DSMT4  边的情况．
+在整个 EMBED Equation.DSMT4  边上，距离 EMBED Equation.DSMT4  点最近的点是 EMBED Equation.DSMT4  点，最远的点是 EMBED Equation.DSMT4  点，因此整条线段所扫过部分应该介于这两个点所扫过弧线之间，见如图中阴影部分：
+
+        下面来求这部分的面积．
+观察图形可以发现，所求阴影部分的面积实际上是：
+扇形 EMBED Equation.DSMT4  面积＋三角形 EMBED Equation.DSMT4  面积－三角形 EMBED Equation.DSMT4  面积一扇形 EMBED Equation.DSMT4  面积＝扇形 EMBED Equation.DSMT4  面积一扇形 EMBED Equation.DSMT4  面积 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+3、研究 EMBED Equation.DSMT4  边扫过的图形．
+由于在整条线段上距离 EMBED Equation.DSMT4  点最远的点是 EMBED Equation.DSMT4  ，最近的点是 EMBED Equation.DSMT4  ，所以我们可以画出 EMBED Equation.DSMT4  边扫过的图形，如图阴影部分所示：
+
+用与前面同样的方法可以求出面积为： EMBED Equation.DSMT4  
+旋转图形的关键，是先从整体把握一下”变化过程”，即它是通过什么样的基本图形经过怎样的加减次序得到的．先不去考虑具体数据，一定要把思路捋清楚．最后你会发现，所有数据要么直接告诉你，要么就”藏”在那儿，一定会有．
+可以进一步思考，比如平行四边形的旋转问题、一般三角形的旋转问题等等，此类问题的解决对提高解决几何图形问题的能力是非常有益的．
+【答案】（1） EMBED Equation.DSMT4  边扫过图形的面积为 EMBED Equation.3  
+       （2） EMBED Equation.DSMT4  边扫过图形的面积为 EMBED Equation.3  
+       （3） EMBED Equation.DSMT4  边扫过图形的面积为 EMBED Equation.3  
+       （4）DC边扫过图形的面积为 EMBED Equation.DSMT4  
+
+(华杯赛初赛)半径为25厘米的小铁环沿着半径为50厘米的大铁环的内侧作无滑动的滚动，当小铁环沿大铁环滚动一周回到原位时，问小铁环自身转了几圈？
+【考点】曲线型旋转问题   【难度】3星   【题型】解答
+对于这类问题，可以在初始时在小环上取一点 EMBED Equation.DSMT4  ，观察半径 EMBED Equation.DSMT4  ，如图⑴，当小环沿大环内壁滚动到与初始相对的位置，即滚动半个大圆周时，如图⑵，半径 EMBED Equation.DSMT4  也运动到了与初始时相对的位置．这时 EMBED Equation.DSMT4  沿大环内壁才滚动了半圈．继续进行下半圈，直到 EMBED Equation.DSMT4  与初始位置重合，这时 EMBED Equation.DSMT4  自身转了1圈，因此小铁环自身也转了1圈．
+
+【总结】对于转动的圆来说，当圆心转动的距离为一个圆周长时，这个圆也恰好转了一圈．所以本题也可以考虑小铁环的圆心轨迹，发现是一个半径与小铁环相等的圆，所以小铁环的圆心转过的距离等于自己的圆周长，那么小铁环转动了1圈．
+【答案】1圈
+
+【巩固】如果半径为25厘米的小铁环沿着半径为50厘米的大铁环的外侧作无滑动的滚动，当小铁环沿大铁环滚动一周回到原位时，问小铁环自身转了几圈？
+【考点】曲线型旋转问题   【难度】3星   【题型】解答
+如图，同样考虑小圆的一条半径 EMBED Equation.DSMT4  ，当小圆在大圆的外侧滚动一周，即滚动了大圆的半周时，半径 EMBED Equation.DSMT4  滚动了 EMBED Equation.DSMT4  ，滚动了一圈半，所以当小圆沿大圆外侧滚动一周时，小圆自身转了3圈．
+      
+也可以考虑小圆圆心转过的距离．小圆圆心转过的是一个圆周，半径是小圆的3倍，所以这个圆的周长也是小圆的3倍，由于小圆的圆心每转动一个自身的周长时，小圆也恰好转了一圈，所以本题中小圆自身转了3圈．
+【答案】3圈
+
+【巩固】如图所示，大圆周长是小圆周长的 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )倍，当小圆在大圆内侧(外侧)作无滑动的滚动一圈后又回到原来的位置，小圆绕自己的圆心转动了几周？
+
+
+
+【考点】曲线型旋转问题   【难度】3星   【题型】解答
+为了确定圆绕圆心转动几周，首先要明确圆心转动的距离．
+设小圆的半径为“单位1”，则大圆的半径为“ EMBED Equation.DSMT4  ”．
+⑴在内测滚动时，如图⑴所示，因为圆心滚动的距离为 EMBED Equation.DSMT4  ．
+所以小圆绕自己的圆心转动了： EMBED Equation.DSMT4  (圈)．
+      
+
+⑵在外侧滚动时，如图⑵所示．
+因为圆心滚动的距离为 EMBED Equation.DSMT4  ．
+所以小圆绕自己的圆心转动了： EMBED Equation.DSMT4  (圈)．
+【答案】n-1和n+1
+
+如图， EMBED Equation.DSMT4  枚相同的硬币排成一个长方形，一个同样大小的硬币沿着外圈滚动一周，回到起始位置．问：这枚硬币自身转动了多少圈？
+
+【考点】曲线型旋转问题   【难度】3星   【题型】解答
+当硬币在长方形的一条边之内滚动一次时，由于三个硬币的圆心构成一个等边三角形，所以这枚硬币的圆心相当于沿着半径为硬币2倍的圆旋转了 EMBED Equation.DSMT4  ．而硬币上的每一点都是半径等于硬币的圆旋转，所以硬币自身旋转了120°．
+当硬币从长方形的一条边滚动到另一条边时，这枚硬币的圆心相当于沿着半径为硬币2倍的圆旋转了 EMBED Equation.DSMT4  ．而硬币上的每一点都是半径等于硬币的圆旋转，所以硬币自身旋转了300º．
+长方形的外圈有12个硬币，其中有4个在角上，其余8个在边上，所以这枚硬币滚动一圈有8次是在长方形的一条边之内滚动，4次是从长方形的一条边滚动到另一条边． EMBED Equation.DSMT4  ，所以这枚硬币转动了2160º，即自身转动了6圈．
+另解：通过计算圆心轨迹的长度，每走一个 EMBED Equation.DSMT4  即滚动了一周．
+【答案】6圈
+
+【巩固】12个相同的硬币可以排成下面的4种正多边形(圆心的连线)．
+            
+用一个同样大小的硬币，分别沿着四个正多边形的外圈无滑动地滚动一周．问：在哪个图中这枚硬币自身转动的圈数最多，最多转动了多少圈？
+【考点】曲线型旋转问题   【难度】3星   【题型】解答
+对于同样是12个硬币，所转动的圆心轨迹其实分为两部分，一是在”角”上的转动，一是在”边”上的滚动．抓住关键方法：圆心轨迹长度 EMBED Equation.DSMT4  自身转动圈数．结论：一样多；都是6圈．
+【答案】一样多；都是6圈
+
+一枚半径为1 EMBED Equation.DSMT4  的圆形硬币相互紧靠着平放在桌面上，让一枚硬币沿着它们的外轮廓滚过后回到原来的位置，那么与原 EMBED Equation.DSMT4  点重合的点是______．硬币自己转动______，硬币圆心的运动轨迹周长为_______．
+
+【考点】曲线型旋转问题   【难度】3星   【题型】解答
+先计算轨迹的长度：三个半径为 EMBED Equation.DSMT4  的半圆， EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4  ，即为 EMBED Equation.DSMT4  周，所以答案为 EMBED Equation.DSMT4  点， EMBED Equation.DSMT4  周， EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  点， EMBED Equation.DSMT4  周， EMBED Equation.DSMT4  
+
+先做一个边长为 EMBED Equation.DSMT4  的等边三角形，再以三个顶点为圆心， EMBED Equation.DSMT4  为半径作弧，形成曲边三角形(如左图)．再准备两个这样的图形，把一个固定住(右图中的阴影)，另一个围绕着它滚动，如右图那样，从顶点相接的状态下开始滚动．请问此图形滚动时经过的面积是多少平方厘米？( EMBED Equation.DSMT4  )
+                
+【考点】曲线型旋转问题   【难度】3星   【题型】解答
+在处理图形的运动问题时，描绘出物体的运动轨迹是解决问题的第一步，只有大的方向确定了，才能实施具体的计算．
+      
+     
+在数学中，本题所作出的这个曲边三角形叫“莱洛三角形”，“莱洛三角形”有一个重要的性质就是它在所有方向上的宽度都相同．
+为了求出“莱洛三角形”滚动时经过的面积，可以分2步来思考：
+第1步：如图⑵所示，当“莱洛三角形”从顶点 EMBED Equation.DSMT4  的上方滚动到顶点 EMBED Equation.DSMT4  的左边时，这时阴影“莱洛三角形”滚动的这部分面积是以 EMBED Equation.DSMT4  为圆心、 EMBED Equation.DSMT4  为半径、圆心角为 EMBED Equation.DSMT4  的扇形．在顶点 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  处各有这样的一个扇形；
+第2步：如图⑶所示，当“莱洛三角形”在边 EMBED Equation.DSMT4  上滚动时，这时可以把阴影“莱洛三角形”看作是以图⑶中 EMBED Equation.DSMT4  点为圆心的圆的一部分，这个圆在以 EMBED Equation.DSMT4  点为圆心的弧 EMBED Equation.DSMT4  上滚动，可知此时圆心 EMBED Equation.DSMT4  运动的轨迹是图⑶中的弧 EMBED Equation.DSMT4  ，所以此时阴影“莱洛三角形”滚动的这部分面积是以 EMBED Equation.DSMT4  为圆心、 EMBED Equation.DSMT4  为半径、圆心角为 EMBED Equation.DSMT4  的扇形减去半径为 EMBED Equation.DSMT4  的 EMBED Equation.DSMT4  的扇形；
+综上所述，去掉图⑷中阴影“莱洛三角形”后所形成的组合图形就是要求的面积．
+滚动时经过的面积是： EMBED Equation.DSMT4  ．
+【答案】25.12
+
+下图为半径20厘米、圆心角为1440的扇形图.点C、D、E、F、G、H、J是将扇形的B、K弧线分为8等份的点.求阴影部分面积之和．
+
+【考点】曲线型旋转问题   【难度】3星   【题型】解答
+如下图,做出辅助线,
+
+△KMA与△ANG形状相同(对应角相等),大小相等(对应边相等),有△KMA≌△ANG, EMBED Equation.DSMT4  ,
+而△LMA是两个三角形的公共部分,所以上图中的阴影部分面积相等．
+所以,GNMK与扇形KGA的面积相等,那么KGEB的面积为2倍扇形KGA的面积．
+扇形KGA的圆心角为 EMBED Equation.DSMT4  ×3=540,所以扇形面积为 EMBED Equation.DSMT4   EMBED Equation.DSMT4  平方厘米．
+那么KGEB的面积为60 EMBED Equation.DSMT4  =120 EMBED Equation.DSMT4  平方厘米．
+如下图,做出另一组辅助线．
+
+ △JQA与△ARH形状相同(对应角相等),大小相等(对应边相等),
+有△JQA≌△ARH, EMBED Equation.DSMT4  =5△A,而△PQA是两个三角形的公共部分,
+所以右图中的阴影部分面积相等.
+所以,JHRQ与扇形JHA的面积相等,那么JHDC的面积为2倍扇形JHA的面积．
+扇形JHA的圆心角为 EMBED Equation.DSMT4  ,所以扇形面积为 EMBED Equation.DSMT4  平方厘米．
+那么JHDC的面积为 EMBED Equation.DSMT4  平方厘米．
+所以,原题图中阴影部分面积为 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ≈80×3.14=251.2平方厘米．
+【答案】251.2
+
+10个一样大的圆摆成如图所示的形状．过图中所示两个圆心A，B作直线，那么直线右上方圆内图形面积总和与直线左下圆内图形面积总和的比是多少?
+
+【考点】曲线型旋转问题   【难度】3星   【题型】解答
+直线AB的右上方的有2个完整的圆，2个半圆，1个1个而1个1个正好组成一个完整的圆，即共有4个完整的圆，那么直线AB的左下方有10-4=6个完整的圆，每个圆的面积相等，所以直线右上方圆内图形面积总和与直线左下圆内图形面积总和的比是4：6=2：3．
+【答案】2:3
+
+在图中，一个圆的圆心是0，半径r=9厘米，∠1=∠2=15°.那么阴影部分的面积是多少平方厘米?( EMBED Equation.DSMT4  取3.14)
+
+【考点】   【难度】2星   【题型】填空
+【关键词】奥林匹克，初赛，11题
+【考点】曲线型旋转问题   【难度】3星   【题型】解答
+有AO=OB，所以△AOB 为等腰三角形，AO=OC，所以△AOC为等腰三角形.
+∠ABO=∠1=15°，∠AOB=180°-∠1-∠ABO=150°.
+∠ACO=∠2=15°,∠AOC=180°-∠2-∠ACO=150°，
+所以 ∠BOC=360°-∠AOB-∠AOC=60°，所以扇形BOC的面积为 EMBED Equation.DSMT4  (平方厘米)．
+【答案】42.39
+
+图是由正方形和半圆形组成的图形．其中P点为半圆周的中点，Q点为正方形一边的中点．已知正方形的边长为10，那么阴影部分的面积是多少?( EMBED Equation.DSMT4  取3.14)
+
+【考点】曲线型旋转问题   【难度】3星   【题型】解答
+【关键词】奥林匹克，初赛，11题
+过P做AD平行线，交AB于O点，P为半圆周的中点，所以0为AB中点．
+
+有 EMBED Equation.DSMT4  .
+ EMBED Equation.DSMT4  
+阴影部分面积为 EMBED Equation.DSMT4  
+【答案】51.75
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+4-3-3 圆与扇形 题库	                                                                               page  PAGE 10 of  NUMPAGES 15
+
+
+
+圆与扇形
+
+例题精讲
+
+
+

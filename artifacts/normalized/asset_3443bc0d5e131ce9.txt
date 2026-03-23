@@ -1,0 +1,155 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE \* MERGEFORMAT 
+对于六年级的同学来说，分数乘法算式的一些计算技巧必须开始掌握．这既与基础课程进度结合，更是小学奥数经典内容．裂项、换元与通项归纳这三项内容，通称“分数计算之三大绝招”．考察近年来的小升初计算部分，分数计算成为热点．可以这么说：“一道非常难的分数运算，要么是裂项，要么是换元，要么是通项归纳．如果都不是，那它一定是比较简单的分数小数混合运算．”
+三、换元思想
+解数学题时，把某个式子看成一个整体，用另一个量去代替它，从而使问题得到简化，这叫换元法．换元的实质是转化，将复杂的式子化繁为简．
+
+ SHAPE \* MERGEFORMAT 
+计算： EMBED Equation.DSMT4   
+【考点】换元法           【难度】2星          【题型】计算
+令 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，则：
+	原式 EMBED Equation.DSMT4  
+	 EMBED Equation.DSMT4  
+	 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】换元法           【难度】2星          【题型】计算
+设 EMBED Equation.DSMT4  ，则原式化简为： EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】换元法           【难度】2星          【题型】计算
+令 EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ，
+	原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算：( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  
+( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )
+【考点】换元法           【难度】2星          【题型】计算
+设 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，
+原式 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算下面的算式
+( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )
+【考点】换元法           【难度】2星          【题型】计算
+【关键词】希望杯，2试
+换元的思想即“打包”，令 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，则原式 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )
+ EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4 ____ 。
+【考点】换元法           【难度】2星          【题型】计算
+【关键词】希望杯，六年级，二试
+设 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+           原式 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算：⑴ ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )
+⑵ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【考点】换元法           【难度】2星          【题型】计算
+【关键词】迎春杯
+⑴ 该题相对简单，尽量凑相同的部分，即能简化运算.设 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，     有原式 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  
+⑵ 设 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+原式 EMBED Equation.DSMT4  
+【答案】⑴ EMBED Equation.DSMT4              ⑵ EMBED Equation.DSMT4  
+
+计算：  EMBED Equation.DSMT4  =       。
+【考点】换元法           【难度】2星          【题型】计算
+【关键词】走美杯，初赛，六年级
+设 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，则有          EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】换元法           【难度】3星          【题型】计算
+令 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，
+	原式 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4          
+【考点】换元法           【难度】2星          【题型】计算
+设 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，
+	原式 EMBED Equation.DSMT4  
+	 EMBED Equation.DSMT4  
+	 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算 EMBED Equation.DSMT4  
+【考点】换元法           【难度】2星          【题型】计算
+【关键词】清华附中
+设 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，
+	原式 EMBED Equation.DSMT4  
+	 EMBED Equation.DSMT4  
+	 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算 EMBED Equation.DSMT4  
+【考点】换元法           【难度】2星          【题型】计算
+设 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+	原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4    EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算：
+	 EMBED Equation.DSMT4  
+【考点】换元法           【难度】2星          【题型】计算
+【关键词】迎春杯
+设 EMBED Equation.DSMT4  ，则有 EMBED Equation.DSMT4  
+【答案】
+
+计算 EMBED Equation.DSMT4  
+【考点】换元法           【难度】4星          【题型】计算
+设 EMBED Equation.DSMT4   EMBED Equation.DSMT4  . 原式= EMBED Equation.DSMT4  + EMBED Equation.DSMT4  = EMBED Equation.DSMT4  + EMBED Equation.DSMT4   = EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】换元法           【难度】3星          【题型】计算
+ (法一)设 EMBED Equation.DSMT4  ，则原式 EMBED Equation.DSMT4  ．
+(法二)设 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ．
+而 EMBED Equation.DSMT4  ．
+这样原式转化为 EMBED Equation.DSMT4  ．
+在这里需要老师对于 EMBED Equation.DSMT4  的计算进行简单的说明.
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】换元法           【难度】2星          【题型】计算
+设 EMBED Equation.DSMT4  2009,
+原式 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算 EMBED Equation.DSMT4  （4级）
+【考点】换元法           【难度】2星          【题型】计算
+设 EMBED Equation.DSMT4  
+      原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+1-3-5.换元法.题库	                                       教师版                                    page  PAGE 6 of  NUMPAGES 6
+
+
+
+换元法
+
+教学目标
+
+例题精讲
+
+
+

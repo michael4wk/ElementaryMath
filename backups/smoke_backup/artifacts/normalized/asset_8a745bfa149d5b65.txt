@@ -1,0 +1,386 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE \* MERGEFORMAT 
+一、常用公式
+ EMBED Equation.DSMT4  ；
+ EMBED Equation.DSMT4  ；
+ EMBED Equation.DSMT4  ；
+ EMBED Equation.DSMT4  ；
+等比数列求和公式： EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )；
+平方差公式： EMBED Equation.DSMT4  ；
+完全平方公式： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ；
+用文字表述为：两数和(或差)的平方，等于这两个数的平方和，加上(或者减去)这两个数的积的 EMBED Equation.DSMT4  倍，两条公式也可以合写在一起： EMBED Equation.DSMT4  ．为便于记忆，可形象的叙述为：“首平方，尾平方， EMBED Equation.DSMT4  倍乘积在中央”．
+二、常用技巧
+ EMBED Equation.DSMT4  ；
+ EMBED Equation.DSMT4  ；
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，
+    EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ；
+ EMBED Equation.DSMT4  ，其中 EMBED Equation.DSMT4  ．
+
+ SHAPE \* MERGEFORMAT 
+一、前 EMBED Equation.DSMT4  项和
+ EMBED Equation.DSMT4  
+【考点】公式法之求和公式           【难度】2星          【题型】计算
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】公式法之求和公式           【难度】3星          【题型】计算
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】公式法之求和公式           【难度】3星          【题型】计算
+原式 EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+	 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】公式法之求和公式           【难度】3星          【题型】计算
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  ___________．
+【考点】公式法之求和公式           【难度】3星          【题型】填空
+与公式 EMBED Equation.DSMT4  相比， EMBED Equation.DSMT4  缺少偶数项，所以可以先补上偶数项．
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】公式法之求和公式           【难度】3星          【题型】填空
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4          。
+【考点】公式法之求和公式           【难度】3星          【题型】填空
+【关键词】西城实验
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+         EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+其中也可以直接根据公式 EMBED Equation.DSMT4  得出
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】公式法之求和公式           【难度】3星          【题型】计算
+分拆 ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ，( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  再用公式
+原式 EMBED Equation.DSMT4  
+         EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+对自然数 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，规定 EMBED Equation.DSMT4  ，例如 EMBED Equation.DSMT4  ，那么：
+⑴  EMBED Equation.DSMT4  ______________；
+⑵  EMBED Equation.DSMT4  ______________．
+【考点】公式法之求和公式           【难度】3星          【题型】填空
+⑴	原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+⑵	原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】⑴ EMBED Equation.DSMT4               ⑵ EMBED Equation.DSMT4  
+
+看规律  EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ……，试求 EMBED Equation.DSMT4  
+【考点】公式法之求和公式           【难度】3星          【题型】计算
+【关键词】人大附中
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+	 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4   
+【考点】公式法之求和公式           【难度】3星          【题型】计算
+法一：利用等比数列求和公式。
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+法二：错位相减法．
+设 EMBED Equation.DSMT4  
+则 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，整理可得 EMBED Equation.DSMT4  ．
+法三：本题与例3相比，式子中各项都是成等比数列，但是例3中的分子为3，与公比4差1，	所以可以采用“借来还去”的方法，本题如果也要采用“借来还去”的方法，需要将每一项
+的分子变得也都与公比差1．由于公比为3，要把分子变为2，可以先将每一项都乘以2进行算，最后再将所得的结果除以2即得到原式的值．
+由题设， EMBED Equation.DSMT4  ，则运用“借来还去”的方法可得到 EMBED Equation.DSMT4  ，
+ 			整理得到 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+计算 EMBED Equation.DSMT4  的值。（已知 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ）
+【考点】公式法之求和公式           【难度】3星          【题型】计算
+注意到式子的特点是从第一个加数开始，每一个加数比前一个加数 EMBED Equation.DSMT4  的指数减少 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的指数增加 EMBED Equation.DSMT4  .所以每一个加数是前一个加数的 EMBED Equation.DSMT4  倍，如果将题中加数按原来的顺序排列起来就是一个公比为 EMBED Equation.DSMT4  的等比数列，于是按照错位减法进行运算即可。 记 EMBED Equation.DSMT4  ,
+  EMBED Equation.DSMT4  
+   EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  ，即原式的值为 EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4          ．
+【考点】公式法之求和公式           【难度】3星          【题型】填空
+【关键词】浙江省，小学数学活动课夏令营
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4          ．
+【考点】公式法之求和公式           【难度】3星          【题型】填空
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】公式法之求和公式           【难度】3星          【题型】填空
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】公式法之求和公式           【难度】4星          【题型】计算
+设算式的值为 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  ，
+　　　　 EMBED Equation.DSMT4  ，
+　　　　即 EMBED Equation.DSMT4  ，
+故 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，
+所以 EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+二、平方差与完全平方公式
+⑴ EMBED Equation.DSMT4  ________；
+        ⑵ EMBED Equation.DSMT4  ________．
+【考点】公式法之平方差公式与完全平方公式           【难度】2星          【题型】填空
+【关键词】浙江省，小学数学活动课夏令营
+⑴	观察可知31415925和31415927都与31415926相差1，设 EMBED Equation.DSMT4  ，
+原式 EMBED Equation.DSMT4  
+⑵	原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】⑴ EMBED Equation.DSMT4                      ⑵ EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4               
+【考点】公式法之平方差公式与完全平方公式           【难度】2星          【题型】填空
+【关键词】走美杯，3年级，初赛
+方法一：原式 EMBED Equation.DSMT4  
+                     EMBED Equation.DSMT4  
+                     EMBED Equation.DSMT4  
+        方法二：原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4                
+【考点】公式法之平方差公式与完全平方公式           【难度】2星          【题型】填空
+【关键词】走美杯，3年级，初赛
+原式 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  ＝     。
+【考点】公式法之平方差公式与完全平方公式           【难度】3星          【题型】填空
+【关键词】走美杯，6年级，决赛
+题目分析：答案为100000。记原式为X，则
+10X=314×314+628×686+686×686
+=3142+2×314×686+6862
+=(314+686)2=1000000，所以，X=100000。
+【答案】 EMBED Equation.DSMT4  
+
+有一串数 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ……它们是按一定规律排列的，那么其中第 EMBED Equation.DSMT4  个数与第 EMBED Equation.DSMT4  个数相差多少？
+【考点】公式法之平方差公式与完全平方公式           【难度】2星          【题型】填空
+这串数中第 EMBED Equation.DSMT4  个数是 EMBED Equation.DSMT4  ，而第 EMBED Equation.DSMT4  个数是 EMBED Equation.DSMT4  ，它们相差
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  代表任意数字，若 EMBED Equation.DSMT4  ，这个公式在数学上称为平方差公式．根据公式，你来巧算下列各题吧． 
+⑴ EMBED Equation.DSMT4    　 ⑵ EMBED Equation.DSMT4  　　　⑶ EMBED Equation.DSMT4    　 ⑷ EMBED Equation.DSMT4  
+【考点】公式法之平方差公式与完全平方公式           【难度】2星          【题型】计算
+这个公式可以给我们的计算带来很多便利,在以后的奥数学习中会经常遇到,同学们最好记住哦.我们就依据公式 EMBED Equation.DSMT4  来进行下面的计算:
+⑴ EMBED Equation.DSMT4  
+⑵ EMBED Equation.DSMT4  
+⑶ EMBED Equation.DSMT4  
+⑷ EMBED Equation.DSMT4  
+【答案】⑴ EMBED Equation.DSMT4             ⑵ EMBED Equation.DSMT4            ⑶ EMBED Equation.DSMT4            ⑷ EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4           ．
+【考点】公式法之平方差公式与完全平方公式           【难度】3星          【题型】填空
+【关键词】迎春杯，中年级组，决赛
+本题可以直接计算出各项乘积再求和，也可以采用平方差公式．
+	原式 EMBED Equation.DSMT4  
+	 EMBED Equation.DSMT4  
+	 EMBED Equation.DSMT4  
+        其中 EMBED Equation.DSMT4  可以直接计算，但如果项数较多，应采用公式
+	 EMBED Equation.DSMT4  进行计算．
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4           ．
+【考点】公式法之平方差公式与完全平方公式           【难度】2星          【题型】填空
+【关键词】迎春杯，初赛
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+	 EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+三、公式综合运用
+计算： EMBED Equation.DSMT4          ．
+【考点】公式法之综合运用           【难度】3星          【题型】填空
+【关键词】仁华学校
+观察可知式子中每一项乘积的被乘数与乘数依次成等差数列，被乘数依次为1，3，5，……，99，乘数依次为4，7，10，……，151，根据等差数列的相关知识，被乘数可以表示为 EMBED Equation.DSMT4  ，乘数可以表示为 EMBED Equation.DSMT4  ，所以通项公式为 EMBED Equation.DSMT4  ．所以，
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+另解：如果不进行通项归纳，由于式子中每一项的被乘数与乘数的差是不相等，可以先将这个差变为相等再进行计算．
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+而 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  都是我们非常熟悉的．
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4  ，
+所以原式 EMBED Equation.DSMT4  
+小结：从上面的计算过程中可以看出， EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  ，
+所以有 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4          ．
+【考点】公式法之综合运用           【难度】4星          【题型】填空
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，
+所以， EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  ，
+所以原式
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】公式法之综合运用           【难度】3星          【题型】计算
+【关键词】北京二中，入学测试
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算 EMBED Equation.DSMT4  
+【考点】公式法之综合运用           【难度】3星          【题型】计算
+这个题目重新整理得： EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  ．
+【考点】公式法之综合运用           【难度】3星          【题型】计算
+做这道题的时候，可能有些以前记住了20以内平方数的同学就高兴了，但是其实并不需要，大家看，利用平方差公式： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+于是，原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】公式法之综合运用           【难度】3星          【题型】计算
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4          ．
+【考点】公式法之综合运用           【难度】3星          【题型】填空
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4            ．
+【考点】公式法之综合运用           【难度】3星          【题型】填空
+观察发现式子中每相乘的两个数的和都是相等的，可以采用平方差公式．
+	原式 EMBED Equation.DSMT4  
+	 EMBED Equation.DSMT4  
+	 EMBED Equation.DSMT4  
+	 EMBED Equation.DSMT4  
+	 EMBED Equation.DSMT4  
+	 EMBED Equation.DSMT4  
+	 EMBED Equation.DSMT4  
+	 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】公式法之综合运用           【难度】3星          【题型】填空
+【关键词】学而思杯，4年级
+原式 EMBED Equation.DSMT4  
+           EMBED Equation.DSMT4  
+           EMBED Equation.DSMT4  
+           EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】公式法之综合运用           【难度】3星          【题型】计算
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4          ．
+【考点】公式法之综合运用           【难度】3星          【题型】填空
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】公式法之综合运用           【难度】3星          【题型】计算
+原式 EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】公式法之综合运用           【难度】3星          【题型】计算
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+教师寄语：拼一个春夏秋冬，换一生无怨无悔。
+
+
+
+
+公式法计算
+
+知识点拨
+
+例题精讲
+
+
+ PAGE  \* MERGEFORMAT 11
+
+
+

@@ -1,0 +1,238 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+
+图形变换，是指不改变图形的大小、形状，只通过位置关系的改变（旋转、平移、折叠等），构成新的图形．
+右图是一块长方形草地，长方形的长是16，宽是10．中间有两条道路，一条是长方形，一条是平行四边形，它们的宽都是2，求草地部分的面积（阴影部分）有多大？
+        
+
+
+
+
+
+如图所示，一个正十二边形的边长是1厘米，空白部分是等边三角形，一共有12个．请算出阴影部分的面积．
+         
+
+
+
+
+
+如图所示，梯形 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  平行于 EMBED Equation.DSMT4  ，又 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．试求梯形 EMBED Equation.DSMT4   的面积．
+   
+
+
+
+
+如下图，六边形 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，且有 EMBED Equation.DSMT4  平行于 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  平行于 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  平行于 EMBED Equation.DSMT4  ，对角线 EMBED Equation.DSMT4  垂直于 EMBED Equation.DSMT4  ，已知 EMBED Equation.DSMT4  厘米， EMBED Equation.DSMT4  厘米，请问六边形 EMBED Equation.DSMT4  的面积是多少平方厘米？
+      
+
+
+如图2，六边形 EMBED Equation.DSMT4  为正六边形， EMBED Equation.DSMT4  为对角线 EMBED Equation.DSMT4  上一点，若 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的面积为 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  ，则正六边形 EMBED Equation.DSMT4  的面积是　　　　．
+
+
+
+
+
+
+正六边形A1A2A3A4A5A6的面积是2009平方厘米，B1,B2,B3,B4,B5,B6分别是正六边形各边的中点；那么图中阴影六边形的面积是　　　　平方厘米．
+
+
+
+
+
+
+
+
+
+
+按照图中的样子，在一平行四边形纸片上割去了甲、乙两个直角三角形．已知甲三角形两条直角边分别为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，乙三角形两条直角边分别为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，求图中阴影部分的面积．
+         
+
+
+
+
+
+
+
+
+在一个等腰三角形中，两条与底边平行的线段将三角形的两条边等分成三段(见右图)，求图中阴影部分的面积占整个图形面积的几分之几.
+
+
+
+
+
+
+
+
+如下左图，有两个大小相同的完全重叠在一起的正方形，现在以点 EMBED Equation.DSMT4  为中心转动一个正方形．当 EMBED Equation.DSMT4  厘米， EMBED Equation.DSMT4  厘米， EMBED Equation.DSMT4  厘米时(如下右图)，求右图中的两个正方形相重叠部分的面积(注意，图的尺寸不一定准确)．
+  
+
+
+
+
+
+
+如图，在直角三角形中有一个正方形，已知 EMBED Equation.DSMT4  厘米， EMBED Equation.DSMT4  厘米，求阴影部分的面积．
+    
+
+
+
+
+
+四边形ABCD中,AB=30,AD=48,BC=14,CD=40.又已知∠ABD+∠BDC=900,求四边形ABCD的面积．
+
+
+
+
+
+
+
+
+
+
+
+
+如图,在三角形ABD中,当AB和CD的长度相等时,请求出“?”所示的角是多少度,给出过程．
+
+
+
+
+
+
+
+如图所示的四边形的面积等于多少？
+
+
+
+
+
+
+
+
+如图，三角形 EMBED Equation.DSMT4  是等腰直角三角形， EMBED Equation.DSMT4  是三角形外的一点，其中 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，求四边形 EMBED Equation.DSMT4  的面积．
+      
+
+
+
+
+如图所示， EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，以 EMBED Equation.DSMT4  为一边向 EMBED Equation.DSMT4  外作正方形 EMBED Equation.DSMT4  ，中心为 EMBED Equation.DSMT4  ，求 EMBED Equation.DSMT4  的面积．
+    
+
+
+
+
+如图，直角梯形 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，将腰 EMBED Equation.DSMT4  以 EMBED Equation.DSMT4  为中心逆时针旋转 EMBED Equation.DSMT4  至 EMBED Equation.DSMT4  ，连接 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  的面积是        ．
+        
+
+
+
+
+
+
+如图，正方形 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  有一个公共点 EMBED Equation.DSMT4  ，试比较三角形 EMBED Equation.DSMT4  和三角形 EMBED Equation.DSMT4  的面积．
+    
+
+
+
+
+
+如图，以正方形的边 EMBED Equation.DSMT4  为斜边在正方形内作直角三角形 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  交于 EMBED Equation.DSMT4  ．已知 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的长分别为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，求三角形 EMBED Equation.DSMT4  的面积．
+     
+
+
+
+
+
+
+
+如图，已知 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  
+         EMBED Equation.DSMT4  ．
+      
+如图所示的四边形 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  厘米，连接对角线 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．求四边形 EMBED Equation.DSMT4  的面积．
+
+
+
+
+
+
+
+如图，在 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  ，求“？”的度数．
+  
+
+
+
+
+
+
+下图三角形 EMBED Equation.DSMT4  是等腰三角形， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．三角形 EMBED Equation.DSMT4  是正三角形，点 EMBED Equation.DSMT4  在 EMBED Equation.DSMT4   边上， EMBED Equation.DSMT4  ．当三角形 EMBED Equation.DSMT4  的面积是 EMBED Equation.DSMT4  时，三角形 EMBED Equation.DSMT4  的面积是多少？
+    
+
+
+
+
+
+如图，正方形 EMBED Equation.DSMT4  有三个顶点分别在 EMBED Equation.DSMT4  的三条边上， EMBED Equation.DSMT4  ．求正方形 EMBED Equation.DSMT4  的面积．
+
+
+
+
+
+
+
+
+如下图,△ABC是边长为1的等边三角形,△BCD是等腰三角形BD=CD，顶角∠BDC=1200,∠MDN=600,求△AMN的周长.
+
+
+
+
+
+
+若干个大小相同的正五边形如右图排成环状，下图中所示的只是3个五边形．那么要完成这一圈共需
+　          个正五边形．
+ 
+
+
+
+
+
+
+如图，ABCD是矩形，BC=6cm, AB=10cm,AC和BD是对角线，图中的阴影部分以C为轴旋转一周，则阴影部分扫过的立体的体积是多少立方厘米？（π取3.14）
+
+
+
+
+
+
+
+
+一个半径为1厘米的圆盘沿着一个半径为4厘米的圆盘外侧做无滑动的滚动，当小圆盘的中心围绕大圆盘中心转动90度后（如图2），小圆盘运动过程中扫出的面积是（　）平方厘米。（=3.14）
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+4-2-5.平移、旋转、割补 题库	                               学生版                               page  PAGE 6 of  NUMPAGES 7
+
+
+
+4-2-5.平移、旋转、割补
+
+例题精讲
+
+
+

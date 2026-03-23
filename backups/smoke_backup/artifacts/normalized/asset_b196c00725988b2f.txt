@@ -1,0 +1,264 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+分析题目确定单位“1”
+准确找到量所对应的率，利用量÷对应率＝单位“1”解题
+抓住不变量，统一单位“1”
+
+ SHAPE  \* MERGEFORMAT 
+一、知识点概述：
+分数应用题是研究数量之间份数关系的典型应用题，一方面它是在整数应用题上的延续和深化，另一方面，它有其自身的特点和解题规律．在解这类问题时，分析中数量之间的关系，准确找出“量”与“率”之间的对应是解题的关键．
+关键：分数应用题经常要涉及到两个或两个以上的量，我们往往把其中的一个量看作是标准量．也称为：单位“1”，进行对比分析。在几个量中，关键也是要找准单位“1”和对应的百分率，以及对应量三者的关系
+例如：（1）a是b的几分之几，就把数b看作单位“1”．
+（2）甲比乙多 EMBED Equation.DSMT4  ，乙比甲少几分之几？
+方法一：可设乙为单位“ EMBED Equation.DSMT4  ”，则甲为 EMBED Equation.DSMT4  ，因此乙比甲少 EMBED Equation.DSMT4  .
+方法二：可设乙为 EMBED Equation.DSMT4  份，则甲为 EMBED Equation.DSMT4  份，因此乙比甲少 EMBED Equation.DSMT4  .
+二、怎样找准分数应用题中单位“1”
+（一）、部分数和总数     在同一整体中，部分数和总数作比较关系时，部分数通常作为比较量，而总数则作为标准量，那么总数就是单位“1”。
+例如：
+我国人口约占世界人口的几分之几？——世界人口是总数，我国人口是部分数，世界人口就是单位“1”。
+解答题关键：只要找准总数和部分数，确定单位“1”就很容易了。
+（二）、两种数量比较
+分数应用题中，两种数量相比的关键句非常多。有的是“比”字句，有的则没有“比”字，而是带有指向性特征的“占”、“是”、“相当于”。在含有“比”字的关键句中，比后面的那个数量通常就作为标准量，也就是单位“1”。
+例如：六（2）班男生比女生多——就是以女生人数为标准（单位“1”），
+解题关键：在另外一种没有比字的两种量相比的时候，我们通常找到分率，看“占”谁的，“相当于”谁的，“是”谁的几分之几。这个“占”，“相当于”，“是”后面的数量——谁就是单位“！”。
+（三）、原数量与现数量     有的关键句中不是很明显地带有一些指向性特征的词语，也不是部分数和总数的关系。这类分数应用题的单位“1”比较难找。需要将题目文字完善成我们熟悉的类似带“比”的文字，然后在分析。
+例如：水结成冰后体积增加了，冰融化成水后，体积减少了。
+完善后：水结成冰后体积增加了→ “水结成冰后体积比原来增加了” →原来的水是单位“1”
+            冰融化成水后，体积减少了→ “冰融化成水后，体积比原来减少了” →原来的冰是单位“1”
+解题关键：要结合语文知识将题目简化的文字丰富后在分析
+
+ SHAPE  \* MERGEFORMAT 
+单位“ EMBED Equation.DSMT4  ”变化
+养殖专业户王老伯养了许多鸡鸭，鸡的只数是鸭的只数的 EMBED Equation.DSMT4  倍．鸭比鸡少几分之几？
+【考点】分数应用题          【难度】1星          【题型】解答 
+方法一：把鸭看成单位“ EMBED Equation.DSMT4  ”，那么鸡就是 EMBED Equation.DSMT4  ，鸭比鸡少： EMBED Equation.DSMT4  (此时的单位“1”是鸡的只数)．
+方法二：设鸭有 EMBED Equation.DSMT4  份，则鸡有 EMBED Equation.DSMT4  份，所以鸭比鸡少 EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  
+
+某校男生比女生多 EMBED Equation.DSMT4  ，女生比男生少几分之几？
+【考点】分数应用题          【难度】1星          【题型】解答 
+方法一：男生比女生多 EMBED Equation.DSMT4  ，则男生有 EMBED Equation.DSMT4  ，女生比男生少 EMBED Equation.DSMT4  .
+方法二：设女生有 EMBED Equation.DSMT4  份，则男生有 EMBED Equation.DSMT4  份，所以女生比男生少 EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  
+
+一炉铁水凝成铁块 ，其体积缩小了 EMBED Equation.DSMT4  ，那么这个铁块又熔化成铁水（不计损耗），其中体积增加了几分之几?
+【考点】分数应用题          【难度】1星          【题型】解答 
+方法一：设铁水的体积为 EMBED Equation.DSMT4  ，则铁块为 EMBED Equation.DSMT4  ．现在变回来，那么铁块的体积就要变为单位1，则铁水的体积就为 EMBED Equation.DSMT4  ，故体积增加了： EMBED Equation.DSMT4  .
+方法二： 体积缩小是铁块比铁水缩小,所以可以设铁水为34份,则铁块为33份,铁块又熔化成铁水,体积增加是比铁块增加,所以用差的1份除以铁块的33份就是答案 EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  
+
+水结成冰后体积增大它的 EMBED Equation.DSMT4  .  问：冰化成水后体积减少它的几分之几？
+【考点】分数应用题          【难度】1星          【题型】解答 
+设水的体积是 EMBED Equation.DSMT4  份，则结成冰后体积为 EMBED Equation.DSMT4  份，冰化成水后比冰减少 EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  
+
+磁悬浮列车的能耗很低。它的每个座位的平均能耗是汽车的70％，而汽车每个座位的平均能耗是飞机的 EMBED Equation.DSMT4  ，则飞机每个座位的平均能耗是磁悬浮列车每个座位的平均能耗的________倍。
+【考点】分数应用题          【难度】2星          【题型】解答 
+【关键词】希望杯，六年级，二试
+磁悬浮列车每个座位的平均耗能是飞机每个座位的平均耗能的 EMBED Equation.DSMT4  ，故飞机每个座位的平均能耗是磁悬浮列车每个座位的平均能耗的3倍。
+【答案】3倍
+
+在下降的电梯中称重，显示的重量比实际体重减少 EMBED Equation.DSMT4  ；在上升的电梯中称重，显示的重量比实际体重增加 EMBED Equation.DSMT4  ．小明在下降的电梯中与小刚在上升的电梯中称得的体重相同，小明和小刚实际体重的比是        ．
+【考点】分数应用题          【难度】2星          【题型】解答 
+【关键词】2008年，清华附中
+小明在下降的电梯中称得的体重为其实际体重的 EMBED Equation.DSMT4  ，小刚在上升的电梯中称得的体重为其实际体重的 EMBED Equation.DSMT4  ，而小明在下降的电梯中与小刚在上升的电梯中称得的体重相同，所以小明和小刚实际体重的比是： EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+学校阅览室里有36名学生在看书，其中女生占 EMBED Equation.DSMT4  ，后来又有几名女生来看书，这时女生人数占所有看书人数的 EMBED Equation.DSMT4  ．问后来又有几名女生来看书?
+【考点】分数应用题          【难度】2星          【题型】解答 
+把总人数视为“1”，紧抓住男生人数不变进行解答．男生人数是 EMBED Equation.DSMT4  人，后来阅览室的总人数是 EMBED Equation.DSMT4  (名)，后来有 EMBED Equation.DSMT4  (名)女生进来．
+【答案】 EMBED Equation.DSMT4  名
+
+工厂原有职工128人，男工人数占总数的 EMBED Equation.DSMT4  ，后来又调入男职工若干人，调入后男工人数占总人数的 EMBED Equation.DSMT4  ，这时工厂共有职工        人．
+【考点】分数应用题          【难度】2星          【题型】解答 
+【关键词】2009年，五中，入学测试
+在调入的前后，女职工人数保持不变．在调入前，女职工人数为 EMBED Equation.DSMT4  人，调入后女职工占总人数的 EMBED Equation.DSMT4  ，所以现在工厂共有职工 EMBED Equation.DSMT4  人．
+【答案】 EMBED Equation.DSMT4  人
+
+学校派出60名选手参加2008年“华罗庚金杯小学数学邀请赛”，其中女选手占 EMBED Equation.DSMT4  ．正式比赛时有几名女选手因故缺席，这样就使女选手人数变为参赛选手总数的 EMBED Equation.DSMT4  ．正式参赛的女选手有多少名？
+【考点】分数应用题          【难度】2星          【题型】解答 
+因为女选手人数有变化，男选手人数未变，所以抓住男选手人数不变求解．把总人数视为“1”， 男选手人数是60×(1- EMBED Equation.DSMT4  )=45(人)，男选手人数占正式参赛选手总数的1- EMBED Equation.DSMT4  ，所以正式参赛选手总数是：45÷(1- EMBED Equation.DSMT4  )=55(人)，正式参赛的女选手人数是55× EMBED Equation.DSMT4  =10(人)。
+【答案】10人
+
+某公司有 EMBED Equation.DSMT4  的职员参加新产品的开发工作，后来又有 EMBED Equation.DSMT4  名职工主动参加，这样参加新产品开发的职工人数是其余人数的 EMBED Equation.DSMT4  ，原来有多少职工参加开发工作？
+【考点】分数应用题          【难度】2星          【题型】解答 
+后来参加新产品开发的职工人数是总人数的 EMBED Equation.DSMT4  ，所以新加入的2个人占总人数的 EMBED Equation.DSMT4  ，那么职工总人数为 EMBED Equation.DSMT4  人，原来参加开发的职工数是 EMBED Equation.DSMT4  人．
+【答案】 EMBED Equation.DSMT4  人
+
+春天幼儿园中班小朋友的平均身高是115厘米，其中男孩比女孩多 EMBED Equation.DSMT4  ，女孩的平均身高比男孩高10%，这个班男孩的平均身高是         厘米。
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】希望杯，六年级，一试
+设男生有6人，女生有5人，则男生的平均身高为： EMBED Equation.DSMT4  （厘米）
+【答案】 EMBED Equation.DSMT4  厘米
+
+有甲、乙两桶油，甲桶油的质量是乙桶的 EMBED Equation.DSMT4  倍，从甲桶中倒出5千克油给乙桶后，甲桶油的质量是乙桶的 EMBED Equation.DSMT4  倍，乙桶中原有油        千克．
+【考点】分数应用题          【难度】2星          【题型】解答 
+原来甲桶油的质量是两桶油总质量的 EMBED Equation.DSMT4  ，甲桶中倒出5千克后剩下的油的质量是两桶油总质量的 EMBED Equation.DSMT4  ，由于总质量不变，所以两桶油的总质量为 EMBED Equation.DSMT4  千克，乙桶中原有油 EMBED Equation.DSMT4  千克．
+【答案】 EMBED Equation.DSMT4  千克
+
+（1）某工厂二月份比元月份增产10％，三月份比二月份减产10％．问三月份比元月份增产了还是减产了？（2）一件商品先涨价15％，然后再降价15％，问现在的价格和原价格比较升高、降低还是不变？
+【考点】分数应用题          【难度】2星          【题型】解答 
+（1）设二月份产量是1，所以元月份产量为：  EMBED Equation.DSMT4  ，三月份产量为： EMBED Equation.DSMT4  ，因为 EMBED Equation.DSMT4  ＞0.9，所以三月份比元月份减产了
+（2）设商品的原价是1，涨价后为 EMBED Equation.DSMT4  ，降价15%为： EMBED Equation.DSMT4  ，现价和原价比较为：0.9775＜1，所以价格比较后是价降低了。
+【答案】（1）减产                      （2）降低
+
+某工厂二月份比元月份增产 EMBED Equation.DSMT4  ，三月份比二月份减产 EMBED Equation.DSMT4  ．问三月份比元月份增产了还是减产了？
+【考点】分数应用题          【难度】2星          【题型】解答 
+工厂二月份比元月份增产 EMBED Equation.DSMT4  ，将元月份产量看作1，则二月份产量为： EMBED Equation.DSMT4  ，三月比二月减产 EMBED Equation.DSMT4  ，则三月份产量为：  EMBED Equation.DSMT4  ，所以三月份比元月份减产了．
+【答案】减产
+
+一件商品先涨价 EMBED Equation.DSMT4  ，然后再降价 EMBED Equation.DSMT4  ，问现在的价格和原价格比较升高、降低还是不变？
+【考点】分数应用题          【难度】2星          【题型】解答 
+ EMBED Equation.DSMT4  ，所以现在的价格比原价降低了.
+【答案】降低
+
+某校三年级有学生240人，比四年级多 EMBED Equation.DSMT4   ，比五年级少 EMBED Equation.DSMT4   ．四年级、五年级各多少人？
+【考点】分数应用题          【难度】2星          【题型】解答 
+比四年级,可以设四年级为4份,（一般情况下可设“比”、“是”、等词后面的实际量的份数为分数的分母），则三年级为5份恰有240人,所以一每份就是 EMBED Equation.DSMT4  ,所以四年级就有48 EMBED Equation.DSMT4  4 EMBED Equation.DSMT4  192人,同理可设五年级有5份,则三年级有4份恰是240人,所以五年级就有300人.
+【答案】300人
+
+把 EMBED Equation.DSMT4  个人分成四队，一队人数是二队人数的 EMBED Equation.DSMT4  倍，一队人数是三队人数的 EMBED Equation.DSMT4  倍，那么四队有多少个人?
+
+【考点】分数应用题          【难度】2星          【题型】解答 
+方法一：设一队的人数是“ EMBED Equation.DSMT4  ”，那么二队人数是： EMBED Equation.DSMT4  ，三队的人数是： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，因此，一、二、三队之和是：一队人数 EMBED Equation.DSMT4  ，因为人数是整数，一队人数一定是 EMBED Equation.DSMT4  的整数倍，而三个队的人数之和是 EMBED Equation.DSMT4  (某一整数)， 因为这是 EMBED Equation.DSMT4  以内的数，这个整数只能是 EMBED Equation.DSMT4  ．所以三个队共有 EMBED Equation.DSMT4  人，其中一、二、三队各有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  人．而四队有： EMBED Equation.DSMT4  (人)．
+方法二：设二队有 EMBED Equation.DSMT4  份，则一队有 EMBED Equation.DSMT4  份；设三队有 EMBED Equation.DSMT4  份，则一队有 EMBED Equation.DSMT4  份.为统一一队所以设一队有 EMBED Equation.DSMT4  份，则二队有 EMBED Equation.DSMT4  份，三队有 EMBED Equation.DSMT4  份，所以三个队之和为 EMBED Equation.DSMT4  份，而四个队的份数之和必须是 EMBED Equation.DSMT4  的因数，因此四个队份数之和是100份，恰是一份一人，所以四队有 EMBED Equation.DSMT4  (人).
+【答案】 EMBED Equation.DSMT4  人
+
+新光小学有音乐、美术和体育三个特长班，音乐班人数相当于另外两个班人数的 EMBED Equation.DSMT4  ，美术班人数相当于另外两个班人数的 EMBED Equation.DSMT4  ，体育班有 EMBED Equation.DSMT4  人，音乐班和美术班各有多少人？
+【考点】分数应用题          【难度】2星          【题型】解答 
+条件可以化为：音乐班的人数是所有班人数的 EMBED Equation.DSMT4  ，美术班的学生人数是所有班人数的 EMBED Equation.DSMT4  ，所以体育班的人数是所有班人数的 EMBED Equation.DSMT4  ，所以所有班的人数为 EMBED Equation.DSMT4  人，其中音乐班有 EMBED Equation.DSMT4  人，美术班有 EMBED Equation.DSMT4  人.
+【答案】 EMBED Equation.DSMT4  人
+
+王先生、李先生、赵先生、杨先生四个人比年龄，王先生的年龄是另外三人年龄和的 EMBED Equation.DSMT4  ，李先生的年龄是另外三人年龄和的 EMBED Equation.DSMT4   ，赵先生的年龄是其他三人年龄和的 EMBED Equation.DSMT4  ，杨先生26岁，你知道王先生多少岁吗?
+【考点】分数应用题          【难度】2星          【题型】解答 
+方法一：要求王先生的年龄，必须先要求出其他三人的年龄各是多少．而题目中出现了三个“另外三人”所包含的对象并不同，即三个单位“ EMBED Equation.DSMT4  ”是不同的，这就是所说的单位“ EMBED Equation.DSMT4  ”不统一，因此，解答此题的关键便是抓不变量，统一单位“ EMBED Equation.DSMT4  ”．题中四个人的年龄总和是不变的，如果以四个人的年龄总和为单位“ EMBED Equation.DSMT4  ”，则单位“ EMBED Equation.DSMT4  ”就统一了．那么王先生的年龄就是四人年龄和的 EMBED Equation.DSMT4  ，李先生的年龄就是四人年龄和的 EMBED Equation.DSMT4  ，赵先生的年龄就是四人年龄和的 EMBED Equation.DSMT4  (这些过程就是所谓的转化单位“ EMBED Equation.DSMT4  ”)．则杨先生的年龄就是四人年龄和的 EMBED Equation.DSMT4  ．由此便可求出四人的年龄和： EMBED Equation.DSMT4  (岁)，王先生的年龄为： EMBED Equation.DSMT4  (岁)．
+方法二：设王先生年龄是1份,则其他三人年龄和为2份,则四人年龄和为3份,同理设李先生年龄为1份,则四人年龄和为4份,设赵先生年龄为1份,则四人年龄和为5份,不管怎样四人年龄和应是相同的,但是现在四人年龄和分别是3份、4份、5份，它们的最小公倍数是60份，所以最后可以设四人年龄和为60份，则王先生的年龄就变为20份，李先生的年龄就变为15份，赵先生的年龄就变为12份，则杨先生的年龄为13份，恰好是26岁，所以1份是2岁，王先生年龄是20份所以就是40岁.
+【答案】40岁
+
+四只小猴吃桃，第一只小猴吃的是另外三只的总数的 EMBED Equation.DSMT4  ，第二只小猴吃的是另外三只吃的总数的 EMBED Equation.DSMT4  ，第三只小猴吃的是另外三只的总数的 EMBED Equation.DSMT4  ，第四只小猴将剩下的 EMBED Equation.DSMT4  个桃全吃了.问四只小猴共吃了多少个桃？
+【考点】分数应用题          【难度】2星          【题型】解答 
+根据题意知前三只小猴分别吃了总数的 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以四只小猴共吃了 EMBED Equation.DSMT4  （个）
+【答案】 EMBED Equation.DSMT4  个
+
+兄弟四人去买电视,老大带的钱是另外三人的一半,老二带的钱是另外三人的1/3,老三带的钱是另外三人总钱数的1/4，老四带91元，兄弟四人一共带了多少钱？
+【考点】分数应用题          【难度】2星          【题型】解答 
+老大带的钱是另外三人的一半，也就说老大带的钱是一共带钱的1/3，同理老二带的钱是一共带钱的1/4，老三带的钱是一共带钱的1/5，所以老四带的钱是一共带钱的：1-1/3-1/4-1/5=13/60 四人一共带的钱：91除以13/60=420（元）
+【答案】420元
+
+小刚给王奶奶运蜂窝煤，第一次运了全部的 EMBED Equation.DSMT4  ，第二次运了 EMBED Equation.DSMT4  块，这时已运来的恰好是没运来的 EMBED Equation.DSMT4  ．问还有多少块蜂窝煤没有运来？
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】迎春杯，决赛
+方法一:运完第一次后，还剩下 EMBED Equation.DSMT4  没运，再运来 EMBED Equation.DSMT4  块后，已运来的恰好是没运来的 EMBED Equation.DSMT4  ，也就是说没运来的占全部的 EMBED Equation.DSMT4  ，所以，第二次运来的 EMBED Equation.DSMT4  块占全部的： EMBED Equation.DSMT4  ，全部蜂窝煤有： EMBED Equation.DSMT4  (块)，没运来的有： EMBED Equation.DSMT4  (块)．
+方法二：根据题意可以设全部为 EMBED Equation.DSMT4  份，因为已运来的恰好是没运来的 EMBED Equation.DSMT4  ，所以可以设全部为 EMBED Equation.DSMT4  份，为了统一全部的蜂窝煤，所以设全部的蜂窝煤共有 EMBED Equation.DSMT4  份，则已运来应是 EMBED Equation.DSMT4  份，没运来的 EMBED Equation.DSMT4  份，第一次运来 EMBED Equation.DSMT4  份，所以第二次运来是 EMBED Equation.DSMT4  份恰好是 EMBED Equation.DSMT4  块，因此没运来的蜂窝煤有 EMBED Equation.DSMT4  （块）.
+【答案】 EMBED Equation.DSMT4  块
+
+五(一)班原计划抽 EMBED Equation.DSMT4  的人参加大扫除，临时又有 EMBED Equation.DSMT4  个同学主动参加，实际参加扫除的人数是其余人数的 EMBED Equation.DSMT4  ．原计划抽多少个同学参加大扫除？
+【考点】分数应用题          【难度】3星          【题型】解答 
+又有 EMBED Equation.DSMT4  个同学参加扫除后，实际参加扫除的人数与其余人数的比是 EMBED Equation.DSMT4  ，实际参加人数比原计划多 EMBED Equation.DSMT4  ．即全班共有 EMBED Equation.DSMT4  (人)．原计划抽 EMBED Equation.DSMT4  (人)参加大扫除．
+【答案】 EMBED Equation.DSMT4  人
+
+某校学生参加大扫除的人数是未参加大扫除人数的 EMBED Equation.DSMT4  ，后来又有20名同学参加大扫除，实际参加的人数是未参加人数的 EMBED Equation.DSMT4  ，这个学校有多少人？
+【考点】分数应用题          【难度】2星          【题型】解答 
+ EMBED Equation.DSMT4  （人）.
+【答案】 EMBED Equation.DSMT4  人
+
+小莉和小刚分别有一些玻璃球，如果小莉给小刚24个，则小莉的玻璃球比小刚少 EMBED Equation.DSMT4  ；如果小刚给小莉24个，则小刚的玻璃球比小莉少 EMBED Equation.DSMT4  ，小莉和小刚原来共有玻璃球多少个？
+【考点】分数应用题          【难度】3星          【题型】解答 
+小莉给小刚24个时，小莉是小刚的 EMBED Equation.DSMT4   (=1一 EMBED Equation.DSMT4  )，即两人球数和的 EMBED Equation.DSMT4  ；小刚给小莉24个时，小莉是两人球数和的 EMBED Equation.DSMT4  (= EMBED Equation.DSMT4  )，因此24+24是两人球数和的 EMBED Equation.DSMT4  - EMBED Equation.DSMT4  = EMBED Equation.DSMT4  ．从而，和是(24+24) ÷ EMBED Equation.DSMT4  =132(个)．
+【答案】132个
+
+某班一次集会，请假人数是出席人数的 EMBED Equation.DSMT4  ，中途又有一人请假离开，这样一来，请假人数是出席人数的 EMBED Equation.DSMT4  ，那么，这个班共有多少人？
+【考点】分数应用题          【难度】3星          【题型】解答 
+因为总人数未变，以总人数作为”1”．原来请假人数占总人数的 EMBED Equation.DSMT4  ，现在请假人数占总人数的 EMBED Equation.DSMT4  ，这个班共有：l÷( EMBED Equation.DSMT4  - EMBED Equation.DSMT4  )=50(人)．
+【答案】50人
+
+小明是从昨天开始看这本书的，昨天读完以后，小明已经读完的页数是还没读的页数 EMBED Equation.DSMT4  ，他今天比昨天多读了 EMBED Equation.DSMT4  页，这时已经读完的页数是还没读的页数的 EMBED Equation.DSMT4  ，问题是，这本书共有多少页？”
+【考点】分数应用题          【难度】3星          【题型】解答 
+首先，可以直接运算得出，第一天小明读了全书的 EMBED Equation.DSMT4  ，而前二天小明一共读了全书的 EMBED Equation.DSMT4  ，所以第二天比第一天多读的 EMBED Equation.DSMT4  页对应全书的 EMBED Equation.DSMT4  。所以整本书一共有 EMBED Equation.DSMT4  （页）。此外，如果对分数的掌握还不是很熟练的话，那么这道题可以采用设份数的方法：把这本书看作 EMBED Equation.DSMT4  份，那么昨天他看了 EMBED Equation.DSMT4  份，而今天他看了 EMBED Equation.DSMT4  份还多 EMBED Equation.DSMT4  页，两天一共看了 EMBED Equation.DSMT4  份还多 EMBED Equation.DSMT4  页，或者可以表示成 EMBED Equation.DSMT4  （份）。那么每份是 EMBED Equation.DSMT4  （页），这本书共 EMBED Equation.DSMT4  （页）。两种方法都可以得到相同的结果。
+【答案】 EMBED Equation.DSMT4  页
+
+某校四年级原有两个班，现在要重新编为三个班，将原一班的 EMBED Equation.DSMT4  与原二班的 EMBED Equation.DSMT4  组成新一班，将原一班的 EMBED Equation.DSMT4  与原二班的 EMBED Equation.DSMT4  组成新二班，余下的 EMBED Equation.DSMT4  人组成新三班．如果新一班的人数比新二班的人数多 EMBED Equation.DSMT4  ，那么原一班有多少人？
+【考点】分数应用题          【难度】3星          【题型】解答 
+新三班人数占原来两班人数之和的 EMBED Equation.DSMT4  ，所以，原来两班总人数为： EMBED Equation.DSMT4  (人)，新一班与新二班人数之和为： EMBED Equation.DSMT4  (人)，新二班人数是： EMBED Equation.DSMT4  (人)，新一班人数为： EMBED Equation.DSMT4  (人)，新一班与新二班人数之差为 EMBED Equation.DSMT4  ，而新一班与新二班人数之差为(原一班人数 EMBED Equation.DSMT4  原二班人数) EMBED Equation.DSMT4  ，故：原一班人数 EMBED Equation.DSMT4  原二班人数 EMBED Equation.DSMT4  (人)，原一班人数 EMBED Equation.DSMT4  (人)．
+【答案】 EMBED Equation.DSMT4  人
+
+某工厂对一、二两个车间的职工进行重组，将原来的一车间人数的 EMBED Equation.DSMT4  和二车间人数的 EMBED Equation.DSMT4  分到一车间，将原来的一车间人数的 EMBED Equation.DSMT4  和二车间人数的 EMBED Equation.DSMT4  分到二车间，两个车间剩余的140人组成劳动服务公司，现在二车间人数比一车间人数多 EMBED Equation.DSMT4  ，现在一车间有        人，二车间有        人．
+【考点】分数应用题          【难度】3星          【题型】解答 
+由“将一车间人数的 EMBED Equation.DSMT4  和二车间人数的 EMBED Equation.DSMT4  分到一车间，将一车间人数的 EMBED Equation.DSMT4  和二车间人数的 EMBED Equation.DSMT4  分到二车间”可知，现在一、二两车间的人数之和为总人数的 EMBED Equation.DSMT4  ，所以劳动服务公司的140人占总人数的 EMBED Equation.DSMT4  ，那么总人数为： EMBED Equation.DSMT4  人，现在一、二两车间的人数之和为 EMBED Equation.DSMT4  人．由于现在二车间人数比一车间人数多 EMBED Equation.DSMT4  ，所以现在一车间人数为 EMBED Equation.DSMT4  人，现在二车间人数为 EMBED Equation.DSMT4  人．提示：可以继续求出原来一车间和二车间的人数．由于现在二车间比一车间多20人，所以原来二车间人数的 EMBED Equation.DSMT4  比一车间人数的 EMBED Equation.DSMT4  多20人，那么原来二车间人数比乙车间人数多 EMBED Equation.DSMT4  人，原来一车间有 EMBED Equation.DSMT4  人，原来二车间有 EMBED Equation.DSMT4  人．
+【答案】 EMBED Equation.DSMT4  人
+
+林林倒满一杯纯牛奶，第一次喝了 EMBED Equation.DSMT4  ，然后加入豆浆，将杯子斟满并搅拌均匀，第二次林林又喝了 EMBED Equation.DSMT4  ，继续用豆浆将杯子斟满并搅拌均匀，重复上述过程，那么第四次后，林林共喝了一杯纯牛奶总量的         (用分数表示)。
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】华杯赛，决赛
+大家要先分析清楚的是不论是否加入豆浆，每次喝到的都是杯子里剩下牛奶的 EMBED Equation.DSMT4  ，要是能想清楚这一点那么这道题就变了一道找规律的问题了。
+
+喝掉的牛奶
+剩下的牛奶
+第一次
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+第二次
+ EMBED Equation.DSMT4  
+（喝掉剩下 EMBED Equation.DSMT4  的 EMBED Equation.DSMT4  ）
+ EMBED Equation.DSMT4  
+（剩下是第一次剩下 EMBED Equation.DSMT4  的 EMBED Equation.DSMT4  ）
+第三次
+ EMBED Equation.DSMT4  
+（喝掉剩下 EMBED Equation.DSMT4  的 EMBED Equation.DSMT4  ）
+ EMBED Equation.DSMT4  
+（剩下是第一次剩下 EMBED Equation.DSMT4  的 EMBED Equation.DSMT4  ）
+第四次
+ EMBED Equation.DSMT4  （喝掉剩下 EMBED Equation.DSMT4  的 EMBED Equation.DSMT4  ）
+所以最后喝掉的牛奶为 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+参加迎春杯数学竞赛的人数共有2000多人.其中光明区占 EMBED Equation.DSMT4  ，中心区占 EMBED Equation.DSMT4  ，朝阳区占 EMBED Equation.DSMT4  ，剩余的全是远郊区的学生.比赛结果，光明区有去的学生得奖，中心区有 EMBED Equation.DSMT4  的学生得奖，朝阳区有 EMBED Equation.DSMT4  的学生得奖，全部获奖者的号 EMBED Equation.DSMT4  远郊区的学生．那么参赛学生有多少名?获奖学生有多少名?
+【考点】分数应用题          【难度】3星          【题型】解答 
+ 如下表所示，我们将题中所给的条件列在表格内：
+
+有远郊区参赛的占参赛总数的1- EMBED Equation.DSMT4  而光明区、中心区、朝阳区获奖学生数占参赛总数的 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  .所以有参赛学生数是3、7、5、72、56、90的倍数，即为2520的倍数，而参赛学生总数只有2000多人,所以只能是2520．光明区、中心区、朝阳区获奖学生共35+45+28=108人，占获奖总数的 EMBED Equation.DSMT4  ，所以获奖学生总数为108÷ EMBED Equation.DSMT4  =126.即参赛学生有2520名，获奖学生有126名．
+
+【答案】参赛学生有2520名，获奖学生有126名
+
+如图⑴，线段 EMBED Equation.DSMT4  将长方形纸分成面积相等的两部分．沿 EMBED Equation.DSMT4  将这张长方形纸对折后得到图⑵，将图⑵沿对称轴对折，得到图⑶，已知图⑶所覆盖的面积占长方形纸面积的 EMBED Equation.DSMT4  ，阴影部分面积为 EMBED Equation.DSMT4  平方厘米．长方形的面积是多少？
+
+
+
+【考点】分数应用题          【难度】3星          【题型】解答 
+如图⑶所示，阴影部分是 EMBED Equation.DSMT4  层，空白部分是 EMBED Equation.DSMT4  层，如果将阴影部分缩小一半，即变为 EMBED Equation.DSMT4  平方厘米，那么阴影部分也变成 EMBED Equation.DSMT4  层，此时覆盖面的面积占长方形纸片面积的 EMBED Equation.DSMT4  ，即缩小的 EMBED Equation.DSMT4  平方厘米相当于长方形纸片面积的 EMBED Equation.DSMT4  ，所以长方形纸片面积为 EMBED Equation.DSMT4  (平方厘米).
+【答案】 EMBED Equation.DSMT4  平方厘米
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+2-2-3.分数应用题（三）.题库	                           教师版                                     page  PAGE 11 of  NUMPAGES 11
+
+
+
+分数应用题（三）
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

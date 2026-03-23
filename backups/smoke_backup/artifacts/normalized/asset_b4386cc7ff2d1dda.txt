@@ -1,0 +1,486 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE  \* MERGEFORMAT 
+
+本讲是在分数计算方面技巧的基础上，进一步认识小数、分数，只是从比较大小方面认识它们，这一讲主要介绍一些比较较为复杂的小数、分数大小的方法，主要有通分子、通分母、倒数法、放缩法等。
+
+ SHAPE  \* MERGEFORMAT 
+一、小数的大小比较常用方法
+为方便比较，往往把这些小数排成一个竖列，并在它们的末尾添上适当的“0”，使它们都变成小数位数相同的小数.(如果是循环小数，就把它改写成一般写法的形式)
+二、分数的大小比较常用方法
+ = 1 \* GB2 ⑴通分母：分子小的分数小.
+ = 2 \* GB2 ⑵通分子：分母小的分数大.
+ = 3 \* GB2 ⑶比倒数：倒数大的分数小.
+ = 4 \* GB2 ⑷与1相减比较法：分别与1相减，差大的分数小．(适用于真分数)
+ = 5 \* GB2 ⑸重要结论：
+①对于两个真分数，如果分子和分母相差相同的数，则分子和分母都大的分数比较大；
+②对于两个假分数，如果分子和分母相差相同的数，则分子和分母都小的分数比较大．
+ = 6 \* GB2 ⑹放缩法
+在实际解题的过程中，我们还会用到其它一些思路！同学们要根据具体情况展开思维！
+三、数的估算时常用方法
+（1）放缩法：为求出某数的整数部分，设法放大或缩小．使结果介于某两个接近数之间，从而估算结果．
+（2）变换结构：将原来算式或问题变形为便于估算的形式．
+
+ SHAPE  \* MERGEFORMAT 
+模块一、两个数的大小比较
+如果a EMBED Equation.DSMT4    EMBED Equation.DSMT4  ，b EMBED Equation.DSMT4    EMBED Equation.DSMT4  ，那么a，b中较大的数是         
+
+
+
+
+
+
+试比较 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  的大小
+
+
+
+
+
+比较 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  的大小
+
+
+
+
+
+
+如果A EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，B EMBED Equation.DSMT4   EMBED Equation.DSMT4  ,A与B中哪个数较大？
+
+
+
+
+
+
+如果 EMBED Equation.DSMT4  ，那么A和B中较大的数是      .
+
+
+
+
+
+试比较 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  的大小 
+
+
+
+
+
+
+在 a=20032003×2002和 b=20022003×2003中，较大的数是______ ，比较小的数大______ 。 
+设a=  EMBED Equation.DSMT4  ，b=  EMBED Equation.DSMT4  , EMBED Equation.DSMT4  则在a与b中，较大的数是______。
+
+
+
+
+
+比较 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的大小．
+
+
+
+
+
+
+
+ EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  相比，哪个更大，为什么？
+
+
+
+
+
+
+试比较:  EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  哪一个大? 
+
+
+
+
+
+
+图中有两个黑色的正方形，两个白色的正方形，它们的面积已在图中标出(单位：厘米 EMBED Equation.DSMT4  )．黑色的两个正方形面积大还是白色的两个正方形面积大?请说明理由．
+
+
+
+在 EMBED Equation.DSMT4  中选出若干个数使它们的和大于3，最少要选多少个数?
+
+
+
+
+已知： EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  中        比较大，说明原因；
+
+
+模块二、多个数的大小比较
+ = 1 \* GB2 ⑴比较以下小数，找到最大的数： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，  EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+ = 2 \* GB2 ⑵比较以下5个数，排列大小：1 ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  .
+
+
+
+在 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  中，最小的数是______。
+
+
+
+
+
+在 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  四个小数中，第二小的数是____
+
+
+
+
+分数 EMBED Equation.DSMT4  中最大的一个是           。
+
+
+
+
+
+有8个数， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ,  EMBED Equation.DSMT4  ,  EMBED Equation.DSMT4  ,  EMBED Equation.DSMT4  是其中6个，如果按从小到大的顺序排列时，第4个数是 EMBED Equation.DSMT4  ，那么按从大到小排列时，第4个数是哪一个数? 
+
+
+
+
+
+
+在 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  中，最小的分数是__________.
+
+
+
+
+
+
+（1）把下列各数按照从小到大的顺序排列： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+（2）(幼苗杯数学邀请赛)把下列分数用“ EMBED Equation.DSMT4  ”号连接起来： EMBED Equation.DSMT4   ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+
+
+
+ 将 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  从小到大排列，第三个数是________.
+这里有五个分数： EMBED Equation.DSMT4   如果按大小顺序排列，排在中间的是哪个数?
+
+
+
+
+
+
+将下列乘式结果按从小到大排序： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+
+
+
+
+
+
+
+编号为1、2、3的三只蚂蚁分别举起重量为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  克的重物．问：金、银、铜牌应分别发给几号蚂蚁? 
+
+
+
+
+
+
+
+请把 EMBED Equation.DSMT4  这4个数从大到小排列。
+
+
+
+
+
+
+ EMBED Equation.DSMT4  ，在上式的方框内填入一个整数，使两端的不等号成立，那么要填的整数是多少?
+
+
+
+
+
+
+ = 1 \* GB2 ⑴比 EMBED Equation.DSMT4  大比 EMBED Equation.DSMT4  小的分数有无数多个，则分子为27的分数是_________.(写出一个即可)
+ = 2 \* GB2 ⑵右面方框里填什么自然数时，不等式成立?   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  １
+
+
+
+
+比 EMBED Equation.DSMT4  大，比 EMBED Equation.DSMT4  小的分数有无穷多个，请写出三个：            。
+
+
+
+ = 1 \* GB2 ⑴找出一个比 EMBED Equation.DSMT4  大，比 EMBED Equation.DSMT4  小的分数。
+ = 2 \* GB2 ⑵满足下式的括号里的数字有多少个自然数： EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+下式中五个分数都是最简真分数，要使不等式成立，这些分母的和最小是多少？ EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+在下面9个算式中:
+① EMBED Equation.DSMT4  ，② EMBED Equation.DSMT4  ,③ EMBED Equation.DSMT4  ,④ EMBED Equation.DSMT4  ,⑤ EMBED Equation.DSMT4  ，⑥ EMBED Equation.DSMT4  ，⑦ EMBED Equation.DSMT4  ，⑧ EMBED Equation.DSMT4  ,⑨ EMBED Equation.DSMT4  ,第几个算式的答数最小，这个答数是多少?
+
+
+
+
+
+
+
+
+若a= EMBED Equation.DSMT4  ，b= EMBED Equation.DSMT4  ，c= EMBED Equation.DSMT4  ，则有（    ）。
+   （A）a>b>c     （B）a>c>b     （C）a<c<b    （D）a<b<c
+
+
+
+
+
+
+甲、乙两个天平上都放着一定重量的物体，问：哪—个是平衡的?
+
+
+
+
+用“＞”号把下列分数连接起来： EMBED Equation.DSMT4  　　  EMBED Equation.DSMT4  　　　 EMBED Equation.DSMT4  　　　 EMBED Equation.DSMT4  　　　 EMBED Equation.DSMT4  
+这里有5个分数： EMBED Equation.DSMT4  ，如果按大小顺序排列，排在中间的是哪个数？
+
+
+
+
+
+
+从 EMBED Equation.DSMT4  六个数中选出三个数，分别记为A，B，C.要求选出的三个数使得A×（B-C）尽量大，并写出A×（B-C）的最简分数表示。
+
+
+
+
+
+
+在四个算式6□0.3 EMBED Equation.DSMT4  ，6□ EMBED Equation.DSMT4  ，6□ EMBED Equation.DSMT4  ，6□ EMBED Equation.DSMT4  的四个方框内，分别填上加、减、乘、除四种运算符号，使得到的四个算式的四个圆圈之和尽可能大，那么这个和等于多少？ 
+
+
+
+
+
+
+从1，2，3，4，5，6，7，8，9中随意取出两个数字，一个作分子，一个作分母，组成一个分数，所有分数中，最大的是            ，循环小数有个            。
+
+
+
+
+
+
+ 从 EMBED Equation.DSMT4  中去掉两个数，使得剩下的三个数之和与 EMBED Equation.DSMT4  接近，去掉的两个数是(     ).
+（A） EMBED Equation.DSMT4  （B） EMBED Equation.DSMT4  （C） EMBED Equation.DSMT4  （D） EMBED Equation.DSMT4  
+
+
+
+
+
+已知A EMBED Equation.DSMT4  15 EMBED Equation.DSMT4   EMBED Equation.DSMT4  =B EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  15=C EMBED Equation.DSMT4  15.2 EMBED Equation.DSMT4   EMBED Equation.DSMT4  =D EMBED Equation.DSMT4  14.8 EMBED Equation.DSMT4   EMBED Equation.DSMT4  .
+A、B、C、D四个数中最大的是_____．
+
+
+
+
+
+已知 EMBED Equation.DSMT4  ，并且 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  都不等于0，把 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  这三个数按从小到大的顺序排列是___ EMBED Equation.DSMT4  ___ EMBED Equation.DSMT4  ___ 。
+
+
+
+
+
+气象局对部分旅游景区的某一天的气温预报如下表：
+景区千岛湖 张家界庐山三亚丽江大理九寨沟鼓浪屿武夷山黄山气温(℃)11/18/43/-227/1917/318/38/-815/915/10/-5其中，温差最小的景区是______ ，温差最大的景区是______。
+
+
+
+
+
+模块三、数的估算
+求数 EMBED Equation.DSMT4   EMBED Equation.DSMT4    EMBED Equation.DSMT4   EMBED Equation.DSMT4    EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4    EMBED Equation.DSMT4  的整数部分．
+
+
+
+
+
+已知  EMBED Equation.DSMT4  ，则A的整数部分是_______	
+
+
+
+
+求数 EMBED Equation.DSMT4  的整数部分是几？
+
+
+
+
+
+求数 EMBED Equation.3 \* MERGEFORMAT 的整数部分．
+
+
+
+
+
+已知：S EMBED Equation.DSMT4  ,则S的整数部分是        . 
+
+
+
+
+已知 EMBED Equation.DSMT4  ，则与 EMBED Equation.DSMT4  最接近的整数是________．
+
+
+
+
+
+
+
+ EMBED Equation.DSMT4  的整数部分是________．
+
+
+
+
+
+
+
+ EMBED Equation.DSMT4  的整数部分是        ．
+
+
+
+
+
+
+
+
+已知 EMBED Equation.DSMT4  ，求 EMBED Equation.DSMT4  的整数部分．
+
+
+
+
+
+
+
+A EMBED Equation.DSMT4  8.8 EMBED Equation.DSMT4  8.98 EMBED Equation.DSMT4  8.998 EMBED Equation.DSMT4  8.9998 EMBED Equation.DSMT4  8.99998，A的整数部分是________.
+
+
+
+
+
+
+ EMBED Equation.DSMT4  =10.8+10.98+10.998+10.9998+10.99998， EMBED Equation.DSMT4  的整数部分是       。
+已知x EMBED Equation.DSMT4  0.9 EMBED Equation.DSMT4  0.99 EMBED Equation.DSMT4  0.999 EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  0.9999999999．求x的整数部分．
+
+
+
+
+
+
+计算 8.01 EMBED Equation.DSMT4  1.24 EMBED Equation.DSMT4  8.02 EMBED Equation.DSMT4  1.23 EMBED Equation.DSMT4  8.03 EMBED Equation.DSMT4  1.22整数部分.
+
+
+
+
+
+
+老师在黑板上写了七个自然数，让小明计算它们的平均数（保留小数点后面两位）．小明计算出的答数是14.73，老师说：“除最后一位数字外其它都对了．”那么，正确的得数应是___   ___.
+
+
+
+
+
+
+有13个自然数，它们的平均值利用四舍五入精确到小数点后一位是26.9．那么，精确到小数点后两位数是多少？
+
+
+
+
+
+已知除法算式：12345678910111213 EMBED Equation.DSMT4  31211101987654321．它的计算结果的小数点后的前三位数字分别是          .
+
+
+
+
+
+
+求 EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  的整数部分是多少?
+
+
+
+
+
+
+A=1＋ EMBED Equation.DSMT4  ＋ EMBED Equation.DSMT4  ＋ EMBED Equation.DSMT4  ＋ EMBED Equation.DSMT4  ＋ EMBED Equation.DSMT4  ＋ EMBED Equation.DSMT4  ＋ EMBED Equation.DSMT4  ＋…＋ EMBED Equation.DSMT4  的整数部分是多少? 
+
+
+
+
+
+
+ EMBED Equation.DSMT4  的整数部分是         。
+
+有一列数，第一个数是133，第二个数是57，从第三个数开始，每个数都是它前面两个数的平均数，那么，第16个数的整数部分是_______． 
+
+
+
+
+
+
+
+试求 EMBED Equation.DSMT4  误差小于 EMBED Equation.DSMT4  的近似值．
+
+
+
+
+
+
+
+在横线上分别填入两个相邻的整数，使不等式成立： EMBED Equation.DSMT4  
+
+
+
+
+
+
+记A＝ EMBED Equation.DSMT4  ，那么比A小的最大自然数是       。
+
+
+
+六个分数EMBED Equation.DSMT4，EMBED Equation.DSMT4，EMBED Equation.DSMT4，EMBED Equation.DSMT4，EMBED Equation.DSMT4，EMBED Equation.DSMT4的和在哪两个连续自然数之间？
+
+
+
+
+
+
+已知： EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4            
+
+
+
+
+
+
+
+
+计算： EMBED Equation.DSMT4            ；（四舍五入保留至小数点后第三位，注： EMBED Equation.DSMT4  ）
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+1-3-4.比较与估算.题库	                           学生版                       page  PAGE 12 of  NUMPAGES 12
+
+
+
+比较与估算
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

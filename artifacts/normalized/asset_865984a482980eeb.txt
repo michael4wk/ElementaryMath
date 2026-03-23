@@ -1,0 +1,230 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE  \* MERGEFORMAT 
+1.使学生掌握乘法原理主要内容，掌握乘法原理运用的方法；
+2.使学生分清楚什么时候用乘法原理，分清有几个必要的步骤，以及各步之间的关系．
+3.培养学生准确分解步骤的解题能力；
+乘法原理的数学思想主旨在于分步考虑问题，本讲的目的也是为了培养学生分步考虑问题的习惯．
+
+ SHAPE  \* MERGEFORMAT 
+一、乘法原理概念引入
+老师周六要去给同学们上课，首先得从家出发到长宁上8点的课，然后得赶到黄埔去上下午1点半的课．如果说申老师的家到长宁有5种可选择的交通工具（公交、地铁、出租车、自行车、步行），然后再从长宁到黄埔有2种可选择的交通工具（公交、地铁），同学们，你们说老师从家到黄埔一共有多少条路线？
+ INCLUDEPICTURE "http://1831.img.pp.sohu.com.cn/images/blog/2009/9/24/22/8/1249aea47a2g214.jpg" \* MERGEFORMAT 
+我们看上面这个示意图，老师必须先的到长宁，然后再到黄埔．这几个环节是必不可少的，老师是一定要先到长宁上完课，才能去黄埔的．在没学乘法原理之前，我们可以通过一条一条的数，把线路找出来，显而易见一共是10条路线．但是要是老师从家到长宁有25种可选择的交通工具，并且从长宁到黄埔也有30种可选择的交通工具，那一共有多少条线路呢？这样数，恐怕是要耗费很多的时间了．这个时候我们的乘法原理就派上上用场了．
+
+二、乘法原理的定义
+完成一件事，这个事情可以分成n个必不可少的步骤（比如说老师从家到黄埔，必须要先到长宁，那么一共可以分成两个必不可少的步骤，一是从家到长宁，二是从长宁到黄埔），第1步有A种不同的方法，第二步有B种不同的方法，……，第n步有N种不同的方法．那么完成这件事情一共有A×B×……×N种不同的方法．
+结合上个例子，老师要完成从家到黄埔的这么一件事，需要2个步骤，第1步是从家到长宁，一共5种选择；第2步从长宁到黄埔，一共2种选择；那么老师从家到黄埔一共有5×2个可选择的路线了，即10条．
+
+三、乘法原理解题三部曲
+1、完成一件事分N个必要步骤；
+2、每步找种数（每步的情况都不能单独完成该件事）；
+3、步步相乘
+
+
+四、乘法原理的考题类型
+1、路线种类问题——比如说老师举的这个例子就是个路线种类问题；
+2、字的染色问题——比如说要3个字，然后有5种颜色可以给每个字然后，问3个字有多少种染色方法；
+3、地图的染色问题——同学们可以回家看地图，比如中国每个省的染色情况，给你几种颜色，问你一张包括几个部分的地图有几种染色的方法；
+4、排队问题——比如说6个同学，排成一个队伍，有多少种排法；
+5、数码问题——就是对一些数字的排列，比如说给你几个数字，然后排个几为数的偶数，有多少种排法．
+ SHAPE  \* MERGEFORMAT 
+地图上有A，B，C，D四个国家(如下图)，现有红、黄、蓝三种颜色给地图染色，使相邻国家的颜色不同，但不是每种颜色都必须要用，问有多少种染色方法？ 
+
+【考点】乘法原理之染色问题           【难度】3星          【题型】解答 
+A有3种颜色可选；
+当B，C取相同的颜色时，有2种颜色可选，此时D也有2种颜色可选．根据乘法原理，不同的涂法有 EMBED Equation.DSMT4  种；
+当B，C取不同的颜色时，B有2种颜色可选，C仅剩1种颜色可选，此时D也只有1种颜色可选(与A相同)．根据乘法原理，不同的涂法有 EMBED Equation.DSMT4  种．
+综上，根据加法原理，共有 EMBED Equation.DSMT4  种不同的涂法．
+【答案】 EMBED Equation.DSMT4  
+
+如果有红、黄、蓝、绿四种颜色给例题中的地图染色，使相邻国家的颜色不同，但不是每种颜色都必须要用，问有多少种染色方法？ 
+【考点】乘法原理之染色问题           【难度】3星          【题型】解答 
+第一步，首先对A进行染色一共有4种方法，然后对B、C进行染色，如果B、C取相同的颜色，有三种方式，D剩下3种方式，如果B、C取不同颜色，有 EMBED Equation.DSMT4  种方法，D剩下2种方法，对该图的染色方法一共有 EMBED Equation.DSMT4  种方法．
+【注意】给地图染色问题中有的可以直接用乘法原理解决，有的需要分类解决，前者分类做也可以解决问题．
+【答案】 EMBED Equation.DSMT4  
+
+在右图的每个区域内涂上 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  四种颜色之一，使得每个圆里面恰有四种颜色，则一共有__________种不同的染色方法． 
+  
+【考点】乘法原理之染色问题           【难度】4星          【题型】解答 
+因为每个圆内 EMBED Equation.DSMT4  个区域上染的颜色都不相同，所以一个圆内的 EMBED Equation.DSMT4  个区域一共有 EMBED Equation.DSMT4  种染色方法．如右图所示，当一个圆内的 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  四个区域的颜色染定后，由于 EMBED Equation.DSMT4  号区域的颜色不能与 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  三个区域的颜色相同，所以只能与 EMBED Equation.DSMT4  号区域的颜色相同，同理 EMBED Equation.DSMT4  号区域只能与 EMBED Equation.DSMT4  号区域的颜色相同， EMBED Equation.DSMT4  号区域只能与 EMBED Equation.DSMT4  号区域的颜色相同，所以当 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  四个区域的颜色染定后，其他区域的颜色也就相应的只有一种染法，所以一共有 EMBED Equation.DSMT4  种不同的染法．
+【答案】 EMBED Equation.DSMT4  
+
+如图，地图上有A，B，C，D四个国家，现用五种颜色给地图染色，要使相邻国家的颜色不相同，有多少种不同染色方法? 
+
+【考点】乘法原理之染色问题           【难度】3星          【题型】解答 
+为了按要求给地图上的这四个国家染色，我们可以分四步来完成染色的工作：
+第一步：给 EMBED Equation.DSMT4  染色，有 EMBED Equation.DSMT4  种颜色可选．
+第二步：给 EMBED Equation.DSMT4  染色，由于 EMBED Equation.DSMT4  不能与 EMBED Equation.DSMT4  同色，所以 EMBED Equation.DSMT4  有 EMBED Equation.DSMT4  种颜色可选．
+第三步：给 EMBED Equation.DSMT4  染色，由于 EMBED Equation.DSMT4  不能与 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  同色，所以 EMBED Equation.DSMT4  有 EMBED Equation.DSMT4  种颜色可选．
+第四步：给 EMBED Equation.DSMT4  染色，由于 EMBED Equation.DSMT4  不能与 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  同色，但可以与 EMBED Equation.DSMT4  同色，所以 EMBED Equation.DSMT4  有 EMBED Equation.DSMT4  种颜色可选．
+根据分步计数的乘法原理，用 EMBED Equation.DSMT4  种颜色给地图染色共有 EMBED Equation.DSMT4  种不同的染色方法．
+【答案】 EMBED Equation.DSMT4  
+
+如图，一张地图上有五个国家 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，现在要求用四种不同的颜色区分不同国家，要求相邻的国家不能使用同一种颜色，不同的国家可以使用同—种颜色，那么这幅地图有多少着色方法？ 
+
+【考点】乘法原理之染色问题           【难度】3星          【题型】解答 
+第一步，给 EMBED Equation.DSMT4  国上色，可以任选颜色，有四种选择；
+第二步，给 EMBED Equation.DSMT4  国上色， EMBED Equation.DSMT4  国不能使用 EMBED Equation.DSMT4  国的颜色，有三种选择；
+第三步，给 EMBED Equation.DSMT4  国上色， EMBED Equation.DSMT4  国与 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  两国相邻，所以不能使用 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  国的颜色，只有两种选择；
+   　　 第四步，给 EMBED Equation.DSMT4  国上色， EMBED Equation.DSMT4  国与 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  两国相邻，因此也只有两种选择；
+    　　第五步，给 EMBED Equation.DSMT4  国上色， EMBED Equation.DSMT4  国与 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  两国相邻，有两种选择． 共有 EMBED Equation.DSMT4  种着色方法．
+【答案】 EMBED Equation.DSMT4  
+
+如图：将一张纸作如下操作，一、用横线将纸划为相等的两块，二、用竖线将下边的区块划为相等的两块，三、用横线将最右下方的区块分为相等的两块，四、用竖线将最右下方的区块划为相等的两块……，如此进行8步操作，问：如果用四种颜色对这一图形进行染色，要求相邻区块颜色不同，应该有多少种不同的染色方法？ 
+
+【考点】乘法原理之染色问题           【难度】3星          【题型】解答 
+对这张纸的操作一共进行了8次，每次操作都增加了一个区块，所以8次操作后一共有9个区块，我们对这张纸，进行染色就需要9个步骤，从最大的区块从大到小开始染色，每个步骤地染色方法有：4、3、2、2、2……，所以一共有： EMBED Equation.DSMT4  种．
+【答案】 EMBED Equation.DSMT4  
+
+用三种颜色去涂如图所示的三块区域，要求相邻的区域涂不同的颜色，那么共有几种不同的涂法？ 
+
+【考点】乘法原理之染色问题           【难度】2星          【题型】解答 
+涂三块毫无疑问是分成三步．第一步，涂A部分，那么就有三种颜色的选择；第二步，涂B部分，由于要求相邻的区域涂不同的颜色，A和B相邻，当A确定了一种颜色后，B只有两种颜色可选择了；第三步，涂C部分，C和A、B都相邻，A和B确定了两种不相同的颜色，那么C只有一种颜色可选择了．然后再根据乘法原理． EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+如图，有一张地图上有五个国家，现在要用四种颜色对这一幅地图进行染色，使相邻的国家所染的颜色不同，不相邻的国家的颜色可以相同．那么一共可以有多少种染色方法？
+
+【考点】乘法原理之染色问题           【难度】3星          【题型】解答 
+这一道题实际上就是例题，因为两幅图各个字母所代表的国家的相邻国家是相同的，如果将本题中的地图边界进行直角化就会转化为原题，所以对这幅地图染色同样一共有 EMBED Equation.DSMT4  种方法．
+【讨论】如果染色步骤为 EMBED Equation.DSMT4  ,那么应该该如何解答？
+答案：也是 EMBED Equation.DSMT4  种方法．
+如果染色步骤为 EMBED Equation.DSMT4  那么应该如何解答？答案：染色的前两步一共有4×3种方法，但染第三步时需要分类讨论，如果 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  颜色相同，那么 EMBED Equation.DSMT4  有2种染法， EMBED Equation.DSMT4  也有2种方法，如果 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  染不同的颜色，那么 EMBED Equation.DSMT4  有2种染法那么 EMBED Equation.DSMT4  只有一种染法， EMBED Equation.DSMT4  有2种染法，所以一共应该有
+ EMBED Equation.DSMT4  种方法，(教师应该向学生说明第三个步骤用到了分类讨论和加法原理，加法原理在下一讲中将会讲授)，染色步骤选择的经验方法：每一步骤所染的区块应该尽量和之前所染的区块相邻．
+【答案】 EMBED Equation.DSMT4  
+
+某沿海城市管辖7个县，这7个县的位置如右图．现用红、黑、绿、蓝、紫五种颜色给右图染色，要求任意相邻的两个县染不同颜色，共有多少种不同的染色方法? 
+
+【考点】乘法原理之染色问题           【难度】4星          【题型】解答 
+为了便于分析，把地图上的7个县分别编号为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4   (如左下图)．
+
+为了便于观察，在保持相邻关系不变的情况下可以把左图改画成右图．那么，为了完成地图染色这件工作需要多少步呢?
+        由于有7个区域，我们不妨按 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的顺序，用红、黑、绿、蓝、紫五种颜色依次分7步来完成染色任务．
+第1步：先染区域 EMBED Equation.DSMT4  ，有5种颜色可供选择；
+第2步：再染区域 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  不能与 EMBED Equation.DSMT4  同色，所以区域 EMBED Equation.DSMT4  的染色方式有4种；
+第3步：染区域 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  不能与 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  同色，所以区域 EMBED Equation.DSMT4  的染色方式有3种；
+第4步：染区域 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  不能与 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  同色，所以区域 EMBED Equation.DSMT4  的染色方式有3种；
+第5步：染区域 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  不能与 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  同色，所以区域 EMBED Equation.DSMT4  的染色方式有3种；
+第6步：染区域 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  不能与 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  同色，所以区域 EMBED Equation.DSMT4  的染色方式有3种；
+第7步：染区域 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  不能与 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  同色，所以区域 EMBED Equation.DSMT4  的染色方式有3种．
+        根据分步计数的乘法原理，共有 EMBED Equation.DSMT4  种不同的染色方法．
+【答案】 EMBED Equation.DSMT4  
+
+用3种颜色把一个 EMBED Equation.DSMT4  的方格表染色，要求相同行和相同列的3个格所染的颜色互不相同，一共有       种不同的染色法． 
+【考点】乘法原理之染色问题           【难度】3星          【题型】解答 
+根据题意可知，染完后这个 EMBED Equation.DSMT4  的方格表每一行和每一列都恰有3个颜色．
+用3种颜色染第一行，有 EMBED Equation.DSMT4  种染法；染完第一行后再染第一列剩下的2个方格，有2种染法；当第一行和第一列都染好后，再根据每一行和每一列都恰有3个颜色对剩下的方格进行染色，可知其余的方格都只有唯一一种染法．
+所以，根据乘法原理，共有 EMBED Equation.DSMT4  种不同的染法．
+【答案】 EMBED Equation.DSMT4  
+
+如右图，有A、B、C、D、E五个区域，现用五种颜色给区域染色，染色要求：每相邻两个区域不同色，每个区域染一色．有多少种不同的染色方式？
+
+【考点】乘法原理之染色问题           【难度】3星          【题型】解答 
+先采用分步：第一步给A染色，有5种方法；第二步给B染色，有4种方式；第三步给C染色，有3种方式；第四步给D染色，有3种方式；第五步，给E染色，由于E不能与A、B、D同色，但可以和C同色．此时就出现了问题：当D与B同色时，E有3种颜色可染；而当D与B异色时，E有2种颜色可染．所以必须从第四步就开始分类：
+第一类，D与B同色．E有3种颜色可染，共有 EMBED Equation.DSMT4  （种）染色方式；
+第二类，D与B异色．D有2种颜色可染，E有2种颜色可染，共有 EMBED Equation.DSMT4  （种）染色方式．
+        根据加法原理，共有 EMBED Equation.DSMT4  （种）染色方式．
+【注意】给图形染色问题中有的可以直接用乘法原理解决，但如果碰到有首尾相接的图形往往需要分类解决．
+【答案】 EMBED Equation.DSMT4  
+
+如右图，有A，B，C，D四个区域，现用四种颜色给区域染色，要求相邻区域的颜色不同，每个区域染一色．有多少种染色方法？ 
+
+【考点】乘法原理之染色问题           【难度】3星          【题型】解答 
+A有4种颜色可选，然后分类：
+第一类： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  取相同的颜色．有3种颜色可染，此时 EMBED Equation.DSMT4  也有3种颜色可选．根据乘法原理，不同的染法有 EMBED Equation.DSMT4  （种）；
+第二类：当 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  取不同的颜色时， EMBED Equation.DSMT4  有3种颜色可染， EMBED Equation.DSMT4  有2种颜色可染，此时 EMBED Equation.DSMT4  也有2种颜色可染．根据乘法原理，不同的染法有 EMBED Equation.DSMT4  （种）．
+根据加法原理，共有 EMBED Equation.DSMT4  (种)染色方法．
+【答案】 EMBED Equation.DSMT4  
+
+用四种颜色对右图的五个字染色，要求相邻的区域的字染不同的颜色，但不是每种颜色都必须要用．问：共有多少种不同的染色方法? 
+
+【考点】乘法原理之染色问题           【难度】3星          【题型】解答 
+第一步给“而”上色，有4种选择；
+        然后对“学”染色，“学”有3种颜色可选；
+当“奥”，“数”取相同的颜色时，有2种颜色可选，此时“思”也有2种颜色可选，不同的涂法有 EMBED Equation.DSMT4  种；
+当“奥”，“数”取不同的颜色时，“奥”有2种颜色可选，“数”剩仅1种颜色可选，此时“思”也只有1种颜色可选(与“学”相同)，不同的涂法有 EMBED Equation.DSMT4  种．
+        所以，根据加法原理，共有 EMBED Equation.DSMT4  种不同的涂法．
+【答案】 EMBED Equation.DSMT4  
+
+分别用五种颜色中的某一种对下图的 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  六个区域染色，要求相邻的区域染不同的颜色，但不是每种颜色都必须要用．问：有多少种不同的染法？ 
+
+【考点】乘法原理之染色问题           【难度】4星          【题型】解答 
+先按 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的次序染色，可供选择的颜色依次有5，4，3，2，3种，注意 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的颜色搭配有 EMBED Equation.DSMT4  (种)，其中有3种 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  同色，有6种 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  异色．最后染 EMBED Equation.DSMT4  ，当 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  同色时有3种颜色可选，当 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  异色时有 2种颜色可选，所以共有 EMBED Equation.DSMT4  种染法．
+【答案】 EMBED Equation.DSMT4  
+
+将图中的○分别涂成红色、黄色或绿色，要求有线段相连的两个相邻○涂不同的颜色，共有多少种不同涂法？ 
+   
+【考点】乘法原理之染色问题           【难度】3星          【题型】解答 
+如右上图，当 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的颜色确定后，大正方形四个角上的○的颜色就确定了，所以只需求 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  有多少种不同涂法．按先 EMBED Equation.DSMT4  ，再 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，后 EMBED Equation.DSMT4  的顺序涂色．
+按 EMBED Equation.DSMT4  的顺序涂颜色：
+         EMBED Equation.DSMT4  有3种颜色可选；
+当 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  取相同的颜色时，有2种颜色可选，此时 EMBED Equation.DSMT4  也有2种颜色可选，不同的涂法有 EMBED Equation.DSMT4  种；
+当 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  取不同的颜色时， EMBED Equation.DSMT4  有2种颜色可选， EMBED Equation.DSMT4  仅剩1种颜色可选，此时 EMBED Equation.DSMT4  也只有1种颜色可选(与 EMBED Equation.DSMT4  相同)，不同的涂法有 EMBED Equation.DSMT4  (种)．
+所以，根据加法原理，共有 EMBED Equation.DSMT4  种不同的涂法．
+【答案】 EMBED Equation.DSMT4  
+
+用4种不同的颜色来涂正四面体（如图，每个面都是完全相同的正三角形）的4个面，使不同的面涂有不同的颜色，共有________种不同的涂法.（将正四面体任意旋转后仍然不同的涂色法，才被认为是不同的）
+
+【考点】乘法原理之染色问题   【难度】4星   【题型】填空
+【关键词】迎春杯，中年级，复赛，第9题
+不旋转时共有4×3×2×1=24种染色方式，而一个正四面体有4×3=12种放置方法（4个面中选1个作底面，再从剩余3个面中选1个作正面），所以每种染色方式被重复计算了12次，则不同的染色方法有24÷12=2种。
+【答案】 EMBED Equation.DSMT4  种
+
+用红、橙、黄、绿、蓝5种颜色中的1种，或2种，或3种，或4种，分别涂在正四面体各个面上，一个面不能用两色，也无一个面不涂色的，问共有几种不同涂色方式？ 
+【考点】乘法原理之染色问题           【难度】4星          【题型】解答 
+我们来看正四面体四个面的相关位置，当底面确定后，（从上面俯视）三个侧面的顺序有顺时针和逆时针两种（当三个侧面的颜色只有一种或两种时，顺时针和逆时针的颜色分布是相同的）． 
+INCLUDEPICTURE "../../../我的资料/htm/华罗庚学校数学课本：四年级/download/latest/resource.hkedu.sh.cn/RESOURCE/XX/XXSX/ALPK/BL000059/65_347.jpg" \* MERGEFORMAT 按使用了的颜色种数分类：
+第一类：用了4种颜色．第一步，选4种颜色，相当于选1种不用，有5种选法．第二步，如果取定4种颜色涂于4个面上，有2种方法．这一类有 EMBED Equation.DSMT4  （种）涂法；
+第二类：用了3种颜色．第一步，选3种颜色，相当于选2种不用，有 EMBED Equation.DSMT4  （种）选法；
+第二步，取定3种颜色如红、橙、黄3色，涂于4个面上，有6种方法，如下图①②③（图中用数字1，2，3分别表示红、橙、黄3色）．这一类有 EMBED Equation.DSMT4  （种）涂法；
+INCLUDEPICTURE "../../../我的资料/htm/华罗庚学校数学课本：四年级/download/latest/resource.hkedu.sh.cn/RESOURCE/XX/XXSX/ALPK/BL000059/65_348.jpg" \* MERGEFORMAT 
+第三类：用了2种颜色．第一步，选2种颜色，有 EMBED Equation.DSMT4  （种）选法；第二步，取定2种颜色如红、橙2色，涂于4个面上，有3种方法，如下图④⑤⑥．这一类有 EMBED Equation.DSMT4  （种）涂法； 
+INCLUDEPICTURE "../../../我的资料/htm/华罗庚学校数学课本：四年级/download/latest/resource.hkedu.sh.cn/RESOURCE/XX/XXSX/ALPK/BL000059/65_349.jpg" \* MERGEFORMAT 
+第四类：用了一种颜色．第一步选1种颜色有5种方法；第二步，取定1种颜色涂于4个面上，只有1种方法．这一类有 EMBED Equation.DSMT4  （种）涂法．根据加法原理，共有 EMBED Equation.DSMT4  （种）不同的涂色方式．
+【答案】 EMBED Equation.DSMT4  
+用红、黄、蓝三种颜色对一个正方体进行染色使相邻面颜色不同一共有多少种方法？如果有红、黄、蓝、绿四种颜色对正方体进行染色使相邻面颜色不同一共有多少种方法？如果有五种颜色去染又有多少种？(注：正方体不能翻转和旋转) 
+【考点】乘法原理之染色问题           【难度】3星          【题型】解答 
+如果一共只有三种颜色供染色，那么正方体的相对表面只能涂上一种颜色，一共有上下、左右、前后一共三组对立面，所以染色的方法有 EMBED Equation.DSMT4  种方法．
+如果有四种颜色，那么染色方法可分为两类，一类是从四种颜色中选取三种对正方体进行染色，一共有 EMBED Equation.DSMT4  种．另一种是四种颜色都染上，用这种染色方法，就允许有一组相对表面可以染上不同的颜色，选取这组相对表面并染上不同颜色一共有 EMBED Equation.DSMT4  种方法，用其余两种颜色去染其他四个面只有2种方法，共 EMBED Equation.DSMT4  种，所以一共有 EMBED Equation.DSMT4  种方法．
+        如果有5种颜色，那么用其中3种颜色的染色方法有 EMBED Equation.DSMT4  种．用其中4种颜色并拿去染色有 EMBED Equation.DSMT4  种，如果5种颜色都用，就有只有一组相对的表面染上相同的颜色，选取这组相对表面有3种方法，染色的方法有 EMBED Equation.DSMT4  种，一共有 EMBED Equation.DSMT4  种染色方法，用5种颜色对正方体进行染色的方法就一共有 EMBED Equation.DSMT4  种染色方法．
+【答案】 EMBED Equation.DSMT4  
+
+【巩固】用6种不同的颜色来涂正方体的六个面，使得不同的面涂上不同的颜色一共有多少种涂色的方法？(将正方体任意旋转之后仍然不同的涂色方法才被认为是相同的) 
+【考点】乘法原理之染色问题           【难度】3星          【题型】解答 
+ (法1)正方体6个面不同的涂色方法共有 EMBED Equation.DSMT4  种．固定一个底面共有6种不同的选法，选择一个与底面相邻的面有4种不同的选法．所以一个正方体的放置有 EMBED Equation.DSMT4  种不同的位置．即在旋转的时候可以重复24次．所以可以染色的不同方法共有 EMBED Equation.DSMT4  (种)．
+(法2)先涂正方体的一个面有6种方法，然后把这个面的对面涂上颜色不同的颜色，有15种涂法，再选择两种颜色，只有相邻和相对两种选法．如果相邻剩下两种颜色也相邻，如果相对剩下两种颜色也相对，所以共有 EMBED Equation.DSMT4  种．
+【答案】 EMBED Equation.DSMT4  
+
+在“8×8”的方格中放棋子，每格至多放l枚棋子。若要求8行、8列、30条斜线(如下图所示)上的棋子数均为偶数。那么“8×8”的方格中最多可以放      枚棋子。
+             
+【考点】乘法原理之染色问题   【难度】4星   【题型】填空
+【关键词】迎春杯，四年级，初赛，11题
+对角线上不放，其他方格都放，那么一共放64-8-8=48个.证明：黑白染色后，如图，左图中所有直线共8条，都经过黑色格子且不重复，每条直线上的格子都是奇数个，所以每条直线上至少有一个格子不放棋子，所以黑格中至少有8个格子不放，同理白格中也至少有8个格子不能放，所以至少有16个格子不能放，最多放48个.
+        
+【答案】 EMBED Equation.DSMT4  个
+
+
+
+
+
+
+
+
+PAGE  
+
+
+7-2-3.乘法原理之染色问题.题库	                         教师版                        page  PAGE 10 of  NUMPAGES 10
+
+
+
+7-2-3乘法原理之染色问题
+
+
+教学目标
+
+例题精讲
+
+知识要点
+
+
+

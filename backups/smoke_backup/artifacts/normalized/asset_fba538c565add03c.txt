@@ -1,0 +1,301 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE \* MERGEFORMAT 
+一、常用公式
+ EMBED Equation.DSMT4  ；
+ EMBED Equation.DSMT4  ；
+ EMBED Equation.DSMT4  ；
+ EMBED Equation.DSMT4  ；
+等比数列求和公式： EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )；
+平方差公式： EMBED Equation.DSMT4  ；
+完全平方公式： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ；
+用文字表述为：两数和(或差)的平方，等于这两个数的平方和，加上(或者减去)这两个数的积的 EMBED Equation.DSMT4  倍，两条公式也可以合写在一起： EMBED Equation.DSMT4  ．为便于记忆，可形象的叙述为：“首平方，尾平方， EMBED Equation.DSMT4  倍乘积在中央”．
+二、常用技巧
+ EMBED Equation.DSMT4  ；
+ EMBED Equation.DSMT4  ；
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，
+    EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ；
+ EMBED Equation.DSMT4  ，其中 EMBED Equation.DSMT4  ．
+
+ SHAPE \* MERGEFORMAT 
+一、前 EMBED Equation.DSMT4  项和
+ EMBED Equation.DSMT4  
+
+
+
+
+
+ EMBED Equation.DSMT4  
+
+
+计算： EMBED Equation.DSMT4  
+
+
+
+
+
+计算： EMBED Equation.DSMT4  
+
+
+
+
+
+计算： EMBED Equation.DSMT4  ___________．
+
+
+
+
+
+
+计算： EMBED Equation.DSMT4  
+
+
+
+
+
+
+计算： EMBED Equation.DSMT4          。
+
+
+
+
+
+
+计算： EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+对自然数 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，规定 EMBED Equation.DSMT4  ，例如 EMBED Equation.DSMT4  ，那么：
+⑴  EMBED Equation.DSMT4  ______________；
+⑵  EMBED Equation.DSMT4  ______________．
+
+
+
+
+
+看规律  EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ……，试求 EMBED Equation.DSMT4  
+
+
+
+计算： EMBED Equation.DSMT4   
+
+
+
+
+
+
+计算 EMBED Equation.DSMT4  的值。（已知 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ）
+
+
+
+
+
+
+
+ EMBED Equation.DSMT4          ．
+
+
+
+
+
+
+
+计算： EMBED Equation.DSMT4          ．
+
+
+
+
+
+
+ EMBED Equation.DSMT4  
+
+
+
+
+
+
+计算： EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+二、平方差与完全平方公式
+⑴ EMBED Equation.DSMT4  ________；
+        ⑵ EMBED Equation.DSMT4  ________．
+
+
+
+
+ EMBED Equation.DSMT4               
+
+
+
+
+
+
+ EMBED Equation.DSMT4                
+
+
+
+
+
+计算： EMBED Equation.DSMT4  ＝     。
+
+
+
+
+
+
+有一串数 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ……它们是按一定规律排列的，那么其中第 EMBED Equation.DSMT4  个数与第 EMBED Equation.DSMT4  个数相差多少？
+
+
+
+
+
+
+ EMBED Equation.DSMT4  代表任意数字，若 EMBED Equation.DSMT4  ，这个公式在数学上称为平方差公式．根据公式，你来巧算下列各题吧． 
+⑴ EMBED Equation.DSMT4    　 ⑵ EMBED Equation.DSMT4  　　　⑶ EMBED Equation.DSMT4    　 ⑷ EMBED Equation.DSMT4  
+
+
+
+
+
+
+计算： EMBED Equation.DSMT4           ．
+
+
+
+
+
+ EMBED Equation.DSMT4           ．
+三、公式综合运用
+计算： EMBED Equation.DSMT4          ．
+
+
+
+
+
+
+计算： EMBED Equation.DSMT4          ．
+
+
+
+
+
+
+
+计算： EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+计算 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+计算： EMBED Equation.DSMT4  ．
+
+
+
+
+
+
+
+ EMBED Equation.DSMT4  
+
+
+
+计算： EMBED Equation.DSMT4          ．
+
+
+
+
+
+
+计算： EMBED Equation.DSMT4            ．
+
+
+
+
+
+
+ EMBED Equation.DSMT4  
+
+
+
+
+
+
+计算： EMBED Equation.DSMT4  
+
+
+
+
+
+
+计算： EMBED Equation.DSMT4          ．
+
+
+
+
+
+
+计算： EMBED Equation.DSMT4  
+
+
+
+
+
+计算： EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+教师寄语：拼一个春夏秋冬，换一生无怨无悔。
+
+
+
+
+公式法计算
+
+知识点拨
+
+例题精讲
+
+
+ PAGE  \* MERGEFORMAT 6
+
+
+

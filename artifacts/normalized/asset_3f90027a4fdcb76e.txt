@@ -1,0 +1,379 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+板块三  相似三角形模型
+
+(一)金字塔模型                                  (二) 沙漏模型
+          EMBED Equation.DSMT4                   
+① EMBED Equation.DSMT4  ；
+② EMBED Equation.DSMT4  ．
+所谓的相似三角形，就是形状相同，大小不同的三角形(只要其形状不改变，不论大小怎样改变它们都相似)，与相似三角形相关的常用的性质及定理如下：
+⑴相似三角形的一切对应线段的长度成比例，并且这个比例等于它们的相似比；
+⑵相似三角形的面积比等于它们相似比的平方；
+⑶连接三角形两边中点的线段叫做三角形的中位线．
+三角形中位线定理：三角形的中位线长等于它所对应的底边长的一半．
+相似三角形模型，给我们提供了三角形之间的边与面积关系相互转化的工具．
+在小学奥数里，出现最多的情况是因为两条平行线而出现的相似三角形．
+
+如图，已知在平行四边形 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  的长度是多少？
+
+
+
+
+
+如图，测量小玻璃管口径的量具 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的长为 EMBED Equation.DSMT4  厘米， EMBED Equation.DSMT4  被分为 EMBED Equation.DSMT4  等份．如果小玻璃管口 EMBED Equation.DSMT4  正好对着量具上 EMBED Equation.DSMT4  等份处( EMBED Equation.DSMT4  平行 EMBED Equation.DSMT4  )，那么小玻璃管口径 EMBED Equation.DSMT4  是多大？ 
+
+
+如图， EMBED Equation.DSMT4  平行 EMBED Equation.DSMT4  ，若 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  ________．
+
+
+
+
+
+如图，  EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  互相平行， EMBED Equation.DSMT4  ，
+则 EMBED Equation.DSMT4           ．
+
+
+
+
+
+
+【巩固】如图， EMBED Equation.DSMT4  平行 EMBED Equation.DSMT4  ，且 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，求 EMBED Equation.DSMT4  的长．
+
+
+
+
+
+【巩固】如图，  EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  互相平行， EMBED Equation.DSMT4  ，
+则 EMBED Equation.DSMT4           ．
+
+
+
+
+
+
+已知 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  平行 EMBED Equation.DSMT4  ，若 EMBED Equation.DSMT4  ，且 EMBED Equation.DSMT4  比 EMBED Equation.DSMT4  大 EMBED Equation.DSMT4  ，求 EMBED Equation.DSMT4  ．
+
+
+
+
+
+
+如图： EMBED Equation.DSMT4  平行 EMBED Equation.DSMT4  ，  EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，求 EMBED Equation.DSMT4  的长度
+
+
+
+
+
+【巩固】如图，已知 EMBED Equation.DSMT4  平行 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  ________．
+
+
+
+
+
+如图， EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  平行， EMBED Equation.DSMT4  的面积是1平方厘米．那么 EMBED Equation.DSMT4  的面积是        平方厘米．
+
+
+
+
+
+
+
+
+
+
+如下图，正方形ABCD边长为l0厘米，BO长8厘米。AE=____厘米。
+
+
+
+
+
+如图，已知正方形ABCD的边长是12厘米，E是CD边上的中点，连接对角线AC，交BE于点O，则三角形AOB的面积是（         ）平方厘米。
+
+A、24           B、36        C、48           D、60
+
+
+
+
+
+
+在图中的正方形中， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  分别是所在边的中点， EMBED Equation.DSMT4  的面积是 EMBED Equation.DSMT4  面积的几倍？
+    
+
+
+
+
+
+
+图30-10是一个正方形，其中所标数值的单位是厘米．问：阴影部分的面积是多少平方厘米?
+
+
+
+
+如图，线段 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  垂直，已知 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，那么图中阴影部分面积是多少？
+        
+
+
+
+
+
+如图，四边形 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  都是平行四边形，四边形 EMBED Equation.DSMT4  的面积是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，则四边形 EMBED Equation.DSMT4  的面积 EMBED Equation.DSMT4  ________．
+
+
+
+
+
+
+
+已知三角形 EMBED Equation.DSMT4  的面积为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的中点，且 EMBED Equation.DSMT4  ∥ EMBED Equation.DSMT4  ，交 EMBED Equation.DSMT4  于 EMBED Equation.DSMT4  ，求阴影部分的面积．
+        
+
+
+
+
+
+
+已知正方形 EMBED Equation.DSMT4  ，过 EMBED Equation.DSMT4  的直线分别交 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的延长线于点 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，且 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，求正方形 EMBED Equation.DSMT4  的边长．
+
+如图，三角形 EMBED Equation.DSMT4  是一块锐角三角形余料，边 EMBED Equation.DSMT4  毫米，高 EMBED Equation.DSMT4  毫米，要把它加工成正方形零件，使正方形的一边在 EMBED Equation.DSMT4  上，其余两个顶点分别在 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  上，这个正方形零件的边长是多少？
+    
+
+
+
+
+【巩固】如图，在 EMBED Equation.DSMT4  中，有长方形 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  在 EMBED Equation.DSMT4  上， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别在 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  上， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4   边 EMBED Equation.DSMT4  的高，交 EMBED Equation.DSMT4  于 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  厘米， EMBED Equation.DSMT4  厘米，求长方形的长和宽．
+
+
+
+
+
+
+图中 EMBED Equation.DSMT4  是边长为 EMBED Equation.DSMT4  的正方形，从 EMBED Equation.DSMT4  到正方形顶点 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  连成一个三角形，已知这个三角形在 EMBED Equation.DSMT4  上截得的 EMBED Equation.DSMT4  长度为 EMBED Equation.DSMT4  ，那么三角形 EMBED Equation.DSMT4  的面积是多少？
+    
+
+
+
+
+
+如图，将一个边长为 EMBED Equation.DSMT4  的正方形两边长分别延长 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，割出图中的阴影部分，求阴影部分的面积是多少？
+
+
+图中的大小正方形的边长均为整数(厘米)，它们的面积之和等于52平方厘米，则阴影部分的面积是        ．
+
+
+
+
+
+
+
+如图， EMBED Equation.DSMT4  是矩形一条对角线的中点，图中已经标出两个三角形的面积为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，那么阴影部分的一块直角三角形的面积是多少？
+
+
+
+
+
+
+
+已知长方形 EMBED Equation.DSMT4  的面积为 EMBED Equation.DSMT4  厘米， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的中点， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  边上的三等分点，求阴影 EMBED Equation.DSMT4  的面积是多少厘米？
+    
+
+
+
+
+
+
+
+ EMBED Equation.DSMT4  是平行四边形，面积为72平方厘米， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的中点，则图中阴影部分的面积为        平方厘米．
+        
+如图，三角形 EMBED Equation.DSMT4  的面积是8平方厘米，长方形 EMBED Equation.DSMT4  的长是6厘米，宽是4厘米， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的中点，则三角形 EMBED Equation.DSMT4  的面积是          平方厘米．
+    
+
+
+
+
+
+
+如图，长方形 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  的中点， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别交于 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  垂直 EMBED Equation.DSMT4  于 EMBED Equation.DSMT4  ，交 EMBED Equation.DSMT4  于 EMBED Equation.DSMT4  ，已知 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，求 EMBED Equation.DSMT4  ．
+
+
+
+
+
+右图中正方形的面积为1，  EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的中点， EMBED Equation.DSMT4  ．求阴影部分的面积．
+            
+
+
+
+
+梯形 EMBED Equation.DSMT4  的面积为12， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  的中点， EMBED Equation.DSMT4  的延长线与 EMBED Equation.DSMT4  交于 EMBED Equation.DSMT4  ，四边形 EMBED Equation.DSMT4   的面积是        ．
+     
+
+如图，三角形 EMBED Equation.DSMT4  的面积为60平方厘米， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别为各边的中点，那么阴影部分的面积是        平方厘米．
+      
+
+
+
+
+
+如图, EMBED Equation.DSMT4  是直角梯形， EMBED Equation.DSMT4  ，那么梯形 EMBED Equation.DSMT4  的面积是多少?
+    
+
+
+
+
+
+边长为 EMBED Equation.DSMT4  厘米和 EMBED Equation.DSMT4  厘米的两个正方形并放在一起，那么图中阴影三角形的面积是多少平方厘米？
+　　　　　　　
+
+
+
+
+
+
+如右图，长方形 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，求 EMBED Equation.DSMT4  的长．
+
+
+
+
+
+如图，已知正方形 EMBED Equation.DSMT4  的边长为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  边的中点， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  边上的点，且 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  相交于点 EMBED Equation.DSMT4  ，求 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+如图所示，已知平行四边形 EMBED Equation.DSMT4  的面积是1， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的中点，  EMBED Equation.DSMT4  交 EMBED Equation.DSMT4  于 EMBED Equation.DSMT4  ，求 EMBED Equation.DSMT4  的面积． 
+  
+
+
+
+
+
+
+正方形 EMBED Equation.DSMT4  的面积是120平方厘米， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的中点， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的中点，四边形 EMBED Equation.DSMT4  的面积是
+      平方厘米． 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+如图，已知 EMBED Equation.DSMT4  ,点 EMBED Equation.DSMT4  分别在 EMBED Equation.DSMT4  上，且 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  则 EMBED Equation.DSMT4  是多少？ 
+    
+
+
+
+
+
+
+如图，长方形 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  边上的点， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，求 EMBED Equation.DSMT4  ．
+     
+
+
+
+
+
+
+如下图， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  均为各边的三等分点，线段 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  把三角形 EMBED Equation.DSMT4  分成四部分，如果四边形 EMBED Equation.DSMT4  的面积是24平方厘米，求三角形 EMBED Equation.DSMT4  的面积．
+    
+
+
+
+
+
+
+
+
+
+
+
+
+如图， EMBED Equation.DSMT4  为正方形， EMBED Equation.DSMT4  且 EMBED Equation.DSMT4  ，请问四边形 EMBED Equation.DSMT4  的面积为多少？
+    
+
+
+
+
+
+
+
+
+如图12-6所示，在三角形ABC中，DC=3BD，DE=EA．若三角形ABC的面积是1．则阴影部分的面积是多少?
+
+
+
+
+
+
+
+
+
+一个等腰直角三角形和一个正方形如图摆放，①、②、③这三块的面积比依次为 EMBED Equation.DSMT4  ．那么，④、⑤这两块的面积比是______．
+
+
+
+
+
+
+
+
+
+下图中，四边形ABCD都是边长为1的正方形，E、F、G、H分别是AB、BC、CD、DA的重点，如果左图中阴影部分与右图中阴影部分的面积之比是最简分数 EMBED Equation.DSMT4  ，那么，m＋n的值等于__________。
+
+（A）5 （B）7  （C）8  （D）12
+
+
+
+
+
+
+
+
+
+
+
+
+
+如图所示，三角形AEF，三角形BDF,三角形BCD，都是正三角形，其中AE:BD=1:3,三角形AEF的面积是1.求阴影部分的面积。
+
+
+
+
+
+如图，正方形ABCD中，E、F、G、H分别为各边的中点，J为GD的中点，EJ交CD于I。已知正方形ABCD边长为10cm，则图中阴影部分的面积是__  ___ cm2.
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+4-3-5.任意四边形、梯形与相似模型 题库	                               学生版                      page  PAGE 13 of  NUMPAGES 14
+
+
+
+任意四边形、梯形与相似模型
+
+例题精讲
+
+
+

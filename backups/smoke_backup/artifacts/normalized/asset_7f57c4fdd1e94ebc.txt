@@ -1,0 +1,327 @@
+
+ SHAPE  \* MERGEFORMAT 
+
+利用生活的相等关系进行推理，并进行等量代换
+通过等量代换思想学习图文算式，培养学生的逆向思维和发散思维
+在代换中锻炼学生的分析问题能力和推理判断能力
+
+ SHAPE  \* MERGEFORMAT 
+生活中有很多相等的量，如平衡的天平、平衡的跷跷板两边的重量相等.我们可以根据这些相等的关系进行推理，进而可以等量代换，找到答案.这一节课我们就引导学生来学习等量代换中推理的方法，让学生能对较复杂的物体进行代换，在代换的过程中培养学生的思维能力.
+模块一、看的见的等量代换
+看下图，右边要站几只小鸟跷跷板才能平衡.
+
+
+
+
+下图中第三个盘子应放几个小方块才能保持平衡?
+
+
+
+
+
+下图中0，1，2，3，4，5，6，7，8，9十个兄弟玩跷跷板，8和6先坐在一头，让哪两个兄弟坐在另一头，才能使跷跷板平衡？ 
+
+
+一个苹果等于（     ）个草莓.
+
+
+
+ 第三个盘子应放几个玻璃球才能保持平衡．
+
+巳知＝ EMBED Equation.DSMT4  克，求＝？克．
+
+
+
+第三个盘子应放几个玻璃球才能保持平衡？
+         
+
+
+观察下图，看看谁最重．
+
+
+
+水果兄弟们也组成了各种不同的图文算式，它们各代表一个数，你能猜出它们各代表几吗？
+                        
+                   
+
+
+下面的花朵各表示什么数？
+
+
+下面的符号各代表一个数，相同的符号代表相同的数，它们各代表几呢？
+
+
+下面的图形各表示什么数？
+
+
+你能根据下面的三个算式，算出●、▲、■各代表什么数吗？
+
+
+ EMBED Equation.DSMT4  个足球等于几个皮球的价钱？
+
+
+有一天，小狗老师要在动物学校挑选队员参加数学竞赛，小松鼠很高兴也跑来了.小狗老师说：“那我就来考考你！你把下面的题做对了就可以参加了.”
+
+小松鼠看了半天说：“老师，你写的这是什么？”小狗老师说：“哈哈！看来你要好好学一学图文算式了，欢迎你下次再来.”小朋友们，上面的题你会吗？
+
+求下面图形所表示的数.
+
+
+和是一对好朋友，它们各代表一个数，你知道它们是几吗？
+
+
+根据下面算式，算出△、○、□各表示几？
+
+
+根据下面的算式，你知道、、各代表数字几？
+
+
+下面的天平是不平衡的，但除了天平上的砝码，周围已找不到别的砝码了．你能通过移动天平上的砝码，使天平平衡吗？
+
+
+你能通过移动天平上的砝码，使下面的天平平衡吗？
+
+
+你能通过移动天平上的砝码，使下面的天平平衡吗？
+
+
+模块二、简单的等量代换
+ EMBED Equation.DSMT4  头大象的重量等于 EMBED Equation.DSMT4  头牛的重量， EMBED Equation.DSMT4  头牛的重量等于 EMBED Equation.DSMT4  匹马的重量，则 EMBED Equation.DSMT4  头大象的重量等于多少匹马的重量？
+
+
+
+ EMBED Equation.DSMT4  头猪的重量等于8只兔的重量，而1只兔的重量又等于2只公鸡的重量，那么1只猪的重量是几只公鸡的重量？
+
+
+
+
+ EMBED Equation.DSMT4  只小花猫的重量等于 EMBED Equation.DSMT4  只狗的重量，1只小花猫等于3只鸭的重量，1只狗重 EMBED Equation.DSMT4  千克， EMBED Equation.DSMT4  只猫与 EMBED Equation.DSMT4  只鸭各重多少千克？
+
+
+
+
+1个苹果和1个香蕉的重量是7个小铁块的重量，而1个苹果的重量是4个小铁块的重量，1个香蕉的重量是多少个小铁块的重量？
+
+
+
+ EMBED Equation.DSMT4  只猴子的体重等于 EMBED Equation.DSMT4  只猫的体重， EMBED Equation.DSMT4  只狗的体重等于 EMBED Equation.DSMT4  只猫的体重．如果 EMBED Equation.DSMT4  只猴子重 EMBED Equation.DSMT4  千克，请问 EMBED Equation.DSMT4  只狗重多少千克？
+
+
+
+1串葡萄的重量等于3个梨的重量，2个梨的重量等于80克， EMBED Equation.DSMT4  串葡萄重多少克？
+
+
+
+
+ EMBED Equation.DSMT4  个西瓜的重量等于 EMBED Equation.DSMT4  个哈密瓜的重量， EMBED Equation.DSMT4  个哈密瓜的重量等于 EMBED Equation.DSMT4  个苹果的重量， EMBED Equation.DSMT4  个苹果的重量等于 EMBED Equation.DSMT4  个柿子的重量，那么 EMBED Equation.DSMT4  个西瓜的重量等于几个柿子的重量？
+
+
+
+2只兔子的重量等于6只小鸡的重量， EMBED Equation.DSMT4  只袋鼠的重量相当于 EMBED Equation.DSMT4  只兔子的重量，那么 EMBED Equation.DSMT4  只袋鼠的重量相当于多少只小鸡的重量？
+
+
+
+一只小猴重4千克，一只小猴的重量等于两只小兔的重量，两只小兔的重量等于4只小猫的重量．一只小兔和一只小猫的重量共多少千克？ 
+
+
+
+
+1瓶可乐等于1杯茶和1杯奶的重量，2杯奶的重量等于1杯茶的重量， EMBED Equation.DSMT4  瓶可乐相当于多少杯牛奶的重量？
+
+
+
+
+ EMBED Equation.DSMT4  个的重量等于 EMBED Equation.DSMT4  个小的重量， EMBED Equation.DSMT4  个的重量等于 EMBED Equation.DSMT4  个大和 EMBED Equation.DSMT4  个小的重量和，1个大等于几个小的重量？ 
+
+
+
+
+ EMBED Equation.DSMT4  只鸡的重量等于 EMBED Equation.DSMT4  只小鸭的重量， EMBED Equation.DSMT4  只鸡的重量等于 EMBED Equation.DSMT4  只小鸭和1只小猪的重量，1只小熊等于 EMBED Equation.DSMT4  只小猪的重量，算一算 EMBED Equation.DSMT4  只小熊的重量与几只小鸭的重量一样重？
+
+
+
+
+ EMBED Equation.DSMT4  个桃子等于 EMBED Equation.DSMT4  个玻璃球的重量， EMBED Equation.DSMT4  个桃子和 EMBED Equation.DSMT4  个梨的重量等于 EMBED Equation.DSMT4  个玻璃球的重量，1个梨等于几个玻璃球？
+
+
+
+
+如果 EMBED Equation.DSMT4  只兔子可换 EMBED Equation.DSMT4  只羊， EMBED Equation.DSMT4  只羊可换 EMBED Equation.DSMT4  头猪， EMBED Equation.DSMT4  头猪可换 EMBED Equation.DSMT4  头牛，那用 EMBED Equation.DSMT4  头牛可换多少只兔子？
+
+
+
+
+ EMBED Equation.DSMT4  只兔子可以换 EMBED Equation.DSMT4  只鹅， EMBED Equation.DSMT4  只鹅可以换 EMBED Equation.DSMT4  只羊， EMBED Equation.DSMT4  只兔子重 EMBED Equation.DSMT4  千克， EMBED Equation.DSMT4  只羊重几千克？
+
+
+
+ EMBED Equation.DSMT4  只鹅可以换 EMBED Equation.DSMT4  千克鱼，而 EMBED Equation.DSMT4  千克鱼可以换 EMBED Equation.DSMT4  个鸡蛋， EMBED Equation.DSMT4  个鸡蛋可以换 EMBED Equation.DSMT4  个鹅蛋．一只鹅可以换多少个鹅蛋？
+
+
+
+
+已知买 EMBED Equation.DSMT4  个汉堡包的钱可以买 EMBED Equation.DSMT4  个冰激凌，买 EMBED Equation.DSMT4  个冰激凌的钱可以买 EMBED Equation.DSMT4  杯牛奶：
+求：（1）买 EMBED Equation.DSMT4  杯牛奶的钱可以买几个汉堡包？
+   （2）买 EMBED Equation.DSMT4  个汉堡包的钱可以买多少杯牛奶？
+
+
+
+
+如果 EMBED Equation.DSMT4  个笔记本的价钱等于 EMBED Equation.DSMT4  块橡皮的价钱， EMBED Equation.DSMT4  个文具盒的价钱等于 EMBED Equation.DSMT4  块橡皮的价钱．已知 EMBED Equation.DSMT4  个笔记本的价钱是 EMBED Equation.DSMT4  元，那么 EMBED Equation.DSMT4  个文具盒的价钱是多少？
+
+
+
+
+模块三、利用对比分析、和差倍分、整体看问题的思想解题
+★+■=24，■+●=30，●+★=36．■=_________ ●=________   ★=_______.
+
+
+
+
+已知 EMBED Equation.DSMT4  个排球和 EMBED Equation.DSMT4  个足球共重 EMBED Equation.DSMT4  千克． EMBED Equation.DSMT4  个排球和 EMBED Equation.DSMT4  个篮球共重 EMBED Equation.DSMT4  千克． EMBED Equation.DSMT4  个足球和 EMBED Equation.DSMT4  个篮球共重 EMBED Equation.DSMT4  千克．求每一种球各重多少千克？
+
+
+
+
+
+甲、乙两人共储蓄32元，乙、丙两人共储蓄30元，甲、丙两人共储蓄22元．三人各储蓄多少元？
+
+
+
+
+
+
+图书室里的故事书与科技书共有720本，又知故事书比科技书多160本，这两种图书各有多少本？
+
+
+
+
+
+学校第一次买了3个水瓶和20个茶杯，共用去134元；第二次又买了同样的3个水瓶和16个茶杯，共用去118元．问水瓶和茶杯的单价各是多少元？
+
+
+
+
+
+奶奶去买水果，如果她买4千克梨和5千克荔枝，需要花掉58元；如果她买6千克梨和5千克荔枝，需要花掉62元．问1千克梨和1千克荔枝各多少元？
+
+小芳在文具店买了5枝彩色铅笔和6个练习本，共用去17元．小花买了同样的铅笔8枝和6个练习本，共用去20元．一枝彩色铅笔和一个练习本的价格各是多少？
+
+
+
+
+
+
+李老师第一次买回5个篮球和3个排球，用去318元．第二次又买回7个篮球和6个排球，用去510元．问：一个篮球和一个排球的价格各是多少元？
+
+
+
+
+
+
+
+学校要买足球和排球．买3个足球和4个排球共需190元，如果买6个足球和2个排球需要230元．一个足球和一个排球各需要多少元？
+
+
+
+
+
+
+3头牛和8只羊每天共吃青草93千克，5头牛和15只羊每天共吃青草165千克．问一头牛和一只羊每天各吃青草多少千克？
+
+
+
+
+
+
+李宁的妈妈去菜市场买菜，买了 EMBED Equation.DSMT4  斤土豆和 EMBED Equation.DSMT4  斤柿子椒，共花了 EMBED Equation.DSMT4  元 EMBED Equation.DSMT4  角．己知 EMBED Equation.DSMT4  斤土豆的价钱与 EMBED Equation.DSMT4  斤柿子椒的价钱相等．那么 EMBED Equation.DSMT4  斤土豆和 EMBED Equation.DSMT4  斤柿子椒各多少钱？
+
+
+
+
+
+3米绵绸的价格与6米花布的价格相等．王云买了6米绵绸和18米花布，共花费了120元．棉绸和花布的单价各是多少？
+
+
+
+
+
+学校买2张桌子和3把椅子共用90元钱，每张桌子的价钱是每把椅子价钱的3倍．每张桌子多少钱？
+
+
+
+
+红、黄、蓝三个纸盒里共有彩票56张，其中红色纸盒里的彩票是黄色纸盒里彩票张数的2倍，蓝色纸盒里的彩票是红色纸盒里彩票张数的2倍．红、黄、蓝三个纸盒里各有多少张彩票？
+
+
+
+
+模块四、利用生活中的逻辑推理解题
+有两只大小相同的杯子，各加入了不等量的水，一多一少．李林将这两只杯子里各滴入了一滴墨水，使两只杯子里的水变黑了，请问，哪只杯子里的水更黑些？如果把较多的那杯水再倒掉一些，使两只杯子中的水一样多，这时，是否两只杯子的水一样黑？
+
+
+
+
+
+
+已知同样大小的木块比冰块轻，铁块比冰块重，铜块与木块的重量之和与冰块与铁块的重量之和同样多，四种物品谁最重?
+
+
+
+
+
+
+池塘里的莲花繁殖得特别快，每天增多 EMBED Equation.DSMT4  倍．到第 EMBED Equation.DSMT4  天的时候长了半个池塘，那么第几天能长满整个池塘呢？
+
+
+
+
+
+小华要称 EMBED Equation.DSMT4  粒米的重量，天平自带的砝码只有 EMBED Equation.DSMT4  克， EMBED Equation.DSMT4  克， EMBED Equation.DSMT4  克， EMBED Equation.DSMT4  克， EMBED Equation.DSMT4  克， EMBED Equation.DSMT4  克， EMBED Equation.DSMT4  克各一个．⑴ EMBED Equation.DSMT4  粒米远远没有 EMBED Equation.DSMT4  克，小华该怎么办? ⑵小华要称 EMBED Equation.DSMT4  克的米，天平应放哪几个砝码?
+
+
+
+
+
+第一只茶壶能装 EMBED Equation.DSMT4  大杯水，第二只茶壶可以装 EMBED Equation.DSMT4  小杯水．已知 EMBED Equation.DSMT4  大杯水与 EMBED Equation.DSMT4  小杯水同样多，哪个茶壶大？
+
+
+
+
+
+如图，第一只壶里的茶只有一半，小华倒出了 EMBED Equation.DSMT4  大杯，第二只壶里的茶是一满壶，小明倒出了 EMBED Equation.DSMT4  小杯．已知 EMBED Equation.DSMT4  小杯的茶与 EMBED Equation.DSMT4  大杯的茶同样多，现在问你哪个壶大？
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+教师寄语：拼一个春夏秋冬，换一生无怨无悔。
+
+
+
+
+等量代换
+
+教学目标
+
+知识精讲
+
+
+
+
+ PAGE  \* MERGEFORMAT 9
+
+
+

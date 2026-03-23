@@ -1,0 +1,195 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE  \* MERGEFORMAT 
+
+1.使学生正确理解组合的意义；正确区分排列、组合问题；
+2.了解组合数的意义，能根据具体的问题，写出符合要求的组合；
+3.掌握组合的计算公式以及组合数与排列数之间的关系；
+4.会分析与数字有关的计数问题，以及与其他专题的综合运用，培养学生的抽象能力和逻辑思维能力；
+通过本讲的学习，对组合的一些计数问题进行归纳总结，重点掌握组合的联系和区别，并掌握一些组合技巧，如排除法、插板法等．
+
+ SHAPE  \* MERGEFORMAT 
+
+一、组合问题
+日常生活中有很多“分组”问题．如在体育比赛中，把参赛队分为几个组，从全班同学中选出几人参加某项活动等等．这种“分组”问题，就是我们将要讨论的组合问题，这里，我们将着重研究有多少种分组方法的问题．
+一般地，从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个( EMBED Equation.DSMT4  )元素组成一组不计较组内各元素的次序，叫做从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个元素的一个组合．
+    从排列和组合的定义可以知道，排列与元素的顺序有关，而组合与顺序无关．如果两个组合中的元素完全相同，那么不管元素的顺序如何，都是相同的组合，只有当两个组合中的元素不完全相同时，才是不同的组合．
+从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个元素( EMBED Equation.DSMT4  )的所有组合的个数，叫做从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个不同元素的组合数．记作 EMBED Equation.DSMT4  ．
+一般地，求从 EMBED Equation.DSMT4  个不同元素中取出的 EMBED Equation.DSMT4  个元素的排列数 EMBED Equation.DSMT4  可分成以下两步：
+第一步：从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个元素组成一组，共有 EMBED Equation.DSMT4  种方法；
+　　第二步：将每一个组合中的 EMBED Equation.DSMT4  个元素进行全排列，共有 EMBED  \* MERGEFORMAT 种排法．
+根据乘法原理，得到 EMBED Equation.DSMT4  ．
+因此，组合数 EMBED Equation.3  ．
+这个公式就是组合数公式．
+
+二、组合数的重要性质
+
+一般地，组合数有下面的重要性质： EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )
+这个公式的直观意义是： EMBED Equation.DSMT4  表示从 EMBED Equation.DSMT4  个元素中取出 EMBED Equation.DSMT4  个元素组成一组的所有分组方法． EMBED Equation.DSMT4  表示从 EMBED Equation.DSMT4  个元素中取出( EMBED Equation.DSMT4  )个元素组成一组的所有分组方法．显然，从 EMBED Equation.DSMT4  个元素中选出 EMBED Equation.DSMT4  个元素的分组方法恰是从 EMBED Equation.DSMT4  个元素中选 EMBED Equation.DSMT4  个元素剩下的( EMBED Equation.DSMT4  )个元素的分组方法．
+例如，从 EMBED Equation.DSMT4  人中选 EMBED Equation.DSMT4  人开会的方法和从 EMBED Equation.DSMT4  人中选出 EMBED Equation.DSMT4  人不去开会的方法是一样多的，即 EMBED Equation.DSMT4  ．
+规定 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+
+ SHAPE  \* MERGEFORMAT 
+对于某些有特殊要求的计数，当限制条件较多时，可以先计算所有可能的情况，再从中排除掉那些不符合要求的情况．
+在 EMBED Equation.DSMT4  的所有自然数中，百位数与个位数不相同的自然数有多少个？ 
+【考点】组合之排除法          【难度】2星          【题型】解答 
+先考虑100～1995这1896个数中，百位与个位相同的数有多少个，在三位数中，百位与个位可以是1～9，十位可以是0～9，由乘法原理，有 EMBED Equation.DSMT4  个，四位数中，千位是1，百位和个位可以是0～9，十位可以是0～9，由乘法原理， EMBED Equation.DSMT4  个，但是要从中去掉1999，在100～1995中，百位与个位相同的数共有 EMBED Equation.DSMT4  个，所以，百位数与个位数不相同的自然数有： EMBED Equation.DSMT4  个．
+【答案】 EMBED Equation.DSMT4  
+
+1到1999的自然数中，有多少个与5678相加时，至少发生一次进位？ 
+【考点】组合之排除法          【难度】3星          【题型】解答 
+从问题的反面考虑：1到1999的自然数中，有多少个与5678相加时，不发生进位？这样的数，个位数字有2种可能(即0，1)，十位数字有3种可能(即0，1，2)，百位数字有4种可能(即0，1，2，3)，千位数字有2种可能(即0，1)．根据乘法原理，共有 EMBED Equation.DSMT4  个．注意上面的计算中包括了0( EMBED Equation.DSMT4  0000)这个数，因此，1到1999的自然数中与5678相加时，不发生进位的数有 EMBED Equation.DSMT4  个
+所以，1到1999的自然数中与5678相加时，
+至少发生一次进位的有 EMBED Equation.DSMT4  个．
+【答案】 EMBED Equation.DSMT4  
+
+所有三位数中，与456相加产生进位的数有多少个？ 
+【考点】组合之排除法          【难度】3星          【题型】解答 
+与456相加产生进位在个位、十位、百位都有可能，所以采用从所有三位数中减去与456相加不产生进位的数的方法更来得方便，所有的三位数一共有 EMBED Equation.DSMT4  个，其中与456相加不产生进位的数，它的百位可能取1、2、3、4、5共5种可能，十位数可以取0、1、2、3、4共5种可能，个位数可以取0、1、2、3共4种可能，根据乘法原理，一共有 EMBED Equation.DSMT4  个数，所以与456相加产生进位的数一共有 EMBED Equation.DSMT4  个数．
+【答案】 EMBED Equation.DSMT4  
+
+【巩固】从1到2004这2004个正整数中，共有几个数与四位数8866相加时，至少发生一次进位？ 
+【考点】组合之排除法          【难度】3星          【题型】解答 
+千位数小于等于1，百位数小于等于1，十位数小于等于3，个位数小于等于3，应该有 EMBED Equation.DSMT4  种可以不进位，那么其他 EMBED Equation.DSMT4  个数都至少产生一次进位．
+【答案】 EMBED Equation.DSMT4  
+
+在三位数中，至少出现一个6的偶数有多少个？ 
+【考点】组合之排除法          【难度】3星          【题型】解答 
+至少出现一个“6”，意思就是这个三位偶数中，可以有一个6，两个6或三个6．我们可以把这三种情况下满足条件的三位数的个数分别求出来，再加起来；也可以从所有的三位偶数中减去不满足条件的，即减去不含6的三位偶数．三位偶数共有450个，我们先来计算不含6的偶数的个数，不含6的偶数，个位可以是0，2，4，8，十位上可以是除6以外的其余9个数字，百位可以是除6，0以外的8个数字，因此不含6的三位偶数共有 EMBED Equation.DSMT4  个,则至少出现一个6的三位偶数有 EMBED Equation.DSMT4  个．
+【答案】 EMBED Equation.DSMT4  
+
+能被3整除且至少有一个数字是6的四位数有        个。
+【考点】组合之排除法   【难度】4星   【题型】填空
+【关键词】学而思杯，6年级，第14题
+用排除法，四位数总共有9×10×10×10=9000个，其中能被3整除的四位数有3000个，排除掉能被3整除且不含有数字6的四位数之后剩下的所有的四位数都满足条件！设能被3整除且不含有数字6的四位数为abcd，最高位千位a有8选法（不能选0或6），百位有9种选法（不能选6），十位也有9种选法（也不能选6），若前三位的数字和（a+b+c）若除以3余0则个位d有3种选法（可选0，3，9）；若前三位的数字和（a+b+c）除以3余1，则个位d有3种选法（可选2，5，8）；若前三位的数字和（a+b+c）除以3余2，则个位d还是有3种选法（可选1，4，7）；故能被3整除且不含有数字6的四位数有8×9×9×3=1944个。从而得到能被3整除且至少有一个数字是6的四位数有3000-1944=1056个。
+【答案】 EMBED Equation.DSMT4  
+
+由0，1，2，3，4，5组成的没有重复数字的六位数中，百位不是2的奇数有        个． 
+【考点】组合之排除法          【难度】3星          【题型】解答 
+由0，1，2，3，4，5组成的没有重复数字的奇六位数，个位可以为1，3，5，有3种选法；个位选定后，十万位不能与个位相同，且不能为0，有4种；十万位选定后万位有4种；……；故由0，1，2，3，4，5组成的没有重复数字的奇六位数的个数为： EMBED Equation.DSMT4  个；
+由0，1，2，3，4，5组成的没有重复数字且百位为2的奇六位数，个位可以为1，3，5，有3种选法；十万位不能与个位相同，且不能为0、2，有3种；十万位选定后万位有3种；……；故由0，1，2，3，4，5组成的没有重复数字且百位为2的奇六位数的个数为： EMBED Equation.DSMT4  个；
+所以，满足条件的数有： EMBED Equation.DSMT4  个．
+【答案】 EMBED Equation.DSMT4  
+
+从三个0、四个1，五个2中挑选出五个数字，能组成多少个不同的五位数？ 
+【考点】组合之排除法          【难度】3星          【题型】解答 
+由3个0，4个1，5个2组成五位数，首位上不能是0，只能是1或2，有2种选择；后面4位上都可以是0、1或2，各有3种选择，根据乘法原理，共有 EMBED Equation.DSMT4  种选择； 但是注意，这样算是在0和1的个数足够多的情况下才能算，本题中可能会出现0和1的个数不够的情况（2的个数肯定够）．比如说，0只有3个，但是上面的算 法却包括了后四位都是0的情况，这样的数有两个：10000和20000，得减掉；另外，1只有4个，却包含了五位都是1的情况：11111，也得减去． 所以实际上共有 EMBED Equation.DSMT4  个．
+【答案】 EMBED Equation.DSMT4  
+
+由数字1，2，3组成五位数，要求这五位数中1，2，3至少各出现一次，那么这样的五位数共有        个．
+【考点】组合之排除法   【难度】4星   【题型】填空
+【关键词】迎春杯，高年级，初试，6题
+这是一道组合计数问题．由于题目中仅要求1，2，3至少各出现一次，没有确定1，2，3出现的具体次数，所以可以采取分类枚举的方法进行统计，也可以从反面想，从由1，2，3组成的五位数中，去掉仅有1个或2个数字组成的五位数即可．
+方法一：分两类
+	    ⑴1，2，3中恰有一个数字出现3次，这样的数有 EMBED Equation.DSMT4  个；
+	    ⑵1，2，3中有两个数字各出现2次，这样的数有 EMBED Equation.DSMT4  个；
+	    综上所述符合题意的五位数共有 EMBED Equation.DSMT4  个．
+方法二：从反面想：由1，2，3组成的五位数共有 EMBED Equation.DSMT4  个，由1，2，3中的某2个数字组成的五位数共有 EMBED Equation.DSMT4  个，由1，2，3中的某1个数字组成的五位数共有3个，所以符合题意的五位数共有 EMBED Equation.DSMT4  个．
+【答案】 EMBED Equation.DSMT4  个
+
+ EMBED Equation.DSMT4  个人围成一圈，从中选出两个不相邻的人，共有多少种不同选法？ 
+【考点】组合之排除法          【难度】3星          【题型】解答 
+ (法1)乘法原理．按题意，分别站在每个人的立场上，当自己被选中后，另一个被选中的，可以是除了自己和左右相邻的两人之外的所有人，每个人都有 EMBED Equation.DSMT4  种选择，总共就有 EMBED Equation.DSMT4  种选择，但是需要注意的是，选择的过程中，会出现“选了甲、乙，选了乙、甲”这样的情况本来是同一种选择，而却算作了两种，所以最后的结果应该是( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  (种)．
+(法2)排除法．可以从所有的两人组合中排除掉相邻的情况，总的组合数为 EMBED Equation.DSMT4  ，而被选的两个人相邻的情况有 EMBED Equation.DSMT4  种，所以共有 EMBED Equation.DSMT4  (种)．
+【答案】 EMBED Equation.DSMT4  
+
+一栋12层楼房备有电梯，第二层至第六层电梯不停．在一楼有3人进了电梯，其中至少有一个要上12楼，则他们到各层的可能情况共有多少种？ 
+【考点】组合之排除法          【难度】3星          【题型】解答 
+每个人都可以在第7层至第12层中任何一层下，有6种情况，那么三个人一共有 EMBED Equation.DSMT4  种情况，其中，都不到12楼的情况有 EMBED Equation.DSMT4  种．因此，至少有一人要上12楼的情况有 EMBED Equation.DSMT4  种．
+【答案】 EMBED Equation.DSMT4  
+
+8个人站队，冬冬必须站在小悦和阿奇的中间（不一定相邻），小慧和大智不能相邻，小光和大亮必须相邻，满足要求的站法一共有多少种？
+【考点】组合之排除法          【难度】3星          【题型】解答 
+冬冬要站在小悦和阿奇的中间，就意味着只要为这三个人选定了三个位置，中间的位置就一定要留给冬冬，而两边的位置可以任意地分配给小悦和阿奇．
+小慧和大智不能相邻的互补事件是小慧和大智必须相邻
+小光和大亮必须相邻，则可以将两人捆绑考虑
+只满足第一、三个条件的站法总数为：
+ EMBED Equation.DSMT4  （种）
+同时满足第一、三个条件，并且满足小慧和大智必须相邻的站法总数为：
+ EMBED Equation.DSMT4  （种）
+因此同时满足三个条件的站法总数为：
+ EMBED Equation.DSMT4  （种）．
+【答案】 EMBED Equation.DSMT4  
+
+若一个自然数中至少有两个数字，且每个数字小于其右边的所有数字，则称这个数是“上升的”．问一共有多少“上升的”自然数？ 
+【考点】组合之排除法          【难度】3星          【题型】解答 
+由于每个数字都小于其右边所有数字，而首位上的数不能为0，所以满足条件的数各数位上都没有0，而且各数位上的数都互不相同．那么最大的“上升的”自然数是123456789．而且可以发现，所有的“上升的”自然数都可以由123456789这个数划掉若干个数码得到．反过来，由从123456789这个数中划掉若干个数码得到的至少两位的数都是“上升的”自然数．所以只要算出从123456789中划掉若干个数码所能得到的至少两位的数有多少个就可以了．因为其中每个数码都有划掉和保留这2种可能，所以9位数共有 EMBED Equation.DSMT4  种可能，但是需要排除得到的一位数及零，这样的数共有10个，所以所能得到的至少两位的数有 EMBED Equation.DSMT4  (个)．
+所以一共有502个“上升的”自然数．
+【答案】 EMBED Equation.DSMT4  
+
+6人同时被邀请参加一项活动．必须有人去，去几个人自行决定，共有多少种不同的去法？ 
+【考点】组合之排除法          【难度】3星          【题型】解答 
+方法一：可以分为一人去、两人去、三人去、四人去、五人去、六人去六种情况，每一种情况都         是组合问题．
+第一种情况有 EMBED Equation.DSMT4  种去法；
+第二种情况有 EMBED Equation.DSMT4  (种)去法；
+第三种情况有 EMBED Equation.DSMT4  (种)去法；
+第四种情况有 EMBED Equation.DSMT4  (种)去法；
+第五种情况有 EMBED Equation.DSMT4  (种)去法；
+第六种情况有 EMBED Equation.DSMT4  种去法．
+根据加法原理，共有 EMBED Equation.DSMT4  (种)不同的去法．
+方法二：每一个人都有去或者不去两种可能，但要减掉所有人都不去这种情况，于是总共有 EMBED Equation.DSMT4  (种)不同的去法．
+【答案】 EMBED Equation.DSMT4  
+
+由数字1，2，3组成五位数，要求这五位数中1，2，3至少各出现一次，那么这样的五位数共有________个． 
+【考点】组合之排除法          【难度】2星          【题型】解答 
+【关键词】迎春杯，高年级，决赛
+这是一道组合计数问题．由于题目中仅要求 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  至少各出现一次，没有确定 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  出现的具体次数，所以可以采取分类枚举的方法进行统计，也可以从反面想，从由 EMBED Equation.DSMT4  组成的五位数中，去掉仅有 EMBED Equation.DSMT4  个或 EMBED Equation.DSMT4  个数字组成的五位数即可．
+(法1)分两类：⑴ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  中恰有一个数字出现 EMBED Equation.DSMT4  次，这样的数有 EMBED Equation.DSMT4  (个)；⑵ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  中有两个数字各出现 EMBED Equation.DSMT4  次，这样的数有 EMBED Equation.DSMT4  (个)．符合题意的五位数共有 EMBED Equation.DSMT4  (个)．
+(法2)从反面想，由 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  组成的五位数共有 EMBED Equation.DSMT4  个，由 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  中的某 EMBED Equation.DSMT4  个数字组成的五位数共有 EMBED Equation.DSMT4  个，由 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  中的某 EMBED Equation.DSMT4  个数字组成的五位数共有 EMBED Equation.DSMT4  个，所以符合题意的五位数共有 EMBED Equation.DSMT4  (个)．
+【答案】 EMBED Equation.DSMT4  
+
+5条直线两两相交，没有两条直线平行，没有任何三条直线通过同一个点，以这5条直线的交点为顶点能构成几个三角形？(构成的三角形的边不一定在这5条直线上) 
+【考点】组合之排除法          【难度】4星          【题型】解答 
+ (法1)5条直线一共形成 EMBED Equation.DSMT4  个点，对于任何一个点，经过它有两条直线，每条直线上另外有3个点，此外还有3个点与它不共线，所以以这个点为顶点的三角形就有 EMBED Equation.DSMT4  个三角形，则以10个点分别为顶点的三角形一共有300个三角形，但每个三角形都被重复计算了3次，所以一共有100个三角形．
+(法2)只要三点不共线就能构成三角形，所以可以先求出10个点中取出3个点的种数，再减去3点共线的情况．这10个点是由5条直线相互相交得到的，在每条直线上都有4个点存在共线的情况，这4个点中任意三个都共线，所以一共有 EMBED Equation.DSMT4  个三点共线的情况，除此以外再也没有3点共线的情况，所以一共可以构成 EMBED Equation.DSMT4  种情况．
+【答案】 EMBED Equation.DSMT4  
+
+正方体的顶点(8个)，各边的中点(12个)，各面的中心(6个)，正方体的中心(1个)，共27个点，以这27个点中的其中3点一共能构成多少个三角形？ 
+【考点】组合之排除法          【难度】3星          【题型】解答 
+27个点中取三个点，不是这3点共线，就是这3点能构成三角形．27个点中取三个点一共有 EMBED Equation.DSMT4  种．
+过三点的直线可以分为3类．有两个顶点连线构成的有 EMBED Equation.DSMT4  条；由两个面的中心连线的有3条，由两条棱的中点连线的有 EMBED Equation.DSMT4  条，
+所以能构成的三角形有 EMBED Equation.DSMT4  种．
+【答案】 EMBED Equation.DSMT4  
+
+用A、B、C、D、E、F六种染料去染图中的两个调色盘，要求每个调色盘里的六种颜色不能相同，且相邻四种颜色在两个调色盘里不能重复，那么共有多少种不同的染色方案（旋转算不同的方法）
+
+【考点】组合之排除法          【难度】3星          【题型】解答 
+先选中一个调色盘，此盘共有6！=720种． 再看另一个调色盘． 相邻四种颜色重复的分为4个重复、5个重复和6个重复三种情况，但由于5个重复就必然6个重复，因此只要分4种和6种即可． 4种颜色重复有6种情况，6种颜色重复只有1种．每种情况经旋转可变出6种．所以共有6！-1×6-6×6=678． 总共有678×720=488160种
+【答案】488160
+
+将5枚棋子放入右侧编号的4×4表格的格子中，每个格子最多放一枚，如果要求每行,每列都有棋子．那么共有         种不同放法．
+
+【考点】组合之排除法  【难度】4星   【题型】填空
+【关键词】迎春杯，六年级，初赛，7题
+由于每行、每列都要有棋子，所以必有某一行有 EMBED Equation.DSMT4  枚棋子，又不可能有某一行有 EMBED Equation.DSMT4  枚或 EMBED Equation.DSMT4  枚以上的棋子.而其他 EMBED Equation.DSMT4  行各有一枚棋子.只看有 EMBED Equation.DSMT4  枚棋子的那一行，有 EMBED Equation.DSMT4  种选择；选定某一行后，在其中选择两格放棋子有 EMBED Equation.DSMT4  种选法，所以将 EMBED Equation.DSMT4  枚棋子放入同一行有 EMBED Equation.DSMT4  种放法. 这一行放好后，还剩下 EMBED Equation.DSMT4  行 EMBED Equation.DSMT4  列没有棋子，所以剩下的 EMBED Equation.DSMT4  枚棋子每行 EMBED Equation.DSMT4  个，而从各列方面来看，有两种情况：其中有1枚与早先放好的 EMBED Equation.DSMT4  枚棋子中的某一枚同列；或者剩下的 EMBED Equation.DSMT4  枚都不与早先放的 EMBED Equation.DSMT4  枚棋子同列，这样其中必有 EMBED Equation.DSMT4  枚棋子同属一列，而剩下的 EMBED Equation.DSMT4  枚单独 EMBED Equation.DSMT4  列. 对于第 EMBED Equation.DSMT4  种情况，与早先 EMBED Equation.DSMT4  枚棋子同列的那 EMBED Equation.DSMT4  枚有 EMBED Equation.DSMT4  种选择，剩下的 EMBED Equation.DSMT4  枚有 EMBED Equation.DSMT4  种选择，共 EMBED Equation.DSMT4  种选择； 对于第 EMBED Equation.DSMT4  种情况，单独 EMBED Equation.DSMT4  列的那枚棋子有 EMBED Equation.DSMT4  种放法，剩下的同属一列的 EMBED Equation.DSMT4  枚有 EMBED Equation.DSMT4  种放法，共 EMBED Equation.DSMT4  种放法. 所以满足题意的放法共有 EMBED Equation.DSMT4  种.
+【答案】 EMBED Equation.DSMT4  种
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+7-5-3.组合之排除法.题库	                         教师版                        page  PAGE 7 of  NUMPAGES 7
+
+
+
+7-5-3.组合之排除法
+
+
+
+
+例题精讲
+
+知识要点
+
+教学目标
+
+
+
+

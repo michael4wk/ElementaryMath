@@ -1,0 +1,241 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+掌握质数与合数的定义
+能够用特殊的偶质数2与质数5解题
+能够利用质数个位数的特点解题
+质数、合数综合运用
+ SHAPE  \* MERGEFORMAT 
+一、质数与合数
+一个数除了1和它本身，不再有别的约数，这个数叫做质数(也叫做素数).一个数除了1和它本身，还有别的约数，这个数叫做合数.
+要特别记住：0和1不是质数，也不是合数.
+常用的100以内的质数：2、3、5、7、11、13、17、19、23、29、31、37、41、43、47、53、59、61、67、71、73、79、83、89、97，共计25个；除了2其余的质数都是奇数；除了2和5，其余的质数个位数字只能是1，3，7或9.
+考点：⑴ 值得注意的是很多题都会以质数2的特殊性为考点.
+⑵ 除了2和5，其余质数个位数字只能是1，3，7或9.这也是很多题解题思路，需要大家注意.
+二、判断一个数是否为质数的方法
+根据定义如果能够找到一个小于p的质数q(均为整数)，使得q能够整除p，那么p就不是质数，所以我们只要拿所有小于p的质数去除p就可以了；但是这样的计算量很大，对于不太大的p，我们可以先找一个大于且接近p的平方数 EMBED Equation.DSMT4  ，再列出所有不大于K的质数，用这些质数去除p，如没有能够除尽的那么p就为质数.例如：149很接近 EMBED Equation.DSMT4  ，根据整除的性质149不能被2、3、5、7、11整除，所以149是质数.。
+ SHAPE  \* MERGEFORMAT 
+模块一、偶质数2
+如果 EMBED Equation.DSMT4  都是质数，并且 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  的最小值是_________
+
+
+
+
+
+
+两个质数之和为 EMBED Equation.DSMT4  ，求这两个质数的乘积是多少.
+
+
+
+
+
+
+将1999表示为两年质数之和：l999=口+口，在口中填入质数。共有多少种表示法?
+
+
+
+
+
+
+A，B，C为3个小于20的质数， EMBED Equation.DSMT4  ，求这三个质数. 
+
+
+
+
+
+
+把100分拆成三个质数（只能被1和它本身整除且大于1的自然数叫做质数）的和，共有_____种方法。
+
+
+
+
+
+
+已知3个不同质数的和是最小的合数的完全平方，求这3个质数的乘积是多少？
+
+
+
+
+
+
+7个连续质数从大到小排列是a、b、c、d、e、f、g已知它们的和是偶数，那么d是多少？
+
+
+
+
+
+
+如果a，b均为质数，且 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ______.
+
+
+
+如果a，b均为质数，且3d＋7b＝41，则a＋b＝________。
+
+
+
+
+
+
+
+已知P,Q都是质数，并且 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  =
+
+
+
+
+
+
+
+ EMBED Equation.DSMT4 都是质数，如果 EMBED Equation.DSMT4 ，那么 EMBED Equation.DSMT4            。
+
+
+
+
+
+
+
+
+三个质数△、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，如果 EMBED Equation.DSMT4   EMBED Equation.DSMT4  △ EMBED Equation.DSMT4  1，△ EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，那么△是多少？
+
+
+
+
+
+
+
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  都是质数，并且 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，  EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4   ____ 。
+
+
+
+
+
+
+已知 EMBED Equation.DSMT4  是质数， EMBED Equation.DSMT4  也是质数，求 EMBED Equation.DSMT4  是多少？
+
+
+
+
+
+
+当p和  EMBED Equation.DSMT4  +5都是质数时， EMBED Equation.DSMT4  +5=       。
+
+
+
+
+
+ EMBED Equation.DSMT4  是质数， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  都是质数．求 EMBED Equation.DSMT4  是多少？
+
+
+
+
+4只同样的瓶子内分别装有一定数量的油．每瓶和其他各瓶分别合称一次，记录千克数如下：8，9，10，11，12，13．已知4只空瓶的重量之和以及油的重量之和均为质数，求最重的两瓶内有多少油？
+
+
+
+
+
+
+
+三个数 EMBED Equation.DSMT4  都是质数，它们的倒数和的倒数是_______。
+
+
+
+
+
+
+
+用0，1，2，…，9这10个数字组成6个质数，每个数字至多用1次，每个质数都不大于500，那么共有多少种不同的组成6个质数的方法．请将所有方法都列出来．
+
+
+
+
+
+
+
+如果一些不同质数的平均数为21，那么它们中最大的一个数的最大可能值为       ．
+
+
+
+
+
+模块二、质数5
+已知 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  都是质数，那么 EMBED Equation.DSMT4           。
+
+
+
+
+模块三、数字的拆分
+将60拆成10个质数之和，要求最大的质数尽可能小，那么其中最大的质数是多少？
+
+
+
+
+
+
+
+将50分拆成10个质数的和，要求其中最大的质数尽可能大，则这个最大的质数是多少？
+
+
+
+
+
+
+将37拆成若干个不同的质数之和，有多少种不同的拆法？将每一种拆法中拆出的那些质数相乘，得到的乘积中，哪个最小？
+
+
+
+
+
+
+甲乙两人的年龄和为一个质数，这个数的个位与十位数字的和是13，甲比乙大13岁，那么乙今年多大？ 
+
+
+
+
+
+三位数 EMBED Equation.DSMT4  满足：它的所有质因数之和是 EMBED Equation.DSMT4  。这样的三位数 EMBED Equation.DSMT4  有        个。
+
+
+
+
+
+
+从20以内的质数中选出6个数，写在一个正方体的六个面上，使两个相对面的和都相等，所选的6个数是__________________ 
+
+
+
+
+
+
+
+已知n个自然数之积是2007，这n个自然数之和也是2007，那么n的值最大是_______。
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+5-3-2.质数与合数（二）.题库	                        学生版                           page  PAGE 5 of  NUMPAGES 5
+
+
+
+5-3-2.质数与合数（二）
+
+知识框架
+
+知识点拨
+
+例题精讲
+
+
+

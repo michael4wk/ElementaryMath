@@ -1,0 +1,330 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+分析题目确定单位“1”
+准确找到量所对应的率，利用量÷对应率＝单位“1”解题
+抓住不变量，统一单位“1”
+
+ SHAPE  \* MERGEFORMAT 
+一、知识点概述：
+分数应用题是研究数量之间份数关系的典型应用题，一方面它是在整数应用题上的延续和深化，另一方面，它有其自身的特点和解题规律．在解这类问题时，分析中数量之间的关系，准确找出“量”与“率”之间的对应是解题的关键．
+关键：分数应用题经常要涉及到两个或两个以上的量，我们往往把其中的一个量看作是标准量．也称为：单位“1”，进行对比分析。在几个量中，关键也是要找准单位“1”和对应的百分率，以及对应量三者的关系
+例如：（1）a是b的几分之几，就把数b看作单位“1”．
+（2）甲比乙多 EMBED Equation.DSMT4  ，乙比甲少几分之几？
+方法一：可设乙为单位“ EMBED Equation.DSMT4  ”，则甲为 EMBED Equation.DSMT4  ，因此乙比甲少 EMBED Equation.DSMT4  .
+方法二：可设乙为 EMBED Equation.DSMT4  份，则甲为 EMBED Equation.DSMT4  份，因此乙比甲少 EMBED Equation.DSMT4  .
+二、怎样找准分数应用题中单位“1”
+（一）、部分数和总数     在同一整体中，部分数和总数作比较关系时，部分数通常作为比较量，而总数则作为标准量，那么总数就是单位“1”。
+例如：
+我国人口约占世界人口的几分之几？——世界人口是总数，我国人口是部分数，世界人口就是单位“1”。
+解答题关键：只要找准总数和部分数，确定单位“1”就很容易了。
+（二）、两种数量比较
+分数应用题中，两种数量相比的关键句非常多。有的是“比”字句，有的则没有“比”字，而是带有指向性特征的“占”、“是”、“相当于”。在含有“比”字的关键句中，比后面的那个数量通常就作为标准量，也就是单位“1”。
+例如：六（2）班男生比女生多——就是以女生人数为标准（单位“1”），
+解题关键：在另外一种没有比字的两种量相比的时候，我们通常找到分率，看“占”谁的，“相当于”谁的，“是”谁的几分之几。这个“占”，“相当于”，“是”后面的数量——谁就是单位“！”。
+（三）、原数量与现数量     有的关键句中不是很明显地带有一些指向性特征的词语，也不是部分数和总数的关系。这类分数应用题的单位“1”比较难找。需要将题目文字完善成我们熟悉的类似带“比”的文字，然后在分析。
+例如：水结成冰后体积增加了，冰融化成水后，体积减少了。
+完善后：水结成冰后体积增加了→ “水结成冰后体积比原来增加了” →原来的水是单位“1”
+            冰融化成水后，体积减少了→ “冰融化成水后，体积比原来减少了” →原来的冰是单位“1”
+解题关键：要结合语文知识将题目简化的文字丰富后在分析
+
+ SHAPE  \* MERGEFORMAT 
+单位“ EMBED Equation.DSMT4  ”不变
+抓住量率对应进行计算
+甲、乙、丙三人一起买了八个面包平分着吃，甲拿出五个面包的钱，乙付了三个面包的钱，丙没带钱，等吃完后一算，丙应该拿出四元钱，问：甲应收回多少钱?(以角为单位)
+【考点】分数应用题          【难度】3星          【题型】解答 
+每人应付 EMBED Equation.DSMT4  个面包的钱，丙拿出的40角就是 EMBED Equation.DSMT4  个面包的钱，所以一个面包的价格应为： EMBED Equation.DSMT4  （角），甲多付的钱为： EMBED Equation.DSMT4  （角），所以甲应收回35角。
+【答案】35角
+
+一小、二小、三小、四小四个学校组织了一次数学竞赛,共有700多人参赛,其中一小占 EMBED Equation.DSMT4  ，二小占 EMBED Equation.DSMT4  、三小占 EMBED Equation.DSMT4  ，其余都是四小的。比赛结果是,一小有 EMBED Equation.DSMT4  学生获奖,二小有 EMBED Equation.DSMT4  学生获奖,三小有 EMBED Equation.DSMT4  学生获奖，四小有多少人参赛?
+【考点】分数应用题          【难度】3星          【题型】解答 
+因为一小、二小、三小获奖人数分别占总参赛人数的 EMBED Equation.DSMT4  ，所以总参赛人数是40，36，45的公倍数，由[40，36，45]=720推知有720人参赛，其中四小有 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+甲、乙、丙三个桶内各装了一些油，先将甲桶内 EMBED Equation.DSMT4  的油倒入乙桶，再将乙桶内 EMBED Equation.DSMT4  的油倒入丙桶，这时三个桶内的油一样多，如果最初丙桶内有油48千克，那么最初甲桶内有油              千克。乙桶内有油              千克。
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】希望杯，5年级，1试
+假设甲桶往乙桶倒过油之后乙桶的油是5份，那么它将五分之一给了丙桶，结果两桶一样多，说明丙桶原来有3份，那么三桶都一样的时候都是4份，可以知道，甲桶倒出去三分之一之后还有4份，那么原来就有6份，甲桶往乙桶倒过2份油之后乙桶的油是5份，说明原来乙桶也是3份，那么丙桶的3份相当于48千克，一份就是16千克，最初的甲桶里面应该有96千克，乙桶里有48千克。
+【答案】甲桶里面应该有96千克，乙桶里有48千克
+
+足球赛门票15元一张，降价后观众增加了一半，收入增加了五分之一，则一张门票降价多少元？ 
+【考点】分数应用题          【难度】3星          【题型】解答 
+设原来收入是1．现在收入是1+ EMBED Equation.DSMT4  ，那么原收入有： EMBED Equation.DSMT4  ，因此每张门票降价：15×(1- EMBED Equation.DSMT4  )=3(元)．
+【答案】3元
+
+今有桃 EMBED Equation.DSMT4  个，分给甲、乙两班学生吃，甲班分到的桃有 EMBED Equation.DSMT4  是坏的，其他是好的；乙班分到的桃有 EMBED Equation.DSMT4  是坏的，其他是好的．甲、乙两班分到的好桃共有几个？
+【考点】分数应用题          【难度】3星          【题型】解答 
+ (法 EMBED Equation.DSMT4  )因为桃子数是整数，甲班分到的桃有 EMBED Equation.DSMT4  是坏的，说明甲班分到的桃数是 EMBED Equation.DSMT4  的倍数，同理乙班分到的桃数是 EMBED Equation.DSMT4  的倍数．由于 EMBED Equation.DSMT4  ，考虑 EMBED Equation.DSMT4  以内 EMBED Equation.DSMT4  的倍数： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ；它们与 EMBED Equation.DSMT4  的差分别是： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，其中只有 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的倍数，故甲班分到 EMBED Equation.DSMT4  个桃，乙班分到 EMBED Equation.DSMT4  个桃．两班分到的好桃共有： EMBED Equation.DSMT4  (个)．
+(法 EMBED Equation.DSMT4  )甲班分到的桃是 EMBED Equation.DSMT4  的倍数，乙班分到的桃是 EMBED Equation.DSMT4  的倍数，设甲、乙两班分到的桃树分别为 EMBED Equation.DSMT4  个、 EMBED Equation.DSMT4  个．由 EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，即甲班分到桃 EMBED Equation.DSMT4  (个)，乙班分到桃 EMBED Equation.DSMT4  (个)．所以，两班共分到好桃 EMBED Equation.DSMT4  (个)．
+【答案】 EMBED Equation.DSMT4  个
+
+有两筐桔子，如果从甲筐取出 EMBED Equation.DSMT4  千克给乙筐，则两筐重量相等；如果两筐各取出 EMBED Equation.DSMT4  千克， 则甲筐剩下重量的 EMBED Equation.DSMT4  比乙筐剩下重量的 EMBED Equation.DSMT4  多 EMBED Equation.DSMT4  千克，乙筐原有桔子多少千克？
+【考点】分数应用题          【难度】3星          【题型】解答 
+ (法1)设甲筐原有桔子 EMBED Equation.DSMT4  千克，则乙筐原有桔子 EMBED Equation.DSMT4  千克，得： EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，即乙筐原有桔子40千克．
+ (法2)根据题意可知甲筐比乙筐多 EMBED Equation.DSMT4  千克，各取 EMBED Equation.DSMT4  千克以后，甲筐依然比乙筐多 EMBED Equation.DSMT4  千克，那么甲筐剩下桔子的 EMBED Equation.DSMT4  比乙筐剩下重量的 EMBED Equation.DSMT4  多 EMBED Equation.DSMT4  (千克)，比乙筐剩下重量的 EMBED Equation.DSMT4  多5千克，所以乙筐剩下的重量为 EMBED Equation.DSMT4  (千克)，乙筐原有桔子 EMBED Equation.DSMT4  (千克)．
+【答案】 EMBED Equation.DSMT4  千克
+
+（二）、利用倒推法进行计算
+
+一根木杆，第一次截去了全长的 EMBED Equation.DSMT4  ，第二次截去所剩木杆的 EMBED Equation.DSMT4  ，第三次截去所剩木杆的 EMBED Equation.DSMT4  ，第四截去所剩木杆的 EMBED Equation.DSMT4  ，这时量得所剩木杆长为 EMBED Equation.DSMT4  厘米．问：木杆原来的长是多少厘米?
+【考点】分数应用题          【难度】2星          【题型】解答 
+【关键词】可逆思想方法
+设木杆原长为 EMBED Equation.DSMT4  ，第一次截后所剩为原长的 EMBED Equation.DSMT4  ；第二次截后所剩为 EMBED Equation.DSMT4  ；第三次截后所剩为 EMBED Equation.DSMT4  ；第四次截后所剩为 EMBED Equation.DSMT4  ，即原长的 EMBED Equation.DSMT4  等于 EMBED Equation.DSMT4  厘米，由部分求整体得：木杆原长 EMBED Equation.DSMT4  (厘米)．
+【答案】 EMBED Equation.DSMT4  厘米
+
+建筑工地需要一批水泥，从仓库第一次运走全部的 EMBED Equation.DSMT4  ，第二次运走余下的 EMBED Equation.DSMT4  ，第三次运走(前两次运后)又余下的 EMBED Equation.DSMT4  ，这时还剩下 EMBED Equation.DSMT4  吨水泥没运走．这批水泥共是多少吨？
+【关键词】可逆思想方法
+【考点】分数应用题          【难度】3星          【题型】解答 
+ (法1)把这批水泥视为单位“ EMBED Equation.DSMT4  ”，第一次运走后所剩为： EMBED Equation.DSMT4  ，第二次运走后所剩为： EMBED Equation.DSMT4  ，第二次运走后所剩为： EMBED Equation.DSMT4  ，即原来的 EMBED Equation.DSMT4  即为 EMBED Equation.DSMT4  吨，原来有水泥 EMBED Equation.DSMT4  (吨)．
+(法2)依据逆向思维可以得出，最后剩下的 EMBED Equation.DSMT4  吨对应的是“又余下”的 EMBED Equation.DSMT4  ，因此求出“又余下”为 EMBED Equation.DSMT4  吨，这时 EMBED Equation.DSMT4  吨对应得恰好是“余下”的 EMBED Equation.DSMT4  ，这样可以求出“余下”的吨数为 EMBED Equation.DSMT4  吨，即全部的 EMBED Equation.DSMT4  ，所以原有水泥 EMBED Equation.DSMT4  (吨)．
+【答案】 EMBED Equation.DSMT4  吨
+
+仓库里有一些货物，第一次运出全部的 EMBED Equation.DSMT4  ，第二次运出剩下的 EMBED Equation.DSMT4  ，第三次比第一次少运 EMBED Equation.DSMT4  ，这时还有 EMBED Equation.DSMT4  吨货物，这批货物共有多少吨？
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】可逆思想方法
+第一次运出后还剩下 EMBED Equation.DSMT4  ，第二次运出后剩下 EMBED Equation.DSMT4  ，第三次运出后还剩下 EMBED Equation.DSMT4  ，所以这批货物共有 EMBED Equation.DSMT4  吨．
+【答案】 EMBED Equation.DSMT4  吨
+
+小胖有一盒巧克力饼干，他第一天吃掉了全部的的七分之一；第二天吃了余下的六分之一；第三天吃了余下的五分之一；第四天吃了余下的四分之一；第五天吃了余下的三分之一；第六天吃了余下的二分之一；这时还剩下12块巧克力饼干，那么共有多少块巧克力饼干？
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】可逆思想方法
+把巧克力饼干总数当作1．那么： EMBED Equation.DSMT4  ，最后剩下的12块是总数的 EMBED Equation.DSMT4  ，那么共有 EMBED Equation.DSMT4  (块)巧克力饼干．
+【答案】 EMBED Equation.DSMT4  块
+
+某工厂第一车间原有工人120名，现在调出  EMBED Equation.DSMT4  给第二车间后，这第一车间的人数比第二车间现有人数的 EMBED Equation.DSMT4  还多3名。求第二车间原来有多少人？
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】可逆思想方法
+第一车间调出 EMBED Equation.DSMT4  （名），剩下 EMBED Equation.DSMT4  （名），第二车间现有 EMBED Equation.DSMT4  （名），则原有 EMBED Equation.DSMT4  （名）
+【答案】 EMBED Equation.DSMT4  名
+
+向阳生产队用拖拉机耕地，第一天耕了全部土地的25％，第二天耕了剩下的三分之二，第二天比第一天多耕30亩，问：这个生产队共有多少亩土地?
+【考点】分数应用题          【难度】2星          【题型】解答 
+【关键词】可逆思想方法
+第二天耕了全部土地的 EMBED Equation.DSMT4  ，则全部土地共有 EMBED Equation.DSMT4  （亩）。
+【答案】 EMBED Equation.DSMT4  亩
+
+一工人加工一批机器零件，第一天完成任务的 EMBED Equation.DSMT4  ，第二天完成了剩下部分的 EMBED Equation.DSMT4  ，第二天比第一天多完成 EMBED Equation.DSMT4  个.问这批零件共有多少个？
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】可逆思想方法
+方法一：设这批零件为单位“ EMBED Equation.DSMT4  ”，第二天完成总数的 EMBED Equation.DSMT4  ，所以这批零件共有 EMBED Equation.DSMT4  （个）.
+方法二：这批零件共有 EMBED Equation.DSMT4  份，则第一天加工完后还剩 EMBED Equation.DSMT4  份，要将 EMBED Equation.DSMT4  份平均分成 EMBED Equation.DSMT4  份，不好分，所以将剩下的扩大 EMBED Equation.DSMT4  倍，所以设这批零件为 EMBED Equation.DSMT4  份，则第一天加工了 EMBED Equation.DSMT4  份，第二天加工了 EMBED Equation.DSMT4  份，所以第二天比第一天多加工了 EMBED Equation.DSMT4  份，恰好是 EMBED Equation.DSMT4  个，所以这批零件共有 EMBED Equation.DSMT4  （个）.
+【答案】 EMBED Equation.DSMT4  个
+
+味多美西饼屋推出一款新蛋糕，第一天卖出了全部的 EMBED Equation.DSMT4  ，第二天卖出了剩下的 EMBED Equation.DSMT4  ，第二天比第一天多卖出 EMBED Equation.DSMT4  个，那么味多美西饼屋这次共推出新蛋糕多少个？
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】可逆思想方法
+将味多美西饼屋推出新蛋糕个数看作“ EMBED Equation.DSMT4  ”，由题意，第一天卖出全部的 EMBED Equation.DSMT4  ，第二天卖出全部的 EMBED Equation.DSMT4  ，而且已知第二天比第一天多卖出 EMBED Equation.DSMT4  个，也就是 EMBED Equation.DSMT4  个占全部蛋糕的 EMBED Equation.DSMT4  ，所以味多美西饼屋这次共推出新蛋糕的个数为： EMBED Equation.DSMT4  (个)．
+【答案】 EMBED Equation.DSMT4  个
+
+一批木料先用去总数的 EMBED Equation.DSMT4  ，又用去剩下的 EMBED Equation.DSMT4  ，这时用去的比剩下的多 EMBED Equation.DSMT4  立方米，这批木料共有多少立方米？
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】可逆思想方法
+方法一：把这批木料看成单位“ EMBED Equation.DSMT4  ”第二次用去了 EMBED Equation.DSMT4  ，所以这批木料共有 EMBED Equation.DSMT4  （立方米）.
+方法二：把这批木料看成 EMBED Equation.DSMT4  份，两次共用去了 EMBED Equation.DSMT4  份，还剩 EMBED Equation.DSMT4  份，所以用去的比剩下的多 EMBED Equation.DSMT4  份，恰好是 EMBED Equation.DSMT4  立方米，所以这批木料共有 EMBED Equation.DSMT4  （立方米）.
+【答案】 EMBED Equation.DSMT4  立方米
+
+
+小红看一本故事书，第一天看了这本书的一半又10页，第二天看了余下的一半又10页，第三天看了10页正好看完。这本故事书共有多少页？
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】可逆思想方法
+利用倒推法解. 第一天余下了 EMBED Equation.DSMT4  ，原有 EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  有若干本书， EMBED Equation.DSMT4  借走一半加一本，剩下的书， EMBED Equation.DSMT4  借走一半加两本，再剩下的书， EMBED Equation.DSMT4  借走一半加 EMBED Equation.DSMT4  本，最后 EMBED Equation.DSMT4  还有 EMBED Equation.DSMT4  本书，问 EMBED Equation.DSMT4  原有多少本书．
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】可逆思想方法
+对于这道题，可以采用倒推法来解． EMBED Equation.DSMT4  借走后还剩下 EMBED Equation.DSMT4  (本)， EMBED Equation.DSMT4  借走后剩下 EMBED Equation.DSMT4  (本)， EMBED Equation.DSMT4  原有书为 EMBED Equation.DSMT4  (本)．
+【答案】 EMBED Equation.DSMT4  
+
+食堂有一桶油，第一天吃掉一半多1千克，第二天吃掉剩下的油的一半多2千克，第三天又吃掉剩下的油的一半多3千克，最后桶里还剩下2千克油，问桶里原有油多少千克？
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】可逆思想方法
+第三天吃掉一半多3千克，还剩2千克。所以第二天吃掉后还剩（2＋3）÷ EMBED Equation.DSMT4  ，这又是第一天吃掉后剩下的一半少2千克，所以第一天吃掉后剩下[（2＋3）÷ EMBED Equation.DSMT4  ＋2]÷ EMBED Equation.DSMT4  ，这又是这桶油的一半少1千克，从而这桶油共有：｛[（2＋3）÷ EMBED Equation.DSMT4  ＋2]÷ EMBED Equation.DSMT4  ＋1｝÷ EMBED Equation.DSMT4  =50（千克）这桶油共有50千克。
+【答案】50千克
+
+园里的荔枝获得丰收，第一天摘了全部荔枝的 EMBED Equation.DSMT4  又10筐，第二天摘了余下的 EMBED Equation.DSMT4  又3筐，这样还剩下63筐荔枝没有摘，则共有荔枝        筐．
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】学而思杯，5年级
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  筐
+
+古希腊杰出的数学家丢番图的墓碑上有一段话：“他生命的六分之一是幸福的童年．再活十二分之一脸上长起了细细的胡须，他结了婚还没有孩子，又度过了七分之一。再过了五年，他幸福地得到了一个儿子。可这孩子光辉灿烂的寿命只有他父亲的一半。儿子死后，老人在悲痛中活了四年，也结束了尘世的生涯”。你能根据这段话推算出丢番图活了多少岁？多少岁结的婚吗？
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】可逆思想方法
+活的岁数： EMBED Equation.DSMT4  (岁) ，结婚年龄： EMBED Equation.DSMT4  （岁）。
+【答案】活的岁数： EMBED Equation.DSMT4  岁 ，结婚年龄： EMBED Equation.DSMT4  岁
+
+园里的荔枝获得丰收，第一天摘了全部荔枝的 EMBED Equation.DSMT4  又10筐，第二天摘了余下的 EMBED Equation.DSMT4  又3筐，这样还剩下63筐荔枝没有摘，则共有荔枝        筐．
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】可逆思想方法
+本题可采用倒推法．第二天摘之前剩余荔枝有 EMBED Equation.DSMT4  筐，所以原有荔枝 EMBED Equation.DSMT4  筐．
+【答案】 EMBED Equation.DSMT4  筐
+
+一辆公共汽车载了一些乘客从起点出发，在第一站下车的乘客是车上总数（含一名司机和两名售票员）的 EMBED Equation.DSMT4  ，第二站下车的乘客是车上总人数的 EMBED Equation.DSMT4   EMBED Equation.DSMT4  第六站下车的乘客是车上总人数的 EMBED Equation.DSMT4  ，再开车是车上就剩下1名乘客了。已知途中没有人上车，问从起点出发时，车上有多少名乘客？
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】可逆思想方法
+最后一次停车后剩 EMBED Equation.DSMT4  （人）（包括司机和售票员），根据倒推法得到：
+ EMBED Equation.DSMT4  （人），那么乘客一共有 EMBED Equation.DSMT4  （人）
+【答案】 EMBED Equation.DSMT4  人
+
+辅导员给参加夏令营的某一组营员发苹果，给第一个人 EMBED Equation.DSMT4  个苹果和余下的 EMBED Equation.DSMT4  ，给第 EMBED Equation.DSMT4  个人 EMBED Equation.DSMT4  个苹果和余下的 EMBED Equation.DSMT4  ，又给第 EMBED Equation.DSMT4  个人 EMBED Equation.DSMT4  个苹果和余下的 EMBED Equation.DSMT4  ……，最后恰好分完，并且每个人分到的苹果数量相同，问共有多少个苹果？这一组共有多少人？
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】可逆思想方法
+ (法 EMBED Equation.DSMT4  )设第 EMBED Equation.DSMT4  个人分到 EMBED Equation.DSMT4  个苹果，则第一个人分过后还剩 EMBED Equation.DSMT4  个苹果，则第一个人分到的苹果有 EMBED Equation.DSMT4  个，由于每个人分到的苹果数量相等，所以 EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  ．所以，每人分得 EMBED Equation.DSMT4  (个)苹果，苹果总数为： EMBED Equation.DSMT4  (个)，这一组的人数为： EMBED Equation.DSMT4  (人)．
+(法 EMBED Equation.DSMT4  )设有 EMBED Equation.DSMT4  个人，由于最后恰好分完，所以第 EMBED Equation.DSMT4  个人分到 EMBED Equation.DSMT4  个苹果后苹果恰好分完，而第 EMBED Equation.DSMT4   个人则分到 EMBED Equation.DSMT4  个苹果后又分到余下苹果的 EMBED Equation.DSMT4  ，由于第 EMBED Equation.DSMT4  个人和第 EMBED Equation.DSMT4  个人分到的苹果数相等，所以第 EMBED Equation.DSMT4  个人又分到余下苹果的 EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  个苹果，所以第 EMBED Equation.DSMT4  个人分到 EMBED Equation.DSMT4  个苹果，即 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，故共有 EMBED Equation.DSMT4  个苹果，这一组共有 EMBED Equation.DSMT4  个人．
+【答案】共有 EMBED Equation.DSMT4  个苹果，一组共有 EMBED Equation.DSMT4  个人
+
+学校将一批糖果发给甲、乙、丙、丁四个班，先将全部糖果的 EMBED Equation.DSMT4  再减去 EMBED Equation.DSMT4  千克给甲班，再把余下的 EMBED Equation.DSMT4  加上 EMBED Equation.DSMT4  千克给乙班，又把余下的一半给丙班，最后把剩余的一半加上 EMBED Equation.DSMT4  千克给丁班，这时学校还剩下 EMBED Equation.DSMT4  千克，这批糖果有多少千克？
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】可逆思想方法
+采用倒推法．分给丙班后还剩下 EMBED Equation.DSMT4  千克，分给乙班后还剩下 EMBED Equation.DSMT4  千克，分给甲班后还剩下 EMBED Equation.DSMT4  千克，那么原有糖果 EMBED Equation.DSMT4  千克．
+【答案】 EMBED Equation.DSMT4  千克
+
+服装厂一车间人数占全厂的 EMBED Equation.DSMT4  ，二车间人数比一车间少 EMBED Equation.DSMT4  ，三车间人数比二车间多 EMBED Equation.DSMT4  ，三车间156人，这个服装厂全厂共有多少人？
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】可逆思想方法，2009年，十三分，入学测试
+这个问题和分数的应用题并没有区别，只不过把分数 EMBED Equation.DSMT4  变成了25%，我们设全厂人数为单位“1”，那么一车间人数就是25%即 EMBED Equation.DSMT4  ，二车间比一车间少 EMBED Equation.DSMT4  ，就应该占全厂人数的 EMBED Equation.DSMT4  ，自然，三车间人数就是全厂的 EMBED Equation.DSMT4  ，不难得到问题的解答， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  （人）
+【答案】 EMBED Equation.DSMT4  
+
+甲、乙、丙三堆石子共196块.先从甲堆分给另外两堆，使得后两堆石子数增加一倍；再把乙堆照样分配一次；最后把丙堆也照样分配一次。结果丙堆石子数为甲堆的 EMBED Equation.DSMT4  。那么原来三堆石子中，最少的一堆石子数为多少?
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】可逆思想方法
+由题中条件知，甲堆最后的石子数为甲堆第一次分给另外两堆后数的2×2=4倍，那么最后甲堆的石子数为4的倍数；又因为丙堆石子数为甲堆 EMBED Equation.DSMT4  ，所以甲堆石子数应为22的倍数．[4，22]=44，所以甲堆最后的石子数为44的倍数，丙堆最后的石子数为10的倍数．
+（1）当甲堆最后的石子数为44时：
+
+此时丙堆为奇数块，而丙堆在乙堆分配后应为甲堆分配后块数的2倍，为偶数块，所以不满足．
+(2)当甲堆最后的石子数为88时：
+
+显然满足．验证甲堆最后的石子数为132时，不满足．所以在原来的三堆石子中，最少的一堆是丙堆，石子数为27块．
+【答案】最少的一堆是丙堆，石子数为27块
+
+（三）、统一单位“1”进行计算
+有三堆棋子，每堆棋子数一样多，并且都只有黑、白两色棋子．第一堆里的黑子和第二堆里的白子一样多，第三堆里的黑子占全部黑子的 EMBED Equation.DSMT4  ，把这三堆棋子集中在一起，问白子占全部棋子的几分之几?
+【考点】分数应用题          【难度】3星          【题型】解答 
+不妨认为第二堆全是黑子，第一堆全是白子，(即将第一堆黑子与第二堆白子互换)，第二堆黑子是全部棋子的 EMBED Equation.DSMT4  ，同时，又是黑子的1- EMBED Equation.DSMT4  ．所以黑子占全部棋子的 EMBED Equation.DSMT4  ÷(1- EMBED Equation.DSMT4  )= EMBED Equation.DSMT4  ，白子占全部棋子的1- EMBED Equation.DSMT4  = EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  
+
+甲、乙两人星期天一起上街买东西，两人身上所带的钱共计是 EMBED Equation.DSMT4  元.在人民市场，甲买一双运动鞋花去了所带钱的 EMBED Equation.DSMT4  ，乙买一件衬衫花去了人民币 EMBED Equation.DSMT4  元．这样两人身上所剩的钱正好一样多．问甲、乙两人原先各带了多少钱?
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】小数报
+方法一：把甲所带的钱视为单位“ EMBED Equation.DSMT4  ”，由题意，乙花去 EMBED Equation.DSMT4  元后所剩的钱与甲所带钱的 EMBED Equation.DSMT4  一样多，那么 EMBED Equation.DSMT4  元钱正好是甲所带钱的 EMBED Equation.DSMT4  ，那么甲原来带了 EMBED Equation.DSMT4  (元)，乙原来带了 EMBED Equation.DSMT4  (元)．
+方法二：
+
+设甲所带的钱数为 EMBED Equation.DSMT4  份，则甲和乙都还剩 EMBED Equation.DSMT4  份，所以每份是 EMBED Equation.DSMT4  (元)，则甲原来带了 EMBED Equation.DSMT4  (元)，乙原来带了 EMBED Equation.DSMT4  (元).
+【答案】 EMBED Equation.DSMT4  元
+
+一实验五年级共有学生152人，选出男同学的 EMBED Equation.DSMT4  和5名女同学参加科技小组，剩下的男、女人数正好相等。五年级男、女同学各有多少人？
+【考点】分数应用题          【难度】3星          【题型】解答 
+根据题意画出线段图，找出量率对应：
+
+题中所给的已知数量虽然没有直接的对应关系，但从中可以看出，如果女工去掉5人就和男工人数的（1－ EMBED Equation.DSMT4  ）相对应，因此总人数也应去掉5人，相应的与男工人数的（1－ EMBED Equation.DSMT4  ＋1）相对应。因此男工有：（152－5）÷（1－ EMBED Equation.DSMT4  ＋1）=77（名）女工有：152－77=75（名） 
+【答案】男同学有77名，女同学有75名
+
+
+五年级有学生 EMBED Equation.DSMT4  人，选出男生的 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  名女生参加团体操，这时剩下的男生和女生人数一样多，问：五年级女生有多少人？
+【考点】分数应用题          【难度】3星          【题型】解答 
+男生人数为 EMBED Equation.DSMT4  (人)，女生有： EMBED Equation.DSMT4  (人)．
+【答案】 EMBED Equation.DSMT4  人
+
+五年级选出男生的 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  名女生参加数学竞赛，剩下的男生人数是女生的 EMBED Equation.DSMT4  倍．已知五年级共有学生 EMBED Equation.DSMT4  人，其中男生有多少人?
+【考点】分数应用题          【难度】3星          【题型】解答 
+方法一：把男生人数视为单位“ EMBED Equation.DSMT4  ”，未参加比赛的女生是： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  (人)是男生和剩下的女生人数，所以男生有 EMBED Equation.DSMT4  (人).
+方法二：设五年级男生有 EMBED Equation.DSMT4  份，所以每份是 EMBED Equation.DSMT4  (人)，所以男生有 EMBED Equation.DSMT4  (人).
+【答案】 EMBED Equation.DSMT4  人
+
+甲、乙两个书架，已知甲书架有 EMBED Equation.DSMT4  本书，从甲书架借出 EMBED Equation.DSMT4  ，从乙书架借出 EMBED Equation.DSMT4  以后，甲书架是乙书架的 EMBED Equation.DSMT4  倍还多 EMBED Equation.DSMT4  本，乙书架原有多少本书？
+【考点】分数应用题          【难度】3星          【题型】解答 
+甲原有 EMBED Equation.DSMT4  本书，借出去 EMBED Equation.DSMT4  之后还有 EMBED Equation.DSMT4  本，这个时候是乙现在的两倍还多 EMBED Equation.DSMT4  ，因此现在乙剩下的书为 EMBED Equation.DSMT4  本，而这 EMBED Equation.DSMT4  本正好是乙借出去 EMBED Equation.DSMT4  以后剩下的，因此乙原来的书本数目便很容易求出了。根据题意可知，乙书架原有 EMBED Equation.DSMT4  本书．
+【答案】 EMBED Equation.DSMT4  本
+
+五年级上学期男、女生共有 EMBED Equation.DSMT4  人，这一学期男生增加 EMBED Equation.DSMT4  ，女生增加 EMBED Equation.DSMT4  ，共增加了 EMBED Equation.DSMT4  人．这一学年六年级男、女生各有多少人?
+【考点】分数应用题          【难度】3星          【题型】解答 
+方法一：此题我们用假设法来解答．假设这一学期五年级男、女生人数都增加 EMBED Equation.DSMT4  ，那么增加的人数应为 EMBED Equation.DSMT4  (人)，这与实际增加的 EMBED Equation.DSMT4  人相差 EMBED Equation.DSMT4  (人)．相差 EMBED Equation.DSMT4  人的原因是把女生增加的 EMBED Equation.DSMT4  看成 EMBED Equation.DSMT4  计算了，即少算了原女生人数的 EMBED Equation.DSMT4  ，也就是说这 EMBED Equation.DSMT4  人正好相当于上学期女生人数的 EMBED Equation.DSMT4  ，可求出上学期女生的人数： EMBED Equation.DSMT4  (人)，男生人数为： EMBED Equation.DSMT4  (人)，这学年女生的人数： EMBED Equation.DSMT4  (人)，这学年男生的人数： EMBED Equation.DSMT4  (人)．
+方法二：本题可以看成男生1份＋女生1份＝13（人），那么男生20份＋女生20份=13×20＝260（人），对比分析可以看出：300—260＝40（人）对应男生的25—20＝5（份），所以男生有40÷5×（25＋1）＝208（人），女生有300＋13—208＝105（人）。
+【答案】男生有208人，女生有105人
+
+二年级两个班共有学生 EMBED Equation.DSMT4  人，其中少先队员有 EMBED Equation.DSMT4  人，又知一班少先队员占全班人数的 EMBED Equation.DSMT4  ，二班少先队员占全班人数的 EMBED Equation.DSMT4  ，求两个班各有多少人？
+【考点】分数应用题          【难度】3星          【题型】解答 
+本题与鸡兔同笼问题相似，根据鸡兔同笼问题的假设法，可求得一班人数为 EMBED Equation.DSMT4  (人)，那么二班人数为 EMBED Equation.DSMT4  (人)
+【答案】一班有 EMBED Equation.DSMT4  人，二班有 EMBED Equation.DSMT4  人
+
+光明小学有学生 EMBED Equation.DSMT4  人，其中女生的 EMBED Equation.DSMT4  与男生的 EMBED Equation.DSMT4  参加了课外活动小组，剩下的 EMBED Equation.DSMT4  人没有参加．这所小学有男、女生各多少人?
+【考点】分数应用题          【难度】3星          【题型】解答 
+（用假设法）假设男生、女生都有 EMBED Equation.DSMT4  的人参加了课外活动小组，那么共有 EMBED Equation.DSMT4  (人)，比现在多出了 EMBED Equation.DSMT4  (人)，这多出的 EMBED Equation.DSMT4  人即为女生的 EMBED Equation.DSMT4  ，所以女生人数为
+ EMBED Equation.DSMT4  (人)，男生人数为 EMBED Equation.DSMT4  (人)．
+【答案】女生有 EMBED Equation.DSMT4  人，男生有 EMBED Equation.DSMT4  人
+
+把金放在水里称，其重量减轻 EMBED Equation.DSMT4  ，把银放在水里称，其重量减轻 EMBED Equation.DSMT4  ．现有一块金银合金重 EMBED Equation.DSMT4  克，放在水里称共减轻了 EMBED Equation.DSMT4  克，问这块合金含金、银各多少克？
+【考点】分数应用题          【难度】3星          【题型】解答 
+方法一：设合金含金 EMBED Equation.DSMT4  克，则银有 EMBED Equation.DSMT4  克．依题意，列方程得： EMBED Equation.DSMT4  ，
+解得 EMBED Equation.DSMT4  ，所以这块合金中金有 EMBED Equation.DSMT4  克，银有 EMBED Equation.DSMT4  克．
+方法二：本题可以看成金1份＋银1份＝50（克），那么金10份＋银10份=50×10＝500（克），对比分析可以看出：770—500＝270（克）对应金的19—10＝9（份），所以金有270÷9×19＝570（人），银有770—570=200（人）。
+【答案】金有 EMBED Equation.DSMT4  克，银有 EMBED Equation.DSMT4  克
+
+甲、乙两班共有学生100人，甲班的 EMBED Equation.DSMT4  比乙班的 EMBED Equation.DSMT4  少1人，乙班有学生        人．
+【考点】分数应用题          【难度】3星          【题型】解答 
+根据题意可知，甲班人数比乙班人数的 EMBED Equation.DSMT4  少 EMBED Equation.DSMT4  人，那么甲、乙两班人数之和比乙班人数的 EMBED Equation.DSMT4  少 EMBED Equation.DSMT4  人，故乙班人数为 EMBED Equation.DSMT4  人．
+【答案】 EMBED Equation.DSMT4  人
+
+盒子里有红，黄两种玻璃球，红球为黄球个数的 EMBED Equation.DSMT4  ，如果每次取出 EMBED Equation.DSMT4  个红球， EMBED Equation.DSMT4  个黄球，若干次后，盒子里还剩 EMBED Equation.DSMT4  个红球， EMBED Equation.DSMT4  个黄球，那么盒子里原有________个玻璃球．
+【考点】分数应用题          【难度】3星          【题型】解答 
+由于红球与黄球个数比为 EMBED Equation.DSMT4  ，所以若每次取 EMBED Equation.DSMT4  个红球， EMBED Equation.DSMT4  个黄球，则最后剩下的红球与黄球的个数比仍为 EMBED Equation.DSMT4  ，即最后剩下 EMBED Equation.DSMT4  个红球， EMBED Equation.DSMT4  个黄球，而实际上是每次取 EMBED Equation.DSMT4  个红球， EMBED Equation.DSMT4  个黄球，最后剩 EMBED Equation.DSMT4  个红球， EMBED Equation.DSMT4  个黄球，每次少取了3个黄球，最后多剩下45个黄球，所以一共取了 EMBED Equation.DSMT4  次，所以球的总数为 EMBED Equation.DSMT4  个．
+【答案】 EMBED Equation.DSMT4  个
+
+一堆围棋子，黑子的个数是白子的3倍，每次拿5枚黑子，2枚白子，拿了若干次后，白子拿完，还剩11枚黑子．这堆棋子中，共有白子        个．
+【考点】分数应用题          【难度】3星          【题型】解答 
+由于原来黑子的个数是白子的3倍，假如拿的时候每次拿6枚黑子和2枚白子，则当白子拿完的时候黑子也恰好拿完，而现在每次拿5枚黑子，比每次拿6枚少拿1枚，最后还剩下11枚黑子，所以共拿了11次，这堆棋子中共有白子 EMBED Equation.DSMT4  枚．
+【答案】 EMBED Equation.DSMT4  枚
+
+有一块菜地和一块稻田，菜地的一半和稻田的三分之一放在一起是13公顷，稻田的一半和菜地的三分之一合在一起是12公顷。那么这块稻田有多少公顷？
+【考点】分数应用题          【难度】3星          【题型】解答 
+ EMBED Equation.DSMT4  ，整理得到 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，而题目中 EMBED Equation.DSMT4  ，两者对比分析得到，稻田为 EMBED Equation.DSMT4  (公顷)
+【答案】 EMBED Equation.DSMT4  公顷
+
+工厂生产一批产品，原计划15天完成。实际生产时改进了生产工艺，每天生产产品的数量比原计划每天生产产品数量的 EMBED Equation.DSMT4  多10件，结果提前4天完成了生产任务。则这批产品有     件。
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】希望杯，五年级，一试
+设原计划每天生产 EMBED Equation.DSMT4  份，则实际每天生产 EMBED Equation.DSMT4  份加 EMBED Equation.DSMT4  件，而根据题意这批产品共有 EMBED Equation.DSMT4  份，所以实际每天生产 EMBED Equation.DSMT4  份，所以 EMBED Equation.DSMT4  份与 EMBED Equation.DSMT4  份加 EMBED Equation.DSMT4  件的和相同，所以每份就是 EMBED Equation.DSMT4  件，所以这批产品共有 EMBED Equation.DSMT4  件.或用方程来解.
+【答案】 EMBED Equation.DSMT4  件
+
+有若干堆围棋子，每堆棋子数一样多，且每堆中白子都占28％．小明从某一堆中拿走一半棋子，而且拿走的都是黑子，现在，在所有的棋子中，白子将占32％．那么，共有棋子多少堆?
+【考点】分数应用题          【难度】3星          【题型】解答 
+设每堆棋子为100个有x堆棋子，那么每堆中白子为28个，黑子为72个，那走一半棋子且为黑子时，还剩白子为28x个，黑子为（72x—50）个，所以列方程为： EMBED Equation.DSMT4  ,解得 EMBED Equation.DSMT4  ，所以有4堆。
+【答案】有4堆
+
+李家和王家共养了521头牛，李家的牛群中有67%是母牛，而王家的牛群中仅有EMBED Equation.DSMT4是母牛，李家和王家各养了多少头牛？
+【考点】分数应用题          【难度】3星          【题型】解答 
+【关键词】华杯赛，决赛
+李家和王家各养了300头和221头牛． ①李家养牛数的67%是母牛，母牛数应当是整数，67是质数，所以，李家养牛数应当是100的倍数，可能是500、400、300、200或100头，王家养牛数则可能是21、121、221、321和421头． ②王家的牛群中有EMBED Equation.DSMT4是母牛，21、121、221、321和421中仅有221能为13整除，所以，王家养牛数是221头，李家养牛数是300头。
+【答案】王家养牛数是221头，李家养牛数是300头
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+2-2-2.分数应用题（二）.题库	                           教师版                                     page  PAGE 10 of  NUMPAGES 13
+
+
+
+分数应用题（二）
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

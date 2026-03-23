@@ -1,0 +1,201 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+能够利用短除法分解
+整数唯一分解定理：让学生自己初步领悟“任何一个数字都可以表示为 EMBED Equation.DSMT4  的结构，而且表达形式唯一”
+ SHAPE  \* MERGEFORMAT 
+
+一、质因数与分解质因数
+（1）.质因数：如果一个质数是某个数的约数，那么就说这个质数是这个数的质因数.
+（2）.互质数：公约数只有1的两个自然数，叫做互质数.
+（3）.分解质因数：把一个合数用质因数相乘的形式表示出来，叫做分解质因数.
+例如： EMBED Equation.DSMT4  .其中2、3、5叫做30的质因数.又如 EMBED Equation.DSMT4  ，2、3都叫做12的质因数，其中后一个式子叫做分解质因数的标准式，在求一个数约数的个数和约数的和的时候都要用到这个标准式.分解质因数往往是解数论题目的突破口，因为这样可以帮助我们分析数字的特征.
+（4）.分解质因数的方法：短除法
+例如： EMBED Equation.DSMT4  ，（┖是短除法的符号） 所以 EMBED Equation.DSMT4  ；
+二、唯一分解定理
+任何一个大于1的自然数n都可以写成质数的连乘积，即： EMBED Equation.DSMT4  其中为质数， EMBED Equation.DSMT4  为自然数，并且这种表示是唯一的.该式称为n的质因子分解式.
+例如：三个连续自然数的乘积是210，求这三个数.
+分析：∵210=2×3×5×7，∴可知这三个数是5、6和7.
+三、部分特殊数的分解
+ EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  .
+ SHAPE  \* MERGEFORMAT 
+
+模块一、分数的拆分
+算式“ EMBED Equation.DSMT4  ＋ EMBED Equation.DSMT4  ＋ EMBED Equation.DSMT4  ＝1”中，不同的汉字表示不同的自然数，则“希＋望＋杯”＝       。
+
+
+
+
+
+
+ EMBED Equation.DSMT4  个质数的倒数之和是 EMBED Equation.DSMT4  ，则这 EMBED Equation.DSMT4  个质数之和为多少．
+
+
+
+
+
+
+一个分数，分母是 EMBED Equation.DSMT4  ，分子是一个质数．现在有下面两种方法：⑴ 分子和分母各加一个相同的一位数；⑵ 分子和分母各减一个相同的一位数．用其中一种方法组成一个新分数，新分数约分后是 EMBED Equation.DSMT4  ．那么原来分数的分子是多少． 
+
+
+
+
+
+
+将1到9这9个数字在算式 EMBED Equation.DSMT4  的每一个括号内各填入一个数字，使得算式成立，并且要求所填每一个括号内数字均为质数? 
+
+
+
+
+
+
+求满足条件 EMBED Equation.DSMT4  的a、b的值(a、b都是四位数)． 
+
+
+
+
+
+
+
+若 EMBED Equation.DSMT4  ，其中a、b都是四位数，且a<b，那么满足上述条件的所有数对（a,b）是       
+
+在下面的括号里填上不同的自然数，使等式成立．
+（1） EMBED Equation.DSMT4  ；
+（2） EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+如果 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  均为正整数，则 EMBED Equation.DSMT4  最大是多少？
+
+
+
+
+
+ EMBED Equation.DSMT4  
+
+
+
+
+
+在下面的括号里填上不同的自然数，使等式成立．
+ EMBED Equation.DSMT4  
+
+
+
+
+
+
+已知等式 EMBED Equation.DSMT4  其中a，b是非零自然数，求a+b的最大值。
+
+
+
+模块四、分解质因数的综合应用
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  都是整数， EMBED Equation.DSMT4  大于 EMBED Equation.DSMT4  ，且 EMBED Equation.DSMT4  ,那么 EMBED Equation.DSMT4  的最大值为          ，最小值为          。
+
+
+
+写出所有数字和为11，数字乘积为20的四位偶数：________．
+
+
+
+
+
+
+在做一道两位数乘以两位数的乘法题时，小马虎把一乘数中的数字5看成8，由此得乘积为1872．那么原来的乘积是多少? 
+
+
+
+
+
+
+两个学生抄写同一个乘法算式，两个乘数都是两位数，他们各抄错了一个数字，于是得到两个不同的算式，但巧合的是，他们计算的结果都是936.如果正确的乘积不能被6整除，那么它等于多少？ 
+
+
+
+
+
+
+
+在射箭运动中，每射一箭得到的环数或者是“0”(脱靶)，或者是不超过10的自然数．甲、乙两名运动员各射了5箭，每人5箭得到的环数的积都是1764，但是甲的总环数比乙少4环．求甲、乙的总环数各是多少？ 
+
+
+
+
+
+
+某校师生为贫困地区捐款1995元．这个学校共有35名教师，14个教学班．各班学生人数相同且多于30人不超过45人．如果平均每人捐款的钱数是整数，那么平均每人捐款多少元? 
+
+
+
+
+
+
+
+张老师带领同学们去种树，学生的人数恰好等分成三组.已知老师和学生共种树312棵，老师与学生每人种的树一样多，并且不超过10棵.问：一共有多少学生？每人种了几棵树？
+
+
+
+
+
+
+
+某班同学在班主任老师带领下去种树，学生恰好平均分成三组，如果老师与学生每人种树一样多，共种了1073棵，那么平均每人种了棵树？
+
+
+
+
+
+
+幼儿园里给小朋友分苹果，420个苹果正好均分。但今天刚好又新人园一位小朋友，这样每个小朋友就要少分2个苹果。原来有    个小朋友。
+
+
+
+
+
+
+
+2006个弹珠，平均分给若干个人，正好分完．若有1人退出，不参加分球，并且弹珠增加10个，则每人可以多分8个．原来有             人． 
+
+
+
+
+
+
+
+已知， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  这 EMBED Equation.DSMT4  个质数互不相同，并且符合下面的算式： EMBED Equation.DSMT4  ，那么，这 EMBED Equation.DSMT4  个数当中最大的数至多是        。
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+5-3-4.分解质因数.题库	                                  学生版                           page  PAGE 5 of  NUMPAGES 5
+
+
+
+5-3-4.分解质因数
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

@@ -1,0 +1,193 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+学习余数的三大定理及综合运用
+理解弃9法，并运用其解题
+
+ SHAPE  \* MERGEFORMAT 
+一、三大余数定理：
+1.余数的加法定理
+a与b的和除以c的余数，等于a,b分别除以c的余数之和，或这个和除以c的余数。
+例如：23，16除以5的余数分别是3和1，所以23+16＝39除以5的余数等于4，即两个余数的和3+1.当余数的和比除数大时，所求的余数等于余数之和再除以c的余数。
+例如：23，19除以5的余数分别是3和4，所以23+19＝42除以5的余数等于3+4=7除以5的余数为2
+2.余数的加法定理
+a与b的差除以c的余数，等于a,b分别除以c的余数之差。
+例如：23，16除以5的余数分别是3和1，所以23－16＝7除以5的余数等于2，两个余数差3－1＝2.
+当余数的差不够减时时，补上除数再减。
+例如：23，14除以5的余数分别是3和4，23－14＝9除以5的余数等于4，两个余数差为3＋5－4＝4
+3.余数的乘法定理
+a与b的乘积除以c的余数，等于a,b分别除以c的余数的积，或者这个积除以c所得的余数。
+例如：23，16除以5的余数分别是3和1，所以23×16除以5的余数等于3×1＝3。
+当余数的和比除数大时，所求的余数等于余数之积再除以c的余数。
+例如：23，19除以5的余数分别是3和4，所以23×19除以5的余数等于3×4除以5的余数，即2.
+乘方：如果a与b除以m的余数相同，那么 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  除以m的余数也相同．
+二、弃九法原理
+在公元前9世纪，有个印度数学家名叫花拉子米，写有一本《花拉子米算术》，他们在计算时通常是在一个铺有沙子的土板上进行，由于害怕以前的计算结果丢失而经常检验加法运算是否正确，他们的检验方式是这样进行的：
+例如：检验算式 EMBED Equation.DSMT4  
+1234除以9的余数为1
+1898除以9的余数为8
+18922除以9的余数为4
+678967除以9的余数为7
+178902除以9的余数为0
+这些余数的和除以9的余数为2
+而等式右边和除以9的余数为3，那么上面这个算式一定是错的。
+上述检验方法恰好用到的就是我们前面所讲的余数的加法定理，即如果这个等式是正确的，那么左边几个加数除以9的余数的和再除以9的余数一定与等式右边和除以9的余数相同。
+而我们在求一个自然数除以9所得的余数时，常常不用去列除法竖式进行计算，只要计算这个自然数的各个位数字之和除以9的余数就可以了，在算的时候往往就是一个9一个9的找并且划去，所以这种方法被称作“弃九法”。
+所以我们总结出弃九发原理：任何一个整数模9同余于它的各数位上数字之和。
+以后我们求一个整数被9除的余数，只要先计算这个整数各数位上数字之和，再求这个和被9除的余数即可。
+利用十进制的这个特性，不仅可以检验几个数相加，对于检验相乘、相除和乘方的结果对不对同样适用
+注意：弃九法只能知道原题一定是错的或有可能正确，但不能保证一定正确。
+例如：检验算式9+9=9时，等式两边的除以9的余数都是0，但是显然算式是错误的
+但是反过来，如果一个算式一定是正确的，那么它的等式2两端一定满足弃九法的规律。这个思想往往可以帮助我们解决一些较复杂的算式迷问题。
+
+ SHAPE  \* MERGEFORMAT 
+
+模块一、余数性质的综合运用
+
+ EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的和除以7的余数是________．
+【考点】余数性质的综合运用  【难度】3星   【题型】填空
+【关键词】南京市，少年数学智力冬令营 
+找规律．用7除2， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，…的余数分别是2，4，1，2，4，1，2，4，1，…,2的个数是3的倍数时，用7除的余数为1；2的个数是3的倍数多1时，用7除的余数为2；2的个数是3的倍数多2时，用7除的余数为4．因为 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  除以7余4．又两个数的积除以7的余数，与两个数分别除以7所得余数的积相同．而2003除以7余1，所以 EMBED Equation.DSMT4  除以7余1．故 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的和除以7的余数是 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  除以7的余数是多少？
+【考点】余数性质的综合运用  【难度】3星   【题型】解答
+ EMBED Equation.DSMT4  除以7的余数为1， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，其除以7的余数为： EMBED Equation.DSMT4  ；2008除以7的余数为6，则 EMBED Equation.DSMT4  除以7的余数等于 EMBED Equation.DSMT4  除以7的余数，为1；所以 EMBED Equation.DSMT4  除以7的余数为： EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  被 EMBED Equation.DSMT4  除所得的余数是多少？
+【考点】余数性质的综合运用  【难度】3星   【题型】解答
+31被13除所得的余数为5，当n取1，2，3， EMBED Equation.DSMT4  时 EMBED Equation.DSMT4  被13除所得余数分别是5，12，8，1，5，12，8，1 EMBED Equation.DSMT4  以4为周期循环出现，所以 EMBED Equation.DSMT4  被13除的余数与 EMBED Equation.DSMT4  被13除的余数相同，余12，则 EMBED Equation.DSMT4  除以13的余数为12；
+30被13除所得的余数是4，当n取1，2，3， EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  被13除所得的余数分别是4，3，12，9，10，1，4，3，12，9，10， EMBED Equation.DSMT4  以6为周期循环出现，所以 EMBED Equation.DSMT4  被13除所得的余数等于 EMBED Equation.DSMT4  被13除所得的余数，即4，故 EMBED Equation.DSMT4  除以13的余数为4；
+所以 EMBED Equation.DSMT4  被13除所得的余数是 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  为非零自然数，且 EMBED Equation.DSMT4  被 EMBED Equation.DSMT4  整除。 EMBED Equation.DSMT4  的最小值为        。
+【考点】余数性质的综合运用   【难度】4星   【题型】填空
+【关键词】走美杯，6年级，决赛，第7题，10分
+ EMBED Equation.DSMT4  除以 EMBED Equation.DSMT4  的余数是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  除以 EMBED Equation.DSMT4  的余数是 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  能被 EMBED Equation.DSMT4  整除，经试算， EMBED Equation.DSMT4  最小值为 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  除以10所得的余数为多少？
+【考点】余数的加减法定理  【难度】3星   【题型】解答
+求结果除以10的余数即求其个位数字．从1到2005这2005个数的个位数字是10个一循环的，而对一个数的幂方的个位数，我们知道它总是4个一循环的，因此把所有加数的个位数按每20个(20是4和10的最小公倍数)一组，则不同组中对应的个位数字应该是一样的．首先计算 EMBED Equation.DSMT4  的个位数字，
+为 EMBED Equation.DSMT4  的个位数字，为4，
+由于2005个加数共可分成100组另5个数，100组的个位数字和是 EMBED Equation.DSMT4  的个位数即0，另外5个数为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，它们和的个位数字是 EMBED Equation.DSMT4  的个位数 3，所以原式的个位数字是3，即除以10的余数是3．
+【答案】 EMBED Equation.DSMT4  
+
+已知n是正整数，规定 EMBED Equation.DSMT4  ，
+令 EMBED Equation.DSMT4  ，则整数m除以2008的余数为多少？
+【考点】余数性质的综合运用  【难度】3星   【题型】解答
+【关键词】清华附中
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+2008能够整除 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  的余数是2007．
+【答案】 EMBED Equation.DSMT4  
+
+设n为正整数， EMBED Equation.DSMT4  ，k被7除余数为2，k被11除余数为3，求n的最小值．
+【考点】余数性质的综合运用  【难度】3星   【题型】解答
+2004被7除余数为2，被11除余数也为2，所以 EMBED Equation.DSMT4  被7除余数为2，被11除余数为3．由于 EMBED Equation.DSMT4  被7除余2，而 EMBED Equation.DSMT4  被7除余1，所以n除以3的余数为1；由于 EMBED Equation.DSMT4  被11除余3， EMBED Equation.DSMT4  被11除余1，所以n除以10的余数为8．可见 EMBED Equation.DSMT4  是3和10的公倍数，最小为 EMBED Equation.DSMT4  ，所以n的最小值为28．
+【答案】 EMBED Equation.DSMT4  
+
+试求不大于100，且使 EMBED Equation.DSMT4  能被11整除的所有自然数n的和．
+【考点】余数性质的综合运用  【难度】3星   【题型】解答
+通过逐次计算，可以求出 EMBED Equation.DSMT4  被11除的余数，依次为： EMBED Equation.DSMT4  为3， EMBED Equation.DSMT4  为9， EMBED Equation.DSMT4  为5， EMBED Equation.DSMT4  为4， EMBED Equation.DSMT4  为1，…，因而 EMBED Equation.DSMT4  被11除的余数5个构成一个周期：3，9，5，4，1，3，9，5，4，1，……；类似地，可以求出 EMBED Equation.DSMT4  被11除的余数10个构成一个周期：7，5，2，3，10，4，6，9，8，1，……；于是 EMBED Equation.DSMT4  被11除的余数也是10个构成一个周期：3，7，0，0，4，0，8，7，5，6，……；这就表明，每一个周期中，只有第3、4、6个这三个数满足题意，即 EMBED Equation.DSMT4  时 EMBED Equation.DSMT4  能被11整除，所以，所有满足条件的自然数n的和为：
+ EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+对任意的自然数n，证明 EMBED Equation.DSMT4  能被1897整除． 
+【考点】余数性质的综合运用  【难度】3星   【题型】解答
+略
+【答案】 EMBED Equation.DSMT4  ，7与271互质，因为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以， EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  能被7整除．又因为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以
+ EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  能被271整除．因为7与271互质，所以 EMBED Equation.DSMT4  能被1897整除．
+
+若 EMBED Equation.DSMT4  为自然数，证明 EMBED Equation.DSMT4  ．
+【考点】余数性质的综合运用  【难度】3星   【题型】解答
+略
+【答案】 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的奇偶性相同，所以 EMBED Equation.DSMT4  ． EMBED Equation.DSMT4  ，如果 EMBED Equation.DSMT4   能被5整除，那么 EMBED Equation.DSMT4  ；如果 EMBED Equation.DSMT4  不能被5整除，那么 EMBED Equation.DSMT4  被5除的余数为1、2、3或者4， EMBED Equation.DSMT4  被5除的余数为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  被5除的余数，即为1、16、81、256被5除的余数，而这四个数除以5均余1，所以不管 EMBED Equation.DSMT4  为多少， EMBED Equation.DSMT4  被5除的余数为1，而 EMBED Equation.DSMT4  ，即14个 EMBED Equation.DSMT4  相乘，所以 EMBED Equation.DSMT4  除以5均余1，则 EMBED Equation.DSMT4  能被5整除，有 EMBED Equation.DSMT4  ．所以 EMBED Equation.DSMT4  ．由于2与5互质，所以 EMBED Equation.DSMT4  ．
+
+有一位奥运会志愿者，向看台上的一百名观众按顺序发放编号1，2，3，……100，同时还向每位观众赠送一个单色喇叭．他希望如果两位观众的编号之差是质数，那么他们拿到的喇叭就是不同颜色的．为了实现他自己的愿望，他最少要准备            种颜色的喇叭．
+【考点】余数性质的综合运用   【难度】4星   【题型】填空
+【关键词】迎春杯，五年级,初赛，第11题
+编号 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  这四个编号两两之间的差都是质数，所以这四个编号的观众应该使用不同颜色的喇叭．所以他最少应该准备 EMBED Equation.DSMT4  种不同颜色的喇叭，然后按编号被 EMBED Equation.DSMT4  除后的余数分派不同颜色喇叭．
+【答案】 EMBED Equation.DSMT4  种
+
+模块二、弃九法
+
+将1至2008这2008个自然数，按从小到大的次序依次写出，得一个多位数：12345678910111213 EMBED Equation.DSMT4  20072008，试求这个多位数除以9的余数．
+【考点】弃九法  【难度】3星   【题型】解答
+以19992000这个八位数为例，它被9除的余数等于 EMBED Equation.DSMT4  被9除的余数，但是由于1999与 EMBED Equation.DSMT4  被9除的余数相同，2000与 EMBED Equation.DSMT4  被9除的余数相同，所以19992000就与 EMBED Equation.DSMT4  被9除的余数相同．由此可得，从1开始的自然数12345678910111213 EMBED Equation.DSMT4  20072008被9除的余数与前2008个自然数之和除以9的余数相同．根据等差数列求和公式，这个和为： EMBED Equation.DSMT4  ，它被9除的余数为1．另外还可以利用连续9个自然数之和必能被9整除这个性质，将原多位数分成123456789，101112131415161718，……，199920002001200220032004200520062007，2008等数，可见它被9除的余数与2008被9除的余数相同．因此，此数被9除的余数为1．
+【答案】1
+
+连续写出从 EMBED Equation.DSMT4  开始的自然数，写到 EMBED Equation.DSMT4  时停止，得到一个多位数： EMBED Equation.DSMT4  ，请说明：这个多位数除以 EMBED Equation.DSMT4  ，得到的余数是几？为什么？
+【考点】弃九法  【难度】3星   【题型】解答
+【关键词】希望杯
+因为连续 EMBED Equation.DSMT4  个自然数可以被 EMBED Equation.DSMT4  整除，而且最后一个自然数都是 EMBED Equation.DSMT4  的倍数，因为 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的倍数，所以 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的倍数，又因为
+ EMBED Equation.DSMT4  ，所以
+ EMBED Equation.DSMT4  除以 EMBED Equation.DSMT4  ，得到的余数是 EMBED Equation.DSMT4  ．
+【答案】0
+
+将 EMBED Equation.DSMT4  依次写到第1997个数字，组成一个1997位数，那么此数除以9的余数是 ________．
+【考点】弃九法  【难度】3星   【题型】填空
+【关键词】小学数学奥林匹克
+本题第一步是要求出第1997个数字是什么，再对数字求和． EMBED Equation.DSMT4  共有9个数字， EMBED Equation.DSMT4  共有90个两位数，共有数字： EMBED Equation.DSMT4   (个),  EMBED Equation.DSMT4  共900个三位数，共有数字： EMBED Equation.DSMT4   (个),所以数连续写，不会写到999,从100开始是3位数，每三个数字表示一个数， EMBED Equation.DSMT4  ，即有602个三位数，第603个三位数只写了它的百位和十位．从100开始的第602个三位数是701，第603个三位数是9，其中2未写出来．因为连续9个自然数之和能被9整除，所以排列起来的9个自然数也能被9整除，702个数能分成的组数是： EMBED Equation.DSMT4   (组)，依次排列后，它仍然能被9整除，但702中2未写出来，所以余数为 EMBED Equation.DSMT4  ．
+【答案】7
+
+有2个三位数相乘的积是一个五位数，积的后四位是1031，第一个数各个位的数字之和是10，第二个数的各个位数字之和是8，求两个三位数的和。
+【考点】弃九法  【难度】3星   【题型】解答
+本题条件仅给出了两个乘数的数字之和，同时发现乘积的一部分已经给出，即乘积的一部分数字之和已经给出，我们可以采用弃九法原理的倒推来构造出原三位数。因为这是一个一定正确的算式，所以一定可以满足弃九法的条件，两个三位数除以9的余数分别为1和8，所以等式一边除以9的余数为8，那么□1031除以9的余数也必须为8，□只能是3.将31031分解质因数发现仅有一种情况可以满足是两个三位数的乘积，
+即 EMBED Equation.DSMT4  
+所以两个三位数是143和217，那么两个三位数的和是360
+【答案】360
+
+设 EMBED Equation.DSMT4  的各位数字之和为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的各位数字之和为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的各位数字之和为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的各位数字之和为 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4              
+【考点】弃九法  【难度】3星   【题型】填空
+由于一个数除以9的余数与它的各位数字之和除以9的余数相同，所以 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4   除以9都同余，而2009除以9的余数为2，则 EMBED Equation.DSMT4  除以9的余数与 EMBED Equation.DSMT4  除以9的余数相同，而 EMBED Equation.DSMT4  除以9的余数为1，所以 EMBED Equation.DSMT4  除以9的余数为 EMBED Equation.DSMT4  除以9的余数，即为5．
+另一方面，由于 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  的位数不超过8036位，那么它的各位数字之和不超过 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ；那么 EMBED Equation.DSMT4  的各位数字之和 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的各位数字之和 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  小于18且除以9的余数为5，那么 EMBED Equation.DSMT4  为5或14， EMBED Equation.DSMT4  的各位数字之和为5，即 EMBED Equation.DSMT4  ．
+【答案】5
+
+3个三位数乘积的算式 EMBED Equation.DSMT4   (其中 EMBED Equation.DSMT4  )， 在校对时，发现右边的积的数字顺序出现错误，但是知道最后一位6是正确的，问原式中的 EMBED Equation.DSMT4  是多少？
+【考点】弃九法  【难度】3星   【题型】解答
+【关键词】华杯赛
+由于 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，                             于是 EMBED Equation.DSMT4  ，从而(用 EMBED Equation.DSMT4  代入上式检验)
+ EMBED Equation.DSMT4  …(1)，对 EMBED Equation.DSMT4  进行讨论：
+如果 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  …(2)，又 EMBED Equation.DSMT4  的个位数字是6，所以 EMBED Equation.DSMT4  的个位数字为4， EMBED Equation.DSMT4  可能为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，其中只有 EMBED Equation.DSMT4  符合(2)，经检验只有 EMBED Equation.DSMT4   符合题意．
+如果 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  …(3)，又 EMBED Equation.DSMT4  的个位数字为2或7，则 EMBED Equation.DSMT4  可能为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，其中只有 EMBED Equation.DSMT4  符合(3)，经检验， EMBED Equation.DSMT4  不合题意．
+如果 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  …(4)，则 EMBED Equation.DSMT4  可能为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，其中没有符合(4)的 EMBED Equation.DSMT4  ．
+如果 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，因此这时 EMBED Equation.DSMT4  不可能符合题意．综上所述， EMBED Equation.DSMT4  是本题唯一的解．
+【答案】983
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+5-5-4.余数性质（二）.题库	                        教师版                           page  PAGE 5 of  NUMPAGES 6
+
+
+
+5-5-4.余数性质（二）
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

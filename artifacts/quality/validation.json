@@ -1,0 +1,20 @@
+{
+  "completeness": {
+    "topic_total": 179,
+    "concept_total": 179,
+    "problem_total": 1303,
+    "explanation_total": 179,
+    "learning_objectives_coverage_pct": 92.18,
+    "common_mistakes_coverage_pct": 64.25,
+    "method_tags_coverage_pct": 100.0,
+    "required_objects_ready": true,
+    "fields_ready": true
+  },
+  "consistency": {
+    "checked_problem_count": 1303,
+    "answer_present_rate_pct": 92.48,
+    "analysis_present_rate_pct": 80.74,
+    "answer_analysis_consistency_rate_pct": 79.51,
+    "logic_consistent_ready": true
+  }
+}

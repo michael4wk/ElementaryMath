@@ -1,0 +1,6 @@
+{"ts": "2026-03-23T08:24:35.204789+00:00", "trace_id": "2f0a45f4aae3474599e62757f73932ed", "method": "GET", "path": "/health", "status": 200}
+{"ts": "2026-03-23T08:24:35.205455+00:00", "trace_id": "a17ea7a8a34d4e72b5a9289b3aee1e51", "method": "GET", "path": "/topics?audience=teacher&limit=1", "status": 200}
+{"ts": "2026-03-23T08:24:35.206283+00:00", "trace_id": "775f430e8333489cb6add6e65beeff7a", "method": "GET", "path": "/problems?audience=student&limit=1", "status": 200}
+{"ts": "2026-03-23T08:24:35.209282+00:00", "trace_id": "a8e5ec7af0a94b4384d912383ae87d99", "method": "POST", "path": "/search", "status": 200}
+{"ts": "2026-03-23T08:24:35.209723+00:00", "trace_id": "d6c1f4d6e9c143e7b723894e3ea045ec", "method": "GET", "path": "/graph/validation", "status": 200}
+{"ts": "2026-03-23T08:24:35.210095+00:00", "trace_id": "68cee09f44e94c9ca9908a4feb07246a", "method": "GET", "path": "/quality/summary", "status": 200}

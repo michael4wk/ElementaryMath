@@ -1,0 +1,216 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE  \* MERGEFORMAT 
+
+1.使学生正确理解组合的意义；正确区分排列、组合问题；
+2.了解组合数的意义，能根据具体的问题，写出符合要求的组合；
+3.掌握组合的计算公式以及组合数与排列数之间的关系；
+4.会分析与数字有关的计数问题，以及与其他专题的综合运用，培养学生的抽象能力和逻辑思维能力；
+通过本讲的学习，对组合的一些计数问题进行归纳总结，重点掌握组合的联系和区别，并掌握一些组合技巧，如排除法、插板法等．
+
+ SHAPE  \* MERGEFORMAT 
+
+一、组合问题
+日常生活中有很多“分组”问题．如在体育比赛中，把参赛队分为几个组，从全班同学中选出几人参加某项活动等等．这种“分组”问题，就是我们将要讨论的组合问题，这里，我们将着重研究有多少种分组方法的问题．
+一般地，从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个( EMBED Equation.DSMT4  )元素组成一组不计较组内各元素的次序，叫做从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个元素的一个组合．
+    从排列和组合的定义可以知道，排列与元素的顺序有关，而组合与顺序无关．如果两个组合中的元素完全相同，那么不管元素的顺序如何，都是相同的组合，只有当两个组合中的元素不完全相同时，才是不同的组合．
+从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个元素( EMBED Equation.DSMT4  )的所有组合的个数，叫做从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个不同元素的组合数．记作 EMBED Equation.DSMT4  ．
+一般地，求从 EMBED Equation.DSMT4  个不同元素中取出的 EMBED Equation.DSMT4  个元素的排列数 EMBED Equation.DSMT4  可分成以下两步：
+第一步：从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个元素组成一组，共有 EMBED Equation.DSMT4  种方法；
+　　第二步：将每一个组合中的 EMBED Equation.DSMT4  个元素进行全排列，共有 EMBED  \* MERGEFORMAT 种排法．
+根据乘法原理，得到 EMBED Equation.DSMT4  ．
+因此，组合数 EMBED Equation.3  ．
+这个公式就是组合数公式．
+
+二、组合数的重要性质
+
+一般地，组合数有下面的重要性质： EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )
+这个公式的直观意义是： EMBED Equation.DSMT4  表示从 EMBED Equation.DSMT4  个元素中取出 EMBED Equation.DSMT4  个元素组成一组的所有分组方法． EMBED Equation.DSMT4  表示从 EMBED Equation.DSMT4  个元素中取出( EMBED Equation.DSMT4  )个元素组成一组的所有分组方法．显然，从 EMBED Equation.DSMT4  个元素中选出 EMBED Equation.DSMT4  个元素的分组方法恰是从 EMBED Equation.DSMT4  个元素中选 EMBED Equation.DSMT4  个元素剩下的( EMBED Equation.DSMT4  )个元素的分组方法．
+例如，从 EMBED Equation.DSMT4  人中选 EMBED Equation.DSMT4  人开会的方法和从 EMBED Equation.DSMT4  人中选出 EMBED Equation.DSMT4  人不去开会的方法是一样多的，即 EMBED Equation.DSMT4  ．
+规定 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+
+ SHAPE  \* MERGEFORMAT 
+
+模块一、组合之计算问题
+
+计算：⑴  EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ；⑵  EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ． 
+【考点】组合之基本运用          【难度】1星          【题型】解答 
+⑴  EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+⑵  EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+【小结】注意到上面的结果中，有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+【答案】⑴  EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+⑵  EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+
+计算：⑴  EMBED Equation.DSMT4  ；⑵  EMBED Equation.DSMT4  ；⑶  EMBED Equation.DSMT4  ． 
+【考点】组合之基本运用          【难度】1星          【题型】解答 
+⑴  EMBED Equation.DSMT4  ；
+⑵  EMBED Equation.DSMT4  ； ⑶  EMBED Equation.DSMT4  ．
+【答案】⑴ EMBED Equation.DSMT4               ⑵ EMBED Equation.DSMT4             ⑶  EMBED Equation.DSMT4  ．
+
+计算：⑴  EMBED Equation.DSMT4  ；⑵  EMBED Equation.DSMT4  ；⑶  EMBED Equation.DSMT4  ． 
+【考点】组合之基本运用          【难度】1星          【题型】解答 
+⑴  EMBED Equation.DSMT4  
+⑵  EMBED Equation.DSMT4  
+⑶  EMBED Equation.DSMT4  ．
+【答案】⑴  EMBED Equation.DSMT4  
+⑵  EMBED Equation.DSMT4  
+⑶  EMBED Equation.DSMT4  ．
+
+模块二、组合之体育比赛中的数学
+
+某校举行排球单循环赛，有 EMBED Equation.DSMT4  个队参加．问：共需要进行多少场比赛？ 
+【考点】组合之基本运用          【难度】1星          【题型】解答 
+因为比赛是单循环制的，所以， EMBED Equation.DSMT4  个队中的每两个队都要进行一场比赛，并且比赛的场次只与两个队的选取有关而与两个队选出的顺序无关．所以，这是一个在 EMBED Equation.DSMT4  个队中取 EMBED Equation.DSMT4  个队的组合问题．
+由组合数公式知，共需进行 EMBED Equation.DSMT4  (场)比赛．
+【答案】 EMBED Equation.DSMT4  
+
+芳草地小学举行足球单循环赛，有 EMBED Equation.DSMT4  个队参加．问：共需要进行多少场比赛？ 
+【考点】组合之基本运用          【难度】1星          【题型】解答 
+由组合数公式知，共需进行 EMBED Equation.DSMT4  (场)比赛．
+【答案】 EMBED Equation.DSMT4  
+
+六个人传球，每两人之间至多传一次，那么最多共进行　  次传球．
+【考点】组合之基本运用             【难度】2星   【题型】填空
+【关键词】迎春杯，三年级，初赛，7题
+本题是一道比赛场数计数问题，“每两个人之间至多传一次”，让6个人最多次地传球，则是5＋4＋3＋2＋1＝15（次）.但要看是否可以传回去，在传递过程中两人是否重复.15条线，代表传球15次，根据一笔画问题，行不通，应减少奇数点的个数，共有6个奇数点，应该去掉两条直线，也就是去掉4个奇数点，还剩下2个奇数点，就可以传递回来了.所以答案为5＋4＋3＋2＋1－2＝13（次）.
+
+【答案】 EMBED Equation.DSMT4  次
+
+一批象棋棋手进行循环赛，每人都与其他所有的人赛一场，根据积分决出冠军，循环赛共要进行78场，那么共有多少人参加循环赛？
+【考点】组合之基本运用          【难度】2星          【题型】解答 
+从若干人中选出 EMBED Equation.DSMT4  人比赛，与选出的先后顺序无关，这是一个组合问题．依题意，假设有 EMBED Equation.DSMT4  个人参加循环赛，应该有 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，即一共有 EMBED Equation.DSMT4  人参加循环赛．
+【答案】 EMBED Equation.DSMT4  
+
+某校举行男生乒乓球比赛，比赛分成3个阶段进行，第一阶段：将参加比赛的48名选手分成8个小组，每组6人，分别进行单循环赛；第二阶段：将8个小组产生的前2名共16人再分成 EMBED Equation.DSMT4  个小组，每组 EMBED Equation.DSMT4  人，分别进行单循环赛；第三阶段：由4个小组产生的 EMBED Equation.DSMT4  个第 EMBED Equation.DSMT4  名进行 EMBED Equation.DSMT4  场半决赛和 EMBED Equation.DSMT4  场决赛，确定 EMBED Equation.DSMT4  至 EMBED Equation.DSMT4  名的名次．问：整个赛程一共需要进行多少场比赛？ 
+【考点】组合之基本运用          【难度】2星          【题型】解答 
+第一阶段中，每个小组内部的 EMBED Equation.DSMT4  个人每 EMBED Equation.DSMT4  人要赛一场，组内赛 EMBED Equation.DSMT4  场，共 EMBED Equation.DSMT4  个小组，有 EMBED Equation.DSMT4  场；
+第二阶段中，每个小组内部 EMBED Equation.DSMT4  人中每 EMBED Equation.DSMT4  人赛一场，组内赛 EMBED Equation.DSMT4  场，共 EMBED Equation.DSMT4  个小组，有 EMBED Equation.DSMT4  场；
+第三阶段赛 EMBED Equation.DSMT4  场．
+根据加法原理，整个赛程一共有 EMBED Equation.DSMT4  场比赛．
+【答案】 EMBED Equation.DSMT4  
+
+有8个队参加比赛，采用如下图所示的淘汰制方式．问在比赛前抽签时，可以得到多少种实质不同的比赛安排表？ 
+
+【考点】组合之基本运用          【难度】3星          【题型】解答 
+ (法1)先选4人，再考虑组合的方法．
+8选4有 EMBED Equation.DSMT4  种组合，其中实质不同的有一半，即 EMBED Equation.DSMT4  种；
+对每一边的4个人，共有实质性不同的 EMBED Equation.DSMT4  种，
+所以，可以得到 EMBED Equation.DSMT4  种实质不同的比赛安排表．
+
+(法2)先考虑所有情况，再考虑重复情况
+首先是 EMBED Equation.DSMT4  
+考虑到实质相同：1、2；3、4；5、6；7、8；一、二；三、四； EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，
+以上7组均可交换，即每一种实际上重复计算了 EMBED Equation.DSMT4  次，答案为： EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+模块三、组合之数字问题
+
+从分别写有 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的五张卡片中任取两张，做成一道两个一位数的乘法题，问：
+ ⑴ 有多少个不同的乘积？
+⑵ 有多少个不同的乘法算式？ 
+【考点】组合之基本运用          【难度】3星          【题型】解答 
+⑴ 要考虑有多少个不同乘积．由于只要从 EMBED Equation.DSMT4  张卡片中取两张，就可以得到一个乘积，所以，有多少个乘积只与所取的卡片有关，而与卡片取出的顺序无关，所以这是一个组合问题．
+由组合数公式，共有 EMBED Equation.DSMT4  (个)不同的乘积．
+⑵ 要考虑有多少个不同的乘法算式，它不仅与两张卡片上的数字有关，而且与取到两张卡片的顺序有关，所以这是一个排列问题．
+由排列数公式，共有 EMBED Equation.DSMT4  (种)不同的乘法算式．
+【答案】⑴ EMBED Equation.DSMT4                ⑵ EMBED Equation.DSMT4  
+
+9、8、7、6、5、4、3、2、1、0这10个数字中划去7个数字，一共有多少种方法？ 
+【考点】组合之基本运用          【难度】2星          【题型】解答 
+相当于在10个数字选出7个划去，一共有10×9×8×7×6×5×4÷（7×6×5×4×3×2×1）=10×9×8÷（3×2×1）=120种．
+【答案】120
+
+从分别写有 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的八张卡片中任取两张，做成一道两个一位数的加法题，有多少种不同的和？ 
+【考点】组合之基本运用          【难度】2星          【题型】解答 
+ EMBED Equation.DSMT4  (种)．
+【答案】 EMBED Equation.DSMT4  
+
+有红、黄、蓝、绿四种颜色的卡片各5张，且每种颜色的卡片上分别标有1，2，3，4，5，从这些卡片中取出5张，要求1、2、3、4、5各一张，但四种颜色都要有，求共有________种取法？
+【考点】组合之基本运用   【难度】3星   【题型】填空
+【关键词】学而思杯，4年级，第14题
+四种颜色都有，则有两个数是同一种颜色即可，其它三个数字和三种颜色一一对应。 EMBED Equation.DSMT4  种
+【答案】240种
+
+在 EMBED Equation.DSMT4  中任意取出两个不同的数相加，其和是偶数的共有多少种不同的取法？ 
+【考点】组合之基本运用          【难度】3星          【题型】解答 
+两个数的和是偶数，通过前面刚刚学过的奇偶分析法，这两个数必然同是奇数或同是偶数，而取出的两个数与顺序无关，所以是组合问题．
+从 EMBED Equation.DSMT4  个偶数中取出 EMBED Equation.DSMT4  个，有 EMBED Equation.DSMT4  (种)取法；
+从 EMBED Equation.DSMT4  个奇数中取出 EMBED Equation.DSMT4  个，也有 EMBED Equation.DSMT4  (种)取法．
+根据加法原理，一共有 EMBED Equation.DSMT4  (种)不同的取法．
+【小结】在本题中，对两个数的和限定了条件．不妨对这个条件进行分类，如把和为偶数分成两奇数相加或两偶数相加．这样可以把问题简化．
+【答案】 EMBED Equation.DSMT4  
+
+从 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、……、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  这 EMBED Equation.DSMT4  个数中，选取两个不同的数，使其和为偶数的选法总数是多少？ 
+【考点】组合之基本运用          【难度】3星          【题型】解答 
+ EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、……、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  中有 EMBED Equation.DSMT4  个奇数， EMBED Equation.DSMT4  个偶数，从 EMBED Equation.DSMT4  个数中任取 EMBED Equation.DSMT4  个数的方法有： EMBED Equation.DSMT4  (种)，所以选法总数有： EMBED Equation.DSMT4  (种)．
+【答案】 EMBED Equation.DSMT4  
+
+一个盒子装有 EMBED Equation.DSMT4  个编号依次为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的球，从中摸出 EMBED Equation.DSMT4  个球，使它们的编号之和为奇数，则不同的摸法种数是多少？ 
+【考点】组合之基本运用          【难度】3星          【题型】解答 
+ EMBED Equation.DSMT4  个编号中 EMBED Equation.DSMT4  奇 EMBED Equation.DSMT4  偶，要使 EMBED Equation.DSMT4  个球的编号之和为奇数，有以下三种情形：
+⑴  EMBED Equation.DSMT4  奇 EMBED Equation.DSMT4  偶，这时对奇数只有 EMBED Equation.DSMT4  种选择，对偶数有 EMBED Equation.DSMT4  种选择．由乘法原理，有 EMBED Equation.DSMT4  (种)选择；
+⑵  EMBED Equation.DSMT4  奇 EMBED Equation.DSMT4  偶，这时对奇数有 EMBED Equation.DSMT4  (种)选择，对偶数也有 EMBED Equation.DSMT4  (种)选择．由乘法原理，有 EMBED Equation.DSMT4  (种)选择；
+⑶  EMBED Equation.DSMT4  奇 EMBED Equation.DSMT4  偶，这时对奇数有 EMBED Equation.DSMT4  种选择，对偶数只有 EMBED Equation.DSMT4  种选择．由乘法原理，
+　 有 EMBED Equation.DSMT4  (种)选择．
+由加法原理，不同的摸法有 EMBED Equation.DSMT4  (种)．
+【答案】⑴ EMBED Equation.DSMT4                ⑵ EMBED Equation.DSMT4                ⑶ EMBED Equation.DSMT4  
+ 
+用2个1，2个2，2个3可以组成多少个互不相同的六位数？
+用 EMBED Equation.DSMT4  个 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  个 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  个 EMBED Equation.DSMT4  可以组成多少个互不相同的六位数？ 
+【考点】组合之基本运用          【难度】3星          【题型】解答 
+先考虑在 EMBED Equation.DSMT4  个数位上选 EMBED Equation.DSMT4  个数位放 EMBED Equation.DSMT4  ，这两个 EMBED Equation.DSMT4  的顺序无所谓，故是组合问题，有 EMBED Equation.DSMT4  (种)选法；再从剩下的 EMBED Equation.DSMT4  个数位上选 EMBED Equation.DSMT4  个放 EMBED Equation.DSMT4  ，有 EMBED Equation.DSMT4  (种)选法；剩下的 EMBED Equation.DSMT4  个数位放 EMBED Equation.DSMT4  ，只有 EMBED Equation.DSMT4  种选法．
+由乘法原理，这样的六位数有 EMBED Equation.DSMT4  (个)．
+在前一问的情况下组成的 EMBED Equation.DSMT4  个六位数中，首位是 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的各 EMBED Equation.DSMT4  个．如果将 EMBED Equation.DSMT4  全部换成 EMBED Equation.DSMT4  ，这 EMBED Equation.DSMT4  个首位是 EMBED Equation.DSMT4  的数将不是六位数，所以可以组成互不相同的六位数 EMBED Equation.DSMT4  (个)．
+【答案】 EMBED Equation.DSMT4  
+
+从 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  中任取三个数字，从 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  中任取两个数字，组成没有重复数字的五位数，一共可以组成多少个数？ 
+【考点】组合之基本运用          【难度】3星          【题型】解答 
+整个过程可以分三步完成：第一步，从 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  中任取三个数字，这是一个组合问题，有 EMBED Equation.DSMT4  种方法；第二步，从 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  中任取两个数字，也是一个组合问题，有 EMBED Equation.DSMT4  种方法；第三步，用取出的 EMBED Equation.DSMT4  个数字组成没有重复数字的五位数，有 EMBED Equation.DSMT4  种方法．所以总的个数为： EMBED Equation.DSMT4  （个）．
+【答案】 EMBED Equation.DSMT4  
+
+从 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  这七个数字中，任取3个组成三位数，共可组成多少个不同的三位数？（这里每个数字只允许用 EMBED Equation.DSMT4  次，比如100、210就是可以组成的，而211就是不可以组成的）．
+【考点】组合之基本运用          【难度】1星          【题型】解答 
+【关键词】陈省身杯，五年级
+若三位数不含有 EMBED Equation.DSMT4  ，有 EMBED Equation.DSMT4  （个），若含有一个 EMBED Equation.DSMT4  ，有 EMBED Equation.DSMT4  （个），若含有两个 EMBED Equation.DSMT4  ，有 EMBED Equation.DSMT4  （个），所以共有 EMBED Equation.DSMT4  （个）．
+【答案】 EMBED Equation.DSMT4  
+
+用2个1，2个2，2个3可以组成多少个互不相同的六位数？用2个0，2个1，2个2可以组成多少个互不相同的六位数？ 
+【考点】组合之基本运用          【难度】3星          【题型】解答 
+先考虑在6个数位上选2个数位放1，这两个1的顺序无所谓，故是组合问题有 EMBED Equation.DSMT4  种选法；再从剩下的4个数位上选2个放2，有 EMBED Equation.DSMT4  种选法；剩下的2个数位放3，只有1种选法．由乘法原理，这样的六位数有 EMBED Equation.DSMT4  个．
+在前一问的情况下组成的90个六位数中，首位是1、2、3的各30个．如果将3全部换成0，这30个首位是0的数将不是六位数，所以可以组成互不相同的六位数 EMBED Equation.DSMT4  个．
+【答案】 EMBED Equation.DSMT4  
+
+用两个3，一个2，一个1，可以组成多少个不重复的4位数？ 
+【考点】组合之基本运用          【难度】3星          【题型】解答 
+这道题由于3有2个，是其中最特殊的，所以从它入手．
+先从四位数的4个数位中选择2个来放3，有 EMBED Equation.DSMT4  种选法；然后剩下的两个数位放1和2，有2种放法；根据乘法原理，共有 EMBED Equation.DSMT4  种不同的方法，所以可以组成12个不重复的四位数．
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+PAGE  
+
+
+7-5-1.组合的基本应用（一）.题库	                         教师版                        page  PAGE 7 of  NUMPAGES 7
+
+
+
+7-5-1.组合的基本应用（一）
+
+
+
+
+例题精讲
+
+知识要点
+
+教学目标
+
+
+
+

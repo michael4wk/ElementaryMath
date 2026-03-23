@@ -1,0 +1,140 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+整数裂项基本公式
+(1)  EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+(2)  EMBED Equation.DSMT4  
+
+ SHAPE  \* MERGEFORMAT 
+ EMBED Equation.DSMT4  =_________   
+【考点】整数裂项           【难度】3星          【题型】计算 
+这是整数的裂项。裂项思想是：瞻前顾后，相互抵消。
+设S＝ EMBED Equation.DSMT4  
+1×2×3＝1×2×3
+2×3×3＝2×3×（4－1）＝2×3×4－1×2×3
+3×4×3＝3×4×（5－2）＝3×4×5－2×3×4……
+49×50×3＝49×50×（51－48）=49×50×51－48×49×50
+3S＝1×2×3＋2×3×3＋3×4×3＋…＋49×50×3＝49×50×51
+S＝49×50×51÷3＝41650
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  ________
+【考点】整数裂项           【难度】3星          【题型】计算 
+本题项数较少，可以直接将每一项乘积都计算出来再计算它们的和，但是对于项数较多的情况显然不能这样进行计算．对于项数较多的情况，可以进行如下变形：
+ EMBED Equation.DSMT4  ，
+所以原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+另解：由于 EMBED Equation.DSMT4  ，所以	
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+采用此种方法也可以得到 EMBED Equation.DSMT4  这一结论．
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  =_________
+【考点】整数裂项           【难度】3星          【题型】计算 
+设S＝ EMBED Equation.DSMT4  
+1×4×9＝1×4×7＋1×4×2
+ 		4×7×9＝4×7×（10－1）＝4×7×10－1×4×7
+ 		7×10×9＝7×10×（13－4）＝7×10×13－4×7×10
+………….
+49×52×9＝49×52×（55－46）＝49×52×55－46×49×52
+9S＝49×52×55＋1×4×2
+S=（49×52×55＋1×4×2）÷9＝15572
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4            
+【考点】整数裂项           【难度】3星          【题型】计算 
+ EMBED Equation.DSMT4  ，所以，
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+从中还可以看出， EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4            ． 
+【考点】整数裂项           【难度】3星          【题型】计算 
+可以进行整数裂项．
+         EMBED Equation.DSMT4  ，
+         EMBED Equation.DSMT4  ，
+         EMBED Equation.DSMT4  ，
+        所以原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+也可适用公式．
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+而 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4  ，所以原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】整数裂项           【难度】3星          【题型】计算 
+可进行整数裂项：
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4          
+【考点】整数裂项           【难度】3星          【题型】计算 
+一般的整数裂项各项之间都是连续的，本题中各项之间是断开的，为此可以将中间缺少的项补上，再进行计算．
+记原式为 EMBED Equation.DSMT4  ，再设 EMBED Equation.DSMT4  ，
+则 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  ，
+现在知道 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的和了，如果能再求出 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的差，那么 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的值就都可以求出来了．
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+所以， EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】整数裂项           【难度】3星          【题型】计算 
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+其中也可以直接根据公式 EMBED Equation.DSMT4  得出
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4      
+【考点】整数裂项           【难度】4星          【题型】计算 
+观察发现 EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4  ，……
+ EMBED Equation.DSMT4  ，
+可见，原式 EMBED Equation.DSMT4    EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4            
+【考点】整数裂项           【难度】5星          【题型】计算 
+设原式= EMBED Equation.DSMT4    EMBED Equation.DSMT4         EMBED Equation.DSMT4         EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+1-2-2-2.整数裂项.题库	                          教师版                          page  PAGE 4 of  NUMPAGES 4
+
+
+
+整数裂项
+
+知识点拨
+
+例题精讲
+
+
+

@@ -1,0 +1,252 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+1、明确溶液的质量,溶质的质量,溶剂的质量之间的关系
+2、浓度三角的应用
+3、会将复杂分数应用题及其他类型题目转化成浓度三角形式来解
+4、利用方程解复杂浓度问题
+
+ SHAPE  \* MERGEFORMAT 
+浓度问题的内容与我们实际的生活联系很紧密，就知识点而言它包括小学所学2个重点知识：百分数，比例。
+一、浓度问题中的基本量
+溶质：通常为盐水中的“盐”，糖水中的“糖”，酒精溶液中的“酒精”等
+溶剂：一般为水，部分题目中也会出现煤油等 
+溶液：溶质和溶液的混合液体。
+浓度：溶质质量与溶液质量的比值。
+二、几个基本量之间的运算关系
+1、溶液=溶质+溶剂
+2、EMBED Equation.DSMT4
+三、解浓度问题的一般方法
+1、寻找溶液配比前后的不变量，依靠不变量建立等量关系列方程
+2、十字交叉法：(甲溶液浓度大于乙溶液浓度)
+形象表达：EMBED Equation.DSMT4EMBED Equation.DSMT4EMBED Equation.DSMT4
+注：十字交叉法在浓度问题中的运用也称之为浓度三角，浓度三角与十字交叉法实质上是相同的．浓度三角的表示方法如下：
+
+3、列方程解应用题也是解决浓度问题的重要方法．
+
+
+
+ SHAPE  \* MERGEFORMAT 
+模块一、利用十字交叉即浓度三角进行解题
+三种溶液混合多次
+有甲、乙、丙三个容器，容量为毫升．甲容器有浓度为EMBED Equation.DSMT4的盐水EMBED Equation.DSMT4毫升；乙容器中有清水EMBED Equation.DSMT4 毫升；丙容器中有浓度为EMBED Equation.DSMT4的盐水EMBED Equation.DSMT4毫升．先把甲、丙两容器中的盐水各一半倒入乙容器搅匀后，再把乙容器中的盐水EMBED Equation.DSMT4毫升倒入甲容器，EMBED Equation.DSMT4毫升倒入丙容器．这时甲、乙、丙容器中盐水的浓度各是多少？
+
+
+
+
+
+
+
+在甲、乙、丙三缸酒精溶液中，纯酒精的含量分别占EMBED Equation.DSMT4、EMBED Equation.DSMT4和EMBED Equation.DSMT4，已知三缸酒精溶液总量是EMBED Equation.DSMT4千克，其中甲缸酒精溶液的量等于乙、丙两缸酒精溶液的总量．三缸溶液混合后，所含纯酒精的百分数将达EMBED Equation.DSMT4．那么，丙缸中纯酒精的量是多少千克？
+
+
+
+
+
+
+
+
+
+
+有EMBED Equation.DSMT4、EMBED Equation.DSMT4、EMBED Equation.DSMT4三种盐水，按EMBED Equation.DSMT4与EMBED Equation.DSMT4数量之比为EMBED Equation.DSMT4混合，得到浓度为EMBED Equation.DSMT4的盐水；按EMBED Equation.DSMT4与EMBED Equation.DSMT4数量之比为EMBED Equation.DSMT4混合，得到浓度为EMBED Equation.DSMT4的盐水．如果EMBED Equation.DSMT4、EMBED Equation.DSMT4、EMBED Equation.DSMT4数量之比为EMBED Equation.DSMT4，混合成的盐水浓度为EMBED Equation.DSMT4，问盐水EMBED Equation.DSMT4的浓度是多少？
+
+
+
+
+
+
+已知三种混合物由三种成分EMBED Equation.DSMT4、EMBED Equation.DSMT4、EMBED Equation.DSMT4组成，第一种仅含成分EMBED Equation.DSMT4和EMBED Equation.DSMT4，重量比为EMBED Equation.DSMT4；第二种只含成分EMBED Equation.DSMT4和EMBED Equation.DSMT4，重量比为EMBED Equation.DSMT4；第三种只含成分EMBED Equation.DSMT4和EMBED Equation.DSMT4，重量之比为EMBED Equation.DSMT4.以什么比例取这些混合物，才能使所得的混合物中EMBED Equation.DSMT4、EMBED Equation.DSMT4和EMBED Equation.DSMT4，这三种成分的重量比为EMBED Equation.DSMT4？
+
+
+
+
+
+
+
+
+EMBED Equation.DSMT4、EMBED Equation.DSMT4、EMBED Equation.DSMT4三个试管中各盛有EMBED Equation.DSMT4克、EMBED Equation.DSMT4克、EMBED Equation.DSMT4克水．把某种浓度的盐水EMBED Equation.DSMT4克倒入EMBED Equation.DSMT4中，充分混合后从EMBED Equation.DSMT4中取出EMBED Equation.DSMT4克倒入EMBED Equation.DSMT4中，再充分混合后从EMBED Equation.DSMT4中取出EMBED Equation.DSMT4克倒入EMBED Equation.DSMT4中，最后得到的盐水的浓度是EMBED Equation.DSMT4．问开始倒入试管EMBED Equation.DSMT4中的盐水浓度是百分之几？
+
+
+有两种溶液，甲溶液的酒精浓度为EMBED Equation.DSMT4，盐浓度为EMBED Equation.DSMT4，乙溶液中的酒精浓度为EMBED Equation.DSMT4，盐浓度为EMBED Equation.DSMT4．现在有甲溶液EMBED Equation.DSMT4千克，那么需要多少千克乙溶液，将它与甲溶液混和后所得的溶液的酒精浓度和盐浓度相等?
+
+
+
+
+
+
+
+有两种溶液，甲溶液的酒精浓度为EMBED Equation.DSMT4，盐浓度为EMBED Equation.DSMT4，乙溶液中的酒精浓度为EMBED Equation.DSMT4，盐浓度为EMBED Equation.DSMT4．现在有甲溶液EMBED Equation.DSMT4千克，那么需要多少千克乙溶液，将它与甲溶液混和后所得的溶液的酒精浓度是盐浓度的3倍？
+
+
+
+
+
+
+
+
+模块二、列方程解浓度问题
+使用甲种农药每千克要兑水20千克，使用乙种农药每千克要兑水40千克。根据农科院专家的意见，把两种农药混合使用能提高药效。现有两种农药共5千克，要配药水140千克，其中甲种农药需药______千克。
+
+
+
+
+
+
+甲、乙两瓶盐水，甲瓶盐水的浓度是乙瓶盐水的EMBED Equation.DSMT4倍．将EMBED Equation.DSMT4克甲瓶盐水与EMBED Equation.DSMT4克乙瓶盐水混合后得到浓度为EMBED Equation.DSMT4的新盐水，那么甲瓶盐水的浓度是多少？
+
+
+
+
+
+
+
+甲、乙两只装满硫酸溶液的容器，甲容器中装有浓度为EMBED Equation.DSMT4的硫酸溶液600千克，乙容器中装有浓度为EMBED Equation.DSMT4的硫酸溶液400千克．各取多少千克分别放入对方容器中，才能使这两个容器中的硫酸溶液的浓度一样？
+
+
+
+
+
+
+
+
+甲容器中有浓度为EMBED Equation.DSMT4的盐水EMBED Equation.DSMT4克，乙容器有浓度为EMBED Equation.DSMT4的盐水EMBED Equation.DSMT4克．分别从甲和乙中取出相同重量的盐水，把从甲中取出的倒入乙中，把从乙中取出的倒入甲中．现在甲、乙容器中盐水浓度相同．问：从甲(乙)容器取出多少克盐水倒入了另一个容器中？
+
+
+
+十字交叉法的证明过程：设甲、乙两瓶溶液的质量分别为EMBED Equation.DSMT4和EMBED Equation.DSMT4，浓度分别为EMBED Equation.DSMT4和EMBED Equation.DSMT4（EMBED Equation.DSMT4），将两瓶溶液混合后所得的溶液浓度为EMBED Equation.DSMT4，求证：EMBED Equation.DSMT4．
+
+
+
+
+
+
+
+在浓度为EMBED Equation.DSMT4的盐水中加入一定量的水,则变为浓度EMBED Equation.DSMT4的新溶液.在这种新溶液中加入与前次加入的水量相等的盐,溶液浓度变为EMBED Equation.DSMT4.求EMBED Equation.DSMT4.
+
+
+
+
+
+
+
+一杯盐水，第一次加入一定量的水后，盐水的含盐百分比变为EMBED Equation.DSMT4；第二次又加入同样多的水，盐水的含盐百分比变为EMBED Equation.DSMT4；第三次再加入同样多的水，盐水的含盐百分比将变为        EMBED Equation.DSMT4。
+
+
+
+
+
+
+
+
+瓶中装有浓度为EMBED Equation.DSMT4的酒精溶液EMBED Equation.DSMT4克，现在又分别倒入EMBED Equation.DSMT4克和EMBED Equation.DSMT4克的EMBED Equation.DSMT4、EMBED Equation.DSMT4两种酒精溶液，瓶中的浓度变成了EMBED Equation.DSMT4．已知EMBED Equation.DSMT4种酒精溶液浓度是EMBED Equation.DSMT4种酒精溶液浓度的EMBED Equation.DSMT4倍，那么EMBED Equation.DSMT4种酒精溶液的浓度是百分之几？
+
+
+
+
+
+
+
+
+EMBED Equation.DSMT4种酒精浓度为EMBED Equation.DSMT4，EMBED Equation.DSMT4种酒精浓度为EMBED Equation.DSMT4，EMBED Equation.DSMT4种酒精浓度为EMBED Equation.DSMT4，它们混合在一起得到了11千克浓度为EMBED Equation.DSMT4的酒精溶液，其中EMBED Equation.DSMT4种酒精比EMBED Equation.DSMT4种酒精多3千克，则EMBED Equation.DSMT4种酒精有        千克．
+
+
+
+
+
+
+
+一个卖牛奶的人告诉两个小学生：这儿的一个钢桶里盛着水，另一个钢桶里盛着牛奶，由于牛奶乳脂含量过高，必须用水稀释才能饮用．现在我把EMBED Equation.DSMT4桶里的液体倒入桶，使其中液体的体积翻了一番，然后我又把桶里的液体倒进EMBED Equation.DSMT4桶，使EMBED Equation.DSMT4桶内的液体体积翻番．最后，我又将EMBED Equation.DSMT4桶中的液体倒进桶中，使桶中液体的体积翻番．此时我发现两个桶里盛有同量的液体，而在EMBED Equation.DSMT4桶中，水比牛奶多出升．现在要问你们，开始时有多少水和牛奶，而在结束时，每个桶里又有多少水和牛奶？
+
+
+
+有EMBED Equation.DSMT4，EMBED Equation.DSMT4两个桶，分别盛着水和某含量的酒精溶液．先把EMBED Equation.DSMT4桶液体倒入EMBED Equation.DSMT4桶，使EMBED Equation.DSMT4桶中的液体翻番；再将EMBED Equation.DSMT4桶液体倒入EMBED Equation.DSMT4桶，使EMBED Equation.DSMT4桶中的液体翻番．此时，EMBED Equation.DSMT4，EMBED Equation.DSMT4两桶的液体体积相等，并且EMBED Equation.DSMT4桶的酒精含量比EMBED Equation.DSMT4桶的酒精含量高EMBED Equation.DSMT4．问：最后EMBED Equation.DSMT4桶中的酒精含量是多少？
+
+
+
+
+
+
+EMBED Equation.DSMT4、EMBED Equation.DSMT4、EMBED Equation.DSMT4三瓶盐水的浓度分别为EMBED Equation.DSMT4、EMBED Equation.DSMT4、EMBED Equation.DSMT4，它们混合后得到EMBED Equation.DSMT4克浓度为EMBED Equation.DSMT4的盐水．如果EMBED Equation.DSMT4瓶盐水比EMBED Equation.DSMT4瓶盐水多EMBED Equation.DSMT4克，那么EMBED Equation.DSMT4瓶盐水有多少克？
+
+
+
+
+
+
+
+模块三、浓度三角解分数应用题
+某班有学生48人，女生占全班的37.5％，后来又转来女生若干人，这时人数恰好是占全班人数的40％，问转来几名女生？
+
+
+
+
+
+
+小明到商店买红、黑两种笔共66支．红笔每支定价5元，黑笔每支定价9元．由于买的数量较多，商店就给予优惠，红笔按定价EMBED Equation.DSMT4付钱，黑笔按定价EMBED Equation.DSMT4付钱，如果他付的钱比按定价少付了EMBED Equation.DSMT4，那么他买了红笔多少支？
+
+
+
+
+
+
+
+有两包糖，每包糖内都装有奶糖，水果糖和巧克力糖．已知：⑴第一包糖的粒数是第二包的EMBED Equation.DSMT4；⑵在第一包糖中，奶糖占EMBED Equation.DSMT4，在第二包糖中，水果糖占EMBED Equation.DSMT4；⑶巧克力在第一包糖中所占的百分比是在第二包糖中所占的百分比的两倍．当两包糖合在一起时，巧克力糖占EMBED Equation.DSMT4，那么，水果糖所占的百分比等于多少？
+
+
+
+
+
+
+
+
+有两包糖，第一包糖由奶糖和水果糖组成，其中EMBED Equation.DSMT4为奶糖；第二包糖由酥糖和水果糖组成，其中EMBED Equation.DSMT4为酥糖．将两包糖混合后，水果糖占EMBED Equation.DSMT4，那么奶糖与酥糖的比例是________.
+
+
+
+
+
+
+某商品76件，出售给33位顾客，每位顾客最多买三件．如果买一件按原定价，买两件降价EMBED Equation.DSMT4，买三件降价EMBED Equation.DSMT4，最后结算，平均每件恰好按原定价的EMBED Equation.DSMT4出售．那么买三件的顾客有多少人？
+
+
+
+
+
+
+
+
+
+
+
+在一个奇怪的动物村庄里住着猫、狗和其他一些动物．有EMBED Equation.DSMT4的狗认为它们是猫；有EMBED Equation.DSMT4的猫认为它们是狗．其余动物都是正常的．一天，动物村的村长小猴子发现：所有的猫和狗中，有EMBED Equation.DSMT4认为自己是猫．如果这个奇怪的动物村庄里有狗比猫多180只．那么狗的数目是        只．
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+2-2-7.溶液浓度问题（二）.题库	                          学生版                                 page  PAGE 6 of  NUMPAGES 6
+
+
+
+溶液浓度问题（二）
+
+教学目标
+
+知识精讲
+
+例题精讲
+
+
+

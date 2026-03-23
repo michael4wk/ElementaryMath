@@ -1,0 +1,314 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE  \* MERGEFORMAT 
+1.使学生正确理解排列的意义；
+2.了解排列、排列数的意义，能根据具体的问题，写出符合要求的排列；
+3.掌握排列的计算公式；
+4.会分析与数字有关的计数问题，以及与其他专题的综合运用，培养学生的抽象能力和逻辑思维能力；
+通过本讲的学习，对排列的一些计数问题进行归纳总结，并掌握一些排列技巧，如捆绑法等．
+
+ SHAPE  \* MERGEFORMAT 
+一、排列问题
+在实际生活中经常会遇到这样的问题，就是要把一些事物排在一起，构成一列，计算有多少种排法，就是排列问题．在排的过程中，不仅与参与排列的事物有关，而且与各事物所在的先后顺序有关．
+一般地，从 EMBED Equation.DSMT4  个不同的元素中取出 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )个元素，按照一定的顺序排成一列，叫做从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个元素的一个排列．
+根据排列的定义，两个排列相同，指的是两个排列的元素完全相同，并且元素的排列顺序也相同．如果两个排列中，元素不完全相同，它们是不同的排列；如果两个排列中，虽然元素完全相同，但元素的排列顺序不同，它们也是不同的排列．
+排列的基本问题是计算排列的总个数．
+从 EMBED Equation.DSMT4  个不同的元素中取出 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )个元素的所有排列的个数，叫做从 EMBED Equation.DSMT4  个不同的元素的排列中取出 EMBED Equation.DSMT4  个元素的排列数，我们把它记做 EMBED Equation.DSMT4  ．
+根据排列的定义，做一个 EMBED Equation.DSMT4  元素的排列由 EMBED Equation.DSMT4  个步骤完成：
+步骤 EMBED Equation.DSMT4  ：从 EMBED Equation.DSMT4  个不同的元素中任取一个元素排在第一位，有 EMBED Equation.DSMT4  种方法；
+步骤 EMBED Equation.DSMT4  ：从剩下的( EMBED Equation.DSMT4  )个元素中任取一个元素排在第二位，有( EMBED Equation.DSMT4  )种方法；
+……
+步骤 EMBED Equation.DSMT4  ：从剩下的 EMBED Equation.DSMT4  个元素中任取一个元素排在第 EMBED Equation.DSMT4  个位置，有 EMBED Equation.DSMT4  (种)方法；
+由乘法原理，从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个元素的排列数是 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，这里， EMBED Equation.DSMT4  ，且等号右边从 EMBED Equation.DSMT4  开始，后面每个因数比前一个因数小 EMBED Equation.DSMT4  ，共有 EMBED Equation.DSMT4  个因数相乘．
+二、排列数
+一般地，对于 EMBED Equation.DSMT4  的情况，排列数公式变为 EMBED Equation.DSMT4  ．
+表示从 EMBED Equation.DSMT4  个不同元素中取 EMBED Equation.DSMT4  个元素排成一列所构成排列的排列数．这种 EMBED Equation.DSMT4  个排列全部取出的排列，叫做 EMBED Equation.DSMT4  个不同元素的全排列．式子右边是从 EMBED Equation.DSMT4  开始，后面每一个因数比前一个因数小 EMBED Equation.DSMT4  ，一直乘到 EMBED Equation.DSMT4  的乘积，记为 EMBED Equation.DSMT4  ，读做 EMBED Equation.DSMT4  的阶乘，则 EMBED Equation.DSMT4  还可以写为： EMBED Equation.DSMT4  ，其中 EMBED Equation.DSMT4  ．
+
+ SHAPE  \* MERGEFORMAT 
+甲、乙、丙、丁、戊、己六个人站队，要求：甲乙两人之间必须有两个人，问一共有多少种站法？ 
+【考点】排列之综合运用          【难度】3星          【题型】解答 
+先考虑给甲乙两人定位，两个人可以站在队伍从左数的一、四个，二、五个或三、六个，甲乙两人要在内部全排列，剩下四个人再全排列，所以站法总数有： EMBED Equation.DSMT4  （种）．
+【答案】 EMBED Equation.DSMT4  
+
+甲、乙、丙、丁、戊、己六个人站队，要求：甲乙两人之间最多有两个人，问一共有多少种站法？ 
+【考点】排列之综合运用          【难度】3星          【题型】解答 
+类似地利用刚才的方法，考虑给甲乙两人定位，两人之间有两个人、一个人、没有人时分别有3、4、5种位置选取方法，所以站法总数有： EMBED Equation.DSMT4   EMBED Equation.DSMT4  （种）．
+【答案】 EMBED Equation.DSMT4  
+
+甲、乙、丙、丁、戊、己六个人站队，要求：甲不能站在队伍左半边，乙不能站在队伍右半边，丙不能站在队伍两端，问一共有多少种站法？ 
+【考点】排列之综合运用          【难度】3星          【题型】解答 
+先对丙定位，有4种站法，无论丙站在哪里，甲和乙一定有一个人有两种站法，一个人有三种站法，剩下三个人进行全排列，所以站法总数有： EMBED Equation.DSMT4  （种）．
+【答案】 EMBED Equation.DSMT4  
+
+甲、乙、丙、丁、戊、己、庚、辛八个人站队，要求：甲不能站在队伍最靠左的三个位置，乙不能站在队伍最靠右的三个位置，丙不能站在队伍两端，问一共有多少种站法？ 
+【考点】排列之综合运用          【难度】3星          【题型】解答 
+按甲在不在队伍最靠右的位置、乙在不在队伍最靠左的位置分四种情况讨论：
+如果甲在队伍最靠右的位置、乙在队伍最靠左的位置，那么丙还有6种站法，剩下的五个人进行全排列，站法总数有： EMBED Equation.DSMT4  （种）
+如果甲在队伍最靠右的位置，而乙不在队伍最靠左的位置，那么乙还有4种站法，丙还有5种站法，剩下的五个人进行全排列，站法总数有：
+ EMBED Equation.DSMT4  （种）
+如果甲不在队伍最靠右的位置，而乙在队伍最靠左的位置，分析完全类似于上一种，因此同样有2400种站法
+如果甲不在队伍最靠右的位置，乙也不在队伍最靠左的位置，那么先对甲、乙整体定位，甲、乙的位置选取一共有 EMBED Equation.DSMT4  （种）方法．丙还有4种站法，剩下的五个人进行全排列，站法总数有：
+ EMBED Equation.DSMT4  （种）
+所以总站法种数为 EMBED Equation.DSMT4  （种）
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  名男生， EMBED Equation.DSMT4  名女生，全体排成一行，问下列情形各有多少种不同的排法：
+⑴ 甲不在中间也不在两端；
+⑵ 甲、乙两人必须排在两端；
+⑶ 男、女生分别排在一起；
+⑷ 男女相间． 
+【考点】排列之综合运用          【难度】3星          【题型】解答 
+⑴ 先排甲， EMBED Equation.DSMT4  个位置除了中间和两端之外的 EMBED Equation.DSMT4  个位置都可以，有 EMBED Equation.DSMT4  种选择，剩下的 EMBED Equation.DSMT4  个人随
+意排，也就是 EMBED Equation.DSMT4  个元素全排列的问题，有 EMBED Equation.DSMT4  (种)选择．由乘法原理，共有 EMBED Equation.DSMT4  (种)排法．
+⑵ 甲、乙先排，有 EMBED Equation.DSMT4  (种)排法；剩下的 EMBED Equation.DSMT4  个人随意排，有
+ EMBED Equation.DSMT4  (种)排法．由乘法原理，共有 EMBED Equation.DSMT4  (种)排法．
+⑶ 分别把男生、女生看成一个整体进行排列，有 EMBED Equation.DSMT4  (种)不同排列方法，再分别对男生、女生内部进行排列，分别是 EMBED Equation.DSMT4  个元素与 EMBED Equation.DSMT4  个元素的全排列问题，分别有
+ EMBED Equation.DSMT4  (种)和 EMBED Equation.DSMT4  (种)排法．
+由乘法原理，共有 EMBED Equation.DSMT4  (种)排法．
+⑷ 先排 EMBED Equation.DSMT4  名男生，有 EMBED Equation.DSMT4  (种)排法，再把 EMBED Equation.DSMT4  名女生排到 EMBED Equation.DSMT4  个空档中，有 EMBED Equation.DSMT4  (种)排法．由乘法原理，一共有 EMBED Equation.DSMT4  (种)排法．
+【答案】 EMBED Equation.DSMT4  
+
+小新、阿呆等七个同学照像，分别求出在下列条件下有多少种站法？
+（1）七个人排成一排； 
+（2）七个人排成一排，小新必须站在中间.
+（3）七个人排成一排，小新、阿呆必须有一人站在中间.
+（4）七个人排成一排，小新、阿呆必须都站在两边.
+（5）七个人排成一排，小新、阿呆都没有站在边上.
+（6）七个人战成两排，前排三人，后排四人.
+（7）七个人战成两排，前排三人，后排四人. 小新、阿呆不在同一排． 
+【考点】排列之综合运用          【难度】3星          【题型】解答 
+（1） EMBED Equation.DSMT4  （种）．
+（2）只需排其余6个人站剩下的6个位置． EMBED Equation.DSMT4  （种）.
+（3）先确定中间的位置站谁，冉排剩下的6个位置．2× EMBED Equation.DSMT4  =1440(种)．
+（4）先排两边，再排剩下的5个位置，其中两边的小新和阿呆还可以互换位置． EMBED Equation.DSMT4   (种)．
+（5）先排两边，从除小新、阿呆之外的5个人中选2人，再排剩下的5个人， EMBED Equation.DSMT4  （种）.
+（6）七个人排成一排时，7个位置就是各不相同的．现在排成两排，不管前后排各有几个人，7个位置还是各不相同的，所以本题实质就是7个元素的全排列． EMBED Equation.DSMT4  （种）.
+（7）可以分为两类情况：“小新在前，阿呆在后”和“小新在前，阿呆在后”，两种情况是对等的，所以只要求出其中一种的排法数，再乘以2即可．4×3× EMBED Equation.DSMT4  ×2=2880(种)．排队问题，一般先考虑特殊情况再去全排列．
+【答案】（1） EMBED Equation.DSMT4  （种）．（2） EMBED Equation.DSMT4  （种）.（3）2× EMBED Equation.DSMT4  =1440(种)．（4） EMBED Equation.DSMT4   (种)．
+（5） EMBED Equation.DSMT4  （种）.（6） EMBED Equation.DSMT4  （种）.（7）4×3× EMBED Equation.DSMT4  ×2=2880(种)．
+
+一个正在行进的8人队列，每人身高各不相同，按从低到高的次序排列。现在他们要变成排的2列纵队，每列仍然是按从低到高的次序排列。同时要求并排的每两人中左边的人比右边的人要矮，那么，2列纵队有__________种不同排法。
+【考点】排列之综合运用   【难度】3星   【题型】填空
+【关键词】走美杯，初赛，六年级，第13题
+将这8人按身高从低到高依次编号为1，2，3，4，5，6，7，8.，现在相当于要求将这8个数填入下面的 EMBED Equation.DSMT4  的方格中，每个方格中填一个数，使得每一行的方格中的数依次增大，而每一列中下面的方格中的数比上面的方格中的数要大。
+
+首先可以确定1和8只能分别在左上角和右下角的方格内，2只能在第一行第二列或第二行第一    列的方格内，7只能在第一行第四列或第二行第三列的方格内。2和7的填法共有 EMBED Equation.DSMT4  种可能，对这4种情况分别进行讨论：⑴若2和7的位置如图①，则第一行第三列的方格不可以填6，但可以填3，4，5，这个方格填好后，第二行的三个空格只有唯一的填法。所以此时有3种填法；
+    
+①                 ②
+⑵若2和7的位置如图②，现在需要从3，4，5，6四个数中选取2个填入第一行的两个空格，有 EMBED Equation.DSMT4  种选法。所选出的2个数只有一种填法，且这两个数选出后，剩下的两个数填在第二行的两个空格，也只有一种填法，所以这种情况下有6种填法；⑶若2和7的位置如图③，则第二行第二列的方格内不能填3，可以填4，5，6，每一种填法就对应整个 EMBED Equation.DSMT4  方格的一种填法，所以此时有3种填法；
+           ③                  ④
+⑷若2和7的位置如图④，则此时3和6只能分别填在中间 EMBED Equation.DSMT4  方格的左上角和右下角，4和5填在剩下的2个方格，有2种填法。根据加法原理，共有 EMBED Equation.DSMT4  种不同的填法。所以原题中二列纵队有14种不同的排法。
+【答案】 EMBED Equation.DSMT4  种
+
+已知在由甲、乙、丙、丁、戊共5名同学进行的手工制作比赛中，决出了第一至第五名的名次．甲、乙两名参赛者去询问成绩，回答者对甲说：“很遗憾，你和乙都未拿到冠军．”对乙说：“你当然不会是最差的．”从这个回答分析，5人的名次排列共有多少种不同的情况？ 
+【考点】排列之综合运用          【难度】3星          【题型】解答 
+这道题乍一看不太像是排列问题，这就需要灵活地对问题进行转化．仔细审题，已知“甲和乙都未拿到冠军”，而且“乙不是最差的”，也就等价于 EMBED Equation.DSMT4  人排成一排，甲、乙都不站在排头且乙不站在排尾的排法数，因为乙的限制最多，所以先排乙，有 EMBED Equation.DSMT4  种排法，再排甲，也有 EMBED Equation.DSMT4  种排法，剩下的人随意排，有 EMBED Equation.DSMT4  (种)排法．由乘法原理，一共有 EMBED Equation.DSMT4  (种)不同的排法．
+【答案】 EMBED Equation.DSMT4  
+
+书架上有 EMBED Equation.DSMT4  本故事书， EMBED Equation.DSMT4  本作文选和 EMBED Equation.DSMT4  本漫画书，全部竖起来排成一排．⑴ 如果同类的书不分开，一共有多少种排法？⑵ 如果同类的书可以分开，一共有多种排法？ 
+【考点】排列之综合运用          【难度】3星          【题型】解答 
+⑴ 可以分三步来排：先排故事书，有 EMBED Equation.DSMT4  (种)排法；再排作文选，有 EMBED Equation.DSMT4  (种)排法；最后排漫画书有 EMBED Equation.DSMT4  种排法，而排故事书、作文选、漫画书的先后顺序也可以相互交换，排列的先后顺序有 EMBED Equation.DSMT4  (种)．故由乘法原理，一共有 EMBED Equation.DSMT4  种排法．
+⑵ 可以看成 EMBED Equation.DSMT4  (本)书随意排，一共有 EMBED Equation.DSMT4  (种)排法．
+若同类书不分开，共有 EMBED Equation.DSMT4  种排法；若同类书可以分开，共有 EMBED Equation.DSMT4  种排法．
+【答案】 EMBED Equation.DSMT4  
+
+一共有赤、橙、黄、绿、青、蓝、紫七种颜色的灯各一盏，按照下列条件把灯串成一串，有多少种不同的串法？
+⑴ 把 EMBED Equation.DSMT4  盏灯都串起来，其中紫灯不排在第一位，也不排在第七位．
+⑵ 串起其中 EMBED Equation.DSMT4  盏灯，紫灯不排在第一位，也不排在第四位． 
+【考点】排列之综合运用          【难度】2星          【题型】解答 
+⑴ 可以先考虑紫灯的位置，除去第一位和第七位外，有 EMBED Equation.DSMT4  种选择；然后把剩下的 EMBED Equation.DSMT4  盏灯随意排，    是一个全排列问题，有 EMBED Equation.DSMT4  (种)排法．
+由乘法原理，一共有 EMBED Equation.DSMT4  (种)．
+⑵ 先安排第一盏和第四盏灯．第一盏灯不是紫灯，有 EMBED Equation.DSMT4  种选择；第四盏灯有 EMBED Equation.DSMT4  种选择；剩下的 EMBED Equation.DSMT4  盏灯中随意选出 EMBED Equation.DSMT4  盏排列，有 EMBED Equation.DSMT4  (种)选择．由乘法原理，有 EMBED Equation.DSMT4  (种)．
+【答案】 EMBED Equation.DSMT4  
+
+某市的电视台有八个节目准备分两天播出，每天播出四个，其中某动画片和某新闻播报必须在第一天播出，一场体育比赛必须在第二天播出，那么一共有多少种不同的播放节目方案？ 
+【考点】排列之综合运用          【难度】2星          【题型】解答 
+某动画片和某新闻播报在第一天播放，对于动画片而言，可以选择当天四个节目时段的任何一个时段，一共有 EMBED Equation.DSMT4  种选择，对于新闻播报可以选择动画片之外的三个时段中的任何一个时段，一共有 EMBED Equation.DSMT4  种选择，体育比赛可以在第二天的四个节目时段中任选一个，一共有 EMBED Equation.DSMT4  种选择．剩下的 EMBED Equation.DSMT4  个节目随意安排顺序，有 EMBED Equation.DSMT4  (种)选择．由乘法原理，一共有 EMBED Equation.DSMT4  (种)不同的播放节目方案．
+【答案】 EMBED Equation.DSMT4  
+
+从 EMBED Equation.DSMT4  名运动员中选出 EMBED Equation.DSMT4  人参加 EMBED Equation.DSMT4  接力赛．试求满足下列条件的参赛方案各有多少种：
+⑴ 甲不能跑第一棒和第四棒；
+⑵ 甲不能跑第一棒，乙不能跑第四棒． 
+【考点】排列之综合运用          【难度】3星          【题型】解答 
+⑴ 先确定第一棒和第四棒．第一棒是甲以外的任何一个人，有 EMBED Equation.DSMT4  种选择，第四棒有 EMBED Equation.DSMT4  种选择，剩下的 EMBED Equation.DSMT4  个人中随意选择 EMBED Equation.DSMT4  个人跑第二棒和第三棒，有 EMBED Equation.DSMT4  种选择．由乘法原理，一共有 EMBED Equation.DSMT4  (种)参赛方案．
+⑵ 先不考虑甲、乙的特殊要求，从 EMBED Equation.DSMT4  名运动员中随意选择 EMBED Equation.DSMT4  人参赛，有 EMBED Equation.DSMT4  种选择．考虑若甲跑第一棒，其余 EMBED Equation.DSMT4  人随意选择 EMBED Equation.DSMT4  人参赛，对应 EMBED Equation.DSMT4  种不同的选择，考虑若乙跑第四棒，也对应 EMBED Equation.DSMT4  种不同的选择，但是，从 EMBED Equation.DSMT4  种中减去两个 EMBED Equation.DSMT4  种的时候，重复减了一次甲跑第一棒，且乙跑第四棒的情况．这种情况下，对应于第一棒，第四棒已确定只需从剩下的 EMBED Equation.DSMT4  人选择 EMBED Equation.DSMT4  人参赛的 EMBED Equation.DSMT4  (种)方案，应加上．
+综上所述，一共有 EMBED Equation.DSMT4  (种)不同的参赛方案．
+【答案】⑴ EMBED Equation.DSMT4                ⑵ EMBED Equation.DSMT4  
+
+一台晚会上有 EMBED Equation.DSMT4  个演唱节目和 EMBED Equation.DSMT4  个舞蹈节目．求： 
+⑴ 当 EMBED Equation.DSMT4  个舞蹈节目要排在一起时，有多少不同的安排节目的顺序？
+⑵ 当要求每 EMBED Equation.DSMT4  个舞蹈节目之间至少安排 EMBED Equation.DSMT4  个演唱节目时，一共有多少不同的安排节目的顺序？ 
+【考点】排列之综合运用          【难度】3星          【题型】解答 
+⑴ 先将 EMBED Equation.DSMT4  个舞蹈节目看成 EMBED Equation.DSMT4  个节目，与 EMBED Equation.DSMT4  个演唱节目一起排，则是 EMBED Equation.DSMT4  个元素全排列的问题，有     EMBED Equation.DSMT4  (种)方法．第二步再排 EMBED Equation.DSMT4  个舞蹈节目，也就是 EMBED Equation.DSMT4  个舞蹈节    目全排列的问题，有 EMBED Equation.DSMT4  (种)方法．
+根据乘法原理，一共有 EMBED Equation.DSMT4  (种)方法．
+⑵ 首先将 EMBED Equation.DSMT4  个演唱节目排成一列(如下图中的“□”)，是 EMBED Equation.DSMT4  个元素全排列的问题，一共有 EMBED Equation.DSMT4  (种)方法．
+×□×□×□×□×□×□×
+第二步，再将 EMBED Equation.DSMT4  个舞蹈节目排在一头一尾或 EMBED Equation.DSMT4  个演唱节目之间(即上图中“×”的位置)，这相当于从 EMBED Equation.DSMT4  个“×”中选 EMBED Equation.DSMT4  个来排，一共有 EMBED Equation.DSMT4  (种)方法．
+根据乘法原理，一共有 EMBED Equation.DSMT4  (种)方法．
+【答案】⑴ EMBED Equation.DSMT4                ⑵ EMBED Equation.DSMT4  
+
+由 EMBED Equation.DSMT4  个不同的独唱节目和 EMBED Equation.DSMT4  个不同的合唱节目组成一台晚会，要求任意两个合唱节目不相邻，开始和最后一个节目必须是合唱，则这台晚会节目的编排方法共有多少种？ 
+【考点】排列之综合运用          【难度】3星          【题型】解答 
+先排独唱节目，四个节目随意排，是 EMBED Equation.DSMT4  个元素全排列的问题，有 EMBED Equation.DSMT4  种排法；其次在独唱节目的首尾排合唱节目，有三个节目，两个位置，也就是从三个节目选两个进行排列的问题，有 EMBED Equation.DSMT4  (种)排法；再在独唱节目之间的 EMBED Equation.DSMT4  个位置中排一个合唱节目，有 EMBED Equation.DSMT4  种排法．由乘法原理，一共有 EMBED Equation.DSMT4  (种)不同的编排方法．
+【小结】排列中，我们可以先排条件限制不多的元素，然后再排限制多的元素．如本题中，独唱节目排好之后，合唱节目就可以采取“插空”的方法来确定排法了．总的排列数用乘法原理．把若干个排列数相乘，得出最后的答案．
+【答案】 EMBED Equation.DSMT4  
+
+用 EMBED Equation.DSMT4  排成四位数： 
+（1）共有多少个四位数？
+（2）无重复数字的四位数有多少个？
+（3）无重复数字的四位偶数有多少个？
+（4）2在3的左边的无重复数字的四位数有多少个？
+（5）2在千位上的无重复数字的四位数有多少个？
+（6）5不在十位、个位上的无重复数字的四位数有多少个？
+【考点】排列之综合运用          【难度】3星          【题型】解答 
+⑴条件中未限制“无重复数字”，所以，数字可以重复出现，如 EMBED Equation.DSMT4  等．
+依分步计数乘法原理共有 EMBED Equation.DSMT4  （个）
+⑵ EMBED Equation.DSMT4  （个）
+⑶个位上只能是 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，有 EMBED Equation.DSMT4  （个）
+⑷所有四位数中， EMBED Equation.DSMT4  在 EMBED Equation.DSMT4  的左边或 EMBED Equation.DSMT4  在 EMBED Equation.DSMT4  的右边的数各占一半，共有 EMBED Equation.DSMT4  （个）
+⑸ EMBED Equation.DSMT4  在千位上，只有 EMBED Equation.DSMT4  种方法，此后 EMBED Equation.DSMT4  只能在另外的 EMBED Equation.DSMT4  个位置上排列，有 EMBED Equation.DSMT4  （个）
+⑹法一： EMBED Equation.DSMT4  不在十位、个位上，所以 EMBED Equation.DSMT4  只能在千位上或百位上，有 EMBED Equation.DSMT4  （个）
+法二：从 EMBED Equation.DSMT4  中减去不合要求的（ EMBED Equation.DSMT4  在十位上、个位上），有 EMBED Equation.DSMT4  （个）．
+【答案】⑴ EMBED Equation.DSMT4  （个）⑵ EMBED Equation.DSMT4  （个）⑶ EMBED Equation.DSMT4  （个）⑷ EMBED Equation.DSMT4  （个）⑸ EMBED Equation.DSMT4  （个）
+⑹法一：  EMBED Equation.DSMT4  （个）法二：  EMBED Equation.DSMT4  （个）．
+
+用数字 EMBED Equation.DSMT4  组成没有重复数字的正整数． 
+　　　　⑴能组成多少个五位数？
+⑵能组成多少个正整数？
+⑶能组成多少个六位奇数？
+⑷能组成我少个能被 EMBED Equation.DSMT4  整除的四位数？
+⑸能组成多少个比 EMBED Equation.DSMT4    EMBED Equation.DSMT4  大的数？
+⑹求三位数的和．
+【考点】排列之综合运用          【难度】3星          【题型】解答 
+本题属带有限制条件的排列问题，利用直接方法或间接方法都可以解决这类问题，但需考虑特殊位置和特殊元素．
+（1）因为万位上的数字不能是 EMBED Equation.DSMT4  ，所以万位上的数字的排法有 EMBED Equation.DSMT4  种，其余四位上的排法有 EMBED Equation.DSMT4  种，所以，共可组成 EMBED Equation.DSMT4  个五位数．
+（2）组成的正整数，可以是一位、二位、三位、四位、五位、六位数，相应的排法依次有 EMBED Equation.DSMT4  ，
+所以，可组成 EMBED Equation.DSMT4  个正整数．
+（3）首位与个位的位置是特殊位置， EMBED Equation.DSMT4  是特殊元素，先选个位数字，有 EMBED Equation.DSMT4  种不同的选法；再考虑首位，有 EMBED Equation.DSMT4  种不同的选法；其余四个位置的排法有 EMBED Equation.DSMT4  种．
+所以，能组成 EMBED Equation.DSMT4  个六位奇数．
+（4）能被 EMBED Equation.DSMT4  整除的四位数的特殊是末两位数是 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，这两种形式的四位数依次是 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  个．
+所以，能组成 EMBED Equation.DSMT4  个能被25整除的四位数．
+（5）因为 EMBED Equation.DSMT4  除首位数字 EMBED Equation.DSMT4  以外，其余 EMBED Equation.DSMT4  个数字顺次递增排列，所以， EMBED Equation.DSMT4    EMBED Equation.DSMT4  是首位数是 EMBED Equation.DSMT4  的没有重复数字的最小六位数，比它小的六位数是首位数为 EMBED Equation.DSMT4  的没有重复数字的最小六位数．比它小的六位数是首位数为 EMBED Equation.DSMT4  的六位数，共有 EMBED Equation.DSMT4  个，而由 EMBED Equation.DSMT4  组成的六位数有 EMBED Equation.DSMT4  个．
+所以，大于 EMBED Equation.DSMT4    EMBED Equation.DSMT4  的没有重复数字的六位数共有 EMBED Equation.DSMT4  （个）
+（6）由 EMBED Equation.DSMT4  组成无重复数字的三位数共有 EMBED Equation.DSMT4  （个）.
+个位数字是 EMBED Equation.DSMT4  的三位数有 EMBED Equation.DSMT4  （个），同理个位数字是2、3、4、5的三位数都各有16个，所以，个位数字的和是 EMBED Equation.DSMT4  ；同样十位上是数字1、2、3、4、5的三位数也都各有 EMBED Equation.DSMT4  个，这些数字的和为 EMBED Equation.DSMT4  ；百位上是数字1、2、3、4、5的三位数都各自有 EMBED Equation.DSMT4  个，这些数字的和为 EMBED Equation.DSMT4  ．
+所以，这100个三位数的和为
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】本题属带有限制条件的排列问题，利用直接方法或间接方法都可以解决这类问题，但需考虑特殊位置和特殊元素．
+（1） EMBED Equation.DSMT4   （2） EMBED Equation.DSMT4  ．（3） EMBED Equation.DSMT4  ．
+（4） EMBED Equation.DSMT4  ．（5） EMBED Equation.DSMT4  （个）（6） EMBED Equation.DSMT4  
+
+
+由0，2，5，6，7，8组成无重复数字的数． 
+⑴四位数有多少个？
+⑵四位数奇数有多少个？
+⑶四位数偶数有多少个？
+⑷整数有多少个？
+⑸是5的倍数的三位数有多少个？
+⑹是25的倍数的四位数有多少个？
+⑺大于5860的四位数有多少个？
+⑻小于5860的四位数有多少个？
+⑼由小到大排列的四位数中，5607是第几个数？
+⑽由小到大排列的四位数中，第128个数是多少？
+【考点】排列之综合运用          【难度】3星          【题型】解答 
+⑴ EMBED Equation.DSMT4  （个）（或 EMBED Equation.DSMT4  （个））．
+⑵个位上只能是5或7，0不能作千位数字，有 EMBED Equation.DSMT4  （个）．
+⑶个位上只能是0或2，6，8，个位上是0的有 EMBED Equation.DSMT4  个，个位上的是2，6，8的有 EMBED Equation.DSMT4  个，所以共有 EMBED Equation.DSMT4  （个）．
+⑷包括一位数，二位数，…，六位数，共有 EMBED Equation.DSMT4  （个）．
+⑸5的倍数只能是个位上的0或5的数，共有 EMBED Equation.DSMT4  （个）．
+⑹末两位数只能是25，50，75，共有 EMBED Equation.DSMT4  （个）．
+⑺共有 EMBED Equation.DSMT4  （个）．
+⑻共有 EMBED Equation.DSMT4  （个），或者从总数300中减去大于和等于5860的数的个数 EMBED Equation.DSMT4  （个）．
+⑼小于5607的四位数，即形如 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的数，共有 EMBED Equation.DSMT4  （个）．
+所以，5607是第86个数．
+⑽由小到大排列的四位数形如 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，各有 EMBED Equation.DSMT4  个，共120个；需再向后数8个， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，各有 EMBED Equation.DSMT4  个，然后是6072，6075，这样，6075是第 EMBED Equation.DSMT4  （个）数．
+所以，6075为所求的数．
+【答案】⑴ EMBED Equation.DSMT4  ⑵ EMBED Equation.DSMT4  ．⑶ EMBED Equation.DSMT4  ．⑷ EMBED Equation.DSMT4  ．⑸ EMBED Equation.DSMT4  ．⑹ EMBED Equation.DSMT4  ．
+⑺ EMBED Equation.DSMT4  ．⑻ EMBED Equation.DSMT4  ．⑼第86个数．⑽第 EMBED Equation.DSMT4  （个）．
+
+⑴从1，2，…，8中任取3个数组成无重复数字的三位数，共有多少个？（只要求列式）
+⑵从8位候选人中任选三位分别任团支书，组织委员，宣传委员，共有多少种不同的选法？
+⑶3位同学坐8个座位，每个座位坐1人，共有几种坐法？
+⑷8个人坐3个座位，每个座位坐1人，共有多少种坐法？
+⑸一火车站有8股车道，停放3列火车，有多少种不同的停放方法？
+⑹8种不同的菜籽，任选3种种在不同土质的三块土地上，有多少种不同的种法？
+【考点】排列之综合运用          【难度】3星          【题型】解答 
+⑴按顺序，有百位、十位、个位三个位置，8个数字（8个元素）取出3个往上排，有 EMBED Equation.DSMT4  种．
+⑵3种职务3个位置，从8位候选人（8个元素）任取3位往上排，有 EMBED Equation.DSMT4  种．
+⑶3位同学看成是三个位置，任取8个座位号（8个元素）中的3个往上排（座号找人），每确定一种号码即对应一种坐法，有 EMBED Equation.DSMT4  种．
+⑷3个坐位排号1，2，3三个位置，从8人中任取3个往上排（人找座位），有 EMBED Equation.DSMT4  种．
+⑸3列火车编为1，2，3号，从8股车道中任取3股往上排，共有 EMBED Equation.DSMT4  种．
+⑹土地编1，2，3号，从8种菜籽中任选3种往上排，有 EMBED Equation.DSMT4  种．
+【答案】⑴有 EMBED Equation.DSMT4  种．⑵有 EMBED Equation.DSMT4  种．⑶有 EMBED Equation.DSMT4  种．⑷有 EMBED Equation.DSMT4  种．⑸有 EMBED Equation.DSMT4  种．⑹有 EMBED Equation.DSMT4  种．
+
+
+现有男同学3人，女同学4人(女同学中有一人叫王红)，从中选出男女同学各2人，分别参加数学、英语、音乐、美术四个兴趣小组： 
+(1)共有多少种选法?
+(2)其中参加美术小组的是女同学的选法有多少种?
+(3)参加数学小组的不是女同学王红的选法有多少种?
+(4)参加数学小组的不是女同学王红，且参加美术小组的是女同学的选法有多少种?
+【考点】排列之综合运用          【难度】3星          【题型】解答 
+（1）从3个男同学中选出2人，有 EMBED Equation.3 =3种选法．从4个女同学中选出2人，有 EMBED Equation.3 =6种选法．在四个人确定的情况下，参加四个不同的小组有4×3×2×1=24种选法．
+3×6×24=432，所以共有432种选法．
+（2）在四个人确定的情况下，参加美术小组的是女同学时有2×3×2×1=12种选法．
+3×6×12=216，所以其中参加美术小组的是女同学的选法有216种．
+（3）考虑参加数学小组的是王红时的选法，此时的问题相当于从3个男同学中选出2人，从3个女同学中选出1人，3个人参加3个小组时的选法．
+3×3×3×2×1=54，所以参加数学小组的是王红时的选法有54种，432-54=378，所以参加数学小组的不是女同学王红的选法有378种．
+（4）考虑参加数学小组的是王红且参加美术小组的是女同学时的选法，此时的问题相当于从3个男同学中选出2人参加两个不同的小组，从3个女同学中选出1人参加美术小组时的选法．
+3×2×3=18，所以参加数学小组的是王红且参加美术小组的是女同学时的选法有18种，216-18=198，所以参加数学小组的不是女同学王红，且参加美术小组的是女同学的选法有198种．
+【答案】（1）432种．
+（2）216种．
+（3）378种．
+（4）198种．
+
+观察如图所示的减法算式发现，得数175和被减数571的数字顺序相反。那么，减去396后，使得数与被减数的数字顺序相反的三位被减数共有__________个。
+
+【考点】排列之综合运用   【难度】4星   【题型】填空
+【关键词】希望杯，六年级，一试，第16题
+即 EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  且 EMBED Equation.DSMT4  
+      EMBED Equation.DSMT4  
+      ∴共 EMBED Equation.DSMT4  个
+【答案】 EMBED Equation.DSMT4  个
+
+将0～9这十个数字分别填入下面算式的□内，每个数字只能用一次；那么满足条件的正确填法共有______种． □＋□□＋□□□＝□□□□
+【考点】排列之综合运用   【难度】4星   【题型】填空
+【关键词】迎春杯，六年级，初赛，试题
+根据弃九法(或者说四大同余定理之一)，两边的数除以9的余数应该相同，即各位数字之和应该相差 EMBED Equation.DSMT4  ．所以，如图 EMBED Equation.DSMT4  ，则，设 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．所以， EMBED Equation.DSMT4  
+因为 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  同奇偶，所以 EMBED Equation.DSMT4  不可能等于偶数，可以是9，或者27．
+当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，不成立．
+当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，成立．
+所以， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  可能为 EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  四种．
+当 EMBED Equation.DSMT4  则有 EMBED Equation.DSMT4  ．
+当 EMBED Equation.DSMT4  则有 EMBED Equation.DSMT4  ；
+当 EMBED Equation.DSMT4  则有 EMBED Equation.DSMT4  ；
+当 EMBED Equation.DSMT4  则有 EMBED Equation.DSMT4  ；
+上面从右边分类看，共分5类，每一类中 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  都可以交换， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  可以交换排列
+所以每一类有 EMBED Equation.DSMT4  种．所以共有5×12=60(种)．
+【答案】 EMBED Equation.DSMT4  种
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+7-4-3排列的综合应用.题库	                         教师版                        page  PAGE 8 of  NUMPAGES 10
+
+
+
+7-4-3.排列的综合应用
+
+教学目标
+
+知识要点
+
+例题精讲
+
+
+

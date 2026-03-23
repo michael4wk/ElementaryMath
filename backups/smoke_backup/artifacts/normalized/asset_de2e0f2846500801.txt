@@ -1,0 +1,268 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+等差数列的相关公式
+(1)三个重要的公式
+① 通项公式：递增数列：末项 EMBED Equation.DSMT4  首项 EMBED Equation.DSMT4  (项数 EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  公差， EMBED Equation.DSMT4   
+递减数列：末项 EMBED Equation.DSMT4  首项 EMBED Equation.DSMT4  (项数 EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  公差， EMBED Equation.DSMT4  
+回忆讲解这个公式的时候可以结合具体数列或者原来学的植树问题的思想，让学生明白      末项其实就是首项加上(末项与首项的)间隔个公差个数，或者从找规律的情况入手．同时还可延伸出来这样一个有用的公式： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+② 项数公式：项数 EMBED Equation.DSMT4  (末项 EMBED Equation.DSMT4  首项) EMBED Equation.DSMT4  公差+1 
+由通项公式可以得到： EMBED Equation.DSMT4   (若 EMBED Equation.DSMT4  )； EMBED Equation.DSMT4   (若 EMBED Equation.DSMT4  )．
+找项数还有一种配组的方法，其中运用的思想我们是常常用到的．
+譬如：找找下面数列的项数：4、7、10、13、 EMBED Equation.DSMT4  、40、43、46 ，
+分析：配组：(4、5、6)、(7、8、9)、(10、11、12)、(13、14、15)、 EMBED Equation.DSMT4  、(46、47、48)，注意等差是3 ，那么每组有3个数，我们数列中的数都在每组的第1位，所以46应在最后一组第1位，4到48有 EMBED Equation.DSMT4  项，每组3个数，所以共 EMBED Equation.DSMT4  组，原数列有15组． 当然还可以有其他的配组方法．
+③ 求和公式：和=(首项 EMBED Equation.DSMT4  末项) EMBED Equation.DSMT4  项数÷2 
+对于这个公式的得到可以从两个方面入手：
+(思路1)  EMBED Equation.DSMT4  
+　           EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+(思路2)这道题目，还可以这样理解： 
+ EMBED Equation.DSMT4  即，和 EMBED Equation.DSMT4  
+(2) 中项定理：对于任意一个项数为奇数的等差数列，中间一项的值等于所有项的平均数，也等于首项与末项和的一半；或者换句话说，各项和等于中间项乘以项数．
+譬如：①  EMBED Equation.DSMT4  ，
+题中的等差数列有9项，中间一项即第5项的值是20，而和恰等于 EMBED Equation.DSMT4  ；
+②  EMBED Equation.DSMT4  ，
+题中的等差数列有33项，中间一项即第17项的值是33，而和恰等于 EMBED Equation.DSMT4  ．
+ SHAPE  \* MERGEFORMAT 
+用等差数列的求和公式会计算下面各题吗？ 
+⑴ EMBED Equation.DSMT4  
+⑵ EMBED Equation.DSMT4  
+⑶ EMBED Equation.DSMT4  
+【考点】等差数列计算题           【难度】2星          【题型】计算   
+⑴根据例1的结果知：算式中的等差数列一共有76项，所以：
+ EMBED Equation.DSMT4  
+⑵算式中的等差数列一共有50项，所以： EMBED Equation.DSMT4  
+⑶算式中的等差数列一共有15项，所以： EMBED Equation.DSMT4  
+【答案】⑴ EMBED Equation.DSMT4                ⑵ EMBED Equation.DSMT4              ⑶ EMBED Equation.DSMT4  
+
+1+2+……+8+9+10+9+8+……+2+1=_____。
+【考点】等差数列计算题           【难度】2星          【题型】计算 
+【关键词】希望杯，四年级，二试
+1+2+3+…+n+…+3+2+1=n×n，所以原式=10×10=100
+【答案】 EMBED Equation.DSMT4  
+
+1966、1976、1986、1996、2006这五个数的总和是多少? 
+【考点】等差数列计算题           【难度】1星          【题型】计算
+【关键词】华杯赛，初赛
+1986是这五个数的平均数，所以和＝1986×5＝9930。
+【答案】 EMBED Equation.DSMT4  
+
+计算：110＋111＋112＋…＋126＝         
+【考点】等差数列计算题           【难度】2星          【题型】计算 
+【关键词】走美杯，四年级，初赛
+原式 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算下面结果． 
+    ⑴ EMBED Equation.DSMT4  
+   ⑵ EMBED Equation.DSMT4  
+ ⑶ EMBED Equation.DSMT4  
+【考点】等差数列计算题           【难度】2星          【题型】计算 
+根据刚刚学过的求项数以及求和公式，项数 EMBED Equation.DSMT4  (末项 EMBED Equation.DSMT4  首项) EMBED Equation.DSMT4  公差 EMBED Equation.DSMT4  
+等差数列的和 EMBED Equation.DSMT4  （首项＋末项） EMBED Equation.DSMT4  项数 EMBED Equation.DSMT4  
+⑴项数： EMBED Equation.DSMT4  ； 和： EMBED Equation.DSMT4  
+⑵项数： EMBED Equation.DSMT4  ；和： EMBED Equation.DSMT4  
+⑶项数： EMBED Equation.DSMT4  ；和： EMBED Equation.DSMT4   
+【答案】⑴ EMBED Equation.DSMT4             ⑵ EMBED Equation.DSMT4            ⑶ EMBED Equation.DSMT4  
+
+用等差数列的求和公式会计算下面各题吗？ 
+⑴ EMBED Equation.DSMT4  
+⑵ EMBED Equation.DSMT4  
+⑶ EMBED Equation.DSMT4  
+【考点】等差数列计算题           【难度】2星          【题型】计算 
+（1）算式中的等差数列一共有76项，所以： EMBED Equation.DSMT4  
+（2）算式中的等差数列一共有50项，所以： EMBED Equation.DSMT4  
+    （3）算式中的等差数列一共有15项，所以： EMBED Equation.DSMT4  
+【答案】（1） EMBED Equation.DSMT4          （2） EMBED Equation.DSMT4          （3） EMBED Equation.DSMT4  
+
+
+计算下列一组数的和：105，110，115，120，…，195，200
+【考点】等差数列计算题           【难度】2星          【题型】计算 
+根据等差数列求和公式，必须知道首项、末项和项数，这里首项是105，末项是200，但项数不知道．若利用 EMBED Equation.DSMT4  ，可有 EMBED Equation.DSMT4  
+据此可先求出项数，再求数列的和．
+  解：数列的项数
+ EMBED Equation.DSMT4  
+  EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  ．
+故数列的和是：
+ EMBED Equation.DSMT4  
+   EMBED Equation.DSMT4  
+   EMBED Equation.DSMT4  
+   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+聪明的小朋友们， EMBED Equation.DSMT4  一下吧． 
+    ⑴ EMBED Equation.DSMT4  
+   ⑵ EMBED Equation.DSMT4  
+【考点】等差数列计算题           【难度】2星          【题型】计算 
+根据刚刚学过的求项数以及求和公式，项数 EMBED Equation.DSMT4  (末项 EMBED Equation.DSMT4  首项) EMBED Equation.DSMT4  公差 EMBED Equation.DSMT4  
+等差数列的和 EMBED Equation.DSMT4  （首项＋末项） EMBED Equation.DSMT4  项数 EMBED Equation.DSMT4  
+⑴项数： EMBED Equation.DSMT4  ； 和： EMBED Equation.DSMT4  ；
+⑵项数： EMBED Equation.DSMT4  ；和： EMBED Equation.DSMT4  ．
+【答案】⑴ EMBED Equation.DSMT4              ⑵ EMBED Equation.DSMT4  
+
+巧算下题： 
+⑴ EMBED Equation.DSMT4  
+⑵ EMBED Equation.DSMT4  
+【考点】等差数列计算题           【难度】2星          【题型】计算 
+⑴原式 EMBED Equation.DSMT4  
+⑵这一串加数可以组成首项为1、末项为1999，公差为2的等差数列， 
+项数 EMBED Equation.DSMT4  ，原式 EMBED Equation.DSMT4  
+【答案】⑴ EMBED Equation.DSMT4            ⑵ EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】等差数列计算题           【难度】2星          【题型】计算 
+【关键词】走美杯，四年级，初赛
+观察原式可知，1、2、3…2007分别可与2007、2006、2005…1组成2008，于是括号中有2008个2008，故原式结果为2008。
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.3  __________
+【考点】等差数列计算题           【难度】2星          【题型】计算 
+【关键词】希望杯，4年级，1试
+根据中项定理知: 2005+2006+2007+2008+2009+2010+2011=2008×7,所以原式= 2008×7÷2008=7
+【答案】 EMBED Equation.DSMT4  
+
+计算：1÷50+2÷50+……+98÷50+99÷50=          HYPERLINK "http://photo.blog.sina.com.cn/showpic.html" \l "blogid=48ef377d0100ccfq&url=http://static7.photo.sina.com.cn/orignal/48ef377dx65392e8e5bc6" \t "_blank" 
+【考点】等差数列计算题           【难度】2星          【题型】计算 
+【关键词】希望杯，4年级，1试
+原式= EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： 
+⑴ EMBED Equation.DSMT4  
+⑵ EMBED Equation.DSMT4  
+⑶ EMBED Equation.DSMT4  
+【考点】等差数列计算题           【难度】3星          【题型】计算 
+⑴（方法一）第一个数列的项数1000，第二个数列的项数为999，利用求和公式得：
+ EMBED Equation.DSMT4  ．
+（方法二）第一个括号内共有1000个数，第二个括号内有999个数．把1除外，第一个括号内的各数依次比第二个括号里相应的数大1，因此可简捷求和．
+原式 EMBED Equation.DSMT4  (共1000个1) EMBED Equation.DSMT4  
+⑵通过观察可知，题目中的减数可以组成等差数列，所以，可先求这些减数的和，再从被减数中减去这个和．
+ EMBED Equation.DSMT4    EMBED Equation.DSMT4  ．当一个数连续减去几个数，这些减数能组成等差数列时，可以先求这些减数的和，再从被减数中减去这个和．
+⑶ EMBED Equation.DSMT4  
+  　　　   EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ 　　　    EMBED Equation.DSMT4  
+  　　　   EMBED Equation.DSMT4  
+【答案】⑴ EMBED Equation.DSMT4            ⑵ EMBED Equation.DSMT4            ⑶ EMBED Equation.DSMT4  
+
+计算 EMBED Equation.DSMT4  
+【考点】等差数列计算题           【难度】3星          【题型】计算 
+根据求项数公式可知两个括号内的算式都各有994项
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】等差数列计算题           【难度】3星          【题型】计算 
+【关键词】走美杯，3年级，决赛
+找规律并分组计算如下：
+ EMBED Equation.DSMT4    EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算：⑴  EMBED Equation.DSMT4  
+⑵  EMBED Equation.DSMT4  ；
+⑶  EMBED Equation.DSMT4  ．
+⑷  EMBED Equation.DSMT4  
+【考点】等差数列计算题           【难度】3星          【题型】计算 
+⑴ 和式 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  中的项成等差数列，从而可能想到先求和，再
+做减法．这样做，很自然，也比较简便，有其他更为简便的解法吗?再看题，你会冒出一个好想法：运用加减运算性质先做减法： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，它们的差都等于1，然后，计算等于1的差数有多少个．由于题中1至100的全部偶数之和作为被减数，奇数之和为减数，所以，相邻的奇偶数相减(以大减小)，共得50个差数1，从而，
+原式 EMBED Equation.DSMT4  ．
+⑵ 以把这个数列拆分为两个数列 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，对
+它们分别求和：原式 EMBED Equation.DSMT4  ；
+⑶ 本题也可以按照上题的方法做，但还有更简便的办法，把式子中的减法都计算出来可以得到下式： EMBED Equation.DSMT4  ．
+           这是 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  的组合，分别计算结果即可：
+           原式 EMBED Equation.DSMT4   
+⑷ 原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】⑴ EMBED Equation.DSMT4            ⑵ EMBED Equation.DSMT4            ⑶ EMBED Equation.DSMT4            ⑷ EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4   
+【考点】等差数列计算题           【难度】3星          【题型】计算 
+方法一：让学生用等差数列求和公式分别计算前后两部分，然后讲方法二，这样可以让学生体会
+观察数列规律，动脑思考的重要性．
+原式 EMBED Equation.DSMT4  
+方法二：把括号去掉，两两结合，简便计算．
+原式 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  ． 
+【考点】等差数列计算题           【难度】3星          【题型】计算 
+方法一：等差数列求和．
+原式 EMBED Equation.DSMT4  ．
+方法二：把括号去掉，两两结合，简便计算．
+原式 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+计算：   EMBED Equation.DSMT4  ．
+【考点】等差数列计算题           【难度】2星          【题型】计算 
+方法一：原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+方法二：原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+方法三： EMBED Equation.DSMT4  ，观察到这一点就好办了，改变原来的运算顺序不难发现每两个数放在一起就是2，就等于说每一个数都看成1就行了，原式有2008项，所以最后答案就是2008．（让学生体会观察数列规律动脑思考的重要性．）
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  ． 
+【考点】等差数列计算题           【难度】3星          【题型】计算 
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算：  EMBED Equation.DSMT4  ．
+【考点】等差数列计算题           【难度】2星          【题型】计算 
+【关键词】第十三届，迎春杯，试题
+原式 EMBED Equation.DSMT4        EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算 EMBED Equation.DSMT4  ______
+【考点】等差数列计算题           【难度】3星          【题型】计算 
+原式 EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ = 1 \* GB2 ⑴计算 EMBED Equation.DSMT4  
+ = 2 \* GB2 ⑵以质数71做分母的最简真分数有 EMBED Equation.DSMT4   EMBED Equation.DSMT4  求这列数的和
+ = 3 \* GB2 ⑶计算： EMBED Equation.DSMT4  
+【考点】等差数列计算题           【难度】3星          【题型】计算 
+ = 1 \* GB2 ⑴这是一个等差数列，根据等差数列求和公式计算得： EMBED Equation.DSMT4  
+ = 2 \* GB2 ⑵方法一：将这列数的分子从左往右排起来是1，2，3，4…69，70．可以发现这是一个等差数列，首项是1，末项是70，项数是70．我们可以用等差数列求和公式“和 EMBED Equation.DSMT4  (首项 EMBED Equation.DSMT4  末项) EMBED Equation.DSMT4  项数 EMBED Equation.DSMT4  ”求出分子相加的和，再求出以质数71做分母的最简真分数的和．
+                    EMBED Equation.DSMT4  
+方法二：将这列数排列起来，可以发现：
+第二项比第一项多 EMBED Equation.DSMT4  ，
+第三项比第二项多 EMBED Equation.DSMT4  ，
+第四项比第三项多 EMBED Equation.DSMT4  ，
+…………
+因此，可以直接使用等差数列求和公式求和．
+ EMBED Equation.DSMT4  
+ = 3 \* GB2 ⑶带分数加法，我们先计算整数部分，再计算分数部分，认真观察我们发现整数部分和分数部分都可以利用等差数列求和公式进行计算.
+ EMBED Equation.DSMT4  
+【答案】 = 1 \* GB2 ⑴ EMBED Equation.DSMT4                 = 2 \* GB2 ⑵ EMBED Equation.DSMT4                 = 3 \* GB2 ⑶ EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+1-2-1-2.等差数列的认识与公式运用.题库	                      教师版                               page  PAGE 9 of  NUMPAGES 9
+
+
+
+等差数列计算题
+
+知识点拨
+
+例题精讲
+
+
+

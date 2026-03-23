@@ -1,0 +1,331 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE  \* MERGEFORMAT 
+
+1.使学生正确理解组合的意义；正确区分排列、组合问题；
+2.了解组合数的意义，能根据具体的问题，写出符合要求的组合；
+3.掌握组合的计算公式以及组合数与排列数之间的关系；
+4.会分析与数字有关的计数问题，以及与其他专题的综合运用，培养学生的抽象能力和逻辑思维能力；
+通过本讲的学习，对组合的一些计数问题进行归纳总结，重点掌握组合的联系和区别，并掌握一些组合技巧，如排除法、插板法等．
+
+ SHAPE  \* MERGEFORMAT 
+
+一、组合问题
+
+日常生活中有很多“分组”问题．如在体育比赛中，把参赛队分为几个组，从全班同学中选出几人参加某项活动等等．这种“分组”问题，就是我们将要讨论的组合问题，这里，我们将着重研究有多少种分组方法的问题．
+一般地，从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个( EMBED Equation.DSMT4  )元素组成一组不计较组内各元素的次序，叫做从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个元素的一个组合．
+    从排列和组合的定义可以知道，排列与元素的顺序有关，而组合与顺序无关．如果两个组合中的元素完全相同，那么不管元素的顺序如何，都是相同的组合，只有当两个组合中的元素不完全相同时，才是不同的组合．
+从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个元素( EMBED Equation.DSMT4  )的所有组合的个数，叫做从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个不同元素的组合数．记作 EMBED Equation.DSMT4  ．
+一般地，求从 EMBED Equation.DSMT4  个不同元素中取出的 EMBED Equation.DSMT4  个元素的排列数 EMBED Equation.DSMT4  可分成以下两步：
+第一步：从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个元素组成一组，共有 EMBED Equation.DSMT4  种方法；
+　　第二步：将每一个组合中的 EMBED Equation.DSMT4  个元素进行全排列，共有 EMBED  \* MERGEFORMAT 种排法．
+根据乘法原理，得到 EMBED Equation.DSMT4  ．
+因此，组合数 EMBED Equation.3  ．
+这个公式就是组合数公式．
+
+二、组合数的重要性质
+
+一般地，组合数有下面的重要性质： EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )
+这个公式的直观意义是： EMBED Equation.DSMT4  表示从 EMBED Equation.DSMT4  个元素中取出 EMBED Equation.DSMT4  个元素组成一组的所有分组方法． EMBED Equation.DSMT4  表示从 EMBED Equation.DSMT4  个元素中取出( EMBED Equation.DSMT4  )个元素组成一组的所有分组方法．显然，从 EMBED Equation.DSMT4  个元素中选出 EMBED Equation.DSMT4  个元素的分组方法恰是从 EMBED Equation.DSMT4  个元素中选 EMBED Equation.DSMT4  个元素剩下的( EMBED Equation.DSMT4  )个元素的分组方法．
+例如，从 EMBED Equation.DSMT4  人中选 EMBED Equation.DSMT4  人开会的方法和从 EMBED Equation.DSMT4  人中选出 EMBED Equation.DSMT4  人不去开会的方法是一样多的，即 EMBED Equation.DSMT4  ．
+规定 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+ SHAPE  \* MERGEFORMAT 
+
+模块一、组合之几何问题
+
+在一个圆周上有 EMBED Equation.DSMT4  个点，以这些点为端点或顶点，可以画出多少不同的：
+⑴ 直线段；⑵ 三角形；⑶ 四边形． 
+【考点】组合之基本运用          【难度】3星          【题型】解答 
+由于 EMBED Equation.DSMT4  个点全在圆周上，所以这 EMBED Equation.DSMT4  个点没有三点共线，故只要在 EMBED Equation.DSMT4  个点中取 EMBED Equation.DSMT4  个点，就可以画出一条线段；在 EMBED Equation.DSMT4  个点中取 EMBED Equation.DSMT4  个点，就可以画出一个三角形；在 EMBED Equation.DSMT4  个点中取 EMBED Equation.DSMT4  个点，就可以画出一个四边形，三个问题都是组合问题．
+由组合数公式：
+⑴ 可画出 EMBED Equation.DSMT4  (条)直线段．
+⑵ 可画出 EMBED Equation.DSMT4  (个)三角形．
+⑶ 可画出 EMBED Equation.DSMT4  (个)四边形．
+【答案】⑴ EMBED Equation.DSMT4               ⑵ EMBED Equation.DSMT4              ⑶ EMBED Equation.DSMT4  
+
+平面内有10个点，以其中每2个点为端点的线段共有多少条？ 
+【考点】组合之基本运用          【难度】2星          【题型】解答 
+这道题不考虑线段两个端点的顺序，是组合问题，实际上是求从 EMBED Equation.DSMT4  个元素中取出 EMBED Equation.DSMT4  个元素的组合数，由组合数公式， EMBED Equation.DSMT4  ，所以以 EMBED Equation.DSMT4  个点中每 EMBED Equation.DSMT4  个点为端点的线段共有 EMBED Equation.DSMT4  条．
+【答案】 EMBED Equation.DSMT4  
+
+在正七边形中，以七边形的三个顶点为顶点的三角形共有多少个？ 
+【考点】组合之基本运用          【难度】2星          【题型】解答 
+三角形的形状与三个顶点选取的先后顺序无关，所以这是一个组合问题，实际上是求从 EMBED Equation.DSMT4  个点中选出 EMBED Equation.DSMT4  个点的选法，等于 EMBED Equation.DSMT4  (种)．
+【答案】 EMBED Equation.DSMT4  
+
+平面内有 EMBED Equation.DSMT4  个点，其中 EMBED Equation.DSMT4  点共线，此外再无三点共线． ⑴ 可确定多少个三角形？⑵ 可确定多少条射线？ 
+【考点】组合之基本运用          【难度】3星          【题型】解答 
+⑴ 分三类：
+①有 EMBED Equation.DSMT4  个顶点在共线的 EMBED Equation.DSMT4  点中，另 EMBED Equation.DSMT4  个顶点在不共线的 EMBED Equation.DSMT4  点中的三角形有
+ EMBED Equation.DSMT4  个；
+②有 EMBED Equation.DSMT4  个顶点在共线的 EMBED Equation.DSMT4  点中，另 EMBED Equation.DSMT4  个顶点在不共线的 EMBED Equation.DSMT4  点中的三角形有
+ EMBED Equation.DSMT4  (个)；
+③ EMBED Equation.DSMT4  个顶点都在不共线的 EMBED Equation.DSMT4  点中的三角形有 EMBED Equation.DSMT4  个．
+根据加法原理，可确定 EMBED Equation.DSMT4  个三角形．
+⑵ 两点可以确定两条射线，分三类：
+①共线的 EMBED Equation.DSMT4  点，确定 EMBED Equation.DSMT4  条射线；
+②不共线的 EMBED Equation.DSMT4  点，每两点确定两条射线，共有 EMBED Equation.DSMT4  (条)射线；
+③从共线的 EMBED Equation.DSMT4  点与不共线的 EMBED Equation.DSMT4  点中各取一个点可以确定 EMBED Equation.DSMT4  (条)射线．
+根据加法原理，可以确定 EMBED Equation.DSMT4  (条)射线．
+【答案】⑴ EMBED Equation.DSMT4                   ⑵ EMBED Equation.DSMT4  
+
+如图，问：⑴ 图 EMBED Equation.DSMT4  中，共有多少条线段？ ⑵ 图 EMBED Equation.DSMT4  中，共有多少个角？ 
+　　　　   
+　　　　　　　　　　　　　图 EMBED Equation.DSMT4  　　　　　　　 　　　　　　　图 EMBED Equation.DSMT4  
+【考点】组合之基本运用          【难度】1星          【题型】解答 
+⑴ 在线段 EMBED Equation.DSMT4  上共有 EMBED Equation.DSMT4  个点（包括端点 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ）．注意到，只要在这七个点中选出两个点，就有
+一条以这两个点为端点的线段，所以，这是一个组合问题，而 EMBED Equation.DSMT4  表示从 EMBED Equation.DSMT4  个点中取两个不同点的所有取法，每种取法可以确定一条线段，所以共有 EMBED Equation.DSMT4  条线段．
+由组合数公式知，共有 EMBED Equation.DSMT4  (条)不同的线段；
+　　　　⑵ 从 EMBED Equation.DSMT4  点出发的射线一共有 EMBED Equation.DSMT4  条，它们是 EMBED Equation.DSMT4  ，  EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．注意到每两条射线可以形成一个角，所以，只要看从 EMBED Equation.DSMT4  条射线中取两条射线有多少种取法，就有多少个角．显然，是组合问题，共有 EMBED Equation.DSMT4  种不同的取法，所以，可组成 EMBED Equation.DSMT4  个角．
+　   由组合数公式知，共有 EMBED Equation.DSMT4  (个)不同的角．
+【答案】⑴ EMBED Equation.DSMT4                  ⑵ EMBED Equation.DSMT4  
+
+模块二、组合之应用题
+
+6个朋友聚会，每两人握手一次，一共握手多少次？ 
+【考点】组合之基本运用          【难度】1星          【题型】解答 
+这与课前挑战的情景是类似的．因为两个人握手是相互的， EMBED Equation.DSMT4  个朋友每两人握手一次，握手次数只与握手的两个人的选取有关而与两个人的顺序无关，所以这是个组合问题．
+由组合数公式知， EMBED Equation.DSMT4  (次)．所以一共握手 EMBED Equation.DSMT4  次．
+【答案】 EMBED Equation.DSMT4  
+
+某班毕业生中有 EMBED Equation.DSMT4  名同学相见了，他们互相都握了一次手，问这次聚会大家一共握了多少次手？ 
+【考点】组合之基本运用          【难度】1星          【题型】解答 
+ EMBED Equation.DSMT4  (次)．
+【答案】 EMBED Equation.DSMT4  
+
+学校开设 EMBED Equation.DSMT4  门任意选修课，要求每个学生从中选学 EMBED Equation.DSMT4  门，共有多少种不同的选法？ 
+【考点】组合之基本运用          【难度】2星          【题型】解答 
+被选中的 EMBED Equation.DSMT4  门排列顺序不予考虑，所以这是个组合问题．
+由组合数公式知， EMBED Equation.DSMT4  (种)．
+所以共有 EMBED Equation.DSMT4  种不同的选法．
+【答案】 EMBED Equation.DSMT4  
+
+有2克，5克，20克的砝码各1个，只用砝码和一架已经调节平衡了的天平，能称出        种不同的质量。
+【考点】组合之基本运用   【难度】3星   【题型】填空
+【关键词】希望杯，五年级，一试，第5题
+第一大类：砝码只放一边。共有 EMBED Equation.DSMT4  或者 EMBED Equation.DSMT4  （种）；第二大类：两边都放砝码。再分类：两边各放一个，共有 EMBED Equation.DSMT4  种；一边放两个一边放一个有 EMBED Equation.DSMT4  或者 EMBED Equation.DSMT4  种。所以这一大类共有 EMBED Equation.DSMT4  （种）。根据加法原理，共能称出7+6=13（种）不同的质量。
+【答案】 EMBED Equation.DSMT4  种
+
+工厂某日生产的10件产品中有2件次品，从这10件产品中任意抽出3件进行检查，问：
+（1）一共有多少种不同的抽法？
+（2）抽出的3件中恰好有一件是次品的抽法有多少种？
+（3）抽出的3件中至少有一件是次品的抽法有多少种？ 
+【考点】组合之基本运用          【难度】3星          【题型】解答 
+（1）从10件产品中抽出3件，抽法总数为 EMBED Equation.DSMT4   QUOTE  =120（种）
+（2）3件中恰好一件次品，那么还有两件正常品．
+抽法总数为 QUOTE   EMBED Equation.DSMT4  × QUOTE   EMBED Equation.DSMT4  =56（种）
+（3）与“至少有一件是次品”互补的事件是“全都不是次品”
+全都不是次品的抽法总数为 EMBED Equation.DSMT4   QUOTE  =56（种）
+所以至少有一件次品的抽法总数为120-56=64（种）．
+【答案】（1）120             （2）56            （3）64  
+
+200件产品中有5件是次品，现从中任意抽取4件，按下列条件，各有多少种不同的抽法（只要求列式）？⑴都不是次品；⑵至少有1件次品；⑶不都是次品． 
+【考点】组合之基本运用          【难度】3星          【题型】解答 
+第⑴题：与顺序无关；都不是次品，即全部都是正品，正品有195件．第⑵题：与顺序无关；至少有1件次品，即有1件次品、2件次品、3件次品、4件次品等四类情况，次品共5件．可用直接法解答，也可用间接法解答．第⑶题：与顺序无关；不都是次品，即至少有1件是正品．
+⑴都不是次品，即全部为正品．
+共有抽法 EMBED Equation.DSMT4  种．
+⑵至少有1件次品，包括1件、2件、3件、4件次品的情况．
+共有抽法 EMBED Equation.DSMT4  种（或 EMBED Equation.DSMT4  种）．
+⑶不都是次品，即至少有1件正品．
+共有抽法 EMBED Equation.DSMT4  种（或 EMBED Equation.DSMT4  种）．
+【答案】⑴ EMBED Equation.DSMT4                 ⑵ EMBED Equation.DSMT4                   ⑶ EMBED Equation.DSMT4  
+
+某班要在 EMBED Equation.DSMT4  名同学中选出 EMBED Equation.DSMT4  名同学去参加夏令营，问共有多少种选法？如果在 EMBED Equation.DSMT4  人中选 EMBED Equation.DSMT4  人站成一排，有多少种站法？ 
+【考点】组合之基本运用          【难度】3星          【题型】解答 
+要在 EMBED Equation.DSMT4  人中选 EMBED Equation.DSMT4  人去参加夏令营，那么，所有的选法只与选出的同学有关，而与三名同学被选出的顺序无关．所以，应用组合数公式，共有 EMBED Equation.DSMT4  种不同的选法．
+　　　　要在 EMBED Equation.DSMT4  人中选出 EMBED Equation.DSMT4  人站成一排，那么，所有的站法不仅与选出的同学有关，而且与三名同学被选出的顺序有关．所以，应用排列数公式，共有 EMBED Equation.DSMT4  种不同的站法．
+由组合数公式，共有 EMBED Equation.DSMT4  (种)不同的选法；
+由排列数公式，共有 EMBED Equation.DSMT4  (种)不同的站法．
+【答案】 EMBED Equation.DSMT4  
+
+将三盘同样的红花和四盘同样的黄花摆放成一排，要求三盘红花互不相邻，共有__________种不同的方法． 
+【考点】组合之基本运用          【难度】1星          【题型】解答 
+【关键词】希望杯，1试
+因为三盘红花不能相邻，所以可以先将四盘黄花摆好，红花只能摆在黄花之间或者黄花的两边．这样共有 EMBED Equation.DSMT4  个空，每个空最多只能放一盘红花，相当于从 EMBED Equation.DSMT4  个元素中取出 EMBED Equation.DSMT4  个，所以共有 EMBED Equation.DSMT4  种不同的放法．
+【答案】 EMBED Equation.DSMT4  
+
+在一次合唱比赛中，有身高互不相同的8个人要站成两排，每排4个人，且前后对齐．而且第二排的每个人都要比他身前的那个人高，这样才不会被挡住．一共有多少种不同的排队方法？ 
+【考点】组合之基本运用          【难度】2星          【题型】解答 
+因为所有人的身高两两不同，所以只要确定了位于同一列的两个人是谁，也就确定了他们的前后关系．所以排队方法总数为：
+ EMBED Equation.DSMT4  （种）．
+【答案】 EMBED Equation.DSMT4  
+
+在一次考试的选做题部分，要求在第一题的 EMBED Equation.DSMT4  个小题中选做 EMBED Equation.DSMT4  个小题，在第二题的 EMBED Equation.DSMT4  个小题中选做 EMBED Equation.DSMT4  个小题，在第三题的 EMBED Equation.DSMT4  个小题中选做 EMBED Equation.DSMT4  个小题，有多少种不同的选法？ 
+【考点】组合之基本运用          【难度】1星          【题型】解答 
+由于选做的题目只与选取的题目有关，而与题目的顺序无关，所以在三道题中选题都是组合问题．
+第一题中， EMBED Equation.DSMT4  个小题中选做 EMBED Equation.DSMT4  个，有 EMBED Equation.DSMT4  (种)选法；
+第二题中， EMBED Equation.DSMT4  个小题中选做 EMBED Equation.DSMT4  个，有 EMBED Equation.DSMT4  (种)选法；
+第三题中， EMBED Equation.DSMT4  个小题中选做 EMBED Equation.DSMT4  个，有 EMBED Equation.DSMT4  (种)选法．
+根据乘法原理，一共有 EMBED Equation.DSMT4  (种)不同的选法．
+【答案】 EMBED Equation.DSMT4  
+
+某年级 EMBED Equation.DSMT4  个班的数学课，分配给甲、乙、丙三名数学老师任教，每人教两个班，分派的方法有多少种？ 
+【考点】组合之基本运用          【难度】3星          【题型】解答 
+分三步进行：
+第一步，取两个班分配给甲，与先后顺序无关，是组合问题，有 EMBED Equation.DSMT4  (种)选法；
+第二步，从余下的 EMBED Equation.DSMT4  个班中选取两个班给乙，有 EMBED Equation.DSMT4  (种)选法；
+第三步，剩余的两个班给丙，有 EMBED Equation.DSMT4  种选法．
+根据乘法原理，一共有 EMBED Equation.DSMT4  (种)不同的分配方法．
+【答案】 EMBED Equation.DSMT4  
+
+将19枚棋子放入 EMBED Equation.DSMT4  的方格网内，每个方格至多只放一枚棋子，且每行每列的棋子个数均为奇数个，那么共有________种不同的放法． 
+【考点】组合之基本运用          【难度】2星          【题型】解答 
+【关键词】迎春杯，高年级，初赛
+ EMBED Equation.DSMT4  的方格网共有25个方格，放入19枚棋子，说明还有6个空格．由于棋子的数目较多，直接考虑棋子比较困难，可以反过来考虑6个空格．由于每行每列的棋子个数均为奇数个，而每行每列都有5个方格，说明每行每列的空格数都是偶数个．那么每行每列的空格数可能为0，2或4．如果有某一行或某一列的空格数为4个，为保证每行每列的空格数都是偶数个，那么这4个空格所在的列或行都至少还有另外1枚棋子，这样至少有8个空格，与题意不符，所以每行每列的空格数不能为4个，只能为0个或2个．则肯定是某3行和某3列中每行每列各有2个空格，如下：
+□□○
+□○□
+○□□
+其中□表示空格，○表示有棋子的方格，其它的方格则全部有棋子．
+选择有空格的3行3列有 EMBED Equation.DSMT4  种选法，在这3行3列中选择6个空格(也相当于每行每列选择1枚棋子)有 EMBED Equation.DSMT4  种选法，所以总共有 EMBED Equation.DSMT4  种不同的放法．
+【答案】 EMBED Equation.DSMT4  
+
+甲射击员在练习射击，前方有三种不同类型的气球，共3串，有一串是红气球3个，有一串是黄气球2个，有一串是绿气球4个，而且每次射击必须射最下面的气球，问有多少种不同的射法？ 
+
+【考点】组合之基本运用          【难度】3星          【题型】解答 
+根据射击规则，任意一种打法都对应三个红色气球，二个黄色气球，四个绿色气球，即9个物体的排列，当然有 EMBED Equation.DSMT4  种排列方法．
+但是，其中三个红色气球是不能随意排列的，应该是固定由下到上的，而上面却包括了它的随意排列的情况，所以应该除以 EMBED Equation.DSMT4  ，其他黄色气球、绿色气球依此类推．
+所以共有射击方法： EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  (种)．
+本题也可以这样想：任意一种打法都对应9个物体的排列，从中先选出3个位置给红色气球，有 EMBED Equation.DSMT4  种选法；这3个红色气球的顺序是固定的，所以它们之间只有一种排列顺序；再从剩下的6个位置中选出2个给黄色气球，有 EMBED Equation.DSMT4  种选法；它们之间也只有一种排列顺序；剩下的4个位置给绿色气球，它们之间也只有一种排列顺序．所以，根据乘法原理，共有 EMBED Equation.DSMT4  种不同的射法．
+【答案】 EMBED Equation.DSMT4  
+
+某池塘中有 EMBED Equation.DSMT4  三只游船， EMBED Equation.DSMT4  船可乘坐 EMBED Equation.DSMT4  人， EMBED Equation.DSMT4  船可乘坐 EMBED Equation.DSMT4  人， EMBED Equation.DSMT4  船可乘坐 EMBED Equation.DSMT4  人，今有 EMBED Equation.DSMT4  个成人和 EMBED Equation.DSMT4  个儿童要分乘这些游船，为安全起见，有儿童乘坐的游船上必须至少有个成人陪同，那么他们 EMBED Equation.DSMT4  人乘坐这三支游船的所有安全乘船方法共有多少种？ 
+【考点】组合之基本运用          【难度】3星          【题型】解答 
+由于有儿童乘坐的游船上必须至少有 EMBED Equation.DSMT4  个成人陪同，所以儿童不能乘坐 EMBED Equation.DSMT4  船．
+⑴若这 EMBED Equation.DSMT4  人都不乘坐 EMBED Equation.DSMT4  船，则恰好坐满 EMBED Equation.DSMT4  两船，①若两个儿童在同一条船上，只能在 EMBED Equation.DSMT4  船上，此时 EMBED Equation.DSMT4  船上还必须有 EMBED Equation.DSMT4  个成人，有 EMBED Equation.DSMT4  种方法；②若两个儿童不在同一条船上，即分别在 EMBED Equation.DSMT4  两船上，则 EMBED Equation.DSMT4  船上有 EMBED Equation.DSMT4  个儿童和 EMBED Equation.DSMT4  个成人， EMBED Equation.DSMT4  个儿童有 EMBED Equation.DSMT4  种选择， EMBED Equation.DSMT4  个成人有 EMBED Equation.DSMT4  种选择，所以有 EMBED Equation.DSMT4  种方法．故 EMBED Equation.DSMT4  人都不乘坐 EMBED Equation.DSMT4  船有 EMBED Equation.DSMT4  种安全方法；
+⑵若这 EMBED Equation.DSMT4  人中有 EMBED Equation.DSMT4  人乘坐 EMBED Equation.DSMT4  船，这个人必定是个成人，有 EMBED Equation.DSMT4  种选择．其余的 EMBED Equation.DSMT4  个成人与 EMBED Equation.DSMT4  个儿童，①若两个儿童在同一条船上，只能在 EMBED Equation.DSMT4  船上，此时 EMBED Equation.DSMT4  船上还必须有 EMBED Equation.DSMT4  个成人，有 EMBED Equation.DSMT4  种方法，所以此时有 EMBED Equation.DSMT4  种方法；②若两个儿童不在同一条船上，那么 EMBED Equation.DSMT4  船上有 EMBED Equation.DSMT4  个儿童和 EMBED Equation.DSMT4  个成人，此时 EMBED Equation.DSMT4  个儿童和 EMBED Equation.DSMT4  个成人均有 EMBED Equation.DSMT4  种选择，所以此种情况下有 EMBED Equation.DSMT4  种方法；故 EMBED Equation.DSMT4  人中有 EMBED Equation.DSMT4  人乘坐 EMBED Equation.DSMT4  船有 EMBED Equation.DSMT4  种安全方法．
+所以，共有 EMBED Equation.DSMT4  种安全乘法．
+【答案】 EMBED Equation.DSMT4  
+
+有蓝色旗 EMBED Equation.DSMT4  面，黄色旗 EMBED Equation.DSMT4  面，红色旗 EMBED Equation.DSMT4  面．这些旗的模样、大小都相同．现在把这些旗挂在一个旗杆上做成各种信号，如果按挂旗的面数及从上到下颜色的顺序区分信号，那么利用这些旗能表示多少种不同信号? 
+【考点】组合之基本运用          【难度】2星          【题型】解答 
+按挂旗的面数来分类考虑．
+第一类：挂一面旗．从蓝、黄、红中分别取一面，可以表示 EMBED Equation.DSMT4  种不同信号；
+第二类：挂两面旗．按颜色分成：红 EMBED Equation.DSMT4  黄（ EMBED Equation.DSMT4  种）；红 EMBED Equation.DSMT4  蓝（ EMBED Equation.DSMT4  种）；黄 EMBED Equation.DSMT4  蓝（ EMBED Equation.DSMT4   种）；黄 EMBED Equation.DSMT4  黄（ EMBED Equation.DSMT4  种）；蓝 EMBED Equation.DSMT4  蓝（ EMBED Equation.DSMT4  种）；共 EMBED Equation.DSMT4  种；
+第三类：挂三面旗．按颜色分类：红 EMBED Equation.DSMT4  蓝 EMBED Equation.DSMT4  蓝（ EMBED Equation.DSMT4  种）；红 EMBED Equation.DSMT4  黄 EMBED Equation.DSMT4  黄（ EMBED Equation.DSMT4  种）；红 EMBED Equation.DSMT4  黄 EMBED Equation.DSMT4  蓝（ EMBED Equation.DSMT4  种）；黄 EMBED Equation.DSMT4  黄 EMBED Equation.DSMT4  蓝（ EMBED Equation.DSMT4  种）；黄 EMBED Equation.DSMT4  蓝 EMBED Equation.DSMT4  蓝（ EMBED Equation.DSMT4  种）；蓝 EMBED Equation.DSMT4  蓝 EMBED Equation.DSMT4  蓝（ EMBED Equation.DSMT4  种）；共 EMBED Equation.DSMT4  种；
+第四类：挂四面旗．按颜色分类：红 EMBED Equation.DSMT4  黄 EMBED Equation.DSMT4  黄 EMBED Equation.DSMT4  蓝（ EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  种）；红 EMBED Equation.DSMT4  黄 EMBED Equation.DSMT4  蓝 EMBED Equation.DSMT4  蓝（ EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  种）；红 EMBED Equation.DSMT4  蓝 EMBED Equation.DSMT4  蓝 EMBED Equation.DSMT4  蓝（ EMBED Equation.DSMT4  种）；黄 EMBED Equation.DSMT4  黄 EMBED Equation.DSMT4  蓝 EMBED Equation.DSMT4  蓝（ EMBED Equation.DSMT4  种）；黄 EMBED Equation.DSMT4  蓝 EMBED Equation.DSMT4  蓝 EMBED Equation.DSMT4  蓝（ EMBED Equation.DSMT4  种），共 EMBED Equation.DSMT4  种；
+第五类：挂五面旗．按颜色分类：红 EMBED Equation.DSMT4  黄 EMBED Equation.DSMT4  黄 EMBED Equation.DSMT4  蓝 EMBED Equation.DSMT4  蓝（ EMBED Equation.DSMT4  种）；红 EMBED Equation.DSMT4  黄 EMBED Equation.DSMT4   蓝 EMBED Equation.DSMT4  蓝 EMBED Equation.DSMT4  蓝（ EMBED Equation.DSMT4  种）；黄 EMBED Equation.DSMT4  黄 EMBED Equation.DSMT4  蓝 EMBED Equation.DSMT4  蓝 EMBED Equation.DSMT4  蓝（ EMBED Equation.DSMT4  种），共 EMBED Equation.DSMT4  种；
+第六类：挂六面旗．红 EMBED Equation.DSMT4  黄 EMBED Equation.DSMT4  黄 EMBED Equation.DSMT4  蓝 EMBED Equation.DSMT4  蓝 EMBED Equation.DSMT4  蓝（ EMBED Equation.DSMT4  种）．
+根据加法原理，共可以表示 EMBED Equation.DSMT4  种不同的信号．
+【答案】 EMBED Equation.DSMT4  
+
+从 EMBED Equation.DSMT4  名男生， EMBED Equation.DSMT4  名女生中选出 EMBED Equation.DSMT4  人参加游泳比赛．在下列条件下，分别有多少种选法？ ⑴恰有 EMBED Equation.DSMT4  名女生入选；⑵至少有两名女生入选；⑶某两名女生，某两名男生必须入选； ⑷某两名女生，某两名男生不能同时入选；⑸某两名女生，某两名男生最多入选两人． 
+【考点】组合之基本运用          【难度】3星          【题型】解答 
+⑴恰有 EMBED Equation.DSMT4  名女生入选，说明男生有 EMBED Equation.DSMT4  人入选，应为 EMBED Equation.DSMT4  种；
+⑵要求至少两名女生人选，那么“只有一名女生入选”和“没有女生入选”都不符合要求．运用包含与排除的方法，从所有可能的选法中减去不符合要求的情况：
+ EMBED Equation.DSMT4  ；
+⑶ EMBED Equation.DSMT4  人必须入选，则从剩下的 EMBED Equation.DSMT4  人中再选出另外 EMBED Equation.DSMT4  人，有 EMBED Equation.DSMT4  种；
+⑷从所有的选法 EMBED Equation.DSMT4  种中减去这 EMBED Equation.DSMT4  个人同时入选的 EMBED Equation.DSMT4  种：
+ EMBED Equation.DSMT4  ．
+⑸分三类情况： EMBED Equation.DSMT4  人无人入选； EMBED Equation.DSMT4  人仅有 EMBED Equation.DSMT4  人入选； EMBED Equation.DSMT4  人中有 EMBED Equation.DSMT4  人入选，共：
+ EMBED Equation.DSMT4  ．
+【答案】⑴ EMBED Equation.DSMT4  种；
+⑵ EMBED Equation.DSMT4  ；
+⑶ EMBED Equation.DSMT4  种；
+⑷ EMBED Equation.DSMT4  ．
+⑸ EMBED Equation.DSMT4  ．
+
+
+从 EMBED Equation.DSMT4  名男生， EMBED Equation.DSMT4  名女生中选出 EMBED Equation.DSMT4  名代表． ⑴ 不同的选法共有多少种？ ⑵ “至少有一名女生”的不同选法共有多少种？ ⑶ “代表中男、女生都要有”的不同选法共有多少种？ 
+【考点】组合之基本运用          【难度】3星          【题型】解答 
+⑴ 相当于从 EMBED Equation.DSMT4  名学生中任意选 EMBED Equation.DSMT4  名，不同的选法有 EMBED Equation.DSMT4  (种)．
+⑵ 方法一：可以分成三类：
+①选 EMBED Equation.DSMT4  名女生，选 EMBED Equation.DSMT4  名男生．由乘法原理，有 EMBED Equation.DSMT4  (种)选法；
+②选 EMBED Equation.DSMT4  名女生，选 EMBED Equation.DSMT4  名男生．由乘法原理，有 EMBED Equation.DSMT4  (种)选法；
+③选 EMBED Equation.DSMT4  名女生，男生不选，有 EMBED Equation.DSMT4  种选法．
+根据加法原理，“至少有一名女生”的不同选法有 EMBED Equation.DSMT4  (种)．
+方法二：先不考虑对女生的特殊要求，从从 EMBED Equation.DSMT4  名学生中任意选 EMBED Equation.DSMT4  名，有 EMBED Equation.DSMT4  (种)选法；考虑一个女生都不选的情况，则 EMBED Equation.DSMT4  名代表全产生于男生中，有 EMBED Equation.DSMT4   (种)选法，所以，至少选一名女生的选法有 EMBED Equation.DSMT4  种，这种“去杂法”做起来也比较简单．
+⑶ “代表中男、女生都要有”，可以分成两类：
+① EMBED Equation.DSMT4  名男生， EMBED Equation.DSMT4  名女生，由乘法原理，有 EMBED Equation.DSMT4  (种)选法；
+② EMBED Equation.DSMT4  名男生， EMBED Equation.DSMT4  名女生，由乘法原理，有 EMBED Equation.DSMT4  (种)选法．
+根据加法原理，“代表中男、女生都要有”的不同选法共有 EMBED Equation.DSMT4  (种)．
+【小结】选择问题是组合问题中的一类常见问题，可根据具体情况从正面考虑或逆向求解，采用“去杂法”．
+【答案】⑴ EMBED Equation.DSMT4                ⑵ EMBED Equation.DSMT4                ⑶ EMBED Equation.DSMT4  
+
+在6名内科医生和4名外科医生中，内科主任和外科主任各一名，现要组成5人医疗小组送医下乡，按照下列条件各有多少种选派方法？ ⑴ 有3名内科医生和2名外科医生； ⑵ 既有内科医生，又有外科医生； ⑶ 至少有一名主任参加； ⑷ 既有主任，又有外科医生． 
+【考点】组合之基本运用          【难度】4星          【题型】解答 
+⑴ 先从 EMBED Equation.DSMT4  名内科医生中选 EMBED Equation.DSMT4  名，有 EMBED Equation.DSMT4  种选法；再从 EMBED Equation.DSMT4  名外科医生中选 EMBED Equation.DSMT4  名，共有 EMBED Equation.DSMT4  种选法．根据乘法原理，一共有选派方法 EMBED Equation.DSMT4  种．
+⑵ 用“去杂法”较方便，先考虑从 EMBED Equation.DSMT4  名医生中任意选派 EMBED Equation.DSMT4  人，有 EMBED Equation.DSMT4   种选派方法；再考虑只有外科医生或只有内科医生的情况．由于外科医生只有 EMBED Equation.DSMT4  人，所以不可能只派外科医生．如果只派内科医生，有 EMBED Equation.DSMT4  种选派方法．所以，一共有 EMBED Equation.DSMT4  种既有内科医生又有外科医生的选派方法．
+⑶ 如果选 EMBED Equation.DSMT4  名主任，则不是主任的 EMBED Equation.DSMT4  名医生要选 EMBED Equation.DSMT4  人，有 EMBED Equation.DSMT4  种选派方法；如果选 EMBED Equation.DSMT4  名主任，则不是主任的 EMBED Equation.DSMT4  名医生要选 EMBED Equation.DSMT4  人，有 EMBED Equation.DSMT4  种选派方法．根据加法原理，一共有 EMBED Equation.DSMT4  种选派方法．
+⑷ 分两类讨论：
+①若选外科主任，则其余 EMBED Equation.DSMT4  人可任意选取，有 EMBED Equation.DSMT4  种选取方法；
+②若不选外科主任，则必选内科主任，且剩余 EMBED Equation.DSMT4  人不能全选内科医生，用“去杂法”有 EMBED Equation.DSMT4  种选取法．
+根据加法原理，一共有 EMBED Equation.DSMT4  种选派方法．
+【答案】⑴ EMBED Equation.DSMT4             ⑵ EMBED Equation.DSMT4            ⑶ EMBED Equation.DSMT4            ⑷ EMBED Equation.DSMT4  
+
+在10名学生中，有5人会装电脑，有3人会安装音响设备，其余2人既会安装电脑，又会安装音响设备，今选派由 EMBED Equation.DSMT4  人组成的安装小组，组内安装电脑要 EMBED Equation.DSMT4  人，安装音响设备要 EMBED Equation.DSMT4  人，共有多少种不同的选人方案？ 
+【考点】组合之基本运用          【难度】4星          【题型】解答 
+按具有双项技术的学生分类：
+⑴ 两人都不选派，有 EMBED Equation.DSMT4  (种)选派方法；
+⑵ 两人中选派 EMBED Equation.DSMT4  人，有 EMBED Equation.DSMT4  种选法．而针对此人的任务又分两类：
+若此人要安装电脑，则还需 EMBED Equation.DSMT4  人安装电脑，有 EMBED Equation.DSMT4  (种)选法，而另外会安装音响设备的 EMBED Equation.DSMT4  人全选派上，只有 EMBED Equation.DSMT4  种选法．由乘法原理，有 EMBED Equation.DSMT4  (种)选法；
+若此人安装音响设备，则还需从 EMBED Equation.DSMT4  人中选 EMBED Equation.DSMT4  人安装音响设备，有 EMBED Equation.DSMT4  (种)选法，需从 EMBED Equation.DSMT4  人中选 EMBED Equation.DSMT4  人安装电脑，有 EMBED Equation.DSMT4  (种)选法．由乘法原理，有 EMBED Equation.DSMT4  (种)选法．
+根据加法原理，有 EMBED Equation.DSMT4  (种)选法；
+综上所述，一共有 EMBED Equation.DSMT4  (种)选派方法．
+⑶ 两人全派，针对两人的任务可分类讨论如下：
+①两人全安装电脑，则还需要从 EMBED Equation.DSMT4  人中选 EMBED Equation.DSMT4  人安装电脑，另外会安装音响设备的 EMBED Equation.DSMT4  人全选上安装音响设备，有 EMBED Equation.DSMT4  (种)选派方案；
+②两人一个安装电脑，一个安装音响设备，有 EMBED Equation.DSMT4  (种)选派方案；
+③两人全安装音响设备，有 EMBED Equation.DSMT4  (种)选派方案．
+根据加法原理，共有 EMBED Equation.DSMT4  (种)选派方案．
+综合以上所述，符合条件的方案一共有 EMBED Equation.DSMT4  (种)．
+【答案】⑴ EMBED Equation.DSMT4             ⑵ EMBED Equation.DSMT4             ⑶ EMBED Equation.DSMT4  
+ 
+有11名外语翻译人员，其中 EMBED Equation.DSMT4  名是英语翻译员， EMBED Equation.DSMT4  名是日语翻译员，另外两名英语、日语都精通．从中找出 EMBED Equation.DSMT4  人，使他们组成两个翻译小组，其中 EMBED Equation.DSMT4  人翻译英文，另 EMBED Equation.DSMT4  人翻译日文，这两个小组能同时工作．问这样的分配名单共可以开出多少张？ 
+【考点】组合之基本运用          【难度】4星          【题型】解答 
+针对两名英语、日语都精通人员(以下称多面手)的参考情况分成三类：
+⑴ 多面手不参加，则需从 EMBED Equation.DSMT4  名英语翻译员中选出 EMBED Equation.DSMT4  人，有 EMBED Equation.DSMT4  种选择，需从 EMBED Equation.DSMT4  名日语翻译员中选出 EMBED Equation.DSMT4  人，有 EMBED Equation.DSMT4  种选择．由乘法原理，有 EMBED Equation.DSMT4  种选择．
+⑵ 多面手中有一人入选，有 EMBED Equation.DSMT4  种选择，而选出的这个人又有参加英文或日文翻译两种可能：
+如果参加英文翻译，则需从 EMBED Equation.DSMT4  名英语翻译员中再选出 EMBED Equation.DSMT4  人，有 EMBED Equation.DSMT4  种选择，需从 EMBED Equation.DSMT4  名日语翻译员中选出 EMBED Equation.DSMT4  人，有 EMBED Equation.DSMT4  种选择．由乘法原理，有 EMBED Equation.DSMT4  种选择；
+如果参加日文翻译，则需从 EMBED Equation.DSMT4  名英语翻译员中选出 EMBED Equation.DSMT4  人，有 EMBED Equation.DSMT4  种选择，需从 EMBED Equation.DSMT4  名日语翻译员中再选出 EMBED Equation.DSMT4  名，有 EMBED Equation.DSMT4  种选择．由乘法原理，有 EMBED Equation.DSMT4  种选择．根据加法原理，多面手中有一人入选，有 EMBED Equation.DSMT4  种选择．
+⑶ 多面手中两人均入选，对应一种选择，但此时又分三种情况：
+①两人都译英文；②两人都译日文；③两人各译一个语种．
+情况①中，还需从 EMBED Equation.DSMT4  名英语翻译员中选出 EMBED Equation.DSMT4  人，有 EMBED Equation.DSMT4  种选择．需从 EMBED Equation.DSMT4  名日语翻译员中选 EMBED Equation.DSMT4  人， EMBED Equation.DSMT4  种选择．由乘法原理，有 EMBED Equation.DSMT4  种选择．
+情况②中，需从 EMBED Equation.DSMT4  名英语翻译员中选出 EMBED Equation.DSMT4  人，有 EMBED Equation.DSMT4  种选择．还需从 EMBED Equation.DSMT4  名日语翻译员中选出 EMBED Equation.DSMT4  人，有 EMBED Equation.DSMT4  种选择．根据乘法原理，共有 EMBED Equation.DSMT4  种选择．
+情况③中，两人各译一个语种，有两种安排即两种选择．剩下的需从 EMBED Equation.DSMT4  名英语翻译员中选出 EMBED Equation.DSMT4  人，有 EMBED Equation.DSMT4  种选择，需从 EMBED Equation.DSMT4  名日语翻译员中选出 EMBED Equation.DSMT4  人，有 EMBED Equation.DSMT4  种选择．由乘法原理，有 EMBED Equation.DSMT4  种选择．
+根据加法原理，多面手中两人均入选，一共有 EMBED Equation.DSMT4  种选择．
+综上所述，由加法原理，这样的分配名单共可以开出 EMBED Equation.DSMT4  张．
+【小结】组合问题中出现“多面手”时，往往“多面手”是进行分类讨论的对象，这样可以简化问题．
+【答案】⑴ EMBED Equation.DSMT4                 ⑵ EMBED Equation.DSMT4               ⑶ EMBED Equation.DSMT4  
+
+某旅社有导游 EMBED Equation.DSMT4  人，其中 EMBED Equation.DSMT4  人只会英语， EMBED Equation.DSMT4  人只会日语，其余 EMBED Equation.DSMT4  个既会英语又会日语．现要从中选 EMBED Equation.DSMT4  人，其中 EMBED Equation.DSMT4  人做英语导游，另外 EMBED Equation.DSMT4  人做日语导游．则不同的选择方法有多少种？ 
+【考点】组合之基本运用          【难度】4星          【题型】解答 
+此题若从“多面手”出发来做，不太简便，由于只会日语的人较少，所以针对只会日语的人讨论，分三类：
+⑴ 只会日语的 EMBED Equation.DSMT4  人都出场，则还需 EMBED Equation.DSMT4  个多面手做日语导游，有 EMBED Equation.DSMT4  种选择．从剩下的只会英语的人和多面手共 EMBED Equation.DSMT4  人中选 EMBED Equation.DSMT4  人做英语导游，有 EMBED Equation.DSMT4  种选择．
+由乘法原理，有 EMBED Equation.DSMT4  种选择．
+⑵ 只会日语的 EMBED Equation.DSMT4  人中有 EMBED Equation.DSMT4  人出场，有 EMBED Equation.DSMT4  种选择．还需从多面手中选 EMBED Equation.DSMT4  人做日语导游，有 EMBED Equation.DSMT4  种选择．剩下的只会英语的人和多面手共 EMBED Equation.DSMT4  人中选 EMBED Equation.DSMT4  人做英语导游，有 EMBED Equation.DSMT4  种选择．
+由乘法原理，有 EMBED Equation.DSMT4  种选择．
+⑶ 只会日语的人不出场，需从多面手中选 EMBED Equation.DSMT4  人做日语导游，有 EMBED Equation.DSMT4  种选择．
+剩下的只会英语的人和多面手共 EMBED Equation.DSMT4  人中选 EMBED Equation.DSMT4  人做英语导游，有 EMBED Equation.DSMT4  种选择．
+由乘法原理，有 EMBED Equation.DSMT4  种选择．根据加法原理，不同的选择方法一共有 EMBED Equation.DSMT4  种．
+【小结】当“多面手”的数量较多时，对“多面手”分类讨论．问题反倒不简单了．那么．此时应灵活选择数量较少的一类元素讨论(如本题中的会日语的导游)．做题时要根据具体问题灵活处理．
+【答案】⑴ EMBED Equation.DSMT4               ⑵ EMBED Equation.DSMT4              ⑶ EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+7-5-2.组合的基本应用（二）.题库	                         教师版                        page  PAGE 11 of  NUMPAGES 11
+
+
+
+7-5-2.组合的基本应用（二）
+
+
+
+
+例题精讲
+
+知识要点
+
+教学目标
+
+
+
+

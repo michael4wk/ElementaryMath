@@ -1,0 +1,378 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+能够利用以前学习的知识理清变速变道问题的关键点
+能够利用线段图、算术、方程方法解决变速变道等综合行程题。
+变速变道问题的关键是如何处理“变”
+ SHAPE  \* MERGEFORMAT 
+变速变道问题属于行程中的综合题，用到了比例、分步、分段处理等多种处理问题等解题方法。对于这种分段变速问题，利用算术方法、折线图法和方程方法解题各有特点。
+算术方法对于运动过程的把握非常细致，但必须一步一步来；
+折线图则显得非常直观，每一次相遇点的位置也易于确定；
+方程的优点在于无需考虑得非常仔细，只需要知道变速点就可以列出等量关系式，把大量的推理过程转化成了计算．
+行程问题常用的解题方法有
+⑴公式法
+即根据常用的行程问题的公式进行求解，这种方法看似简单，其实也有很多技巧，使用公式不仅包括公式的原形，也包括公式的各种变形形式；有时条件不是直接给出的，这就需要对公式非常熟悉，可以推知需要的条件；
+⑵图示法
+在一些复杂的行程问题中，为了明确过程，常用示意图作为辅助工具．示意图包括线段图和折线图．图示法即画出行程的大概过程，重点在折返、相遇、追及的地点．另外在多次相遇、追及问题中，画图分析往往也是最有效的解题方法；
+⑶比例法
+行程问题中有很多比例关系，在只知道和差、比例时，用比例法可求得具体数值．更重要的是，在一些较复杂的题目中，有些条件(如路程、速度、时间等)往往是不确定的，在没有具体数值的情况下，只能用比例解题；
+⑷分段法
+在非匀速即分段变速的行程问题中，公式不能直接适用．这时通常把不匀速的运动分为匀速的几段，在每一段中用匀速问题的方法去分析，然后再把结果结合起来；
+⑸方程法
+在关系复杂、条件分散的题目中，直接用公式或比例都很难求解时，设条件关系最多的未知量为未知数，抓住重要的等量关系列方程常常可以顺利求解．
+
+
+
+
+
+
+小红和小强同时从家里出发相向而行。小红每分走 52 米，小强每分走 70 米，二人在途中的 A 处相遇。若小红提前 4 分出发，且速度不变，小强每分走 90 米，则两人仍在 A 处相遇。小红和小强两人的家相距多少米？ 
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+因为小红的速度不变，相遇的地点不变，所以小红两次从出发到相遇行走的时间不变，也就是说，小强第二次走的时间比第一次少 4 分钟。（70×4）÷（90-70）=14 分钟 可知小强第二次走了 14分钟，他第一次走了 14＋4=18 分钟； 两人家的距离：（52+70）×18=2196（米）.
+【答案】2196米
+
+甲、乙两人沿 400 米环形跑道练习跑步，两人同时从跑道的同一地点向相反方向跑去。相遇后甲比原来速度增加 2 米／秒，乙比原来速度减少 2 米／秒，结果都用 24 秒同时回到原地。求甲原来的速度。
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+因为相遇前后甲，乙的速度和没有改变，如果相遇后两人和跑一圈用 24 秒，则相遇前两人和跑一圈也用 24 秒。以甲为研究对象，甲以原速V 跑了 24 秒的路程与以（V +2 ）跑了 24 秒的路程之和等于 400米，24V +24（V +2 ）=400 易得V =  EMBED Equation.DSMT4  米/秒 
+【答案】 EMBED Equation.DSMT4  米/秒
+
+A、 B 两地相距 7200 米，甲、乙分别从 A， B 两地同时出发，结果在距 B 地 2400 米处相遇．如果乙的速度提高到原来的 3倍，那么两人可提前10分钟相遇，则甲的速度是每分钟行多少米？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+第一种情况中相遇时乙走了 2400 米，根据时间一定，速度比等于路程之比，最初甲、乙的速度比为 (7200 －2400) : 2400 =2 :1，所以第一情况中相遇时甲走了全程的2/3．乙的速度提高 3倍后，两人速度比为 2 : 3，根据时间一定，路程比等于速度之比，所以第二种情况中相遇时甲走了全程的 EMBED Equation.DSMT4  ．两种情况相比，甲的速度没有变化，只是第二种情况比第一种情况少走 10 分钟，所以甲的速度为 EMBED Equation.DSMT4   (米/分)．
+【答案】 EMBED Equation.DSMT4   米/分
+
+甲、乙两车分别从 A， B 两地同时出发相向而行，6 小时后相遇在 C 点．如果甲车速度不变，乙车每小时多行 5 千米，且两车还从 A， B 两地同时出发相向而行，则相遇地点距 C 点 12 千米；如果乙车速度不变，甲车速度每小时多行 5 千米，则相遇地点距 C 点 16 千米．甲车原来每小时行多少千米？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+设乙增加速度后，两车在 D 处相遇，所用时间为 T 小时。甲增加速度后，两车在 E 处相遇。由于这两种情况，两车的速度和相同，所以所用时间也相同。于是，甲、乙不增加速度时，经 T 小时分别到达 D、E。DE＝12＋16＝28（千米）。由于甲或乙增加速度每小时 5 千米，两车在 D 或 E 相遇，所以用每小时 5 千米的速度，T 小时 走过 28 千米，从而 T＝28÷5＝ EMBED Equation.DSMT4  小时,甲用 6－ EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  （小时），走过 12 千米，所以甲原来每小时行 12÷ EMBED Equation.DSMT4  ＝30（千米） 
+【答案】30千米
+
+甲、乙二人分别从 A、B 两地同时出发相向而行，5 小时后相遇在 C 点。如果甲速度不变，乙每小时多行 4 千米，且甲、乙还从 A、B 两地同时出发相向而行，则相遇点 D 距 C 点 lO 千米；如果乙速度不变，甲每小时多行 3 千米，且甲、乙还从 A、B 两地同时出发相向而行，则相遇点 E距 C 点 5 千米。问：甲原来的速度是每小时多少千米？ 
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+当乙每小时多行 4 千米时，5 小时可以多行 20 千米，所以当两人相遇后继续向前走到 5 小时，甲可以走到 C 点，乙可以走到 C 点前面 20 千米。而相遇点 D 距 C 点 lO 千米，因此两人各走了 10 千米，所以甲乙二人此时速度相等，即原来甲比乙每小时多行 4 千米。 同理可得，甲每小时多行 3 千米时，乙走 5 千米的时间甲可以走 10 千米，即甲的速度是乙的 2 倍。 (4+3)÷(2-1)+4=11(千米/小时)，所以甲原来的速度是每小时 11 千米。 
+【答案】11 千米
+
+A、 B 两地间有一座桥(桥的长度忽略不计)，甲、乙二人分别从两地同时出发，3 小时后在桥上相遇．如果甲加快速度，每小时多走 2 千米，而乙提前 0.5 小时出发，则仍能恰在桥上相遇．如果甲延迟 0.5 小时出发，乙每小时少走 2 千米，还会在桥上相遇．则 A、 B 两地相距多少千米？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+因为每次相遇的地点都在桥上，所以在这三种情况中，甲每次走的路程都是一样的，同样乙每次走的路程也是一样的．在第二种情况中，乙速度不变，所以乙到桥上的时间还是 3 小时，他提前了 0.5 小时，那么甲到桥上的时间是 3 -0.5 =2.5小时．甲每小时多走 2 千米，2.5小时就多走 2 ×2.5= 5千米，这 5 千米就是甲原来 3- 2.5 =0.5小时走的，所以甲的速度是 5 ÷0.5= 10千米/时．在第三种情况中，甲速度不变，所以甲到桥上的时间还是 3 小时，他延迟了 0.5 小时，那么乙到桥上的时间是 3＋ 0.5 =3.5小时．乙每小时少走 2 千米，3.5小时就少走 2 ×3.5 =7千米，这 7 千米就是甲原来 3.5 －3= 0.5小时走的，所以乙的速度就是 7 ÷0.5 =14千米/时．所以 A、 B 两地的距离为 （10 ＋14） ×3 =72千米．
+【答案】72千米
+
+一列火车出发 1 小时后因故停车 0.5 小时，然后以原速的3/4前进，最终到达目的地晚1.5 小时．若出发 1 小时后又前进 90 公里再因故停车 0.5 小时，然后同样以原速的3/4前进，则到达目的地仅晚1 小时，那么整个路程为多少公里？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+出发 1 小时后因故停车 0.5 小时，然后以原速的 EMBED Equation.DSMT4  前进，最终到达目的地晚1.5 小时，所以后面以原速的 EMBED Equation.DSMT4  前进的时间比原定时间多用 EMBED Equation.DSMT4  小时，而速度为原来的 EMBED Equation.DSMT4  ，所用时间为原来的 EMBED Equation.DSMT4  ，所以后面的一段路程原定时间为 EMBED Equation.DSMT4  小时，原定全程为 4 小时；出发 1 小时后又前进 90 公里再因故停车 0.5 小时，然后同样以原速的 EMBED Equation.DSMT4  前进，则到达目的地仅晚1 小时，类似分析可知又前进 90 公里后的那段路程原定时间为 EMBED Equation.DSMT4  小时．所以原速度行驶 90 公里需要1.5 小时，而原定全程为 4 小时，所以整个路程为  EMBED Equation.DSMT4  公里．
+【答案】 EMBED Equation.DSMT4  公里
+
+王叔叔开车从北京到上海，从开始出发，车速即比原计划的速度提高了1/9，结果提前一个半小时到达；返回时，按原计划的速度行驶 280 千米后，将车速提高1/6，于是提前1 小时 40 分到达北京．北京、上海两市间的路程是多少千米？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+从开始出发，车速即比原计划的速度提高了1/9，即车速为原计划的10/9，则所用时间为原计划的1÷10/9=9/10，即比原计划少用1/10的时间，所以一个半小时等于原计划时间的1/10，原计划时间为：1.5÷1/10=15(小时)；按原计划的速度行驶 280 千米后，将车速提高1/6，即此后车速为原来的7/6，则此后所用时间为原计划的1÷7/6=6/7，即此后比原计划少用1/7的时间，所以1 小时 40 分等于按原计划的速度行驶 280 千米后余下时间的1/7，则按原计划的速度行驶 280 千米后余下的时间为：5/3÷1/7=35/3(小时)，所以，原计划的速度为：84(千米/时)，北京、上海两市间的路程为：84 ×15= 1260(千米)．
+【答案】1260千米
+
+甲、乙两人同时从山脚开始爬山，到达山顶后就立即下山，他们两人的下山速度都是各自上山速度的 1.5 倍，而且甲比乙速度快。两人出发后 1 小时，甲与乙在离山顶 600 米处相遇，当乙到达山顶时，甲恰好到半山腰。那么甲回到出发点共用多少小时？ 
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+甲如果用下山速度上山，乙到达山顶时，甲走过的路程应该是一个单程的 1×1.5+1/2=2 倍，就是说甲下山的速度是乙上山速度的 2 倍。 两人相遇时走了 1 小时，这时甲还要走一段下山路，这段下山路乙上山用了 1 小时，所以甲下山要用1/2 小时。 甲一共走了 1+1/2=1.5（小时） 
+【答案】1.5小时
+
+小华以每小时8/3千米的速度登山，走到途中 A点后，他将速度改为每小时 2千米，在接下来的1小时中，他走到山顶，又立即下山，并走到 A点上方 500米的地方．如果他下山的速度是每小时 4千米，下山比上山少用了 52.5分钟．那么，他往返共走了多少千米？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+11千米
+【答案】11千米
+
+甲、乙两车从 A、 B 两地同时出发相向而行，5 小时相遇；如果乙车提前 1 小时出发，则差 13千米到中点时与甲车相遇，如果甲车提前 1 小时出发，则过中点 37 千米后与乙车相遇，那么甲车与乙车的速度差等于多少千米/小时？
+【考点】行程问题之变速问题        【难度】4星      【题型】解答
+第一次行程甲、乙两车同时出发，所以两车走的时间相同；第二次乙车提前 1 小时出发，所以这次乙车比甲车多走了 1 小时；第三次甲车提前 1 小时出发，所以这次甲车比乙车多走了 1 小时．那么如果把第二次和第三次这两次行程相加，那么甲车和乙车所走的时间就相同了，而所走的路程为 2 个全程．由于两人合走一个全程要 5 小时，所以合走两个全程要 10 小时．由于第二次在乙车在差 13 千米到中点与甲车相遇，所以此次甲车走了全程的一半加上 13 千米；第三次在过中点 37 千米后与乙车相遇，所以此次甲车走了全程的一半加上 37 千米；这两次合起来甲车走了一个全程加上13 ＋37 =50千米，所以乙车走了一个全程少 50 千米，甲车比乙车多走50× 2 =100千米．而这是在 10 小时内完成的，所以甲车与乙车的速度差为100 ÷10 =10千米/时
+【答案】10千米/时
+
+甲、乙两名运动员在周长 EMBED Equation.DSMT4  米的环形跑道上进行 EMBED Equation.DSMT4  米长跑比赛，两人从同一起跑线同时起跑，甲每分钟跑 EMBED Equation.DSMT4  米，乙每分钟跑 EMBED Equation.DSMT4  米，当甲比乙领先整整一圈时，两人同时加速，乙的速度比原来快 EMBED Equation.DSMT4  ，甲每分钟比原来多跑 EMBED Equation.DSMT4  米，并且都以这样的速度保持到终点．问：甲、乙两人谁先到达终点？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+从起跑到甲比乙领先一圈，所经过的时间为 EMBED Equation.DSMT4  (分钟)．甲到达终点还需要跑 EMBED Equation.DSMT4  (分钟)，乙还需要跑 EMBED Equation.DSMT4  (分钟)，由于 EMBED Equation.DSMT4  ，所以乙先到达终点．
+【答案】乙先到达终点
+
+环形场地的周长为 EMBED Equation.DSMT4  米，甲、乙两人同时从同一地点出发相背而行(甲速大于乙速)， EMBED Equation.DSMT4  分钟后相遇．如果每人每分钟多走 EMBED Equation.DSMT4  米，则相遇点与前次相差 EMBED Equation.DSMT4  米，求原来二人的速度．
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+甲、乙原来的速度和为： EMBED Equation.DSMT4  (米/分)，如果每人每分钟多走 EMBED Equation.DSMT4  米，现在的速度之和为： EMBED Equation.DSMT4  (米/分)，现在相遇需要的时间为： EMBED Equation.DSMT4  (分钟)．题目中说相遇点与前次相差 EMBED Equation.DSMT4  米，但并不知道两者的位置关系，所以需要先确定两次相遇点的位置关系．由于以原来的速度走一圈，甲比乙多走的路程为每分钟甲比乙多走的路程 EMBED Equation.DSMT4  ；提速后走一圈，甲比乙多走的路程为每分钟甲比乙多走的路程 EMBED Equation.DSMT4  ；故提速后走一圈与以原来速度走一圈相比，甲比乙多走的路程少了，而二人所走的路程的和相等，所以提速后甲走的路程比以原速度走的路程少，其差即为两次相遇点的距离 EMBED Equation.DSMT4  米．所以现在问题转化为：甲以原速度走12分钟走到某一处，现在甲以比原速度提高25米/分的速度走9分钟，走到距离前一处还有33米的地方，求甲的速度．所以，甲原来的速度为： EMBED Equation.DSMT4  (米/分)，乙原来的速度为： EMBED Equation.DSMT4  (米/分)．
+【答案】 EMBED Equation.DSMT4  米/分
+
+王刚骑自行车从家到学校去，平常只用20分钟。因途中有2千米正在修路，只好推车步行，步行速度只有骑车速度的 EMBED Equation.DSMT4  ，结果这天用了36分钟才到学校。从王刚家到学校有多少千米？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+途中有2千米在修路，导致了王刚上学时间比平时多用 EMBED Equation.DSMT4  分钟，由于在别的路段上还是骑车，所以多用的时间都是耗费在修路的2千米上．由于步行速度是汽车速度的 EMBED Equation.DSMT4  ，所以步行2千米所用的时间是骑车2千米所用时间的3倍，多用了2倍，这个多出来的时间就是16分钟，所以骑车2千米需要 EMBED Equation.DSMT4  分钟．
+由于8分钟可以骑2千米，而王刚平时骑车20分钟可以到学校，所以王刚家与学校的距离为 EMBED Equation.DSMT4  千米．
+【答案】 EMBED Equation.DSMT4  千米
+
+甲、乙两车分别从 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地同时出发，相向而行．出发时，甲，乙的速度之比是 EMBED Equation.DSMT4  ，相遇后甲的速度减少 EMBED Equation.DSMT4  ，乙的速度增加 EMBED Equation.DSMT4  ．这样当甲到达 EMBED Equation.DSMT4  地时，乙离开 EMBED Equation.DSMT4  地还有 EMBED Equation.DSMT4  千米．那么 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地相距多少千米？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+出发时，两车的速度之比为 EMBED Equation.DSMT4  ，所以相遇以后两辆车的速度之比为 EMBED Equation.DSMT4  ，而相遇前甲、乙两车的行程路程之比为 EMBED Equation.DSMT4  ，所以相遇后两辆车还需要行驶的路程之比为 EMBED Equation.DSMT4  ，所以甲还需要行驶全部路程的 EMBED Equation.DSMT4  ，当甲行驶这段路程的同时，乙行驶了全程的 EMBED Equation.DSMT4  ，距离 EMBED Equation.DSMT4  地还有 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地相距 EMBED Equation.DSMT4  千米．
+【答案】 EMBED Equation.DSMT4  千米
+
+甲、乙往返于相距 EMBED Equation.DSMT4  米的 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  两地．甲先从 EMBED Equation.DSMT4  地出发， EMBED Equation.DSMT4  分钟后乙也从 EMBED Equation.DSMT4  地出发，并在距 EMBED Equation.DSMT4   地 EMBED Equation.DSMT4  米的 EMBED Equation.DSMT4  地追上甲．乙到 EMBED Equation.DSMT4  地后立即原速向 EMBED Equation.DSMT4  地返回，甲到 EMBED Equation.DSMT4  地休息 EMBED Equation.DSMT4  分钟后加快速度向 EMBED Equation.DSMT4  地返回，并在 EMBED Equation.DSMT4  地追上乙．问：甲比乙提前多少分钟回到 EMBED Equation.DSMT4  地？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+由于甲比乙早出发6分钟，乙在走了600米时追上甲，可见乙走600米比甲要少用6分钟，那么对于剩下的 EMBED Equation.DSMT4  米，乙比甲要少用 EMBED Equation.DSMT4  (分钟)，也就是说乙比甲早4分钟到达 EMBED Equation.DSMT4  地．那么乙从 EMBED Equation.DSMT4  地出发比甲早 EMBED Equation.DSMT4  (分钟)，走到 EMBED Equation.DSMT4  地被甲追上，相当于甲走400米比乙少用5分钟，那么对于剩下的600米，甲比乙要少用 EMBED Equation.DSMT4  (分钟)．所以甲比乙提前 EMBED Equation.DSMT4  分钟回到 EMBED Equation.DSMT4  地．
+【答案】 EMBED Equation.DSMT4  分钟
+
+一辆大货车与一辆小轿车同时从甲地开往乙地，小轿车到达乙地后立即返回，返回时速度提高 EMBED Equation.DSMT4  。出发2小时后，小轿车与大货车第一次相遇，当大货车到达乙地时，小轿车刚好走到甲、乙两地的中点。小轿车在甲、乙两地往返一次需要多少时间？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+此题的关键是分析清楚题目中所提到的小轿车返回时速度提高 EMBED Equation.DSMT4  所带来的变化，所以可以先假设小轿车返回时速度不发生变化会是什么样，然后再进行对比分析．如果小轿车返回时速度不提高，那么大货车到达乙地时，小轿车又走了甲、乙两地距离的 EMBED Equation.DSMT4  ，所以，从甲地到乙地小轿车与大货车的速度比为： EMBED Equation.DSMT4  ，小轿车到达乙地时，大货车走了全程的 EMBED Equation.DSMT4  ，还差 EMBED Equation.DSMT4  ．小轿车从乙地返回甲地时，与大货车的速度比为 EMBED Equation.DSMT4  ，小轿车从乙地返回到与大货车相遇时，大货车又走了全程的 EMBED Equation.DSMT4  ，即相遇时大货车共走了全程的 EMBED Equation.DSMT4  ，那么大货车从甲地到乙地需要 EMBED Equation.DSMT4  小时，小轿车从甲地到乙地需要 EMBED Equation.DSMT4  小时，小轿车往返一次需要 EMBED Equation.DSMT4  小时．
+【答案】 EMBED Equation.DSMT4  小时
+
+甲、乙两地间平路占 EMBED Equation.DSMT4  ，由甲地去往乙地，上山路千米数是下山路千米数的 EMBED Equation.DSMT4  ，一辆汽车从甲地到乙地共行了 EMBED Equation.DSMT4  小时，已知这辆车行上山路的速度比平路慢 EMBED Equation.DSMT4  ，行下山路的速度比平路快 EMBED Equation.DSMT4  ，照这样计算，汽车从乙地回到甲地要行多长时间？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+根据题意，可以把甲、乙两地之间的距离看作25，这样两地间的平路为5，从甲地去往乙地，上山路为 EMBED Equation.DSMT4  ，下山路为 EMBED Equation.DSMT4  ；再假设这辆车在平路上的速度为5，则上山时的速度为4，下山时的速度为6，于是，由甲地去乙地所用的总时间为： EMBED Equation.DSMT4  ；从乙地回到甲地时，汽车上山、下山的速度不变，但是原来的上山路变成了此时的下山路，原来的下山路变成了此时的上山路，所以回来时所用的总时间为： EMBED Equation.DSMT4  ．由于从甲地到乙地共行了10小时，所以从乙地回来时需要 EMBED Equation.DSMT4  小时．
+【答案】 EMBED Equation.DSMT4  小时
+
+甲、乙二人在同一条圆形跑道上作特殊训练：他们同时从同一地出发，沿相反方向跑，每人跑完第一圈到达出发点后立即回头加速跑第二圈，跑第一圈时，乙的速度是甲的速度的 EMBED Equation.DSMT4  ．甲跑第二圈的速度比第一圈提高了 EMBED Equation.DSMT4  ，乙跑第二圈的速度提高了 EMBED Equation.DSMT4  ，已知沿跑道看从甲、乙两人第二次相遇点到第一次相遇点的最短路程是 EMBED Equation.DSMT4  米，问这条跑道长多少米？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+从起跑由于跑第一圈时，乙的速度是甲的速度的 EMBED Equation.DSMT4  ，所以第一次相遇的地方在距起点 EMBED Equation.DSMT4  (或者 EMBED Equation.DSMT4  )处．由于甲的速度比乙快，所以甲先跑完第一圈，甲跑完第一圈时，乙跑了 EMBED Equation.DSMT4  圈，此时乙距出发点还有 EMBED Equation.DSMT4  圈，根据题意，此时甲要回头加速跑，即此时甲与乙方向相同，速度为乙的 EMBED Equation.DSMT4  倍．所以乙跑完剩下的 EMBED Equation.DSMT4  圈时甲又跑了 EMBED Equation.DSMT4  圈，此时甲距出发点还有 EMBED Equation.DSMT4  圈，而乙又要回头跑，所以此时两人相向而行，速度比为 EMBED Equation.DSMT4  ，所以两人第二次相遇点距离出发点 EMBED Equation.DSMT4  ，两次相遇点间隔 EMBED Equation.DSMT4  ，注意到 EMBED Equation.DSMT4  ，所以最短距离为 EMBED Equation.DSMT4  圈，所以跑道长 EMBED Equation.DSMT4  米．
+【答案】 EMBED Equation.DSMT4  米
+
+甲、乙两人沿 EMBED Equation.DSMT4  米环形跑道练习跑步，两人同时从跑道的同一地点向相反方向跑去．相遇后甲比原来速度增加 EMBED Equation.DSMT4  米／秒，乙比原来速度减少 EMBED Equation.DSMT4  米／秒，结果都用 EMBED Equation.DSMT4  秒同时回到原地．求甲原来的速度．
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+因为相遇前后甲、乙的速度和没有改变，如果相遇后两人合跑一圈用25秒，则相遇前两人合跑一圈也用25秒．
+(法1)甲以原速 EMBED Equation.DSMT4  跑了25秒的路程与以 EMBED Equation.DSMT4  的速度跑了25秒的路程之和等于400米， EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  米/秒．
+(法2)由跑同样一段路程所用的时间一样，得到 EMBED Equation.DSMT4  ，即二者速度差为4；而二者速度和为 EMBED Equation.DSMT4  ，这是个典型的和差问题．可得 EMBED Equation.DSMT4  为： EMBED Equation.DSMT4  米/秒．
+【答案】 EMBED Equation.DSMT4  米/秒
+
+【巩固】从 EMBED Equation.DSMT4  村到 EMBED Equation.DSMT4  村必须经过 EMBED Equation.DSMT4  村，其中 EMBED Equation.DSMT4  村至 EMBED Equation.DSMT4  村为上坡路， EMBED Equation.DSMT4  村至 EMBED Equation.DSMT4  村为下坡路， EMBED Equation.DSMT4  村至 EMBED Equation.DSMT4  村的总路程为 EMBED Equation.DSMT4  千米．某人骑自行车从 EMBED Equation.DSMT4  村到 EMBED Equation.DSMT4  村用了 EMBED Equation.DSMT4  小时，再从 EMBED Equation.DSMT4  村返回 EMBED Equation.DSMT4  村又用了 EMBED Equation.DSMT4  小时 EMBED Equation.DSMT4  分．已知自行车上、下坡时的速度分别保持不变，而且下坡时的速度是上坡时速度的 EMBED Equation.DSMT4  倍．求 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  之间的路程及自行车上坡时的速度．
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+设 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  之间的路程为 EMBED Equation.DSMT4  千米，自行车上坡速度为每小时 EMBED Equation.DSMT4  千米，则 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  之间的路程为 EMBED Equation.DSMT4   千米，自行车下坡速度为每小时 EMBED Equation.DSMT4  千米．依题意得： EMBED Equation.DSMT4  ，两式相加，得： EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  ；代入得 EMBED Equation.DSMT4  ．故 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  之间的路程为 EMBED Equation.DSMT4  千米，自行车上坡时的速度为每小时 EMBED Equation.DSMT4  千米．
+【答案】 EMBED Equation.DSMT4  千米
+
+欢欢和贝贝是同班同学，并且住在同一栋楼里．早晨 EMBED Equation.DSMT4  ，欢欢从家出发骑车去学校， EMBED Equation.DSMT4  追上了一直匀速步行的贝贝；看到身穿校服的贝贝才想起学校的通知，欢欢立即调头，并将速度提高到原来的 EMBED Equation.DSMT4  倍，回家换好校服，再赶往学校；欢欢 EMBED Equation.DSMT4  赶到学校时，贝贝也恰好到学校．如果欢欢在家换校服用去 EMBED Equation.DSMT4  分钟且调头时间不计，那么贝贝从家里出发时是        点        分．
+【考点】行程问题之变速问题        【难度】3星      【题型】填空
+【关键词】学而思杯，六年级
+欢欢从出发到追上贝贝用了 EMBED Equation.DSMT4  分钟，那么她调头后速度提高到原来的 EMBED Equation.DSMT4  倍，回到家所用的时间为3分钟，换衣服用时6分钟，所以她再从家里出发到到达学校用了 EMBED Equation.DSMT4  分钟，故她以原速度到达学校需要10分钟，最开始她追上贝贝用了6分钟，还剩下4分钟的路程，而这4分钟的路程贝贝走了14分钟，所以欢欢的6分钟路程贝贝要走 EMBED Equation.DSMT4  分钟，也就是说欢欢追上贝贝时贝贝已走了21分钟，所以贝贝是7点25分出发的．
+【答案】7点25分
+
+甲、乙两人都要从 EMBED Equation.DSMT4  地到 EMBED Equation.DSMT4  地去，甲骑自行车，乙步行，速度为每分钟60米．乙比甲早出发20分钟，甲在距 EMBED Equation.DSMT4  地1920米的 EMBED Equation.DSMT4  处追上乙，两人继续向前，甲发现自己忘带东西，于是将速度提高到原来的 EMBED Equation.DSMT4  倍，马上返回 EMBED Equation.DSMT4  地去取，并在距离 EMBED Equation.DSMT4  处720米的 EMBED Equation.DSMT4  处遇上乙．甲到达 EMBED Equation.DSMT4  地后在 EMBED Equation.DSMT4  地停留了5分钟，再以停留前的速度骑往 EMBED Equation.DSMT4  地，结果甲、乙两人同时到达 EMBED Equation.DSMT4  地． EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地之间的距离是        米．
+【考点】行程问题之变速问题        【难度】3星      【题型】填空
+乙从 EMBED Equation.DSMT4  地到 EMBED Equation.DSMT4  处所用时间为 EMBED Equation.DSMT4  分钟，甲用的时间为 EMBED Equation.DSMT4  分钟，甲的速度为 EMBED Equation.DSMT4  米/分钟，速度提高后为 EMBED Equation.DSMT4  米/分钟．甲从 EMBED Equation.DSMT4  处回到 EMBED Equation.DSMT4  地并停留5分钟，共用时间 EMBED Equation.DSMT4  分钟，此时乙又走了 EMBED Equation.DSMT4  米，两人的距离为 EMBED Equation.DSMT4  米，此时相当于追及问题，追及时间为 EMBED Equation.DSMT4  分钟，所以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地之间的距离为 EMBED Equation.DSMT4  米．
+【答案】 EMBED Equation.DSMT4  米
+
+小芳从家到学校有两条一样长的路，一条是平路，另一条是一半上坡路，一半下坡路．小芳上学走这两条路所用的时间一样多．已知下坡的速度是平路的 EMBED Equation.DSMT4  倍，那么上坡的速度是平路速度的多少倍？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+设小芳上学路上所用时间为 EMBED Equation.DSMT4  ，那么走一半平路所需时间是 EMBED Equation.DSMT4  ．由于下坡路与一半平路的长度相同，根据路程一定，时间比等于速度的反比，走下坡路所需时间是 EMBED Equation.DSMT4  ，因此，走上坡路需要的时间是 EMBED Equation.DSMT4  ，那么，上坡速度与平路速度的比等于所用时间的反比，为 EMBED Equation.DSMT4  ，所以，上坡速度是平路速度的 EMBED Equation.DSMT4  倍．
+【答案】 EMBED Equation.DSMT4  倍
+
+赵伯伯为锻炼身体，每天步行3小时，他先走平路，然后上山，最后又沿原路返回。假设赵伯伯在平路上每小时行4千米，上山每小时行3千米，下山每小时行6千米，在每天锻炼中，他共行走多少米？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+【关键词】希望杯，四年级，二试
+因为是原路返回，所以上坡的路程和下坡的路程相等.上下坡的平均速度为2÷（1÷3+1÷6）=4，与平路速度相等，所以全程的平均速度为4千米/小时，3小时共步行4×3=12千米.
+【答案】12千米
+
+王老师每天早上晨练，他第一天跑步1000米，散步1600米，共用25分钟；第二天跑步2000米，散步800米，共用20分钟。假设王老师跑步的速度和散步的速度均保持不变。求：(1)王老师跑步的速度； (2)王老师散步800米所用的时间。
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+【关键词】希望杯，四年级，二试
+ (1) 第二天跑步2000米，散步800米，共用20分钟，那么跑步4000米，散步1600米，共用40分钟，又已知跑步1000米，散步1600米，共用25分钟，所以王老师跑步4000-1000=3000(米)，用时40-25=15(分钟)，即王老师跑步的速度为3000÷15=200(米/分钟)
+(2)因为王老师跑步2000米，散步800米，共用时20分钟，所以王老师散步800米，用时 EMBED Equation.DSMT4  
+【答案】(1) 200米/分钟                     (2) EMBED Equation.DSMT4  分
+
+某校在400米环形跑道上进行1万米比赛，甲、乙两名运动员同时起跑后，乙的速度始终保持不变，开始时甲比乙慢，在第15分钟时甲加快速度，并保持这个速度不变，在第18分钟时甲追上乙并且开始超过乙。在第23分钟时甲再次追上乙，而在23分50秒时甲到达终点。那么，乙跑完全程所用的时间是多少分钟？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+【关键词】祖冲之杯，小学数学邀请赛
+本题中乙的速度始终保持不变，甲则有提速的情况，但是甲提速后速度就保持不变，所以可以从甲提速后的情况着手进行考虑．根据题意可知，甲加速后，每过 EMBED Equation.DSMT4  （分钟）比乙多跑一圈，即每分钟比乙多跑 EMBED Equation.DSMT4  （米）．由于第18分钟时甲、乙处于同一位置，则在23分50秒时甲到达终点时，乙距终点的距离就是此时甲、乙之间的距离，即乙距离终点还有 EMBED Equation.DSMT4  （米），即乙在23分50秒内跑了 EMBED Equation.DSMT4  米，由于乙的速度始终保持不变，所以乙每分钟跑
+ EMBED Equation.DSMT4  （米）．所以，乙跑完全程需要 EMBED Equation.DSMT4  （分钟）．
+【答案】 EMBED Equation.DSMT4  分钟
+
+甲、乙两人同时同地同向出发，沿环形跑道匀速跑步．如果出发时乙的速度是甲的 EMBED Equation.DSMT4  倍，当乙第一次追上甲时，甲的速度立即提高 EMBED Equation.DSMT4  ，而乙的速度立即减少 EMBED Equation.DSMT4  ，并且乙第一次追上甲的地点与第二次追上甲的地点相距100米，那么这条环形跑道的周长是        米．
+
+【考点】行程问题之变速问题        【难度】3星      【题型】填空
+【关键词】迎春杯
+如图，设跑道周长为1，出发时甲速为2，则乙速为5．假设甲、乙从 EMBED Equation.DSMT4  点同时出发，按逆时针方向跑．由于出发时两者的速度比为 EMBED Equation.DSMT4  ，乙追上甲要比甲多跑1圈，所以此时甲跑了 EMBED Equation.DSMT4  ，乙跑了 EMBED Equation.DSMT4  ；此时双方速度发生变化，甲的速度变为 EMBED Equation.DSMT4  ，乙的速度变为 EMBED Equation.DSMT4  ，此时两者的速度比为 EMBED Equation.DSMT4  ；乙要再追上甲一次，又要比甲多跑1圈，则此次甲跑了 EMBED Equation.DSMT4  ，这个 EMBED Equation.DSMT4  就是甲从第一次相遇点跑到第二次相遇点的路程．从环形跑道上来看，第一次相遇点跑到第二次相遇点之间的距离，既可能是 EMBED Equation.DSMT4  个周长，又可能是 EMBED Equation.DSMT4  个周长．
+那么，这条环形跑道的周长可能为 EMBED Equation.DSMT4  米或 EMBED Equation.DSMT4  米．
+【答案】 EMBED Equation.DSMT4  米
+
+如图所示，甲、乙两人从长为 EMBED Equation.DSMT4  米的圆形跑道的 EMBED Equation.DSMT4  点背向出发跑步。跑道右半部分(粗线部分）道路比较泥泞，所以两人的速度都将减慢，在正常的跑道上甲、乙速度均为每秒 EMBED Equation.DSMT4  米，而在泥泞道路上两人的速度均为每秒 EMBED Equation.DSMT4  米。两人一直跑下去，问：他们第99次迎面相遇的地方距 EMBED Equation.DSMT4  点还有        米。
+
+【考点】行程问题之变速问题        【难度】3星      【题型】填空
+本题中，由于甲、乙两人在正常道路和泥泞道路上的速度都相同，可以发现，如果甲、乙各自绕着圆形跑道跑一圈，两人在正常道路和泥泞道路上所用的时间分别相同，那么两人所用的总时间也就相同，所以，两人同时出发，跑一圈后同时回到 EMBED Equation.DSMT4  点，即两人在 EMBED Equation.DSMT4  点迎面相遇，然后再从 EMBED Equation.DSMT4  点出发背向而行，可以发现，两人的行程是周期性的，且以一圈为周期．在第一个周期内，两人同时出发背行而行，所以在回到出发点前肯定有一次迎面相遇，这是两人第一次迎面相遇，然后回到出发点是第二次迎面相遇；然后再出发，又在同一个相遇点第三次相遇，再回到出发点是第四次相遇……可见奇数次相遇点都是途中相遇的地点，偶数次相遇点都是 EMBED Equation.DSMT4  点．本题要求的是第99次迎面相遇的地点与 EMBED Equation.DSMT4  点的距离，实际上要求的是第一次相遇点与 EMBED Equation.DSMT4  点的距离．对于第一次相遇点的位置，需要分段进行考虑：由于在正常道路上的速度较快，所以甲从出发到跑完正常道路时，乙才跑了 EMBED Equation.DSMT4  米，此时两人相距100米，且之间全是泥泞道路，此时两人速度相同，所以再各跑50米可以相遇．所以第一次相遇时乙跑了 EMBED Equation.DSMT4  米，这就是第一次相遇点与 EMBED Equation.DSMT4  点的距离，也是第99次迎面相遇的地点与 EMBED Equation.DSMT4  点的距离．
+【答案】 EMBED Equation.DSMT4  米
+
+丁丁和乐乐各拿了一辆玩具甲虫在400米跑道上进行比赛，丁丁的玩具甲虫每分钟跑30米，乐乐的玩具甲虫每分钟跑20米，但乐乐带了一个神秘遥控器，按第一次会使丁丁的玩具甲虫以原来速度的 EMBED Equation.DSMT4  倒退1分钟，按第二次会使丁丁的玩具甲虫以原来速度的 EMBED Equation.DSMT4  倒退1分钟，以此类推，按第 EMBED Equation.DSMT4  次，使丁丁的玩具甲虫以原来的速度的 EMBED Equation.DSMT4  倒退1分钟，然后再按原来的速度继续前进，如果乐乐在比赛中最后获胜，他最少按        次遥控器。
+【考点】行程问题之变速问题        【难度】3星      【题型】填空
+【关键词】走美，初赛，六年级
+乐乐的玩具甲虫跑完全程需要 EMBED Equation.DSMT4  分钟，丁丁的玩具甲虫跑完全程需要 EMBED Equation.DSMT4  分钟，乐乐要想取胜，就必须使丁丁的玩具甲虫因倒退所耽误的总时间超过 EMBED Equation.DSMT4  分钟．乐乐第一次按遥控器后，丁丁耽误的时间为倒退的1分钟及跑完这1分钟倒退路程所花费的时间，为 EMBED Equation.DSMT4  分钟；乐乐第二次按遥控器后，丁丁耽误的时间为 EMBED Equation.DSMT4  分钟；……乐乐第 EMBED Equation.DSMT4  次按遥控器后，丁丁耽误的时间为 EMBED Equation.DSMT4  分钟．所以相当于要使 EMBED Equation.DSMT4  大于 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  ，所以乐乐要想取胜，至少要按6次遥控器．
+【答案】6次
+
+唐老鸭和米老鼠进行5000米赛跑．米老鼠的速度是每分钟125米，唐老鸭的速度是每分钟100米．唐老鸭有一种能使米老鼠停止或减速的遥控器，每次使用都能使米老鼠进入“麻痹”状态1分钟，1分钟后米老鼠就会恢复正常，遥控器需要1分钟恢复能量才能再使用．米老鼠对“麻痹”状态也在逐渐适应，第1次进入“麻痹”状态时，米老鼠会完全停止，米老鼠第2次进入“麻痹”状态时，就会有原速度 EMBED Equation.DSMT4  的速度，而第3次就有原速度 EMBED Equation.DSMT4  的速度……，第20次进入“麻痹”状态时已有原速度 EMBED Equation.DSMT4  的速度了，这以后米老鼠就再也不会被唐老鸭的遥控器所控制了．唐老鸭与米老鼠同时出发，如果唐老鸭要保证不败，它最晚要在米老鼠跑了多少米的时候第一次使用遥控器?
+【考点】行程问题之变速问题        【难度】4星      【题型】解答
+ EMBED Equation.DSMT4  (分钟)， EMBED Equation.DSMT4  (分钟)，所以米老鼠正常情况下要40分钟跑完全程，唐老鸭要50分钟跑完全程．若唐老鸭使米老鼠麻痹20次，由于 EMBED Equation.DSMT4  ，则在这麻痹的20分钟内，米老鼠实际跑的路程为正常状态下 EMBED Equation.DSMT4  分钟跑的路程．这样，米老鼠一共需要 EMBED Equation.DSMT4  分钟才能到达终点．由于唐老鸭只需要50分钟，所以若使唐老鸭保持不败，并不需要使米老鼠麻痹20次，即可以尽量晚的第一次使用遥控器．根据题意，第20次使用可以使米老鼠多损失 EMBED Equation.DSMT4  分钟，第19次使用可以使米老鼠多损失 EMBED Equation.DSMT4  分钟，第18次使用可以使米老鼠多损失 EMBED Equation.DSMT4  分钟，第17次使用可以使米老鼠多损失 EMBED Equation.DSMT4  分钟，总计正好是 EMBED Equation.DSMT4  分钟．所以只需要使米老鼠麻痹16次，唐老鸭就能保持不败．这样米老鼠也要50分钟．由于还要留出15分钟的遥控器恢复能量的时间，所以第一次使用遥控器的时候后面剩下的时间不能少于 EMBED Equation.DSMT4  分钟，此时米老鼠已经跑出了 EMBED Equation.DSMT4  (米)，所以唐老鸭最晚要在米老鼠跑了2375米的时候第一次使用遥控器．
+【答案】2375米
+
+小周开车前往某会议中心，出发20分钟后，因为交通堵塞，中途延误了20分钟，为了按时到达会议中心，小周将车速提高了 EMBED Equation.DSMT4  ，小周从出发时算起到达会议中心共用了多少分钟？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+将车速提高 EMBED Equation.DSMT4  后，前、后两种情况下车速的比为 EMBED Equation.DSMT4  ，那么所用的时间的比为 EMBED Equation.DSMT4  ，由此省出的时间就是堵车耽误的20分钟，所以这段路程原来需要开 EMBED Equation.DSMT4  分钟，再加上开始的20分钟，可知小周从出发时算起到达会议中心共用了 EMBED Equation.DSMT4  分钟．
+【答案】 EMBED Equation.DSMT4  分钟
+
+如图，甲、乙分别从 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地同时出发，匀速相向而行，他们的速度之比为 EMBED Equation.DSMT4  ，相遇于 EMBED Equation.DSMT4  地后，甲继续以原来的速度向 EMBED Equation.DSMT4  地前进，而乙则立即调头返回，并且乙的速度比相遇前降低 EMBED Equation.DSMT4  ，这样当乙回到 EMBED Equation.DSMT4  地时，甲恰好到达离 EMBED Equation.DSMT4  地 EMBED Equation.DSMT4  千米的 EMBED Equation.DSMT4  处，那么 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地之间的距离是__________千米。
+
+【考点】行程问题之变速问题        【难度】3星      【题型】填空
+【关键词】清华附中，入学测试
+由于甲、乙的速度之比为 EMBED Equation.DSMT4  ，所以， EMBED Equation.DSMT4  ，乙调头后的速度为原来速度的 EMBED Equation.DSMT4  ，所以乙调头后两人速度之比为 EMBED Equation.DSMT4  ，而乙回到 EMBED Equation.DSMT4  地时甲恰好到达 EMBED Equation.DSMT4  处，所以 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  （千米），即 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地之间的距离为 EMBED Equation.DSMT4  千米．
+【答案】 EMBED Equation.DSMT4  千米
+
+甲、乙两车分别从 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地同时出发相向而行，甲车速度为32千米/时，乙车速度为48千米/时，它们到达 EMBED Equation.DSMT4  地和 EMBED Equation.DSMT4  地后，甲车速度提高 EMBED Equation.DSMT4  ，乙车速度减少 EMBED Equation.DSMT4  ，它们第一次相遇地点与第二次相遇地点相距74千米，那么 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  之间的距离是多少千米？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+开始时两车速度比为 EMBED Equation.DSMT4  ，所以第一次相遇是在距 EMBED Equation.DSMT4  地全程的 EMBED Equation.DSMT4  处；当乙车到达 EMBED Equation.DSMT4  地时，甲车离 EMBED Equation.DSMT4  地还有全程的 EMBED Equation.DSMT4  ，此时乙车速度减少 EMBED Equation.DSMT4  ，变为原来的 EMBED Equation.DSMT4  ，两车速度比为 EMBED Equation.DSMT4  ，那么当甲车走完剩下的 EMBED Equation.DSMT4  时，乙车已经往回走了 EMBED Equation.DSMT4  ，此时两车相距全程的 EMBED Equation.DSMT4  ．这时甲车速度提高 EMBED Equation.DSMT4  ，两车速度比变为 EMBED Equation.DSMT4  ，所以两车再各走 EMBED Equation.DSMT4  即相遇．即第二次相遇点距离 EMBED Equation.DSMT4  地全程的 EMBED Equation.DSMT4  ．所以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  之间的距离为 EMBED Equation.DSMT4  千米．
+【答案】 EMBED Equation.DSMT4  千米
+
+上午8点整，甲从 EMBED Equation.DSMT4  地出发匀速去 EMBED Equation.DSMT4  地，8点20分甲与从 EMBED Equation.DSMT4  地出发匀速去 EMBED Equation.DSMT4  地的乙相遇；相遇后甲将速度提高到原来的3倍，乙速度不变；8点30分，甲、乙两人同时到达各自的目的地．那么，乙从 EMBED Equation.DSMT4  地出发时是8点        分．
+【考点】行程问题之变速问题        【难度】3星      【题型】填空
+【关键词】日本第12届小学算术奥林匹克初赛
+甲、乙相遇时甲走了20分钟，之后甲的速度提高到原来的3倍，又走了10分钟到达目的地，根据路程一定，时间比等于速度的反比，如果甲没提速，那么后面的路甲需要走 EMBED Equation.DSMT4  分钟，所以前后两段路程的比为 EMBED Equation.DSMT4  ，由于甲走20分钟的路程乙要走10分钟，所以甲走30分钟的路程乙要走15分钟，也就是说与甲相遇时乙已出发了15分钟，所以乙从 EMBED Equation.DSMT4  地出发时是8点5分．
+【答案】5
+
+甲、乙往返于相距 EMBED Equation.DSMT4  米的 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  两地．甲先从 EMBED Equation.DSMT4  地出发， EMBED Equation.DSMT4  分钟后乙也从 EMBED Equation.DSMT4  地出发，并在距 EMBED Equation.DSMT4   地 EMBED Equation.DSMT4  米的 EMBED Equation.DSMT4  地追上甲．乙到 EMBED Equation.DSMT4  地后立即原速向 EMBED Equation.DSMT4  地返回，甲到 EMBED Equation.DSMT4  地休息 EMBED Equation.DSMT4  分钟后加快速度向 EMBED Equation.DSMT4  地返回，并在 EMBED Equation.DSMT4  地追上乙．问：甲比乙提前多少分钟回到 EMBED Equation.DSMT4  地？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+由于甲比乙早出发6分钟，乙在走了600米时追上甲，可见乙走600米比甲要少用6分钟，那么对于剩下的 EMBED Equation.DSMT4  米，乙比甲要少用 EMBED Equation.DSMT4  (分钟)，也就是说乙比甲早4分钟到达 EMBED Equation.DSMT4  地．那么乙从 EMBED Equation.DSMT4  地出发比甲早 EMBED Equation.DSMT4  (分钟)，走到 EMBED Equation.DSMT4  地被甲追上，相当于甲走400米比乙少用5分钟，那么对于剩下的600米，甲比乙要少用 EMBED Equation.DSMT4  (分钟)．所以甲比乙提前 EMBED Equation.DSMT4  分钟回到 EMBED Equation.DSMT4  地．
+【答案】 EMBED Equation.DSMT4  分钟
+
+汽车从甲地到乙地，先行上坡，后行下坡，共用 EMBED Equation.DSMT4  小时。如果甲、乙两地相距 EMBED Equation.DSMT4  千米，上坡车速为每小时 EMBED Equation.DSMT4  千米，下坡车速为每小时 EMBED Equation.DSMT4  千米，那么原路返回要         小时。
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+【关键词】学而思杯，6年级
+（法 EMBED Equation.DSMT4  ）从甲地到乙地共有 EMBED Equation.DSMT4  千米，共用 EMBED Equation.DSMT4  小时，上坡车速为每小时 EMBED Equation.DSMT4  千米，下坡车速为每小时 EMBED Equation.DSMT4  千米，可得上坡所用的时间为 EMBED Equation.DSMT4  （小时），那么上坡路为 EMBED Equation.DSMT4  （千米），下坡路为 EMBED Equation.DSMT4  （千米）原路返回时，原来的上坡路变成下坡路，原来的下坡路变成上坡路，所用时间为 EMBED Equation.DSMT4   EMBED Equation.DSMT4  （小时）。
+（法 EMBED Equation.DSMT4  ）本题也可以从整体上进行考虑，由于原路返回时，原来的上坡路变成下坡路，原来的下坡路变成了上坡路，所以往返一次相当于共走了 EMBED Equation.DSMT4  千米的上坡路和 EMBED Equation.DSMT4  千米的下坡路，那么所用的总时间为 EMBED Equation.DSMT4  （小时），其中从甲地到乙地用了 EMBED Equation.DSMT4  小时，所以原路返回要用 EMBED Equation.DSMT4  （小时）。
+【答案】 EMBED Equation.DSMT4  
+
+如图所示，有 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  四个游乐景点，在连接它们的三段等长的公路 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  上，汽车行驶的最高时速限制分别是120千米、40千米和60千米。一辆大巴车从 EMBED Equation.DSMT4  景点出发驶向 EMBED Equation.DSMT4  景点，到达 EMBED Equation.DSMT4  点后立刻返回；一辆中巴同时从 EMBED Equation.DSMT4  点出发，驶向 EMBED Equation.DSMT4  点。两车相遇在 EMBED Equation.DSMT4  景点，而当中巴到达 EMBED Equation.DSMT4  点时，大巴又回到了 EMBED Equation.DSMT4  点，已知大巴和中巴在各段公路上均以其所能达到且被允许的速度尽量快地行驶，大巴自身所具有的最高时速大于60千米，中巴在与大巴相遇后自身所具有的最高时速比相遇前提高了 EMBED Equation.DSMT4  ，求大巴客车的最高时速。
+
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+【关键词】祖冲之杯
+由于 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  三段公路等长，不妨设 EMBED Equation.DSMT4  千米，大巴从 EMBED Equation.DSMT4  用 EMBED Equation.DSMT4  （小时），此时中巴从 EMBED Equation.DSMT4  ，速度为 EMBED Equation.DSMT4  （千米/小时），所以中巴从 EMBED Equation.DSMT4  的速度为 EMBED Equation.DSMT4  （千米/小时），用时为 EMBED Equation.DSMT4  （小时），这也是大巴从 EMBED Equation.DSMT4  用的时间．大巴在 EMBED Equation.DSMT4  上最少用 EMBED Equation.DSMT4  （小时），所以大巴在 EMBED Equation.DSMT4  上最多用 EMBED Equation.DSMT4  （小时）．大巴的最高时速为 EMBED Equation.DSMT4  （千米）．
+【答案】 EMBED Equation.DSMT4  千米
+
+从甲市到乙市有一条公路，它分成三段．在第一段上，汽车速度是每小时40千米；在第二段上，汽车速度是每小时90千米；在第三段上，汽车速度是每小时50千米．己知第一段公路的长恰好是第三段的2倍，现有两汽车分别从甲、乙两市同时出发，相向而行，1小时20分后，在第二段从甲到乙方向的 EMBED Equation.DSMT4  处相遇．那么，甲、乙两市相距多少千米？
+
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+如图所示， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别为三段路的端点， EMBED Equation.DSMT4  为两车相遇的地点．由于 EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  的两倍，而汽车在 EMBED Equation.DSMT4  上的速度为40千米/时，在 EMBED Equation.DSMT4  上的速度为50千米/时，所以汽车在 EMBED Equation.DSMT4  上与在 EMBED Equation.DSMT4  上所用的时间之比为 EMBED Equation.DSMT4  ，即在 EMBED Equation.DSMT4  上比在 EMBED Equation.DSMT4  上多用了 EMBED Equation.DSMT4  的时间；由于 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，而汽车在整个 EMBED Equation.DSMT4  段上速度都是相同的，所以汽车在 EMBED Equation.DSMT4  上所用的时间是汽车在 EMBED Equation.DSMT4  上所用的时间的2倍，即多用了1倍的时间．由于两辆汽车同时出发，在 EMBED Equation.DSMT4  处相遇，两车所用的时间相同，所以在 EMBED Equation.DSMT4  上所用的时间的 EMBED Equation.DSMT4  倍等于在 EMBED Equation.DSMT4  上所用的时间，可以得到在 EMBED Equation.DSMT4  上所用的时间与在 EMBED Equation.DSMT4  上所用的时间之比为 EMBED Equation.DSMT4  ，那么可以得到在 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  四段上所用的时间之比为 EMBED Equation.DSMT4  ．汽车在 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  段上所用的时间之比为 EMBED Equation.DSMT4  ，速度之比为 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  段的长度之比为 EMBED Equation.DSMT4  ．由于汽车从 EMBED Equation.DSMT4  到 EMBED Equation.DSMT4  用了1小时20分钟，所以在 EMBED Equation.DSMT4  段上所用的时间为 EMBED Equation.DSMT4  小时， EMBED Equation.DSMT4  段的长度为 EMBED Equation.DSMT4  千米，那么从 EMBED Equation.DSMT4  到 EMBED Equation.DSMT4  的距离为 EMBED Equation.DSMT4  千米．
+【答案】 EMBED Equation.DSMT4  千米
+
+现在甲乙两辆车往返于相距20千米的 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地，甲车先从 EMBED Equation.DSMT4  地出发，9分钟后乙车也从 EMBED Equation.DSMT4  地出发，并且在距离 EMBED Equation.DSMT4  地5千米的 EMBED Equation.DSMT4  地追上甲车。乙车到 EMBED Equation.DSMT4  地之后立即向 EMBED Equation.DSMT4  地原速驶回，甲车到 EMBED Equation.DSMT4  地休息12分钟之后加快速度向 EMBED Equation.DSMT4  地返回，并在 EMBED Equation.DSMT4  地又将乙车追上。那么最后甲车比乙车提前多少分钟到 EMBED Equation.DSMT4  地？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+根据题意可知，按照出发时的速度，乙车走5千米比甲车少用9分钟，那么乙车走15千米比甲车少用27分钟，也就是说乙车比甲车早27分钟到达 EMBED Equation.DSMT4  地．到达 EMBED Equation.DSMT4  地后，乙车立即返回，而甲车则停留12分钟，所以甲车比乙车晚 EMBED Equation.DSMT4  分钟从 EMBED Equation.DSMT4  地返回．返回时甲车提高了速度，所以在乙车开出15千米后追上乙车，说明返回时每走15千米甲车比乙车少用39分钟，那么走5千米甲车比乙车少用13分钟．而剩下的路恰好5千米，所以甲车比乙车提前15分钟到 EMBED Equation.DSMT4  地．
+【答案】15分钟
+
+甲、乙两地相距100千米,小张先骑摩托车从甲地出发,1小时后小李驾驶汽车从甲地出发,两人同时到达乙地.摩托车开始速度是每小时50千米,中途减速后为每小时40千米.汽车速度是每小时80千米,汽车曾在途中停驶1O分钟.那么小张驾驶的摩托车减速是在他出发后的多少小时?
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+汽车从甲地到乙地的行驶时问为100÷80=1.25小时=1小时15分钟,加上中途停驶的10分钟,共用时1小时25分钟．
+    而小张先小李1小时出发,但却同时到达,所以小张从甲到乙共用了2小时25分钟，即2最小时．
+以下给出两种解法：
+方法一:设小张驾驶的摩托车减速是在他出发后 EMBED Equation.DSMT4  小时,有50× EMBED Equation.DSMT4  +40× EMBED Equation.DSMT4  ,解得 EMBED Equation.DSMT4  .
+    所以小张驾驶的摩托车减速是在他出发后 EMBED Equation.DSMT4  小时.
+    方法二:如果全程以每小时50千米的速度行驶,需100÷50=2小时的时间,全程以每小时40千米的速度行驶,需100÷40=2.5小时.
+依据鸡兔同笼的思想知,小张以每小时50千米的速度行驶了 EMBED Equation.DSMT4  的路程,即行驶了100 EMBED Equation.DSMT4  千米的路程,距出发 EMBED Equation.DSMT4  小时.
+所以甲、乙可能相遇的位置在距离 EMBED Equation.DSMT4  点顺时针方向320米，240米，160米，80米和0米．
+【答案】 EMBED Equation.DSMT4  小时
+
+甲、乙两人在400米圆形跑道上进行10000米比赛．两人从起点同时同向出发，开始时甲的速度为每秒8米，乙的速度为每秒6米．当甲每次追上乙以后，甲的速度每秒减少2米，乙的速度每秒减少0.5米．这样下去，直到甲发现乙第一次从后面追上自己开始，两人都把自己的速度每秒增加O.5米，直到终点．那么领先者到达终点时，另一人距终点多少米?
+【考点】行程问题之变速问题        【难度】4星      【题型】解答
+ 对于这道题只能详细的分析逐步推算，以获得解答．
+  先求出当第一次甲追上乙时的详细情况，因为甲乙同向，所以为追击问题．
+  甲、乙速度差为8-6=2米／秒，当甲第一次追上乙时，甲应比乙多跑了一圈400米，即甲跑了400÷2×8=1600米，乙跑了400÷2×6=1200米．
+    相遇后，甲的速度变为8-2=6米／秒，乙的速度变为6-0.5=5．5米／秒·显然，甲的速度大于乙，所以仍是甲超过乙．
+    当甲第二次追上乙前，甲、乙速度差为6-5.5=0.5米／秒，追上乙时，甲应在原基础上再比乙多跑一圈400米，于是甲又跑了400÷0.5×6=4800米，乙又跑了400÷0.5×5.5=4400米．
+    甲第二次追上乙后，甲的速度变为6-2=4米／秒，乙的速度变为5.5-0.5= 5米／秒．显然，现在乙的速度大于甲，所以变为乙超过甲．    
+    当乙追上甲时，甲、乙速度差为5-4=1米／秒，乙追上甲时，乙应比甲多跑一圈400米，于是甲又跑了400÷1×4=1600米，乙又跑了400÷1×5=2000米．。
+    这时甲的速度变为4+0.5=4.5米／秒，乙的速度变为5+0.5=5.5米／秒并以这样的速度跑完剩下的全程．
+    在这过程中甲共跑了1600+4800+1600=8000米，乙共跑了1200+4400+2000=7600米．    
+    甲还剩下10000-8000=2000米的路程，乙还剩下10000-7600=2400米的路程．
+    显然乙先跑完全程，此时甲还剩下 EMBED Equation.DSMT4  米的路程．
+    即当领先者到达终点时，另一人距终点 EMBED Equation.DSMT4  米．
+    评注：此题考察了我们的分析问题的能力，也考察了我们对追击这一基本行程问题的熟练程度.
+【答案】 EMBED Equation.DSMT4  米
+
+如图21-l，A至B是下坡，B至C是平路，C至D是上坡.小张和小王在上坡时步行速度是每小时4千米，平路时步行速度是每小时5千米，下坡时步行速度是每小时6千米．小张和小王分别从A和D同时出发，1小时后两人在E点相遇．已知E在BC上，并且E至C的距离是B至C距离的 EMBED Equation.DSMT4  ．当小王到达A后9分钟，小张到达D．那么A至D全程长是多少千米?
+
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+ BE是BC的 EMBED Equation.DSMT4  ，CE是BC的 EMBED Equation.DSMT4  ，说明DC这段下坡，比AB这段下坡所用的时间多，也就是DC这一段，比AB这一段长，因此可以在DC上取一段DF和AB一样长，如下图：
+
+  另外，再在图上画出一点G，使EG和EC一样长，这样就表示出，小王从F到C.小张从B到G．
+  小王走完全程比小张走完全程少用9分钟，这时因为小张走C至F是上坡，而小王走F至C是下坡(他们两人的其余行程走下坡、平路、上坡各走一样多)．
+  因此，小王从F至C，走下坡所用时间是9÷ EMBED Equation.DSMT4  =18(分钟)．
+  因此得出小张从B至G也是用18分钟，走GE或CE都用6分钟．走B至C全程(平路)要30分钟．
+  从A至曰下坡所用时间是60-18-6=36(分钟)；
+  从D至C下坡所用时间是60-6=54(分钟)；
+  A至D全程长是(36+54)× EMBED Equation.DSMT4  +30× EMBED Equation.DSMT4  =11.5千米．
+【答案】11.5千米
+
+老王开汽车从A到B为平地（见右上图），车速是30千米／时；从B到C为上山路，车速是22.5千米／时；从C到D为下山路，车速是36千米／时。已知下山路是上山路的2倍，从A到D全程为72千米，老王开车从A到D共需要多少时间？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+2.4时。设上山路为x千米，下山路为2x千米，则上、下山的平均速度是
+　　（x＋2x）÷（x÷22.5＋2x÷36）＝30（千米/时），
+　　正好是平地的速度，所以行AD总路程的平均速度就是30千米/时，与平地路程的长短无关。因此共需要72÷30＝2.4（时）。
+【答案】2.4时
+
+张明的家离学校 4千米，他每天早晨骑自行车上学，以20千米／时的速度行进，恰好准时到校。一天早晨，因为逆风，他提前0.2时出发，以10千米／时的速度骑行，行至离学校2.4千米处遇到李强，他俩互相鼓励，加快了骑车的速度，结果比平常提前5分24秒到校。他遇到李强后每时骑行多少千米？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+16千米。5分24秒是0.09时。张明这天到学校用的时间是
+　　4÷20＋0.2-0.09＝0.31（时），
+　　遇到李强时用的时间为
+　　（4-2.4）÷10＝0.16（时），
+　　所以遇到李强后的速度为
+　　2.4÷（0.31-0.16）＝16（千米／时）。
+【答案】16千米／时
+
+甲、乙二人同时从起点出发沿同一方向行走，甲每时行5千米，而乙第1时行1千米，第2时行2千米，以后每时都比前1时多行1千米。问：经过多长时间乙追上甲？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+9时。提示：时速1千米与时速9千米的平均时速为5千米。
+【答案】9时
+
+甲、乙两人同时从山脚开始爬山，到达山顶后就立即下山。他们两人下山的速度都是各自上山速度的2倍。甲到山顶时，乙距山顶还有400米；甲回到山脚时，乙刚好下到半山腰。求从山脚到山顶的距离。
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+2400米。如果两人下山的速度与各自上山的速度相同，则题中相应的条件应变为“甲下山路走了 EMBED Equation.DSMT4  时，乙下山路走了 EMBED Equation.DSMT4  ”。 
+因为甲到山顶时比乙多走 EMBED Equation.DSMT4  米，所以甲下山路走了 EMBED Equation.DSMT4  时，应比乙多走 EMBED Equation.DSMT4  （米）。从山脚到山顶的距离为 EMBED Equation.DSMT4  （米）。
+【答案】2400米
+
+甲、乙两人同时从山脚开始爬山，到达山顶后就立即下山。他们两人下山的速度都是各自上山速度的2倍。开始后1时，甲与乙在离山顶400米处相遇，当甲回到山脚时，乙刚好下到半山腰。问：乙比甲晚多少时间回到山脚？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+17分。如果两人下山的速度与各自上山的速度相同，则题中相应的条件应变为“1时后，乙离山顶差400米，甲走了下山路200米”和“甲下山路走了 EMBED Equation.DSMT4  时，乙下山路走了 EMBED Equation.DSMT4  ”。
+甲的速度是乙的速度的 EMBED Equation.DSMT4  。同时甲比乙多走3000＋600＝3600（米），山路长3000＋400＝3400（米）。
+　　再回到“两人下山的速度都是各自上山速度的2倍”。从上山到下山，甲需 EMBED Equation.DSMT4  （时），乙需 EMBED Equation.DSMT4  （时），乙比甲多用 EMBED Equation.DSMT4  （时）= EMBED Equation.DSMT4  （分）
+【答案】17分
+
+甲、乙两地相距6720米，某人从甲地步行去乙地，前一半时间平均每分钟行80米，后一半时间平均每分钟行60米.问他走后一半路程用了多少分钟？
+【考点】行程问题之变速问题        【难度】4星      【题型】解答
+方法一：由于前一半时间与后一半时间的平均速度是已知的，因此可以计算出这人步行的时间．而如果了解清楚各段的路程、时间与速度，题目结果也就自然地被计算出来了．应指出，如果前一半时间平均速度为每分钟80米，后一半时间平均速度为每分钟60米，则这个人从甲走到乙的平均速度就为每分钟走(80+60)÷2=70米．这是因为一分钟80米，一分钟60米，两分钟一共140米，平均每分钟70米．而每分钟走80米的时间与每分钟走60米的时间相同，所以平均速度始终是每分钟70米．这样，就可以计算出这个人走完全程所需要的时间是6720÷70=96分钟．由于前一半时间的速度大于后一半时间的速度，所以前一半的时间所走路程大于6720÷2=3360米．则前一个3360米用了3360÷80=42分钟；后一半路程所需时间为96-42=54分钟．
+方法二：设走一半路程时间是x分钟，则80x+60x=6720，解方程得：x=48分钟，因为80×48=3840（米），大于一半路程3360米，所以走前一半路程速度都是80米，时间是3360÷80=42（分钟），后一半路程时间是48+（48-42）=54（分钟）.
+评注：首先，从这道题我们可以看出“一半时间”与“一半路程”的区别．在时间相等的情况下，总的平均速度可以是各段平均速度的平均数．但在各段路程相等的情况下，这样做就是不正确的．其次，后一半路程是混合了每分钟80米和每分钟60米两种状态，直接求所需时间并不容易．而前一半路程所需时间的计算是简单的．因此，在几种方法都可行的情况下，选择一种好的简单的方法．这种选择能力也是需要锻炼和培养的．
+【答案】54分钟
+
+甲、乙两地相距6千米，某人从甲地步行去乙地，前一半时间平均每分钟行80米，后一半时间平均每分钟行70米．问他走后一半路程用了多少分钟？
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+方法一：全程的平均速度是每分钟 EMBED Equation.DSMT4  （米），走完全程的时间是 EMBED Equation.DSMT4  （分
+钟），走前一半路程速度一定是80米，时间是 EMBED Equation.DSMT4  （分钟），后一半路程时间是 EMBED Equation.DSMT4  （分钟）．
+方法二：设走一半路程时间是x分钟，则 EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  （分钟），因为 EMBED Equation.DSMT4    EMBED Equation.DSMT4  （米），大于一半路程3000米，所以走前一半路程速度都是80米，时间是 EMBED Equation.DSMT4  （分钟），后一半路程时间是 EMBED Equation.DSMT4  （分钟）．
+【答案】 EMBED Equation.DSMT4  分钟
+
+游乐场的溜冰滑道如下图。溜冰车上坡每分行400米，下坡每分行600米。已知从A点到B点需3.7分，从B点到A点只需2.5分。问：AC比BC长多少米？
+ INCLUDEPICTURE "http://zhjyx.hfjy.net.cn/RESOURCE/XX/XXSX/ALPK/BL000052/39_429.jpg" \* MERGEFORMATINET 
+【考点】行程问题之变速问题        【难度】3星      【题型】解答
+1440米。取AD等于BC（见下图）。因为从A到B与从B到A，走AD与BC两段路所用的时间和相同，所以D到C比C到D多用3.7－2.5＝1.2（分），即 EMBED Equation.DSMT4  .由此解得 EMBED Equation.DSMT4  
+ INCLUDEPICTURE "http://202.97.254.113:8080/RESOURCE/XX/XXSX/ALPK/BL000052/39_804.jpg" \* MERGEFORMATINET 
+【答案】1440米
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+3-2-6.变速问题.题库	                                  教师版                                    page  PAGE 25 of  NUMPAGES 25
+
+
+
+变速问题
+
+教学目标
+
+知识精讲
+
+
+

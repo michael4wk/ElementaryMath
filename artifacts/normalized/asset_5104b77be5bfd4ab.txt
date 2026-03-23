@@ -1,0 +1,171 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+掌握最值中的数字谜的技巧
+能够综合运用数论相关知识解决数字谜问题
+
+ SHAPE  \* MERGEFORMAT 
+
+数字谜中的最值问题常用分析方法
+
+数字谜一般分为横式数字谜和竖式数字谜．横式数字谜经常和数论里面的知识结合考察，有些时候也可以转化为竖式数字谜；
+竖式数字谜通常有如下突破口：末位和首位、进位和借位、个位数字、位数的差别等．
+数字谜的常用分析方法有：个位数字分析法、高位数字分析法、数字大小估算分析法、进位错位分析法、分解质因数法、奇偶分析法等．
+除了数字谜问题常用的分析方法外，还会经常采用比较法，通过比较算式计算过程的各步骤，得到所求的最值的可能值，再验证能否取到这个最值．
+数字谜问题往往综合了数字的整除特征、质数与合数、分解质因数、个位数字、余数、分数与小数互化、方程、估算、找规律等题型。 
+
+ SHAPE  \* MERGEFORMAT 
+
+有四个不同的数字，用它们组成最大的四位数和最小的四位数，这两个四位数之和是11469，那么其中最小的四位数是多少？
+
+
+
+
+
+
+
+
+将一个四位数的数字顺序颠倒过来，得到一个新的四位数，如果新数比原数大7902，那么所有符合这样条件的四位数中原数最大的是       ．
+ EMBED Equation.DSMT4  
+
+
+
+在下面的算式中， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别代表1～9中的数字，不同的字母代表不同的数字，恰使得加法算式成立．则三位数 EMBED Equation.DSMT4  的最大可能值是        ．
+ EMBED Equation.DSMT4  
+
+
+
+
+
+如图，相同的汉字代表相同的数字，不同的汉字代表不同的数字，那么四位数“奥林匹克”最大是        
+ EMBED Equation.DSMT4  
+
+
+
+
+
+下面是一个 EMBED Equation.DSMT4  进制中的加法算式，其中不同的字母表示不同的数，求 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  的值．
+ EMBED Equation.DSMT4  
+
+
+
+
+
+右式中的 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  分别代表0～9中的一个数码，并且满足 EMBED Equation.DSMT4  ，被加数最大是多少？
+ EMBED Equation.DSMT4  
+
+
+
+下式中的 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  分别代表0～9中的一个数码，并且满足 EMBED Equation.DSMT4  ，被减数最小是多少？
+ EMBED Equation.DSMT4    
+从1—9这9个数字中选出8个不同的数字填入右面的方格中，使得竖式成立．其中的四位数最大可能是　      　．
+ INCLUDEPICTURE "http://beijing.neworiental.org/Portals/24/C_Info/ImageFile/84496/2010-01/04.jpg" \* MERGEFORMATINET 
+
+
+
+
+
+如图，在加法算式中，八个字母“ EMBED Equation.DSMT4  ”分别代表0到9中的某个数字，不同的字母代表不同的数字，使得算式成立，那么四位数“ EMBED Equation.DSMT4  ”的最大值是多少？
+ EMBED Equation.DSMT4  
+
+
+
+
+把 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，…， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  这十个数字填到下列加法算式中四个加数的方格内，要求每个数字各用一次，那么加数中的三位数的最小值是多少？
+                                            EMBED Equation.DSMT4  
+
+
+
+
+
+如图，相同的汉字代表相同的数字，不同的汉字代表不同的数字．“美妙数学花园”代表的 EMBED Equation.DSMT4  位数最小为          ．
+ EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+面算式由1～9中的8个组成，相同的汉字表示相同的数，不同的汉字表示不同的数.那么“数学解题”与“能力”的差的最小值是__________.
+
+
+
+
+
+右边的加法算式中，每个“□”内有一个数字，所有“ EMBED Equation.DSMT4  ”内的数字之和最大可达到            。
+
+
+
+
+
+将数字1至9分别填入右边竖式的方格内使算式成立(每个数字恰好使用一次)，那么加数中的四位数最小是多少？
+ EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+在右边的加法算式中，若每个字母均表示0到9中的一个数字，任意两个字母表示的数字都不相同，也不与算式中已有的数字相同，则 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  乘积的最大值是多少？
+ EMBED Equation.DSMT4  
+
+
+右式中不同的汉字代表l一9中不同的数字，当算式成立时，“中国”这两个汉字所代表的两位数最大是多少?
+
+华杯赛网址是 EMBED Equation.DSMT4  ，将其中的字母组成如下算式： EMBED Equation.DSMT4  ，如果每个字母分别代表0～9这十个数字中的一个，相同的字母代表相同的数字，不同的字母代表不同的数字，并且 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，则三位数 EMBED Equation.DSMT4  的最小值是        ．
+
+
+
+
+
+
+在下面的表1中，一条直线穿过其中若干个方格，穿过的方格中各数之和为 EMBED Equation.DSMT4  。请你在表2中画一条直线，穿过其中若干个方格。穿过的方格中各数之和最大是        。
+
+表1              表2
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+5-1-2-4.最值的数字谜（一）.题库	                            学生版                           page  PAGE 4 of  NUMPAGES 5
+
+
+
+5-1-2-4.最值中的数字谜（一）
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

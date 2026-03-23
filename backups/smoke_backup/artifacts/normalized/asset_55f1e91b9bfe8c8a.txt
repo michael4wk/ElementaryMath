@@ -1,0 +1,195 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+学习完全平方数的性质；
+整理完全平方数的一些推论及推论过程
+掌握完全平方数的综合运用。
+
+ SHAPE  \* MERGEFORMAT 
+一、完全平方数常用性质
+1.主要性质
+1.完全平方数的尾数只能是0，1，4，5，6，9。不可能是2，3，7，8。
+2.在两个连续正整数的平方数之间不存在完全平方数。
+3.完全平方数的约数个数是奇数，约数的个数为奇数的自然数是完全平方数。
+4.若质数p整除完全平方数 EMBED Equation.DSMT4  ，则p能被 EMBED Equation.DSMT4  整除。
+2.性质
+性质1：完全平方数的末位数字只可能是0，1，4，5，6，9．
+性质2：完全平方数被3，4，5，8，16除的余数一定是完全平方数．
+性质3：自然数N为完全平方数 EMBED Equation.DSMT4  自然数N约数的个数为奇数．因为完全平方数的质因数分解中每个质因数出现的次数都是偶数次，所以，如果p是质数，n是自然数，N是完全平方数，且 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ．
+性质4：完全平方数的个位是6 EMBED Equation.DSMT4  它的十位是奇数．
+性质5：如果一个完全平方数的个位是0，则它后面连续的0的个数一定是偶数．如果一个完全平方数的个位是5，则其十位一定是2，且其百位一定是0，2，6中的一个．
+性质6：如果一个自然数介于两个连续的完全平方数之间，则它不是完全平方数．
+3.一些重要的推论
+1.任何偶数的平方一定能被4整除；任何奇数的平方被4（或8）除余1.即被4除余2或3的数一定不是完全平方数。
+2.一个完全平方数被3除的余数是0或1.即被3除余2的数一定不是完全平方数。
+3.自然数的平方末两位只有：00，01，21，41，61，81，04，24，44，64，84，25，09，29，49，69，89，16，36，56，76，96。
+4.完全平方数个位数字是奇数（1，5，9）时，其十位上的数字必为偶数。
+5.完全平方数个位数字是偶数（0，4）时，其十位上的数字必为偶数。
+6.完全平方数的个位数字为6时，其十位数字必为奇数。
+7.凡个位数字是5但末两位数字不是25的自然数不是完全平方数；末尾只有奇数个“0”的自然数不是完全平方数；个位数字为1，4，9而十位数字为奇数的自然数不是完全平方数。
+3.重点公式回顾：平方差公式： EMBED Equation.DSMT4  
+ SHAPE  \* MERGEFORMAT 
+模块一、平方差公式运用
+将两个自然数的差乘上它们的积，能否得到数45045？
+【考点】平方差公式运用  【难度】2星   【题型】解答
+设这两个数分别是a和b，那么有ab(a-b)=45045,分析奇偶性可知这是不可能的。因此不可能得到45045。
+【答案】不能得到这样的数
+
+一个数减去100是一个平方数，减去63也是一个平方数，问这个数是多少？ 
+【考点】平方差公式运用  【难度】2星   【题型】解答
+设这个数减去 EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  ，减去 EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，
+可知 EMBED Equation.DSMT4  ，且 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，这样这个数为 EMBED Equation.DSMT4  ．
+【答案】424
+
+能否找到这么一个数，它加上24，和减去30所得的两个数都是完全平方数？ 
+【考点】平方差公式运用  【难度】3星   【题型】解答
+假设能找到，设这两个完全平方数分别为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，那么这两个完全平方数的差为
+ EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  的奇偶性质相同，所以 EMBED Equation.DSMT4  不是4的倍数，就是奇数，不可能是像54这样是偶数但不是4的倍数．所以 EMBED Equation.DSMT4  不可能等于两个平方数的差，那么题中所说的数是找不到的．
+【答案】不存在这样的数
+
+能否找到这么一个数，它加上24，和减去30所得的两个数都是完全平方数？
+【考点】平方差公式运用  【难度】3星   【题型】解答
+假设能找到，设这两个完全平方数分别为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，那么这两个完全平方数的差为 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  的奇偶性质相同，所以 EMBED Equation.DSMT4  不是 EMBED Equation.DSMT4  的倍数，就是奇数，所以 EMBED Equation.DSMT4  不可能等于两个平方数的差，所以这样的数找不到．
+【答案】不存在这样的数
+
+一个正整数加上132和231后都等于完全平方数，求这个正整数是多少？
+【考点】平方差公式运用  【难度】3星   【题型】解答
+设该正整数为a，根据题意得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  两式相减得 EMBED Equation.DSMT4  ,注意到 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  的奇偶性相同，都是奇数．因为 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．解得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，但是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  不符合是正整数的条件．因此 EMBED Equation.DSMT4  ，或者 EMBED Equation.DSMT4  ．所以这个正整数是2269或97．
+【答案】2269或97
+
+两个完全平方数的差为77，则这两个完全平方数的和最大是多少？最小是多少？ 
+【考点】平方差公式运用  【难度】3星   【题型】解答
+设这两个完全平方数分别是 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，且 EMBED Equation.DSMT4  ，则两个完全平方数的和可以表示为 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  越大，平方和越大， EMBED Equation.DSMT4  越小，平方和越小，而 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，当 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  取得最大值 EMBED Equation.DSMT4  ，此时两个完全平方数的和最大，为 EMBED Equation.DSMT4  ；当 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  取得最小值2，此时两个完全平方数的和最小，为85．
+【答案】最小85，最大2965
+
+三个自然数，它们都是完全平方数，最大的数减去第二大的数的差为80，第二大的数减去最小的数的差为60，求这三个数． 
+【考点】平方差公式运用  【难度】3星   【题型】解答
+设这三个数从大到小分别为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，那么有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，因为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  同奇同偶，所以有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，分别解得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，对于后者没有满足条件的B，所以A只能等于12， EMBED Equation.DSMT4  ，继而求得 EMBED Equation.DSMT4  ，所以这三个数分别为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ．
+【答案】三个数分别为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4   
+
+有两个两位数，它们的差是14，将它们分别平方，得到的两个平方数的末两位数(个位数和十位数)相同，那么这两个两位数是         ．(请写出所有可能的答案) 
+【考点】平方差公式运用  【难度】4星   【题型】填空
+【关键词】2008年，清华附中
+设这两个两位数中较小的那个为 EMBED Equation.DSMT4  ，则另外一个为 EMBED Equation.DSMT4  ，由题知，
+ EMBED Equation.DSMT4   ( EMBED Equation.DSMT4  为正整数)，即 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  均为两位数，所以 EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  可能为25、50或者75， EMBED Equation.DSMT4  可能为18、43或者68．经检验， EMBED Equation.DSMT4  、43、68均符合题意，所以这两个两位数为18、32，或者43、57，或者68、82．
+【答案】这两个两位数为18、32，或者43、57，或者68、82
+
+A是一个两位数，它的6倍是一个三位数B，如果把B放在A的左边或者右边得到两个不同的五位数，并且这两个五位数的差是一个完全平方数(整数的平方)，那么A的所有可能取值之和为      ． 
+【考点】平方差公式运用  【难度】4星   【题型】填空
+如果把B放在A的左边，得到的五位数为 EMBED Equation.DSMT4  ；如果把 EMBED Equation.DSMT4  放在 EMBED Equation.DSMT4  的右边，得到的五位数为 EMBED Equation.DSMT4  ；这两个数的差为 EMBED Equation.DSMT4  ，是一个完全平方数，而 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  是5与一个完全平方数的乘积．A又是一个两位数，所以可以为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，A的所有可能取值之和为 EMBED Equation.DSMT4  ．
+【答案】145
+
+一个自然数与自身相乘的结果称为完全平方数．已知一个完全平方数是四位数，且各位数字均小于7．如果把组成它的数字都加上3，便得到另外一个完全平方数，求原来的四位数． 
+【考点】平方差公式运用  【难度】2星   【题型】解答
+设这个四位数为 EMBED Equation.DSMT4  ①，
+由于其各位数字都小于7，所以每位数字都加3，没有发生进位，故
+ EMBED Equation.DSMT4  ②
+由② EMBED Equation.DSMT4  ①得： EMBED Equation.DSMT4  ③
+将 EMBED Equation.DSMT4  分解质因数，有 EMBED Equation.DSMT4  ，其有 EMBED Equation.DSMT4  个约数，但是有 EMBED Equation.DSMT4  ，所以只有4种可能，即 EMBED Equation.DSMT4  ．
+由于 EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ；
+又 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  ；
+一一检验，只有 EMBED Equation.DSMT4  满足 EMBED Equation.DSMT4  且 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，得 EMBED Equation.DSMT4  ，原来的四位数为 EMBED Equation.DSMT4  ．
+【答案】1156
+
+模块二、完全平方数与其他知识点的综合运用
+
+如果△+△= EMBED Equation.DSMT4  ，△-△=b，△×△=c，△÷△=d，a+b+c+d=100，那么，△=___________.
+【考点】完全平方数与其他知识点的综合运用   【难度】3星   【题型】填空
+【关键词】迎春杯，三年级，初赛，第5题
+根据题意， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  
+
+已知 EMBED Equation.DSMT4  是一个四位数，若两位数 EMBED Equation.DSMT4  是一个质数， EMBED Equation.DSMT4  是一个完全平方数， EMBED Equation.DSMT4  是一个质数与一个不为1的完全平方数之积，则满足条件的所有四位数是________．
+【考点】完全平方数与其他知识点的综合运用  【难度】3星   【题型】填空
+本题综合利用数论知识，因为 EMBED Equation.DSMT4  是一个质数，所以B不能为偶数，且同时 EMBED Equation.DSMT4  是一个完全平方数，则符合条件的数仅有16和36，所以可以确定B为1或3， EMBED Equation.DSMT4  ．由于 EMBED Equation.DSMT4  是一个质数与一个不为1的完全平方数之积，在61～69中只有63和68符合条件，那么A为3或8．那么 EMBED Equation.DSMT4  可能为31，33，81，83，其中是质数的有31和83，所以满足条件的四位数有3163和8368．
+【答案】3163和8368
+
+称能表示成 EMBED Equation.DSMT4  的形式的自然数为三角数．有一个四位数 EMBED Equation.DSMT4  ，它既是三角数，又是完全平方数．则 EMBED Equation.DSMT4           ． 
+【考点】完全平方数与其他知识点的综合运用  【难度】4星   【题型】填空
+【关键词】2007年，走美
+依题有 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ．因为 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  是两个连续自然数，其中必有一个奇数，有奇数 EMBED Equation.DSMT4  ．又由相邻自然数互质知，“奇数”与“ EMBED Equation.DSMT4  ”也互质，于是奇数 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4   ( EMBED Equation.DSMT4  )，而 EMBED Equation.DSMT4  为四位数，有 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，又 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  相邻，有 EMBED Equation.DSMT4  ．
+当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ，相邻偶数为50时， EMBED Equation.DSMT4  满足条件，这时 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ；
+当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ，相邻偶数为80和82都不满足条件；
+当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ，相邻偶数为120和122都不满足条件．
+所以， EMBED Equation.DSMT4  ．
+【答案】1225
+
+自然数的平方按大小排成1，4，9，16，25，36，49，…，问：第612个位置的数字是几？
+【考点】完全平方数与其他知识点的综合运用  【难度】4星   【题型】解答
+1到3的平方是一位数，占去3个位置；
+4到9的平方是二位数，占去12个位置；
+10到31的平方是三位数，占去66个位置；
+32到99的平方是四位数，占去272个位置；
+将1到99的平方排成一行，就占去353个位置，从612减去353，还有259个位置．
+从100到300的平方都是五位数，因此，第612个位置一定是其中某个数的平方中的一个数字．
+因为 EMBED Equation.DSMT4  ，即从100起到150，共51个数，它们的平方都是五位数，要占去255个位置，而 EMBED Equation.DSMT4  ，它的第4个数字是0，所以第612个位置的数字是0．
+【答案】0
+
+不是零的自然数的平方按照从小到大的顺序接连排列，是：149162536……，则从左向右的第l6个数字是_________
+【考点】完全平方数与其他知识点的综合运用  【难度】3星   【题型】填空
+【关键词】希望杯，4年级，初赛，11题
+通过列举可得1。
+【答案】 EMBED Equation.DSMT4  
+
+由 EMBED Equation.DSMT4  ，可以断定 EMBED Equation.DSMT4  最多能表示为 EMBED Equation.DSMT4  个互不相等的非零自然数的平方和，请你判定 EMBED Equation.DSMT4  最多能表示为__________个互不相等的非零自然数的平方之和．
+【考点】完全平方数与其他知识点的综合运用  【难度】4星   【题型】填空
+ EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  不能表示成 EMBED Equation.DSMT4  个互不相等的非零自然数的平方之和，而 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  可以表示成 EMBED Equation.DSMT4  个互不相等的非零自然数的平方之和，所以 EMBED Equation.DSMT4  最多能表示为 EMBED Equation.DSMT4  个互不相等的非零自然数的平方之和．
+【答案】7
+
+有4个不同的数字共可组成18个不同的4位数．将这18个不同的4位数由小到大排成一排，其中第一个是一个完全平方数，倒数第二个也是完全平方数．那么这18个数的平均数是：          ．
+【考点】完全平方数与其他知识点的综合运用  【难度】4星   【题型】填空
+【关键词】迎春杯，五年级,初赛，第12题
+一般而言，4个不同的数字共可组成 EMBED Equation.DSMT4  （个）不同的4位数．如果只能组成18个不同的4位数，说明其中必有0，即按 EMBED Equation.DSMT4  算出来的．在这四个不同的数中，则设最小的数 EMBED Equation.DSMT4  ，倒数第二个则是 EMBED Equation.DSMT4  ，两数正好是一对反序数．
+根据完全平方数特点，“小”、“大”两数必是1，4，6，9之中的两个．且中数在小大之间．
+可以为以下3类：
+当“大” EMBED Equation.DSMT4  ，在1024、1034中，1034不是完全平方数， EMBED Equation.DSMT4  ，但4201不成立．
+当“大” EMBED Equation.DSMT4  ，1026、1036、1046、1056、4056．都不是完全平方数．
+当“大”＝9，
+在 EMBED Equation.DSMT4  的数中，取 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  
+在 EMBED Equation.DSMT4  的数中，取632，672不成立．
+在 EMBED Equation.DSMT4  的数中，取672，732不成立．
+在 EMBED Equation.DSMT4  的数中，取732，772不成立．
+所以，符合条件的数只能是由1089开始的四位数，
+求这18个数的和，有两种方法，一种是枚举法，
+另一种是概率法，可以作为方法来记：
+即，对于没有0的四位数 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  排列互不相同的四位数时，共有24个数，每个数字在每位上出现的概率机会是一样的，所以，每个数字在每位上都出现 EMBED Equation.DSMT4  （次）．
+则总和为： EMBED Equation.DSMT4  ．
+如果有一个数是0，则在此基础上，考虑0作首位的部分要排除．
+即： EMBED Equation.DSMT4  ，
+所以，本题的总和为 EMBED Equation.DSMT4  ，所以，这18个数的平均数为 EMBED Equation.DSMT4  ．
+【答案】6444
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+5-4-5.完全平方数及应用（二）.题库	                        教师版                           page  PAGE 6 of  NUMPAGES 6
+
+
+
+5-4-5.完全平方数及应用（二）
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

@@ -1,0 +1,278 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+1.使学生正确理解排列的意义；
+2.了解排列、排列数的意义，能根据具体的问题，写出符合要求的排列；
+3.掌握排列的计算公式；
+4.会分析与数字有关的计数问题，以及与其他专题的综合运用，培养学生的抽象能力和逻辑思维能力；
+通过本讲的学习，对排列的一些计数问题进行归纳总结，并掌握一些排列技巧，如捆绑法等．
+ SHAPE  \* MERGEFORMAT 
+一、排列问题
+在实际生活中经常会遇到这样的问题，就是要把一些事物排在一起，构成一列，计算有多少种排法，就是排列问题．在排的过程中，不仅与参与排列的事物有关，而且与各事物所在的先后顺序有关．
+一般地，从 EMBED Equation.DSMT4  个不同的元素中取出 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )个元素，按照一定的顺序排成一列，叫做从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个元素的一个排列．
+根据排列的定义，两个排列相同，指的是两个排列的元素完全相同，并且元素的排列顺序也相同．如果两个排列中，元素不完全相同，它们是不同的排列；如果两个排列中，虽然元素完全相同，但元素的排列顺序不同，它们也是不同的排列．
+排列的基本问题是计算排列的总个数．
+从 EMBED Equation.DSMT4  个不同的元素中取出 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )个元素的所有排列的个数，叫做从 EMBED Equation.DSMT4  个不同的元素的排列中取出 EMBED Equation.DSMT4  个元素的排列数，我们把它记做 EMBED Equation.DSMT4  ．
+根据排列的定义，做一个 EMBED Equation.DSMT4  元素的排列由 EMBED Equation.DSMT4  个步骤完成：
+步骤 EMBED Equation.DSMT4  ：从 EMBED Equation.DSMT4  个不同的元素中任取一个元素排在第一位，有 EMBED Equation.DSMT4  种方法；
+步骤 EMBED Equation.DSMT4  ：从剩下的( EMBED Equation.DSMT4  )个元素中任取一个元素排在第二位，有( EMBED Equation.DSMT4  )种方法；
+……
+步骤 EMBED Equation.DSMT4  ：从剩下的 EMBED Equation.DSMT4  个元素中任取一个元素排在第 EMBED Equation.DSMT4  个位置，有 EMBED Equation.DSMT4  (种)方法；
+由乘法原理，从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个元素的排列数是 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，这里， EMBED Equation.DSMT4  ，且等号右边从 EMBED Equation.DSMT4  开始，后面每个因数比前一个因数小 EMBED Equation.DSMT4  ，共有 EMBED Equation.DSMT4  个因数相乘．
+二、排列数
+一般地，对于 EMBED Equation.DSMT4  的情况，排列数公式变为 EMBED Equation.DSMT4  ．
+表示从 EMBED Equation.DSMT4  个不同元素中取 EMBED Equation.DSMT4  个元素排成一列所构成排列的排列数．这种 EMBED Equation.DSMT4  个排列全部取出的排列，叫做 EMBED Equation.DSMT4  个不同元素的全排列．式子右边是从 EMBED Equation.DSMT4  开始，后面每一个因数比前一个因数小 EMBED Equation.DSMT4  ，一直乘到 EMBED Equation.DSMT4  的乘积，记为 EMBED Equation.DSMT4  ，读做 EMBED Equation.DSMT4  的阶乘，则 EMBED Equation.DSMT4  还可以写为： EMBED Equation.DSMT4  ，其中 EMBED Equation.DSMT4  ．
+ SHAPE  \* MERGEFORMAT 
+
+模块一、排列之计算
+
+计算：⑴  EMBED Equation.DSMT4  ；⑵  EMBED Equation.DSMT4  ． 
+【考点】简单排列问题          【难度】1星          【题型】解答 
+由排列数公式 EMBED Equation.DSMT4  知：
+⑴  EMBED Equation.DSMT4  
+⑵  EMBED Equation.DSMT4  , EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ．
+【答案】⑴ EMBED Equation.DSMT4                   ⑵ EMBED Equation.DSMT4  
+
+计算：⑴  EMBED Equation.DSMT4  ；⑵  EMBED Equation.DSMT4  ． 
+【考点】简单排列问题          【难度】1星          【题型】解答 
+⑴  EMBED Equation.DSMT4  　　　　　⑵  EMBED Equation.DSMT4  ．
+【答案】⑴ EMBED Equation.DSMT4                  ⑵ EMBED Equation.DSMT4  
+
+计算：⑴ EMBED Equation.DSMT4  ；     ⑵ EMBED Equation.DSMT4  ． 
+【考点】简单排列问题          【难度】1星          【题型】解答 
+⑴ EMBED Equation.DSMT4  ；
+⑵ EMBED Equation.DSMT4  ．
+【答案】⑴ EMBED Equation.DSMT4                  ⑵ EMBED Equation.DSMT4  
+
+模块二、排列之排队问题
+
+有4个同学一起去郊游，照相时，必须有一名同学给其他3人拍照，共可能有多少种拍照情况？ (照相时3人站成一排) 
+【考点】简单排列问题          【难度】2星          【题型】解答 
+由于 EMBED Equation.DSMT4  人中必须有一个人拍照，所以，每张照片只能有 EMBED Equation.DSMT4  人，可以看成有 EMBED Equation.DSMT4  个位置由这 EMBED Equation.DSMT4  人来站．由于要选一人拍照，也就是要从四个人中选 EMBED Equation.DSMT4  人照相，所以，问题就转化成从四个人中选 EMBED Equation.DSMT4  人，排在 EMBED Equation.DSMT4  个位置中的排列问题．要计算的是有多少种排法．
+由排列数公式，共可能有： EMBED Equation.DSMT4  (种)不同的拍照情况．
+也可以把照相的人看成一个位置，那么共可能有： EMBED Equation.DSMT4  (种)不同的拍照情况．
+【答案】 EMBED Equation.DSMT4  
+
+4名同学到照相馆照相．他们要排成一排，问：共有多少种不同的排法？ 
+【考点】简单排列问题          【难度】2星          【题型】解答 
+ EMBED Equation.DSMT4  个人到照相馆照相，那么 EMBED Equation.DSMT4  个人要分坐在四个不同的位置上．所以这是一个从 EMBED Equation.DSMT4  个元素中选 EMBED Equation.DSMT4  个，排成一列的问题．这时 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+由排列数公式知，共有 EMBED Equation.DSMT4  (种)不同的排法．
+【答案】 EMBED Equation.DSMT4  
+
+9名同学站成两排照相，前排4人，后排5人，共有多少种站法？ 
+【考点】简单排列问题          【难度】3星          【题型】解答 
+如果问题是 EMBED Equation.DSMT4  名同学站成一排照相，则是 EMBED Equation.DSMT4  个元素的全排列的问题，有 EMBED Equation.DSMT4  种不同站法．而问题中， EMBED Equation.DSMT4  个人要站成两排，这时可以这么想，把 EMBED Equation.DSMT4  个人排成一排后，左边 EMBED Equation.DSMT4  个人站在前排，右边 EMBED Equation.DSMT4  个人站在后排，所以实质上，还是 EMBED Equation.DSMT4  个人站 EMBED Equation.DSMT4  个位置的全排列问题．
+方法一：由全排列公式，共有 EMBED Equation.DSMT4  (种)不同的排法．
+方法二：根据乘法原理,先排四前个，再排后五个．
+ EMBED  \* MERGEFORMAT 
+【答案】 EMBED Equation.DSMT4  
+
+5个人并排站成一排，其中甲必须站在中间有多少种不同的站法？ 
+【考点】简单排列问题          【难度】3星          【题型】解答 
+由于甲必须站在中间，那么问题实质上就是剩下的四个人去站其余四个位置的问题，是一个全排列问题，且 EMBED Equation.DSMT4  ．由全排列公式，共有 EMBED Equation.DSMT4  (种)不同的站法．
+【答案】 EMBED Equation.DSMT4  
+
+丁丁和爸爸、妈妈、奶奶、哥哥一起照“全家福”， EMBED Equation.DSMT4  人并排站成一排，奶奶要站在正中间，有多少种不同的站法？ 
+【考点】简单排列问题          【难度】3星          【题型】解答 
+由于奶奶必须站在中间，那么问题实质上就是剩下的四个人去站其余四个位置的问题，是一个全排列问题，且n=4．
+由全排列公式，共有 EMBED Equation.DSMT4  (种)不同的站法．
+【答案】 EMBED Equation.DSMT4  
+
+5个同学排成一行照相，其中甲在乙右侧的排法共有_______种？
+【考点】简单排列问题   【难度】3星   【题型】填空
+【关键词】学而思杯，4年级，第8题
+ EMBED Equation.DSMT4  个人全排列有 EMBED Equation.DSMT4  种，其中甲在乙右侧应该正好占一半，也就是 EMBED Equation.DSMT4  种
+【答案】60种
+
+一列往返于北京和上海方向的列车全程停靠 EMBED Equation.DSMT4  个车站(包括北京和上海)，这条铁路线共需要多少种不同的车票． 
+【考点】简单排列问题          【难度】3星          【题型】解答 
+ EMBED Equation.DSMT4  (种)．
+【答案】 EMBED Equation.DSMT4  
+
+班集体中选出了5名班委，他们要分别担任班长，学习委员、生活委员、宣传委员和体育委员．问：有多少种不同的分工方式？ 
+【考点】简单排列问题          【难度】3星          【题型】解答 
+ EMBED Equation.DSMT4  (种)．
+【答案】 EMBED Equation.DSMT4  
+
+有五面颜色不同的小旗，任意取出三面排成一行表示一种信号，问：共可以表示多少种不同的信号？ 
+【考点】简单排列问题          【难度】3星          【题型】解答 
+这里五面不同颜色的小旗就是五个不同的元素，三面小旗表示一种信号，就是有三个位置．我们的问题就是要从五个不同的元素中取三个，排在三个位置的问题．由于信号不仅与旗子的颜色有关，而且与不同旗子所在的位置有关，所以是排列问题，且其中 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+由排列数公式知，共可组成 EMBED Equation.DSMT4  (种)不同的信号．
+【答案】 EMBED Equation.DSMT4  
+
+有红、黄、蓝三种信号旗，把任意两面上、下挂在旗杆上都可以表示一种信号，问共可以组成多少种不同的信号？ 
+【考点】简单排列问题          【难度】3星          【题型】解答 
+ EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+在航海中，船舰常以“旗语”相互联系，即利用不同颜色的旗子发送出各种不同的信号．如有红、黄、绿三面不同颜色的旗子，按一定顺序同时升起表示一定的信号，问这样总共可以表示出多少种不同的信号？ 
+【考点】简单排列问题          【难度】3星          【题型】解答 
+方法一：这里三面不同颜色的旗子就是三个不同的元素，红、黄、绿三面旗子按一定顺序的一个排法表示一种信号，也就是从三个元素中选三个的全排列的问题．
+由排列数公式，共可以组成 EMBED Equation.DSMT4  (种)不同的信号．
+方法二：首先，先确定最高位置的旗子，在红、黄、绿这三面旗子中任取一个，有 EMBED Equation.DSMT4  种方法； 
+其次，确定中间位置的旗子，当最高位置确定之后，中间位置的旗子只能从余下的两面旗中去取，有 EMBED Equation.DSMT4  种方法．剩下那面旗子，放在最低位置．
+根据乘法原理，用红、黄、绿这三面旗子同时升起表示出所有信号种数是： EMBED Equation.DSMT4  (种)．
+【补充说明】这个问题也可以用乘法原理来做，一般，乘法原理中与顺序有关的问题常常可以用排列数公式做，用排列数公式解决问题时，可避免一步步地分析考虑，使问题简化．
+【答案】 EMBED Equation.DSMT4  
+
+模块三、排列之数字问题
+
+用1、2、3、4、5、6、7、8可以组成多少个没有重复数字的四位数？ 
+【考点】简单排列问题          【难度】2星          【题型】解答 
+这是一个从 EMBED Equation.DSMT4  个元素中取 EMBED Equation.DSMT4  个元素的排列问题，已知 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，根据排列数公式，一共可以组成 EMBED Equation.DSMT4  (个)不同的四位数．
+【答案】 EMBED Equation.DSMT4  
+
+由数字 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  可以组成多少没有重复数字的三位数？ 
+【考点】简单排列问题          【难度】2星          【题型】解答 
+ EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+用 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  可以组成多少个没重复数字的三位数？ 
+【考点】简单排列问题          【难度】3星          【题型】解答 
+（法 EMBED Equation.DSMT4  ）本题中要注意的是 EMBED Equation.DSMT4  不能为首位数字，因此，百位上的数字只能从 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  这四个数字中选择一个，有 EMBED Equation.DSMT4  种方法；十位和个位上的数字可以从余下的 EMBED Equation.DSMT4  个数字中任选两个进行排列，有 EMBED Equation.DSMT4  种方法．由乘法原理得，此种三位数的个数是： EMBED Equation.DSMT4  (个)．
+（法 EMBED Equation.DSMT4  ）：从 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  中任选三个数字进行排列，再减去其中不合要求的，即首位是 EMBED Equation.DSMT4  的．从 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  这五个数字中任选三个数字的排列数为 EMBED Equation.DSMT4  ，其中首位是 EMBED Equation.DSMT4  的三位数有 EMBED Equation.DSMT4  个．三位数的个数是：
+ EMBED Equation.DSMT4  (个)．
+本题不是简单的全排列，有一些其它的限制，这样要么先全排列再剔除不合题意的情况，要么直接在排列的时候考虑这些限制因素．
+【答案】 EMBED Equation.DSMT4  
+
+用1、2、3、4、5、6可以组成多少个没有重复数字的个位是5的三位数？ 
+【考点】简单排列问题          【难度】3星          【题型】解答 
+个位数字已知，问题变成从从 EMBED Equation.DSMT4  个元素中取 EMBED Equation.DSMT4  个元素的排列问题，已知 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，根据排列数公式，一共可以组成 EMBED Equation.DSMT4  (个)符合题意的三位数．
+【答案】 EMBED Equation.DSMT4  
+
+用1、2、3、4、5、6六张数字卡片，每次取三张卡片组成三位数，一共可以组成多少个不同的偶数？ 
+【考点】简单排列问题          【难度】3星          【题型】解答 
+由于组成偶数，个位上的数应从 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  中选一张，有 EMBED Equation.DSMT4  种选法；十位和百位上的数可以从剩下的 EMBED Equation.DSMT4  张中选二张，有 EMBED Equation.DSMT4  (种)选法．由乘法原理，一共可以组成 EMBED Equation.DSMT4  (个)不同的偶数．．
+【答案】 EMBED Equation.DSMT4  
+
+由 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  组成无重复数字的数，四位数有多少个？ 
+【考点】简单排列问题          【难度】3星          【题型】解答 
+方法一：先考虑从六个数字中任取四个数字的排列数为 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  不能在千位
+上，而以 EMBED Equation.DSMT4  为千位数的四位数有 EMBED Equation.DSMT4  ，它们的差就是由 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  组成无重复数字的四位数的个数，即为： EMBED Equation.DSMT4  个．
+方法二：完成这件事——组成一个四位数，可分为 EMBED Equation.DSMT4  个步骤进行，
+第一步：确定千位数；第二步：确定百位数；
+第三步：确定十位数；第四步：确定个位数；
+这四个步骤依次完成了，“组成一个四位数”这件事也就完成了，从而这个四位数也完全确定了，思维过程如下：
+
+
+根据乘法原理，所求的四位数的个数是： EMBED Equation.DSMT4  (个)．
+【答案】 EMBED Equation.DSMT4  
+
+用 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  这五个数字，不许重复，位数不限，能写出多少个3的倍数？ 
+【考点】简单排列问题          【难度】4星          【题型】解答 
+按位数来分类考虑：
+⑴ 一位数只有 EMBED Equation.DSMT4  个 EMBED Equation.DSMT4  ；
+⑵ 两位数：由 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  四组数字组成，每一组可以组成 EMBED Equation.DSMT4  (个)不同的两位数，共可组成 EMBED Equation.DSMT4  (个)不同的两位数；
+⑶ 三位数：由 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  四组数字组成，每一组可以组成 EMBED Equation.DSMT4  (个)不同的三位数，共可组成 EMBED Equation.DSMT4  (个)不同的三位数；
+⑷ 四位数：可由 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  这四个数字组成，有 EMBED Equation.DSMT4  (个)不同的四位数；
+⑸ 五位数：可由 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  组成，共有 EMBED Equation.DSMT4  (个)不同的五位数．
+由加法原理，一共有 EMBED Equation.DSMT4  (个)能被 EMBED Equation.DSMT4  整除的数，即 EMBED Equation.DSMT4  的倍数．
+【答案】 EMBED Equation.DSMT4  
+
+用1、2、3、4、5这五个数字可组成多少个比 EMBED Equation.DSMT4  大且百位数字不是 EMBED Equation.DSMT4  的无重复数字的五位数？ 
+【考点】简单排列问题          【难度】4星          【题型】解答 
+可以分两类来看：
+⑴ 把3排在最高位上，其余4个数可以任意放到其余4个数位上，是4个元素全排列的问题，有 EMBED Equation.DSMT4  (种)放法，对应24个不同的五位数；
+⑵ 把2，4，5放在最高位上，有3种选择，百位上有除已确定的最高位数字和3之外的3个数字可以选择，有3种选择，其余的3个数字可以任意放到其余3个数位上，有 EMBED Equation.DSMT4  种选择．由乘法原理，可以组成 EMBED Equation.DSMT4  (个)不同的五位数．
+由加法原理，可以组成 EMBED Equation.DSMT4  (个)不同的五位数．
+【答案】 EMBED Equation.DSMT4  
+
+用0到9十个数字组成没有重复数字的四位数；若将这些四位数按从小到大的顺序排列，则5687是第几个数？ 
+【考点】简单排列问题          【难度】4星          【题型】解答 
+从高位到低位逐层分类：
+        ⑴ 千位上排 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  时，千位有 EMBED Equation.DSMT4  种选择，而百、十、个位可以从 EMBED Equation.DSMT4  中除千位已确定的数字之外的 EMBED Equation.DSMT4  个数字中选择，因为数字不重复，也就是从 EMBED Equation.DSMT4  个元素中取 EMBED Equation.DSMT4  个的排列问题，所以百、十、个位可有 EMBED Equation.DSMT4  (种)排列方式．由乘法原理，有 EMBED Equation.DSMT4  (个)．
+⑵ 千位上排 EMBED Equation.DSMT4  ，百位上排 EMBED Equation.DSMT4  时，千位有 EMBED Equation.DSMT4  种选择，百位有 EMBED Equation.DSMT4  种选择，十、个位可以从剩下的八个数字中选择．也就是从 EMBED Equation.DSMT4  个元素中取 EMBED Equation.DSMT4  个的排列问题，即 EMBED Equation.DSMT4  ，由乘法原理，有 EMBED Equation.DSMT4  (个)．
+⑶ 千位上排 EMBED Equation.DSMT4  ，百位上排 EMBED Equation.DSMT4  ，十位上排 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  时，个位也从剩下的七个数字中选择，有 EMBED Equation.DSMT4  (个)．
+⑷ 千位上排 EMBED Equation.DSMT4  ，百位上排 EMBED Equation.DSMT4  ，十位上排 EMBED Equation.DSMT4  时，比 EMBED Equation.DSMT4  小的数的个位可以选择 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  共 EMBED Equation.DSMT4  个．
+综上所述，比 EMBED Equation.DSMT4  小的四位数有 EMBED Equation.DSMT4  (个)，故 EMBED Equation.DSMT4  是第 EMBED Equation.DSMT4  个四位数．
+【答案】 EMBED Equation.DSMT4  
+
+用数字l～8各一个组成8位数，使得任意相邻三个数字组成的三位数都是3的倍数．共有___种组成方法．
+【考点】简单排列问题   【难度】4星   【题型】填空
+【关键词】走美杯，六年级，初赛，第7题
+l～8中被三除余1和余2的数各有3个，被3整除的数有两个，根据题目条件可以推导，符合条件的排列，一定符合“被三除所得余数以3位周期”，所以8个数字，第1、4、7位上的数被3除同余，第2、5、8位上的数被3除同余，第3、6位上的数被3除同余，显然第3、6位上的数被3整除，第1、4、7位上的数被3除可以余1也可以余2，第2、5、8位上的数被3除可以余2可以余1，余数的安排上共有2种方法，余数安排定后，还有同余数之间的排列，一共有3！×3！×2！=144种方法.
+【答案】 EMBED Equation.DSMT4  种
+
+由数字0、2、8（既可全用也可不全用）组成的非零自然数，按照从小到大排列．2008排在     个．
+【考点】简单排列问题          【难度】4星          【题型】解答 
+比 EMBED Equation.DSMT4  小的 EMBED Equation.DSMT4  位数有 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，比 EMBED Equation.DSMT4  小的 EMBED Equation.DSMT4  位数有 EMBED Equation.DSMT4  （种），比 EMBED Equation.DSMT4  小的 EMBED Equation.DSMT4  位数有 EMBED Equation.DSMT4  （种），比 EMBED Equation.DSMT4  小的 EMBED Equation.DSMT4  位数有 EMBED Equation.DSMT4  （种），所以 EMBED Equation.DSMT4  排在第 EMBED Equation.DSMT4  （个）．
+【答案】 EMBED Equation.DSMT4  
+
+千位数字与十位数字之差为2（大减小)，且不含重复数字的四位数有多少个? 
+【考点】简单排列问题          【难度】4星          【题型】解答 
+千位数字大于十位数字，千位数字的取值范围为 EMBED Equation.DSMT4  ，对应的十位数字取 EMBED Equation.DSMT4  ，
+每确定一个千位数字，十位数字就相应确定了，只要从剩下的 EMBED Equation.DSMT4  个数字中选出 EMBED Equation.DSMT4  个作百位和个位就行了，因此总共有 EMBED Equation.DSMT4  个这样的四位数．⑵千位数字小于十位数字，千位数字取 EMBED Equation.DSMT4  ，十位数字取 EMBED Equation.DSMT4  ，共有 EMBED Equation.DSMT4  个这样的四位数．所以总共有 EMBED Equation.DSMT4  个这样的四位数．
+【答案】 EMBED Equation.DSMT4  
+
+模块四、排列之策略问题
+
+某管理员忘记了自己小保险柜的密码数字，只记得是由四个非 EMBED Equation.DSMT4  数码组成，且四个数码之和是 EMBED Equation.DSMT4  ，那么确保打开保险柜至少要试几次？ 
+【考点】简单排列问题          【难度】4星          【题型】解答 
+四个非 EMBED Equation.DSMT4  数码之和等于9的组合有1，1，1，6；1，1，2，5；1，1，3，4；1，2，2，4；1，2，3，3；2，2，2，3六种．
+第一种中，可以组成多少个密码呢？只要考虑 EMBED Equation.DSMT4  的位置就可以了， EMBED Equation.DSMT4  可以任意选择 EMBED Equation.DSMT4  个位置中的一个，其余位置放 EMBED Equation.DSMT4  ，共有 EMBED Equation.DSMT4  种选择；
+第二种中，先考虑放 EMBED Equation.DSMT4  ，有 EMBED Equation.DSMT4  种选择，再考虑 EMBED Equation.DSMT4  的位置，可以有 EMBED Equation.DSMT4  种选择，剩下的位置放 EMBED Equation.DSMT4  ，共有 EMBED Equation.DSMT4  (种)选择同样的方法，可以得出第三、四、五种都各有 EMBED Equation.DSMT4  种选择．最后一种，与第一种的情形相似， EMBED Equation.DSMT4  的位置有 EMBED Equation.DSMT4  种选择，其余位置放 EMBED Equation.DSMT4  ，共有 EMBED Equation.DSMT4  种选择．
+综上所述，由加法原理，一共可以组成 EMBED Equation.DSMT4  (个)不同的四位数，即确保能打开保险柜至少要试 EMBED Equation.DSMT4  次．
+【答案】 EMBED Equation.DSMT4  
+
+幼儿园里的 EMBED Equation.DSMT4  名小朋友去坐 EMBED Equation.DSMT4  把不同的椅子，有多少种坐法？
+【考点】简单排列问题          【难度】3星          【题型】解答 
+在这个问题中，只要把 EMBED Equation.DSMT4  把椅子看成是 EMBED Equation.DSMT4  个位置，而 EMBED Equation.DSMT4  名小朋友作为 EMBED Equation.DSMT4  个不同元素，则问题就可以转化成从 EMBED Equation.DSMT4  个元素中取 EMBED Equation.DSMT4  个，排在 EMBED Equation.DSMT4  个不同位置的排列问题．
+由排列数公式，共有： EMBED Equation.DSMT4  (种)不同的坐法．
+【答案】 EMBED Equation.DSMT4  
+
+幼儿园里3名小朋友去坐6把不同的椅子(每人只能坐一把)，有多少种不同的坐法？ 
+【考点】简单排列问题          【难度】3星          【题型】解答 
+与例 EMBED Equation.DSMT4  不同，这次是椅子多而人少，可以考虑把 EMBED Equation.DSMT4  把椅子看成是 EMBED Equation.DSMT4  个元素，而把 EMBED Equation.DSMT4  名小朋友作为 EMBED Equation.DSMT4  个位置，则问题转化为从 EMBED Equation.DSMT4  把椅子中选出 EMBED Equation.DSMT4  把，排在 EMBED Equation.DSMT4  名小朋友面前的排列问题．
+由排列公式，共有： EMBED Equation.DSMT4  (种)不同的坐法．
+【答案】 EMBED Equation.DSMT4  
+
+10个人走进只有 EMBED Equation.DSMT4  辆不同颜色碰碰车的游乐场，每辆碰碰车必须且只能坐一个人，那么共有多少种不同的坐法？ 
+【考点】简单排列问题          【难度】3星          【题型】解答 
+把 EMBED Equation.DSMT4  辆碰碰车看成是 EMBED Equation.DSMT4  个位置，而 EMBED Equation.DSMT4  个人作为 EMBED Equation.DSMT4  个不同元素，则问题就可以转化成从 EMBED Equation.DSMT4  个元素中取 EMBED Equation.DSMT4  个，排在 EMBED Equation.DSMT4  个不同位置的排列问题．
+        共有 EMBED Equation.DSMT4  (种)不同的坐法．
+【答案】 EMBED Equation.DSMT4  
+
+一个篮球队有五名队员 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，由于某种原因， EMBED Equation.DSMT4  不能做中锋，而其余 EMBED Equation.DSMT4  个人可以分配到五个位置的任何一个上，问一共有多少种不同的站位方法？ 
+【考点】简单排列问题          【难度】3星          【题型】解答 
+方法一：此题先确定做中锋的人选，除 EMBED Equation.DSMT4  以外的四个人任意一个都可以，则有 EMBED Equation.DSMT4  种选择，确定下
+来以后，其余 EMBED Equation.DSMT4  个人对应 EMBED Equation.DSMT4  个位置，有 EMBED Equation.DSMT4  (种)排列．由乘法原理，    EMBED Equation.DSMT4  ，故一共有 EMBED Equation.DSMT4  种不同的站位方法．
+方法二：五个人分配到五个位置一共有 EMBED Equation.DSMT4  (种)排列方式， EMBED Equation.DSMT4  能做中锋一共有 EMBED Equation.DSMT4  (种)排列方式，则 EMBED Equation.DSMT4  不能做中锋一共有 EMBED Equation.DSMT4  种不同的站位方法．
+【答案】 EMBED Equation.DSMT4  
+
+小明有10块大白兔奶糖,从今天起,每天至少吃一块.那么他一共有多少种不同的吃法? 
+【考点】简单排列问题          【难度】3星          【题型】解答 
+我们将10块大白兔奶糖从左至右排成一列,如果在其中9个间隙中的某个位置插入“木棍”,则将lO块糖分成了两部分．
+我们记从左至右,第1部分是第1天吃的,第2部分是第2天吃的,…，
+如:○○○|○○○○○○○表示第一天吃了3粒,第二天吃了剩下的7粒：
+        ○○○○ | ○○○| ○○○表示第一天吃了4粒,第二天吃了3粒,第三天吃了剩下的3粒．
+不难知晓,每一种插入方法对应一种吃法,而9个间隙,每个间隙可以插人也可以不插入,且相互独立，故共有29=512种不同的插入方法,即512种不同的吃法．
+【答案】512
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+7-4-1.简单的排列问题.题库	                         教师版                        page  PAGE 8 of  NUMPAGES 8
+
+
+
+7-4-1.简单的排列问题
+
+
+
+例题精讲
+
+知识要点
+
+
+
+教学目标
+
+
+

@@ -1,0 +1,298 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+学会分析题意并且熟练的利用线段图法能够分析和倍问题
+掌握寻找和倍的方法解决问题．
+ SHAPE  \* MERGEFORMAT 
+知识点说明：
+和倍问题就是已知两个数的和以及它们之间的倍数关系，求这两个数各是多少的问题．
+　　解答此类应用题时要根据题目中所给的条件和问题，画出线段图，使数量关系一目了然，从而找出解题规律，正确迅速地列式解答。
+和倍问题的特点是已知两个数的和与大数是小数的几倍，要求两个数，一般是把较小数看作 EMBED Equation.DSMT4  倍数，大数就是几倍数，这样就可知总和相当于小数的几倍了，可求出小数，再求大数.
+和倍问题的数量关系式是：
+    和÷(倍数+ EMBED Equation.DSMT4  )=小数
+    小数×倍数=大数   或  和一小数=大数
+    如果要求两个数的差，要先求 EMBED Equation.DSMT4  份数：
+     EMBED Equation.DSMT4  份数×(倍数－ EMBED Equation.DSMT4  )=两数差.
+解决和倍问题，关键是学会画线段图，这样可以帮助我们更好的弄清各数量之间的关系。
+
+ SHAPE  \* MERGEFORMAT 
+
+某校三(1)班举办优秀少先队员评选活动.每位同学如果表现优秀，则可得一枚小红花，5枚小红花可换成一面小红旗，4面小红旗可换成一个奖章，3个小奖章可换成一个小金杯，一学期得2个小金杯，可评为优秀少先队员，那么要评为优秀少先队员，需要得________个小红花.
+【考点】和倍问题   【难度】1星   【题型】填空
+【关键词】迎春杯，中年级，复试，3题
+5×4×3×2=120（个）
+【答案】 EMBED Equation.DSMT4  
+
+根据线段图列式：
+
+【考点】和倍问题   【难度】1星   【题型】填空
+列式： EMBED Equation.DSMT4  （米）
+【答案】 EMBED Equation.DSMT4  米
+
+花园小学组织学生植树，五年级植树160棵，正好是四年级的2倍。三年级比四年级少20棵。三年级植树___棵。
+【考点】和倍问题   【难度】1星   【题型】填空
+【关键词】走美杯，3年级，决赛
+本题是简单的差倍问题，四年级植树 EMBED Equation.DSMT4  （棵），则三年级植树 EMBED Equation.DSMT4  （棵）。
+【答案】 EMBED Equation.DSMT4  棵
+
+小华和爷爷今年共 EMBED Equation.DSMT4  岁，爷爷的岁数是小华的 EMBED Equation.DSMT4  倍.爷爷比小华大多少岁？
+【考点】和倍问题   【难度】1星   【题型】填空
+小华： EMBED Equation.DSMT4  （岁），
+爷爷： EMBED Equation.DSMT4  （岁）， EMBED Equation.DSMT4  （岁）或 EMBED Equation.DSMT4  （岁）.
+【答案】 EMBED Equation.DSMT4  岁
+
+果园里有梨树和苹果树共 EMBED Equation.DSMT4  棵，苹果树的棵数是梨树的 EMBED Equation.DSMT4  倍，苹果树比梨树多多少棵？
+【考点】和倍问题   【难度】1星   【题型】解答
+把梨树的棵数看作 EMBED Equation.DSMT4  份数，苹果树的棵数就是 EMBED Equation.DSMT4  份数， EMBED Equation.DSMT4  棵就相当于( EMBED Equation.DSMT4  份数，分别求出梨树和苹果树的棵数，再把苹果树的棵数减去梨树的棵数，就是苹果树比梨树多的棵数.这道题还可以这样想，先求出 EMBED Equation.DSMT4  份数，再求苹果树比梨树多几份，就可直接求出苹果树比梨树多多少棵了.
+（法１）梨树： EMBED Equation.DSMT4  (棵)，苹果树： EMBED Equation.DSMT4  (棵)，苹果树比梨树多： EMBED Equation.DSMT4  (棵)
+ 　　　 （法２）梨树： EMBED Equation.DSMT4  (棵)，苹果树比梨树多： EMBED Equation.DSMT4  (棵)
+【答案】 EMBED Equation.DSMT4  棵
+
+实验小学三、四年级的同学们一共制作了 EMBED Equation.DSMT4  件航模，四年级同学制作的航模件数是三年级的 EMBED Equation.DSMT4   倍，三、四年级的同学各制作了多少件航模？
+【考点】和倍问题   【难度】1星   【题型】解答
+已知四年级同学制作的航模件数是三年级的 EMBED Equation.DSMT4  倍，可以想到三年级同学制作的航模件数是 EMBED Equation.DSMT4  倍数．两个年级共制作了 EMBED Equation.DSMT4  件，这 EMBED Equation.DSMT4  件就相当于 EMBED Equation.DSMT4  倍，这样就可以求得 EMBED Equation.DSMT4  倍数——三年级同学的制作件数是： EMBED Equation.DSMT4   (件)．再根据四年级同学和三年级同学制作航模件数的倍数关系，求出四年级同学制作航模的件数是： EMBED Equation.DSMT4  (件)或 EMBED Equation.DSMT4  (件)。
+【答案】三年级制作 EMBED Equation.DSMT4  件，四年级制作 EMBED Equation.DSMT4  件
+
+学校买来一些乒乓球和羽毛球共 EMBED Equation.DSMT4  个，乒乓球的个数是羽毛球的 EMBED Equation.DSMT4  倍.买来的乒乓球和羽毛球各多少个？
+【考点】和倍问题   【难度】1星   【题型】解答
+先引导学生认识一倍量和它的几倍量，并带领学生画线段图，借助图形来解决实际问题．
+根据题意和线段图可知，羽毛球的个数看作 EMBED Equation.DSMT4  份数，乒乓球的个数就是 EMBED Equation.DSMT4  份数， EMBED Equation.DSMT4  个就相当于 EMBED Equation.DSMT4   份数，这样就可求出 EMBED Equation.DSMT4  份数，也就是羽毛球的个数，把羽毛球的个数乘 EMBED Equation.DSMT4  就是乒乓球的个数.羽毛球有： EMBED Equation.DSMT4  ，乒乓球有： EMBED Equation.DSMT4  (个)．
+【答案】羽毛球 EMBED Equation.DSMT4  个，乒乓球有 EMBED Equation.DSMT4  个
+
+甲班和乙班共有图书160本.甲班的图书本数是乙班的3倍，甲班和乙班各有图书多少本？
+【考点】和倍问题   【难度】1星   【题型】解答
+设乙班的图书本数为1份，则甲班图书为乙班的3倍，那么甲班和乙班图书本数的和相当于乙班图书本数的4倍.还可以理解为4份的数量是160本，求出1份的数量也就求出了乙班的图书本数，然后再求甲班的图书本数.用下图表示它们的关系：
+
+乙班：160÷（3+1）=40（本）
+甲班：40×3=120（本）或 160-40=120（本）
+验算：120＋40=160（本） 120÷40=3（倍）
+答：甲班有图书 EMBED Equation.DSMT4  本，乙班有图书 EMBED Equation.DSMT4  本。
+【答案】甲班有图书 EMBED Equation.DSMT4  本，乙班有图书 EMBED Equation.DSMT4  本
+
+《水浒传》中的 EMBED Equation.DSMT4  将中，男将是女将的 EMBED Equation.DSMT4  倍，男将共有       名，女将共有     名。
+【考点】和倍问题   【难度】1星   【题型】填空
+【关键词】走美杯，3年级，初赛
+ EMBED Equation.DSMT4  名女将， EMBED Equation.DSMT4  名男将。
+【答案】男将 EMBED Equation.DSMT4  名，女将 EMBED Equation.DSMT4  名
+
+有一堆红球与白球，球的总数在51～59之间. 已知红球个数是白球个数的4倍，那么，红球有_____________个.
+【考点】和倍问题   【难度】1星   【题型】填空
+【关键词】迎春杯，三年级，初赛，3题
+由于红球个数是白球个数的 EMBED Equation.DSMT4  倍，红球的总数是白球个数的 EMBED Equation.DSMT4  倍，是 EMBED Equation.DSMT4  的倍数，在 EMBED Equation.DSMT4  ～ EMBED Equation.DSMT4  之间的只有 EMBED Equation.DSMT4  ，故白球有 EMBED Equation.DSMT4  个，红球有 EMBED Equation.DSMT4  个.
+【答案】 EMBED Equation.DSMT4  
+
+一个长方形的周长是36厘米，长是宽的2倍，这个长方形的面积是多少平方厘米？
+【考点】和倍问题   【难度】2星   【题型】填空
+先求出长方形长和宽的和：36÷2=18（厘米）把长方形的宽看作1份，长就是2份，长和宽的和对应的就是3份，所以长方形的宽是：18÷（2+1）=6（厘米）
+长是：6×2=12（厘米）这个长方形的面积是：12×6=72（平方厘米）
+【答案】 EMBED Equation.DSMT4  平方厘米
+
+两袋水果共有20个，从第 EMBED Equation.DSMT4  袋取出7个水果放入第2袋，两袋中的水果个数相同，则第1个袋中原有水果________个。
+【考点】和倍问题   【难度】2星   【题型】填空
+【关键词】希望杯,五年级,一试,第8题
+两袋水果共有20个,当两袋中水果个数相同时，各有20÷2=10个，也就是从第1袋取出7个后还剩10个，所以第1袋原来有水果：10+7=17（个）；也可以这样列式：（20+7×2）÷2=17（个）
+【答案】 EMBED Equation.DSMT4  个
+
+小敏有 EMBED Equation.DSMT4  元，小花有 EMBED Equation.DSMT4  元，小花给小敏几元，小敏的钱数就是小花的 EMBED Equation.DSMT4  倍？
+【考点】和倍问题   【难度】2星   【题型】解答
+小花现在的钱数： EMBED Equation.DSMT4  （元），小花给小敏： EMBED Equation.DSMT4  （元）
+【答案】 EMBED Equation.DSMT4  元
+
+甲桶里有油470千克，乙桶里有油190千克，甲桶的油倒入乙桶多少千克，才能使甲桶油是乙桶油的2倍？
+【考点】和倍问题   【难度】2星   【题型】解答
+甲、乙两桶油总重量：470+190=660（千克）：
+当甲桶油是乙桶油2倍时，乙桶油是：660÷（2+1）=220（千克）：
+由甲桶倒入乙桶中的油：220-190=30（千克）。
+【答案】 EMBED Equation.DSMT4  千克
+
+甲班有图书120本，乙班有图书30本，甲班给乙班多少本，甲班的图书是乙班图书的2倍？
+【考点】和倍问题   【难度】2星   【题型】解答
+解这题的关键是找出哪个量是变量，哪个量是不变量.从已知条件中得出，不管甲班给乙班多少本书，还是乙班从甲班得到多少本书，甲、乙两班图书总和是不变的量.最后要求甲班图书是乙班图书的2倍，那么甲、乙两班图书总和相当于乙班现有图书的3倍.依据解和倍问题的方法，先求出乙班现有图书多少本，再与原有图书本数相比较，可以求出甲班给乙班多少本书（见下图）。
+
+甲、乙两班共有图书的本数是：30＋120=150（本）
+甲班给乙班若干本图书后，甲、乙两班共有的倍数是：2＋1＝3（倍）
+乙班现有的图书本数是：150÷3=50（本）
+甲班给乙班图书本数是：50-30=20（本）
+综合算式：（30＋120）÷（2+1）=50（本）50-30=20（本）
+验算：（120-20）÷（30+20）＝2（倍）（120-20）+（30+20）＝150 （本）答：甲班给乙班20本图书后，甲班图书是乙班图书的2倍。
+【答案】甲班给乙班20本
+
+5箱苹果和5箱葡萄共重75千克，每箱苹果是每箱葡萄重量的2倍。每箱苹果和每箱葡萄各重多少千克？
+【考点】和倍问题   【难度】2星   【题型】填空
+5箱苹果和5箱葡萄共重75千克，平均分成5份，1箱苹果与1箱葡萄重量和为：75÷5=15（千克）。把1箱葡萄的重量看作一份，重量为：15÷（2+1）=5（千克）；
+每箱苹果重量为：5×2=10（千克）。
+【答案】每箱苹果重 EMBED Equation.DSMT4  千克，每箱葡萄重 EMBED Equation.DSMT4  千克。
+
+某品牌乒乓球拍在北京奥运会后推出一款球拍的促销计划：该球拍每只售价为人民币60元，同时购买者可获赠1张奖券，积累3张奖券可兑换1只球拍。由此可见，1张奖券价值为________元。 
+【考点】和倍问题    【难度】3星   【题型】填空
+【关键词】走美杯，四年级，初赛
+购买者60元可买1款球拍+1张奖券；而1只球拍的价格等于3张奖券的价格，所以4张奖券的价值相当于60元，所以1张奖券的价值为15元。
+【答案】 EMBED Equation.DSMT4  元
+
+弹簧测力计可以用来称物体质量，弹簧伸长的长度也不同，观察下表，当物体重0.5千克时，弹簧伸长______厘米，如果弹簧伸长8厘米，物体重______千克。
+
+【考点】和倍问题   【难度】3星   【题型】填空
+【关键词】走美杯，五年级，初赛
+当物体重0.5千克时，弹簧伸长：3÷（1÷0.5）=1.5厘米。当弹簧伸长8厘米时，物体应重：8÷2=4千克。
+【答案】 EMBED Equation.DSMT4  厘米， EMBED Equation.DSMT4  千克。
+
+师、徒两人共加工 EMBED Equation.DSMT4  个零件，师傅加工的个数比徒弟的 EMBED Equation.DSMT4  倍还多 EMBED Equation.DSMT4  个，师傅和徒弟各加工零件多少个？
+【考点】和倍问题   【难度】3星   【题型】解答
+　
+引导学生画图时，一定要注意“多5个”的画图方法，并找和与份数之间的关系．从线段图上可以看出，把徒弟加工的个数看作 EMBED Equation.DSMT4  份数，师傅加工的个数就比 EMBED Equation.DSMT4  份数还多 EMBED Equation.DSMT4  个，如果师傅少加工 EMBED Equation.DSMT4  个，两人加工的总数就少 EMBED Equation.DSMT4  个，总数变为 EMBED Equation.DSMT4  个，这样这道题就转化为例 EMBED Equation.DSMT4  类型的题目，就可以求出师傅和徒弟各加工多少个了.列式：如果师傅少做 EMBED Equation.DSMT4  个，师、徒共做： EMBED Equation.DSMT4  (个)， 徒弟做了： EMBED Equation.DSMT4  (个),师傅做了： EMBED Equation.DSMT4  (个)．
+【答案】师傅 EMBED Equation.DSMT4  个，徒弟 EMBED Equation.DSMT4  个
+
+实验小学共有学生 EMBED Equation.DSMT4  人，男生比女生 EMBED Equation.DSMT4  倍少 EMBED Equation.DSMT4  人.问：实验小学男学生和女学生各有多少人？
+【考点】和倍问题   【难度】3星   【题型】解答
+女生： EMBED Equation.DSMT4  （人），男生： EMBED Equation.DSMT4  （人）或 EMBED Equation.DSMT4  （人）
+【答案】女生 EMBED Equation.DSMT4  人，男生 EMBED Equation.DSMT4  人
+
+光明小学有学生760人，其中男生比女生的3倍少40人，男、女生各有多少人？
+【考点】和倍问题   【难度】3星   【题型】解答
+把女生人数看作一份，由于男生人数比女生人数的3倍还少40人，如果用男、女生人数总和760人再加上40人，就等于女生人数的4倍（见下图）。
+
+女生人数：（760＋40）÷（3＋1）=200（人）
+男生人数：200×3-40=560（人）或 760-200=560（人）
+验算：560＋200=760（人）（560+40）÷200=3（倍）。
+答：男生有560人，女生有200人。
+【答案】男生有 EMBED Equation.DSMT4  人，女生有 EMBED Equation.DSMT4  人
+
+北京某小学的同学为幼儿园的小朋友做红花和黄花共300朵。已知红花的朵数比黄花的 EMBED Equation.DSMT4  倍少30朵。问两种花各有多少朵？
+【考点】和倍问题   【难度】3星   【题型】解答
+我们把黄花朵数看作一份，画出线段图如下：
+ INCLUDEPICTURE "http://www.meblog.cn/UploadFiles/2009-10/252236900515.bmp" \* MERGEFORMAT 
+从线段图中可以看出，两种花的总和再添上30朵，正好对应了3份。
+所以黄花朵数为：（300+30）÷（1+2）=110（朵）。红花朵数为：300-110=190（朵）。
+【答案】黄花 EMBED Equation.DSMT4  朵，红花为 EMBED Equation.DSMT4  朵。
+
+维尼熊和跳跳虎去摘苹果.维尼熊爬上树去摘，跳跳虎在地上跳着摘.跳跳虎每摘7个，维尼熊只能摘4个.维尼熊摘了80分钟，跳跳虎摘了50分钟就累了，不摘了.他们回来后数了一下，共摘2010个苹果，那么其中维尼熊摘的有________个.
+【考点】和倍问题   【难度】3星   【题型】填空
+【关键词】迎春杯，中年级，复试，6题
+依题意有相同时间内若跳跳虎摘了7份，则维尼熊摘了4份。所以最终维尼熊摘了4×80=320份，跳跳虎摘了7×50=350份。故每份有2010÷（320+350）=3个。那么维尼熊摘了3×320=960个。
+【答案】 EMBED Equation.DSMT4  个
+
+二⑴班的图书角里有故事书和连环画共 EMBED Equation.DSMT4  本，如果故事书拿走 EMBED Equation.DSMT4  本后，故事书的本数就是连环画的 EMBED Equation.DSMT4  倍.原有连环画和故事书各有多少本？
+
+【考点】和倍问题   【难度】3星   【题型】解答
+可引导学生，让他们自己画图来分析，教师辅导指正．
+从线段图可以看出，如果故事书拿走 EMBED Equation.DSMT4  本以后，则正好是连环画的 EMBED Equation.DSMT4  倍.这时故事书与连环画总数应减少 EMBED Equation.DSMT4  本，列式成 EMBED Equation.DSMT4   (本)，正好是连环画本数的( EMBED Equation.DSMT4  )倍.
+⑴如果故事书拿走 EMBED Equation.DSMT4  本，总本数为： EMBED Equation.DSMT4  (本)
+      　⑵现在连环画与故事书的倍数和为： EMBED Equation.DSMT4  
+ 　 ⑶连环画有： EMBED Equation.DSMT4  (本)
+    　  ⑷故事书有： EMBED Equation.DSMT4  (本)
+【答案】 连环画有 EMBED Equation.DSMT4  本，故事书有 EMBED Equation.DSMT4  本。
+
+实验一小、实验二小两校共有学生2346人，如果实验一小增加146人，实验二小减少88人，两校的学生人数就相等，你知道两校实际各有多少人吗?
+【考点】和倍问题   【难度】2星   【题型】解答
+已知两校的人数和是2346人，而两校人数的差没有直接告诉我们．只要求出两校人数的差，就能解决问题了．差是多少呢?
+
+从图上可以看出，实验一小增加146人，实验二小减少88人，两校的学生人数就相等．在实验一小人数没有增加，实验二小人数没有减少之前，两校的人数相差：146＋88＝234 (人)，利用(和＋差)÷2＝大数，就可以求出实验二小实际的人数：
+实验二小：(2346＋146＋88)÷2＝1290(人)
+实验一小：2346－1290＝1056(人),本题也可以用和倍方法解
+【答案】实验一小 EMBED Equation.DSMT4  人，实验二小为 EMBED Equation.DSMT4  人
+
+爸爸和冬冬一起搬砖，原计划爸爸搬其中的一些，冬冬搬剩余的砖头．父子二人发现，如果爸爸帮冬冬搬10块，那么爸爸所搬的砖头数是冬冬的5倍；如果冬冬帮爸爸搬10块，那么爸爸所搬的砖头数是冬冬的2倍．请问：原计划爸爸搬多少块砖，冬冬搬多少块砖？
+【考点】和倍问题   【难度】3星   【题型】解答
+由题意，如果爸爸多搬10块，冬冬少搬10块那么爸爸搬的砖头数是冬冬的5倍；如果爸爸少搬10块，冬冬多搬10块，那么爸爸搬的砖头块数是冬冬的2倍．对于前一种情况，如果让爸爸再多搬100块，冬冬再多搬20块，那么爸爸搬的砖头块数仍然是冬冬的5倍，也就是说如果爸爸多搬110块，冬冬多搬10块，爸爸搬的砖头块数是冬冬的5倍．由以上的关系可以列式求出爸爸原计划搬的块数为： EMBED Equation.DSMT4  （块），
+冬冬原计划搬的块数为： EMBED Equation.DSMT4  （块）．
+【答案】爸爸原计划搬 EMBED Equation.DSMT4  块，冬冬原计划搬 EMBED Equation.DSMT4  块．
+
+两组学生参加义务劳动，甲组学生人数是乙组的3倍，而乙组的学生人数比甲组的3倍少40人，求参加义务劳动的学生共有多少人？
+【考点】和倍问题   【难度】4星   【题型】解答
+把乙组学生人数看作1份，画出线段图如下：
+
+甲组学生人数是乙组学生人数的3倍，则甲组学生人数的3倍就是乙组人数的（3×3=）9倍。
+所以，乙组人数为：40÷（9-1）=5（人）；
+参加义务劳动的学生共有：5×（1+3）=20（人）。
+【答案】 EMBED Equation.DSMT4  人
+
+甲水池有水2600立方米，乙水池有水1200立方米，如果甲水池里的水以每分种23立方米的速度流入乙水池，那么多少分种后，乙水池中的水是甲水池的4倍？
+【考点】和倍问题   【难度】3星   【题型】解答
+甲、乙两水池共有水：2600＋1200=3800（立方米）
+甲水池剩下的水：3800÷（4+1）=760（立方米）
+甲水池流入乙水池中的水：2600-760=1840（立方米）
+经过的时间（分钟）：1840÷23＝80（分钟）。
+【答案】 EMBED Equation.DSMT4  分钟
+
+某镇上有东西两个公交车站，东站有客车84辆，西站有客车56辆，每天从东站到西站有7辆车，从西站到东站有11辆车，几天后，东站车辆是西站的4倍？
+【考点】和倍问题   【难度】3星   【题型】解答
+“每天从东站到西站有7辆车，从西站到东站有11辆车”，则每天东站增加（11-7=）4辆车，西站减少4辆车，但两站车辆总数不变为：84+56=140（辆）。要使东站车辆是西站车辆的4倍，西站只能有车辆：140÷（4+1）=28（辆）。用西站需要减少的总车辆数除以每天减少的车辆数，可以得出所求天数：（56-28）÷4=7（天）。所以，7天后，东站车辆是西站的4倍。
+【答案】 EMBED Equation.DSMT4  天
+
+放寒假了，叔叔送给强强一本有许多个故事的书，强强计划每天看同样个数的故事，用20天可看完。但强强在看书时发现故事很有趣，实际每天比原计划多看3个故事，结果提前4天看完了故事书。这本故事书一共有       个故事。
+【考点】和倍问题   【难度】3星   【题型】填空
+【关键词】希望杯，4年级，1试
+提前4天，即用了20-4=16天，这16天中比原本多读了16×3=48本书，这48本书原本应该在最后4天读完，所以原来每天读48÷4=12本书，一共有20×12=240本书.
+【答案】 EMBED Equation.DSMT4  本书
+
+工程队修一条公路，原计划每天修720米，实际每天比原计划多修80米，因而提前3天完成了任务。这条路全长________千米。
+【考点】和倍问题   【难度】3星   【题型】填空
+【关键词】希望杯，五年级，二试，第10题
+由于实际每天比原计划多修 EMBED Equation.DSMT4  米，而提前 EMBED Equation.DSMT4  天完成了任务，所以实际上总共多修的公路即等于按原计划 EMBED Equation.DSMT4  天修的公路，所以实际上修的天数为： EMBED Equation.DSMT4  （天），所以，这条路全长为：
+       EMBED Equation.DSMT4  （米），即 EMBED Equation.DSMT4  千米。
+【答案】 EMBED Equation.DSMT4  千米
+
+小月和冬冬看同一本小说，小月打算第一天看50页，接着每天看15页；冬冬则打算每天看22页，最后两人正好在同一天看完。这本小说一共多少页？
+【考点】和倍问题   【难度】3星   【题型】解答
+小月第一天比冬冬多看了28页，也就是说冬冬以后几天里面要比小月多看28页才能和小月同时看完小说，所以冬冬应该又看了 EMBED Equation.DSMT4  天，那么可以知道这本小说一共： EMBED Equation.DSMT4  页，验证 EMBED Equation.DSMT4  页。
+【答案】 EMBED Equation.DSMT4  页
+
+老师买了同样数量的铅笔、圆珠笔和钢笔. 如果老师发给数学小组每个同学1支铅笔、2支圆珠笔和3支钢笔. 结果圆珠笔还剩42支，那么，铅笔和钢笔共剩了_____________支.
+【考点】和倍问题   【难度】3星   【题型】解答
+【关键词】迎春杯，三年级，初赛，4题
+根据题意可知，铅笔和钢笔的总数量是圆珠笔数量的 EMBED Equation.DSMT4  倍，而发给每个同学的铅笔和钢笔的数量之和是圆珠笔数量的 EMBED Equation.DSMT4  倍，故发出去的铅笔和钢笔的总数也是发出去的圆珠笔的数量的 EMBED Equation.DSMT4  倍，那么剩下的铅笔和钢笔的总数是剩下的圆珠笔数量的 EMBED Equation.DSMT4  倍，为 EMBED Equation.DSMT4  支.
+【答案】 EMBED Equation.DSMT4  支
+
+有 EMBED Equation.DSMT4  只盒子，每只盒内放有同一种笔． EMBED Equation.DSMT4  只盒子所装笔的支数分别为 EMBED Equation.DSMT4  支、 EMBED Equation.DSMT4  支、 EMBED Equation.DSMT4  支、 EMBED Equation.DSMT4  支、 EMBED Equation.DSMT4  支、 EMBED Equation.DSMT4  支、 EMBED Equation.DSMT4  支、 EMBED Equation.DSMT4  支．在这些笔中，圆珠笔的支数是钢笔支数的 EMBED Equation.DSMT4  倍，铅笔支数是钢笔支数的 EMBED Equation.DSMT4  倍，只有一只盒里放的是水彩笔．这盒水彩笔共有多少支？
+【考点】和倍问题   【难度】3星   【题型】解答
+铅笔数是钢笔数的 EMBED Equation.DSMT4  倍，圆珠笔数是钢笔数的 EMBED Equation.DSMT4  倍，因此这三种笔支数的和是钢笔数的 EMBED Equation.DSMT4  倍． EMBED Equation.DSMT4  除以 EMBED Equation.DSMT4  余 EMBED Equation.DSMT4  ，所以水彩笔的支数除以 EMBED Equation.DSMT4  余 EMBED Equation.DSMT4  ，在上述 EMBED Equation.DSMT4  盒的支数中，只有 EMBED Equation.DSMT4  除以 EMBED Equation.DSMT4  余 EMBED Equation.DSMT4  ，因此水彩笔共有 EMBED Equation.DSMT4  支．
+【答案】 EMBED Equation.DSMT4  支
+
+六张卡片上分别标上 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  六个数，甲取 EMBED Equation.DSMT4  张，乙取 EMBED Equation.DSMT4  张，丙取 EMBED Equation.DSMT4  张，结果发现甲、乙各自手中卡片上的数之和一个人是另—个人的 EMBED Equation.DSMT4  倍，则丙手中卡片上的数是________．
+【考点】和倍问题   【难度】3星   【题型】填空
+【解答】小数报数，初赛
+根据“甲、乙二人各自手中卡片上的数之和一个人是另一个人的 EMBED Equation.DSMT4  倍”可知，甲、乙手中五张卡片上的数之和应是 EMBED Equation.DSMT4  的倍数．
+计算这六个数的总和是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  除以 EMBED Equation.DSMT4  余 EMBED Equation.DSMT4  ；因为甲、乙二人手中五张卡片上的数之和是 EMBED Equation.DSMT4  的倍数，那么丙手中的卡片上的数除以 EMBED Equation.DSMT4  余 EMBED Equation.DSMT4  ．六个数中只有 EMBED Equation.DSMT4  除以 EMBED Equation.DSMT4  余 EMBED Equation.DSMT4  ，故丙手中卡片上的数为 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+桌子上放着6包糖，分别装糖3、4、5、7、9、13块，小华拿走2包，小明拿走3包。已知小明拿走的糖的块数是小华的2倍，那么剩下的那包中的糖有_______块。
+【考点】和倍问题   【难度】3星   【题型】填空
+【关键词】希望杯,五年级,一试,第15题
+由题意，小明拿走的糖的块数是小华的2倍，已知小明拿走3包，小华拿走2包，也就是其中3个数的和是另外两个数的2倍，那么，3个数中必然包含较大的数，且3个数的和是偶数。因为13+7+4=2×（3+9），所以剩下的那包中的糖有5块。
+【答案】 EMBED Equation.DSMT4  块
+
+大头儿子和小头爸爸一起攀登一个有300级台阶的山坡，爸爸每步上3级台阶，儿子每步上2级台阶，从起点处开始，父子俩走完这段路共踏了多少级台阶？
+【考点】和倍问题   【难度】3星   【题型】解答
+大头儿子踏过的台阶数是： EMBED Equation.DSMT4  （级），小头爸爸踏过的台阶数是 EMBED Equation.DSMT4  （级），父子俩每 EMBED Equation.DSMT4  （级）台阶要共同踏1级台阶，共重复踏了 EMBED Equation.DSMT4  （级），所以父子俩共踏了： EMBED Equation.DSMT4  （级）．
+【答案】 EMBED Equation.DSMT4  级
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+6-1-5.和倍问题（一）.题库	                          教师版                            page  PAGE 8 of  NUMPAGES 8
+
+
+
+6-1-5.和倍问题（一）
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

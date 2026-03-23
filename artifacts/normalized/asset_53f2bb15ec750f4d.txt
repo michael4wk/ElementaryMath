@@ -1,0 +1,179 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+了解容斥原理二量重叠和三量重叠的内容；
+掌握容斥原理的在组合计数等各个方面的应用．
+ SHAPE  \* MERGEFORMAT 
+一、两量重叠问题
+在一些计数问题中，经常遇到有关集合元素个数的计算．求两个集合并集的元素的个数，不能简单地把两个集合的元素个数相加，而要从两个集合个数之和中减去重复计算的元素个数，即减去交集的元素个数，用式子可表示成： EMBED Equation.DSMT4  (其中符号“ EMBED Equation.DSMT4  ”读作“并”，相当于中文“和”或者“或”的意思；符号“ EMBED Equation.DSMT4  ”读作“交”，相当于中文“且”的意思．)则称这一公式为包含与排除原理，简称容斥原理．图示如下: EMBED Equation.DSMT4  表示小圆部分， EMBED Equation.DSMT4  表示大圆部分， EMBED Equation.DSMT4  表示大圆与小圆的公共部分，记为： EMBED Equation.DSMT4  ，即阴影面积．图示如下: EMBED Equation.DSMT4  表示小圆部分， EMBED Equation.DSMT4  表示大圆部分， EMBED Equation.DSMT4  表示大圆与小圆的公共部分，记为： EMBED Equation.DSMT4  ，即阴影面积．
+　       
+
+包含与排除原理告诉我们，要计算两个集合 EMBED Equation.DSMT4  的并集 EMBED Equation.DSMT4  的元素的个数，可分以下两步进行：
+第一步：分别计算集合 EMBED Equation.DSMT4  的元素个数，然后加起来，即先求 EMBED Equation.DSMT4  (意思是把 EMBED Equation.DSMT4  的一切元素都“包含”进来，加在一起)；
+第二步：从上面的和中减去交集的元素个数，即减去 EMBED Equation.DSMT4  (意思是“排除”了重复计算的元素个数)．
+
+二、三量重叠问题
+ EMBED Equation.DSMT4  类、 EMBED Equation.DSMT4  类与 EMBED Equation.DSMT4  类元素个数的总和 EMBED Equation.DSMT4  类元素的个数 EMBED Equation.DSMT4  类元素个数 EMBED Equation.DSMT4  类元素个数 EMBED Equation.DSMT4  既是 EMBED Equation.DSMT4  类又是 EMBED Equation.DSMT4  类的元素个数 EMBED Equation.DSMT4  既是 EMBED Equation.DSMT4  类又是 EMBED Equation.DSMT4  类的元素个数 EMBED Equation.DSMT4  既是 EMBED Equation.DSMT4  类又是 EMBED Equation.DSMT4  类的元素个数 EMBED Equation.DSMT4  同时是 EMBED Equation.DSMT4  类、 EMBED Equation.DSMT4  类、 EMBED Equation.DSMT4  类的元素个数．用符号表示为： EMBED Equation.DSMT4  ．图示如下：
+
+
+在解答有关包含排除问题时，我们常常利用圆圈图(韦恩图)来帮助分析思考．
+ SHAPE  \* MERGEFORMAT 
+
+模块一、三量重叠问题
+
+一栋居民楼里的住户每户都订了2份不同的报纸。如果该居民楼的住户只订了甲、乙、丙三种报纸，其中甲报30份，乙报34份，丙报40份，那么既订乙报又订丙报的有___________户。
+【考点】三量重叠问题   【难度】3星   【题型】填空
+【关键词】希望杯，4年级，1试
+总共有（30＋34＋40） EMBED Equation.DSMT4  2＝52户居民，订丙和乙的有52－30＝22户。
+【答案】 EMBED Equation.DSMT4  户
+
+某班学生手中分别拿红、黄、蓝三种颜色的小旗，已知手中有红旗的共有 EMBED Equation.DSMT4  人，手中有黄旗的共有 EMBED Equation.DSMT4  人，手中有蓝旗的共有 EMBED Equation.DSMT4  人．其中手中有红、黄、蓝三种小旗的有 EMBED Equation.DSMT4  人．而手中只有红、黄两种小旗的有 EMBED Equation.DSMT4  人，手中只有黄、蓝两种小旗的有 EMBED Equation.DSMT4  人，手中只有红、蓝两种小旗的有 EMBED Equation.DSMT4  人，那么这个班共有多少人？
+【考点】三量重叠问题   【难度】3星   【题型】解答
+
+如图，用 EMBED Equation.DSMT4  圆表示手中有红旗的， EMBED Equation.DSMT4  圆表示手中有黄旗的， EMBED Equation.DSMT4  圆表示手中有蓝旗的．如果用手中有红旗的、有黄旗的与有蓝旗的相加，发现手中只有红、黄两种小旗的各重复计算了一次，应减去，手中有三种颜色小旗的重复计算了二次，也应减去，那么，全班人数为： EMBED Equation.DSMT4    EMBED Equation.DSMT4  (人)．
+【答案】 EMBED Equation.DSMT4  人
+
+某班有 EMBED Equation.DSMT4  人，其中 EMBED Equation.DSMT4  人爱打篮球， EMBED Equation.DSMT4  人爱打排球， EMBED Equation.DSMT4  人爱踢足球， EMBED Equation.DSMT4  人既爱打篮球又爱踢足球， EMBED Equation.DSMT4  人既爱打排球又爱踢足球，没有一个人三种球都爱好，也没有一个人三种球都不爱好．问：既爱打篮球又爱打排球的有几人？
+【考点】三量重叠问题   【难度】3星   【题型】解答
+由于全班 EMBED Equation.DSMT4  人没有一个人三种球都不爱好，所以全班至少爱好一种球的有 EMBED Equation.DSMT4  人．根据包含排除法， EMBED Equation.DSMT4  既爱打篮球又爱打排球的人数 EMBED Equation.DSMT4  ，得到既爱打篮球又爱打排球的人数为： EMBED Equation.DSMT4  (人)．
+【答案】 EMBED Equation.DSMT4  人
+
+四年级一班有46名学生参加3项课外活动．其中有24人参加了数学小组，20人参加了语文小组，参加文艺小组的人数是既参加数学小组也参加文艺小组人数的3．5倍，又是3项活动都参加人数的7倍，既参加文艺小组也参加语文小组的人数相当于3项都参加的人数的2倍，既参加数学小组又参加语文小组的有10人．求参加文艺小组的人数．
+【考点】三量重叠问题   【难度】3星   【题型】解答
+设参加数学小组的学生组成集合A，参加语文小组的学生组成集合B，参加文艺小组的学生组成集合G．三者都参加的学生有z人．有=46，=24，=20，=3.5，=7，=2，=10．
+因为，
+所以46=24+20+7x-10-2x-2x+x，解得x=3，
+即三者的都参加的有3人．那么参加文艺小组的有37=21人．
+【答案】 EMBED Equation.DSMT4  人
+
+五年级三班学生参加课外兴趣小组，每人至少参加一项．其中有25人参加自然兴趣小组，35人参加美术兴趣小组，27人参加语文兴趣小组，参加语文同时又参加美术兴趣小组的有12人，参加自然同时又参加美术兴趣小组的有8人，参加自然同时又参加语文兴趣小组的有9人，语文、美术、自然3科兴趣小组都参加的有4人．求这个班的学生人数．
+【考点】三量重叠问题   【难度】3星   【题型】解答
+
+设参加自然兴趣小组的人组成集合A，参加美术兴趣小组的人组成集合日，参加语文兴趣小组的人组成集合C．
+        =25，=35，=27，=12， =8，=9，   =4.
+=.
+所以，这个班中至少参加一项活动的人有25+35+27-12-8-9+4=62，而这个班每人至少参加一项．即这个班有62人．
+【答案】 EMBED Equation.DSMT4  人
+
+光明小学组织棋类比赛，分成围棋、中国象棋和国际象棋三个组进行，参加围棋比赛的有 EMBED Equation.DSMT4  人，参加中国象棋比赛的有 EMBED Equation.DSMT4  人，参加国际象棋比赛的有 EMBED Equation.DSMT4  人，同时参加了围棋和中国象棋比赛的有 EMBED Equation.DSMT4  人，同时参加了围棋和国际象棋比赛的有 EMBED Equation.DSMT4  人，同时参加了中国象棋和国际象棋比赛的有 EMBED Equation.DSMT4  人，其中三种棋赛都参加的有 EMBED Equation.DSMT4  人，问参加棋类比赛的共有多少人？
+【考点】三量重叠问题   【难度】3星   【题型】解答
+根据包含排除法，先把参加围棋比赛的 EMBED Equation.DSMT4  人，参加中国象棋比赛的 EMBED Equation.DSMT4  人与参加国际象棋比赛的 EMBED Equation.DSMT4  人加起来，共是 EMBED Equation.DSMT4  人．把重复加一遍同时参加围棋和中国象棋的 EMBED Equation.DSMT4  人，同时参加围棋和国际象棋的 EMBED Equation.DSMT4  人与同时参加中国象棋和国际象棋的 EMBED Equation.DSMT4  人减去，但是，同时参加了三种棋赛的 EMBED Equation.DSMT4  人被加了 EMBED Equation.DSMT4  次，又被减了 EMBED Equation.DSMT4  次，其实并未计算在内，应当补上，实际上参加棋类比赛的共有： EMBED Equation.DSMT4  (人)．
+或者根据学过的公式： EMBED Equation.DSMT4  ，参加棋类比赛的总人数为： EMBED Equation.DSMT4  (人)．
+【答案】 EMBED Equation.DSMT4  人
+
+新年联欢会上，共有90人参加了跳舞、合唱、演奏三种节目的演出．如果只参加跳舞的人数三倍于只参加合唱的人数；同时参加三种节目的人比只参加合唱的人少7人；只参加演奏的比同时参加演奏、跳舞但没有参加合唱的人多4人；50人没有参加演奏；10人同时参加了跳舞和合唱但没有参加演奏；40人参加了合唱；那么，同时参加了演奏、合唱但没有参加跳舞的有________人．
+【考点】三量重叠问题   【难度】3星   【题型】填空
+【关键词】西城实验
+设只参加合唱的有 EMBED Equation.DSMT4  人，那么只参加跳舞的人数为 EMBED Equation.DSMT4  ，由 EMBED Equation.DSMT4  人没有参加演奏、 EMBED Equation.DSMT4  人同时参加了跳舞和合唱但没有参加演奏，得到只参加合唱的和只参加跳舞的人数和为 EMBED Equation.DSMT4  人，即 EMBED Equation.DSMT4  ，得 EMBED Equation.DSMT4  ，所以只参加合唱的有 EMBED Equation.DSMT4  人，那么只参加跳舞的人数为 EMBED Equation.DSMT4  人，又由“同时参加三种节目的人比只参加合唱的人少 EMBED Equation.DSMT4  人”，得到同时参加三项的有 EMBED Equation.DSMT4  人，所以参加了合唱的人中“同时参加了演奏、合唱但没有参加跳舞的”有： EMBED Equation.DSMT4  人．
+【答案】 EMBED Equation.DSMT4  人
+
+六年级100名同学，每人至少爱好体育、文艺和科学三项中的一项．其中，爱好体育的55人，爱好文艺的56人，爱好科学的51人，三项都爱好的15人，只爱好体育和科学的4人，只爱好体育和文艺的17人．问：有多少人只爱好科学和文艺两项？只爱好体育的有多少人？
+【考点】三量重叠问题   【难度】3星   【题型】解答
+只是A类和B类的元素个数，有别于容斥原理Ⅱ中的既是A类又是B类的元数个数．依题意，画图如下．设只爱好科学和文艺两项的有 EMBED Equation.DSMT4  人．由容斥原理，列方程得     EMBED Equation.DSMT4     
+即     EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+       EMBED Equation.DSMT4         只爱好体育的有： EMBED Equation.DSMT4  (人)．
+【答案】 EMBED Equation.DSMT4  人只爱好科学和文艺， EMBED Equation.DSMT4  人只爱好体育。
+
+在某个风和日丽的日子， EMBED Equation.DSMT4  个同学相约去野餐，每个人都带了吃的，其中 EMBED Equation.DSMT4  个人带了汉堡， EMBED Equation.DSMT4  个人带了鸡腿， EMBED Equation.DSMT4  个人带了芝士蛋糕，有 EMBED Equation.DSMT4  个人既带了汉堡又带了鸡腿， EMBED Equation.DSMT4  个人既带了鸡腿又带了芝士蛋糕． EMBED Equation.DSMT4  个人既带了汉堡又带了芝土蛋糕．问：
+⑴ 三种都带了的有几人？
+⑵ 只带了一种的有几个？
+【考点】三量重叠问题   【难度】4星   【题型】解答
+
+如图，用 EMBED Equation.DSMT4  圆表示带汉堡的人， EMBED Equation.DSMT4  圆表示带鸡腿的人， EMBED Equation.DSMT4  圆表示带芝士蛋糕的人．
+⑴ 根据包含排除法，总人数 EMBED Equation.DSMT4  带汉堡的人数 EMBED Equation.DSMT4  带鸡腿的人数 EMBED Equation.DSMT4  带芝士蛋糕的人数 EMBED Equation.DSMT4  带汉堡、鸡腿的人数 EMBED Equation.DSMT4  带汉堡、芝士蛋糕的人数 EMBED Equation.DSMT4  带鸡腿、芝士蛋糕的人数 EMBED Equation.DSMT4  三种都带了的人数，即 EMBED Equation.DSMT4  三种都带了的人数，得三种都带了的人数为： EMBED Equation.DSMT4  (人)．
+⑵ 求只带一种的人数，只需从10人中减去带了两种的人数，即 EMBED Equation.DSMT4  (人)．只带了一种的有 EMBED Equation.DSMT4  人．
+【答案】（1）0人，（2） EMBED Equation.DSMT4  人
+
+盛夏的一天，有 EMBED Equation.DSMT4  个同学去冷饮店，向服务员交了一份需要冷饮的统计表：要可乐、雪碧、橙汁的各有 EMBED Equation.DSMT4  人；可乐、雪碧都要的有 EMBED Equation.DSMT4  人；可乐、橙汁都要的有 EMBED Equation.DSMT4  人；雪碧、橙汁都要的有 EMBED Equation.DSMT4  人；三样都要的只有 EMBED Equation.DSMT4  人，证明其中一定有 EMBED Equation.DSMT4  人这三种饮料都没有要．
+【考点】三量重叠问题   【难度】4星   【题型】解答
+略
+【答案】根据根据包含排除法，至少要了一种饮料的人数 EMBED Equation.DSMT4  (要可乐的人数 EMBED Equation.DSMT4  要雪碧的人数 EMBED Equation.DSMT4  要橙汁的人数) EMBED Equation.DSMT4  (要可乐、雪碧的人数 EMBED Equation.DSMT4  要可乐、橙汁的人数 EMBED Equation.DSMT4  要雪碧、橙汁的人数) EMBED Equation.DSMT4  三种都要的人数，即至少要了一种饮料的人数为： EMBED Equation.DSMT4  (人)． EMBED Equation.DSMT4  (人)，所以其中有 EMBED Equation.DSMT4  人这三种饮料都没有要．
+
+全班有 EMBED Equation.DSMT4  个学生，其中 EMBED Equation.DSMT4  人会骑自行车， EMBED Equation.DSMT4  人会游泳， EMBED Equation.DSMT4  人会滑冰，这三个运动项目没有人全会，至少会这三项运动之一的学生数学成绩都及格了，但又都不是优秀．若全班有 EMBED Equation.DSMT4  个人数学不及格，那么，⑴ 数学成绩优秀的有几个学生？       ⑵ 有几个人既会游泳，又会滑冰？
+【考点】三量重叠问题   【难度】4星   【题型】解答
+⑴ 有 EMBED Equation.DSMT4  个数学不及格，那么及格的有： EMBED Equation.DSMT4  (人)，即最多不会超过 EMBED Equation.DSMT4  人会这三项运动之一．而又因为没人全会这三项运动，那么，最少也会有： EMBED Equation.DSMT4  (人)至少会这三项运动之一．于是，至少会三项运动之一的只能是 EMBED Equation.DSMT4  人，而这 EMBED Equation.DSMT4  人又不是优秀，说明全班 EMBED Equation.DSMT4  人中除了 EMBED Equation.DSMT4  人外，剩下的 EMBED Equation.DSMT4  名不及格，所以没有数学成绩优秀的．
+⑵ 上面分析可知，及格的 EMBED Equation.DSMT4  人中，每人都会两项运动：会骑车的一定有一部分会游泳，一部分会滑冰；会游泳的人中若不会骑车就一定会滑冰，而会滑冰的人中若不会骑车就一定会游泳，但既会游泳又会滑冰的人一定不会骑自行车．所以，全班有 EMBED Equation.DSMT4  (人)既会游泳又会滑冰．
+【答案】（1）0人，（2） EMBED Equation.DSMT4  人
+
+五年级一班共有 EMBED Equation.DSMT4  人，每人参加一个兴趣小组，共有 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  五个小组，若参加 EMBED Equation.DSMT4  组的有 EMBED Equation.DSMT4  人，参加 EMBED Equation.DSMT4  组的人数仅次于 EMBED Equation.DSMT4  组，参加 EMBED Equation.DSMT4  组、 EMBED Equation.DSMT4  组的人数相同，参加 EMBED Equation.DSMT4  组的人数最少，只有 EMBED Equation.DSMT4  人．那么，参加 EMBED Equation.DSMT4  组的有_______人．
+【考点】三量重叠问题   【难度】4星   【题型】填空
+参加 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  三组的总人数是 EMBED Equation.DSMT4  (人)， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  每组至少 EMBED Equation.DSMT4  人，当 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  每组 EMBED Equation.DSMT4   人时， EMBED Equation.DSMT4  组为 EMBED Equation.DSMT4  人，不符合题意，所以参加 EMBED Equation.DSMT4  组的有 EMBED Equation.DSMT4  (人)．
+【答案】 EMBED Equation.DSMT4  人
+
+五一班有28位同学，每人至少参加数学、语文、自然课外小组中的一个．其中仅参加数学与语文小组的人数等于仅参加数学小组的人数，没有同学仅参加语文或仅参加自然小组，恰有6个同学参加数学与自然小组但不参加语文小组，仅参加语文与自然小组的人数是3个小组全参加的人数的5倍，并且知道3个小组全参加的人数是一个不为0的偶数，那么仅参加数学和语文小组的人有多少人？
+【考点】三量重叠问题   【难度】4星   【题型】解答
+参加3个小组的人数是一个不为0的偶数，如果该数大于或等于4，那么仅参加语文与自然小组的人数则大于等于20，而仅参加数学与自然小组的人有6个，这样至少应有30人，与题意矛盾，所以参加3个小组的人数为2．仅参加语文与自然小组的人数为10，于是仅参加语文与自然、仅参加数学与自然和参加3个小组的人数一共是18人，剩下的10人是仅参加数学与语文以及仅参加数学的．由于这两个人数相等，所以仅参加数学和语文小组的有5人．
+【答案】 EMBED Equation.DSMT4  人
+
+在一个自助果园里，只摘山莓者两倍于只摘李子者；摘了草莓、山莓和李子的人数比只摘李子的人数多 EMBED Equation.DSMT4  个；只摘草莓者比摘了山莓和草莓但没有摘李子者多 EMBED Equation.DSMT4  人； EMBED Equation.DSMT4  个人没有摘草莓； EMBED Equation.DSMT4  个人摘了山莓和李子但没有摘草莓；总共有 EMBED Equation.DSMT4  人摘了李子.如果参与采摘水果的总人数是 EMBED Equation.DSMT4  ，你能回答下列问题吗？ ① 有     人摘了山莓； ② 有     人同时摘了三种水果； ③ 有     人只摘了山莓； ④ 有     人摘了李子和草莓，而没有摘山莓； ⑤ 有     人只摘了草莓.
+
+【考点】三量重叠问题   【难度】3星   【题型】填空
+如图，根据题意有  EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4   代入求解： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4   所以①有 EMBED Equation.DSMT4  (人)摘了山莓； ②有 EMBED Equation.DSMT4  人同时摘了三种水果； ③有 EMBED Equation.DSMT4  人只摘了山莓； ④有 EMBED Equation.DSMT4  人摘了李子和草莓，而没有摘山莓； ⑤有 EMBED Equation.DSMT4  人只摘了草莓.
+【答案】①有 EMBED Equation.DSMT4  (人)摘了山莓；②有 EMBED Equation.DSMT4  人同时摘了三种水果； ③有 EMBED Equation.DSMT4  人只摘了山莓；④有 EMBED Equation.DSMT4  人摘了李子和草莓，而没有摘山莓； ⑤有 EMBED Equation.DSMT4  人只摘了草莓.
+
+某学校派出若干名学生参加体育竞技比赛，比赛一共只有三个项目，已知参加长跑、跳高、标枪三个项目的人数分别为10、15、20人，长跑、跳高、标枪每一项的的参加选手中人中都有五分之一的人还参加了别的比赛项目，求这所学校一共派出多少人参加比赛？
+
+【考点】三量重叠问题   【难度】4星   【题型】解答
+由条件可知，参加长跑的人中有2人参加其它项目，参加跳高的人中有3人参加其它项目，参加标枪的人中有4人还参加别的项目，假设只参加长跑和跳高的人数为x，只参加长跑和标枪的人数为y，只参加标枪和跳高的有z人，三项都参加的有n人.那么有以下方程组：
+        由条件可知，参加长跑的人中有2人参加其它项目，参加跳高的人中有3人                      参加其它项目，参加标枪的人中有4人还参加别的项目，假设只参加长跑和跳高的人数为x，只参加长跑和标枪的人数为y，只参加标枪和跳高的有z人，三项都参加的有n人.那么有以下方程组：
+ EMBED Equation.DSMT4   
+将3条等式相加则有2（x+y+z）+3n=9，由这个等式可以得到，n必须是奇数，所以，n只能是1或3、5、7……，如果n≥3时x、y、z中会出现负数.所以n=1，这样可以求得x=0，y=1，z=2.由此可得到这个学校一共派出了10+15+20-0-1-2-2×1=40人.
+将3条等式相加则有2（x+y+z）+3n=9，由这个等式可以得到，n必须是奇数，所以，n只能是1或3、5、7……，如果n≥3时x、y、z中会出现负数.所以n=1，这样可以求得x=0，y=1，z=2.由此可得到这个学校一共派出了10+15+20-0-1-2-2×1=40人.
+【答案】 EMBED Equation.DSMT4  人
+
+模块二、四个量的重叠问题
+
+养牛场有2007头黄牛和水牛，其中母牛1105头，黄牛1506头，公水牛200头，那么母黄牛有      头。
+【考点】四个量的重叠问题   【难度】3星   【题型】填空
+【关键词】希望杯，4年级，1试
+解：公牛有2007-1105=902头，公黄牛有902-200=702头，母黄牛有1506-702=804头
+【答案】 EMBED Equation.DSMT4  头
+
+一个书架上有数学、语文、英语、历史4种书共35本，且每种书的数量互不相同。其中数学书和英语书共有l6本，语文书和英语书共有17本：有一种书恰好有9本，这种书是       书。
+【考点】四个量的重叠问题   【难度】4星   【题型】填空
+【关键词】迎春杯，四年级，初赛，5题
+如果数学书有x本，那么英语书有16-x本，语文书有17-（16-x）=x+1本，历史书为35-(x+16-x+x+1)=18-x本，其中有可能出现相等的有x和16-x，x和18-x因为它们奇偶性相同.为了不相等，x≠8且x≠9，有此得到16-x不等于8和7，x+1不等于9和10，18-x不等于10和9，只有16-x可以等于9，所以英语书有9本.
+【答案】英语
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+7-7-2.容斥原理之重叠问题（二）.题库	                         教师版                        page  PAGE 7 of  NUMPAGES 7
+
+
+
+7-7-2.容斥原理之重叠问题（二）
+
+
+教学目标
+
+例题精讲
+
+1．先包含： EMBED Equation.DSMT4  
+重叠部分 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  重叠了 EMBED Equation.DSMT4  次，多加了 EMBED Equation.DSMT4  次．
+2．再排除： EMBED Equation.DSMT4  
+重叠部分 EMBED Equation.DSMT4  重叠了 EMBED Equation.DSMT4  次，但是在进行 EMBED Equation.DSMT4    EMBED Equation.DSMT4  计算时都被减掉了．
+3．再包含： EMBED Equation.DSMT4  ．
+
+图中小圆表示 EMBED Equation.DSMT4  的元素的个数，中圆表示 EMBED Equation.DSMT4  的元素的个数，大圆表示 EMBED Equation.DSMT4  的元素的个数．
+
+知识要点
+
+1．先包含—— EMBED Equation.DSMT4  
+重叠部分 EMBED Equation.DSMT4  计算了 EMBED Equation.DSMT4  次，多加了 EMBED Equation.DSMT4  次；
+2．再排除—— EMBED Equation.DSMT4  
+把多加了 EMBED Equation.DSMT4  次的重叠部分 EMBED Equation.DSMT4  减去．
+
+
+

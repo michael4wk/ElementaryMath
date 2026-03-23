@@ -1,0 +1,119 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+了解容斥原理二量重叠和三量重叠的内容；
+掌握容斥原理的在组合计数等各个方面的应用．
+ SHAPE  \* MERGEFORMAT 
+一、两量重叠问题
+在一些计数问题中，经常遇到有关集合元素个数的计算．求两个集合并集的元素的个数，不能简单地把两个集合的元素个数相加，而要从两个集合个数之和中减去重复计算的元素个数，即减去交集的元素个数，用式子可表示成： EMBED Equation.DSMT4  (其中符号“ EMBED Equation.DSMT4  ”读作“并”，相当于中文“和”或者“或”的意思；符号“ EMBED Equation.DSMT4  ”读作“交”，相当于中文“且”的意思．)则称这一公式为包含与排除原理，简称容斥原理．图示如下: EMBED Equation.DSMT4  表示小圆部分， EMBED Equation.DSMT4  表示大圆部分， EMBED Equation.DSMT4  表示大圆与小圆的公共部分，记为： EMBED Equation.DSMT4  ，即阴影面积．图示如下: EMBED Equation.DSMT4  表示小圆部分， EMBED Equation.DSMT4  表示大圆部分， EMBED Equation.DSMT4  表示大圆与小圆的公共部分，记为： EMBED Equation.DSMT4  ，即阴影面积．
+　       
+
+包含与排除原理告诉我们，要计算两个集合 EMBED Equation.DSMT4  的并集 EMBED Equation.DSMT4  的元素的个数，可分以下两步进行：
+第一步：分别计算集合 EMBED Equation.DSMT4  的元素个数，然后加起来，即先求 EMBED Equation.DSMT4  (意思是把 EMBED Equation.DSMT4  的一切元素都“包含”进来，加在一起)；
+第二步：从上面的和中减去交集的元素个数，即减去 EMBED Equation.DSMT4  (意思是“排除”了重复计算的元素个数)．
+二、三量重叠问题
+ EMBED Equation.DSMT4  类、 EMBED Equation.DSMT4  类与 EMBED Equation.DSMT4  类元素个数的总和 EMBED Equation.DSMT4  类元素的个数 EMBED Equation.DSMT4  类元素个数 EMBED Equation.DSMT4  类元素个数 EMBED Equation.DSMT4  既是 EMBED Equation.DSMT4  类又是 EMBED Equation.DSMT4  类的元素个数 EMBED Equation.DSMT4  既是 EMBED Equation.DSMT4  类又是 EMBED Equation.DSMT4  类的元素个数 EMBED Equation.DSMT4  既是 EMBED Equation.DSMT4  类又是 EMBED Equation.DSMT4  类的元素个数 EMBED Equation.DSMT4  同时是 EMBED Equation.DSMT4  类、 EMBED Equation.DSMT4  类、 EMBED Equation.DSMT4  类的元素个数．用符号表示为： EMBED Equation.DSMT4  ．图示如下：
+
+
+
+在解答有关包含排除问题时，我们常常利用圆圈图(韦恩图)来帮助分析思考．
+
+ SHAPE  \* MERGEFORMAT 
+
+把长 EMBED Equation.DSMT4  厘米和 EMBED Equation.DSMT4  厘米的两根铁条焊接成一根铁条．已知焊接部分长 EMBED Equation.DSMT4  厘米，焊接后这根铁条有多长？
+【考点】几何中的重叠问题   【难度】1星   【题型】解答
+因为焊接部分为两根铁条的重合部分，所以，由包含排除法知，焊接后这根铁条长 EMBED Equation.DSMT4  (厘米)．
+【答案】87厘米
+
+把长 EMBED Equation.DSMT4  厘米和 EMBED Equation.DSMT4  厘米的两根铁条焊接成一根铁条．已知焊接部分长 EMBED Equation.DSMT4  厘米，焊接后这根铁条有多长？
+【考点】几何中的重叠问题   【难度】1星   【题型】解答
+焊接部分为两根铁条的重合部分，由包含排除法知，焊接后这根铁条长： EMBED Equation.DSMT4  (厘米)．
+【答案】57厘米
+
+两张长 EMBED Equation.DSMT4  厘米，宽 EMBED Equation.DSMT4  厘米的长方形纸摆放成如图所示形状．把它放在桌面上，覆盖面积有多少平方厘米？
+【考点】几何中的重叠问题   【难度】1星   【题型】解答
+
+两个长方形如图摆放时出现了重叠(见图中的阴影部分)，重叠部分恰好是边长为 EMBED Equation.DSMT4  厘米的正方形，如果利用两个 EMBED Equation.DSMT4  的长方形面积之和来计算被覆盖桌面的面积，那么重叠部分在两个长方形面积中各被计算了一次，而实际上这部分只需计算一次就可以了．所以，被覆盖面积 EMBED Equation.DSMT4  长方形面积之和-重叠部分．于是，被覆盖面积 EMBED Equation.DSMT4  (平方厘米)．
+【答案】12厘米
+
+如图 EMBED Equation.DSMT4  ，一张长 EMBED Equation.DSMT4  厘米，宽 EMBED Equation.DSMT4  厘米，另一个正方形边长为 EMBED Equation.DSMT4  厘米，它们中间重叠的部分是一个边长为 EMBED Equation.DSMT4  厘米的正方形，求这个组合图形的面积．
+【考点】几何中的重叠问题   【难度】1星   【题型】解答
+
+两个图形如图摆放时出现了重叠(见图中的阴影部分)，重叠部分恰好是边长为 EMBED Equation.DSMT4  厘米的正方形，如果利用长方形和正方形面积之和来计算被覆盖桌面的面积，那么重叠部分在长方形和正方形面积中各被计算了一次，而实际上这部分只需计算一次就可以了．所以，组合图形的面积 EMBED Equation.DSMT4  长方形面积 EMBED Equation.DSMT4  正方形面积 EMBED Equation.DSMT4  重叠部分．于是，组合图形的面积： EMBED Equation.DSMT4  (平方厘米)．
+【答案】68平方厘米
+
+一个长方形长 EMBED Equation.DSMT4  厘米，宽 EMBED Equation.DSMT4  厘米，另一个长方形长 EMBED Equation.DSMT4  厘米，宽 EMBED Equation.DSMT4  厘米，它们中间重叠的部分是一个边长 EMBED Equation.DSMT4  厘米的正方形，求这个组合图形的面积．
+【考点】几何中的重叠问题   【难度】1星   【题型】解答
+
+两个长方形如图摆放时出现了重叠(见图中的阴影部分)，重叠部分恰好是边长为 EMBED Equation.DSMT4  厘米的正方形，如果利用两个长方形面积之和来计算被覆盖桌面的面积，那么重叠部分在两个长方形面积中各被计算了一次，而实际上这部分只需计算一次就可以了．所以，组合图形的面积 EMBED Equation.DSMT4  长方形面积之和 EMBED Equation.DSMT4  重叠部分．于是，组合图形的面积 EMBED Equation.DSMT4  (平方厘米)．
+【答案】140平方厘米
+
+三个面积均为 EMBED Equation.DSMT4  平方厘米的圆纸片放在桌面上(如图)，三个纸片共同重叠的面积是 EMBED Equation.DSMT4  平方厘米．三个纸片盖住桌面的总面积是 EMBED Equation.DSMT4  厘米．问：图中阴影部分面积之和是多少？
+【考点】几何中的重叠问题   【难度】2星   【题型】解答
+
+将图中的三个圆标上 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ．根据包含排除法，三个纸片盖住桌面的总面积 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  圆面积 EMBED Equation.DSMT4  圆面积 EMBED Equation.DSMT4  圆面积 EMBED Equation.DSMT4   EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  重合部分面积 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  重合部分面积 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  重合部分面积 EMBED Equation.DSMT4  三个纸片共同重叠的面积，得： EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  重合部分面积 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  重合部分面积 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  重合部分面积 EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  三个圆两两重合面积之和为： EMBED Equation.DSMT4  平方厘米，而这个面积对应于圆上的那三个纸片共同重叠的面积的三倍与阴影部分面积的和，即： EMBED Equation.DSMT4  阴影部分面积，则阴影部分面积为： EMBED Equation.DSMT4  (平方厘米)．
+【答案】30平方厘米
+
+如图，已知甲、乙、丙3个圆的面积均为30，甲与乙、乙与丙、甲与丙重合部分的面积分别为6，8，5，而3个圆覆盖的总面积为73．求阴影部分的面积．
+【考点】几何中的重叠问题   【难度】2星   【题型】解答
+设甲圆组成集合A，乙圆组成集合B，丙圆组成集合C．
+=30，=6，=8，=5，=73，
+而=.
+有73=30×3-6-8-5+，即=2，即甲、乙、丙三者的公共面积(⑧部分面积)为2．那么只是甲与乙(④)，乙与丙(⑥)，甲与丙(⑤)的公共的面积依次为6-2=4，8-2=6，5-2=3，所以有阴影部分(①、②、③部分之和)的面积为73-4-6-3-2=58．
+【答案】58
+
+如图，三角形纸板、正方形纸板、圆形纸板的面积相等，都等于60平方厘米．阴影部分的面积总和是40平方厘米，3张板盖住的总面积是100平方厘米，3张纸板重叠部分的面积是多少平方厘米？
+【考点】几何中的重叠问题   【难度】3星   【题型】解答
+
+阴影部分是有两块重叠的部分，被计算两次，而三张纸重叠部分是被计算了三次．所以三张纸重叠部分的面积 EMBED Equation.DSMT4  (平方厘米)．
+【答案】20平方厘米
+
+如图所示， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别是面积为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的三张不同形状的纸片，它们重叠在一起，露在外面的总面积为 EMBED Equation.DSMT4  ．若 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的公共部分的面积分别为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  这三张纸片的公共部分为 EMBED Equation.DSMT4  ．求 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  公共部分的面积是多少？
+【考点】几何中的重叠问题   【难度】3星   【题型】解答
+
+设 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  公共部分的面积为 EMBED Equation.DSMT4  ，由包含与排除原理可得：
+⑴ 先“包含”：把图形 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的面积相加： EMBED Equation.DSMT4  ，那么每两个图形的公共部分的面积都重复计算了 EMBED Equation.DSMT4  次，因此要排除掉．
+⑵ 再“排除”： EMBED Equation.DSMT4  ，这样一来，三个图形的公共部分被全部减掉，因此还要再补回．
+⑶ 再“包含”： EMBED Equation.DSMT4  ，这就是三张纸片覆盖的面积．
+根据上面的分析得： EMBED Equation.DSMT4  ，解得： EMBED Equation.DSMT4  ．
+【答案】6
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+7-7-3.几何中的重叠问题.题库	                         教师版                        page  PAGE 4 of  NUMPAGES 4
+
+
+
+7-7-3.几何中的重叠问题
+
+
+教学目标
+
+例题精讲
+
+1．先包含： EMBED Equation.DSMT4  
+重叠部分 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  重叠了 EMBED Equation.DSMT4  次，多加了 EMBED Equation.DSMT4  次．
+2．再排除： EMBED Equation.DSMT4  
+重叠部分 EMBED Equation.DSMT4  重叠了 EMBED Equation.DSMT4  次，但是在进行 EMBED Equation.DSMT4    EMBED Equation.DSMT4  计算时都被减掉了．
+3．再包含： EMBED Equation.DSMT4  ．
+
+图中小圆表示 EMBED Equation.DSMT4  的元素的个数，中圆表示 EMBED Equation.DSMT4  的元素的个数，大圆表示 EMBED Equation.DSMT4  的元素的个数．
+
+知识要点
+
+1．先包含—— EMBED Equation.DSMT4  
+重叠部分 EMBED Equation.DSMT4  计算了 EMBED Equation.DSMT4  次，多加了 EMBED Equation.DSMT4  次；
+2．再排除—— EMBED Equation.DSMT4  
+把多加了 EMBED Equation.DSMT4  次的重叠部分 EMBED Equation.DSMT4  减去．
+
+
+

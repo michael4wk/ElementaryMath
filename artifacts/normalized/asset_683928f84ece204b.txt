@@ -1,0 +1,234 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+了解整除的性质；
+运用整除的性质解题；
+整除性质的综合运用.
+ SHAPE  \* MERGEFORMAT 
+一、常见数字的整除判定方法
+1. 一个数的末位能被2或5整除，这个数就能被2或5整除；
+一个数的末两位能被4或25整除，这个数就能被4或25整除；
+一个数的末三位能被8或125整除，这个数就能被8或125整除；
+2. 一个位数数字和能被3整除，这个数就能被3整除；
+一个数各位数数字和能被9整除，这个数就能被9整除；
+3. 如果一个整数的奇数位上的数字之和与偶数位上的数字之和的差能被11整除，那么这个数能被11整除.
+4. 如果一个整数的末三位与末三位以前的数字组成的数之差能被7、11或13整除，那么这个数能被7、11或13整除.
+5.如果一个数能被99整除，这个数从后两位开始两位一截所得的所有数（如果有偶数位则拆出的数都有两个数字，如果是奇数位则拆出的数中若干个有两个数字还有一个是一位数）的和是99的倍数，这个数一定是99的倍数。
+【备注】（以上规律仅在十进制数中成立.）
+二、整除性质
+性质1  如果数a和数b都能被数c整除，那么它们的和或差也能被c整除．即如果c︱a，
+c︱b，那么c︱(a±b)．
+性质2  如果数a能被数b整除，b又能被数c整除，那么a也能被c整除．即如果b∣a，
+c∣b，那么c∣a．
+用同样的方法，我们还可以得出：
+性质3  如果数a能被数b与数c的积整除，那么a也能被b或c整除．即如果bc∣a，那
+么b∣a，c∣a．
+性质4  如果数a能被数b整除，也能被数c整除，且数b和数c互质，那么a一定能被b
+与c的乘积整除．即如果b∣a，c∣a，且(b，c)=1，那么bc∣a．
+       例如：如果3∣12，4∣12，且(3，4)=1，那么(3×4) ∣12．
+性质5  如果数a能被数b整除，那么am也能被bm整除．如果 b｜a，那么bm｜am（m为非0整数）；
+性质6  如果数a能被数b整除，且数c能被数d整除，那么ac也能被bd整除．如果 b｜a ，且d｜c ，那么bd｜ac；
+
+ SHAPE  \* MERGEFORMAT 
+
+模块一、2、5系列
+
+ EMBED Equation.DSMT4  ，要使这个连乘积的最后4个数字都是0，那么在方框内最小应填什么数？
+【考点】整除之2、5系列   【难度】2星   【题型】填空
+积的最后4个数字都是0，说明乘数里至少有4个因数2和4个因数5． EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，共有3个5，2个2，所以方框内至少是 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+从50到100的这51个自然数的乘积的末尾有多少个连续的0？
+【考点】整除之2、5系列   【难度】4星   【题型】解答
+首先，50、60、70、80、90、100中共有7个0．其次，55、65、85、95和任意偶数相乘都可以产生一个0，而75乘以偶数可以产生2个0，50中的因数5乘以偶数又可以产生1个0，所以一共有 EMBED Equation.DSMT4  个0．
+【答案】14个连续的0
+
+把若干个自然数1、2、3、……连乘到一起，如果已知这个乘积的最末十三位恰好都是零，那么最后出现的自然数最小应该是多少？
+【考点】整除之2、5系列   【难度】4星   【题型】解答
+乘积末尾的零的个数是由乘数中因数2和5的个数决定的，有一对2和5乘积末尾就有一个零．由于相邻两个自然数中必定有一个是2的倍数，而相邻5个数中才有一个5的倍数，所以我们只要观察因数5的个数就可以了． EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，……，发现只有25、50、75、100、……这样的数中才会出现多个因数5，乘到55时共出现 EMBED Equation.DSMT4  个因数5，所以至少应当写到55。
+【答案】55
+
+11个连续两位数的乘积能被343整除，且乘积的末4位都是0，那么这11个数的平均数是多少？
+【考点】整除之2、5系列   【难度】4星   【题型】解答
+因为 EMBED Equation.DSMT4  ，由于在11个连续的两位数中，至多只能有2个数是7的倍数，所以其中有一个必须是49的倍数，那就只能是49或98．又因为乘积的末4位都是0，所以这连续的11个自然数至少应该含有4个因数5．连续的11个自然数中至多只能有3个是5的倍数，至多只能有1个是25的倍数，所以其中有一个必须是25的倍数，那么就只能是25、50或75．所以这11个数中应同时有49和50，且除50外还有两个是5的倍数，只能是40，41，42，43，44，45，46，47，48，49，50，它们的平均数即为它们的中间项45．
+【答案】45
+
+ EMBED Equation.DSMT4  的结果除以 EMBED Equation.DSMT4  ，所得到的商再除以 EMBED Equation.DSMT4  ……重复这样的操作，在第____次除以 EMBED Equation.DSMT4  时，首次出现余数.
+【考点】整除之2、5系列    【难度】5星   【题型】填空
+【关键词】学而思杯，5年级，第7题
+本题其实为求原式结果末尾有多少个连续的 EMBED Equation.DSMT4  .0由5和2相乘得到，最关键在于有多少个5.
+能整除1次5的数有205，210，215，220，230，235，240，245，255，260，265，270，280，285，290，295共16个，会乘出16个连续的0；
+能整除2次5的数有225，275，300共三个，会乘出6个连续的0；
+能整除3次5的数有250，会乘出3个连续的0。
+所以共有 EMBED Equation.DSMT4  个连续的0，则能整除25次10，第26次首次出现余数。
+【答案】 EMBED Equation.DSMT4  次
+
+用1～9这九个数字组成三个三位数(每个数字都要用)，每个数都是4的倍数。这三个三位数中最小的一个最大是    。
+【考点】整除之2、5系列    【难度】4星   【题型】填空
+【关键词】走美杯，决赛，5年级，决赛，第8题，10分
+三个数都是4的倍数，个位必然都是偶数。当个位是2或6时，十位是奇数，当个位是4或8时，十位是偶数。因为1～9中只有4个偶数，所以三个数中有两个的个位分别是2和6，另一个的后两位是84或48。因为三个数的百位都是奇数，所以最小的三位数的百位最大是5，(另两个分别是9和7)。9已被百位占用，十位最大的是8，所以三个三位数中最小的一个最大是584。
+注：另两个三位数可以是912，736或932，716或916，732或936，712。
+【答案】 EMBED Equation.DSMT4  
+
+若 EMBED Equation.DSMT4  ，试问 EMBED Equation.DSMT4  能否被8整除?请说明理由． 
+【考点】整除之2、5系列   【难度】4星   【题型】解答
+略
+【答案】由能被8整除的特征知，只要后三位数能被8整除即可.  EMBED Equation.DSMT4  ，有
+ EMBED Equation.DSMT4  能被8整除，而 EMBED Equation.DSMT4  也能被8整除，所以 EMBED Equation.DSMT4  能被8整除.
+
+模块二、3、9、99系列
+
+在方框中填上两个数字，可以相同也可以不同，使4 EMBED Equation.DSMT4  32 EMBED Equation.DSMT4  是9的倍数. 请随便填出一种，并检查自己填的是否正确。
+【考点】整除之3、9、99系列   【难度】1星   【题型】填空
+一个数是9的倍数，那么它的数字和就应该是9的倍数，即4 EMBED Equation.DSMT4  □ EMBED Equation.DSMT4  3 EMBED Equation.DSMT4  2 EMBED Equation.DSMT4  □是9的倍数，而4 EMBED Equation.DSMT4  3 EMBED Equation.DSMT4  2 EMBED Equation.DSMT4  9, 所以只需要两个方框中的数的和是9的倍数．依次填入3、6，因为4 EMBED Equation.DSMT4  3 EMBED Equation.DSMT4  3 EMBED Equation.DSMT4  2 EMBED Equation.DSMT4  6 EMBED Equation.DSMT4  18是9的倍数，所以43326是9的倍数。
+【答案】43326（答案不唯一）
+
+若9位数2008 EMBED Equation.DSMT4  2008能够被3整除，则 EMBED Equation.DSMT4  里的数是__________
+【考点】整除之3、9、99系列   【难度】1星   【题型】填空
+【关键词】希望杯，4年级，初赛，2题
+根据题目知:20+ EMBED Equation.DSMT4  是3的倍数,所以 EMBED Equation.DSMT4  里填1或4或7.
+【答案】 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  
+
+一个六位数 EMBED Equation.DSMT4  被3除余l，被9除余4，这个数最小是    。
+【考点】整除之3、9、99系列    【难度】2星   【题型】填空
+【关键词】走美杯，4年级，决赛，第2题，8分
+被9除余4的数被3除必余1，所以只需考虑被9除余4这个条件。这个数各个数位上的数字之和除以9应余4。所以框里面最小是04，六位数为：204727.
+【答案】 EMBED Equation.DSMT4  
+
+连续写出从1开始的自然数，写到2008时停止，得到一个多位数：1234567891011……20072008，请说明：这个多位数除以3，得到的余数是几？为什么？
+【考点】整除之3、9、99系列    【难度】2星   【题型】填空
+【关键词】希望杯，四年级，复赛，第15题
+因为连续 EMBED Equation.DSMT4  个自然数可以被 EMBED Equation.DSMT4  整除，而且最后一个自然数都是 EMBED Equation.DSMT4  的倍数，因为 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的倍数，所以 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的倍数，又因为
+ EMBED Equation.DSMT4   ，所以
+ EMBED Equation.DSMT4  除以 EMBED Equation.DSMT4  ，得到的余数是 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+试说明一个两位数，如果将个位数字和十位数字对调后得到一个新的两位数，则新数与原数的差一定能被9整除. 
+【考点】整除之3、9、99系列   【难度】2星   【题型】解答
+略
+【答案】设原来的两位数为 EMBED Equation.DSMT4  ，则新的两位数为 EMBED Equation.DSMT4  .  EMBED Equation.DSMT4  － EMBED Equation.DSMT4   EMBED Equation.DSMT4  .因为 EMBED Equation.DSMT4  能被9整除，所以它们的差能被9整除.
+
+1234567891011121314…20082009除以9，商的个位数字是_________ 。
+【考点】整除之3、9、99系列   【难度】3星   【题型】填空
+【关键词】走美杯，初赛，六年级，第5题
+首先看这个多位数是否能为9整除，如果不能，它除以9的余数为多少。由于任意连续的9个自然数的和能被9整除，所以它们的各位数字之和能被9整除，那么把这9个数连起来写，所得到的数也能被9整除。由于 EMBED Equation.DSMT4  ，所以1234567891011121314…20082009这个数除以9的余数等于20082009（或者12）除以9的余数，为3.那么1234567891011121314…20082009除以9的商，等于这个数减去3后除以9的商，即1234567891011121314…20082006除以9的商，那么很容易判断商的个位数字为4。
+【答案】 EMBED Equation.DSMT4  
+
+证明 EMBED Equation.DSMT4  能被6整除，那么 EMBED Equation.DSMT4  也能被6整除． 
+【考点】整除之3、9、99系列   【难度】3星   【题型】解答
+略
+【答案】∵ EMBED Equation.DSMT4  
+∴2| EMBED Equation.DSMT4  
+∴2|e
+∴6|3e
+∵3| EMBED Equation.DSMT4  
+∴3|a+b+c+d+e
+∴6|2(a+b+c+d+e)
+∴6|2(a+b+c+d+e)-3e
+∴6|2（a+b+c+d）-e
+
+试说明一个5位数，原序数与反序数的差一定是99的倍数(如：12367为原序数，那么它对应的反序数为76321，它们的差 EMBED Equation.DSMT4  是99的倍数．
+【考点】整除之3、9、99系列   【难度】4星   【题型】解答
+略
+【答案】设原序数为 EMBED Equation.DSMT4  ，则反序数为 EMBED Equation.DSMT4  ，则
+ EMBED Equation.DSMT4  － EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   因为等式的右边能被99整除，所以 EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  能被99整除
+
+1至9这9个数字，按图所示的次序排成一个圆圈．请你在某两个数字之间剪开，分别按顺时针和逆时针次序形成两个九位数(例如，在1和7之间剪开，得到两个数是 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  )．如果要求剪开后所得到的两个九位数的差能被 EMBED Equation.DSMT4  整除，那么剪开处左右两个数字的乘积是多少?
+
+【考点】整除之3、9、99系列   【难度】4星   【题型】解答
+互为反序的两个九位数的差，一定能被99整除．而 EMBED Equation.DSMT4  ，所以我们只用考察它能否能被4整除．于是只用观察原序数、反序数的末两位数字的差能否被4整除，显然只有当剪开处两个数的奇偶性相同时才有可能．注意图中的具体数字，有(3，4)处、（8，5)处的两个数字奇偶性均不相同，所以一定不满足．而剩下的几个位置奇偶性相同，有可能满足．进一步验证，有(9，3)处剪开的末两位数字之差为 EMBED Equation.DSMT4  ，(4，2)，(2，6)，(6，8)，(5，7)，(7，1)，(1，9)处剪开的末两位数字之差为 EMBED Equation.DSMT4  ． EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．所以从(9，3)，(4，2)，(2，6)，(6，8)，(5，7)，(1，9)处剪开，所得的两个互为反序的九位数的差才是396的倍数．(9，3)，(4，2)，(2，6)，(6，8)，(5，7)，(1，9)处左右两个数的乘积为27，8，12，48，35，9．
+【答案】27，8，12，48，35，9
+
+六位数 EMBED Equation.DSMT4  能被99整除， EMBED Equation.DSMT4  是多少？ 
+【考点】整除之3、9、99系列   【难度】3星   【题型】填空
+方法一：200008被99除商2020余28，所以 EMBED Equation.DSMT4  能被99整除，商72时， EMBED Equation.DSMT4  ，末两位是28，所以 EMBED Equation.DSMT4  为71；
+方法二： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  能被99整除，所以各位数字之和为9的倍数，所以方框中数字的和只能为8或17；又根据数被11整除的性质，方框中两数字的差为6或5，可得 EMBED Equation.DSMT4  是71.
+方法三：根据一个数能被99整除的特点知道： EMBED Equation.DSMT4  是99倍数，所以 EMBED Equation.DSMT4  
+【答案】71
+
+六位 EMBED Equation.DSMT4  能被99整除，这个六位数是    。
+【考点】整除之3、9、99系列    【难度】3星   【题型】填空
+【关键词】走美杯，决赛，5年级，决赛，第3题，10分
+令整个六位数为 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  必然是99的倍数，所以a=5,b=7。则这个六位数为520047。
+【答案】 EMBED Equation.DSMT4  
+
+六位数 EMBED Equation.DSMT4  能被99整除，它的最后两位数是            。
+【考点】整除之3、9、99系列    【难度】3星   【题型】填空
+【关键词】希望杯，五年级，复赛，第3题，4分
+试除法200399÷99=2024 EMBED Equation.DSMT4  23，所以最后两位是99-23=76。
+【答案】 EMBED Equation.DSMT4  
+
+已知九位数 EMBED Equation.DSMT4  既是9的倍数，又是11的倍数；那么，这个九位数是多少？ 
+【考点】整除之3、9、99系列   【难度】3星   【题型】填空
+【关键词】2008年，迎春杯，六年级，初赛，试题
+方法一：设原数 EMBED Equation.DSMT4  ，∵ EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4  或者 EMBED Equation.DSMT4  ，∵ EMBED Equation.DSMT4    EMBED Equation.DSMT4   EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4   ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  或者( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  或者 EMBED Equation.DSMT4  根据两数和差同奇偶，得： EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4  或者 EMBED Equation.DSMT4   EMBED Equation.DSMT4    EMBED Equation.DSMT4  不成立.所以， EMBED Equation.DSMT4    EMBED Equation.DSMT4  .
+方法二：根据一个数能被99整除的特点知道若想 EMBED Equation.DSMT4  能被99整除，则 EMBED Equation.DSMT4  必能被99整除，列竖式分析得 EMBED Equation.DSMT4  才满足，所以答案为 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+将自然数1，2，3，4……依次写下去，若最终写到2000，成为 EMBED Equation.DSMT4  ，那么这个自然数除以99余几？
+【考点】整除之3、9、99系列   【难度】3星   【题型】解答
+由于 EMBED Equation.DSMT4  ，可以分别求这个数除以9和11的余数，进而求出它除以99的余数．实际上求得这个数除以9和11的余数均为3，所以这个数减去3后是9和11的倍数，那么也是99的倍数，所以这个数除以99的余数为3．
+下面介绍另一种解法．
+由于 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  除以99的余数等于 EMBED Equation.DSMT4  除以99的余数．同样， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ……等数除以99的余数等于 EMBED Equation.DSMT4  除以99的余数．可知，一个自然数 EMBED Equation.DSMT4  ，如果在它后面加上偶数个0，那么这个数除以99的余数等于 EMBED Equation.DSMT4  除以99的余数．根据这一点，可以把 EMBED Equation.DSMT4  分成若干个后面带有偶数个0的数之和．由于 EMBED Equation.DSMT4  的位数是奇数，那么对于组成 EMBED Equation.DSMT4  的一位数1，2，3，……，9，可以分成 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ；对于其中的两位数10，11，12，……，98，99，可以分成 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，……， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ；对于其中的三位数100，101，102，103，……，998，999，两两一组，可以分成 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，……， EMBED Equation.DSMT4  ；对于其中的四位数1000，1001，……，1999，2000，可以分成 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，……， EMBED Equation.DSMT4  ，2000．那么上面分成的所有数中，虽然每个数后面的0的个数互不相同，但都是偶数个，且它们的和恰好为 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  除以99的余数就等于分成的这些数除以99的余数的和．由于这些数除以99的余数分别为1，23，45，67，89；10，11，12，……，98，99；100101，102103，104105，……，998999；1000，1001，……，1999，2000，而其中100101，102103，104105，……，998999是公差为2002的等差数列，共450项，可知所有这些余数的和为：
+ EMBED Equation.DSMT4      EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  ，
+而248804130除以99的余数等于 EMBED Equation.DSMT4  除以99的余数，为3．所以 EMBED Equation.DSMT4   除以99的余数为3．
+【答案】3 EMBED Equation.DSMT4  
+
+一个五位数恰好等于它各位数字和的2007倍，则这个五位数是          ．
+【考点】整除之3、9、99系列   【难度】4星   【题型】填空
+【关键词】迎春杯，五年级,初赛，第6题
+因为2007是9的倍数，所以，这个五位数一定是9的倍数，那么它的各位数字和一定是9的倍数．由于五位数的各位数字之和最大为45，所以，可以从9、18、27、36、45进行试值．
+如果数字和为9，那么这个五位数为 EMBED Equation.DSMT4  ，然而18063各位数字之和不为9，所以此时不成立；
+如果数字和为18，那么这个五位数为 EMBED Equation.DSMT4  ，36126各位数字之和为18，所以此时成立；
+如果数字和为27，那么这个五位数为 EMBED Equation.DSMT4  ，54189各位数字之和为27，所以此时成立；
+如果数字和为36，那么这个五位数为 EMBED Equation.DSMT4  ，然而72252各位数字之和不为36，所以此时不成立；如果数字和为45，那么这个五位数为 EMBED Equation.DSMT4  ，然而90315各位数字之和不为45，所以此时不成立；综上可知，这个五位数为36126或54189．
+【答案】36126或54189
+
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  等首位是 EMBED Equation.DSMT4  ，个位是 EMBED Equation.DSMT4  ，中间数字全部是 EMBED Equation.DSMT4  的数字中，能被 EMBED Equation.DSMT4  整除而不被 EMBED Equation.DSMT4  整除的最小数是        。
+【考点】整除之3、9、99系列    【难度】4星   【题型】填空
+【关键词】走美杯，4年级，决赛，第6题，10分
+ EMBED Equation.DSMT4  ，也就是要求出 EMBED Equation.DSMT4  能被 EMBED Equation.DSMT4  整除但不能被 EMBED Equation.DSMT4  整除的最小数是多少，该数的各位数字之和为 EMBED Equation.DSMT4  ，当 EMBED Equation.DSMT4  时，满足条件，也就是最小数是 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+一个收银员下班前查账时发现：现金比账面记录少了153元，她知道实际收钱不会错，只能是记账时有一个数点错了小数点，那么记错的那笔帐实际收到的现金是__________元。
+【考点】整除之3、9、99系列    【难度】4星   【题型】填空
+【关键词】希望杯，六年级，初赛，第18题，6分
+说明账面比现金小数点右移了，若右移1位，则增加9位，恰好 EMBED Equation.DSMT4  ，若右移了2位，则增加99倍，但 EMBED Equation.DSMT4  不是 EMBED Equation.DSMT4  的倍数，所以现金17元。
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+5-2-1.数的整除之四大判断法综合运用（一）.题库	                     教师版                  page  PAGE 7 of  NUMPAGES 7
+
+
+
+5-2-1.数的整除之四大判断法
+综合运用（一）
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

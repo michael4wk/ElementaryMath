@@ -1,0 +1,332 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE  \* MERGEFORMAT 
+100以内的自然数中。所有是3的倍数的数的平均数是        。
+【考点】等差数列应用题   【难度】1星   【题型】填空
+【关键词】希望杯，五年级，复赛，第3题，5分
+100以内的自然数中是3的倍数的数有0， EMBED Equation.DSMT4  共33个，他们的和是 EMBED Equation.DSMT4  ，则他们的平均数为1683÷34=49.5。
+【答案】 EMBED Equation.DSMT4  
+
+一群小猴上山摘野果，第一只小猴摘了一个野果，第二只小猴摘了2个野果，第三只小猴摘了3个野果，依次类推，后面的小猴都比它前面的小猴多摘一个野果。最后，每只小猴分得8个野果。这群小猴一共有_________只。
+【考点】等差数列应用题   【难度】2星   【题型】填空
+【关键词】希望杯，四年级，二试，第7题
+平均每只猴分8个野果，所以最后一只猴摘了 EMBED Equation.DSMT4  只果，共有15只猴.
+【答案】 EMBED Equation.DSMT4  只猴子
+
+15位同学排成一队报数，从左边报起思思报10．从右边报起学学报12．那么学学和思思中间排着有      位同学．
+【考点】等差数列应用题   【难度】2星   【题型】填空
+【关键词】学而思杯，1年级
+因为从左边起思思报10，所以，思思的右边还有 EMBED Equation.DSMT4  （个）；又因为从右边起学学报12，所以，学学的左边还有 EMBED Equation.DSMT4  （个）， EMBED Equation.DSMT4  （个）学学和思思中间排着5位同学．
+<考点> 排队问题
+【答案】 EMBED Equation.DSMT4  位
+
+体育课上老师指挥大家排成一排，冬冬站排头，阿奇站排尾，从排头到排尾依次报数。如果冬冬报17，阿奇报150，每位同学报的数都比前一位多7，那么队伍里一共有多少人？ 
+【考点】等差数列应用题           【难度】2星          【题型】解答   
+首项=17，末项=150，公差=7，项数=（150-17）÷7+1=20
+【答案】 EMBED Equation.DSMT4  
+
+一个队列按照每排2，4，6，8人的顺序可以一直排到某一排有100人 ，那么这个队列共有多少人？ 
+【考点】等差数列应用题           【难度】2星          【题型】解答   
+（方法一）利用等差数列求和公式：通过例1的学习可以知道，这个数列一共有50个数，再将和为102的两个数一一配对，可配成25对．
+所以 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+（方法二）根据 EMBED Equation.DSMT4  ，从这个和中减去 EMBED Equation.DSMT4  的和，就可得出此题的结果，这样从“反面求解”的思想可以给学生灌输一下，为今后的学习作铺垫．
+【答案】 EMBED Equation.DSMT4  
+
+有一个很神秘的地方，那里有很多的雕塑，每个雕塑都是由蝴蝶组成的．第一个雕塑有3只蝴蝶，第二个雕塑有5只蝴蝶，第三个雕塑有7只蝴蝶，第四个雕塑有9只蝴蝶，以后的雕塑按照这样的规律一直延伸到很远的地方，学学和思思看不到这排雕塑的尽头在哪里，那么，第102个雕塑是由多少只蝴蝶组成的呢？由999只蝴蝶组成的雕塑是第多少个呢？ 
+【考点】等差数列应用题           【难度】2星          【题型】解答   
+也就是已知一个数列：3、5、7、9、11、13、15、…… ，求这个数列的第102项是多少？999是第几项？由刚刚推导出的公式——第 EMBED Equation.DSMT4  项 EMBED Equation.DSMT4  首项 EMBED Equation.DSMT4  公差 EMBED Equation.DSMT4  ，
+所以，第102项 EMBED Equation.DSMT4  ；由“项数 EMBED Equation.DSMT4  (末项 EMBED Equation.DSMT4  首项) EMBED Equation.DSMT4  公差 EMBED Equation.DSMT4  ”，999所处的项数是：
+         EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+如右图，用同样大小的正三角形，向下逐次拼接出更大的正三角形。其中最小的三角形顶点的个数(重合的顶点只计一次)依次为：3，6，10，15，21，…问：这列数中的第9个是多少？
+
+【考点】等差数列应用题   【难度】2星   【题型】填空
+【关键词】华杯赛，初赛，第6题
+这列数第一项为3，第二项比第一项多3，以后每项比前项多项数加1，所以第9项为3＋3＋4＋5＋6＋…＋10＝1＋2＋3＋4＋5＋6＋…＋10＝55。
+【答案】 EMBED Equation.DSMT4  
+
+有一堆粗细均匀的圆木，堆成梯形，最上面的一层有5根圆木，每向下一层增加一根，一共堆了28层．问最下面一层有多少根?  
+【考点】等差数列应用题           【难度】2星          【题型】解答   
+将每层圆木根数写出来，依次是：5，6，7，8，9，10，…可以看出，这是一个等差数列，它的首项是5，公差是1，项数是28．求的是第28项．我们可以用通项公式直接计算．
+解：     EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  (根)
+故最下面的一层有32根．
+【答案】 EMBED Equation.DSMT4  
+
+建筑工地有一批砖，码成如右图形状，最上层两块砖，第2层6块砖，第3层10块砖…，依次每层都比其上面一层多4块砖，已知最下层2106块砖，问中间一层多少块砖？这堆砖共有多少块？ 
+
+【考点】等差数列应用题           【难度】2星          【题型】解答   
+项数=（2106-2）÷4+1=527，因此，层数为奇数，中间项为（2+2106）÷2=1054，数列和=中间项×项数=1054×527=555458，所以中间一层有1054块砖，这堆砖共有555458块。
+【答案】 EMBED Equation.DSMT4  
+
+一个建筑工地旁，堆着一些钢管（如图），聪明的小朋友，你能算出这堆钢管一共有多少根吗？ 
+
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+ (方法一）不难发现，这堆钢管每一层都比上一层多1根，也就是从上到下每层钢管的数量构成了一个等差数列，而且首项为3，末项为10，项数为8．由等差数列求和公式可以求出这堆钢管的总数量： EMBED Equation.DSMT4  （根）
+（方法二）我们可以这样假想：通过对几何图形进行旋转，从而达到配对的目的是解决问题的关键（如图）
+
+这个槽内的钢管共有8层，每层都有 EMBED Equation.DSMT4  （根），所以槽内钢管的总数为： EMBED Equation.DSMT4   （根）．取它的一半，可知例题图中的钢管总数为： EMBED Equation.DSMT4  （根）
+【答案】 EMBED Equation.DSMT4  
+
+某剧院有20排座位，后一排都比前一排多2个座位，最后一排有70个座位，这个剧院一共有多少个座位？
+【考点】等差数列应用题           【难度】2星          【题型】解答   
+第一排座位数： EMBED Equation.DSMT4  （个），一共有座位： EMBED Equation.DSMT4  （个）．
+【答案】 EMBED Equation.DSMT4  
+
+一个大剧院，座位排列成的形状像是一个梯形，而且第一排有10个座位，第二排有12个座位，第三排有14个座位，……最后一排他们数了一下，一共有210个座位，思考一下，剧院中间一排有多少个座位呢？这个剧院一共有多少个座位呢? 
+【考点】等差数列应用题           【难度】2星          【题型】解答   
+如果我们把每排的座位数依次记下来，10、12、14、16、… 容易知道，是一个等差数列．210是第 EMBED Equation.DSMT4  排，中间一排就是第 EMBED Equation.DSMT4  排，那么中间一排有： EMBED Equation.DSMT4  （个）座位．根据刚刚学过的中项定理，这个剧场一共有： EMBED Equation.DSMT4  （块）．
+【答案】 EMBED Equation.DSMT4  
+
+有码放整齐的一堆球，从上往下看如右图，这堆球共有多少个？
+
+【考点】等差数列应用题   【难度】5星   【题型】填空
+【关键词】华杯赛，初赛，第10题
+从图中可以看出，除去最上层1个球外，第二层（次上层）有（1＋2＋3＋4＋5）＝15个球，以后每层比上一层多6、7、8、9、10个球，共7层.15＋6＝21，21＋7＝28，28＋8＝36，36＋9＝45，45＋10＝55，1＋15＋21＋28＋36＋45＋55＝201。 答：共有201个球。
+【答案】 EMBED Equation.DSMT4  个球
+
+某年4月所有星期六的日期数之和是54，这年4月的第一个星期六的日期数是          。
+【考点】 等差数列应用题  【难度】2星   【题型】填空
+【关键词】希望杯，五年级，二试，第14题
+4x+(+7) +(+14) +(+21)=54，x=3
+【答案】 EMBED Equation.DSMT4  
+
+一辆双层公共汽车有66个座位，空车出发，第一站上一位乘客，第二站上两位乘客，第三站上三位乘客，依此类推，第几站后，车上坐满乘客？ 
+【考点】等差数列应用题           【难度】2星          【题型】解答   
+通过尝试可得： EMBED Equation.DSMT4  ，即第11站后，车上坐满乘客．记住自然数 EMBED Equation.DSMT4  的和对于解一些应用题很有帮助，需要尝试求解时能够较快找到大概的数．
+【答案】 EMBED Equation.DSMT4  
+时钟在每个整点敲打，敲打的次数等于该钟点数，每半点钟敲一下．问：时钟一昼夜打多少下？ 
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+时钟每个白天敲打的次数是每个整点敲打次数的和加上12个半点敲打的一下，即：
+ EMBED Equation.DSMT4  （下），
+所以一昼夜时钟一共敲打： EMBED Equation.DSMT4  （下）．
+【答案】 EMBED Equation.DSMT4  
+
+已知： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两个数中，较大的数比较小的数大多少？ 
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+（方法一）计算： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  比 EMBED Equation.DSMT4  大，大 EMBED Equation.DSMT4  ．
+        （方法二）通过观察， EMBED Equation.DSMT4  中的加数从第二个数起依次比 EMBED Equation.DSMT4  中的加数大1，所以 EMBED Equation.DSMT4  比 EMBED Equation.DSMT4  大，
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+小明进行加法珠算练习，用 EMBED Equation.DSMT4  ，当加到某个数时，和是1000．在验算时发现重复加了一个数，这个数是多少？ 
+【考点】等差数列应用题           【难度】2星          【题型】解答  
+【关键词】迎春杯 
+通过尝试可以得到 EMBED Equation.DSMT4  ．于是，重复计算的数是 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+编号为 EMBED Equation.DSMT4  的9个盒子里共放有351粒糖，已知每个盒子都比前一个盒子里多同样数量的糖．如果1号盒子里放11粒糖，那么后面的盒子比它前一个盒子里多放几粒糖？ 
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+根据题意，灵活运用有关等差数列的求和公式进行分析与解答．
+由等差数列求和公式“和 EMBED Equation.DSMT4  首项 EMBED Equation.DSMT4  末项 EMBED Equation.DSMT4  项数 EMBED Equation.DSMT4  ”，可得：末项 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  项数 EMBED Equation.DSMT4  首项．
+则第9个盒子中糖果的粒数为： EMBED Equation.DSMT4  （粒）
+题目所求即公差 EMBED Equation.DSMT4  （粒），则后面盒子比前一个盒子多放7粒糖．
+【答案】 EMBED Equation.DSMT4  
+
+例题中已知如果改为3号盒子里放了23粒糖呢？ 
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+等差数列有个规律：首项 EMBED Equation.DSMT4  末项 EMBED Equation.DSMT4  第2项 EMBED Equation.DSMT4  倒数第2项 EMBED Equation.DSMT4  第3项 EMBED Equation.DSMT4  倒数第3项 EMBED Equation.DSMT4  ，所以我们可以得到等差数列求和公式的一个变形，假设等差数列有n项，则和 EMBED Equation.DSMT4  第 EMBED Equation.DSMT4  项 EMBED Equation.DSMT4  第 EMBED Equation.DSMT4  项 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，则倒数第3个盒子即第 EMBED Equation.DSMT4  个盒子中糖果的粒数为： EMBED Equation.DSMT4  （粒）
+题目所求即公差 EMBED Equation.DSMT4  （粒），则后面盒子比前一个盒子多放8粒糖．
+【答案】 EMBED Equation.DSMT4  
+
+小王和小高同时开始工作。小王第一个月得到1000元工资，以后每月多得60元；小高第一个月得到500元工资，以后每月多得45元。两人工作一年后，所得的工资总数相差多少元？ 
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+小王：1000+60×（12-1）=1660，（1000+1660）×12÷2=15960
+小高：500+45×（12-1）=995，（500+995）×12÷2=8970，15960-8970=6990
+即一年后两人所得工资总数相差6990元。
+【答案】 EMBED Equation.DSMT4  
+
+王芳大学毕业找工作。她找了两家公司，都要求签工作五年的合同，年薪开始都是一万元，但两个公司加薪的方式不同。甲公司承诺每年加薪1000元，乙公司答应每半年加薪300元。以五年计算，王芳应聘           公司工作收入更高。
+【考点】等差数列应用题           【难度】3星          【题型】解答
+【关键词】走美杯，3年级，决赛  
+甲公司五年之内王芳得到的收入为： EMBED Equation.DSMT4  (元)． 乙公司五年之内王芳得到的收入为： EMBED Equation.DSMT4    EMBED Equation.DSMT4  (元)．所以，王芳应聘乙公司工作收入更高．
+【答案】 EMBED Equation.DSMT4  
+
+在一次数学竞赛中，获得一等奖的八名同学的分数恰好构成等差数列，总分为656，且第一名的分数超过了90分（满分为100分）。已知同学们的分数都是整数，那么第三名的分数是多少？ 
+【考点】等差数列应用题           【难度】2星          【题型】解答   
+他们的平均分为656÷8=82
+82+1、82+2、82+3……都有可能成为第四名，相对应的，公差分别为1×2=2、2×2=4、3×2=6……
+若第四名为82+1=83分，则第一名为83+（4-1）×2=89分，不符合题意，舍；
+若第四名为82+2=84分，则第一名为84+（4-1）×4=96分，不符合题意；
+若第四名为82+3=85分，则第一名为85+（4-1）×6=103分，不符合题意。
+因此，第四名为84分，公差为4，所以第三名为84+4=88分
+【答案】 EMBED Equation.DSMT4  
+
+若干个同样的盒子排成一排，小明把50多个同样的棋子分装在盒中，其中只有一个盒子没有装棋子，然后他外出了，小光从每个有棋子的盒子里各拿了一个棋子放在空盒内，再把盒子重新排了一下，小明回来后仔细查看了一下，没有发现有人动过这些盒子和棋子．共有多少个盒子？
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+这道看似蹊跷的题想要求出共有多少个盒子，必须先弄清楚小明盒子中的棋子是怎样放的．
+我们设除了空盒子以外一共有n个盒子．小明回来查看时，原来那个空盒子现在不空了，但是小明却没有发现有人动过这些盒子和棋子，那么一定是有另一个盒子现在变成了空盒子．这样，原来小明放置棋子时必有一个盒子只装着一个棋子．
+原来只装着一个棋子的盒子变成了空盒子以后，还需要一个盒子装一个棋子来代替它，那么这个代替它的盒子原来一定只装着2个棋子，依此类推，可以推断出小明所放的棋子依次是0，1，2，3， EMBED Equation.DSMT4  ，n．
+根据这个等差数列的和等于50多，通过尝试求出当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  
+满足题意，其余均不满足．这样，只能是 EMBED Equation.DSMT4  ，即共有11个盒子．
+【答案】 EMBED Equation.DSMT4  
+
+某工厂12月份工作忙，星期日不休息，而且从第一天开始，每天都从总厂陆续派相同人数的工人到分厂工作，直到月底，总厂还剩工人250人．如果月底统计总厂工人的工作量是9455个工作日（1人工作1天为1个工作日），且无1人缺勤．那么这月由总厂派到分厂工作的工人共有多少人．
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+【关键词】迎春杯，决赛
+260人工作31天，工作量是 EMBED Equation.DSMT4  （个）工作日．假设每天从总厂派到分厂a个工人，
+第一天派去分厂的a个工人在总厂的工作量为0个工作日；
+第二天派去分厂的a个工人在总厂的工作量为a个工作日；
+第三天派去分厂的a个工人在总厂的工作量为2a个工作日；
+……
+第31天派去分厂的a个工人在总厂的工作量为30a个工作日．
+从而有： EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+求得 EMBED Equation.DSMT4  ．那么这月由总厂派到分厂工作的工人共有 EMBED Equation.DSMT4  （人）．
+【答案】 EMBED Equation.DSMT4  
+右图中，每个最小的等边三角形的面积是12平方厘米，边长是1根火柴棍．如果最大的三角形共有8层，问：⑴最大三角形的面积是多少平方厘米？⑵整个图形由多少根火柴棍摆成？
+
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+最大三角形共有8层，从上往下摆时，每层的小三角形数目及所用火柴数目如下表：
+层12345678小三角形数13579111315火柴数3691215182124　　    由上表看出，各层的小三角形数成等差数列，各层的火柴数也成等差数列．
+⑴ 最大三角形面积为： EMBED Equation.DSMT4  (平方厘米)．
+⑵ 火柴棍的数目为： EMBED Equation.DSMT4  (根)．
+【答案】⑴ EMBED Equation.DSMT4                  ⑵ EMBED Equation.DSMT4  
+
+如右图，25个同样大小的等边三角形拼成了大等边三角形，在图中每个结点处都标上一个数，使得图中每条直线上所标的数都顺次成等差数列．已知在大等边三角形的三个顶点放置的数分别是100，200，300．求所有结点上数的总和．
+
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+【关键词】走美杯
+如下图，各结点上放置的数如图所示．从100到300这条直线上的各数的平均数是200，平行于这条直线的每条直线上的各数的平均数都是200．所以21个数的平均数是200，总和为 EMBED Equation.DSMT4  ．
+
+【答案】 EMBED Equation.DSMT4  
+
+用3根等长的火柴棍摆成一个等边三角形，用这样的等边三角形，按图所示铺满一个大的等边三角形，如果这个大的等边三角形的底边放10根火柴，那么一共要放多少根火柴？
+
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+如果把图中最上端的一个三角形看作第一层，与第一层紧相连的三个三角形(向上的三角形2个，向下的三角形1个)看作第二层，那么这个图中一共有10层三角形．
+
+这10层三角形每层所需火柴数就是构成上图中所有阴影三角形的边数和．自上而下依次为：3，6，9，……， EMBED Equation.DSMT4  ．它们成等差数列，而且首项为3，公差为3，项数为10．
+求火柴的总根数，就是求这个等差数列各项的和，即
+ EMBED Equation.DSMT4  (根)
+所以，一共要放165根火柴
+【答案】 EMBED Equation.DSMT4  
+
+盒子里放有编号1～9的九个球，小红先后三次从盒子中取球，每次取3个，如果从第二次起每次取出的球的编号的和都比上一次的多9，那么他第一次取的三个球的编号为_____．
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+【关键词】走美杯，3年级，初赛
+根据题意知道这九个小球的编号和为： EMBED Equation.DSMT4  ，若想每次去球都比上一次的多9，则从数论角度来看本题就是将45拆三个数字和，并且三个数字和的公差为9，所以第一次取球为 EMBED Equation.DSMT4  ，所以第一次去的3个求的编号为：1、2、3.
+【答案】1、2、3.
+
+小明练习打算盘，他按照自然数的顺序从1开始求和，当加到某一个数的时候，和是1997，但他发现计算时少加了一个数，试问：小明少加了哪个数？
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+用 EMBED Equation.DSMT4  表示小明少加的那个数， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，两个相邻的自然数的积比3994大一些，因为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  比较接近，可以先找3994附近的平方数，最明显的要数 EMBED Equation.DSMT4  ，而后试算两个相邻自然数的乘积 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，正确的和是2016，少加的数为: EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+黑板上写有从1开始的一些连续奇数：
+           1，3，5，7，9，…， 擦去其中一个奇数以后，剩下的所有奇数的和是2008，那么擦去的奇数是      ．
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+【关键词】走美杯
+1，3，5，7， EMBED Equation.DSMT4  ，( EMBED Equation.DSMT4  )，这 EMBED Equation.DSMT4  个奇数之和等于 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，擦去的奇数是 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+小明住在一条胡同里．一天，他算了算这条小胡同的门牌号码．他发现，除掉他自己家的不算，其余各门牌号码之和正好是100．请问这条小胡同一共有多少户(即有多少个门牌号码)？小明家的门牌号码是多少？
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+这道题目的具体数值只有一个，所以我们要通过估算的方法解决问题！我们都知道： EMBED Equation.DSMT4  ，所以和在100附近的应该为1～14、或1～15，
+⑴ EMBED Equation.DSMT4  ，小明家门牌号为5，共有14户人家；
+⑵ EMBED Equation.DSMT4  ，小明家门牌号为20，不再1～15的范围，所以不符合题意．
+【答案】共有14户人家；门牌号为5
+
+在51个连续的奇数1，3，5， EMBED Equation.DSMT4  ，101中选取k个数，使得它们的和为1949，那么k的最大值是多少？
+【考点】等差数列应用题   【难度】3星   【题型】填空
+【关键词】华杯赛，决赛，第二大题，第4题，10分
+显然，选的数越小，可以使选出的数的个数越多。
+首先考虑从45个连续的奇数1，3，5，7，…，99中选出n个数，使它们的和不超过1949。
+由 EMBED Equation.DSMT4  得 EMBED Equation.DSMT4  ≤1949。
+因为 EMBED Equation.DSMT4  ＞1949，且45个奇数的和不小于 EMBED Equation.DSMT4  ＞1949，所以 EMBED Equation.DSMT4  ≤44。
+若选取44个奇数，因为偶数个奇数的和为偶数，而1949为奇数，所以不可能选取44个奇数，
+使得它们的和为1949。所以 EMBED Equation.DSMT4  ≤43。
+因为 EMBED Equation.DSMT4  ＜1949，2025－1949＝76，且76是偶数，
+所以至少从1，3，5，…，89中删除两个奇数，并使它们的和为76。
+如，去掉1，3，5，…，89中的两个奇数37和39，即选1，3，…，35，41，…，87，89。
+易验证 EMBED Equation.DSMT4  。
+所以n的最大值为43。
+【答案】 EMBED Equation.DSMT4  
+
+小丸子玩投放石子游戏，从 EMBED Equation.DSMT4  出发走1米放1枚石子，第二次走4米又放3枚石子，第三次走7米再放5枚石子，再走10米放7枚石子， EMBED Equation.DSMT4  照此规律最后走到 EMBED Equation.DSMT4  处放下35枚石子．问从 EMBED Equation.DSMT4  到 EMBED Equation.DSMT4  路程有多远？
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+先计算投放了多少次．由题意依次投放石子数构成的数列是：1，3，5，7， EMBED Equation.DSMT4  ，35．这是一个等差数列，其中首项 EMBED Equation.DSMT4  ，公差 EMBED Equation.DSMT4  ，末项 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  ；再看投放石子每次走的路程依次组成的数列：1，4，7，10，这又是一个等差数列，其中首项 EMBED Equation.DSMT4  ，公差 EMBED Equation.DSMT4  ，项数 EMBED Equation.DSMT4  ．末项 EMBED Equation.DSMT4  ，其和为 EMBED Equation.DSMT4  (米)．
+【答案】 EMBED Equation.DSMT4  
+
+如图，把边长为1的小正方形叠成“金字塔形”图，其中黑白相间染色．如果最底层有15个正方形，问其中有多少个染白色的正方形，有多少个染黑色的正方形？
+
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+由题意可知，从上到下每层的正方形个数组成等差数列，其中 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，所以，白色方格数是： EMBED Equation.DSMT4  
+　　    黑色方格数是： EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+有若干根长度相等的火柴棒，把这些火柴棒摆成如下图的图形．照这样摆下去，到第 EMBED Equation.DSMT4  行为止一共用了        根火柴棒．
+
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+【关键词】小机灵杯
+横向： EMBED Equation.DSMT4  行： EMBED Equation.DSMT4  根；  EMBED Equation.DSMT4  行： EMBED Equation.DSMT4  根；  EMBED Equation.DSMT4  行： EMBED Equation.DSMT4  根；  EMBED Equation.DSMT4    EMBED Equation.DSMT4  行： EMBED Equation.DSMT4  
+纵向： EMBED Equation.DSMT4  行： EMBED Equation.DSMT4  根；  EMBED Equation.DSMT4  行： EMBED Equation.DSMT4  根；  EMBED Equation.DSMT4  行： EMBED Equation.DSMT4  根；  EMBED Equation.DSMT4    EMBED Equation.DSMT4  行： EMBED Equation.DSMT4  根
+总共有 EMBED Equation.DSMT4     EMBED Equation.DSMT4  （根）．
+【答案】 EMBED Equation.DSMT4  
+
+如图所示，白色和黑色的三角形按顺序排列．当两种三角形的数量相差 EMBED Equation.DSMT4  个时，白色三角形有           个．
+
+【考点】等差数列应用题           【难度】3星          【题型】解答 
+【关键词】中环杯，初赛
+根据题意可知，每个图形两种三角形的个数相差依次成数列 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  排列，所以第 EMBED Equation.DSMT4  个图形的两种三角形的个数相差为 EMBED Equation.DSMT4  ，这个图形的白色三角形的个数是 EMBED Equation.DSMT4  (个)．
+【答案】 EMBED Equation.DSMT4  
+
+木木练习口算，她按照自然数的顺序从1开始求和，当计算到某个数时，和是888，但她重复计算了其中一个数字．问：木木重复计算了哪个数字？
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+用 EMBED Equation.DSMT4  表示木木多加的那个数， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4   ，两个相邻的自然数的积是比1776小一些的一个数，先找1776附近的平方数， EMBED Equation.DSMT4   ，试算： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4   ， EMBED Equation.DSMT4   ，所以 EMBED Equation.DSMT4  ，所以
+ EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+奋斗小学组织六年级同学到百花山进行野营拉练，行程每天增加2千米．已知去时用了4天，回来时用了3天．问：学校距离百花山多少千米？
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+这道题目关键是弄清题意，发现关键是要求出第一天拉练的距离，在这里可以用方程的思想来帮助解题，可以给四年级学生一个方程的初步认识，来回的距离是相同的，通过这点来做方程求解，设第一天拉练的距离是 EMBED Equation.DSMT4  ，则第二天为 EMBED Equation.DSMT4  ，第三天为 EMBED Equation.DSMT4  ，第四天 EMBED Equation.DSMT4  ，第五天的距离为 EMBED Equation.DSMT4  ，第六天的距离为 EMBED Equation.DSMT4  ，第七天的 EMBED Equation.DSMT4  ．且去时和来时的路程一样，则 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，学校距离百花山84千米．
+【答案】 EMBED Equation.DSMT4  
+
+点点读一本故事书，第一天读了30页，从第二天起，每天读的页数都比前一天多4页，最后一天读了70页，刚好读完．那么，这本书一共有多少页？
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+每天看的页数组成等差数列，公差是4，首项是30，末项是70，要求这本书一共多少页，应该先求出点点总共看了多少天．
+天数(项数) EMBED Equation.DSMT4  (末项 EMBED Equation.DSMT4  首项) EMBED Equation.DSMT4  公差 EMBED Equation.DSMT4  
+总页数 EMBED Equation.DSMT4  ，所以，这本书一共有550页．
+【答案】 EMBED Equation.DSMT4  
+
+小明想把55枚棋子放在若干个盒子里，按第一个盒子里放1枚，第2个盒子里放2枚，第3个盒子里放3枚，……，这样下去，最后刚好将棋子放完，那么小明用了多少个盒子呢？
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+根据学学的放法，可知：
+第1个盒子放了1枚棋子；
+第2个盒子放了2枚棋子；
+第3个盒子放了3枚棋子；……
+因此，只要是从自然数加起，加数依次增加1，一直加到某个自然数，它们的和正好是55，那么，这些加数的个数就是盒子数了．我们估算一下结果： EMBED Equation.DSMT4  ，但是15和55相差较大，所以还要增加加数（自然数）的个数 EMBED Equation.DSMT4  ，45与55比较接近了，又因为 EMBED Equation.DSMT4  ，所以， EMBED Equation.DSMT4  ，这个式子说明，55是10个自然数的和，所以需要用10个盒子做游戏．
+【答案】 EMBED Equation.DSMT4  
+
+幼儿园304个小朋友围成若干个圆(一圈套一圈)做游戏，已知内圈24人，最外圈52人，如果相邻两圈相差的人数相等，那么相邻的两圈相差多少人？
+【考点】等差数列应用题           【难度】3星          【题型】解答   
+这一等差数列的和是304，首项24，末项52，先根据公式“和 EMBED Equation.DSMT4  （首项 EMBED Equation.DSMT4  末项） EMBED Equation.DSMT4  项数 EMBED Equation.DSMT4  ”求出项数： EMBED Equation.DSMT4  ．再根据公式“末项 EMBED Equation.DSMT4  首项 EMBED Equation.DSMT4   EMBED Equation.DSMT4  公差”求出公差： EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+1-2-1-3.等差数列的认识与公式运用.题库	                      教师版                               page  PAGE 12 of  NUMPAGES 12
+
+
+
+等差数列应用题
+
+例题精讲
+
+
+

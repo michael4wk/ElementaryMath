@@ -1,0 +1,423 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+能够利用以前学习的知识理清变速变道问题的关键点
+能够利用线段图、算术、方程方法解决变速变道等综合行程题。
+变速变道问题的关键是如何处理“变”
+ SHAPE  \* MERGEFORMAT 
+变速变道问题属于行程中的综合题，用到了比例、分步、分段处理等多种处理问题等解题方法。对于这种分段变速问题，利用算术方法、折线图法和方程方法解题各有特点。
+算术方法对于运动过程的把握非常细致，但必须一步一步来；
+折线图则显得非常直观，每一次相遇点的位置也易于确定；
+方程的优点在于无需考虑得非常仔细，只需要知道变速点就可以列出等量关系式，把大量的推理过程转化成了计算．
+行程问题常用的解题方法有
+⑴公式法
+即根据常用的行程问题的公式进行求解，这种方法看似简单，其实也有很多技巧，使用公式不仅包括公式的原形，也包括公式的各种变形形式；有时条件不是直接给出的，这就需要对公式非常熟悉，可以推知需要的条件；
+⑵图示法
+在一些复杂的行程问题中，为了明确过程，常用示意图作为辅助工具．示意图包括线段图和折线图．图示法即画出行程的大概过程，重点在折返、相遇、追及的地点．另外在多次相遇、追及问题中，画图分析往往也是最有效的解题方法；
+⑶比例法
+行程问题中有很多比例关系，在只知道和差、比例时，用比例法可求得具体数值．更重要的是，在一些较复杂的题目中，有些条件(如路程、速度、时间等)往往是不确定的，在没有具体数值的情况下，只能用比例解题；
+⑷分段法
+在非匀速即分段变速的行程问题中，公式不能直接适用．这时通常把不匀速的运动分为匀速的几段，在每一段中用匀速问题的方法去分析，然后再把结果结合起来；
+⑸方程法
+在关系复杂、条件分散的题目中，直接用公式或比例都很难求解时，设条件关系最多的未知量为未知数，抓住重要的等量关系列方程常常可以顺利求解．
+
+
+
+
+
+
+小红和小强同时从家里出发相向而行。小红每分走 52 米，小强每分走 70 米，二人在途中的 A 处相遇。若小红提前 4 分出发，且速度不变，小强每分走 90 米，则两人仍在 A 处相遇。小红和小强两人的家相距多少米？ 
+
+
+
+
+
+甲、乙两人沿 400 米环形跑道练习跑步，两人同时从跑道的同一地点向相反方向跑去。相遇后甲比原来速度增加 2 米／秒，乙比原来速度减少 2 米／秒，结果都用 24 秒同时回到原地。求甲原来的速度。
+
+
+
+
+A、 B 两地相距 7200 米，甲、乙分别从 A， B 两地同时出发，结果在距 B 地 2400 米处相遇．如果乙的速度提高到原来的 3倍，那么两人可提前10分钟相遇，则甲的速度是每分钟行多少米？
+
+
+
+甲、乙两车分别从 A， B 两地同时出发相向而行，6 小时后相遇在 C 点．如果甲车速度不变，乙车每小时多行 5 千米，且两车还从 A， B 两地同时出发相向而行，则相遇地点距 C 点 12 千米；如果乙车速度不变，甲车速度每小时多行 5 千米，则相遇地点距 C 点 16 千米．甲车原来每小时行多少千米？
+
+
+
+
+
+甲、乙二人分别从 A、B 两地同时出发相向而行，5 小时后相遇在 C 点。如果甲速度不变，乙每小时多行 4 千米，且甲、乙还从 A、B 两地同时出发相向而行，则相遇点 D 距 C 点 lO 千米；如果乙速度不变，甲每小时多行 3 千米，且甲、乙还从 A、B 两地同时出发相向而行，则相遇点 E距 C 点 5 千米。问：甲原来的速度是每小时多少千米？ 
+
+
+
+
+
+
+A、 B 两地间有一座桥(桥的长度忽略不计)，甲、乙二人分别从两地同时出发，3 小时后在桥上相遇．如果甲加快速度，每小时多走 2 千米，而乙提前 0.5 小时出发，则仍能恰在桥上相遇．如果甲延迟 0.5 小时出发，乙每小时少走 2 千米，还会在桥上相遇．则 A、 B 两地相距多少千米？
+
+
+
+
+
+
+一列火车出发 1 小时后因故停车 0.5 小时，然后以原速的3/4前进，最终到达目的地晚1.5 小时．若出发 1 小时后又前进 90 公里再因故停车 0.5 小时，然后同样以原速的3/4前进，则到达目的地仅晚1 小时，那么整个路程为多少公里？
+
+
+
+
+
+
+王叔叔开车从北京到上海，从开始出发，车速即比原计划的速度提高了1/9，结果提前一个半小时到达；返回时，按原计划的速度行驶 280 千米后，将车速提高1/6，于是提前1 小时 40 分到达北京．北京、上海两市间的路程是多少千米？
+
+
+
+
+
+甲、乙两人同时从山脚开始爬山，到达山顶后就立即下山，他们两人的下山速度都是各自上山速度的 1.5 倍，而且甲比乙速度快。两人出发后 1 小时，甲与乙在离山顶 600 米处相遇，当乙到达山顶时，甲恰好到半山腰。那么甲回到出发点共用多少小时？ 
+
+
+
+
+
+
+小华以每小时8/3千米的速度登山，走到途中 A点后，他将速度改为每小时 2千米，在接下来的1小时中，他走到山顶，又立即下山，并走到 A点上方 500米的地方．如果他下山的速度是每小时 4千米，下山比上山少用了 52.5分钟．那么，他往返共走了多少千米？
+
+
+
+
+
+甲、乙两车从 A、 B 两地同时出发相向而行，5 小时相遇；如果乙车提前 1 小时出发，则差 13千米到中点时与甲车相遇，如果甲车提前 1 小时出发，则过中点 37 千米后与乙车相遇，那么甲车与乙车的速度差等于多少千米/小时？
+
+
+
+
+
+
+
+甲、乙两名运动员在周长 EMBED Equation.DSMT4  米的环形跑道上进行 EMBED Equation.DSMT4  米长跑比赛，两人从同一起跑线同时起跑，甲每分钟跑 EMBED Equation.DSMT4  米，乙每分钟跑 EMBED Equation.DSMT4  米，当甲比乙领先整整一圈时，两人同时加速，乙的速度比原来快 EMBED Equation.DSMT4  ，甲每分钟比原来多跑 EMBED Equation.DSMT4  米，并且都以这样的速度保持到终点．问：甲、乙两人谁先到达终点？
+
+
+
+
+
+
+环形场地的周长为 EMBED Equation.DSMT4  米，甲、乙两人同时从同一地点出发相背而行(甲速大于乙速)， EMBED Equation.DSMT4  分钟后相遇．如果每人每分钟多走 EMBED Equation.DSMT4  米，则相遇点与前次相差 EMBED Equation.DSMT4  米，求原来二人的速度．
+
+
+
+
+
+
+
+王刚骑自行车从家到学校去，平常只用20分钟。因途中有2千米正在修路，只好推车步行，步行速度只有骑车速度的 EMBED Equation.DSMT4  ，结果这天用了36分钟才到学校。从王刚家到学校有多少千米？
+
+
+
+
+
+
+
+甲、乙两车分别从 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地同时出发，相向而行．出发时，甲，乙的速度之比是 EMBED Equation.DSMT4  ，相遇后甲的速度减少 EMBED Equation.DSMT4  ，乙的速度增加 EMBED Equation.DSMT4  ．这样当甲到达 EMBED Equation.DSMT4  地时，乙离开 EMBED Equation.DSMT4  地还有 EMBED Equation.DSMT4  千米．那么 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地相距多少千米？
+
+
+
+
+
+
+甲、乙往返于相距 EMBED Equation.DSMT4  米的 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  两地．甲先从 EMBED Equation.DSMT4  地出发， EMBED Equation.DSMT4  分钟后乙也从 EMBED Equation.DSMT4  地出发，并在距 EMBED Equation.DSMT4   地 EMBED Equation.DSMT4  米的 EMBED Equation.DSMT4  地追上甲．乙到 EMBED Equation.DSMT4  地后立即原速向 EMBED Equation.DSMT4  地返回，甲到 EMBED Equation.DSMT4  地休息 EMBED Equation.DSMT4  分钟后加快速度向 EMBED Equation.DSMT4  地返回，并在 EMBED Equation.DSMT4  地追上乙．问：甲比乙提前多少分钟回到 EMBED Equation.DSMT4  地？
+
+
+
+
+
+
+一辆大货车与一辆小轿车同时从甲地开往乙地，小轿车到达乙地后立即返回，返回时速度提高 EMBED Equation.DSMT4  。出发2小时后，小轿车与大货车第一次相遇，当大货车到达乙地时，小轿车刚好走到甲、乙两地的中点。小轿车在甲、乙两地往返一次需要多少时间？
+
+
+
+
+甲、乙两地间平路占 EMBED Equation.DSMT4  ，由甲地去往乙地，上山路千米数是下山路千米数的 EMBED Equation.DSMT4  ，一辆汽车从甲地到乙地共行了 EMBED Equation.DSMT4  小时，已知这辆车行上山路的速度比平路慢 EMBED Equation.DSMT4  ，行下山路的速度比平路快 EMBED Equation.DSMT4  ，照这样计算，汽车从乙地回到甲地要行多长时间？
+
+
+
+
+
+
+
+
+甲、乙二人在同一条圆形跑道上作特殊训练：他们同时从同一地出发，沿相反方向跑，每人跑完第一圈到达出发点后立即回头加速跑第二圈，跑第一圈时，乙的速度是甲的速度的 EMBED Equation.DSMT4  ．甲跑第二圈的速度比第一圈提高了 EMBED Equation.DSMT4  ，乙跑第二圈的速度提高了 EMBED Equation.DSMT4  ，已知沿跑道看从甲、乙两人第二次相遇点到第一次相遇点的最短路程是 EMBED Equation.DSMT4  米，问这条跑道长多少米？
+
+
+
+
+
+
+
+
+
+甲、乙两人沿 EMBED Equation.DSMT4  米环形跑道练习跑步，两人同时从跑道的同一地点向相反方向跑去．相遇后甲比原来速度增加 EMBED Equation.DSMT4  米／秒，乙比原来速度减少 EMBED Equation.DSMT4  米／秒，结果都用 EMBED Equation.DSMT4  秒同时回到原地．求甲原来的速度．
+
+
+
+
+
+
+
+
+
+【巩固】从 EMBED Equation.DSMT4  村到 EMBED Equation.DSMT4  村必须经过 EMBED Equation.DSMT4  村，其中 EMBED Equation.DSMT4  村至 EMBED Equation.DSMT4  村为上坡路， EMBED Equation.DSMT4  村至 EMBED Equation.DSMT4  村为下坡路， EMBED Equation.DSMT4  村至 EMBED Equation.DSMT4  村的总路程为 EMBED Equation.DSMT4  千米．某人骑自行车从 EMBED Equation.DSMT4  村到 EMBED Equation.DSMT4  村用了 EMBED Equation.DSMT4  小时，再从 EMBED Equation.DSMT4  村返回 EMBED Equation.DSMT4  村又用了 EMBED Equation.DSMT4  小时 EMBED Equation.DSMT4  分．已知自行车上、下坡时的速度分别保持不变，而且下坡时的速度是上坡时速度的 EMBED Equation.DSMT4  倍．求 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  之间的路程及自行车上坡时的速度．
+
+
+
+
+
+
+欢欢和贝贝是同班同学，并且住在同一栋楼里．早晨 EMBED Equation.DSMT4  ，欢欢从家出发骑车去学校， EMBED Equation.DSMT4  追上了一直匀速步行的贝贝；看到身穿校服的贝贝才想起学校的通知，欢欢立即调头，并将速度提高到原来的 EMBED Equation.DSMT4  倍，回家换好校服，再赶往学校；欢欢 EMBED Equation.DSMT4  赶到学校时，贝贝也恰好到学校．如果欢欢在家换校服用去 EMBED Equation.DSMT4  分钟且调头时间不计，那么贝贝从家里出发时是        点        分．
+
+
+
+
+
+甲、乙两人都要从 EMBED Equation.DSMT4  地到 EMBED Equation.DSMT4  地去，甲骑自行车，乙步行，速度为每分钟60米．乙比甲早出发20分钟，甲在距 EMBED Equation.DSMT4  地1920米的 EMBED Equation.DSMT4  处追上乙，两人继续向前，甲发现自己忘带东西，于是将速度提高到原来的 EMBED Equation.DSMT4  倍，马上返回 EMBED Equation.DSMT4  地去取，并在距离 EMBED Equation.DSMT4  处720米的 EMBED Equation.DSMT4  处遇上乙．甲到达 EMBED Equation.DSMT4  地后在 EMBED Equation.DSMT4  地停留了5分钟，再以停留前的速度骑往 EMBED Equation.DSMT4  地，结果甲、乙两人同时到达 EMBED Equation.DSMT4  地． EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地之间的距离是        米．
+
+
+
+
+
+
+小芳从家到学校有两条一样长的路，一条是平路，另一条是一半上坡路，一半下坡路．小芳上学走这两条路所用的时间一样多．已知下坡的速度是平路的 EMBED Equation.DSMT4  倍，那么上坡的速度是平路速度的多少倍？
+
+
+
+
+
+
+
+赵伯伯为锻炼身体，每天步行3小时，他先走平路，然后上山，最后又沿原路返回。假设赵伯伯在平路上每小时行4千米，上山每小时行3千米，下山每小时行6千米，在每天锻炼中，他共行走多少米？
+
+
+
+
+
+
+
+王老师每天早上晨练，他第一天跑步1000米，散步1600米，共用25分钟；第二天跑步2000米，散步800米，共用20分钟。假设王老师跑步的速度和散步的速度均保持不变。求：(1)王老师跑步的速度； (2)王老师散步800米所用的时间。
+
+
+
+
+
+某校在400米环形跑道上进行1万米比赛，甲、乙两名运动员同时起跑后，乙的速度始终保持不变，开始时甲比乙慢，在第15分钟时甲加快速度，并保持这个速度不变，在第18分钟时甲追上乙并且开始超过乙。在第23分钟时甲再次追上乙，而在23分50秒时甲到达终点。那么，乙跑完全程所用的时间是多少分钟？
+
+
+
+
+甲、乙两人同时同地同向出发，沿环形跑道匀速跑步．如果出发时乙的速度是甲的 EMBED Equation.DSMT4  倍，当乙第一次追上甲时，甲的速度立即提高 EMBED Equation.DSMT4  ，而乙的速度立即减少 EMBED Equation.DSMT4  ，并且乙第一次追上甲的地点与第二次追上甲的地点相距100米，那么这条环形跑道的周长是        米．
+
+
+
+
+
+
+
+如图所示，甲、乙两人从长为 EMBED Equation.DSMT4  米的圆形跑道的 EMBED Equation.DSMT4  点背向出发跑步。跑道右半部分(粗线部分）道路比较泥泞，所以两人的速度都将减慢，在正常的跑道上甲、乙速度均为每秒 EMBED Equation.DSMT4  米，而在泥泞道路上两人的速度均为每秒 EMBED Equation.DSMT4  米。两人一直跑下去，问：他们第99次迎面相遇的地方距 EMBED Equation.DSMT4  点还有        米。
+
+
+
+
+
+
+
+丁丁和乐乐各拿了一辆玩具甲虫在400米跑道上进行比赛，丁丁的玩具甲虫每分钟跑30米，乐乐的玩具甲虫每分钟跑20米，但乐乐带了一个神秘遥控器，按第一次会使丁丁的玩具甲虫以原来速度的 EMBED Equation.DSMT4  倒退1分钟，按第二次会使丁丁的玩具甲虫以原来速度的 EMBED Equation.DSMT4  倒退1分钟，以此类推，按第 EMBED Equation.DSMT4  次，使丁丁的玩具甲虫以原来的速度的 EMBED Equation.DSMT4  倒退1分钟，然后再按原来的速度继续前进，如果乐乐在比赛中最后获胜，他最少按        次遥控器。
+
+
+
+
+
+
+
+
+
+
+唐老鸭和米老鼠进行5000米赛跑．米老鼠的速度是每分钟125米，唐老鸭的速度是每分钟100米．唐老鸭有一种能使米老鼠停止或减速的遥控器，每次使用都能使米老鼠进入“麻痹”状态1分钟，1分钟后米老鼠就会恢复正常，遥控器需要1分钟恢复能量才能再使用．米老鼠对“麻痹”状态也在逐渐适应，第1次进入“麻痹”状态时，米老鼠会完全停止，米老鼠第2次进入“麻痹”状态时，就会有原速度 EMBED Equation.DSMT4  的速度，而第3次就有原速度 EMBED Equation.DSMT4  的速度……，第20次进入“麻痹”状态时已有原速度 EMBED Equation.DSMT4  的速度了，这以后米老鼠就再也不会被唐老鸭的遥控器所控制了．唐老鸭与米老鼠同时出发，如果唐老鸭要保证不败，它最晚要在米老鼠跑了多少米的时候第一次使用遥控器?
+
+
+
+
+
+
+
+
+
+小周开车前往某会议中心，出发20分钟后，因为交通堵塞，中途延误了20分钟，为了按时到达会议中心，小周将车速提高了 EMBED Equation.DSMT4  ，小周从出发时算起到达会议中心共用了多少分钟？
+
+
+
+
+
+
+
+如图，甲、乙分别从 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地同时出发，匀速相向而行，他们的速度之比为 EMBED Equation.DSMT4  ，相遇于 EMBED Equation.DSMT4  地后，甲继续以原来的速度向 EMBED Equation.DSMT4  地前进，而乙则立即调头返回，并且乙的速度比相遇前降低 EMBED Equation.DSMT4  ，这样当乙回到 EMBED Equation.DSMT4  地时，甲恰好到达离 EMBED Equation.DSMT4  地 EMBED Equation.DSMT4  千米的 EMBED Equation.DSMT4  处，那么 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地之间的距离是__________千米。
+
+
+
+
+
+甲、乙两车分别从 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地同时出发相向而行，甲车速度为32千米/时，乙车速度为48千米/时，它们到达 EMBED Equation.DSMT4  地和 EMBED Equation.DSMT4  地后，甲车速度提高 EMBED Equation.DSMT4  ，乙车速度减少 EMBED Equation.DSMT4  ，它们第一次相遇地点与第二次相遇地点相距74千米，那么 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  之间的距离是多少千米？
+
+
+
+
+
+上午8点整，甲从 EMBED Equation.DSMT4  地出发匀速去 EMBED Equation.DSMT4  地，8点20分甲与从 EMBED Equation.DSMT4  地出发匀速去 EMBED Equation.DSMT4  地的乙相遇；相遇后甲将速度提高到原来的3倍，乙速度不变；8点30分，甲、乙两人同时到达各自的目的地．那么，乙从 EMBED Equation.DSMT4  地出发时是8点        分．
+
+
+
+
+
+
+甲、乙往返于相距 EMBED Equation.DSMT4  米的 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  两地．甲先从 EMBED Equation.DSMT4  地出发， EMBED Equation.DSMT4  分钟后乙也从 EMBED Equation.DSMT4  地出发，并在距 EMBED Equation.DSMT4   地 EMBED Equation.DSMT4  米的 EMBED Equation.DSMT4  地追上甲．乙到 EMBED Equation.DSMT4  地后立即原速向 EMBED Equation.DSMT4  地返回，甲到 EMBED Equation.DSMT4  地休息 EMBED Equation.DSMT4  分钟后加快速度向 EMBED Equation.DSMT4  地返回，并在 EMBED Equation.DSMT4  地追上乙．问：甲比乙提前多少分钟回到 EMBED Equation.DSMT4  地？
+
+
+
+
+
+
+汽车从甲地到乙地，先行上坡，后行下坡，共用 EMBED Equation.DSMT4  小时。如果甲、乙两地相距 EMBED Equation.DSMT4  千米，上坡车速为每小时 EMBED Equation.DSMT4  千米，下坡车速为每小时 EMBED Equation.DSMT4  千米，那么原路返回要         小时。
+
+
+
+
+
+
+
+如图所示，有 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  四个游乐景点，在连接它们的三段等长的公路 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  上，汽车行驶的最高时速限制分别是120千米、40千米和60千米。一辆大巴车从 EMBED Equation.DSMT4  景点出发驶向 EMBED Equation.DSMT4  景点，到达 EMBED Equation.DSMT4  点后立刻返回；一辆中巴同时从 EMBED Equation.DSMT4  点出发，驶向 EMBED Equation.DSMT4  点。两车相遇在 EMBED Equation.DSMT4  景点，而当中巴到达 EMBED Equation.DSMT4  点时，大巴又回到了 EMBED Equation.DSMT4  点，已知大巴和中巴在各段公路上均以其所能达到且被允许的速度尽量快地行驶，大巴自身所具有的最高时速大于60千米，中巴在与大巴相遇后自身所具有的最高时速比相遇前提高了 EMBED Equation.DSMT4  ，求大巴客车的最高时速。
+
+
+
+
+从甲市到乙市有一条公路，它分成三段．在第一段上，汽车速度是每小时40千米；在第二段上，汽车速度是每小时90千米；在第三段上，汽车速度是每小时50千米．己知第一段公路的长恰好是第三段的2倍，现有两汽车分别从甲、乙两市同时出发，相向而行，1小时20分后，在第二段从甲到乙方向的 EMBED Equation.DSMT4  处相遇．那么，甲、乙两市相距多少千米？
+
+现在甲乙两辆车往返于相距20千米的 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地，甲车先从 EMBED Equation.DSMT4  地出发，9分钟后乙车也从 EMBED Equation.DSMT4  地出发，并且在距离 EMBED Equation.DSMT4  地5千米的 EMBED Equation.DSMT4  地追上甲车。乙车到 EMBED Equation.DSMT4  地之后立即向 EMBED Equation.DSMT4  地原速驶回，甲车到 EMBED Equation.DSMT4  地休息12分钟之后加快速度向 EMBED Equation.DSMT4  地返回，并在 EMBED Equation.DSMT4  地又将乙车追上。那么最后甲车比乙车提前多少分钟到 EMBED Equation.DSMT4  地？
+
+
+
+
+
+甲、乙两地相距100千米,小张先骑摩托车从甲地出发,1小时后小李驾驶汽车从甲地出发,两人同时到达乙地.摩托车开始速度是每小时50千米,中途减速后为每小时40千米.汽车速度是每小时80千米,汽车曾在途中停驶1O分钟.那么小张驾驶的摩托车减速是在他出发后的多少小时?
+
+
+
+
+
+甲、乙两人在400米圆形跑道上进行10000米比赛．两人从起点同时同向出发，开始时甲的速度为每秒8米，乙的速度为每秒6米．当甲每次追上乙以后，甲的速度每秒减少2米，乙的速度每秒减少0.5米．这样下去，直到甲发现乙第一次从后面追上自己开始，两人都把自己的速度每秒增加O.5米，直到终点．那么领先者到达终点时，另一人距终点多少米?
+
+
+
+
+
+
+
+如图21-l，A至B是下坡，B至C是平路，C至D是上坡.小张和小王在上坡时步行速度是每小时4千米，平路时步行速度是每小时5千米，下坡时步行速度是每小时6千米．小张和小王分别从A和D同时出发，1小时后两人在E点相遇．已知E在BC上，并且E至C的距离是B至C距离的 EMBED Equation.DSMT4  ．当小王到达A后9分钟，小张到达D．那么A至D全程长是多少千米?
+
+
+
+
+
+
+
+
+
+老王开汽车从A到B为平地（见右上图），车速是30千米／时；从B到C为上山路，车速是22.5千米／时；从C到D为下山路，车速是36千米／时。已知下山路是上山路的2倍，从A到D全程为72千米，老王开车从A到D共需要多少时间？
+
+
+
+
+
+
+张明的家离学校 4千米，他每天早晨骑自行车上学，以20千米／时的速度行进，恰好准时到校。一天早晨，因为逆风，他提前0.2时出发，以10千米／时的速度骑行，行至离学校2.4千米处遇到李强，他俩互相鼓励，加快了骑车的速度，结果比平常提前5分24秒到校。他遇到李强后每时骑行多少千米？
+
+
+
+
+
+甲、乙二人同时从起点出发沿同一方向行走，甲每时行5千米，而乙第1时行1千米，第2时行2千米，以后每时都比前1时多行1千米。问：经过多长时间乙追上甲？
+
+
+
+
+
+
+甲、乙两人同时从山脚开始爬山，到达山顶后就立即下山。他们两人下山的速度都是各自上山速度的2倍。甲到山顶时，乙距山顶还有400米；甲回到山脚时，乙刚好下到半山腰。求从山脚到山顶的距离。
+
+
+
+
+
+
+甲、乙两人同时从山脚开始爬山，到达山顶后就立即下山。他们两人下山的速度都是各自上山速度的2倍。开始后1时，甲与乙在离山顶400米处相遇，当甲回到山脚时，乙刚好下到半山腰。问：乙比甲晚多少时间回到山脚？
+
+
+
+
+
+
+
+
+
+甲、乙两地相距6720米，某人从甲地步行去乙地，前一半时间平均每分钟行80米，后一半时间平均每分钟行60米.问他走后一半路程用了多少分钟？
+
+
+
+
+
+
+
+
+
+
+
+
+甲、乙两地相距6千米，某人从甲地步行去乙地，前一半时间平均每分钟行80米，后一半时间平均每分钟行70米．问他走后一半路程用了多少分钟？
+
+
+
+
+
+
+
+
+
+
+游乐场的溜冰滑道如下图。溜冰车上坡每分行400米，下坡每分行600米。已知从A点到B点需3.7分，从B点到A点只需2.5分。问：AC比BC长多少米？
+ INCLUDEPICTURE "http://zhjyx.hfjy.net.cn/RESOURCE/XX/XXSX/ALPK/BL000052/39_429.jpg" \* MERGEFORMATINET 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+3-2-6.变速问题.题库	                                  学生版                                    page  PAGE 13 of  NUMPAGES 13
+
+
+
+变速问题
+
+教学目标
+
+知识精讲
+
+
+

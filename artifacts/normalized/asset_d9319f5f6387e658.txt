@@ -1,0 +1,224 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+了解容斥原理二量重叠和三量重叠的内容；
+掌握容斥原理的在组合计数等各个方面的应用．
+ SHAPE  \* MERGEFORMAT 
+一、两量重叠问题
+在一些计数问题中，经常遇到有关集合元素个数的计算．求两个集合并集的元素的个数，不能简单地把两个集合的元素个数相加，而要从两个集合个数之和中减去重复计算的元素个数，即减去交集的元素个数，用式子可表示成： EMBED Equation.DSMT4  (其中符号“ EMBED Equation.DSMT4  ”读作“并”，相当于中文“和”或者“或”的意思；符号“ EMBED Equation.DSMT4  ”读作“交”，相当于中文“且”的意思．)则称这一公式为包含与排除原理，简称容斥原理．图示如下: EMBED Equation.DSMT4  表示小圆部分， EMBED Equation.DSMT4  表示大圆部分， EMBED Equation.DSMT4  表示大圆与小圆的公共部分，记为： EMBED Equation.DSMT4  ，即阴影面积．图示如下: EMBED Equation.DSMT4  表示小圆部分， EMBED Equation.DSMT4  表示大圆部分， EMBED Equation.DSMT4  表示大圆与小圆的公共部分，记为： EMBED Equation.DSMT4  ，即阴影面积．
+　       
+
+包含与排除原理告诉我们，要计算两个集合 EMBED Equation.DSMT4  的并集 EMBED Equation.DSMT4  的元素的个数，可分以下两步进行：
+第一步：分别计算集合 EMBED Equation.DSMT4  的元素个数，然后加起来，即先求 EMBED Equation.DSMT4  (意思是把 EMBED Equation.DSMT4  的一切元素都“包含”进来，加在一起)；
+第二步：从上面的和中减去交集的元素个数，即减去 EMBED Equation.DSMT4  (意思是“排除”了重复计算的元素个数)．
+
+二、三量重叠问题
+ EMBED Equation.DSMT4  类、 EMBED Equation.DSMT4  类与 EMBED Equation.DSMT4  类元素个数的总和 EMBED Equation.DSMT4  类元素的个数 EMBED Equation.DSMT4  类元素个数 EMBED Equation.DSMT4  类元素个数 EMBED Equation.DSMT4  既是 EMBED Equation.DSMT4  类又是 EMBED Equation.DSMT4  类的元素个数 EMBED Equation.DSMT4  既是 EMBED Equation.DSMT4  类又是 EMBED Equation.DSMT4  类的元素个数 EMBED Equation.DSMT4  既是 EMBED Equation.DSMT4  类又是 EMBED Equation.DSMT4  类的元素个数 EMBED Equation.DSMT4  同时是 EMBED Equation.DSMT4  类、 EMBED Equation.DSMT4  类、 EMBED Equation.DSMT4  类的元素个数．用符号表示为： EMBED Equation.DSMT4  ．图示如下：
+
+
+在解答有关包含排除问题时，我们常常利用圆圈图(韦恩图)来帮助分析思考．
+
+ SHAPE  \* MERGEFORMAT 
+
+两量重叠问题
+
+小明喜欢：踢足球、上网、游泳、音乐、语文、数学；小英喜欢：数学、英语、音乐、陶艺、跳绳。用圆A、圆B分别表示小明、小英的爱好，如图所示，则图中阴影部分表示________。
+
+【考点】两量重叠问题   【难度】1星   【题型】填空
+【关键词】希望杯，四年级，二试，第3题
+阴影部分是两人都爱好的：数学、音乐
+【答案】数学、音乐
+
+四（1）班全体同学站成一排，当从左向右报数时，小华报：18；当从右向左报数时，小华报：13.那么该班有学生______________名。
+【考点】两量重叠问题   【难度】1星   【题型】填空
+【关键词】希望杯，四年级，二试，第2题
+该班学生人数为： EMBED Equation.DSMT4  （名）。
+【答案】 EMBED Equation.DSMT4  名
+
+实验小学四年级二班，参加语文兴趣小组的有 EMBED Equation.DSMT4  人，参加数学兴趣小组的有 EMBED Equation.DSMT4  人，有 EMBED Equation.DSMT4  人两个小组都参加．这个班有多少人参加了语文或数学兴趣小组？
+
+【考点】两量重叠问题   【难度】1星   【题型】解答
+如图所示， EMBED Equation.DSMT4  圆表示参加语文兴趣小组的人， EMBED Equation.DSMT4  圆表示参加数学兴趣小组的人， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  重合的部分 EMBED Equation.DSMT4  (阴影部分)表示同时参加两个小组的人．图中 EMBED Equation.DSMT4  圆不含阴影的部分表示只参加语文兴趣小组未参加数学兴趣小组的人，有 EMBED Equation.DSMT4  (人)；图中 EMBED Equation.DSMT4  圆不含阴影的部分表示只参加数学兴趣小组未参加语文兴趣小组的人，有 EMBED Equation.DSMT4  (人)．
+方法一：由此得到参加语文或数学兴趣小组的有： EMBED Equation.DSMT4  (人)． 
+方法二：根据包含排除法，直接可得： 
+参加语文或数学兴趣小组的人 EMBED Equation.DSMT4  参加语文兴趣小组的人 EMBED Equation.DSMT4  参加数学兴趣小组的人 EMBED Equation.DSMT4  两个小组都参加的人，即： EMBED Equation.DSMT4  (人)．
+【答案】 EMBED Equation.DSMT4  人
+
+芳草地小学四年级有 EMBED Equation.DSMT4  人学钢琴， EMBED Equation.DSMT4  人学画画， EMBED Equation.DSMT4  人既学钢琴又学画画，问只学钢琴和只学画画的分别有多少人？
+
+【考点】两量重叠问题   【难度】1星   【题型】解答
+解包含与排除题，画图是一种很直观、简捷的方法，可以帮助解决问题，画图时注意把不同的对象与不同的区域对应清楚．建议教师帮助学生画图分析，清楚的分析每一部分的含义．
+如图， EMBED Equation.DSMT4  圆表示学画画的人， EMBED Equation.DSMT4  圆表示学钢琴的人， EMBED Equation.DSMT4  表示既学钢琴又学画画的人，图中 EMBED Equation.DSMT4  圆不含阴影的部分表示只学画画的人，有： EMBED Equation.DSMT4  (人)，图中 EMBED Equation.DSMT4  圆不含阴影的部分表示只学钢琴的人，有： EMBED Equation.DSMT4  (人)．
+【答案】 EMBED Equation.DSMT4  人
+
+四(二)班有 EMBED Equation.DSMT4  名学生，在一节自习课上，写完语文作业的有 EMBED Equation.DSMT4  人，写完数学作业的有 EMBED Equation.DSMT4  人，语文数学都没写完的有 EMBED Equation.DSMT4  人． ⑴ 问语文数学都写完的有多少人？ ⑵ 只写完语文作业的有多少人？ 
+【考点】两量重叠问题   【难度】1星   【题型】解答
+⑴ 由题意，有 EMBED Equation.DSMT4  (人)至少完成了一科作业，根据包含排除原理，两科作业都完成的学生有： EMBED Equation.DSMT4  (人)．
+⑵ 只写完语文作业的人数 EMBED Equation.DSMT4  写完语文作业的人数-语文数学都写完的人数，即 EMBED Equation.DSMT4  (人)．
+【答案】 EMBED Equation.DSMT4  人
+
+四（1）班有46人，其中会弹钢琴的有30人，会拉小提琴的有28人，则这个班既会弹钢琴又会拉小提琴的至少有         人。
+【考点】两量重叠问题   【难度】1星   【题型】填空
+【关键词】希望杯，四年级，二试，第6题
+至少一项不会的最多有(46-30)+(46-28)=34,那么两项都会的至少有46-34=12人
+【答案】 EMBED Equation.DSMT4  人
+
+如图，圆A表示1到50这50个自然数中能被3整除的数，圆B表示这50个数中能被5整除的数，则阴影部分表示的数是          。
+
+【考点】两量重叠问题   【难度】1星   【题型】填空
+【关键词】希望杯，四年级，二试，第4题
+阴影部分是A和B共有的，即1到50这50个自然数中能被3×5＝15整除的数，即15，30，45
+【答案】 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+
+学校为了丰富学生的课余生活，组建了乒乓球俱乐部和篮球俱乐部，同学们踊跃报名参加，其中有321人报名参加乒乓球俱乐部，429人报名参加了篮球俱乐部，但学校最后发现有50人既报名参加了乒乓球俱乐部，又报名参加了篮球俱乐部，还有23人什么俱乐部都没报名，问该学校共有          名学生．
+【考点】两量重叠问题   【难度】1星   【题型】填空
+【关键词】学而思杯，4年级，第5题
+ EMBED Equation.DSMT4  人
+【答案】 EMBED Equation.DSMT4  人
+
+某班共有 EMBED Equation.DSMT4  人，参加美术小组的有 EMBED Equation.DSMT4  人，参加音乐小组的有 EMBED Equation.DSMT4  人，有 EMBED Equation.DSMT4  人两个小组都参加了．这个班既没参加美术小组也没参加音乐小组的有多少人？
+【考点】两量重叠问题   【难度】1星   【题型】解答
+已知全班总人数，从反面思考，找出参加美术或音乐小组的人数，只需用全班总人数减去这个人数，就得到既没参加美术小组也没参加音乐小组的人数．根据包含排除法知，该班至少参加了一个小组的总人数为 EMBED Equation.DSMT4  (人)．所以，该班未参加美术或音乐小组的人数是 EMBED Equation.DSMT4  (人)．
+【答案】 EMBED Equation.DSMT4  人
+
+四年级一班有 EMBED Equation.DSMT4  人，其中 EMBED Equation.DSMT4  人参加了数学竞赛， EMBED Equation.DSMT4  人参加了作文比赛， EMBED Equation.DSMT4  人两项比赛都参加了．一班有多少人两项比赛都没有参加？
+【考点】两量重叠问题   【难度】1星   【题型】解答
+由包含排除法可知，至少参加一项比赛的人数是： EMBED Equation.DSMT4  (人)，所以，两项比赛都没有参加的人数为： EMBED Equation.DSMT4  (人)．
+【答案】 EMBED Equation.DSMT4  人
+
+实验二校一个歌舞表演队里，能表演独唱的有10人，能表演跳舞的有18人，两种都能表演的有7人．这个表演队共有多少人能登台表演歌舞？
+【考点】两量重叠问题   【难度】1星   【题型】解答
+根据包含排除法，这个表演队能登台表演歌舞的人数为： EMBED Equation.DSMT4  (人)．
+【答案】 EMBED Equation.DSMT4  人
+
+全班50个学生，每人恰有三角板或直尺中的一种，28人有直尺，有三角板的人中，男生是14人，若已知全班共有女生31人，那么有直尺的女生有____人。
+【考点】两量重叠问题   【难度】1星   【题型】填空
+【关键词】华杯赛，初赛，第8题
+有三角板的学生共50-28=22（人），其中女生22-14=8（人），那么有直尺的女生有31-8=23（人）。
+【答案】 EMBED Equation.DSMT4  人
+
+某次英语考试由两部分组成，结果全班有 EMBED Equation.DSMT4  人得满分，第一部分有 EMBED Equation.DSMT4  人做对，第二部分有 EMBED Equation.DSMT4  人有错，问两部分都有错的有多少人？ 
+
+【考点】两量重叠问题   【难度】2星   【题型】解答
+如图，用长方形表示参加考试的人数， EMBED Equation.DSMT4  圆表示第一部分对的人数． EMBED Equation.DSMT4  圆表示第二部分对的人数，长方形中阴影部分表示两部分都有错的人数．
+已知第一部分对的有 EMBED Equation.DSMT4  人，全对的有 EMBED Equation.DSMT4  人，可知只对第一部分的有： EMBED Equation.DSMT4  (人)．又因为第二部分有 EMBED Equation.DSMT4  人有错，其中第一部分对第二部分有错的有 EMBED Equation.DSMT4  人，那么余下的 EMBED Equation.DSMT4  (人)必是第一部分和第二部分均有错的，两部分都有错的有 EMBED Equation.DSMT4  人．	
+【答案】 EMBED Equation.DSMT4  人
+
+对全班同学调查发现，会游泳的有 EMBED Equation.DSMT4  人，会打篮球的有 EMBED Equation.DSMT4  人．两项都会的有 EMBED Equation.DSMT4  人，两项都不会的有 EMBED Equation.DSMT4  人．这个班一共有多少人？ 
+
+【考点】两量重叠问题   【难度】2星   【题型】解答
+如图，用长方形表示全班人数， EMBED Equation.DSMT4  圆表示会游泳的人数， EMBED Equation.DSMT4  圆表示会打篮球的人数，长方形中阴影部分表示两项都不会的人数．
+由图中可以看出，全班人数 EMBED Equation.DSMT4  至少会一项的人数 EMBED Equation.DSMT4  两项都不会的人数，至少会一项的人数为： EMBED Equation.DSMT4  (人)，全班人数为： EMBED Equation.DSMT4   (人)．
+【答案】 EMBED Equation.DSMT4  人
+
+某班组织象棋和军棋比赛，参加象棋比赛的有 EMBED Equation.DSMT4  人，参加军棋比赛的有 EMBED Equation.DSMT4  人，有 EMBED Equation.DSMT4  人两项比赛都参加了，这个班参加棋类比赛的共有多少人？ 
+
+【考点】两量重叠问题   【难度】2星   【题型】解答
+如图， EMBED Equation.DSMT4  圆表示参加象棋比赛的人， EMBED Equation.DSMT4  圆表示参加军棋比赛的人， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  重合的部分表示同时参加两项比赛的人．图中 EMBED Equation.DSMT4  圆不含阴影的部分表示只参加象棋比赛不参加军棋比赛的人，有 EMBED Equation.DSMT4  (人)；图中 EMBED Equation.DSMT4  圆不含阴影的部分表示只参加军棋比赛不参加象棋比赛的人，有 EMBED Equation.DSMT4  (人)．由此得到参加棋类比赛的人有 EMBED Equation.DSMT4  (人)．
+或者根据包含排除法直接得： EMBED Equation.DSMT4  (人)．
+【答案】 EMBED Equation.DSMT4  人
+
+在 EMBED Equation.DSMT4  人参加的采摘活动中，只采了樱桃的有 EMBED Equation.DSMT4  人，既采了樱桃又采了杏的有 EMBED Equation.DSMT4  人，既没采樱桃又没采杏的有 EMBED Equation.DSMT4  人，问：只采了杏的有多少人？ 
+
+【考点】两量重叠问题   【难度】2星   【题型】解答
+如图，用长方形表示全体采摘人员 EMBED Equation.DSMT4  人， EMBED Equation.DSMT4  圆表示采了樱桃的人数， EMBED Equation.DSMT4  圆表示采了杏的人数．长方形中阴影部分表示既没采樱桃又没采杏的人数．
+由图中可以看出，全体人员是至少采了一种的人数与两种都没采的人数之和，则至少采了一种的人数为： EMBED Equation.DSMT4  (人)，而至少采了一种的人数 EMBED Equation.DSMT4  只采了樱桃的人数 EMBED Equation.DSMT4  两种都采了的人数 EMBED Equation.DSMT4  只采了杏的人数，所以，只采了杏的人数为： EMBED Equation.DSMT4  (人)．
+【答案】 EMBED Equation.DSMT4  人
+
+甲、乙、丙三个小组学雷锋，为学校擦玻璃，其中 EMBED Equation.DSMT4  块玻璃不是甲组擦的， EMBED Equation.DSMT4  块玻璃不是乙组擦的，且甲组与乙组一共擦了 EMBED Equation.DSMT4  块玻璃．那么，甲、乙、丙三个小组各擦了多少块玻璃？ 
+【考点】两量重叠问题   【难度】2星   【题型】解答
+68块玻璃不是甲组擦的，说明这 EMBED Equation.DSMT4  块玻璃是乙、丙两组擦的； EMBED Equation.DSMT4  块玻璃不是乙组擦的，说明这 EMBED Equation.DSMT4  块玻璃是甲、丙两组擦的．
+如图，用圆 EMBED Equation.DSMT4  表示乙、丙两组擦的 EMBED Equation.DSMT4  块玻璃， EMBED Equation.DSMT4  圆表示甲、丙两组擦的 EMBED Equation.DSMT4  块玻璃．因甲乙两组共擦了 EMBED Equation.DSMT4  块玻璃，那么 EMBED Equation.DSMT4  (块)，这是两个丙组擦的玻璃数． EMBED Equation.DSMT4  (块)．丙组擦了 EMBED Equation.DSMT4  块玻璃．乙组擦了： EMBED Equation.DSMT4  (块)玻璃，甲组擦了： EMBED Equation.DSMT4  (块)玻璃．
+【答案】甲组擦了： EMBED Equation.DSMT4  (块)玻璃，乙组擦了： EMBED Equation.DSMT4  (块)玻璃，丙组擦了 EMBED Equation.DSMT4  块玻璃。
+
+育才小学画展上展出了许多幅画，其中有16幅画不是六年级的，有15幅画不是五年级的，五、六年级共展出25幅画，其他年级的画共有多少幅？ 
+
+【考点】两量重叠问题   【难度】2星   【题型】解答
+通过16幅画不是六年级的可以知道，五年级和其他年级的画作数量之和是16，通过15幅画不是五年级的可以知道六年级和其他年级的画作数量之和是15，那也就是说五年级的画比六年级多1幅，我们还知道五、六年级共展出25幅画，进而可以求出五年级画作有13幅，六年级画作有12幅，那么久可以求出其他年级的画作共有3幅．
+【答案】 EMBED Equation.DSMT4  幅
+
+ EMBED Equation.DSMT4  名学生参加数学和语文考试，其中语文得分 EMBED Equation.DSMT4  分以上的 EMBED Equation.DSMT4  人，数学得分 EMBED Equation.DSMT4  分以上的 EMBED Equation.DSMT4  人，两门都不在 EMBED Equation.DSMT4  分以上的有 EMBED Equation.DSMT4  人．问：两门都在 EMBED Equation.DSMT4  分以上的有多少人？
+
+【考点】两量重叠问题   【难度】2星   【题型】解答
+如图，用长方形表示这 EMBED Equation.DSMT4  名学生， EMBED Equation.DSMT4  圆表示语文得分 EMBED Equation.DSMT4  分以上的人数， EMBED Equation.DSMT4  圆表示数学得 EMBED Equation.DSMT4  分以上的人数， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  重合的部分表示两门都在 EMBED Equation.DSMT4  分以上的人数，长方形内两圆外的部分表示两门都不在 EMBED Equation.DSMT4  分以上的人数．
+由图中可以看出，全体人数是至少一门在 EMBED Equation.DSMT4  分以上的人数与两门都不在 EMBED Equation.DSMT4  分以上的人数之和，则至少一门在 EMBED Equation.DSMT4  分以上的人数为： EMBED Equation.DSMT4  (人)．根据包含排除法，两门都在 EMBED Equation.DSMT4  分以上的人数为： EMBED Equation.DSMT4  (人)．
+【答案】 EMBED Equation.DSMT4  人
+
+有 EMBED Equation.DSMT4  位旅客，其中有 EMBED Equation.DSMT4  人既不懂英语又不懂俄语，有 EMBED Equation.DSMT4  人懂英语， EMBED Equation.DSMT4  人懂俄语．问既懂英语又懂俄语的有多少人？
+【考点】两量重叠问题   【难度】2星   【题型】解答
+【关键词】迎春杯
+方法一：在 EMBED Equation.DSMT4  人中懂英语或俄语的有： EMBED Equation.DSMT4  (人)．又因为有 EMBED Equation.DSMT4  人懂英语，所以只懂俄语的有： EMBED Equation.DSMT4  (人)．从 EMBED Equation.DSMT4  位懂俄语的旅客中除去只懂俄语的人，剩下的 EMBED Equation.DSMT4    EMBED Equation.DSMT4  (人)就是既懂英语又懂俄语的旅客．
+方法二：学会把公式进行适当的变换，由包含与排除原理，得：
+ EMBED Equation.DSMT4  (人)．
+【答案】 EMBED Equation.DSMT4  人
+
+一个班 EMBED Equation.DSMT4  人，完成作业的情况有三种：一种是完成语文作业没完成数学作业；一种是完成数学作业没完成语文作业；一种是语文、数学作业都完成了．已知做完语文作业的有 EMBED Equation.DSMT4  人；做完数学作业的有 EMBED Equation.DSMT4  人．这些人中语文、数学作业都完成的有多少人？
+【考点】两量重叠问题   【难度】2星   【题型】解答
+不妨用下图来表示：
+
+        线段 EMBED Equation.DSMT4  表示全班人数，线段 EMBED Equation.DSMT4  表示做完语文作业的人数，线段 EMBED Equation.DSMT4  表示做完数学作业的人数，重叠部分 EMBED Equation.DSMT4  则表示语文、数学都做完的人数．
+根据题意，做完语文作业的有 EMBED Equation.DSMT4  人，即 EMBED Equation.DSMT4  ．做完数学作业的有 EMBED Equation.DSMT4  人，即 EMBED Equation.DSMT4  ． 
+ EMBED Equation.DSMT4  (人)   EMBED Equation.DSMT4   ①
+ EMBED Equation.DSMT4  (人)                EMBED Equation.DSMT4   ②
+        ①式减②式，就有 EMBED Equation.DSMT4  (人),所以，数学、语文作业都做完的有 EMBED Equation.DSMT4  人．
+【答案】 EMBED Equation.DSMT4  人
+四年级科技活动组共有 EMBED Equation.DSMT4  人．在一次剪贴汽车模型和装配飞机模型的定时科技活动比赛中，老师到时清点发现：剪贴好一辆汽车模型的同学有 EMBED Equation.DSMT4  人，装配好一架飞机模型的同学有 EMBED Equation.DSMT4  人．每个同学都至少完成了一项活动．问：同时完成这两项活动的同学有多少人？
+【考点】两量重叠问题   【难度】2星   【题型】解答
+因 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以必有人同时完成了这两项活动．由于每个同学都至少完成了一项活动，根据包含排除法知， EMBED Equation.DSMT4  (完成了两项活动的人数) EMBED Equation.DSMT4  全组人数，即 EMBED Equation.DSMT4  (完成了两项活动的人数) EMBED Equation.DSMT4  ．由减法运算法则知，完成两项活动的人数为 EMBED Equation.DSMT4  (人)．也可画图分析．
+【答案】 EMBED Equation.DSMT4  人
+
+科技活动小组有 EMBED Equation.DSMT4  人．在一次制作飞机模型和制作舰艇模型的定时科技活动比赛中，老师到时清点发现：制作好一架飞机模型的同学有 EMBED Equation.DSMT4  人，制作好一艘舰艇的同学有 EMBED Equation.DSMT4  人．每个同学都至少完成了一项制作．问两项制作都完成的同学有多少人？
+【考点】两量重叠问题   【难度】2星   【题型】解答
+
+因为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以必有人两项制作都完成了．由于每个同学都至少完成了一项制作，根据包含排除法可知：全组人数 EMBED Equation.DSMT4  完成了两项制作的人数，即 EMBED Equation.DSMT4  完成了两项制作的人数．所以，完成了两项制作的人数为： EMBED Equation.DSMT4  (人)．
+【答案】 EMBED Equation.DSMT4  人
+
+一次数学测验，甲答错题目总数的，乙答错3道题，两人都答错的题目是题目总数的．求甲、乙都答对的题目数.
+【考点】两量重叠问题   【难度】3星   【题型】解答
+
+(法一)设共有n道题．由右图知d即为所求，并有关系式由①③知,n是4和6的公倍数，即12的倍数．将③代入②，有， 由于b是非负整数，所以n=12，由此求出c=2，b=1，a=1.又由a+b+c+d=n，得到d=n-（a+b+c)=8（法二）显然两人都答错的题目不多于3道，所以题目总数只可能是6、12、18，其中只有12，能使甲答错题目总数是整数.
+【答案】 EMBED Equation.DSMT4  道题
+
+小赵、小钱、小孙、小李、小周、小吴、小郑、小王，这8名同学站成一排．其中小孙和小周不能相邻，小钱和小吴也不能相邻，小李必须在小郑和小王之间(可相邻也可不相邻)．则不同的排列方法共有________种．
+【考点】两量重叠问题   【难度】3星   【题型】填空
+8名同学站成一排，所有的排法共有 EMBED Equation.DSMT4  种，其中小孙和小周相邻的排法，根据“捆绑法”有 EMBED Equation.DSMT4  种，小钱和小吴相邻的也有 EMBED Equation.DSMT4  种，这两对都相邻的有  EMBED Equation.DSMT4    种．根据容斥原理，符合前两个条件的排法有 EMBED Equation.DSMT4   种．在这 EMBED Equation.DSMT4  种排法里面，小李、小郑、小王 EMBED Equation.DSMT4  个人的排列中每个人在中间的可能性都相等，所以小李在小郑和小王之间的排法占其中的 EMBED Equation.DSMT4  ，即有 EMBED Equation.DSMT4  种．
+【答案】 EMBED Equation.DSMT4  种
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+7-7-1容斥原理之重叠问题（一）.题库	                         教师版                        page  PAGE 9 of  NUMPAGES 9
+
+
+
+7-7-1.容斥原理之重叠问题（一）
+
+
+教学目标
+
+例题精讲
+
+1．先包含： EMBED Equation.DSMT4  
+重叠部分 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  重叠了 EMBED Equation.DSMT4  次，多加了 EMBED Equation.DSMT4  次．
+2．再排除： EMBED Equation.DSMT4  
+重叠部分 EMBED Equation.DSMT4  重叠了 EMBED Equation.DSMT4  次，但是在进行 EMBED Equation.DSMT4    EMBED Equation.DSMT4  计算时都被减掉了．
+3．再包含： EMBED Equation.DSMT4  ．
+
+图中小圆表示 EMBED Equation.DSMT4  的元素的个数，中圆表示 EMBED Equation.DSMT4  的元素的个数，大圆表示 EMBED Equation.DSMT4  的元素的个数．
+
+知识要点
+
+1．先包含—— EMBED Equation.DSMT4  
+重叠部分 EMBED Equation.DSMT4  计算了 EMBED Equation.DSMT4  次，多加了 EMBED Equation.DSMT4  次；
+2．再排除—— EMBED Equation.DSMT4  
+把多加了 EMBED Equation.DSMT4  次的重叠部分 EMBED Equation.DSMT4  减去．
+
+
+

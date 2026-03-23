@@ -1,0 +1,411 @@
+
+
+
+
+
+
+
+
+
+ SHAPE  \* MERGEFORMAT 
+
+熟练掌握不定方程的解题技巧
+能够根据题意找到等量关系设未知数解方程
+学会解不定方程的经典例题
+
+ SHAPE  \* MERGEFORMAT 
+一、知识点说明
+历史概述
+不定方程是数论中最古老的分支之一．古希腊的丢番图早在公元 EMBED Equation.DSMT4  世纪就开始研究不定方程，因此常称不定方程为丢番图方程．中国是研究不定方程最早的国家，公元初的五家共井问题就是一个不定方程组问题，公元 EMBED Equation.DSMT4  世纪的《张丘建算经》中的百鸡问题标志着中国对不定方程理论有了系统研究．宋代数学家秦九韶的大衍求一术将不定方程与同余理论联系起来．
+考点说明
+在各类竞赛考试中，不定方程经常以应用题的形式出现，除此以外，不定方程还经常作为解题的重要方法贯穿在行程问题、数论问题等压轴大题之中．在以后初高中数学的进一步学习中，不定方程也同样有着重要的地位，所以本讲的着重目的是让学生学会利用不定方程这个工具，并能够在以后的学习中使用这个工具解题。
+二、运用不定方程解应用题步骤
+1、根据题目叙述找到等量关系列出方程
+2、根据解不定方程方法解方程
+3、找到符合条件的解
+模块一、不定方程与数论
+把 EMBED Equation.DSMT4  拆成两个正整数的和，一个是 EMBED Equation.DSMT4  的倍数（要尽量小），一个是 EMBED Equation.DSMT4  的倍数（要尽量大），求这两个数．
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+这是一道整数分拆的常规题．可设拆成的两个数分别为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，则有： EMBED Equation.DSMT4  ，要让 EMBED Equation.DSMT4  取最小值， EMBED Equation.DSMT4  取最大值．
+可把式子变形为： EMBED Equation.DSMT4  ，可见 EMBED Equation.DSMT4  是整数，满足这一条件的 EMBED Equation.DSMT4  最小为7，且当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ．
+则拆成的两个数分别是 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ．
+【答案】则拆成的两个数分别是 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ．
+
+甲、乙二人搬砖，甲搬的砖数是 EMBED Equation.DSMT4  的倍数，乙搬的砖数是 EMBED Equation.DSMT4  的倍数，两人共搬了 EMBED Equation.DSMT4  块砖．问：甲、乙二人谁搬的砖多？多几块？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+设甲搬的是 EMBED Equation.DSMT4  块，乙搬的是 EMBED Equation.DSMT4  块．那么 EMBED Equation.DSMT4  ．观察发现 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  都是 EMBED Equation.DSMT4  的倍数，所以 EMBED Equation.DSMT4  也是 EMBED Equation.DSMT4  的倍数．由于 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  只能为6或12．
+ EMBED Equation.DSMT4  时 EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  ；
+ EMBED Equation.DSMT4  时 EMBED Equation.DSMT4  ，此时 EMBED Equation.DSMT4  不是整数，矛盾．
+所以甲搬了 EMBED Equation.DSMT4  块，乙搬了 EMBED Equation.DSMT4  块，甲比乙搬得多，多 EMBED Equation.DSMT4  块．
+【答案】甲比乙搬得多，多 EMBED Equation.DSMT4  块
+
+现有足够多的 EMBED Equation.DSMT4  角和 EMBED Equation.DSMT4  角的邮票，用来付 EMBED Equation.DSMT4  元的邮资，问 EMBED Equation.DSMT4  角的邮票需要多少张？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+设 EMBED Equation.DSMT4  角和 EMBED Equation.DSMT4  角的邮票分别有 EMBED Equation.DSMT4  张和 EMBED Equation.DSMT4  张，那么就有等量关系： EMBED Equation.DSMT4  ．
+尝试 EMBED Equation.DSMT4  的取值，当 EMBED Equation.DSMT4  取 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  能取得整数 EMBED Equation.DSMT4  ，当 EMBED Equation.DSMT4  再增大，取大于等于 EMBED Equation.DSMT4  的数时， EMBED Equation.DSMT4  没有自然数解．所以 EMBED Equation.DSMT4  角的邮票需要 EMBED Equation.DSMT4  张．
+【答案】 EMBED Equation.DSMT4  角的邮票需要 EMBED Equation.DSMT4  张
+
+用十进制表示的某些自然数，恰等于它的各位数字之和的 EMBED Equation.DSMT4  倍，则满足条件的所有自然数之和为___________________.
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+【关键词】北大附中，资优博雅杯
+若是四位数 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，矛盾，四位以上的自然数也不可能。
+        若是两位数 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，也不可能，故只有三位数 EMBED Equation.DSMT4  .
+         EMBED Equation.DSMT4  ，化简得 EMBED Equation.DSMT4  .由于 EMBED Equation.DSMT4  ，
+        所以 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  . EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，或 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  .
+        所以所有自然数之和为 EMBED Equation.DSMT4  .
+【答案】所有满足条件的自然数之和为 EMBED Equation.DSMT4  
+
+模块二、不定方程与应用题
+有两种不同规格的油桶若干个，大的能装 EMBED Equation.DSMT4  千克油，小的能装 EMBED Equation.DSMT4  千克油， EMBED Equation.DSMT4  千克油恰好装满这些油桶．问：大、小油桶各几个？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+设有大油桶 EMBED Equation.DSMT4  个，小油桶 EMBED Equation.DSMT4  个．由题意得：
+ EMBED Equation.DSMT4  
+可知 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ．由于 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  必须为整数，所以相应的将 EMBED Equation.DSMT4  的所有可能值代入方程，可得 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  这一组整数解．
+所以大油桶有 EMBED Equation.DSMT4  个，小油桶有 EMBED Equation.DSMT4  个．
+小结：这道题在解答时，也可联系数论的知识，注意到能被5整除的数的特点，便可轻松求解.
+【答案】大油桶有 EMBED Equation.DSMT4  个，小油桶有 EMBED Equation.DSMT4  个
+
+在一次活动中，丁丁和冬冬到射击室打靶，回来后见到同学“小博士”，他们让“小博士”猜他们各命中多少次．“小博士”让丁丁把自己命中的次数乘以 EMBED Equation.DSMT4  ，让冬冬把自己命中的次数乘以 EMBED Equation.DSMT4  ，再把两个得数加起来告诉他，丁丁和冬冬算了一下是 EMBED Equation.DSMT4  ，“小博士”正确地说出了他们各自命中的次数．你知道丁丁和冬冬各命中几次吗？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+设丁丁和冬冬分别命中了 EMBED Equation.DSMT4  次和 EMBED Equation.DSMT4  次，则： EMBED Equation.DSMT4  ．可见 EMBED Equation.DSMT4  除以4的余数为3，而且 EMBED Equation.DSMT4  不能超过6，所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．即丁丁命中了 EMBED Equation.DSMT4  次，冬冬命中了 EMBED Equation.DSMT4  次．
+【答案】丁丁命中了 EMBED Equation.DSMT4  次，冬冬命中了 EMBED Equation.DSMT4  次
+
+某人打靶， EMBED Equation.DSMT4  发共打了 EMBED Equation.DSMT4  环，全部命中在 EMBED Equation.DSMT4  环、 EMBED Equation.DSMT4  环和 EMBED Equation.DSMT4  环上．问：他命中 EMBED Equation.DSMT4  环、 EMBED Equation.DSMT4  环和 EMBED Equation.DSMT4  环各几发？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+假设命中10环 EMBED Equation.DSMT4  发，7环 EMBED Equation.DSMT4  发，5环 EMBED Equation.DSMT4  发，则 EMBED Equation.DSMT4  由⑵可知 EMBED Equation.DSMT4  除以5的余数为3，所以 EMBED Equation.DSMT4  、9……如果 EMBED Equation.DSMT4  为9，则 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  只能为4，代入原方程组可解得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．所以他命中 EMBED Equation.DSMT4  环 EMBED Equation.DSMT4  发， EMBED Equation.DSMT4  环 EMBED Equation.DSMT4  发， EMBED Equation.DSMT4  环 EMBED Equation.DSMT4  发．
+【答案】命中 EMBED Equation.DSMT4  环 EMBED Equation.DSMT4  发， EMBED Equation.DSMT4  环 EMBED Equation.DSMT4  发， EMBED Equation.DSMT4  环 EMBED Equation.DSMT4  发
+
+某次聚餐，每一位男宾付 EMBED Equation.DSMT4  元，每一位女宾付 EMBED Equation.DSMT4  元，每带一个孩子付 EMBED Equation.DSMT4  元，现在有 EMBED Equation.DSMT4  的成人各带一个孩子，总共收了 EMBED Equation.DSMT4  元，问：这个活动共有多少人参加(成人和孩子)？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+设参加的男宾有 EMBED Equation.DSMT4  人，女宾有 EMBED Equation.DSMT4  人，则由题意得方程： EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，化简得 EMBED Equation.DSMT4  ．这个方程有四组解： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，
+但是由于有 EMBED Equation.DSMT4  的成人带着孩子，所以 EMBED Equation.DSMT4  能被 EMBED Equation.DSMT4  整除，检验可知只有后两组满足．
+所以，这个活动共有 EMBED Equation.DSMT4  人或 EMBED Equation.DSMT4  人参加．
+【答案】这个活动共有 EMBED Equation.DSMT4  人或 EMBED Equation.DSMT4  人参加
+
+单位的职工到郊外植树，其中有男职工，也有女职工，并且有 EMBED Equation.DSMT4  的职工各带一个孩子参加．男职工每人种 EMBED Equation.DSMT4  棵树，女职工每人种 EMBED Equation.DSMT4  棵树，每个孩子都种 EMBED Equation.DSMT4  棵树，他们一共种了 EMBED Equation.DSMT4  棵树，那么其中有多少名男职工？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+因为有 EMBED Equation.DSMT4  的职工各带一个孩子参加，则职工总人数是 EMBED Equation.DSMT4  的倍数．设男职工有 EMBED Equation.DSMT4  人，女职工有 EMBED Equation.DSMT4  人．
+则职工总人数是 EMBED Equation.DSMT4  人，孩子是 EMBED Equation.DSMT4  人．得到方程： EMBED Equation.DSMT4  ，化简得： EMBED Equation.DSMT4  ．因为男职工与女职工的人数都是整数，所以当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ；当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ；当 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．其中只有 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的倍数，符合题意，所以其中有12名男职工．
+【答案】其中有12名男职工
+
+张师傅每天能缝制 EMBED Equation.DSMT4  件上衣，或者 EMBED Equation.DSMT4  件裙裤，李师傅每天能缝制 EMBED Equation.DSMT4  件上衣，或者 EMBED Equation.DSMT4  件裙裤，两人 EMBED Equation.DSMT4  天共缝制上衣和裙裤 EMBED Equation.DSMT4  件，那么其中上衣是多少件？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+如果 EMBED Equation.DSMT4  天都缝制上衣，共可缝制 EMBED Equation.DSMT4  件，实际上比这多缝制了 EMBED Equation.DSMT4  件，这就要把上衣换成裙裤，张师傅每天可多换 EMBED Equation.DSMT4  件，李师傅每天可多换 EMBED Equation.DSMT4  件，设张师傅缝制裙裤 EMBED Equation.DSMT4  天，李师傅缝制裙裤 EMBED Equation.DSMT4  天，则： EMBED Equation.DSMT4  ，整数解只有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+因此共缝制裙裤 EMBED Equation.DSMT4   EMBED Equation.DSMT4  件，上衣共 EMBED Equation.DSMT4  件．
+【答案】上衣共 EMBED Equation.DSMT4  件
+
+小花狗和波斯猫是一对好朋友，它们在早晚见面时总要叫上几声表示问候．若是早晨见面，小花狗叫两声，波斯猫叫一声；若是晚上见面，小花狗叫两声，波斯猫叫三声．细心的小娟对它们的叫声统计了 EMBED Equation.DSMT4  天，发现它们并不是每天早晚都见面．在这 EMBED Equation.DSMT4  天内它们共叫了 EMBED Equation.DSMT4  声．问：波斯猫至少叫了多少声？ 
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+早晨见面小花狗和波斯猫共叫 EMBED Equation.DSMT4  声，晚上见面共叫 EMBED Equation.DSMT4  声．设在这15天内早晨见面 EMBED Equation.DSMT4  次，晚上见面 EMBED Equation.DSMT4  次．根据题意有： EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  )．
+可以凑出，当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ；当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ；当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ．
+因为小花狗共叫了 EMBED Equation.DSMT4   声，那么 EMBED Equation.DSMT4  越大，小花狗就叫得越多，从而波斯猫叫得越少，所以当 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  时波斯猫叫得最少，共叫了 EMBED Equation.DSMT4  (声)．
+【答案】叫了 EMBED Equation.DSMT4  声
+
+甲、乙两人生产一种产品，这种产品由一个 EMBED Equation.DSMT4  配件与一个 EMBED Equation.DSMT4  配件组成．甲每天生产300个 EMBED Equation.DSMT4  配件，或生产150个 EMBED Equation.DSMT4  配件；乙每天生产120个 EMBED Equation.DSMT4  配件，或生产48个 EMBED Equation.DSMT4  配件．为了在10天内生产出更多的产品，二人决定合作生产，这样他们最多能生产出多少套产品？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+假设甲、乙分别有 EMBED Equation.DSMT4  天和 EMBED Equation.DSMT4  天在生产 EMBED Equation.DSMT4  配件，则他们生产 EMBED Equation.DSMT4  配件所用的时间分别为 EMBED Equation.DSMT4  天和 EMBED Equation.DSMT4  天，那么10天内共生产了 EMBED Equation.DSMT4  配件 EMBED Equation.DSMT4  个，共生产了 EMBED Equation.DSMT4  配件
+ EMBED Equation.DSMT4  个．要将它们配成套， EMBED Equation.DSMT4  配件与 EMBED Equation.DSMT4  配件的数量应相等，即 EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ．
+此时生产的产品的套数为 EMBED Equation.DSMT4  ，要使生产的产品最多，就要使得 EMBED Equation.DSMT4  最大，而 EMBED Equation.DSMT4  最大为10，所以最多能生产出 EMBED Equation.DSMT4  套产品．
+【答案】最多能生产出 EMBED Equation.DSMT4  套产品
+
+某服装厂有甲、乙两个生产车间，甲车间每天能生产上衣16件或裤子20件；乙车间每天能生产上衣18件或裤子24件．现在要上衣和裤子配套，两车间合作21天，最多能生产多少套衣服？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+假设甲、乙两个车间用于生产上衣的时间分别为 EMBED Equation.DSMT4  天和 EMBED Equation.DSMT4  天，则他们用于生产裤子的天数分别为 EMBED Equation.DSMT4  天和 EMBED Equation.DSMT4  天，那么总共生产了上衣 EMBED Equation.DSMT4  件，
+生产了裤子 EMBED Equation.DSMT4  件．
+根据题意，裤子和上衣的件数相等，所以 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ．那么共生产了 EMBED Equation.DSMT4  套衣服．
+要使生产的衣服最多，就要使得 EMBED Equation.DSMT4  最小，则 EMBED Equation.DSMT4  应最大，而 EMBED Equation.DSMT4  最大为21，此时 EMBED Equation.DSMT4  ．故最多可以生产出 EMBED Equation.DSMT4  套衣服．
+【答案】最多可以生产出 EMBED Equation.DSMT4  套衣服
+
+有一项工程，甲单独做需要 EMBED Equation.DSMT4  天完成，乙单独做需要 EMBED Equation.DSMT4  天完成，丙单独做需要 EMBED Equation.DSMT4  天完成，现在由甲、乙、丙三人同时做，在工作期间，丙休息了整数天，而甲和乙一直工作至完成，最后完成这项工程也用了整数天，那么丙休息了       天．
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+设完成这项工程用了 EMBED Equation.DSMT4  天，其间丙休息了 EMBED Equation.DSMT4  天．
+根据题意可知： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，化简得 EMBED Equation.DSMT4  ．
+由上式，因为 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  都是 EMBED Equation.DSMT4  的倍数，所以 EMBED Equation.DSMT4  必须是 EMBED Equation.DSMT4  的倍数，所以 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的倍数，在 EMBED Equation.DSMT4   的条件下，只有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  一组解，即丙休息了 EMBED Equation.DSMT4  天．
+【答案】丙休息了 EMBED Equation.DSMT4  天
+
+实验小学的五年级学生租车去野外开展“走向大自然，热爱大自然”活动，所有的学生和老师共 EMBED Equation.DSMT4  人恰好坐满了 EMBED Equation.DSMT4  辆大巴车和 EMBED Equation.DSMT4  辆中巴车，已知每辆中巴车的载客人数在 EMBED Equation.DSMT4  人到 EMBED Equation.DSMT4  人之间，求每辆大巴车的载客人数．
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+设每辆大巴车和中巴车的载客人数分别为 EMBED Equation.DSMT4  人和 EMBED Equation.DSMT4  人，那么有： EMBED Equation.DSMT4  ．由于知道中巴车的载客人数，也就是知道了 EMBED Equation.DSMT4  的取值范围，所以应该从 EMBED Equation.DSMT4  入手．显然 EMBED Equation.DSMT4  被 EMBED Equation.DSMT4  除所得的余数与 EMBED Equation.DSMT4  被 EMBED Equation.DSMT4  除所得的余数相等，从个位数上来考虑， EMBED Equation.DSMT4  的个位数字只能为1或6，那么当 EMBED Equation.DSMT4  的个位数是 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  时成立．由于 EMBED Equation.DSMT4  的值在20与25之间，所以满足条件的 EMBED Equation.DSMT4  ，继而求得 EMBED Equation.DSMT4  ，所以大巴车的载客人数为 EMBED Equation.DSMT4  人．
+【答案】大巴车的载客人数为 EMBED Equation.DSMT4  人
+
+实验小学的五年级学生租车去野外开展“走向大自然，热爱大自然”活动，所有的学生和老师共 EMBED Equation.DSMT4  人恰好坐满了 EMBED Equation.DSMT4  辆大巴车和 EMBED Equation.DSMT4  辆中巴车，已知每辆中巴车的载客人数在 EMBED Equation.DSMT4  人到 EMBED Equation.DSMT4  人之间，求每辆大巴车的载客人数．
+设大巴车和中巴车的载客人数分别为 EMBED Equation.DSMT4  人和 EMBED Equation.DSMT4  人，那么有： EMBED Equation.DSMT4  ．
+考虑等式两边除以7的余数，由于 EMBED Equation.DSMT4  被 EMBED Equation.DSMT4  除余 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  被 EMBED Equation.DSMT4  除余 EMBED Equation.DSMT4  ，符合条件的 EMBED Equation.DSMT4  有： EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，继而求得 EMBED Equation.DSMT4  ，所以大巴车的载客人数为 EMBED Equation.DSMT4  人．
+【答案】大巴车的载客人数为 EMBED Equation.DSMT4  人
+
+每辆大汽车能容纳54人，每辆小汽车能容纳36人．现有378人，要使每个人都上车且每辆车都装满，需要大、小汽车各几辆？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+设需要大、小汽车分别为 EMBED Equation.DSMT4  辆、 EMBED Equation.DSMT4  辆，则有： EMBED Equation.DSMT4  ，可化为 EMBED Equation.DSMT4  ．
+可以看出 EMBED Equation.DSMT4  是3的倍数，又不超过10，所以 EMBED Equation.DSMT4  可以为0、3、6或9，将 EMBED Equation.DSMT4  、3、6、9分别代入可知有四组解： EMBED Equation.DSMT4  ；或 EMBED Equation.DSMT4  ；或 EMBED Equation.DSMT4  ；或 EMBED Equation.DSMT4  
+即需大汽车1辆，小汽车9辆；或大汽车3辆，小汽车6辆；或大汽车5辆，小汽车3辆；或大汽车7辆．
+【答案】大汽车1辆，小汽车9辆；或大汽车3辆，小汽车6辆；或大汽车5辆，小汽车3辆；或大汽车7辆
+
+小伟听说小峰养了一些兔和鸡，就问小峰：“你养了几只兔和鸡？”小峰说：“我养的兔比鸡多，鸡兔共 EMBED Equation.DSMT4  条腿．”那么小峰养了多少兔和鸡？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+这是一道鸡兔同笼问题，但由于已知鸡兔腿的总数，而不是鸡兔腿数的差，所以用不定方程求解．
+设小峰养了 EMBED Equation.DSMT4  只兔子和 EMBED Equation.DSMT4  只鸡，由题意得：
+                      EMBED Equation.DSMT4  
+即： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+这是一个不定方程，其可能整数解如下表所示：
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+
+由题意 EMBED Equation.DSMT4  ，且 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  均不为 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，也就是兔有 EMBED Equation.DSMT4  只，鸡有 EMBED Equation.DSMT4  只．
+【答案】兔有 EMBED Equation.DSMT4  只，鸡有 EMBED Equation.DSMT4  只
+
+一个家具店在1998年总共卖了213张床．起初他们每个月卖出25张床，之后每个月卖出16张床，最后他们每个月卖出20张床．问：他们共有多少个月是卖出25张床？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+【关键词】香港保良局亚洲区城市小学数学邀请赛
+设卖出25、16、20张床的月份分别为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  个月，则：
+ EMBED Equation.DSMT4  
+由⑴得 EMBED Equation.DSMT4  ，代入⑵得 EMBED Equation.DSMT4  ．
+显然这个方程的正整数解只有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+所以只有1个月是卖出25张床的．
+【答案】只有1个月是卖出25张床的
+
+五年级一班共有 EMBED Equation.DSMT4  人，每人参加一个兴趣小组，共有 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  五个小组．若参加 EMBED Equation.DSMT4  组的有 EMBED Equation.DSMT4  人，参加 EMBED Equation.DSMT4  组的人数仅次于 EMBED Equation.DSMT4  组，参加 EMBED Equation.DSMT4  组、 EMBED Equation.DSMT4  组的人数相同，参加 EMBED Equation.DSMT4  组的人数最少，只有 EMBED Equation.DSMT4  人．那么，参加 EMBED Equation.DSMT4  组的有_______人．
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+【关键词】希望杯，二试
+设参加 EMBED Equation.DSMT4  组的有 EMBED Equation.DSMT4  人，参加 EMBED Equation.DSMT4  组、 EMBED Equation.DSMT4  组的有 EMBED Equation.DSMT4  人，则 EMBED Equation.DSMT4  ，
+由题知 EMBED Equation.DSMT4  ，整理得 EMBED Equation.DSMT4  ；
+由于 EMBED Equation.DSMT4  ，若 EMBED Equation.DSMT4  ，得 EMBED Equation.DSMT4  ，满足题意；若 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，与 EMBED Equation.DSMT4  矛盾；
+所以只有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  符合条件，故参加 EMBED Equation.DSMT4  组的有 EMBED Equation.DSMT4  人．
+【答案】参加 EMBED Equation.DSMT4  组的有 EMBED Equation.DSMT4  人
+
+将一群人分为甲乙丙三组，每人都必在且仅在一组．已知甲乙丙的平均年龄分为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  .甲乙两组人合起来的平均年龄为 EMBED Equation.DSMT4  ；乙丙两组人合起来的平均年龄为 EMBED Equation.DSMT4  ．则这一群人的平均年龄为      .
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+【关键词】我爱数学夏令营
+设甲乙丙三组分别有 EMBED Equation.DSMT4  人，依提议有：
+ EMBED Equation.DSMT4    
+        由⑴化简可得 EMBED Equation.DSMT4  ，由⑵化简可得 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ；
+        因此，这一群人的平均年龄为 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  个大、中、小号钢珠共重 EMBED Equation.DSMT4  克，大号钢珠每个重 EMBED Equation.DSMT4  克，中号钢珠每个重 EMBED Equation.DSMT4  克，小号钢珠每个重 EMBED Equation.DSMT4  克．问：大、中、小号钢珠各有多少个？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+设大、中、小号钢珠分别有 EMBED Equation.DSMT4  个， EMBED Equation.DSMT4  个和 EMBED Equation.DSMT4  个，则： EMBED Equation.DSMT4       EMBED Equation.DSMT4  ，得 EMBED Equation.DSMT4  ．可见 EMBED Equation.DSMT4  是3的倍数，又是7的倍数，且小于30，所以只能为21，故 EMBED Equation.DSMT4  ，代入得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．所以大、中、小号钢珠分别有3个、3个和8个．
+【答案】大、中、小号钢珠分别有3个、3个和8个
+
+袋子里有三种球，分别标有数字 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，小明从中摸出12个球，它们的数字之和是 EMBED Equation.DSMT4  ．问：小明最多摸出几个标有数字 EMBED Equation.DSMT4  的球？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+设小明摸出标有数字 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  的球分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  个，于是有
+ EMBED Equation.DSMT4      
+由 EMBED Equation.DSMT4  ，得 EMBED Equation.DSMT4  ，
+由于 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  都是正整数，因此在⑶中， EMBED Equation.DSMT4  取 EMBED Equation.DSMT4  时． EMBED Equation.DSMT4  取最大值 EMBED Equation.DSMT4  ，
+所以小明最多摸出5个标有数字2的球．
+【答案】最多摸出5个标有数字2的球
+
+公鸡1只值钱5，母鸡一只值钱3，小鸡三只值钱1，今有钱100，买鸡100只，问公鸡、母鸡、小鸡各买几只？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+设买公鸡、母鸡、小鸡各 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  只，根据题意，得方程组  EMBED Equation.DSMT4   EMBED Equation.DSMT4  由② EMBED Equation.DSMT4  ①，得 EMBED Equation.DSMT4  ，即： EMBED Equation.DSMT4  ，因为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  为正整数，所以不难得出 EMBED Equation.DSMT4  应为 EMBED Equation.DSMT4  的倍数，故 EMBED Equation.DSMT4  只能为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，从而相应 EMBED Equation.DSMT4  的值分别为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，相应 EMBED Equation.DSMT4  的值分别为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ．所以，方程组的特殊解为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以公鸡、母鸡、小鸡应分别买 EMBED Equation.DSMT4  只、 EMBED Equation.DSMT4  只、 EMBED Equation.DSMT4  只或 EMBED Equation.DSMT4  只、 EMBED Equation.DSMT4  只、 EMBED Equation.DSMT4  只或 EMBED Equation.DSMT4  只、 EMBED Equation.DSMT4  只、 EMBED Equation.DSMT4  只．
+【答案】公鸡、母鸡、小鸡应分别买 EMBED Equation.DSMT4  只、 EMBED Equation.DSMT4  只、 EMBED Equation.DSMT4  只或 EMBED Equation.DSMT4  只、 EMBED Equation.DSMT4  只、 EMBED Equation.DSMT4  只或 EMBED Equation.DSMT4  只、 EMBED Equation.DSMT4  只、 EMBED Equation.DSMT4  只
+
+小明玩套圈游戏，套中小鸡一次得 EMBED Equation.DSMT4  分，套中小猴得 EMBED Equation.DSMT4  分，套中小狗得 EMBED Equation.DSMT4  分．小明共套了 EMBED Equation.DSMT4  次，每次都套中了，每个小玩具都至少被套中一次，小明套 EMBED Equation.DSMT4  次共得 EMBED Equation.DSMT4  分．问：小明至多套中小鸡几次？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+设套中小鸡 EMBED Equation.DSMT4  次，套中小猴 EMBED Equation.DSMT4  次，则套中小狗( EMBED Equation.DSMT4  )次．根据得 EMBED Equation.DSMT4  分可列方程： EMBED Equation.DSMT4  ，化简后得 EMBED Equation.DSMT4  ．显然 EMBED Equation.DSMT4  越小， EMBED Equation.DSMT4  越大．	将 EMBED Equation.DSMT4  代入得 EMBED Equation.DSMT4  ，无整数解；若 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  ，所以小明至多套中小鸡 EMBED Equation.DSMT4  次．
+【答案】小明至多套中小鸡 EMBED Equation.DSMT4  次
+
+开学前，宁宁拿着妈妈给的 EMBED Equation.DSMT4  元钱去买笔，文具店里的圆珠笔每支 EMBED Equation.DSMT4  元，铅笔每支 EMBED Equation.DSMT4  元．宁宁买完两种笔后把钱花完．请问：她一共买了几支笔？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+ (法一)由于题中圆珠笔与铅笔的数量都不知道，但总费用已知，所以可以根据不定方程分析两种笔的数量，进而得解．设她买了 EMBED Equation.DSMT4  支圆珠笔， EMBED Equation.DSMT4  支铅笔，由题意列方程： EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  因为 EMBED Equation.DSMT4  均为整数，所以 EMBED Equation.DSMT4  应该能被 EMBED Equation.DSMT4  整除，又因为 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，宁宁共买了 EMBED Equation.DSMT4  支笔或 EMBED Equation.DSMT4  支笔．
+(法二)换个角考虑：将“一支圆珠笔和一支铅笔”看成一对，分析宁宁可能买了几对笔，不妨设为 EMBED Equation.DSMT4  对，余下的一定是圆珠笔与铅笔中的唯一一种．一对笔的售价为“ EMBED Equation.DSMT4  元，由题意可知， EMBED Equation.DSMT4  ，又 EMBED Equation.DSMT4  为整数
+当 EMBED Equation.DSMT4  时，余款为 EMBED Equation.DSMT4  ，不能被 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  整除，这种情况不可能；
+当 EMBED Equation.DSMT4  时，余款为 EMBED Equation.DSMT4  ，能被 EMBED Equation.DSMT4  整除，也就是说配对后，余下 EMBED Equation.DSMT4  支圆珠笔．此时，宁宁买了 EMBED Equation.DSMT4  支圆珠笔， EMBED Equation.DSMT4  支铅笔，共 EMBED Equation.DSMT4  支笔．
+当 EMBED Equation.DSMT4  时，余款为 EMBED Equation.DSMT4  ，能被 EMBED Equation.DSMT4  整除，也就是说配对后，余下 EMBED Equation.DSMT4  支圆珠笔．此时，宁宁买了 EMBED Equation.DSMT4  支圆珠笔， EMBED Equation.DSMT4  支铅笔，共 EMBED Equation.DSMT4  支笔．
+当 EMBED Equation.DSMT4  时，余款为 EMBED Equation.DSMT4  ，不能被 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  整除，这种情况不可能，由上面的分析可知，宁宁共买了 EMBED Equation.DSMT4  支笔或 EMBED Equation.DSMT4  支笔．
+【答案】宁宁共买了 EMBED Equation.DSMT4  支笔或 EMBED Equation.DSMT4  支笔
+
+小华和小强各用 EMBED Equation.DSMT4  角 EMBED Equation.DSMT4  分买了若干支铅笔，他们买来的铅笔中都是 EMBED Equation.DSMT4  分一支和 EMBED Equation.DSMT4  分一支的两种，而且小华买来的铅笔比小强多．小华比小强多买来铅笔多少支．
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+【关键词】迎春杯，预赛
+设买 EMBED Equation.DSMT4  分一支的铅笔 EMBED Equation.DSMT4  支， EMBED Equation.DSMT4  分一支的铅笔 EMBED Equation.DSMT4  支．则： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的倍数．用 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  代入检验，只有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  满足这一要求，得出相应的 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．即小华买铅笔 EMBED Equation.DSMT4  支，小强买铅笔 EMBED Equation.DSMT4  支，小华比小强多买 EMBED Equation.DSMT4  支．
+【答案】小华比小强多买 EMBED Equation.DSMT4  支
+
+蓝天小学举行“迎春”环保知识大赛，一共有 EMBED Equation.DSMT4  名男、女选手参加初赛，经过初赛、复赛，最后确定了参加决赛的人选．已知参加决赛的男选手的人数，占初赛的男选手人数的 EMBED Equation.DSMT4  ；参加决赛的女选手的人数，占初赛的女选手人数的 EMBED Equation.DSMT4  ，而且比参加初赛的男选手的人数多．参加决赛的男、女选手各有多少人？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+由于参加决赛的男选手的人数，占初赛的男选手人数的 EMBED Equation.DSMT4  ；参加决赛的女选手的人数，占初赛时女选手人数的 EMBED Equation.DSMT4  ，所以参加初赛的男选手人数应是 EMBED Equation.DSMT4  的倍数，参加初赛的女选手的人数应是 EMBED Equation.DSMT4  的倍数．
+设参加初赛的男生为 EMBED Equation.DSMT4  人，参加初赛的女生为 EMBED Equation.DSMT4  人．
+根据题意可列方程： EMBED Equation.DSMT4  ．
+解得 EMBED Equation.DSMT4  ，或 EMBED Equation.DSMT4  ．
+又因为参加决赛的女选手的人数，比参加决赛的男选手的人数多，也就是 EMBED Equation.DSMT4  要比 EMBED Equation.DSMT4  大，所以第一组解不合适，只有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  满足．
+故参加决赛的男选手为 EMBED Equation.DSMT4  人，女选手为 EMBED Equation.DSMT4  人．
+【答案】男选手为 EMBED Equation.DSMT4  人，女选手为 EMBED Equation.DSMT4  人
+
+今有桃 EMBED Equation.DSMT4  个，分给甲、乙两班学生吃，甲班分到的桃有 EMBED Equation.DSMT4  是坏的，其他是好的；乙班分到的桃有 EMBED Equation.DSMT4  是坏的，其他是好的．甲、乙两班分到的好桃共有几个？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+甲班分到的桃是 EMBED Equation.DSMT4  的倍数，乙班分到的桃是 EMBED Equation.DSMT4  的倍数，假设甲班分到桃 EMBED Equation.DSMT4  个，乙班分到桃 EMBED Equation.DSMT4  个．于是： EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，即甲班分到桃 EMBED Equation.DSMT4  (个)，乙班分到桃 EMBED Equation.DSMT4  (个)．所以，两班共分到好桃 EMBED Equation.DSMT4   (个)．
+【答案】两班共分到好桃 EMBED Equation.DSMT4  个
+
+甲、乙两人各有一袋糖，每袋糖都不到 EMBED Equation.DSMT4  粒．如果甲给乙一定数量的糖后，甲的糖就是乙的 EMBED Equation.DSMT4  倍；如果乙给甲同样数量的糖后，甲的糖就是乙的 EMBED Equation.DSMT4  倍．甲、乙两人共有多少粒糖？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+设甲、乙原有糖分别为 EMBED Equation.DSMT4  粒、 EMBED Equation.DSMT4  粒，甲给乙的数量为 EMBED Equation.DSMT4  粒，则依题意有：
+ EMBED Equation.DSMT4  ，且 EMBED Equation.DSMT4  ．整理得 EMBED Equation.DSMT4  
+由⑴得 EMBED Equation.DSMT4  ，代入⑵得 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ．
+因 EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ．
+若 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，不合题意．
+因而 EMBED Equation.DSMT4  ，对应方程组有唯一解 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．则甲、乙共有糖 EMBED Equation.DSMT4  粒．
+【答案】甲、乙共有糖 EMBED Equation.DSMT4  粒
+
+有两小堆砖头，如果从第一堆中取出 EMBED Equation.DSMT4  块放到第二堆中去，那么第二堆将比第一堆多一倍．如果相反，从第二堆中取出若干块放到第一堆中去，那么第一堆将是第二堆的 EMBED Equation.DSMT4  倍．问：第一堆中的砖头最少有多少块？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+设第一堆砖有 EMBED Equation.DSMT4  块，则根据第一个条件可得第二堆砖有 EMBED Equation.DSMT4  块．
+再设从第二堆中取出 EMBED Equation.DSMT4  块放在第一堆后，第一堆将是第二堆的 EMBED Equation.DSMT4  倍，可列方程：
+ EMBED Equation.DSMT4  ，化简得 EMBED Equation.DSMT4  ，
+那么 EMBED Equation.DSMT4  ．
+因为 EMBED Equation.DSMT4  是整数， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  互质，所以 EMBED Equation.DSMT4  应是 EMBED Equation.DSMT4  的倍数， EMBED Equation.DSMT4  最小是 EMBED Equation.DSMT4  ，推知 EMBED Equation.DSMT4  最小是 EMBED Equation.DSMT4  ，所以，第一堆中的砖头最少有 EMBED Equation.DSMT4  块．
+【答案】第一堆中的砖头最少有 EMBED Equation.DSMT4  块
+
+甲乙丙三个班向希望工程捐赠图书，已知甲班有 EMBED Equation.DSMT4  人捐 EMBED Equation.DSMT4  册，有 EMBED Equation.DSMT4  人各捐 EMBED Equation.DSMT4  册，其余都各捐 EMBED Equation.DSMT4  册，乙班有 EMBED Equation.DSMT4  人捐 EMBED Equation.DSMT4  册， EMBED Equation.DSMT4  人各捐 EMBED Equation.DSMT4  册，其余各捐 EMBED Equation.DSMT4  册；丙班有 EMBED Equation.DSMT4  人各卷 EMBED Equation.DSMT4  册， EMBED Equation.DSMT4  人各捐 EMBED Equation.DSMT4  册，其余各捐 EMBED Equation.DSMT4  册。已知甲班捐书总数比乙班多 EMBED Equation.DSMT4  册，乙班比丙班多 EMBED Equation.DSMT4  册，各班捐书总数在 EMBED Equation.DSMT4  册与 EMBED Equation.DSMT4  册之间，问各班各有多少人？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+【关键词】华杯赛，复赛
+我们设甲班有 EMBED Equation.DSMT4  人，乙班有 EMBED Equation.DSMT4  人，丙班有 EMBED Equation.DSMT4  人，那么三个班的捐书数目分别为：
+ EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4  ，
+根据题意有： EMBED Equation.DSMT4  ，即有 EMBED Equation.DSMT4  
+又因为各班的捐书数目都在 EMBED Equation.DSMT4  到 EMBED Equation.DSMT4  之间，因此我们知道：捐书最多的甲班有 EMBED Equation.DSMT4  ，而捐书最少的丙班有 EMBED Equation.DSMT4  ，从而有 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  ，于是有 EMBED Equation.DSMT4  ，所以有 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  。经检验，当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  不是整数，而当 EMBED Equation.DSMT4  时，有 EMBED Equation.DSMT4  ，也就是说，甲乙丙三班人数分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  。
+【答案】甲乙丙三班人数分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+
+在新年联欢会上，某班组织了一场飞镖比赛．如右图，飞镖的靶子分为三块区域，分别对应 EMBED Equation.DSMT4  分、 EMBED Equation.DSMT4  分和 EMBED Equation.DSMT4  分．每人可以扔若干次飞镖，脱靶不得分，投中靶子就可以得到相应的分数．若恰好投在两块(或三块)区域的交界线上，则得两块(或三块)区域中分数最高区域的分数．如果比赛规定恰好投中 EMBED Equation.DSMT4  分才能获奖，要想获奖至少需要投中    　   次飞镖．
+
+【考点】列不定方程解应用题            【难度】3星          【题型】解答
+【关键词】迎春杯，高年级组，复赛
+假设投中17分、11分、4分的次数分别为 EMBED Equation.DSMT4  次、 EMBED Equation.DSMT4  次和 EMBED Equation.DSMT4  次，那么投中飞镖的总次数为 EMBED Equation.DSMT4  次，而总得分为 EMBED Equation.DSMT4  分，要想获奖，必须 EMBED Equation.DSMT4  ．
+由于 EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  ．当 EMBED Equation.DSMT4  的值一定后，要使 EMBED Equation.DSMT4  最小，必须使 EMBED Equation.DSMT4  尽可能大．
+若 EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  ，此时无整数解；
+若 EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  ，此时 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ；
+若 EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  ，此时 EMBED Equation.DSMT4  最大为4，当 EMBED Equation.DSMT4  时 EMBED Equation.DSMT4  ，这种情况下 EMBED Equation.DSMT4  ；
+若 EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  ，此时 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ；
+若 EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  ，此时 EMBED Equation.DSMT4  最大为6，当 EMBED Equation.DSMT4  时 EMBED Equation.DSMT4  ，这种情况下 EMBED Equation.DSMT4  ；
+若 EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  ，此时 EMBED Equation.DSMT4  最大为9，当 EMBED Equation.DSMT4  时 EMBED Equation.DSMT4  ，这种情况下 EMBED Equation.DSMT4  ；
+若 EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  ，此时 EMBED Equation.DSMT4  最大为8，当 EMBED Equation.DSMT4  时 EMBED Equation.DSMT4  ，这种情况下 EMBED Equation.DSMT4  ．
+经过比较可知 EMBED Equation.DSMT4  的值最小为10，所以至少需要投中10次飞镖才能获奖．
+【答案】至少需要投中10次飞镖才能获奖
+
+模块三、不定方程与生活中的应用题
+某地用电收费的标准是：若每月用电不超过 EMBED Equation.DSMT4  度，则每度收 EMBED Equation.DSMT4  角；若超过 EMBED Equation.DSMT4  度，则超出部分按每度 EMBED Equation.DSMT4  角收费．某月甲用户比乙用户多交 EMBED Equation.DSMT4  元 EMBED Equation.DSMT4  角电费，这个月甲、乙各用了多少度电？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+3元3角即33角，因为 EMBED Equation.DSMT4  既不是 EMBED Equation.DSMT4  的倍数又不是 EMBED Equation.DSMT4  的倍数，所以甲、乙两用户用电的情况一定是一个超过了50度，另一个则没有超过．由于甲用户用电更多，所以甲用户用电超过 EMBED Equation.DSMT4  度，乙用户用电不足 EMBED Equation.DSMT4  度．设这个月甲用电 EMBED Equation.DSMT4  度，乙用电 EMBED Equation.DSMT4  度．因为甲比乙多交 EMBED Equation.DSMT4  角电费，所以有 EMBED Equation.DSMT4  ．容易看出 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，可知甲用电 EMBED Equation.DSMT4  度，乙用电 EMBED Equation.DSMT4  度．
+【答案】甲用电 EMBED Equation.DSMT4  度，乙用电 EMBED Equation.DSMT4  度
+
+某区对用电的收费标准规定如下：每月每户用电不超过 EMBED Equation.DSMT4  度的部分，按每度 EMBED Equation.DSMT4  元收费；超过 EMBED Equation.DSMT4  度而不超过 EMBED Equation.DSMT4  度的部分，按每度 EMBED Equation.DSMT4  元收费；超过 EMBED Equation.DSMT4  度的部分按每度 EMBED Equation.DSMT4  元收费．某月甲用户比乙用户多交电费 EMBED Equation.DSMT4  元，乙用户比丙用户多交 EMBED Equation.DSMT4  元，那么甲、乙、丙三用户共交电费多少元？(用电都按整度数收费)
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+由于丙交的电费最少，而且是求甲、乙电费的关键，先分析一下他的用电度数．因为乙用户比丙用户多交 EMBED Equation.DSMT4  元，所以二者中必有一个用电度数小于 EMBED Equation.DSMT4  度(否则差中不会出现 EMBED Equation.DSMT4  元)，丙用电少，所以丙用电度数小于 EMBED Equation.DSMT4  度，乙用电度数大于 EMBED Equation.DSMT4  度，但是不会超过 EMBED Equation.DSMT4  度(否则甲、乙用电均超过 EMBED Equation.DSMT4  度，其电费差应为 EMBED Equation.DSMT4  的整数倍，而不会是 EMBED Equation.DSMT4  元)．
+设丙用电( EMBED Equation.DSMT4  )度，乙用电( EMBED Equation.DSMT4  )度，由题意得：
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+所以 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的倍数，又 EMBED Equation.DSMT4  均为整数，且都大于 EMBED Equation.DSMT4  小于 EMBED Equation.DSMT4  
+所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+所以丙用电 EMBED Equation.DSMT4  度，交电费 EMBED Equation.DSMT4  元；乙交电费 EMBED Equation.DSMT4  元，甲交电费 EMBED Equation.DSMT4  元，三户共交电费 EMBED Equation.DSMT4  元．
+【答案】三户共交电费 EMBED Equation.DSMT4  元
+
+马小富在甲公司打工，几个月后又在乙公司兼职，甲公司每月付给他薪金 EMBED Equation.DSMT4  元，乙公司每月付给他薪金 EMBED Equation.DSMT4  元．年终，马小富从两家公司共获薪金 EMBED Equation.DSMT4  元．他在甲公司打工      个月，在乙公司兼职       个月．
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+设马小富在甲公司打工 EMBED Equation.DSMT4  月，在乙公司兼职 EMBED Equation.DSMT4  月( EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  都是不大于 EMBED Equation.DSMT4  的自然数)，则有 EMBED Equation.DSMT4  ，化简得 EMBED Equation.DSMT4  ．若 EMBED Equation.DSMT4  为偶数，则 EMBED Equation.DSMT4  的末位数字为 EMBED Equation.DSMT4  ，从而 EMBED Equation.DSMT4  的末位数字必为 EMBED Equation.DSMT4  ，这时 EMBED Equation.DSMT4  ．但 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  不是整数，不合题意，所以 EMBED Equation.DSMT4  必为奇数． EMBED Equation.DSMT4  为奇数时， EMBED Equation.DSMT4  的末位数字为 EMBED Equation.DSMT4  ，从而 EMBED Equation.DSMT4  的末位数字为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ．但 EMBED Equation.DSMT4  时容易看出 EMBED Equation.DSMT4  ，与 EMBED Equation.DSMT4  矛盾．所以， EMBED Equation.DSMT4  ，代入得 EMBED Equation.DSMT4  ．
+于是马小富在甲公司打工 EMBED Equation.DSMT4  个月，在乙公司兼职 EMBED Equation.DSMT4  个月．
+【答案】在甲公司打工 EMBED Equation.DSMT4  个月，在乙公司兼职 EMBED Equation.DSMT4  个月
+
+甲、乙、丙、丁、戊五人接受了满分为 EMBED Equation.DSMT4  分(成绩都是整数)的测验．已知：甲得了 EMBED Equation.DSMT4  分，乙得了最高分，丙的成绩与甲、丁的平均分相等，丁的成绩刚好等于五人的平均分，戊比丙多 EMBED Equation.DSMT4  分．求乙、丙、丁、戊的成绩．
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+法一：方程法． 设丁的分数为 EMBED Equation.DSMT4  分，乙的分数为 EMBED Equation.DSMT4  分，那么丙的分数为 EMBED Equation.DSMT4  分，戊的分数为 EMBED Equation.DSMT4  分，根据“丁的成绩刚好等于五人的平均分”，有 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ．因为 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  ，代入得 EMBED Equation.DSMT4  ．所以丁得 EMBED Equation.DSMT4  分，丙得 EMBED Equation.DSMT4  分，戊得 EMBED Equation.DSMT4  分，乙得 EMBED Equation.DSMT4  分．
+法二：推理法．因为丁为五人的平均分，所以丁不是成绩最低的；丙的成绩与甲、丁的平均分相等，所以丙在甲与丁之间；又因为戊和乙都比丙的成绩高，所以乙、丙、丁、戊都不是最低分，那么甲的成绩是最低的．因为甲是 EMBED Equation.DSMT4  分，所以丁可能是 EMBED Equation.DSMT4  分或 EMBED Equation.DSMT4  分(由丙的成绩与甲、丁的平均分相等知丁的得分是偶数)，经检验丁得 EMBED Equation.DSMT4  分时与题意不符，所以丁得 EMBED Equation.DSMT4  分，则丙得 EMBED Equation.DSMT4  分，戊得 EMBED Equation.DSMT4  分，乙得 EMBED Equation.DSMT4  分．
+【答案】丁得 EMBED Equation.DSMT4  分，则丙得 EMBED Equation.DSMT4  分，戊得 EMBED Equation.DSMT4  分，乙得 EMBED Equation.DSMT4  分
+
+有两个学生参加4次数学测验，他们的平均分数不同，但都是低于90分的整数．他们又参加了第5次测验，这样5次的平均分数都提高到了90分．求第5次测验两人的得分．(每次测验满分为100分)
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+设某一学生前4次的平均分为 EMBED Equation.DSMT4  分，第5次的得分为 EMBED Equation.DSMT4  分，则其5次总分为 EMBED Equation.DSMT4  ，于是 EMBED Equation.DSMT4  ．显然 EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  ．
+由于 EMBED Equation.DSMT4  为整数，可能为88和89，而且这两个学生前4次的平均分不同，所以他们前4次的平均分分别为88分和89分，那么他们第5次的得分分别为： EMBED Equation.DSMT4  分； EMBED Equation.DSMT4  分．
+【答案】第5次的得分分别为： EMBED Equation.DSMT4  分； EMBED Equation.DSMT4  分
+
+小明、小红和小军三人参加一次数学竞赛，一共有100道题，每个人各解出其中的60道题，有些题三人都解出来了，我们称之为“容易题”；有些题只有两人解出来，我们称之为“中等题”；有些题只有一人解出来，我们称之为“难题”．已知每个题都至少被他们中的一人解出，则难题比容易题多      道．
+【考点】列不定方程解应用题            【难度】3星          【题型】填空 
+设容易题、中等题和难题分别有 EMBED Equation.DSMT4  道、 EMBED Equation.DSMT4  道、 EMBED Equation.DSMT4  道，则 EMBED Equation.DSMT4  ，由 EMBED Equation.DSMT4  得 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，所以难题比容易题多20道．
+【答案】难题比容易题多20道
+
+甲、乙两个同学在一次数学擂台赛中，试卷上有解答题、选择题、填空题各若干个，而且每个小题的分值都是自然数．结果公布后，已知甲做对了5道解答题，7道选择题，9道填空题，共得52分；乙做对了7道解答题，9道选择题，11道填空题，共得68分．问：解答题、选择题、填空题的每道小题各多少分？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+设每道解答题为 EMBED Equation.DSMT4  分，每道选择题为 EMBED Equation.DSMT4  分，每道填空题为 EMBED Equation.DSMT4  分，有 EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  ．因为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  都是自然数，而且不为0，所以有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，或者 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．分别代入原方程解得 EMBED Equation.DSMT4  或者 EMBED Equation.DSMT4  ．所以解答题、选择题、填空题的每道小题的分数分别为4分、2分、2分或者3分、4分、1分．
+【答案】每道小题的分数分别为4分、2分、2分或者3分、4分、1分
+
+甲乙丙三人参加一个共有 EMBED Equation.DSMT4  个选择题的比赛，计分办法是在 EMBED Equation.DSMT4  分的基础上，每答对一题加 EMBED Equation.DSMT4  分，答错一题扣 EMBED Equation.DSMT4  分，不答既不扣分也不加分．赛完后发现根据甲所得总分可以准确算出他答对的题数，乙、丙二人所得总分相同，仅比甲少 EMBED Equation.DSMT4  分，但乙丙答对的题数却互不相同．由此可知，甲所得总分最多为       ．
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+【关键词】我爱数学夏令营
+设乙做对 EMBED Equation.DSMT4  道题，做错 EMBED Equation.DSMT4  道题；丙做对 EMBED Equation.DSMT4  道，做错 EMBED Equation.DSMT4  道， 则有 EMBED Equation.DSMT4  ． EMBED Equation.DSMT4  ，则有 EMBED Equation.DSMT4  ．要使得甲总分最高，由于乙丙仅比甲少1分，则乙丙也应尽可能总分最高，从而错题最少，其他的题全多．若 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．此时乙得分为 EMBED Equation.DSMT4  分，丙得分为 EMBED Equation.DSMT4  分，甲得分为 EMBED Equation.DSMT4  分．甲扣 EMBED Equation.DSMT4  分，只能 EMBED Equation.DSMT4  ，别无其他方式，即只能错 EMBED Equation.DSMT4  题空 EMBED Equation.DSMT4  题．若 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．此时乙得分为 EMBED Equation.DSMT4  分，甲得分为 EMBED Equation.DSMT4  分．这种得分不唯一，且得分不是最高，其他情况不可能超过 EMBED Equation.DSMT4  分．综上所述，甲的总分为 EMBED Equation.DSMT4  分．
+【答案】甲的总分为 EMBED Equation.DSMT4  分
+
+某男孩在 EMBED Equation.DSMT4  年 EMBED Equation.DSMT4  月 EMBED Equation.DSMT4  日说：“我活过的月数以及我活过的年数之差，到今天为止正好就是 EMBED Equation.DSMT4  ．”请问：他是在哪一天出生的？
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+设男孩的年龄为 EMBED Equation.DSMT4  个年和 EMBED Equation.DSMT4  个月，即 EMBED Equation.DSMT4  个月，由此有方程式： EMBED Equation.DSMT4  ，也就是 EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  而且 EMBED Equation.DSMT4  是整数，所以， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，从 EMBED Equation.DSMT4  年 EMBED Equation.DSMT4  月 EMBED Equation.DSMT4  日那天退回 EMBED Equation.DSMT4  年又 EMBED Equation.DSMT4  个月就是他的生日，为 EMBED Equation.DSMT4  年 EMBED Equation.DSMT4  月 EMBED Equation.DSMT4  日．
+【答案】 EMBED Equation.DSMT4  年 EMBED Equation.DSMT4  月 EMBED Equation.DSMT4  日
+
+某次演讲比赛，原定一等奖 EMBED Equation.DSMT4  人，二等奖 EMBED Equation.DSMT4  人，现将一等奖中的最后 EMBED Equation.DSMT4  人调整为二等奖，这样得二等奖的学生的平均分提高了 EMBED Equation.DSMT4  分，得一等奖的学生的平均分提高了 EMBED Equation.DSMT4  分，那么原来一等奖平均分比二等奖平均分多________分．
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+设原来一等奖的平均分为 EMBED Equation.DSMT4  分，二等奖的平均分为 EMBED Equation.DSMT4  分，得：
+         EMBED Equation.DSMT4  ，整理得 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，
+        所以原来一等奖平均分比二等奖平均分多 EMBED Equation.DSMT4  分．
+【答案】一等奖平均分比二等奖平均分多 EMBED Equation.DSMT4  分
+
+某次数学竞赛准备了 EMBED Equation.DSMT4  支铅笔作为奖品发给一、二、三等奖的学生，原计划一等奖每人发给 EMBED Equation.DSMT4  支，二等奖每人发给 EMBED Equation.DSMT4  支，三等奖每人发给 EMBED Equation.DSMT4  支，后来改为一等奖每人发 EMBED Equation.DSMT4  支，二等奖每人发 EMBED Equation.DSMT4  支，三等奖每人发 EMBED Equation.DSMT4  支．那么获二等奖的有      人．
+【考点】列不定方程解应用题            【难度】3星          【题型】解答 
+法一：
+根据“后来改为一等奖每人发 EMBED Equation.DSMT4  支”，可以确定获一等奖的人数小于 EMBED Equation.DSMT4  ．否则仅一等奖就要发不少于 EMBED Equation.DSMT4  支铅笔，已超过 EMBED Equation.DSMT4  支，这是不可能的．分别考虑一等奖有 EMBED Equation.DSMT4  人或者 EMBED Equation.DSMT4  人的情况：
+①获一等奖有 EMBED Equation.DSMT4  人时，改变后这 EMBED Equation.DSMT4  人共多得 EMBED Equation.DSMT4  支，那么得二等奖和三等奖的共少得了14支铅笔．
+由于改变后二等奖多得1支，三等奖少得1支，所以三等奖应比二等奖多 EMBED Equation.DSMT4  人，这样他们少得的铅笔数正好是一等奖多得的．但此时三等奖至少14人，他们的铅笔总数至少为 EMBED Equation.DSMT4  ，所以这种情况不可能发生．
+②获一等奖有1人时，类似前面情况的讨论，可以确定获三等奖的人数比二等奖多
+ EMBED Equation.DSMT4  人，所以获二等奖的有 EMBED Equation.DSMT4  (人)．
+经检验，获一等奖 EMBED Equation.DSMT4  人，获二等奖 EMBED Equation.DSMT4  人，获三等奖 EMBED Equation.DSMT4  人符合题目要求，所以有3人获二等奖．
+法二：
+设获一、二、三等奖的人数分别有 EMBED Equation.DSMT4  人、 EMBED Equation.DSMT4  人、 EMBED Equation.DSMT4  人，则有方程组：
+             EMBED Equation.DSMT4  
+由 EMBED Equation.DSMT4  将 EMBED Equation.DSMT4  消元，则有 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，显然该方程的正整数解只有 EMBED Equation.DSMT4  ，继而可得到 EMBED Equation.DSMT4  ．所以获二等奖的有3人．
+【答案】获二等奖的有3人
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+3-3-3.列不定方程解应用题.题库	                         教师版                             page  PAGE 15 of  NUMPAGES 15
+
+
+
+列不定方程解应用题
+
+教学目标
+
+知识精讲
+
+⑴⑵
+
+
+

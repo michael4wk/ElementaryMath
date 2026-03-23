@@ -1,0 +1,283 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE  \* MERGEFORMAT 
+1、比例的基本性质
+2、熟练掌握比例式的恒等变形及连比问题
+3、能够进行各种条件下比例的转化，有目的的转化；	
+4、单位“1”变化的比例问题
+5、方程解比例应用题
+
+ SHAPE  \* MERGEFORMAT 	
+比例与百分数作为一种数学工具在人们日常生活中处理多组数量关系非常有用，这一部分内容也是小升初考试的重要内容.通过本讲需要学生掌握的内容有：
+一、比和比例的性质
+性质1：若a: b=c：d，则(a + c)：(b + d)= a：b=c：d；
+性质2：若a: b=c：d，则(a - c)：(b - d)= a：b=c：d；
+性质3：若a: b=c：d，则(a +x c)：(b +x d)=a：b=c：d；(x为常数)
+性质4：若a: b=c：d，则a×d = b×c；(即外项积等于内项积)
+正比例：如果a÷b=k(k为常数)，则称a、b成正比；
+反比例：如果a×b=k(k为常数)，则称a、b成反比．
+二、主要比例转化实例
+　　①  EMBED Equation.DSMT4　EMBED Equation.DSMT4　EMBED Equation.DSMT4； EMBED Equation.DSMT4； EMBED Equation.DSMT4；
+②  EMBED Equation.DSMT4　EMBED Equation.DSMT4　EMBED Equation.DSMT4； EMBED Equation.DSMT4(其中EMBED Equation.DSMT4)；
+③  EMBED Equation.DSMT4  EMBED Equation.DSMT4　EMBED Equation.DSMT4；　EMBED Equation.DSMT4； EMBED Equation.DSMT4 ；EMBED Equation.DSMT4
+④  EMBED Equation.DSMT4，EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4；EMBED Equation.DSMT4；
+⑤  EMBED Equation.DSMT4的EMBED Equation.DSMT4等于EMBED Equation.DSMT4的EMBED Equation.DSMT4，则EMBED Equation.DSMT4是EMBED Equation.DSMT4的EMBED Equation.DSMT4，EMBED Equation.DSMT4是EMBED Equation.DSMT4的EMBED Equation.DSMT4．
+三、按比例分配与和差关系
+⑴按比例分配
+例如：将EMBED Equation.DSMT4个物体按照EMBED Equation.DSMT4的比例分配给甲、乙两个人，那么实际上甲、乙两个人各自分配到的物体数量与EMBED Equation.DSMT4的比分别为EMBED Equation.DSMT4和EMBED Equation.DSMT4，所以甲分配到EMBED Equation.DSMT4个，乙分配到EMBED Equation.DSMT4个.
+⑵已知两组物体的数量比和数量差，求各个类别数量的问题
+例如：两个类别EMBED Equation.DSMT4、EMBED Equation.DSMT4，元素的数量比为EMBED Equation.DSMT4(这里EMBED Equation.DSMT4)，数量差为EMBED Equation.DSMT4，那么EMBED Equation.DSMT4的元素数量为EMBED Equation.DSMT4，EMBED Equation.DSMT4的元素数量为EMBED Equation.DSMT4，所以解题的关键是求出EMBED Equation.DSMT4与EMBED Equation.DSMT4或EMBED Equation.DSMT4的比值．
+
+四、比例题目常用解题方式和思路
+解答分数应用题关键是正确理解、运用单位“l”。题中如果有几个不同的单位“1”，必须根据具体情况，将不同的单位“1”，转化成统一的单位“1”，使数量关系简单化，达到解决问题的效果。在解答分数应用题时，要注意以下几点：
+题中有几种数量相比较时，要选择与各个已知条件关系密切、便于直接解答的数量为单位“1”。
+若题中数量发生变化的，一般要选择不变量为单位“1”。
+应用正、反比例性质解答应用题时要注意题中某一数量是否一定，然后再确定是成正比例，还是成反比例。找出这些具体数量相对应的分率与其他具体数量之间的正、反比例关系，就能找到更好、更巧的解法。
+题中有明显的等量关系，也可以用方程的方法去解。
+赋值解比例问题
+
+ SHAPE  \* MERGEFORMAT 
+按比例分配与和差关系
+（一）量倍对应
+甲乙两车分别从 A， B两地出发，相向而行．出发时，甲、乙的速度比是5∶4，相遇后，甲的速度减少20％，乙的速度增加20％，这样，当甲到达B地时，乙离A地还有10千米．问：A，B两地相距多少千米？
+
+
+
+
+
+
+
+EMBED Equation.DSMT4、EMBED Equation.DSMT4、EMBED Equation.DSMT4三个水桶的总容积是EMBED Equation.DSMT4公升，如果EMBED Equation.DSMT4、EMBED Equation.DSMT4两桶装满水，EMBED Equation.DSMT4桶是空的；若将EMBED Equation.DSMT4桶水的全部和EMBED Equation.DSMT4桶水的EMBED Equation.DSMT4，或将EMBED Equation.DSMT4桶水的全部和EMBED Equation.DSMT4桶水的EMBED Equation.DSMT4倒入EMBED Equation.DSMT4桶，EMBED Equation.DSMT4桶都恰好装满．求EMBED Equation.DSMT4、EMBED Equation.DSMT4、EMBED Equation.DSMT4三个水桶容积各是多少公升？ 
+
+
+
+
+
+
+
+加工某种零件，甲EMBED Equation.DSMT4分钟加工EMBED Equation.DSMT4个，乙EMBED Equation.DSMT4分钟加工EMBED Equation.DSMT4个，丙EMBED Equation.DSMT4分钟加工EMBED Equation.DSMT4个．现在三人在同样的时间内一共加工EMBED Equation.DSMT4个零件．问：甲、乙、丙三人各加工多少个零件?
+
+
+
+学而思学校四五六年级共有615名学生，已知六年级学生的EMBED Equation.DSMT4，等于五年级学生的EMBED Equation.DSMT4，等于四年级学生的EMBED Equation.DSMT4。这三个年级各有多少名学生学生？
+
+
+
+
+
+
+
+一块长方形铁板，宽是长的EMBED Equation.DSMT4．从宽边截去EMBED Equation.DSMT4厘米，长边截去EMBED Equation.DSMT4以后，得到一块正方形铁板．问原来长方形铁板的长是多少厘米?
+
+
+
+
+
+
+
+一个正方形的一边减少EMBED Equation.DSMT4，另一边增加EMBED Equation.DSMT4米，得到一个长方形，这个长方形的面积与原正方形面积相等．原正方形的边长是多少米?
+
+
+
+
+
+
+
+一项机械加工作业，用4台EMBED Equation.DSMT4型机床，5天可以完成；用4台EMBED Equation.DSMT4型机床和2台EMBED Equation.DSMT4型机床3天可以完成；用3台EMBED Equation.DSMT4型机床和9台EMBED Equation.DSMT4型机床，2天可以完成，若3种机床各取一台工作5天后，剩下EMBED Equation.DSMT4、EMBED Equation.DSMT4型机床继续工作，还需要______  天可以完成作业．
+
+
+
+
+
+
+
+动物园门票大人EMBED Equation.DSMT4元，小孩EMBED Equation.DSMT4元．六一儿童节那天，儿童免票，结果与前一天相比，大人增加了EMBED Equation.DSMT4，儿童增加了EMBED Equation.DSMT4，共增加了EMBED Equation.DSMT4人，但门票收入与前一天相同．六一儿童节这天共有多少人入园？
+
+
+
+
+
+
+
+某水果批发市场存放的苹果与桃子的吨数的比是EMBED Equation.DSMT4，第一天售出苹果的EMBED Equation.DSMT4，售出桃子的吨数与所剩桃子的吨数的比是EMBED Equation.DSMT4；第二天售出苹果EMBED Equation.DSMT4吨，桃子EMBED Equation.DSMT4吨，这样一来，所剩苹果的吨数是所剩桃子吨数的EMBED Equation.DSMT4，问原有苹果和桃子各有多少吨？
+
+
+
+月初，每克黄金的价格与每桶原油的价格比是3：5。根据图中的信息回答，月初，每克黄金的价格是        元；每桶原油的价格是        元。
+
+
+
+
+某高速公路收费站对过往车辆的收费标准如图所示。一天，通过该收费站的大型车和中型车的辆数之比是5：6，中型车与小型车的辆数之比是4：11，小型车的通行费总数比大型车多270元。求：（1）这天通过收费站的大型车、中型车及小型车各有多少辆？（2）这天收费放入总数是多少元？
+
+
+参加某选拔赛第一轮比赛的男女生人数之比是4 ：3，所有参加第二轮比赛的91人中男女生人数之比是8：5，第一轮中被淘汰的男女生人数之比是3：4，那么第一轮比赛的学生共        人。
+
+
+
+
+
+
+（二）利用不变量统一份数
+有一个长方体，长和宽的比是EMBED Equation.DSMT4，宽与高的比是EMBED Equation.DSMT4．表面积为EMBED Equation.DSMT4，求这个长方体的体积.
+
+
+
+
+
+
+有一个长方体，长与宽的比是EMBED Equation.DSMT4，宽与高的比是EMBED Equation.DSMT4．已知这个长方体的全部棱长之和是EMBED Equation.DSMT4厘米，求这个长方体的体积．
+
+
+
+
+某高速公路收费站对于过往车辆收费标准是：大型车EMBED Equation.DSMT4元，中型车EMBED Equation.DSMT4元，小型车EMBED Equation.DSMT4元．一天，通过该收费站的大型车和中型车数量之比是EMBED Equation.DSMT4，中型车与小型车之比是EMBED Equation.DSMT4，小型车的通行费总数比大型车多EMBED Equation.DSMT4元．（1）这天通过收费站的大型车、中型车、小型车各有多少辆？（2）这天的收费总数是多少元？
+
+
+
+
+
+
+
+EMBED Equation.DSMT4枚壹分硬币摞在一起与EMBED Equation.DSMT4枚贰分硬币摞在一起一样高，EMBED Equation.DSMT4枚壹分硬币摞在一起与EMBED Equation.DSMT4枚伍分硬币摞在一起一样高．用壹分、贰分、伍分硬币各摞成一个圆柱体，并且三个圆柱体一样高，共用了EMBED Equation.DSMT4枚硬币，问：这些硬币的币值为多少元？
+
+
+
+
+
+
+
+某工地用EMBED Equation.DSMT4种型号的卡车运送土方．已知甲、乙、丙三种卡车载重量之比为EMBED Equation.DSMT4，速度比为EMBED Equation.DSMT4，运送土方的路程之比为EMBED Equation.DSMT4，三种车的辆数之比为EMBED Equation.DSMT4．工程开始时，乙、丙两种车全部投入运输，但甲种车只有一半投入，直到EMBED Equation.DSMT4天后，另一半甲种车才投入工作，一共干了EMBED Equation.DSMT4天完成任务．那么，甲种车完成的工作量与总工作量之比是多少？
+
+
+
+
+
+
+
+
+将一堆糖果全部分给甲、乙、丙三个小朋友．原计划甲、乙、丙三人所得糖果数的比为EMBED Equation.DSMT4．实际上，甲、乙、丙三人所得糖果数的比为EMBED Equation.DSMT4，其中有一位小朋友比原计划多得了EMBED Equation.DSMT4块糖果．那么这位小朋友是        (填“甲”、“乙”或“丙”)，他实际所得的糖果数为        块．
+
+
+
+
+
+
+
+一个周长是EMBED Equation.DSMT4厘米的大长方形，按图⑴与图⑵所示意那样，划分为四个小长方形．在图⑴中小长方形面积的比是EMBED Equation.DSMT4，EMBED Equation.DSMT4．而在图⑵中相应的比例是EMBED Equation.DSMT4，EMBED Equation.DSMT4.又知长方形EMBED Equation.DSMT4的宽减去EMBED Equation.DSMT4的宽所得到的差与EMBED Equation.DSMT4的长减去EMBED Equation.DSMT4的长所得到差之比为EMBED Equation.DSMT4．求大长方形的面积．
+     ⑵
+
+
+
+
+
+有一堆糖果，其中奶糖占45％，再放人16块水果糖后，奶糖就只占25％那么，这堆糖果中有奶糖多少块?    
+
+
+
+
+
+
+
+一堆围棋子有黑白两种颜色，拿走15枚白棋子后，黑子与白子的个数之比为EMBED Equation.DSMT4；再拿走45枚黑棋子后，黑子与白子的个数比为EMBED Equation.DSMT4，求开始时黑棋子与白棋子各有多少枚？
+
+
+
+
+
+
+
+
+今年儿子的年龄是父亲年龄的EMBED Equation.DSMT4，EMBED Equation.DSMT4年后，儿子的年龄是父亲年龄的EMBED Equation.DSMT4．今年儿子多少岁？
+
+
+
+
+
+
+
+
+
+
+
+北京中学生运动会男女运动员比例为EMBED Equation.DSMT4，组委会决定增加女子艺术体操项目，这样男女运动员比例变为EMBED Equation.DSMT4；后来又决定增加男子象棋项目，男女比例变为EMBED Equation.DSMT4,已知男子象棋项目运动员比女子艺术体操运动员多EMBED Equation.DSMT4人，则总运动员人数为多少？
+
+
+
+
+
+
+
+
+
+袋子里红球与白球的数量之比是EMBED Equation.DSMT4．放入若干只红球后，红球与白球数量之比变为EMBED Equation.DSMT4；再放入若干只白球后，红球与白球数量之比变为EMBED Equation.DSMT4．已知放入的红球比白球少EMBED Equation.DSMT4只．那么原来袋子里共有       只球．
+
+
+
+
+
+
+
+
+
+
+
+
+有若干个突击队参加某工地会战，已知每个突击队人数相同，而且每个队的女队员的人数是该队的男队员的EMBED Equation.DSMT4，以后上级从第一突击队调走了该队的一半队员，而且全是男队员，于是工地上的全体女队员的人数是剩下的全体男队员的EMBED Equation.DSMT4，问开始共有多少支突击队参加会战？
+
+
+
+
+
+
+
+
+（三）利用等量关系列方程解比例
+某学校入学考试，参加的男生与女生人数之比是EMBED Equation.DSMT4． 结果录取91人，其中男生与女生人数之比是EMBED Equation.DSMT4．未被录取的学生中，男生与女生人数之比是EMBED Equation.DSMT4． 问报考的共有多少人？
+
+
+
+
+
+
+
+
+有甲、乙两块含铜率不同的合金，甲块重EMBED Equation.DSMT4千克，乙块重EMBED Equation.DSMT4千克，现在从甲、乙两块合金上各切下重量相等的一部分，将甲块上切下的部分与乙块的剩余的部分一起熔炼，再将乙块上切下的部分与甲块的剩余的部分一起熔炼，得到的两块新合金的含铜率相同，求切下的重量为________．
+
+
+
+
+
+一个容器内注满了水。将大、中、小三个铁球这样操作：第一次，沉入小球；第二次，取出小球，沉入中球；第三次，取出中球，沉入大球。已知第一次溢出的水量是第二次的3倍，第三次溢出的水量是第一次的2倍。求小、中、大三球的体积比。
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+2-2-9.比例应用题（二）.题库	                           学生版                                  page  PAGE 7 of  NUMPAGES 7
+
+
+
+比例应用题（二）
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

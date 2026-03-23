@@ -1,0 +1,248 @@
+ SHAPE \* MERGEFORMAT 
+
+ SHAPE \* MERGEFORMAT 
+
+本讲主要是通过一些速算技巧，培养学生的数感，并通过一些大数运算转化为简单运算，让学生感受学习的成就感，进而激发学生的学习兴趣
+ SHAPE \* MERGEFORMAT 
+一、运算定律
+⑴加法交换律： EMBED Equation.DSMT4  的等比数列求和
+⑵加法结合律： EMBED Equation.DSMT4  
+⑶乘法交换律： EMBED Equation.DSMT4  
+⑷乘法结合律： EMBED Equation.DSMT4   
+⑸乘法分配律： EMBED Equation.DSMT4  （反过来就是提取公因数）
+⑹减法的性质： EMBED Equation.DSMT4  
+⑺除法的性质： EMBED Equation.DSMT4  
+	            EMBED Equation.DSMT4  
+	            EMBED Equation.DSMT4  
+上面的这些运算律，既可以从左到右顺着用，又可以从右到左逆着用．
+二、要注意添括号或者去括号对运算符号的影响
+⑴在“ EMBED Equation.DSMT4  ”号后面添括号或者去括号，括号内的“ EMBED Equation.DSMT4  ”、“ EMBED Equation.DSMT4  ”号
+都不变；
+⑵在“ EMBED Equation.DSMT4  ”号后面添括号或者去括号，括号内的“ EMBED Equation.DSMT4  ”、“ EMBED Equation.DSMT4  ”号都
+改变，其中“ EMBED Equation.DSMT4  ”号变成“ EMBED Equation.DSMT4  ”号，“ EMBED Equation.DSMT4  ”号变成“ EMBED Equation.DSMT4  ”号；
+⑶在“ EMBED Equation.DSMT4  ”号后面添括号或者去括号，括号内的“ EMBED Equation.DSMT4  ”、“ EMBED Equation.DSMT4  ”号都
+不变，但此时括号内不能有加减运算，只能有乘除运算；
+⑷在“ EMBED Equation.DSMT4  ”号后面添括号或者去括号，括号内的“ EMBED Equation.DSMT4  ”、“ EMBED Equation.DSMT4  ”号
+都改变，其中“ EMBED Equation.DSMT4  ”号变成“ EMBED Equation.DSMT4  ”号，“ EMBED Equation.DSMT4  ”号变成“ EMBED Equation.DSMT4  ”号，
+但此时括号内不能有加减运算，只能有乘除运算．
+
+ SHAPE \* MERGEFORMAT 
+计算： EMBED Equation.DSMT4   
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4         . 
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+【关键词】学而思杯，4年级
+原式 EMBED Equation.DSMT4  
+                 EMBED Equation.DSMT4  
+                 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算：2.009×43+20.09×2.9+200.9×0.28=         .
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+【关键词】希望杯，6年级，一试
+原式 EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  ． 
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+【关键词】第十届，小数报
+原式 EMBED Equation.DSMT4        EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+（法 EMBED Equation.DSMT4  ）原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+（法 EMBED Equation.DSMT4  ）也可以用凑整法来解决．
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4             .
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+【关键词】希望杯，5年级，1试
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4 
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+ 原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4          ．
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+【关键词】学而思杯，5年级，第1题
+原式 EMBED Equation.DSMT4  
+         EMBED Equation.DSMT4  
+         EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4            ．
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+【关键词】走美杯，5年级，决赛
+原式=2.88×（0.47+0.53）+0.47+1.53+（24-14）×0.11-0.1
+            =288+2+1
+            =291
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  ＝           ．
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+【关键词】走美杯，5年级，决赛
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4   
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+【关键词】第三届，兴趣杯，5年级
+原式 EMBED Equation.DSMT4        EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4   
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+【关键词】迎春杯，5年级
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4                EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算 EMBED Equation.DSMT4   
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+【关键词】希望杯，1试
+不难看出式子中 EMBED Equation.DSMT4  出现过两次： EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，由此可以联想到提取公因数
+原式 EMBED Equation.DSMT4  
+   EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  
+   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： 7.816×1.45+3.14×2.184+1.69×7.816=_____。
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+【关键词】希望杯，1试，5年级
+原式=7.816×(1.45+1.69)+3.14×2.184=7.186×3.14+3.14×2.184=31.4
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4   
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+【关键词】小学数学夏令营
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   
+【答案】 EMBED Equation.DSMT4  
+
+计算：  EMBED Equation.DSMT4  
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+原式 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  
+或 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算⑴  EMBED Equation.DSMT4        ⑵  EMBED Equation.DSMT4  
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+⑴ 原式 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  
+⑵ 原式 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )
+ EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】⑴ EMBED Equation.DSMT4                ⑵ EMBED Equation.DSMT4  
+
+计算：  EMBED Equation.DSMT4  
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+稍做处理，题中数字就能凑整化简，
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  
+     EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+【关键词】走美杯，决赛
+原式 EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+【关键词】走美杯，初赛，六年级
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  ． 
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+【关键词】迎春杯
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算 EMBED Equation.DSMT4  
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+注意到在被除数和除数的表达式中均出现了 EMBED Equation.DSMT4  ，而且分别有相近的数 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  ，我们可以考虑把被除数做如下变形：
+被除数 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+所以被除数是除数的 EMBED Equation.DSMT4  倍，所以这道题的答案是 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+⑴  EMBED Equation.DSMT4  
+⑵ ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+ (1)原式 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4   
+＝ EMBED Equation.DSMT4  
+(2)原式 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )
+＝( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  
+【答案】(1) EMBED Equation.DSMT4                (2) EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  ． 
+【考点】四则混合运算之提取公因数          【难度】 EMBED Equation.DSMT4  星         【题型】计算
+【关键词】2014全国小学数学奥林匹克
+原式 EMBED Equation.DSMT4        EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+1-1-1-1.小数四则混合运算（由K12教材中心【小学部】题库提供）	                教师版               page  PAGE 2 of  NUMPAGES 6
+
+
+
+小数四则混合运算综合
+
+教学目标
+
+
+知识点拨
+
+例题精讲
+
+
+

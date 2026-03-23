@@ -1,0 +1,286 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+1. 分析找出试题中经济问题的关键量。
+2. 建立条件之间的联系，列出等量关系式。
+3. 用解方程的方法求解。
+4. 利用分数应该题的方法进行解题
+
+ SHAPE  \* MERGEFORMAT 
+一、经济问题主要相关公式：
+EMBED Equation.DSMT4，EMBED Equation.DSMT4；
+EMBED Equation.DSMT4，EMBED Equation.DSMT4
+其它常用等量关系：
+售价=成本×（1+利润的百分数）；
+成本=卖价÷（1+利润的百分数）；
+本金：储蓄的金额；
+利率：利息和本金的比；
+利息=本金×利率×期数；
+含税价格=不含税价格×（1+增值税税率）；
+二、经济问题的一般题型
+(1)直接与利润相关的问题：
+直接与利润相关的问题，无非是找成本与销售价格的差价。
+(2)与利润无直接联系，但是涉及价格变动的问题：
+涉及价格变动，虽然没有直接提到利润的问题，但是最终还是转化成(1)的情况。
+三、解题主要方法
+1．抓不变量(一般情况下成本是不变量)；
+2．列方程解应用题．
+ SHAPE  \* MERGEFORMAT 
+摸块一，物品的出售问题
+变价出售问题
+某种蜜瓜大量上市，这几天的价格每天都是前一天的80％。妈妈第一天买了2个，第二天买了3个，第三天买了5个，共花了38元。如果这10个蜜瓜都在第三天买，那么能少花多少钱？
+【考点】经济问题          【难度】2星          【题型】解答 
+设第一天每个蜜瓜的价格是x元。列方程：2x＋3x×80％＋5x×80％×80％＝38，解得x=5（元）。都在第三天买，要花5×10×80％×80％=32（元），少花38-32＝6（元）。
+【答案】6元
+
+商店以EMBED Equation.DSMT4元一件的价格购进一批衬衫，售价为EMBED Equation.DSMT4元，由于售价太高，几天过去后还有EMBED Equation.DSMT4件没卖出去，于是商店九折出售衬衫，又过了几天，经理统计了一下，一共售出了EMBED Equation.DSMT4件，于是将最后的几件衬衫按进货价售出，最后商店一共获利EMBED Equation.DSMT4元．求商店一共进了多少件衬衫？
+【考点】经济问题          【难度】3星          【题型】解答 
+ (法1)由题目条件，一共有150件衬衫以90元或80元售出，有180件衬衫以100元或90元售出，所以以100元售出的衬衫比以80元售出的衬衫多EMBED Equation.DSMT4件，剔除30件以100元售出的衬衫，则以100元售出的衬衫和以80元售出的衬衫的数量相等，也就是说除了这30件衬衫，剩下的衬衫的平均价格为90元，平均每件利润为10元，如果将这30件100元衬衫也以90元每件出售，那么所有的衬衫的平均价格为90元，平均利润为10元，商店获利减少EMBED Equation.DSMT4元，变成2000元，所以衬衫的总数有EMBED Equation.DSMT4件．
+(法2)按进货价售出衬衫获利为EMBED Equation.DSMT4，所以商店获利的EMBED Equation.DSMT4元都是来自于之前售出的EMBED Equation.DSMT4件衬衫，这些衬衫中有的按利润为EMBED Equation.DSMT4元售出，有的按利润为EMBED Equation.DSMT4元售出，于是将问题转化为鸡兔同笼问题.可求得按EMBED Equation.DSMT4元价格售出的衬衫有EMBED Equation.DSMT4件，所以衬衫一共有EMBED Equation.DSMT4件衬衫．
+（方法3）假设全为90元销出：EMBED Equation.DSMT4（元），可以求按照100元售出件数为：EMBED Equation.DSMT4（件），所以衬衫一共有EMBED Equation.DSMT4件衬衫．
+【答案】EMBED Equation.DSMT4
+
+商店以每件50元的价格购进一批衬衫，售价为70元，当卖到只剩下7件的时候，商店以原售价的8折售出，最后商店一共获利702元，那么商店一共进了多少件衬衫？
+【考点】经济问题          【难度】2星          【题型】解答 
+ (法1)将最后7件衬衫按原价出售的话，商店应该获利EMBED Equation.DSMT4(元)，按原售价卖每件获利EMBED Equation.DSMT4元，所以一共有EMBED Equation.DSMT4件衬衫．
+(法2)除掉最后7件的利润，一共获利EMBED Equation.DSMT4(元)，所以按原价售出的衬衫一共有EMBED Equation.DSMT4件，所以一共购进EMBED Equation.DSMT4件衬衫．
+【答案】EMBED Equation.DSMT4
+
+商店以每双EMBED Equation.DSMT4元购进一批拖鞋，售价为EMBED Equation.DSMT4元，卖到还剩EMBED Equation.DSMT4双时，除去购进这批拖鞋的全部开销外还获利EMBED Equation.DSMT4元．问：这批拖鞋共有多少双？
+【考点】经济问题          【难度】2星          【题型】解答 
+ (法1)将剩余的EMBED Equation.DSMT4双拖鞋都以EMBED Equation.DSMT4元的价格售出时，总获利升至EMBED Equation.DSMT4元，即这批拖鞋以统一价格全部售出时总利润为EMBED Equation.DSMT4元；又知每双拖鞋的利润是EMBED Equation.DSMT4元，则这批拖鞋共有EMBED Equation.DSMT4双．
+     　(法2)当卖到还剩EMBED Equation.DSMT4双时，前面已卖出的拖鞋实际获利EMBED Equation.DSMT4元，则可知卖出了EMBED Equation.DSMT4双，所以这批拖鞋共计EMBED Equation.DSMT4双.
+【答案】EMBED Equation.DSMT4
+
+某书店出售一种挂历，每售出1本可获得18元利润．售出一部分后每本减价10元出售，全部售完.已知减价出售的挂历本数是原价出售挂历的2/3．书店售完这种挂历共获利润2870元．书店共售出这种挂历多少本?
+【考点】经济问题          【难度】2星          【题型】解答 
+方法一：减价出售的本数是原价出售挂历本数的2/3，所以假设总共a本数，则原价出售的为3/5a,减价后的为2/5a，所以3/5a×18＋2/5a×8=2870，所以a=205本。方法二：我们知道原价和减价后的比例为3：2，所以可求平均获利多少，即(3×18＋2×8)÷5=14元.所以2870÷14=205本。
+【答案】205本
+
+文具店有一批笔记本，按照30%的利润定价。当售出这批笔记本的80%的时候，经理决定开展促销活动，按照定价的一半出售剩余的笔记本。这样，当这批笔记本完全卖出后，实际获得利润的百分比是            。
+【考点】经济问题          【难度】2星          【题型】解答 
+【关键词】迎春杯，高年级，初赛
+ EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+成本EMBED Equation.DSMT4元的练习本1200本，按EMBED Equation.DSMT4的利润定价出售．当销掉EMBED Equation.DSMT4后，剩下的练习本打折扣出售，结果获得的利润是预定的EMBED Equation.DSMT4，问剩下的练习本出售时是按定价打了什么折扣？
+【考点】经济问题          【难度】2星          【题型】解答 
+先销掉EMBED Equation.DSMT4，可以获得利润EMBED Equation.DSMT4(元)．最后总共获得EMBED Equation.DSMT4的利润，利润共EMBED Equation.DSMT4(元)，那么出售剩下的EMBED Equation.DSMT4，要获得利润EMBED Equation.DSMT4(元)，每本需要获得利润EMBED Equation.DSMT4(元)，所以现在售价是EMBED Equation.DSMT4(元)，而定价是EMBED Equation.DSMT4(元)．售价是定价的EMBED Equation.DSMT4，故出售时是打8折．
+【答案】8折
+
+某店原来将一批苹果按EMBED Equation.DSMT4的利润(即利润是成本的EMBED Equation.DSMT4)定价出售．由于定价过高，无人购买．后来不得不按EMBED Equation.DSMT4的利润重新定价，这样出售了其中的EMBED Equation.DSMT4．此时，因害怕剩余水果腐烂变质，不得不再次降价，售出了剩余的全部水果．结果，实际获得的总利润是原定利润的EMBED Equation.DSMT4．那么第二次降价后的价格是原定价的百分之多少？
+【考点】经济问题          【难度】2星          【题型】解答 
+第二次降价的利润是：EMBED Equation.DSMT4，价格是原定价的EMBED Equation.DSMT4．
+【答案】EMBED Equation.DSMT4
+
+商店购进 EMBED Equation.DSMT4  个十二生肖玩具，运途中破损了一些．未破损的好玩具卖完后，利润率为 EMBED Equation.DSMT4  ；破损的玩具降价出售，亏损了 EMBED Equation.DSMT4  ．最后结算，商店总的利润率为 EMBED Equation.DSMT4  ．商店卖出的好玩具有多少个？
+【考点】经济问题          【难度】2星          【题型】解答 
+设商店卖出的好玩具有EMBED Equation.DSMT4个，则破损的玩具有EMBED Equation.DSMT4个．根据题意，有：
+EMBED Equation.DSMT4，解得EMBED Equation.DSMT4．故商店卖出的好玩具有820个．
+【答案】820个
+
+利民商店从一家日杂公司买进了一批蚊香，然后按希望获得的纯利润，每袋加价EMBED Equation.DSMT4定价出售．但是，按这种定价卖出这批蚊香的EMBED Equation.DSMT4时，夏季即将过去．为了加快资金的周转，利民商店按照定价打七折的优惠价，把剩余的蚊香全部卖出．这样，实际所得的纯利润比希望获得的纯利润少了EMBED Equation.DSMT4．按规定，不论按什么价钱出售，卖完这批蚊香必须上缴营业税EMBED Equation.DSMT4元(税金与买蚊香用的钱一起作为成本)．请问利民商店买进这批蚊香时一共用了多少元？
+【考点】经济问题          【难度】2星          【题型】解答 
+解法一：设买进这批蚊香共用EMBED Equation.DSMT4元，那么希望获得的纯利润为“EMBED Equation.DSMT4”元，实际上比希望的少卖的钱数为：
+EMBED Equation.DSMT4(EMBED Equation.DSMT4)EMBED Equation.DSMT4(EMBED Equation.DSMT4)EMBED Equation.DSMT4(EMBED Equation.DSMT4)EMBED Equation.DSMT4(元)．
+根据题意，得：
+EMBED Equation.DSMT4(EMBED Equation.DSMT4)EMBED Equation.DSMT4，解得EMBED Equation.DSMT4．
+故买进这批蚊香共用EMBED Equation.DSMT4元．
+解法二：设买进这批蚊香共用EMBED Equation.DSMT4元，那么希望获纯利润“EMBED Equation.DSMT4”元，实际所得利润为“(EMBED Equation.DSMT4)EMBED Equation.DSMT4(EMBED Equation.DSMT4)EMBED Equation.DSMT4”元．
+EMBED Equation.DSMT4的蚊香打七折，就相当于全部蚊香打九七折卖，这样一共卖得“EMBED Equation.DSMT4”元．
+根据题意，有：EMBED Equation.DSMT4，解得EMBED Equation.DSMT4．
+所以买进这批蚊香共用EMBED Equation.DSMT4元．
+【答案】EMBED Equation.DSMT4
+
+根据图6中的对话内容，分别求出饼干和牛奶的标价各多少元？
+
+【考点】经济问题          【难度】3星          【题型】解答 
+【关键词】希望杯，六年级，二试
+因为打9折前不够，打9折后还多出8角，所以打9折减少的价钱超过8角，也就是说原价大于8元。 又因为“用10元钱买一盒饼干是够的，再买一盒牛奶就不够了”，说明饼干的价格小于10元。因为是整数元，所以是9元。 牛奶的价格为10-9×0.9-0.8=1.1（元）。
+【答案】1.1元
+
+不能求价格的经济问题
+某商店进了一批笔记本，按EMBED Equation.DSMT4的利润定价．当售出这批笔记本的EMBED Equation.DSMT4后，为了尽早销完，商店把这批笔记本按定价的一半出售．问销完后商店实际获得的利润百分数是多少？
+【考点】经济问题          【难度】2星          【题型】解答 
+设这批笔记本的成本是“1”．因此定价是EMBED Equation.DSMT4．其中EMBED Equation.DSMT4的卖价是EMBED Equation.DSMT4，EMBED Equation.DSMT4的卖价是EMBED Equation.DSMT4．
+因此全部卖价是EMBED Equation.DSMT4．
+实际获得利润的百分数是EMBED Equation.DSMT4．
+【答案】EMBED Equation.DSMT4
+
+某商按定价的80%（八折）出售，仍能获得20%的利润，定价时期望的利润百分数是多少？
+【考点】经济问题          【难度】2星          【题型】解答 
+设定价时“1”，卖价是定价的80%，就是0.8.因为获得20%的利润，卖价是成本乘以（1+20%），即1.2倍，所以成本是定价的 EMBED Equation.DSMT4  ，定价的期望利润的百分数是 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+某公司股票当年下跌20％，第二年上涨多少才能保持原值?
+【考点】经济问题          【难度】1星          【题型】解答 
+本题需要了解股票下跌和上涨之间的关系,因为上涨值未知,所以可设某公司股票为1,第二年上涨x才能保持原值,则可列方程为:（1－20%）×（1＋x）=1，所以x＝25%，则第二年应该上涨25%才能保持原值.
+【答案】25%
+
+过年时，某商品打八折销售，过完年，此商品提价________%可恢复原来的价格。
+【考点】经济问题          【难度】1星          【题型】解答 
+【关键词】希望杯，六年级，一试
+100%÷80%-1=0.25，所以此商品应提价25%.
+【答案】25%
+
+某书店购回甲、乙两种定价相同的书，其中甲种书占EMBED Equation.DSMT4，需按定价的EMBED Equation.DSMT4付款给批发商，乙种书按定价的EMBED Equation.DSMT4付款给批发商，请算算，书店按定价销售完这两种书后获利的百分率是多少？
+【考点】经济问题          【难度】2星          【题型】解答 
+【关键词】清华附中
+设甲、乙两种书的定价为EMBED Equation.DSMT4，甲、乙两种书的总量为EMBED Equation.DSMT4，则甲种书数量为EMBED Equation.DSMT4，乙种书数量为EMBED Equation.DSMT4，则书店购买甲、乙两种书的成本为：EMBED Equation.DSMT4，而销售所得为EMBED Equation.DSMT4，所以获利的百分率为：EMBED Equation.DSMT4．
+【答案】EMBED Equation.DSMT4
+
+某汽车工厂生产汽车，由于钢铁价格上升，汽车的成本也上升了EMBED Equation.DSMT4，于是工厂以原售价提高EMBED Equation.DSMT4 的价格出售汽车，虽然如此，工厂每出售一辆汽车所得的利润还是减少了EMBED Equation.DSMT4，求钢铁价格上升之前的利润率.
+【考点】经济问题          【难度】2星          【题型】解答 
+由题目的条件可知，原来出售一辆汽车的利润的EMBED Equation.DSMT4等于汽车成本的EMBED Equation.DSMT4减去汽车原售价的EMBED Equation.DSMT4，设每辆原来的利润为EMBED Equation.DSMT4，汽车的成本为EMBED Equation.DSMT4，那么可列出方程：EMBED Equation.DSMT4，解得EMBED Equation.DSMT4，所以EMBED Equation.DSMT4，即利润率为EMBED Equation.DSMT4.
+【答案】EMBED Equation.DSMT4
+
+某种商品的利润率为EMBED Equation.DSMT4，如果现在进货价提高了EMBED Equation.DSMT4，商店也随之将零售价提高EMBED Equation.DSMT4，那么此时该商品的利润率是多少？
+【考点】经济问题          【难度】2星          【题型】解答 
+设原来该商品的进货价为EMBED Equation.DSMT4元，则原来的零售价为EMBED Equation.DSMT4元，现在该商品的进货价为EMBED Equation.DSMT4元，零售价为EMBED Equation.DSMT4元，所以现在该商品的利润率为EMBED Equation.DSMT4.
+【答案】EMBED Equation.DSMT4
+
+某种商品的利润率是20％。如果进货价降低20％，售出价保持不变，那么利润率将是多少？
+【考点】经济问题          【难度】2星          【题型】解答 
+设原来成本为100元，则相应的利润为20元，定价为120元；成本降低20%，变成80元，而售价不变，在现在的利润率为EMBED Equation.DSMT4.
+【答案】EMBED Equation.DSMT4
+
+摸块二，利率纳税问题
+银行整存整取的年利率是：二年期为11．7％，三年期为12．24％，五年期为13．86％．如果甲、乙二人同时各存人一万元，甲先存二年期，到期后连本带利改存三年期；乙存五年期．五年后，二人同时取出，那么谁的收益多，多多少元？
+【考点】经济问题          【难度】1星          【题型】解答 
+甲存二年期，则两年后获得利息为：1×11.7%×2=0.234（万），再存三年期则为：（1+23.4%）×12.24%×3=0.453（万元），乙存五年期，则五年后获得1×13.86%×5=0.693（万元），所以乙比甲多，0.693-0.453=0.24（万元）。
+【答案】乙比甲多0.24万元
+
+王明把3000元钱存入银行，年利率2.1%，每年取出后在次存入，这样三年后一共能取出多少元钱？
+【考点】经济问题          【难度】2星          【题型】解答 
+EMBED Equation.DSMT4
+【答案】 EMBED Equation.DSMT4  
+
+小李现有一笔存款,他把每月支出后剩余的钱都存入银行。已知小李每月的收入相同,如果他每月支出1000元，则一年半后小李有存款8000元（不计利息）；如果他每月支出800元，则两年后他有存款12800元(不计利息).小李每月的收入是______元,他现在存款_______元。
+【考点】经济问题          【难度】2星          【题型】解答 
+【关键词】希望杯，六年级，一试
+如果小李不支出，则一年半后有存款8000+1000×18=26000元，两年后有12800+800×24=36800元.所以半年存款增加32000-26000=6000元，每月增加6000÷6=1000元.所以小李月收入为1000元，原来的存款有12800-（1000-800）×24=8000元.
+【答案】月收入为1000元，存款8000元。
+
+《中华人民共和国个人所得税法》中的个人所得税税率表(工资、薪金所得适用)如下：
+级数
+    全月应纳税所得额
+税率％
+1
+    不超过500元的部分
+    5
+2
+超过500元至2000元的部分
+    10
+3
+超过2000元至5000元的部分
+    15
+
+表中“全月应纳税所得额’’是指从工资、薪金收入中减去800元后的余额。
+已知王老师某个月应交纳此项税款280元，求王老师这个月的工资、薪金收入。
+【考点】经济问题          【难度】2星          【题型】解答 
+【关键词】希望杯，五年级，二试
+分别以全月工资、薪金所得为900元，1300元，2800元，5800元计算应交纳此项税款额依次为   (1300-800)×5％=25(元)；  (3分)
+    500×5％+(2800-800-500)×10％=25+150=175(元)；    (3分)
+500×5％+(2000—500)×lO％+(5800-800-2000)×15％
+=25+150+450=625(元)。 (4分)
+因为    175<280<625，所以  王老师这个月的工资、薪金收入大于2800元而小于5800元。  (6分)
+从而知，王老师这个月的工资、薪金收入中大于2800元的部分应交纳此项税款额为
+    280-175-105(元)。 又因为    105÷15％=700(元)，    (8分)
+所以  王老师这个月的工资、薪金收入应比2800元多700元，即3500元。    (10分)
+【答案】3500元。
+
+摸块三，两种方式的选择与比较
+春节期间，原价EMBED Equation.DSMT4元／件的某商品按以下两种方式促销：第一种方式：减价EMBED Equation.DSMT4元后再打八折；第二种方式：打八折后再减价EMBED Equation.DSMT4元．那么，能使消费者少花钱的方式是第        种。
+【考点】经济问题          【难度】1星          【题型】解答 
+【关键词】希望杯，一试，六年级
+方法一：设原价是EMBED Equation.DSMT4元，第一种促销价为EMBED Equation.DSMT4（元），第二种促销价为EMBED Equation.DSMT4元，由于EMBED Equation.DSMT4，所以少花钱的方式是第二种.
+方法二：第一种促销价格为EMBED Equation.DSMT4，第二种促销价格为EMBED Equation.DSMT4（元），所以选第二种。
+【答案】第二种
+
+甲、乙两店都经营同样的某种商品，甲店先涨价10%后，又降价10%；乙店先涨价15%后，又降价15%。此时，哪个店的售价高些？
+【考点】经济问题          【难度】2星          【题型】解答 
+甲店原价：EMBED Equation.DSMT4；
+对于乙店原价为：EMBED Equation.DSMT4 ，所以甲店售价更高些。
+【答案】 EMBED Equation.DSMT4  
+
+甲、乙两商店中某种商品的定价相同。甲商店按定价销售这种商品。销售额是7200元；乙商店按定价的八折销售，比甲商店多售出15件。销售额与甲商店相同。则甲商店售出              件这种商品。
+【考点】经济问题          【难度】2星          【题型】解答 
+【关键词】希望杯，5年级，1试
+方法一：乙商店按定价的八折出售，则数量之比为：4:5，现在乙商店比甲商店多售出15件，则甲商店售出15×4=60件。
+方法二：假如乙商店和甲商店售出一样多的商品，它的销售额应是 EMBED Equation.DSMT4 ，但是他多卖了15件，也就多卖了7200-5760=1440元，说明一件商品价格是96元，那么甲商店卖出的总件数就是 EMBED Equation.DSMT4 。
+【答案】 EMBED Equation.DSMT4  
+
+有一种商品，甲店进货价比乙店进货价便宜EMBED Equation.DSMT4．甲店按EMBED Equation.DSMT4的利润来定价，乙店按EMBED Equation.DSMT4的利润来定价，甲店的定价比乙店的定价便宜EMBED Equation.DSMT4元．甲店的进货价是多少元？
+【考点】经济问题          【难度】2星          【题型】解答 
+因为甲店进货价比乙店进货价便宜EMBED Equation.DSMT4，所以甲店进货价是乙店的EMBED Equation.DSMT4．设乙店的进货价为EMBED Equation.DSMT4元，则甲店的进货价为EMBED Equation.DSMT4元．由题意可知，甲店的定价为EMBED Equation.DSMT4元，乙店的定价为EMBED Equation.DSMT4元，而最终甲店的定价比乙店的定价便宜EMBED Equation.DSMT4元，由此可列方程：EMBED Equation.DSMT4．解得EMBED Equation.DSMT4(元)，那么甲店的进货价为EMBED Equation.DSMT4(元)．
+【答案】EMBED Equation.DSMT4
+
+EMBED Equation.DSMT4年EMBED Equation.DSMT4月，我国南方普降大雪，受灾严重．李先生拿出积蓄捐给两个受灾严重的地区，随着事态的发展，李先生决定追加捐赠资金．如果两地捐赠资金分别增加EMBED Equation.DSMT4和EMBED Equation.DSMT4，则总捐资额增加EMBED Equation.DSMT4；如果两地捐赠资金分别增加EMBED Equation.DSMT4和EMBED Equation.DSMT4，则总捐资额增加EMBED Equation.DSMT4万元．李先生第一次捐赠了多少万元？
+【考点】经济问题          【难度】1星          【题型】解答 
+【关键词】西城实验
+两地捐赠资金分别增加EMBED Equation.DSMT4和EMBED Equation.DSMT4，则总捐资额增加EMBED Equation.DSMT4，如果再在这个基础上两地各增加第一次捐资的EMBED Equation.DSMT4，那么两地捐赠资金分别增加到EMBED Equation.DSMT4和EMBED Equation.DSMT4，总捐资额增加了EMBED Equation.DSMT4，恰好对应13万，所以第一次李先生捐资EMBED Equation.DSMT4万.
+【答案】EMBED Equation.DSMT4
+
+商店进了一批钢笔，用零售价10元卖出20支与用零售价11元卖出15支的利润相同．这批钢笔的进货价是每支多少钱？
+【考点】经济问题          【难度】2星          【题型】解答 
+ (法1)由于两种方式卖的钢笔的利润相同，而卖的支数不同，所卖的支数比为EMBED Equation.DSMT4，所以两种方式所卖钢笔的利润比为EMBED Equation.DSMT4，即EMBED Equation.DSMT4，而单支笔的利润差为EMBED Equation.DSMT4(元)，所以两种方式，每支笔的利润分别为：EMBED Equation.DSMT4元和EMBED Equation.DSMT4元，所以钢笔的进货价为EMBED Equation.DSMT4元．
+(法2)由于两种卖法的利润相等，所以两种卖法的销售额之差和两种卖法的成本之差相等，所以EMBED Equation.DSMT4支钢笔的成本和EMBED Equation.DSMT4支钢笔的成本的差为EMBED Equation.DSMT4元，由于单支笔的成本价格是一样的，所以每只钢笔的成本为EMBED Equation.DSMT4(元)．
+【答案】EMBED Equation.DSMT4元
+
+某商品按照零售价10元卖出20件所得到的利润和按照零售价9元卖出30件所得到的利润相等，求该商品的进货价．
+【考点】经济问题          【难度】2星          【题型】解答 
+该商品按照零售价10元所得利润和按照9元所得的利润之比为EMBED Equation.DSMT4，所以按照第一种方式得利润为EMBED Equation.DSMT4元，该商品的进货价为EMBED Equation.DSMT4元．
+【答案】EMBED Equation.DSMT4元
+
+王老师到木器厂订做240套课桌椅，每套定价80元。王老师对厂长说：“如果1套桌椅每减价1元，我就多订10套。”厂长想了想，每套桌椅减价10%所获得的利润与不减价所获得的利润同样多，于是答应了王老师的要求。那么每套桌椅的成本是元            。
+【考点】经济问题          【难度】2星          【题型】解答 
+【关键词】迎春杯，高年级，初赛
+ EMBED Equation.DSMT4  ，减价 EMBED Equation.DSMT4  就是每套减 EMBED Equation.DSMT4  元，王老师要多订 EMBED Equation.DSMT4  套。设每套桌椅的成本是 EMBED Equation.DSMT4  元，则 EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  （元）。
+【答案】EMBED Equation.DSMT4元
+
+张先生向商店订购某种商品80件，每件定价100元．张先生向商店经理说：“如果你肯减价，每减1元，我就多订4件．”商店经理算了一下，如果减价EMBED Equation.DSMT4，那么由于张先生多订购，仍可获得与原来一样多的利润．问：这种商品的成本是多少？
+【考点】经济问题          【难度】2星          【题型】解答 
+减价EMBED Equation.DSMT4即减去EMBED Equation.DSMT4元时，张先生应多定EMBED Equation.DSMT4件，前后所订件数之比为EMBED Equation.DSMT4；又前后所获得的总利润一样多，则每件商品的利润之比为EMBED Equation.DSMT4．前后售价相差EMBED Equation.DSMT4元，则利润也相差EMBED Equation.DSMT4元，所以原来的利润应为EMBED Equation.DSMT4元，因此该商品的成本是EMBED Equation.DSMT4元.
+【答案】EMBED Equation.DSMT4元
+
+某商品按定价出售，每个可获利润EMBED Equation.DSMT4元，如果按定价的EMBED Equation.DSMT4出售EMBED Equation.DSMT4件，与按定价每个减价EMBED Equation.DSMT4元出售EMBED Equation.DSMT4件所获的利润一样多，那么这种商品每件定价      元．
+【考点】经济问题          【难度】2星          【题型】解答 
+每个减价25元也就是说每个利润变为20元，则12件获利润240元．按定价的EMBED Equation.DSMT4出售10件也获利润240元，所以每个获利润24元，比按定价出售少了21元．说明这21元是定价的EMBED Equation.DSMT4，所以定价是EMBED Equation.DSMT4元．
+【答案】EMBED Equation.DSMT4元
+
+某商品76件，出售给33位顾客，每位顾客最多买三件．如果买一件按原定价，买两件降价EMBED Equation.DSMT4，买三件降价EMBED Equation.DSMT4，最后结算，平均每件恰好按原定价的EMBED Equation.DSMT4出售．那么买三件的顾客有多少人？
+【考点】经济问题          【难度】2星          【题型】解答 
+如果对于浓度倒三角比较熟悉，容易想到EMBED Equation.DSMT4，所以1个买一件的与1个买三件的合起来看，正好每件是原定价的EMBED Equation.DSMT4．由于买2件的，每件价格是原定价的EMBED Equation.DSMT4，高于EMBED Equation.DSMT4，所以将买一件的与买三件的一一配对后，仍剩下一些买三件的人，由于EMBED Equation.DSMT4，所以剩下的买三件的人数与买两件的人数的比是EMBED Equation.DSMT4．于是33个人可分成两种，一种每2人买4件，一种每5人买12件，共买76件，所以后一种有EMBED Equation.DSMT4(人)．其中买二件的有：EMBED Equation.DSMT4(人)．前一种有EMBED Equation.DSMT4(人)，其中买一件的有EMBED Equation.DSMT4(人)．于是买三件的有EMBED Equation.DSMT4(人)．
+【答案】EMBED Equation.DSMT4人
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+2-2-5.经济问题（二）.题库	                               教师版                                  page  PAGE 12 of  NUMPAGES 13
+
+
+
+经济问题（二）
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

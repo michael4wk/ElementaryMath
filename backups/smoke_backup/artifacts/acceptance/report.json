@@ -1,0 +1,38 @@
+{
+  "snapshot": {
+    "assets_total": 358,
+    "topics_total": 179,
+    "problems_total": 1303,
+    "extract_success_rate_pct": 100.0,
+    "graph_edges": 253,
+    "chapter_edges": 33
+  },
+  "quality": {
+    "missing_method_tags_rate_pct": 0.0,
+    "missing_grade_band_rate_pct": 11.9,
+    "missing_difficulty_rate_pct": 1.61,
+    "empty_analysis_rate_pct": 19.26,
+    "missing_learning_objectives_rate_pct": 70.39,
+    "missing_common_mistakes_rate_pct": 39.66,
+    "missing_summary_rate_pct": 0.0
+  },
+  "graph_validation": {
+    "topic_cycle_detected": false,
+    "chapter_cycle_detected": false,
+    "override_error_count": 0
+  },
+  "incremental": {
+    "change_count": 0,
+    "added": 0,
+    "modified": 0,
+    "deleted": 0
+  },
+  "acceptance_view": {
+    "data_preparation_ready": true,
+    "extraction_ready": true,
+    "model_ready_minimum": true,
+    "graph_ready": true,
+    "incremental_ready": true,
+    "ops_ready": false
+  }
+}

@@ -1,0 +1,413 @@
+
+
+
+
+
+
+
+
+
+ SHAPE  \* MERGEFORMAT 
+
+熟练掌握不定方程的解题技巧
+能够根据题意找到等量关系设未知数解方程
+学会解不定方程的经典例题
+
+ SHAPE  \* MERGEFORMAT 
+一、知识点说明
+历史概述
+不定方程是数论中最古老的分支之一．古希腊的丢番图早在公元 EMBED Equation.DSMT4  世纪就开始研究不定方程，因此常称不定方程为丢番图方程．中国是研究不定方程最早的国家，公元初的五家共井问题就是一个不定方程组问题，公元 EMBED Equation.DSMT4  世纪的《张丘建算经》中的百鸡问题标志着中国对不定方程理论有了系统研究．宋代数学家秦九韶的大衍求一术将不定方程与同余理论联系起来．
+考点说明
+在各类竞赛考试中，不定方程经常以应用题的形式出现，除此以外，不定方程还经常作为解题的重要方法贯穿在行程问题、数论问题等压轴大题之中．在以后初高中数学的进一步学习中，不定方程也同样有着重要的地位，所以本讲的着重目的是让学生学会利用不定方程这个工具，并能够在以后的学习中使用这个工具解题。
+二、运用不定方程解应用题步骤
+1、根据题目叙述找到等量关系列出方程
+2、根据解不定方程方法解方程
+3、找到符合条件的解
+模块一、不定方程与数论
+把 EMBED Equation.DSMT4  拆成两个正整数的和，一个是 EMBED Equation.DSMT4  的倍数（要尽量小），一个是 EMBED Equation.DSMT4  的倍数（要尽量大），求这两个数．
+
+
+
+
+
+
+甲、乙二人搬砖，甲搬的砖数是 EMBED Equation.DSMT4  的倍数，乙搬的砖数是 EMBED Equation.DSMT4  的倍数，两人共搬了 EMBED Equation.DSMT4  块砖．问：甲、乙二人谁搬的砖多？多几块？
+
+
+
+
+
+
+
+现有足够多的 EMBED Equation.DSMT4  角和 EMBED Equation.DSMT4  角的邮票，用来付 EMBED Equation.DSMT4  元的邮资，问 EMBED Equation.DSMT4  角的邮票需要多少张？
+
+
+
+
+
+
+用十进制表示的某些自然数，恰等于它的各位数字之和的 EMBED Equation.DSMT4  倍，则满足条件的所有自然数之和为___________________.
+
+
+
+
+
+
+模块二、不定方程与应用题
+有两种不同规格的油桶若干个，大的能装 EMBED Equation.DSMT4  千克油，小的能装 EMBED Equation.DSMT4  千克油， EMBED Equation.DSMT4  千克油恰好装满这些油桶．问：大、小油桶各几个？
+
+
+
+
+
+
+
+
+在一次活动中，丁丁和冬冬到射击室打靶，回来后见到同学“小博士”，他们让“小博士”猜他们各命中多少次．“小博士”让丁丁把自己命中的次数乘以 EMBED Equation.DSMT4  ，让冬冬把自己命中的次数乘以 EMBED Equation.DSMT4  ，再把两个得数加起来告诉他，丁丁和冬冬算了一下是 EMBED Equation.DSMT4  ，“小博士”正确地说出了他们各自命中的次数．你知道丁丁和冬冬各命中几次吗？
+
+
+
+
+
+
+
+某人打靶， EMBED Equation.DSMT4  发共打了 EMBED Equation.DSMT4  环，全部命中在 EMBED Equation.DSMT4  环、 EMBED Equation.DSMT4  环和 EMBED Equation.DSMT4  环上．问：他命中 EMBED Equation.DSMT4  环、 EMBED Equation.DSMT4  环和 EMBED Equation.DSMT4  环各几发？
+
+
+
+
+
+
+
+某次聚餐，每一位男宾付 EMBED Equation.DSMT4  元，每一位女宾付 EMBED Equation.DSMT4  元，每带一个孩子付 EMBED Equation.DSMT4  元，现在有 EMBED Equation.DSMT4  的成人各带一个孩子，总共收了 EMBED Equation.DSMT4  元，问：这个活动共有多少人参加(成人和孩子)？
+
+
+
+
+
+
+
+
+
+单位的职工到郊外植树，其中有男职工，也有女职工，并且有 EMBED Equation.DSMT4  的职工各带一个孩子参加．男职工每人种 EMBED Equation.DSMT4  棵树，女职工每人种 EMBED Equation.DSMT4  棵树，每个孩子都种 EMBED Equation.DSMT4  棵树，他们一共种了 EMBED Equation.DSMT4  棵树，那么其中有多少名男职工？
+
+
+
+
+
+
+
+张师傅每天能缝制 EMBED Equation.DSMT4  件上衣，或者 EMBED Equation.DSMT4  件裙裤，李师傅每天能缝制 EMBED Equation.DSMT4  件上衣，或者 EMBED Equation.DSMT4  件裙裤，两人 EMBED Equation.DSMT4  天共缝制上衣和裙裤 EMBED Equation.DSMT4  件，那么其中上衣是多少件？
+
+
+
+
+
+小花狗和波斯猫是一对好朋友，它们在早晚见面时总要叫上几声表示问候．若是早晨见面，小花狗叫两声，波斯猫叫一声；若是晚上见面，小花狗叫两声，波斯猫叫三声．细心的小娟对它们的叫声统计了 EMBED Equation.DSMT4  天，发现它们并不是每天早晚都见面．在这 EMBED Equation.DSMT4  天内它们共叫了 EMBED Equation.DSMT4  声．问：波斯猫至少叫了多少声？ 
+
+
+
+
+
+
+
+甲、乙两人生产一种产品，这种产品由一个 EMBED Equation.DSMT4  配件与一个 EMBED Equation.DSMT4  配件组成．甲每天生产300个 EMBED Equation.DSMT4  配件，或生产150个 EMBED Equation.DSMT4  配件；乙每天生产120个 EMBED Equation.DSMT4  配件，或生产48个 EMBED Equation.DSMT4  配件．为了在10天内生产出更多的产品，二人决定合作生产，这样他们最多能生产出多少套产品？
+
+
+
+
+
+
+某服装厂有甲、乙两个生产车间，甲车间每天能生产上衣16件或裤子20件；乙车间每天能生产上衣18件或裤子24件．现在要上衣和裤子配套，两车间合作21天，最多能生产多少套衣服？
+
+
+
+
+
+有一项工程，甲单独做需要 EMBED Equation.DSMT4  天完成，乙单独做需要 EMBED Equation.DSMT4  天完成，丙单独做需要 EMBED Equation.DSMT4  天完成，现在由甲、乙、丙三人同时做，在工作期间，丙休息了整数天，而甲和乙一直工作至完成，最后完成这项工程也用了整数天，那么丙休息了       天．
+
+
+
+
+实验小学的五年级学生租车去野外开展“走向大自然，热爱大自然”活动，所有的学生和老师共 EMBED Equation.DSMT4  人恰好坐满了 EMBED Equation.DSMT4  辆大巴车和 EMBED Equation.DSMT4  辆中巴车，已知每辆中巴车的载客人数在 EMBED Equation.DSMT4  人到 EMBED Equation.DSMT4  人之间，求每辆大巴车的载客人数．
+
+
+
+
+
+实验小学的五年级学生租车去野外开展“走向大自然，热爱大自然”活动，所有的学生和老师共 EMBED Equation.DSMT4  人恰好坐满了 EMBED Equation.DSMT4  辆大巴车和 EMBED Equation.DSMT4  辆中巴车，已知每辆中巴车的载客人数在 EMBED Equation.DSMT4  人到 EMBED Equation.DSMT4  人之间，求每辆大巴车的载客人数．
+
+
+
+
+
+
+每辆大汽车能容纳54人，每辆小汽车能容纳36人．现有378人，要使每个人都上车且每辆车都装满，需要大、小汽车各几辆？
+
+
+
+
+
+
+
+小伟听说小峰养了一些兔和鸡，就问小峰：“你养了几只兔和鸡？”小峰说：“我养的兔比鸡多，鸡兔共 EMBED Equation.DSMT4  条腿．”那么小峰养了多少兔和鸡？
+
+
+
+
+
+
+
+
+
+一个家具店在1998年总共卖了213张床．起初他们每个月卖出25张床，之后每个月卖出16张床，最后他们每个月卖出20张床．问：他们共有多少个月是卖出25张床？
+
+
+
+
+
+
+
+
+
+
+
+五年级一班共有 EMBED Equation.DSMT4  人，每人参加一个兴趣小组，共有 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  五个小组．若参加 EMBED Equation.DSMT4  组的有 EMBED Equation.DSMT4  人，参加 EMBED Equation.DSMT4  组的人数仅次于 EMBED Equation.DSMT4  组，参加 EMBED Equation.DSMT4  组、 EMBED Equation.DSMT4  组的人数相同，参加 EMBED Equation.DSMT4  组的人数最少，只有 EMBED Equation.DSMT4  人．那么，参加 EMBED Equation.DSMT4  组的有_______人．
+
+
+
+
+
+
+将一群人分为甲乙丙三组，每人都必在且仅在一组．已知甲乙丙的平均年龄分为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  .甲乙两组人合起来的平均年龄为 EMBED Equation.DSMT4  ；乙丙两组人合起来的平均年龄为 EMBED Equation.DSMT4  ．则这一群人的平均年龄为      .
+
+
+
+
+
+
+
+
+
+ EMBED Equation.DSMT4  个大、中、小号钢珠共重 EMBED Equation.DSMT4  克，大号钢珠每个重 EMBED Equation.DSMT4  克，中号钢珠每个重 EMBED Equation.DSMT4  克，小号钢珠每个重 EMBED Equation.DSMT4  克．问：大、中、小号钢珠各有多少个？
+
+
+
+
+
+
+
+袋子里有三种球，分别标有数字 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，小明从中摸出12个球，它们的数字之和是 EMBED Equation.DSMT4  ．问：小明最多摸出几个标有数字 EMBED Equation.DSMT4  的球？
+
+
+
+
+
+
+
+
+公鸡1只值钱5，母鸡一只值钱3，小鸡三只值钱1，今有钱100，买鸡100只，问公鸡、母鸡、小鸡各买几只？
+
+
+
+
+
+
+
+小明玩套圈游戏，套中小鸡一次得 EMBED Equation.DSMT4  分，套中小猴得 EMBED Equation.DSMT4  分，套中小狗得 EMBED Equation.DSMT4  分．小明共套了 EMBED Equation.DSMT4  次，每次都套中了，每个小玩具都至少被套中一次，小明套 EMBED Equation.DSMT4  次共得 EMBED Equation.DSMT4  分．问：小明至多套中小鸡几次？
+
+
+
+
+
+
+开学前，宁宁拿着妈妈给的 EMBED Equation.DSMT4  元钱去买笔，文具店里的圆珠笔每支 EMBED Equation.DSMT4  元，铅笔每支 EMBED Equation.DSMT4  元．宁宁买完两种笔后把钱花完．请问：她一共买了几支笔？
+
+
+
+
+
+
+
+
+小华和小强各用 EMBED Equation.DSMT4  角 EMBED Equation.DSMT4  分买了若干支铅笔，他们买来的铅笔中都是 EMBED Equation.DSMT4  分一支和 EMBED Equation.DSMT4  分一支的两种，而且小华买来的铅笔比小强多．小华比小强多买来铅笔多少支．
+
+
+
+
+
+
+蓝天小学举行“迎春”环保知识大赛，一共有 EMBED Equation.DSMT4  名男、女选手参加初赛，经过初赛、复赛，最后确定了参加决赛的人选．已知参加决赛的男选手的人数，占初赛的男选手人数的 EMBED Equation.DSMT4  ；参加决赛的女选手的人数，占初赛的女选手人数的 EMBED Equation.DSMT4  ，而且比参加初赛的男选手的人数多．参加决赛的男、女选手各有多少人？
+
+
+
+
+
+
+今有桃 EMBED Equation.DSMT4  个，分给甲、乙两班学生吃，甲班分到的桃有 EMBED Equation.DSMT4  是坏的，其他是好的；乙班分到的桃有 EMBED Equation.DSMT4  是坏的，其他是好的．甲、乙两班分到的好桃共有几个？
+
+
+
+
+
+
+
+
+甲、乙两人各有一袋糖，每袋糖都不到 EMBED Equation.DSMT4  粒．如果甲给乙一定数量的糖后，甲的糖就是乙的 EMBED Equation.DSMT4  倍；如果乙给甲同样数量的糖后，甲的糖就是乙的 EMBED Equation.DSMT4  倍．甲、乙两人共有多少粒糖？
+
+
+
+
+
+
+
+有两小堆砖头，如果从第一堆中取出 EMBED Equation.DSMT4  块放到第二堆中去，那么第二堆将比第一堆多一倍．如果相反，从第二堆中取出若干块放到第一堆中去，那么第一堆将是第二堆的 EMBED Equation.DSMT4  倍．问：第一堆中的砖头最少有多少块？
+
+
+
+
+
+
+
+
+
+
+甲乙丙三个班向希望工程捐赠图书，已知甲班有 EMBED Equation.DSMT4  人捐 EMBED Equation.DSMT4  册，有 EMBED Equation.DSMT4  人各捐 EMBED Equation.DSMT4  册，其余都各捐 EMBED Equation.DSMT4  册，乙班有 EMBED Equation.DSMT4  人捐 EMBED Equation.DSMT4  册， EMBED Equation.DSMT4  人各捐 EMBED Equation.DSMT4  册，其余各捐 EMBED Equation.DSMT4  册；丙班有 EMBED Equation.DSMT4  人各卷 EMBED Equation.DSMT4  册， EMBED Equation.DSMT4  人各捐 EMBED Equation.DSMT4  册，其余各捐 EMBED Equation.DSMT4  册。已知甲班捐书总数比乙班多 EMBED Equation.DSMT4  册，乙班比丙班多 EMBED Equation.DSMT4  册，各班捐书总数在 EMBED Equation.DSMT4  册与 EMBED Equation.DSMT4  册之间，问各班各有多少人？
+
+
+
+
+
+
+
+在新年联欢会上，某班组织了一场飞镖比赛．如右图，飞镖的靶子分为三块区域，分别对应 EMBED Equation.DSMT4  分、 EMBED Equation.DSMT4  分和 EMBED Equation.DSMT4  分．每人可以扔若干次飞镖，脱靶不得分，投中靶子就可以得到相应的分数．若恰好投在两块(或三块)区域的交界线上，则得两块(或三块)区域中分数最高区域的分数．如果比赛规定恰好投中 EMBED Equation.DSMT4  分才能获奖，要想获奖至少需要投中    　   次飞镖．
+
+
+
+
+
+
+
+模块三、不定方程与生活中的应用题
+某地用电收费的标准是：若每月用电不超过 EMBED Equation.DSMT4  度，则每度收 EMBED Equation.DSMT4  角；若超过 EMBED Equation.DSMT4  度，则超出部分按每度 EMBED Equation.DSMT4  角收费．某月甲用户比乙用户多交 EMBED Equation.DSMT4  元 EMBED Equation.DSMT4  角电费，这个月甲、乙各用了多少度电？
+
+
+
+
+
+某区对用电的收费标准规定如下：每月每户用电不超过 EMBED Equation.DSMT4  度的部分，按每度 EMBED Equation.DSMT4  元收费；超过 EMBED Equation.DSMT4  度而不超过 EMBED Equation.DSMT4  度的部分，按每度 EMBED Equation.DSMT4  元收费；超过 EMBED Equation.DSMT4  度的部分按每度 EMBED Equation.DSMT4  元收费．某月甲用户比乙用户多交电费 EMBED Equation.DSMT4  元，乙用户比丙用户多交 EMBED Equation.DSMT4  元，那么甲、乙、丙三用户共交电费多少元？(用电都按整度数收费)
+
+
+
+
+
+
+
+
+马小富在甲公司打工，几个月后又在乙公司兼职，甲公司每月付给他薪金 EMBED Equation.DSMT4  元，乙公司每月付给他薪金 EMBED Equation.DSMT4  元．年终，马小富从两家公司共获薪金 EMBED Equation.DSMT4  元．他在甲公司打工      个月，在乙公司兼职       个月．
+
+
+
+
+
+
+
+
+
+甲、乙、丙、丁、戊五人接受了满分为 EMBED Equation.DSMT4  分(成绩都是整数)的测验．已知：甲得了 EMBED Equation.DSMT4  分，乙得了最高分，丙的成绩与甲、丁的平均分相等，丁的成绩刚好等于五人的平均分，戊比丙多 EMBED Equation.DSMT4  分．求乙、丙、丁、戊的成绩．
+
+
+
+
+
+
+
+
+有两个学生参加4次数学测验，他们的平均分数不同，但都是低于90分的整数．他们又参加了第5次测验，这样5次的平均分数都提高到了90分．求第5次测验两人的得分．(每次测验满分为100分)
+
+
+
+
+
+
+
+
+
+小明、小红和小军三人参加一次数学竞赛，一共有100道题，每个人各解出其中的60道题，有些题三人都解出来了，我们称之为“容易题”；有些题只有两人解出来，我们称之为“中等题”；有些题只有一人解出来，我们称之为“难题”．已知每个题都至少被他们中的一人解出，则难题比容易题多      道．
+
+
+
+
+
+
+
+甲、乙两个同学在一次数学擂台赛中，试卷上有解答题、选择题、填空题各若干个，而且每个小题的分值都是自然数．结果公布后，已知甲做对了5道解答题，7道选择题，9道填空题，共得52分；乙做对了7道解答题，9道选择题，11道填空题，共得68分．问：解答题、选择题、填空题的每道小题各多少分？
+
+
+
+
+
+
+
+
+
+
+
+甲乙丙三人参加一个共有 EMBED Equation.DSMT4  个选择题的比赛，计分办法是在 EMBED Equation.DSMT4  分的基础上，每答对一题加 EMBED Equation.DSMT4  分，答错一题扣 EMBED Equation.DSMT4  分，不答既不扣分也不加分．赛完后发现根据甲所得总分可以准确算出他答对的题数，乙、丙二人所得总分相同，仅比甲少 EMBED Equation.DSMT4  分，但乙丙答对的题数却互不相同．由此可知，甲所得总分最多为       ．
+
+
+
+
+
+
+
+
+
+某男孩在 EMBED Equation.DSMT4  年 EMBED Equation.DSMT4  月 EMBED Equation.DSMT4  日说：“我活过的月数以及我活过的年数之差，到今天为止正好就是 EMBED Equation.DSMT4  ．”请问：他是在哪一天出生的？
+
+
+
+
+
+
+某次演讲比赛，原定一等奖 EMBED Equation.DSMT4  人，二等奖 EMBED Equation.DSMT4  人，现将一等奖中的最后 EMBED Equation.DSMT4  人调整为二等奖，这样得二等奖的学生的平均分提高了 EMBED Equation.DSMT4  分，得一等奖的学生的平均分提高了 EMBED Equation.DSMT4  分，那么原来一等奖平均分比二等奖平均分多________分．
+
+
+
+
+
+
+
+某次数学竞赛准备了 EMBED Equation.DSMT4  支铅笔作为奖品发给一、二、三等奖的学生，原计划一等奖每人发给 EMBED Equation.DSMT4  支，二等奖每人发给 EMBED Equation.DSMT4  支，三等奖每人发给 EMBED Equation.DSMT4  支，后来改为一等奖每人发 EMBED Equation.DSMT4  支，二等奖每人发 EMBED Equation.DSMT4  支，三等奖每人发 EMBED Equation.DSMT4  支．那么获二等奖的有      人．
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+3-3-3.列不定方程解应用题.题库	                         学生版                             page  PAGE 10 of  NUMPAGES 10
+
+
+
+列不定方程解应用题
+
+教学目标
+
+知识精讲
+
+
+
+

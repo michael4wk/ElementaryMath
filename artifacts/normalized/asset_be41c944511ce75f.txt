@@ -1,0 +1,277 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE  \* MERGEFORMAT 
+1、比例的基本性质
+2、熟练掌握比例式的恒等变形及连比问题
+3、能够进行各种条件下比例的转化，有目的的转化；	
+4、单位“1”变化的比例问题
+5、方程解比例应用题
+
+ SHAPE  \* MERGEFORMAT 	
+比例与百分数作为一种数学工具在人们日常生活中处理多组数量关系非常有用，这一部分内容也是小升初考试的重要内容.通过本讲需要学生掌握的内容有：
+一、比和比例的性质
+性质1：若a: b=c：d，则(a + c)：(b + d)= a：b=c：d；
+性质2：若a: b=c：d，则(a - c)：(b - d)= a：b=c：d；
+性质3：若a: b=c：d，则(a +x c)：(b +x d)=a：b=c：d；(x为常数)
+性质4：若a: b=c：d，则a×d = b×c；(即外项积等于内项积)
+正比例：如果a÷b=k(k为常数)，则称a、b成正比；
+反比例：如果a×b=k(k为常数)，则称a、b成反比．
+二、主要比例转化实例
+　　①  EMBED Equation.DSMT4　EMBED Equation.DSMT4　EMBED Equation.DSMT4； EMBED Equation.DSMT4； EMBED Equation.DSMT4；
+②  EMBED Equation.DSMT4　EMBED Equation.DSMT4　EMBED Equation.DSMT4； EMBED Equation.DSMT4(其中EMBED Equation.DSMT4)；
+③  EMBED Equation.DSMT4  EMBED Equation.DSMT4　EMBED Equation.DSMT4；　EMBED Equation.DSMT4； EMBED Equation.DSMT4 ；EMBED Equation.DSMT4
+④  EMBED Equation.DSMT4，EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4；EMBED Equation.DSMT4；
+⑤  EMBED Equation.DSMT4的EMBED Equation.DSMT4等于EMBED Equation.DSMT4的EMBED Equation.DSMT4，则EMBED Equation.DSMT4是EMBED Equation.DSMT4的EMBED Equation.DSMT4，EMBED Equation.DSMT4是EMBED Equation.DSMT4的EMBED Equation.DSMT4．
+三、按比例分配与和差关系
+⑴按比例分配
+例如：将EMBED Equation.DSMT4个物体按照EMBED Equation.DSMT4的比例分配给甲、乙两个人，那么实际上甲、乙两个人各自分配到的物体数量与EMBED Equation.DSMT4的比分别为EMBED Equation.DSMT4和EMBED Equation.DSMT4，所以甲分配到EMBED Equation.DSMT4个，乙分配到EMBED Equation.DSMT4个.
+⑵已知两组物体的数量比和数量差，求各个类别数量的问题
+例如：两个类别EMBED Equation.DSMT4、EMBED Equation.DSMT4，元素的数量比为EMBED Equation.DSMT4(这里EMBED Equation.DSMT4)，数量差为EMBED Equation.DSMT4，那么EMBED Equation.DSMT4的元素数量为EMBED Equation.DSMT4，EMBED Equation.DSMT4的元素数量为EMBED Equation.DSMT4，所以解题的关键是求出EMBED Equation.DSMT4与EMBED Equation.DSMT4或EMBED Equation.DSMT4的比值．
+
+四、比例题目常用解题方式和思路
+解答分数应用题关键是正确理解、运用单位“l”。题中如果有几个不同的单位“1”，必须根据具体情况，将不同的单位“1”，转化成统一的单位“1”，使数量关系简单化，达到解决问题的效果。在解答分数应用题时，要注意以下几点：
+题中有几种数量相比较时，要选择与各个已知条件关系密切、便于直接解答的数量为单位“1”。
+若题中数量发生变化的，一般要选择不变量为单位“1”。
+应用正、反比例性质解答应用题时要注意题中某一数量是否一定，然后再确定是成正比例，还是成反比例。找出这些具体数量相对应的分率与其他具体数量之间的正、反比例关系，就能找到更好、更巧的解法。
+题中有明显的等量关系，也可以用方程的方法去解。
+赋值解比例问题
+
+ SHAPE  \* MERGEFORMAT 
+模块一、比例转化
+甲、乙、丙三个数，已知甲:（乙+丙）EMBED Equation.DSMT4，乙:丙EMBED Equation.DSMT4，求甲:乙:丙。
+【考点】比例应用题          【难度】2星          【题型】解答 
+由EMBED Equation.DSMT4可得到EMBED Equation.DSMT4，EMBED Equation.DSMT4，而EMBED Equation.DSMT4，
+所以：EMBED Equation.DSMT4． 
+【答案】EMBED Equation.DSMT4
+
+已知甲、乙、丙三个数，甲的一半等于乙的EMBED Equation.DSMT4倍也等于丙的EMBED Equation.DSMT4，那么甲的EMBED Equation.DSMT4、乙的EMBED Equation.DSMT4倍、丙的一半这三个数的比为多少？
+【考点】比例应用题          【难度】2星          【题型】解答 
+甲的一半、乙的EMBED Equation.DSMT4倍、丙的EMBED Equation.DSMT4这三个数的比为EMBED Equation.DSMT4，所以甲、乙、丙这三个数的比为EMBED Equation.DSMT4即EMBED Equation.DSMT4，化简为EMBED Equation.DSMT4，那么甲的EMBED Equation.DSMT4、乙的EMBED Equation.DSMT4倍、丙的一半这三个数的比为EMBED Equation.DSMT4即EMBED Equation.DSMT4，化简为EMBED Equation.DSMT4.
+【答案】EMBED Equation.DSMT4
+
+已知甲、乙、丙三个数，甲等于乙、丙两数和的EMBED Equation.DSMT4，乙等于甲、丙两数和的EMBED Equation.DSMT4，丙等于甲、乙两数和的EMBED Equation.DSMT4，求甲:乙:丙.
+【考点】比例应用题          【难度】2星          【题型】解答 
+由甲等于乙、丙两数和的EMBED Equation.DSMT4，得到甲等于三个数和的EMBED Equation.DSMT4，同样的乙等于甲、丙两数和的EMBED Equation.DSMT4，同样的丙等于甲、乙两个数和的EMBED Equation.DSMT4 ，所以甲:乙:丙EMBED Equation.DSMT4．
+【答案】EMBED Equation.DSMT4
+
+甲、乙两个工人上班，甲比乙多走EMBED Equation.DSMT4的路程，而乙比甲的时间少EMBED Equation.DSMT4，甲、乙的速度比是        ．
+【考点】比例应用题          【难度】2星          【题型】解答 
+【关键词】2008年，清华附中
+甲走的路程是乙走的路程的EMBED Equation.DSMT4，甲用的时间是乙用的时间的EMBED Equation.DSMT4，所以甲的速度是乙的速度的EMBED Equation.DSMT4，即甲、乙的速度比是EMBED Equation.DSMT4．
+【答案】EMBED Equation.DSMT4
+
+右图是一个园林的规划图，其中，正方形的EMBED Equation.DSMT4是草地；圆的EMBED Equation.DSMT4是竹林；竹林比草地多占地450平方米． 问：水池占多少平方米? 
+
+【考点】比例应用题          【难度】2星          【题型】解答 
+正方形的EMBED Equation.DSMT4是草地，那如果水池占1份，草地的面积便是3份；圆的EMBED Equation.DSMT4是竹林，水池占1份，竹林的面积是6份。从而竹林比草地多出的面积是（6-3=）3份。3份的面积是450平方米，可见1份面积是450÷3=150（平方米），即水池面积是150平方米。
+【答案】150
+
+如下图所示，圆EMBED Equation.DSMT4与圆EMBED Equation.DSMT4的面积之和等于圆EMBED Equation.DSMT4面积的EMBED Equation.DSMT4，且圆EMBED Equation.DSMT4中的阴影部分面积占圆EMBED Equation.DSMT4面积的EMBED Equation.DSMT4，圆EMBED Equation.DSMT4的阴影部分面积占圆EMBED Equation.DSMT4面积的EMBED Equation.DSMT4，圆EMBED Equation.DSMT4的阴影部分面积占圆EMBED Equation.DSMT4面积的EMBED Equation.DSMT4．求圆EMBED Equation.DSMT4、圆EMBED Equation.DSMT4、圆EMBED Equation.DSMT4的面积之比．
+
+【考点】比例应用题          【难度】3星          【题型】解答 
+设EMBED Equation.DSMT4与EMBED Equation.DSMT4的共同部分的面积为EMBED Equation.DSMT4，EMBED Equation.DSMT4与EMBED Equation.DSMT4的共同部分的面积为EMBED Equation.DSMT4，则根据题意有EMBED Equation.DSMT4，EMBED Equation.DSMT4，EMBED Equation.DSMT4，于是得到EMBED Equation.DSMT4，这条式子可化简为EMBED Equation.DSMT4，所以EMBED Equation.DSMT4.最后得到EMBED Equation.DSMT4.
+【答案】EMBED Equation.DSMT4
+
+地球表面的陆地面积和海洋面积之比是29∶71，其中陆地的四分之三在北半球，那么南、北半球海洋面积之比是（　） 　A. 284∶29　　B. 284∶87　　C. 87∶29　　D. 171∶113
+【考点】比例应用题          【难度】2星          【题型】选择
+【关键词】华杯赛，六年级
+解：设地球表面积为1， 则北半球海洋面积为：0.5－0.29× EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4   南半球海洋面积为：0.71－ EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4   南北半球海洋面积之比为： EMBED Equation.DSMT4  ∶ EMBED Equation.DSMT4  ＝171∶113 答案：D
+【答案】D
+
+某俱乐部男、女会员的人数之比是EMBED Equation.DSMT4，分为甲、乙、丙三组．已知甲、乙、丙三组的人数比是EMBED Equation.DSMT4，甲组中男、女会员的人数之比是EMBED Equation.DSMT4，乙组中男、女会员的人数之比是EMBED Equation.DSMT4．求丙组中男、女会员人数之比．
+【考点】比例应用题          【难度】3星          【题型】解答 
+以总人数为1，则甲组男会员人数为EMBED Equation.DSMT4，女会员为EMBED Equation.DSMT4，乙组男会员为EMBED Equation.DSMT4，女会员为EMBED Equation.DSMT4；丙组男会员为EMBED Equation.DSMT4，女会员为EMBED Equation.DSMT4；所以，丙组中男、女会员人数之比为EMBED Equation.DSMT4．
+【答案】EMBED Equation.DSMT4
+
+某团体有EMBED Equation.DSMT4名会员，男女会员人数之比是EMBED Equation.DSMT4，会员分成三组，甲组人数与乙、丙两组人数之和一样多，各组男女会员人数之比依次为EMBED Equation.DSMT4、EMBED Equation.DSMT4、EMBED Equation.DSMT4，那么丙组有多少名男会员？
+【考点】比例应用题          【难度】3星          【题型】解答 
+会员总人数EMBED Equation.DSMT4人，男女比例为EMBED Equation.DSMT4，则可知男、女会员人数分别为EMBED Equation.DSMT4人、EMBED Equation.DSMT4人；又已知甲组人数与乙、丙两组人数之和一样多，则可知甲组人数为EMBED Equation.DSMT4人，乙、丙人数之和为EMBED Equation.DSMT4人，可设丙组人数为EMBED Equation.DSMT4人，则乙组人数为EMBED Equation.DSMT4人，又已知甲组男、女会员比为EMBED Equation.DSMT4，则甲组男、女会员人数分别为EMBED Equation.DSMT4人、EMBED Equation.DSMT4人，又已知乙、丙两组男、女会员比例，则可得：EMBED Equation.DSMT4，解得EMBED Equation.DSMT4．即丙组会员人数为EMBED Equation.DSMT4人，又已知男、女比例，可得丙组男会员人数为EMBED Equation.DSMT4人．
+【答案】EMBED Equation.DSMT4
+
+一项公路的修建工程被平均分成两份承包给甲、乙个工程队建设，两个工程队建设了相同多的一段时间后，分别剩下EMBED Equation.DSMT4、EMBED Equation.DSMT4的任务没有完成，已知两个工程队的工作效率(建设速度)之比EMBED Equation.DSMT4，求这两个工程队原先承包的修建公路长度之比.
+【考点】比例应用题          【难度】3星          【题型】解答 
+ (法一)甲工程队以EMBED Equation.DSMT4倍乙工程队建设速度，仅完成了EMBED Equation.DSMT4的承包任务，而乙工程队完成了EMBED Equation.DSMT4，所以甲工程队承包任务的EMBED Equation.DSMT4等于乙工程队承包任务的EMBED Equation.DSMT4，所以甲工程队的承包的任务是乙工程队承包任务的EMBED Equation.DSMT4，所以两个工程队承包的修建公路长度之比为EMBED Equation.DSMT4．
+(法二)两个工程队完成的工程任务(修建公路长度)之比等于工作效率之比，等于EMBED Equation.DSMT4，而他们分别完成了各自任务的EMBED Equation.DSMT4和EMBED Equation.DSMT4，所以两个工程队承包的修建公路长度之比为EMBED Equation.DSMT4．
+【答案】EMBED Equation.DSMT4
+
+EMBED Equation.DSMT4、EMBED Equation.DSMT4、EMBED Equation.DSMT4三项工程的工作量之比为EMBED Equation.DSMT4，由甲、乙、丙三队分别承担．三个工程队同时开工，若干天后，甲完成的工作量是乙未完成的工作量的二分之一，乙完成的工作量是丙未完成的工作量的三分之一，丙完成的工作量等于甲未完成的工作量，则甲、乙、丙队的工作效率的比是多少？
+【考点】比例应用题          【难度】4星          【题型】解答 
+【关键词】2007年，华杯赛，总决赛
+根据题意，如果把EMBED Equation.DSMT4工程的工作量看作EMBED Equation.DSMT4，则EMBED Equation.DSMT4工程的工作量就是EMBED Equation.DSMT4，EMBED Equation.DSMT4工程的工作量就是EMBED Equation.DSMT4．
+    　　设甲、乙、丙三个工程队的工作效率分别为EMBED Equation.DSMT4、EMBED Equation.DSMT4、EMBED Equation.DSMT4.经过EMBED Equation.DSMT4天，则：
+    　　EMBED Equation.DSMT4
+        将⑶代入⑵，得EMBED Equation.DSMT4，将⑷代入⑴，得EMBED Equation.DSMT4，EMBED Equation.DSMT4，
+将EMBED Equation.DSMT4代入⑴，得EMBED Equation.DSMT4．代入⑶，得EMBED Equation.DSMT4．
+　　　　甲、乙、丙三队的．工作效率的连比是EMBED Equation.DSMT4．
+【答案】EMBED Equation.DSMT4
+
+某次数学竞赛设一、二、三等奖．已知：①甲、乙两校获一等奖的人数相等；②甲校获一等奖的人数占该校获奖总人数的百分数与乙校相应的百分数的比为EMBED Equation.DSMT4；③甲、乙两校获二等奖的人数总和占两校获奖人数总和的EMBED Equation.DSMT4；④甲校获三等奖的人数占该校获奖人数的EMBED Equation.DSMT4；⑤甲校获二等奖的人数是乙校获二等奖人数的EMBED Equation.DSMT4倍．那么，乙校获一等奖的人数占该校获奖总人数的百分数等于多少？
+【考点】比例应用题          【难度】3星          【题型】解答 
+由①、②可知甲、乙两校获奖总人数的比为EMBED Equation.DSMT4，不妨设甲校有60人获奖，则乙校有50人获奖．由③知两校获二等奖的共有EMBED Equation.DSMT4人；由⑤知甲校获二等奖的有EMBED Equation.DSMT4人；由④知甲校获一等奖的有EMBED Equation.DSMT4人，那么乙校获一等奖的也有12人，从而所求百分数为EMBED Equation.DSMT4．
+【答案】EMBED Equation.DSMT4
+
+①某校毕业生共有9个班，每班人数相等．②已知一班的男生人数比二、三班两个班的女生总数多1；③四、五、六班三个班的女生总数比七、八、九班三个班的男生总数多1．那么该校毕业生中男、女生人数比是多少？
+【考点】比例应用题          【难度】3星          【题型】解答 
+如下表所示，由②知，一、二、三班的男生总数比二、三班总人数多1；由③知，四至九班的男生总数比四、五、六班总人数少1．
+
+一班男生
+比
+二、三班女生
+多1人
+加上
+二、三班男生
+
+二、三班男生
+
+
+一、二、三班男生
+比
+二、三班总人数
+多1人
+
+七、八、九班男生
+比
+四、五、六班女生
+少1人
+加上
+四、五、六班男生
+
+四、五、六班男生
+
+
+四、五、六、七、八、九班男生
+比
+四、五、六班总人数
+少1人
+因此，一至九班的男生总数是二、三、四、五、六共五个班的人数之和，由于每班人数均相等，则女生总数等于四个班的人数之和．所以，男、女生人数之比是EMBED Equation.DSMT4．
+【答案】EMBED Equation.DSMT4
+
+=
+模块二、按比例分配与和差关系
+（一）量倍对应
+一些苹果平均分给甲、乙两班的学生，甲班比乙班多分到EMBED Equation.DSMT4个，而甲、乙两班的人数比为EMBED Equation.DSMT4，求一共有多少个苹果？
+【考点】比例应用题          【难度】2星          【题型】解答 
+一共有EMBED Equation.DSMT4个苹果.
+【答案】EMBED Equation.DSMT4个
+
+甲、乙两个班共种树若干棵，已知甲班种的棵数的EMBED Equation.DSMT4等于乙班种的棵数的EMBED Equation.DSMT4，且乙班比甲班多种树EMBED Equation.DSMT4棵，甲、乙两个班各种树多少棵?
+【考点】比例应用题          【难度】2星          【题型】解答 
+甲、乙两班种树棵数之比为：EMBED Equation.DSMT4，甲班种树棵数为：EMBED Equation.DSMT4(棵)，乙班种树棵数为：EMBED Equation.DSMT4(棵)．
+【答案】EMBED Equation.DSMT4棵
+
+甲乙两校参加数学竞赛的人数之比是7：8，获奖人数之比是2：3，两校各有320人未获奖，那么两校参赛的学生共有         人。
+【考点】比例应用题          【难度】2星          【题型】解答 
+【关键词】希望杯，六年级，一试
+方法一：设甲、乙两校参加希望杯的学生人数各有 EMBED Equation.DSMT4  人， EMBED Equation.DSMT4  人。根据题意列方程得 EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  。两校参加人数为 EMBED Equation.DSMT4  人。    方法二：因为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  。所以设甲乙两校各有7份，8份人，校参加人数为 EMBED Equation.DSMT4  （人）
+【答案】 EMBED Equation.DSMT4  人
+
+师徒二人加工一批零件，师傅加工一个零件用9分钟，徒弟加工一个零件用15分钟．完成任务时，师傅比徒弟多加工100个零件，求师傅和徒弟一共加工了多少个零件？
+【考点】比例应用题          【难度】2星          【题型】解答 
+师傅与徒弟的工作效率之比是EMBED Equation.DSMT4，工作时间相同，工作量与工作效率成正比，所以师傅与徒弟分别完成总量的EMBED Equation.DSMT4和EMBED Equation.DSMT4，师傅和徒弟一共加工了EMBED Equation.DSMT4个零件(涉及到数量差和数量比的题在以下题目中详细讲述).
+【答案】 EMBED Equation.DSMT4  个
+
+师徒二人共加工零件EMBED Equation.DSMT4个，师傅加工一个零件用EMBED Equation.DSMT4分钟，徒弟加工一个零件用EMBED Equation.DSMT4分钟．完成任务时，师傅比徒弟多加工多少个零件？
+【考点】比例应用题          【难度】2星          【题型】解答 
+师傅与徒弟的工作效率之比是EMBED Equation.DSMT4，而工作时间相同，则工作量与工作效率成正比，所以师傅与徒弟分别完成总量的EMBED Equation.DSMT4和EMBED Equation.DSMT4，师傅比徒弟多加工零件EMBED Equation.DSMT4个．
+【答案】EMBED Equation.DSMT4个
+
+甲、乙两只蚂蚁同时从EMBED Equation.DSMT4点出发，沿长方形的边爬去，结果在距EMBED Equation.DSMT4点EMBED Equation.DSMT4厘米的EMBED Equation.DSMT4点相遇，已知乙蚂蚁的速度是甲的EMBED Equation.DSMT4倍，求这个长方形的周长．
+
+【考点】比例应用题          【难度】2星          【题型】解答 
+两只蚂蚁在距EMBED Equation.DSMT4点EMBED Equation.DSMT4厘米的EMBED Equation.DSMT4点相遇，说明乙比甲一共多走了EMBED Equation.DSMT4(厘米)．又知乙蚂蚁的速度是甲蚂蚁的EMBED Equation.DSMT4倍，相同时间内乙蚂蚁爬的路程与甲蚂蚁爬的路程比为：1.2：1＝6：5，
+所以甲爬的路程是EMBED Equation.DSMT4(厘米)，乙爬的路程是EMBED Equation.DSMT4(厘米)，长方形的周长为EMBED Equation.DSMT4(厘米)．
+【答案】EMBED Equation.DSMT4
+
+甲、乙两车分别从EMBED Equation.DSMT4、EMBED Equation.DSMT4两地同时相向开出，甲车的速度是EMBED Equation.DSMT4千米／小时，乙车的速度是EMBED Equation.DSMT4千米／小时，当甲车驶过EMBED Equation.DSMT4、EMBED Equation.DSMT4距离的EMBED Equation.DSMT4多EMBED Equation.DSMT4千米时与乙车相遇，EMBED Equation.DSMT4、EMBED Equation.DSMT4两地相距        千米．
+【考点】比例应用题          【难度】2星          【题型】解答 
+在相同的时间内，两车行驶的路程比等于两车的速度之比，由于两车的速度之比等于EMBED Equation.DSMT4，那么EMBED Equation.DSMT4、EMBED Equation.DSMT4距离的EMBED Equation.DSMT4多EMBED Equation.DSMT4千米即是EMBED Equation.DSMT4、EMBED Equation.DSMT4距离的EMBED Equation.DSMT4，所以EMBED Equation.DSMT4千米的距离相当于全程的EMBED Equation.DSMT4，全程的距离为EMBED Equation.DSMT4(千米)．
+【答案】EMBED Equation.DSMT4
+
+小新、小志、小刚三人拥有的藏书数量之比为EMBED Equation.DSMT4，三人一共藏书EMBED Equation.DSMT4本，求他们三人各自的藏书数量.
+【考点】比例应用题          【难度】2星          【题型】解答 
+根据题意可知，他们三人各自的藏书数量分别占三人藏书总量的EMBED Equation.DSMT4、EMBED Equation.DSMT4、EMBED Equation.DSMT4，所以小新拥有的藏书数量为EMBED Equation.DSMT4本，小志拥有的藏书数量为EMBED Equation.DSMT4本，小刚拥有的藏书数量为EMBED Equation.DSMT4本.
+【答案】EMBED Equation.DSMT4
+
+有EMBED Equation.DSMT4个皮球，分给两个班使用，一班分到的EMBED Equation.DSMT4与二班分到的EMBED Equation.DSMT4相等，求两个班各分到多少皮球？
+【考点】比例应用题          【难度】2星          【题型】解答 
+根据题意可知一班与二班分到的球数比EMBED Equation.DSMT4，所以一班分到皮球EMBED Equation.DSMT4个，二班分到皮球EMBED Equation.DSMT4个．
+【答案】EMBED Equation.DSMT4
+
+圆珠笔和铅笔的价格比是4：3，20支圆珠笔和21支铅笔共用71．5元．问圆珠笔的单价是每支多少元?
+【考点】比例应用题          【难度】2星          【题型】解答 
+设圆珠笔的价格为4，那么铅笔的价格为3，则20支圆珠笔和21支铅笔的价格为20×4+21×3=143，则单位“1”的价格为71.5÷143=0.5元．所以圆珠笔的单价是0.5×4=2(元)．
+【答案】2
+
+在抗洪救灾区活动中，甲、乙、丙三人一共捐了80元．已知甲比丙多捐18元，甲、乙所捐资的和与乙、丙所捐资的和之比是EMBED Equation.DSMT4，则甲捐        元，乙捐        元，丙捐        元．
+【考点】比例应用题          【难度】2星          【题型】解答 
+由于甲比丙多捐18元，所以甲、乙所捐资的和比乙、丙所捐资的和多18元，那么甲、乙所捐资的和为：EMBED Equation.DSMT4(元)，乙、丙所捐资的和为EMBED Equation.DSMT4元．所以，甲捐了EMBED Equation.DSMT4(元)，乙捐了EMBED Equation.DSMT4(元)，丙捐了EMBED Equation.DSMT4(元)．
+【答案】EMBED Equation.DSMT4元
+
+一班和二班的人数之比是EMBED Equation.DSMT4，如果将一班的EMBED Equation.DSMT4名同学调到二班去，则一班和二班的人数比变为EMBED Equation.DSMT4．求原来两班的人数．
+【考点】比例应用题          【难度】2星          【题型】解答 
+原来一班的人数为两班总人数的EMBED Equation.DSMT4，调班后一班的人数是两班人数的EMBED Equation.DSMT4，调班前后一班人数的比值为EMBED Equation.DSMT4，所以一班原来的人数为EMBED Equation.DSMT4人，二班原来的人数为EMBED Equation.DSMT4人.
+【答案】EMBED Equation.DSMT4人
+
+一把小刀售价EMBED Equation.DSMT4元．如果小明买了这把小刀，那么小明与小强剩余的钱数之比是EMBED Equation.DSMT4；如果小强买了这把小刀，那么两人剩余的钱数之比变为EMBED Equation.DSMT4．小明原来有多少钱？
+【考点】比例应用题          【难度】2星          【题型】解答 
+由已知，小强的钱相当于小明、小强买刀后所剩钱数和的EMBED Equation.DSMT4，小明的钱相当于小明、小强买刀后钱数和的EMBED Equation.DSMT4，所以小明、小强的钱数的比值为EMBED Equation.DSMT4，而小明买刀后小明、小强的钱数之比为EMBED Equation.DSMT4，所以小明买刀前后的钱数之比为EMBED Equation.DSMT4，所以小刀的售价等于小明原来钱数的EMBED Equation.DSMT4，所以小明的钱数为EMBED Equation.DSMT4元。也可这样看，小明买刀与未买刀的钱数比为EMBED Equation.DSMT4，小明的钱数为EMBED Equation.DSMT4（元）
+【答案】EMBED Equation.DSMT4元
+
+甲、乙两人原有的钱数之比为EMBED Equation.DSMT4，后来甲又得到180元，乙又得到30元，这时甲、乙钱数之比为EMBED Equation.DSMT4，求原来两人的钱数之和为多少？
+【考点】比例应用题          【难度】2星          【题型】解答 
+【关键词】十三分，入学测试
+两人原有钱数之比为EMBED Equation.DSMT4，如果甲得到180元，乙得到150元，那么两人的钱数之比仍为EMBED Equation.DSMT4，现在甲得到180元，乙只得到30元，相当于少得到了120元，现在两人钱数之比为EMBED Equation.DSMT4，可以理解为：两人的钱数分别增加180元和150元之后，钱数之比为EMBED Equation.DSMT4，然后乙的钱数减少120元，两人的钱数之比变为EMBED Equation.DSMT4，所以120元相当于4份，1份为30元，后来两人的钱数之和为EMBED Equation.DSMT4元，所以原来两人的总钱数之和为EMBED Equation.DSMT4元．
+【答案】EMBED Equation.DSMT4元
+
+甲本月收入的钱数是乙收入的EMBED Equation.DSMT4，甲本月支出的钱数是乙支出的EMBED Equation.DSMT4，甲节余240元，乙节余480元．甲本月收入多少元？
+【考点】比例应用题          【难度】3星          【题型】解答 
+甲、乙本月收入的比是EMBED Equation.DSMT4，分别节余240元和480元，支出的钱数之比是EMBED Equation.DSMT4．如果乙节余480元，甲节余EMBED Equation.DSMT4元，那么两人支出的钱数之比也是EMBED Equation.DSMT4，现在甲只节余240元，多支出了60元，结果支出的钱数之比从EMBED Equation.DSMT4变成了EMBED Equation.DSMT4(即EMBED Equation.DSMT4)，所以这60元就对应EMBED Equation.DSMT4份，那么甲支出了EMBED Equation.DSMT4元，所以甲本月收入为EMBED Equation.DSMT4元．
+【答案】EMBED Equation.DSMT4元
+
+幼儿园大班和中班共有32名男生，18名女生．已知大班男生数与女生数的比为EMBED Equation.DSMT4，中班男生数与女生数的比为EMBED Equation.DSMT4，那么大班有女生多少名？
+【考点】比例应用题          【难度】3星          【题型】解答 
+由于男、女生人数有比例关系，而且知道总数，所以可以用鸡兔同笼的方法．假设18名女生全部是大班，则大班男生数：女生数EMBED Equation.DSMT4，即男生应有30人，实际上男生有32人，相差2个人；又中班男生数：女生数EMBED Equation.DSMT4，以3个中班女生换3个大班女生，每换一组可增加1个男生，所以需要换2组；所以，大班女生有EMBED Equation.DSMT4(名)．
+【答案】EMBED Equation.DSMT4名
+
+参加植树的同学共有EMBED Equation.DSMT4人，已知六年级与五年级人数的比是EMBED Equation.DSMT4，六年级比四年级多EMBED Equation.DSMT4人，三个年级参加植树的各有多少人?
+【考点】比例应用题          【难度】3星          【题型】解答 
+假设四年级和六年级人数同样多，则参加植树的同学共有EMBED Equation.DSMT4人，四、五、六三个年级的人数比为EMBED Equation.DSMT4，知道三个量的和及它们的比，就可以按比例分配，分别求出三个年级参加植树的人数．
+六年级：EMBED Equation.DSMT4人；
+五年级：EMBED Equation.DSMT4人；
+四年级：EMBED Equation.DSMT4人．
+【答案】六年级：EMBED Equation.DSMT4人；五年级：EMBED Equation.DSMT4人；四年级：EMBED Equation.DSMT4人
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+教师寄语：拼一个春夏秋冬，换一生无怨无悔。
+
+
+
+
+比例应用题（一）
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+ PAGE  \* MERGEFORMAT 9
+
+
+

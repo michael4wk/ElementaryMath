@@ -1,0 +1,504 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE  \* MERGEFORMAT 
+本讲知识点属于计算板块的部分，难度较三年级学到的该内容稍大，最突出一点就是把公式用字母表示。要求学生熟记等差数列三个公式，并在公式中找出对应的各个量进行计算。
+ SHAPE  \* MERGEFORMAT 
+一、等差数列的定义
+⑴ 先介绍一下一些定义和表示方法
+定义：从第二项起，每一项都比前一项大(或小)一个常数(固定不变的数)，这样的数列我们称它为等差数列．
+譬如：2、5、8、11、14、17、20、 EMBED Equation.DSMT4      从第二项起，每一项比前一项大3 ，递增数列
+100、95、90、85、80、 EMBED Equation.DSMT4      从第二项起，每一项比前一项小5 ，递减数列
+⑵ 首项：一个数列的第一项，通常用 EMBED Equation.DSMT4  表示
+末项：一个数列的最后一项，通常用 EMBED Equation.DSMT4  表示，它也可表示数列的第 EMBED Equation.DSMT4  项。
+项数：一个数列全部项的个数，通常用 EMBED Equation.DSMT4  来表示；
+公差：等差数列每两项之间固定不变的差，通常用 EMBED Equation.DSMT4  来表示；
+和  ：一个数列的前 EMBED Equation.DSMT4  项的和，常用 EMBED Equation.DSMT4  来表示 ．
+二、等差数列的相关公式
+(1)三个重要的公式
+① 通项公式：递增数列：末项 EMBED Equation.DSMT4  首项 EMBED Equation.DSMT4  (项数 EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  公差， EMBED Equation.DSMT4  
+递减数列：末项 EMBED Equation.DSMT4  首项 EMBED Equation.DSMT4  (项数 EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  公差， EMBED Equation.DSMT4  
+回忆讲解这个公式的时候可以结合具体数列或者原来学的植树问题的思想，让学生明白      末项其实就是首项加上(末项与首项的)间隔个公差个数，或者从找规律的情况入手．同时还可延伸出来这样一个有用的公式： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+② 项数公式：项数 EMBED Equation.DSMT4  (末项 EMBED Equation.DSMT4  首项) EMBED Equation.DSMT4  公差+1 
+由通项公式可以得到： EMBED Equation.DSMT4   (若 EMBED Equation.DSMT4  )； EMBED Equation.DSMT4   (若 EMBED Equation.DSMT4  )．
+找项数还有一种配组的方法，其中运用的思想我们是常常用到的．
+譬如：找找下面数列的项数：4、7、10、13、 EMBED Equation.DSMT4  、40、43、46 ，
+分析：配组：(4、5、6)、(7、8、9)、(10、11、12)、(13、14、15)、 EMBED Equation.DSMT4  、(46、47、48)，注意等差是3 ，那么每组有3个数，我们数列中的数都在每组的第1位，所以46应在最后一组第1位，4到48有 EMBED Equation.DSMT4  项，每组3个数，所以共 EMBED Equation.DSMT4  组，原数列有15组． 当然还可以有其他的配组方法．
+③ 求和公式：和=(首项 EMBED Equation.DSMT4  末项) EMBED Equation.DSMT4  项数÷2 
+对于这个公式的得到可以从两个方面入手：
+(思路1)  EMBED Equation.DSMT4  
+　           EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+(思路2)这道题目，还可以这样理解： 
+ EMBED Equation.DSMT4  即，
+和 EMBED Equation.DSMT4  
+(2) 中项定理：对于任意一个项数为奇数的等差数列，中间一项的值等于所有项的平均数，也等于首项与末项和的一半；或者换句话说，各项和等于中间项乘以项数．
+譬如：①  EMBED Equation.DSMT4  ，
+题中的等差数列有9项，中间一项即第5项的值是20，而和恰等于 EMBED Equation.DSMT4  ；
+②  EMBED Equation.DSMT4  ，
+题中的等差数列有33项，中间一项即第17项的值是33，而和恰等于 EMBED Equation.DSMT4  ．
+ SHAPE  \* MERGEFORMAT 
+模块一、等差数列基本概念及公式的简单应用
+等差数列的基本认识
+下面的数列中，哪些是等差数列？若是，请指明公差，若不是，则说明理由。
+①6，10，14，18，22，…，98；
+②1，2，1，2，3，4，5，6；
+③ 1，2，4，8，16，32，64；
+④ 9，8，7，6，5，4，3，2；
+⑤3，3，3，3，3，3，3，3；
+⑥1，0，1，0，l，0，1，0； 
+
+
+
+
+
+小朋友们，你知道每一行数列各有多少个数字吗？ 
+（1）3、4、5、6、……、76、77、78
+（2）2、4、6、8、……、96、98、100
+（3）1、3、5、7、……、87、89、91
+（4）4、7、10、13、……、40、43、46
+
+
+
+
+
+
+
+
+1，3，5，7，……是从1开始的奇数，其中第2005个奇数是________。
+
+
+
+
+
+ EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、……是按一定规律排列的一串算式，其中第六个算式的计算结果是          。
+
+
+
+
+把比100大的奇数从小到大排成一列，其中第21个是多少？ 
+
+
+
+
+2，5，8，11，14……是按照规律排列的一串数，第21项是多少？ 
+
+
+
+已知一个等差数列第9项等于131，第10项等于137，这个数列的第1项是多少？第19项是多少？ 
+
+一个数列共有13项，每一项都比它的前一项多7，并且末项为125，求首项是多少？ 
+
+
+
+
+在下面 EMBED Equation.DSMT4  个方框中各填入一个数，使这 EMBED Equation.DSMT4  个数从左到右构成等差数列，其中 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  已经填好，这 EMBED Equation.DSMT4  个数的和为        。
+ EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4  　　　
+
+
+
+
+从1开始的奇数：1，3，5，7，……其中第100个奇数是_____。
+
+
+
+
+观察右面的五个数：19、37、55、a 、91排列的规律，推知a =________ 。
+
+
+
+
+
+等差数列公式的简单运用
+2、4、6、8、10、12、 EMBED Equation.DSMT4  是个连续偶数列，如果其中五个连续偶数的和是320，求它们中最小的一个． 
+
+
+
+
+
+
+1、3、5、7、9、11、 EMBED Equation.DSMT4  是个奇数列，如果其中8个连续奇数的和是256，那么这8个奇数中最大的数是多少？ 
+
+
+
+
+1、4、7、10、13、…这个数列中，有6个连续数字的和是159，那么这6个数中最小的是几？ 
+
+
+
+
+在等差数列6，13，20，27，…中，从左向右数，第 _______个数是1994． 
+
+
+
+
+5、8、11、14、17、20、 EMBED Equation.DSMT4  ，这个数列有多少项？它的第201项是多少？65是其中的第几项？
+
+对于数列4、7、10、13、16、19……，第10项是多少？49是这个数列的第几项？第100项与第50项的差是多少？ 
+
+
+
+
+
+已知数列0、4、8、12、16、20、…… ，它的第43项是多少？ 
+
+
+
+
+聪明的小朋友们， EMBED Equation.DSMT4  一下吧． 
+⑴3、5、7、9、11、13、15、…… ，这个数列有多少项？它的第102项是多少？
+⑵0、4、8、12、16、20、…… ，它的第43项是多少？
+⑶已知等差数列2、5、8、11、14 …… ，问47是其中第几项？
+⑷已知等差数列9、13、17、21、25、 …… ，问93是其中第几项？
+
+
+
+
+
+
+   
+
+⑴如果一个等差数列的第4项为21，第6项为33，求它的第8项.
+⑵如果一个等差数列的第3项为16，第11项为72，求它的第6项. 
+
+
+
+
+
+
+
+已知一个等差数列第8项等于50，第15项等于71.请问这个数列的第1项是多少？ 
+
+
+
+
+
+如果一等差数列的第4项为21，第10项为57，求它的第16项． 
+
+
+
+
+
+等差数列的求和
+一个等差数列2，4，6，8，10，12，14，这个数列各项的和是多少？ 
+
+
+
+有20个数，第1个数是9，以后每个数都比前一个数大3．这20个数相加，和是多少？ 
+
+求首项是13，公差是5的等差数列的前30项的和． 
+
+
+
+
+15个连续奇数的和是1995，其中最大的奇数是多少？ 
+
+
+
+
+
+把210拆成7个自然数的和，使这7个数从小到大排成一行后，相邻两个数的差都是5，那么，第1个数与第6个数分别是多少？
+
+
+
+
+
+
+小马虎计算1到2006这2006个连续整数的平均数。在求这2006个数的和时，他少算了其中的一个数，但他仍按2006个数计算平均数，结果求出的数比应求得的数小1。小马虎求和时漏掉的数是          。
+
+
+
+
+
+模块二、等差数列的运用（提高篇）
+已知数列：2，1，4，3，6，5，8，7， EMBED Equation.DSMT4  ，问2009是这个数列的第多少项？ 
+
+
+
+
+
+
+
+已知数列2、3、4、6、6、9、8、12、 EMBED Equation.DSMT4  ，问:这个数列中第2000个数是多少？第2003个数是多少？ 
+
+
+
+
+
+已知有一个数列：1、1、2、2、2、2、3、3、3、3、3、3、4、 EMBED Equation.DSMT4  ，试问： 
+⑴ 15是这样的数列中的第几个到第几个数？
+⑵ 这个数列中第100个数是几？
+⑶ 这个数列前100个数的和是多少？
+
+
+
+
+
+
+
+
+有一列数：l，2，4，7，1l，16，22，29，37， EMBED Equation.DSMT4  ，问这列数第1001个数是多少? 
+
+
+
+
+
+
+
+
+
+已知等差数列15，19，23，……443，求这个数列的奇数项之和与偶数项之和的差是多少？ 
+
+
+
+
+
+
+求从1到2000的自然数中，所有偶数之和与所有奇数之和的差。
+
+
+
+
+
+
+
+100个连续自然数(按从小到大的顺序排列)的和是8450，取出其中第1个，第3个…第99个，再把剩下的50个数相加，得多少？ 
+
+
+
+
+
+   有20个数，第1个数是9，以后每个数都比前一个数大3．这20个数相加，和是多少？ 
+
+
+
+把248分成8个连续偶数的和，其中最大的那个数是多少？ 
+
+
+
+把210拆成7个自然数的和，使这7个数从小到大排成一行后，相邻两个数的差都是5，那么，第1个数与第6个数分别是多少？ 
+
+
+
+
+在 EMBED Equation.DSMT4  这一百个自然数中，所有能被9整除的数的和是多少？ 
+
+
+
+
+在 EMBED Equation.DSMT4  这一百个自然数中，所有不能被9整除的数的和是多少？ 
+
+在 EMBED Equation.DSMT4  这二百个自然数中，所有能被4整除或能被11整除的数的和是多少？ 
+
+
+
+
+在11～45这35个数中，所有不被3整除的数的和是多少？ 
+
+
+
+
+
+
+求100以内除以3余2的所有数的和．
+
+
+
+
+从401到1000的所有整数中，被8除余数为1的数有_____个？ 
+
+
+
+
+从正整数1～N中去掉一个数，剩下的(N一1)个数的平均值是15.9，去掉的数是_____。
+
+
+
+等差数列找规律
+找规律计算
+1只青蛙1张嘴，2只眼睛4条腿； 
+2只青蛙2张嘴，4只眼睛8条腿；
+……                             
+     只青蛙     张嘴，32只眼睛     条腿。
+
+
+
+如图2，用火柴棍摆出一系列三角形图案，按这种方式摆下去，当N=5时，按这种方式摆下去，当N=5时，共需要火柴棍           根。
+ INCLUDEPICTURE "http://www.rdfz.com/zhuanti/jszl/xxsx/ljst/W020071226335903357641.gif" \* MERGEFORMATINET 
+观察下面的序号和等式，填括号． 
+序号           等式
+1          EMBED Equation.DSMT4  
+3          EMBED Equation.DSMT4  
+5          EMBED Equation.DSMT4  
+7          EMBED Equation.DSMT4  
+    EMBED Equation.DSMT4  　     　   EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  		 EMBED Equation.DSMT4  
+
+
+
+
+有许多等式:                      EMBED Equation.DSMT4  ；                EMBED Equation.DSMT4  ；           EMBED Equation.DSMT4  ；
+ EMBED Equation.DSMT4  
+那么第10个等式的和是_______
+
+
+
+
+观察下列算式： 
+                  2＋4＝6＝2×3，
+                  2＋4＋6＝12＝3×4
+                  2＋4＋6＋8＝20＝4×5
+                  ……
+然后计算：2＋4＋6＋……＋100＝             。
+
+
+
+将一些半径相同的小圆按如下所示的规律摆放：第1个图形中有6个小圈，第2个图形中有10个小圈，第3个图形中有16个小圈，第4个图形中有24个小圈，…，依此规律，第6个图形有___________个小圈。
+
+
+观察下列四个算式： eq \f(20,1) =20， eq \f(20,2) =10， eq \f(10,4) = eq \f(5,2) ， eq \f(  eq \f(5,2) ,8) = eq \f(5,16) 。从中找出规律，写出第五个算式：           。
+
+规律计数
+从1到50这50个连续自然数中，去两数相加，使其和大于50．有多少种不同的取法？
+
+
+
+
+从1到100的100个数中，每次取出两个不同的自然数相加，使它们的和超过100．有几种不同的取法？ 
+
+
+
+
+
+
+
+
+
+
+有多少组正整数 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  满足 EMBED Equation.DSMT4  ． 
+
+
+
+
+
+
+数阵中的等差数列
+如下图所示的表中有55个数，那么它们的和等于多少？ 
+ EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+下列数阵中有100个数，它们的和是多少？ 
+ EMBED Equation.DSMT4  
+
+
+
+下面方阵中所有数的和是多少？ 
+ EMBED Equation.DSMT4  
+把自然数从1开始，排列成如下的三角阵：第1列为1；第2列为2，3，4；第3列为5，6，7，8，9，…，每一列比前一列多排两个数，依次排下去，“以1开头的行”是这个三角阵的对称轴，如图．则在以 EMBED Equation.DSMT4  开头的行中，第2008个数是多少． 
+ EMBED Equation.DSMT4  
+
+
+
+
+将自然数按下图的方式排列，求第10行的第一个数字是几？
+ EMBED Equation.DSMT4  
+
+
+
+
+
+自然数按一定规律排成下表，问第60行第5个数是几？ 
+ EMBED Equation.DSMT4  
+
+
+
+
+
+把所有奇数排列成下面的数表，根据规律，请指出： 197排在第几行的第几个数？ 
+1
+3 5 7
+9 11 13 15 17
+19 21 23 25 27 29 31
+33 35 37 39 43 45 47 49
+… …
+
+
+
+
+
+
+
+
+将自然数按下面的形式排列
+ EMBED Equation.DSMT4  
+问：第10行最左边的数是几？第10行所有数的和是多少？
+
+
+
+
+
+
+
+将正整数从 EMBED Equation.DSMT4  开始依次按如图所示的规律排成一个“数阵”，其中 EMBED Equation.DSMT4  在第 EMBED Equation.DSMT4  个拐角处， EMBED Equation.DSMT4  在第 EMBED Equation.DSMT4  个拐角处， EMBED Equation.DSMT4  在第 EMBED Equation.DSMT4  个拐角处， EMBED Equation.DSMT4  在第 EMBED Equation.DSMT4  个拐角处，……．那么在第 EMBED Equation.DSMT4  个拐角处的数是                  ． 
+
+
+
+
+
+
+一列自然数： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，……， EMBED Equation.DSMT4  ，第一个数是 EMBED Equation.DSMT4  ，从第二个数开始，每一个都比它前一个大 EMBED Equation.DSMT4  ，最后一个是 EMBED Equation.DSMT4  ．现在将这列自然数排成以下数表规定横排为行，竖排为列，则 EMBED Equation.DSMT4  在数表中位于第________行第________列。
+
+
+
+下表一共有六行七列，第一行与第一列上的数都已填好，其他位置上的每个数都是它所在行的第一列上的数与所在列的第一行上的数的积，如 EMBED Equation.DSMT4  格应填的数是 EMBED Equation.DSMT4  ，求表中除第一行和第一列外其它各个格上的数之和？ 
+
+如图的数阵是由 EMBED Equation.DSMT4  个偶数排成的，其中 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  这六个数由一个平行四边形围住，它们的和是 EMBED Equation.DSMT4  ．把这个平行四边形沿上下、左右平移后，又围住了右边数阵中的另外六个数，如果这六个数的和是 EMBED Equation.DSMT4  ．那么它们中间位于平行四边形左上角的那个数是       ？ 
+
+
+若干个硬币排成左下图，每个硬币所在行的硬币数与所在列的硬币数相减得出一个差（大数减小数），如对于a，差为7-5=2，所有差的总和为                 。
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+1-2-1-1.等差数列的认识与公式运用.题库	                      学生版                               page  PAGE 13 of  NUMPAGES 13
+
+
+知识点拨
+
+
+
+
+
+
+等差数列的认识与公式运用
+
+
+
+例题精讲
+
+教学目标
+
+
+
+
+
+
+
+

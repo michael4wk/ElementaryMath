@@ -1,0 +1,180 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+掌握最值中的数字谜的技巧
+能够综合运用数论相关知识解决数字谜问题
+
+ SHAPE  \* MERGEFORMAT 
+
+数字谜中的最值问题常用分析方法
+
+数字谜一般分为横式数字谜和竖式数字谜．横式数字谜经常和数论里面的知识结合考察，有些时候也可以转化为竖式数字谜；
+竖式数字谜通常有如下突破口：末位和首位、进位和借位、个位数字、位数的差别等．
+数字谜的常用分析方法有：个位数字分析法、高位数字分析法、数字大小估算分析法、进位错位分析法、分解质因数法、奇偶分析法等．
+除了数字谜问题常用的分析方法外，还会经常采用比较法，通过比较算式计算过程的各步骤，得到所求的最值的可能值，再验证能否取到这个最值．
+数字谜问题往往综合了数字的整除特征、质数与合数、分解质因数、个位数字、余数、分数与小数互化、方程、估算、找规律等题型。 
+
+ SHAPE  \* MERGEFORMAT 
+
+模块一、横式数字谜
+
+在下面的算式 EMBED Equation.DSMT4  中填入四个运算符号 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、（每个符号只填一次），则计算结果最大是_______.
+ EMBED Equation.DSMT4  
+【考点】混合计算中的数字谜    【难度】2星   【题型】填空
+【关键词】希望杯，六年级，初赛，第3题，6分
+为了得到最大结果必须用“×”连接4和5，那么4和5前边一定是“+”，通过尝试得到： EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  
+
+将+，-，×，÷四个运算符号分别填入下面的四个框中使该式的值最大。 EMBED Equation.DSMT4  
+【考点】混合计算中的数字谜   【难度】3星   【题型】填空
+【关键词】华杯赛，初赛，第9题
+题目给出5个数，乘、除之后成3个数，其中减数应尽量小，由两个数合成（相乘或相除）的加数与另一个分数相加应尽量大，，，，；，，，；而，，，；其中最小的是，而，，
+所以最大
+【答案】最大
+
+将1、3、5、7、9填入等号左边的5个方框中，2、4、6、8填入等号右边的4个方框中，使等式成立，且等号两边的计算结果都是自然数．这个结果最大为       ．
+         EMBED Equation.DSMT4  
+【考点】混合计算中的数字谜   【难度】3星   【题型】填空  
+等号左边相当于三个奇数相加，其结果为奇数，而等号右边的计算结果为奇数时，最大为 EMBED Equation.DSMT4  ，又 EMBED Equation.DSMT4  满足条件(情况不唯一)，所以结果的最大值为87．
+【答案】87
+
+一个电子表用5个两位数(包括首位为0的两位数)表示时间，如15:23:45/06/18表示6月18日15点23分45秒．有一些时刻这个电子表上十个数字都不同，在这些时刻中，表示时间的5个两位数之和最大是　　　　　．
+【考点】   【难度】星   【题型】填空
+【关键词】迎春杯，高年级，决赛，8题
+假设五个两位数的十位数上的数字之和为 EMBED Equation.DSMT4  ，那么个位数上的数字之和为 EMBED Equation.DSMT4  ，则五个两位数上的数字之和为 EMBED Equation.DSMT4  ，所以十位数上的数字之和越大，则五个两位数之和越大．
+显然，五个两位数的十位数字都不超过 EMBED Equation.DSMT4  ，只能是 EMBED Equation.DSMT4  这五个数字中的五个．
+如果五个数字是 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  只能在“分”、“秒”两个两位数的十位，而 EMBED Equation.DSMT4  只能在“日期”的十位上， EMBED Equation.DSMT4  只能在“时”的十位上， EMBED Equation.DSMT4  只能在“月份”的十位上，此时“日期”的个位、“月份”的个位、“时”的个位不能同时满足实际情况．
+如果五个数字是 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  只能在“分”、“秒”两个两位数的十位，而 EMBED Equation.DSMT4  只能在“日期”的十位上， EMBED Equation.DSMT4  只能在“时”的十位上，此时“日期”的个位、“时”的个位不能同时满足实际情况．如果五个数字是 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  只能在“分”、“秒”两个两位数的十位，而 EMBED Equation.DSMT4  只能在“日期”的十位上，则“日期”的个位无法满足情况．如果五个数字是 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  只能在“分”、“秒”两个两位数的十位， EMBED Equation.DSMT4  依次在“日期”的十位上、“时”的十位上、“月份”的十位上容易满足条件．所以最大值为 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  ，三位数 EMBED Equation.DSMT4  的最大值是多少？
+【考点】乘除法中的最值问题   【难度】3星   【题型】填空
+【关键词】走美杯，六年级，初赛，第4题
+2.008化为分数是 EMBED Equation.DSMT4  ，可以约分为 EMBED Equation.DSMT4  的分数有 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  的最大值为753.
+【答案】 EMBED Equation.DSMT4  
+
+模块二、乘除法中的最值问题
+
+已知一个五位回文数等于45与一个四位回文数的乘积（即 EMBED Equation.DSMT4  ），那么这个五位回文数最大的可能值是________．
+【考点】乘除法中的最值问题   【难度】3星   【题型】填空
+【关键词】迎春杯，五年级,初赛，第7题
+根据题意， EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  为４５的倍数，所以 EMBED Equation.DSMT4  应为０或５，又 EMBED Equation.DSMT4  还在首位，所以 EMBED Equation.DSMT4  ＝５，现在要让 EMBED Equation.DSMT4  尽可能的大，首先需要位数高的尽可能的大，所以令 EMBED Equation.DSMT4  , EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ＝５＋９＋８＋９＋５＝３６是９的倍数，用５９８９５÷４５＝１３３１符合条件，所以这个五位回文数最大的可能值是 EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  
+
+在下面乘法竖式的每个方格中填入一个非零数字，使算式成立。那么，乘积的最大值等于_________。
+
+（A）6292  （B）6384   （C）6496   （D）6688
+【考点】乘除法中的最值问题   【难度】4星   【题型】选择
+【关键词】迎春杯，高年级，复试，第1题
+ EMBED Equation.DSMT4  ，提示： EMBED Equation.DSMT4  
+【答案】D. EMBED Equation.DSMT4  
+
+满足图中算式的三位数 EMBED Equation.DSMT4  最小值是________． 
+
+【考点】乘除法中的最值问题   【难度】4星   【题型】填空
+【关键词】迎春杯，六年级，初赛，第3题
+为了使得 EMBED Equation.DSMT4  最小，那么a=1，由于三个积的十位数字为0、1、0，那么b=0，个位上可以进位、不进位都必须出现，那么c=2，所以 EMBED Equation.DSMT4  =102；评注：这是有极值要求的残缺数字谜问题，如果没有 EMBED Equation.DSMT4  最小的限制，那么方法很多，即使在 EMBED Equation.DSMT4  最小时，也有很多填法。本题可以改编成计数与数字谜的综合试题，其它条件不变，“在 EMBED Equation.DSMT4  最小时，共有______种不同填法；”，答案：20；
+【答案】 EMBED Equation.DSMT4  
+
+若用相同汉字表示相同的数字，不同汉字表示不同的数字，则下列算式中， EMBED Equation.DSMT4  “学习好勤动脑”所表示的六位数最小是多少？
+【考点】乘除法中的最值问题   【难度】4星   【题型】填空  
+设“学习好”为 EMBED Equation.DSMT4  ，“勤动脑”为 EMBED Equation.DSMT4  ，则有 EMBED Equation.DSMT4  ，化简得 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．所以，“学习好勤动脑”所表示的六位数可能为205128，410256，615384，820512，由于不能有重复数字，只有410256，615384满足，其中最小的是410256．
+【答案】410256
+
+在□内填入适当的数字，使下列竖式成立，并使乘积尽可能小，那么乘积最小是        ．
+ EMBED Equation.DSMT4  
+【考点】乘除法中的最值问题   【难度】4星   【题型】填空 
+由于被乘数乘以6得到的数的个位数字为4，所以被乘数的个位数字为4或9，如果为9，那么被乘数乘以乘数的十位数字得到的数的个位数字不可能为0，与题意不符，所以被乘数的个位数字为4，且乘数的十位数字为5，所以乘数为56．
+由于被乘数乘以6得到的五位数至少为10004，而 EMBED Equation.DSMT4  ，所以被乘数大于1667，而被乘数的个位数字为4，所以被乘数至少为1674，乘积最小为 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+在□内填入适当的数字，使下列竖式成立，并使乘积尽可能小，那么乘积最小是        ．
+ EMBED Equation.DSMT4  
+【考点】乘除法中的最值问题   【难度】4星   【题型】填空 
+由于被乘数乘以6得到一个五位数，而乘以乘数的十位数字得到一个四位数，所以乘数的十位数字小于6，乘数可能是16，26，36，46和56．它们能得到的最小乘积分别是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．其中最小的为100004，所以乘积最小为100004．
+【答案】100004
+
+在□内填入适当的数字，使下列竖式成立，并使商尽可能小．那么商的最小值是        ．
+
+【考点】乘除法中的最值问题   【难度】5星   【题型】填空 
+商的十位大于商的百位，所以商的十位最小为7，个位最小为1，所以商的最小可能值是671．当商是671时，由“除数 EMBED Equation.DSMT4  ”和“除数 EMBED Equation.DSMT4  ”得 EMBED Equation.DSMT4  除数 EMBED Equation.DSMT4  ，那么除数是16．所以 EMBED Equation.DSMT4  满足题意且商最小，所以商的最小值为671．
+【答案】671
+
+在□内填入适当的数字，使下列竖式成立，并使商尽可能小．那么商的最小值是        ．
+
+【考点】乘除法中的最值问题   【难度】6星   【题型】填空 
+如右式，用字母表示某些方格内的数．因为除数是两位数，它与商的各个数位的乘积都是三位数，所以商的每一位都不小于2，那么商的最小可能值为262．由右式知 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  或8．当 EMBED Equation.DSMT4  时，由 EMBED Equation.DSMT4  ，推知 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，进而得 EMBED Equation.DSMT4  ，此时题中算式为 EMBED Equation.DSMT4  ，满足题意，所以商的最小值为262．
+【答案】262
+
+在右图除法竖式的每个方格中填入适当的数字使竖式成立，并使商尽量大．那么，商的最大值是__________．
+
+          
+【考点】乘除法中的最值问题   【难度】6星   【题型】填空 
+【关键词】迎春杯，中年级，初赛，第6题
+如右式，用字母来表示方格内的数字．易知 EMBED Equation.DSMT4  ．为了使商最大，首先令 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  最大为8(若 EMBED Equation.DSMT4  也为9，则 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  的百位数字不能为0)．再由 EMBED Equation.DSMT4  知 EMBED Equation.DSMT4  ，由 EMBED Equation.DSMT4  知 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ．若 EMBED Equation.DSMT4  ，由 EMBED Equation.DSMT4  知 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的 EMBED Equation.DSMT4  倍，则 EMBED Equation.DSMT4  ，矛盾，所以 EMBED Equation.DSMT4  不合题意；
+若 EMBED Equation.DSMT4  ，由 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  ，
+此时 EMBED Equation.DSMT4  只可能为1200或1208， EMBED Equation.DSMT4  或151，但 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，均不可能为 EMBED Equation.DSMT4  ，
+所以 EMBED Equation.DSMT4  不成立；
+若 EMBED Equation.DSMT4  ，由 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  ，
+也不成立；
+若 EMBED Equation.DSMT4  ，可得以下两式符合题意： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，
+所以商的最大值为9803．
+【答案】9803
+
+如下面除法竖式的每个方框中填入适当的数字，使竖式成立，并使商尽量的小．那么，商的最小值是____________．
+
+【考点】乘除法中的最值问题    【难度】6星   【题型】填空
+【关键词】迎春杯，高年级，初赛，第3题）
+显然商十位是0，如果商的千位是2，则除数 EMBED Equation.DSMT4  ，只能是 EMBED Equation.DSMT4  ，从而除数 EMBED Equation.DSMT4  ，乘以商的个位之后不可能等于 EMBED Equation.DSMT4  ．
+如果商的千位是3，因为除数乘以商的百位后等于 EMBED Equation.DSMT4  ，商的个位只能是1或2．
+如果商的个位是1，则除数等于 EMBED Equation.DSMT4  ，商的百位最少是4，此时750等数符合条件．
+如果商的个位是2，则除数等于 EMBED Equation.DSMT4  ，此时商的百位必须大于4．
+所以，商的最小值是3401．
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+5-1-2-5.最值的数字谜（二）.题库	                        教师版                           page  PAGE 7 of  NUMPAGES 7
+
+
+
+5-1-2-5.最值中的数字谜（二）
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

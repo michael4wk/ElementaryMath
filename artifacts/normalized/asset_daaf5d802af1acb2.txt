@@ -1,0 +1,172 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE  \* MERGEFORMAT 
+  EMBED Equation.DSMT4  ________ 。
+【考点】通项归纳           【难度】2星          【题型】计算 
+【关键词】走美杯，初赛，六年级
+方法一：令 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，两式相减，得 EMBED Equation.DSMT4  。
+方法二：找规律计算得到 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+在一列数： EMBED Equation.DSMT4  中，从哪一个数开始，1与每个数之差都小于 EMBED Equation.DSMT4  ？ 
+【考点】通项归纳           【难度】2星          【题型】计算 
+【关键词】华杯赛，初赛
+这列数的特点是每个数的分母比分子大2，分子为奇数列，要1－ EMBED Equation.DSMT4  ＜ EMBED Equation.DSMT4  ，解出n＞999.5，从n＝1000开始，即从 EMBED Equation.DSMT4  开始，满足条件
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】通项归纳           【难度】3星          【题型】计算 
+先找通项公式 EMBED Equation.DSMT4  
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】通项归纳           【难度】3星          【题型】计算 
+先找通项： EMBED Equation.DSMT4  
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4    EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算：  EMBED Equation.DSMT4  
+【考点】通项归纳           【难度】2星          【题型】计算 
+【关键词】南京市，兴趣杯，决赛
+先通项归纳： EMBED Equation.DSMT4  ，
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】通项归纳           【难度】3星          【题型】计算 
+ EMBED Equation.DSMT4  
+原式＝ EMBED Equation.DSMT4  ＝
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4   
+【考点】通项归纳           【难度】3星          【题型】计算 
+（法1）：可先找通项 EMBED Equation.DSMT4  
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+（法2）：原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】通项归纳           【难度】3星          【题型】计算 
+ EMBED Equation.DSMT4  
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ 计算： EMBED Equation.DSMT4  
+【考点】通项归纳           【难度】3星          【题型】计算 
+通项公式： EMBED Equation.DSMT4  ，
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4   
+【考点】通项归纳           【难度】4星          【题型】计算 
+找通项 EMBED Equation.DSMT4  
+原式 EMBED Equation.DSMT4  ，
+通过试写我们又发现数列存在以上规律，这样我们就可以轻松写出全部的项，所以有
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】通项归纳           【难度】3星          【题型】计算 
+由于 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，
+        原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】通项归纳           【难度】3星          【题型】计算 
+（法1）：可先来分析一下它的通项情况，
+ EMBED Equation.DSMT4  
+原式=  EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+（法2）： EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】通项归纳           【难度】3星          【题型】计算 
+通项为： EMBED Equation.DSMT4  ，
+原式 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】通项归纳           【难度】4星          【题型】计算 
+ EMBED Equation.DSMT4  
+原式= EMBED Equation.DSMT4  = EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.3 \* MERGEFORMAT 
+【考点】通项归纳           【难度】3星          【题型】计算 
+虽然很容易看出 EMBED Equation.3 \* MERGEFORMAT ＝ EMBED Equation.3 \* MERGEFORMAT ， EMBED Equation.3 \* MERGEFORMAT ＝ EMBED Equation.3 \* MERGEFORMAT ……可是再仔细一看，并没有什么效果，因为这不象分数裂项那样能消去很多项．我们再来看后面的式子，每一项的分母容易让我们想到公式 EMBED Equation.3 \* MERGEFORMAT ， 于是我们又有 EMBED Equation.3 \* MERGEFORMAT ．．
+减号前面括号里的式子有10项，减号后面括号里的式子也恰好有10项，是不是“一个对一个”呢？
+ 		 EMBED Equation.3 \* MERGEFORMAT 
+＝ EMBED Equation.3 \* MERGEFORMAT 
+＝ EMBED Equation.3 \* MERGEFORMAT 
+ 		＝ EMBED Equation.3 \* MERGEFORMAT 
+ 		＝ EMBED Equation.3 \* MERGEFORMAT ＝ EMBED Equation.3 \* MERGEFORMAT 
+＝ EMBED Equation.3 \* MERGEFORMAT ＝ EMBED Equation.3 \* MERGEFORMAT ．
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4            ． 
+【考点】通项归纳           【难度】4星          【题型】计算 
+本题的通项公式为 EMBED Equation.DSMT4  ，没办法进行裂项之类的处理．注意到分母 EMBED Equation.DSMT4  ，可以看出如果把 EMBED Equation.DSMT4  换成 EMBED Equation.DSMT4  的话分母的值不变，所以可以把原式子中的分数两两组合起来，最后单独剩下一个 EMBED Equation.DSMT4  ．
+将项数和为100的两项相加，得
+ EMBED Equation.DSMT4  ，
+所以原式 EMBED Equation.DSMT4  ．（或者，可得原式中99项的平均数为1，所以原式 EMBED Equation.DSMT4  ）
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4            
+【考点】通项归纳           【难度】4星          【题型】计算 
+通项归纳： EMBED Equation.DSMT4     原式= EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】通项归纳           【难度】4星          【题型】计算 
+原式 EMBED Equation.DSMT4   通项归纳， EMBED Equation.DSMT4  
+        原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4            
+【考点】通项归纳           【难度】4星          【题型】计算 
+通项归纳， EMBED Equation.DSMT4     原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  （共 EMBED Equation.DSMT4  条分数线） EMBED Equation.DSMT4            
+【考点】通项归纳           【难度】4星          【题型】计算 
+ EMBED Equation.DSMT4       EMBED Equation.DSMT4       EMBED Equation.DSMT4          ………………     EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  条分数线的话，答案应该为 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+1-2-2-3.通项归纳.题库	                          教师版                          page  PAGE 6 of  NUMPAGES 6
+
+
+通项归纳
+
+例题精讲
+
+
+

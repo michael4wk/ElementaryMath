@@ -1,0 +1,374 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+圆柱、圆锥常用的表面积、体积公式
+立体图形
+表面积
+体积
+圆柱
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+圆锥
+ EMBED Equation.DSMT4  
+注： EMBED Equation.DSMT4  是母线，即从顶点到底面圆上的线段长
+ EMBED Equation.DSMT4  
+
+
+板块一  圆柱与圆锥
+
+如图，用高都是 EMBED Equation.DSMT4  米，底面半径分别为 EMBED Equation.DSMT4  米、 EMBED Equation.DSMT4  米和 EMBED Equation.DSMT4  米的 EMBED Equation.DSMT4  个圆柱组成一个物体．问这个物体的表面积是多少平方米？( EMBED Equation.DSMT4  取 EMBED Equation.DSMT4  )
+  
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+从上面看到图形是右上图，所以上下底面积和为 EMBED Equation.DSMT4  (立方米)，侧面积为 EMBED Equation.DSMT4  (立方米)，所以该物体的表面积是 EMBED Equation.DSMT4  (立方米)．
+【答案】32.97
+
+有一个圆柱体的零件，高 EMBED Equation.DSMT4  厘米，底面直径是 EMBED Equation.DSMT4  厘米，零件的一端有一个圆柱形的圆孔，圆孔的直径是 EMBED Equation.DSMT4  厘米，孔深 EMBED Equation.DSMT4  厘米(见右图)．如果将这个零件接触空气的部分涂上防锈漆，那么一共要涂多少平方厘米？
+
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+涂漆的面积等于大圆柱表面积与小圆柱侧面积之和，为
+ EMBED Equation.DSMT4  (平方厘米)．
+【答案】307.72
+
+(希望杯2试试题)圆柱体的侧面展开，放平，是边长分别为10厘米和12厘米的长方形，那么这个圆柱体的体积是________立方厘米．(结果用 EMBED Equation.DSMT4  表示)
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+当圆柱的高是12厘米时体积为 EMBED Equation.DSMT4  (立方厘米)
+当圆柱的高是12厘米时体积为 EMBED Equation.DSMT4  (立方厘米)．所以圆柱体的体积为 EMBED Equation.DSMT4  立方厘米或 EMBED Equation.DSMT4  立方厘米．
+【答案】 EMBED Equation.DSMT4  立方厘米或 EMBED Equation.DSMT4  立方厘米
+
+如右图，是一个长方形铁皮，利用图中的阴影部分，刚好能做成一个油桶(接头处忽略不计)，求这个油桶的容积．( EMBED Equation.DSMT4  )
+
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+圆的直径为： EMBED Equation.DSMT4  (米)，而油桶的高为2个直径长，即为： EMBED Equation.DSMT4  ，故体积为 EMBED Equation.DSMT4  立方米．
+【答案】 EMBED Equation.DSMT4  立方米
+
+【巩固】如图，有一张长方形铁皮，剪下图中两个圆及一块长方形，正好可以做成1个圆柱体，这个圆柱体的底面半径为10厘米，那么原来长方形铁皮的面积是多少平方厘米？( EMBED Equation.DSMT4  )
+
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+做成的圆柱体的侧面是由中间的长方形卷成的，可见这个长方形的长与旁边的圆的周长相等，则剪下的长方形的长，即圆柱体底面圆的周长为： EMBED Equation.DSMT4  (厘米)，
+原来的长方形的面积为： EMBED Equation.DSMT4  (平方厘米)．
+【答案】2056
+
+把一个高是8厘米的圆柱体，沿水平方向锯去2厘米后，剩下的圆柱体的表面积比原来的圆柱体表面积减少 EMBED Equation.DSMT4  平方厘米．原来的圆柱体的体积是多少立方厘米？
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+沿水平方向锯去2厘米后，剩下的圆柱体的表面积比原来的圆柱体表面积减少的部分为减掉的2厘米圆柱体的侧面积，所以原来圆柱体的底面周长为 EMBED Equation.DSMT4  厘米，底面半径为 EMBED Equation.DSMT4  厘米，所以原来的圆柱体的体积是 EMBED Equation.DSMT4  (立方厘米)．
+【答案】25.12
+
+【巩固】一个圆柱体底面周长和高相等．如果高缩短4厘米，表面积就减少 EMBED Equation.DSMT4  平方厘米．求这个圆柱体的表面积是多少？
+ 
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+圆柱体底面周长和高相等，说明圆柱体侧面展开是一个正方形．高缩短 EMBED Equation.DSMT4  厘米，表面积就减少 EMBED Equation.DSMT4  平方厘米．阴影部分的面积为圆柱体表面积减少部分，值是 EMBED Equation.DSMT4  平方厘米，所以底面周长是 EMBED Equation.DSMT4  (厘米)，侧面积是： EMBED Equation.DSMT4  (平方厘米)，两个底面积是： EMBED Equation.DSMT4  (平方厘米)．所以表面积为： EMBED Equation.DSMT4  (平方厘米)．
+【答案】182.8736
+
+(两岸四地”华罗庚金杯”少年数学精英邀请赛)一个圆柱体形状的木棒，沿着底面直径竖直切成两部分．已知这两部分的表面积之和比圆柱体的表面积大 EMBED Equation.DSMT4  ，则这个圆柱体木棒的侧面积是________ EMBED Equation.DSMT4  ．( EMBED Equation.DSMT4  取 EMBED Equation.DSMT4  )
+
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+根据题意可知，切开后表面积增加的就是两个长方形纵切面．
+设圆柱体底面半径为 EMBED Equation.DSMT4  ，高为 EMBED Equation.DSMT4  ，那么切成的两部分比原来的圆柱题表面积大：
+ EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，所以，圆柱体侧面积为：
+ EMBED Equation.DSMT4  ．
+【答案】3152.56
+
+【巩固】已知圆柱体的高是 EMBED Equation.DSMT4  厘米，由底面圆心垂直切开，把圆柱分成相等的两半，表面积增加了 EMBED Equation.DSMT4  平方厘米，求圆柱体的体积．( EMBED Equation.DSMT4  )
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+圆柱切开后表面积增加的是两个长方形的纵切面，长方形的长等于圆柱体的高为10厘米，宽为圆柱底面的直径，设为 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  (厘米)．圆柱体积为： EMBED Equation.DSMT4  (立方厘米)．
+【答案】30
+
+一个圆柱体的体积是 EMBED Equation.DSMT4  立方厘米，底面半径是2厘米．将它的底面平均分成若干个扇形后，再截开拼成一个和它等底等高的长方体，表面积增加了多少平方厘米？ ( EMBED Equation.DSMT4  ) 
+　　　　      
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+从图中可以看出，拼成的长方体的底面积与原来圆柱体的底面积相同，长方体的前后两个侧面面积与原来圆柱体的侧面面积相等，所以增加的表面积就是长方体左右两个侧面的面积．
+(法1)这两个侧面都是长方形，且长等于原来圆柱体的高，宽等于圆柱体底面半径．
+可知，圆柱体的高为 EMBED Equation.DSMT4  (厘米)，所以增加的表面积为 EMBED Equation.DSMT4  (平方厘米)；
+(法2)根据长方体的体积公式推导．增加的两个面是长方体的侧面，侧面面积与长方体的长的乘积就是长方体的体积．由于长方体的体积与圆柱体的体积相等，为 EMBED Equation.DSMT4  立方厘米，而拼成的长方体的长等于圆柱体底面周长的一半，为 EMBED Equation.DSMT4  厘米，所以侧面长方形的面积为 EMBED Equation.DSMT4  平方厘米，所以增加的表面积为 EMBED Equation.DSMT4  平方厘米．
+【答案】16
+
+右图是一个零件的直观图．下部是一个棱长为40cm的正方体，上部是圆柱体的一半．求这个零件的表面积和体积．
+
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+这是一个半圆柱体与长方体的组合图形，通过分割平移法可求得表面积和体积分别为：11768平方厘米，89120立方厘米．
+【答案】89120
+
+输液100毫升，每分钟输 EMBED Equation.DSMT4  毫升．如图，请你观察第12分钟时图中的数据，问：整个吊瓶的容积是多少毫升？
+
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+100毫升的吊瓶在正放时，液体在100毫升线下方，上方是空的，容积是多少不好算．但倒过来后，变成圆柱体，根据标示的格子就可以算出来．
+由于每分钟输 EMBED Equation.DSMT4  毫升，12分钟已输液 EMBED Equation.DSMT4  (毫升)，因此开始输液时液面应与50毫升的格线平齐，上面空的部分是50毫升的容积．所以整个吊瓶的容积是 EMBED Equation.DSMT4  (毫升)．
+【答案】150
+
+(”希望杯”五年级第2试)一个拧紧瓶盖的瓶子里面装着一些水(如图)，由图中的数据可推知瓶子的容积是_______ 立方厘米．( EMBED Equation.DSMT4  取 EMBED Equation.DSMT4  )
+  
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+由于瓶子倒立过来后其中水的体积不变，所以空气部分的体积也不变，从图中可以看出，瓶中的水构成高为 EMBED Equation.DSMT4  厘米的圆柱，空气部分构成高为 EMBED Equation.DSMT4  厘米的圆柱，瓶子的容积为这两部分之和，所以瓶子的容积为： EMBED Equation.DSMT4  (立方厘米)．
+【答案】100.48
+
+【巩固】一个酒精瓶，它的瓶身呈圆柱形(不包括瓶颈)，如图．已知它的容积为 EMBED Equation.DSMT4  立方厘米．当瓶子正放时，瓶内的酒精的液面高为6厘米；瓶子倒放时，空余部分的高为2厘米．问：瓶内酒精的体积是多少立方厘米？合多少升？
+
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+由题意，液体的体积是不变的，瓶内空余部分的体积也是不变的，因此可知液体体积是空余部分体积的 EMBED Equation.DSMT4  倍．所以酒精的体积为 EMBED Equation.DSMT4  立方厘米，而 EMBED Equation.DSMT4  立方厘米 EMBED Equation.DSMT4  毫升 EMBED Equation.DSMT4  升．
+【答案】 EMBED Equation.DSMT4  
+
+【巩固】一个酒瓶里面深 EMBED Equation.DSMT4  ，底面内直径是 EMBED Equation.DSMT4  ，瓶里酒深 EMBED Equation.DSMT4  ．把酒瓶塞紧后使其瓶口向下倒立这时酒深 EMBED Equation.DSMT4  ．酒瓶的容积是多少？( EMBED Equation.DSMT4  取3)
+
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+观察前后，酒瓶中酒的总量没变，即瓶中液体体积不变．
+当酒瓶倒过来时酒深 EMBED Equation.DSMT4  ，因为酒瓶深 EMBED Equation.DSMT4  ，这样所剩空间为高 EMBED Equation.DSMT4  的圆柱，再加上原来 EMBED Equation.DSMT4  高的酒即为酒瓶的容积．
+酒的体积： EMBED Equation.DSMT4  
+瓶中剩余空间的体积 EMBED Equation.DSMT4  
+酒瓶容积： EMBED Equation.DSMT4  
+【答案】1500
+
+【巩固】一个盖着瓶盖的瓶子里面装着一些水，瓶底面积为 EMBED Equation.DSMT4  平方厘米，(如下图所示)，请你根据图中标明的数据，计算瓶子的容积是＿＿＿＿＿＿．
+　　　　　　
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+由已知条件知，第二个图上部空白部分的高为 EMBED Equation.DSMT4  ，从而水与空着的部分的比为 EMBED Equation.DSMT4  ，由图1知水的体积为 EMBED Equation.DSMT4  ，所以总的容积为 EMBED Equation.DSMT4  立方厘米．
+【答案】60
+
+【巩固】一个透明的封闭盛水容器，由一个圆柱体和一个圆锥体组成，圆柱体的底面直径和高都是12厘米．其内有一些水，正放时水面离容器顶 EMBED Equation.DSMT4  厘米，倒放时水面离顶部5厘米，那么这个容器的容积是多少立方厘米？( EMBED Equation.DSMT4  )
+
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+设圆锥的高为 EMBED Equation.DSMT4  厘米．由于两次放置瓶中空气部分的体积不变，有：
+ EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  ，
+所以容器的容积为： EMBED Equation.DSMT4  (立方厘米)．
+【答案】1620
+
+(希望杯2试试题)如图，底面积为50平方厘米的圆柱形容器中装有水，水面上漂浮着一块棱长为5厘米的正方体木块，木块浮出水面的高度是2厘米．若将木块从容器中取出，水面将下降________厘米．
+
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+在水中的木块体积为 EMBED Equation.DSMT4  (立方厘米)，拿出后水面下降的高度为 EMBED Equation.DSMT4  (厘米)
+【答案】1.5
+
+有两个棱长为 EMBED Equation.DSMT4  厘米的正方体盒子， EMBED Equation.DSMT4  盒中放入直径为 EMBED Equation.DSMT4  厘米、高为8厘米的圆柱体铁块一个， EMBED Equation.DSMT4  盒中放入直径为4厘米、高为8厘米的圆柱体铁块4个，现在 EMBED Equation.DSMT4  盒注满水，把 EMBED Equation.DSMT4  盒的水倒入 EMBED Equation.DSMT4  盒，使 EMBED Equation.DSMT4  盒也注满水，问 EMBED Equation.DSMT4  盒余下的水是多少立方厘米？
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+将圆柱体分别放入 EMBED Equation.DSMT4  盒、 EMBED Equation.DSMT4  盒后，两个盒子的底面被圆柱体占据的部分面积相等，所以两个盒子的底面剩余部分面积也相等，那么两个盒子的剩余空间的体积是相等的，也就是说 EMBED Equation.DSMT4  盒中装的水恰好可以注满 EMBED Equation.DSMT4  盒而无剩余，所以 EMBED Equation.DSMT4  盒余下的水是0立方厘米．
+【答案】 EMBED Equation.DSMT4  盒余下的水是0立方厘米
+
+兰州来的马师傅擅长做拉面，拉出的面条很细很细，他每次做拉面的步骤是这样的：将一个面团先搓成圆柱形面棍，长 EMBED Equation.DSMT4  米．然后对折，拉长到 EMBED Equation.DSMT4  米；再对折，拉长到 EMBED Equation.DSMT4  米……照此继续进行下去，最后拉出的面条粗细(直径)仅有原先面棍的 EMBED Equation.DSMT4  ．问：最后马师傅拉出的这些细面条的总长有多少米？(假设马师傅拉面的过程中．面条始终保持为粗细均匀的圆柱形，而且没有任何浪费)
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+最后拉出的面条直径是原先面棍的 EMBED Equation.DSMT4  ，则截面积是原先面棍的 EMBED Equation.DSMT4  ，细面条的总长为： EMBED Equation.DSMT4  (米)．注意运用比例思想．
+【答案】6553.6
+
+一个圆柱形容器内放有一个长方形铁块．现打开水龙头往容器中灌水．3分钟时水面恰好没过长方体的顶面．再过18分钟水灌满容器．已知容器的高为50厘米，长方体的高为20厘米，求长方体底面面积与容器底面面积之比．
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+因为18分钟水面升高： EMBED Equation.DSMT4  (厘米)．所以圆柱中没有铁块的情形下水面升高20厘米需要的时间是： EMBED Equation.DSMT4  (分钟)，实际上只用了3分钟，说明容器底面没被长方体底面盖住的部分只占容器底面积的 EMBED Equation.DSMT4  ，所以长方体底面面积与容器底面面积之比为 EMBED Equation.DSMT4  ．
+【答案】3:4
+
+一只装有水的圆柱形玻璃杯，底面积是80平方厘米，高是 EMBED Equation.DSMT4  厘米，水深8厘米．现将一个底面积是16平方厘米，高为 EMBED Equation.DSMT4  厘米的长方体铁块竖放在水中后．现在水深多少厘米？
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+根据等积变化原理：用水的体积除以水的底面积就是水的高度．
+(法1)： EMBED Equation.DSMT4  (厘米)；
+(法2)：设水面上升了 EMBED Equation.DSMT4  厘米．根据上升部分的体积=浸入水中铁块的体积列方程为： EMBED Equation.DSMT4  ，解得： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  (厘米)．
+(提问”圆柱高是 EMBED Equation.DSMT4  厘米”，和”高为 EMBED Equation.DSMT4  厘米的长方体铁块”这两个条件给的是否多余？)
+【答案】10
+
+【巩固】一只装有水的圆柱形玻璃杯，底面积是80平方厘米，高是 EMBED Equation.DSMT4  厘米，水深 EMBED Equation.DSMT4  厘米．现将一个底面积是16平方厘米，高为 EMBED Equation.DSMT4  厘米的长方体铁块竖放在水中后．现在水深多少厘米？
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+ EMBED Equation.DSMT4  ，因为 EMBED Equation.DSMT4  ，所以此时水已淹没过铁块， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以现在水深为 EMBED Equation.DSMT4  厘米
+【答案】12.4
+
+【巩固】一只装有水的圆柱形玻璃杯，底面积是80平方厘米，高是 EMBED Equation.DSMT4  厘米，水深 EMBED Equation.DSMT4  厘米．现将一个底面积是16平方厘米，高为 EMBED Equation.DSMT4  厘米的长方体铁块竖放在水中后．现在水深多少厘米？
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+玻璃杯剩余部分的体积为 EMBED Equation.DSMT4  立方厘米，铁块体积为 EMBED Equation.DSMT4  立方厘米，因为 EMBED Equation.DSMT4  ，所以水会溢出玻璃杯，所以现在水深就为玻璃杯的高度 EMBED Equation.DSMT4  厘米
+【总结】铁块放入玻璃杯会出现三种情况：①放入铁块后，水深不及铁块高；②放入铁块后，水深比铁块高但未溢出玻璃杯；③水有溢出玻璃杯．
+【说明】教师可以在此穿插一个关于阿基米德测量黄金头冠的体积的故事．
+一天国王让工匠做了一顶黄金的头冠，不知道工匠有没有掺假，必须知道黄金头冠的体积是多少，可是又没有办法来测量．(如果知道体积，就可以称一下纯黄金相应体积的重量，再称一下黄金头冠的重量，就能知道是否掺假的结果了)于是，国王就把测量头冠体积的任务交给他的大臣阿基米德．(小朋友们，你们能帮阿基米德解决难题吗？)
+阿基米德苦思冥想不得其解，就连晚上沐浴时还在思考这个问题．
+当他坐进水桶里，看到水在往外满溢时，突然灵感迸发，大叫一声：”我找到方法了……”，就急忙跑出去告诉别人，大家看到了一个还光着身子的阿基米德．
+他的方法是：把水桶装满水，当把黄金头冠放进水桶，浸没在水中时，所收集的溢出来的水的体积正是头冠的体积．
+【答案】15
+
+一个圆柱形玻璃杯内盛有水，水面高 EMBED Equation.DSMT4  厘米，玻璃杯内侧的底面积是72平方厘米．在这个杯中放进棱长6厘米的正方体铁块后，水面没有淹没铁块．这时水面高多少厘米？
+
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+把放入铁块后的玻璃杯看作一个底面如右图的新容器，底面积是72—6×6=36(平方厘米)．
+水的体积是 EMBED Equation.DSMT4  (立方厘米)．
+后来水面的高为180÷36=5(厘米)．
+【答案】5
+
+一个盛有水的圆柱形容器，底面内半径为5厘米，深20厘米，水深15厘米．今将一个底面半径为2厘米，高为17厘米的铁圆柱垂直放入容器中．求这时容器的水深是多少厘米？
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+若圆柱体能完全浸入水中，则水深与容器底面面积的乘积应等于原有水的体积与圆柱体在水中体积之和，因而水深为： EMBED Equation.3  (厘米)．
+它比圆柱体的高度要大，可见圆柱体可以完全浸入水中．
+于是所求的水深便是 EMBED Equation.DSMT4  厘米．
+【答案】17.72
+
+有甲、乙两只圆柱形玻璃杯，其内直径依次是10厘米、20厘米，杯中盛有适量的水．甲杯中沉没着一铁块，当取出此铁块后，甲杯中的水位下降了2厘米；然后将铁块沉没于乙杯，且乙杯中的水未外溢．问：这时乙杯中的水位上升了多少厘米？
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+两个圆柱直径的比是 EMBED Equation.DSMT4  ，所以底面面积的比是 EMBED Equation.DSMT4  ．铁块在两个杯中排开的水的体积相同，所以乙杯中水升高的高度应当是甲杯中下降的高度的 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  (厘米)．
+【答案】0.5
+
+【巩固】有一只底面半径是20厘米的圆柱形水桶，里面有一段半径是5厘米的圆柱体钢材浸在水中．钢材从水桶里取出后，桶里的水下降了6厘米．这段钢材有多长？ 
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+根据题意可知，圆柱形钢材的体积等于桶里下降部分水的体积，因为钢材底面半径是水桶底面半径的 EMBED Equation.3  ，即 EMBED Equation.3  ，钢材底面积就是水桶底面积的 EMBED Equation.3 ．根据体积一定，圆柱体的底面积与高成反比例可知，钢材的长是水面下降高度的16倍．
+6÷( EMBED Equation.3 ) EMBED Equation.3 =96(厘米)，(法2)：3．14×20 EMBED Equation.3 ×6÷(3．14×5 EMBED Equation.3 )=96(厘米)．
+【答案】96
+
+一个盛有水的圆柱形容器底面内半径为5厘米，深20厘米，水深15厘米．今将一个底面半径为2厘米，高为18厘米的铁圆柱垂直放人容器中．求这时容器的水深是多少厘米?
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+若铁圆柱体能完全浸入水中，则水深与容积底面积的乘积应等于原有水的体积与圆柱体在水中体积之和，因而水深为： EMBED Equation.DSMT4  （厘米）；
+
+它比铁圆柱体的高度要小，那么铁圆柱体没有完全浸入水中．此时容器与铁圆柱组成一个类似于下图的立体图形．底面积为 EMBED Equation.DSMT4  ，水的体积保持不变为 EMBED Equation.DSMT4  ．所以有水深为 EMBED Equation.DSMT4  (厘米)，小于容器的高度20厘米，显然水没有溢出于是 EMBED Equation.DSMT4  厘米即为所求的水深．
+【答案】 EMBED Equation.DSMT4  
+
+如图11-7，有一个圆柱和一个圆锥，它们的高和底面直径都标在图上，单位是厘米．那么，圆锥体积与圆柱体积的比是多少?
+【关键词】华杯赛，初赛，3题
+
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+圆锥的体积是 EMBED Equation.DSMT4  ，圆柱的体积是 EMBED Equation.DSMT4  ．所以，圆锥体积与圆柱体积的比是 EMBED Equation.DSMT4  .
+【答案】1:24
+
+一个圆锥形容器高24厘米，其中装满水，如果把这些水倒入和圆锥底面直径相等的圆柱形容器中，水面高多少厘米？
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+设圆锥形容器底面积为 EMBED Equation.DSMT4  ，圆柱体内水面的高为 EMBED Equation.DSMT4  ，根据题意有： EMBED Equation.DSMT4  ，可得 EMBED Equation.DSMT4  厘米．
+【答案】8
+
+(”希望杯”一试六年级)如图，圆锥形容器中装有水50升，水面高度是圆锥高度的一半，这个容器最多能装水        升．
+
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+圆锥容器的底面积是现在装水时底面积的4倍，圆锥容器的高是现在装水时圆锥高的2倍，所以容器容积是水的体积的8倍，即 EMBED Equation.DSMT4  升．
+【答案】400
+
+如图，甲、乙两容器相同，甲容器中水的高度是锥高的 EMBED Equation.DSMT4  ，乙容器中水的高度是锥高的 EMBED Equation.DSMT4  ，比较甲、乙两容器，哪一只容器中盛的水多？多的是少的的几倍？
+      
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+设圆锥容器的底面半径为 EMBED Equation.DSMT4  ，高为 EMBED Equation.DSMT4  ，则甲、乙容器中水面半径均为 EMBED Equation.DSMT4  ，则有 EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4  ，即甲容器中的水多，甲容器中的水是乙容器中水的 EMBED Equation.DSMT4  倍．
+【答案】 EMBED Equation.DSMT4  倍
+
+张大爷去年用长2米、宽1米的长方形苇席围成容积最大的圆柱形粮囤．今年改用长3米宽2米的长方形苇席围成容积最大的圆柱形的粮囤．问：今年粮囤的容积是去年粮囤容积的多少倍?
+【关键词】华杯赛，决赛，口试，23题
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+底面周长是3，半径是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  所以今年粮囤底面积是 EMBED Equation.DSMT4  ，高是2．同理，去年粮囤底面积是 EMBED Equation.DSMT4  ，高是1． EMBED Equation.DSMT4  因此，今年粮囤容积是去年粮囤容积的4.5倍．
+【答案】4.5
+
+(仁华考题)如图，有一卷紧紧缠绕在一起的塑料薄膜，薄膜的直径为20厘米，中间有一直径为8厘米的卷轴，已知薄膜的厚度为 EMBED Equation.DSMT4  厘米，则薄膜展开后的面积是        平方米．
+
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+缠绕在一起时塑料薄膜的体积为： EMBED Equation.DSMT4  (立方厘米)，薄膜展开后为一个长方体，体积保持不变，而厚度为 EMBED Equation.DSMT4  厘米，所以薄膜展开后的面积为
+ EMBED Equation.DSMT4  平方厘米 EMBED Equation.DSMT4  平方米．
+另解：也可以先求出展开后薄膜的长度，再求其面积．
+由于展开前后薄膜的侧面的面积不变，展开前为 EMBED Equation.DSMT4  (平方厘米)，展开后为一个长方形，宽为 EMBED Equation.DSMT4  厘米，所以长为 EMBED Equation.DSMT4  厘米，所以展开后薄膜的面积为 EMBED Equation.DSMT4  平方厘米 EMBED Equation.DSMT4  平方米．
+【答案】65.94
+
+【巩固】图为一卷紧绕成的牛皮纸，纸卷直径为20厘米，中间有一直径为6厘米的卷轴．已知纸的厚度为 EMBED Equation.DSMT4   毫米，问：这卷纸展开后大约有多长？
+
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+将这卷纸展开后，它的侧面可以近似的看成一个长方形，它的长度就等于面积除以宽．这里的宽就是纸的厚度，而面积就是一个圆环的面积．
+因此，纸的长度 ：
+ EMBED Equation.DSMT4  (厘米)
+所以，这卷纸展开后大约 EMBED Equation.DSMT4  米．
+【答案】71.4
+
+【巩固】如图，厚度为 EMBED Equation.DSMT4  毫米的铜版纸被卷成一个空心圆柱(纸卷得很紧，没有空隙)，它的外直径是180厘米，内直径是50厘米．这卷铜版纸的总长是多少米？
+
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+卷在一起时铜版纸的横截面的面积为 EMBED Equation.DSMT4  (平方厘米)，如果将其展开，展开后横截面的面积不变，形状为一个长方形，宽为 EMBED Equation.DSMT4  毫米(即 EMBED Equation.DSMT4  厘米)，所以长为 EMBED Equation.DSMT4  厘米 EMBED Equation.DSMT4  米．所以这卷铜版纸的总长是 EMBED Equation.DSMT4  米．
+本题也可设空心圆柱的高为 EMBED Equation.DSMT4  ，根据展开前后铜版纸的总体积不变进行求解，其中 EMBED Equation.DSMT4  在计算过程将会消掉．
+【答案】 EMBED Equation.DSMT4  米
+
+(人大附中分班考试题目)如图，在一个正方体的两对侧面的中心各打通一个长方体的洞，在上下底面的中心打通一个圆柱形的洞．已知正方体边长为10厘米，侧面上的洞口是边长为4厘米的正方形，上下底面的洞口是直径为4厘米的圆，求此立体图形的表面积和体积．
+      
+【考点】圆柱与圆锥   【难度】3星   【题型】解答 
+⑴先求表面积．表面积可分为外侧表面积和内侧表面积．
+外侧为6个边长10厘米的正方形挖去4个边长4厘米的正方形及2个直径4厘米的圆，所以，外侧表面积为： EMBED Equation.DSMT4  (平方厘米)；
+内侧表面积则为右上图所示的立体图形的表面积，需要注意的是这个图形的上下两个圆形底面和前后左右4个正方形面不能计算在内，所以内侧表面积为：
+ EMBED Equation.DSMT4  (平方厘米)，
+　　　　所以，总表面积为： EMBED Equation.DSMT4  (平方厘米)．
+　　　　⑵再求体积．计算体积时将挖空部分的立体图形取出，如右上图，只要求出这个几何体的体积，用原立方体的体积减去这个体积即可．
+　　　　挖出的几何体体积为： EMBED Equation.DSMT4  (立方厘米)；
+　　　　所求几何体体积为： EMBED Equation.DSMT4  (立方厘米)．
+【答案】668.64
+
+
+板块二  旋转问题
+
+
+如图， EMBED Equation.DSMT4  是直角三角形， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的长分别是3和4．将 EMBED Equation.DSMT4  绕 EMBED Equation.DSMT4  旋转一周，求 EMBED Equation.DSMT4  扫出的立体图形的体积．( EMBED Equation.DSMT4  )
+      
+【考点】旋转问题   【难度】3星   【题型】解答 
+如右上图所示， EMBED Equation.DSMT4  扫出的立体图形是一个圆锥，这个圆锥的底面半径为3，高为4，
+体积为： EMBED Equation.DSMT4  ．
+【答案】37.68
+
+已知直角三角形的三条边长分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，分别以这三边轴，旋转一周，所形成的立体图形中，体积最小的是多少立方厘米？( EMBED Equation.DSMT4  取 EMBED Equation.DSMT4  )
+【考点】旋转问题   【难度】3星   【题型】解答 
+以 EMBED Equation.DSMT4  的边为轴旋转一周所得到的是底面半径是 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，高是 EMBED Equation.DSMT4  的圆锥体，体积为 EMBED Equation.DSMT4  
+以 EMBED Equation.DSMT4  的边为轴旋转一周所得到的是底面半径是 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，高是 EMBED Equation.DSMT4  的圆锥体，体积为 EMBED Equation.DSMT4  
+以 EMBED Equation.DSMT4  的边为轴旋转一周所得到的是底面半径是斜边上的高 EMBED Equation.DSMT4   EMBED Equation.DSMT4  的两个圆锥，高之和是 EMBED Equation.DSMT4  的两个圆的组合体，体积为 EMBED Equation.DSMT4  
+【答案】30.144
+
+【巩固】如图，直角三角形如果以 EMBED Equation.DSMT4  边为轴旋转一周，那么所形成的圆锥的体积为 EMBED Equation.DSMT4  ，以 EMBED Equation.DSMT4  边为轴旋转一周，那么所形成的圆锥的体积为 EMBED Equation.DSMT4  ，那么如果以 EMBED Equation.DSMT4  为轴旋转一周，那么所形成的几何体的体积是多少？
+
+【考点】旋转问题   【难度】3星   【题型】解答 
+设 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，那么以 EMBED Equation.DSMT4  边为轴旋转一周，所形成的圆锥的体积为 EMBED Equation.DSMT4  ，以 EMBED Equation.DSMT4  边为轴旋转一周，那么所形成的圆锥的体积为 EMBED Equation.DSMT4  ，由此可得到两条等式：
+ EMBED Equation.DSMT4  ，两条等式相除得到 EMBED Equation.DSMT4  ，将这条比例式再代入原来的方程中就能得到 EMBED Equation.DSMT4  ，根据勾股定理，直角三角形的斜边 EMBED Equation.DSMT4  的长度为 EMBED Equation.DSMT4  ，那么斜边上的高为 EMBED Equation.DSMT4  ．
+如果以 EMBED Equation.DSMT4  为轴旋转一周，那么所形成的几何体相当于两个底面相等的圆锥叠在一起，底面半径为 EMBED Equation.DSMT4  ，高的和为5，所以体积是 EMBED Equation.DSMT4  ．
+【答案】9.6π
+
+如图， EMBED Equation.DSMT4  是矩形， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，对角线 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  相交 EMBED Equation.DSMT4  ． EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别是 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的中点，图中的阴影部分以 EMBED Equation.DSMT4  为轴旋转一周，则白色部分扫出的立体图形的体积是多少立方厘米？( EMBED Equation.DSMT4  取3)
+           
+【考点】旋转问题   【难度】3星   【题型】解答 
+扫出的图形如右上图所示，白色部分实际上是一个圆柱减去两个圆锥后所形成的图形．
+两个圆锥的体积之和为 EMBED Equation.DSMT4  (立方厘米)；
+圆柱的体积为 EMBED Equation.DSMT4  (立方厘米)，
+所以白色部分扫出的体积为 EMBED Equation.DSMT4  (立方厘米)．
+【答案】180
+
+【巩固】(华杯赛决赛试题)如图， EMBED Equation.DSMT4  是矩形， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，对角线 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  相交 EMBED Equation.DSMT4  ．图中的阴影部分以 EMBED Equation.DSMT4  为轴旋转一周，则阴影部分扫出的立体的体积是多少立方厘米？
+        
+【考点】旋转问题   【难度】3星   【题型】解答 
+设三角形 EMBED Equation.DSMT4  以 EMBED Equation.DSMT4  为轴旋转一周所得到的立体图形的体积是 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  等于高为10厘米，底面半径是6厘米的圆锥，减去2个高为5厘米，底面半径是3厘米的圆锥的体积后得到．
+所以， EMBED Equation.DSMT4  (立方厘米)，
+那么阴影部分扫出的立体的体积是 EMBED Equation.DSMT4  (立方厘米)．
+【答案】540
+
+(希望杯六年级一试第15题，5分)如图，从正方形ABCD上截去长方形DEFG，其中AB=1厘米，DE= EMBED Equation.DSMT4  厘米，DG= EMBED Equation.DSMT4  厘米。将ABCGFE以GC边为轴旋转一周，所得几何体的表面积是________平方厘米，体积是________立方厘米。(结果用π表示)
+
+【考点】旋转问题   【难度】3星   【题型】解答 
+经过旋转之后我们可以得到一个挖去一个半径为 EMBED Equation.DSMT4  小圆柱体的柱体，其表面积为1×2×π+2×π×12+ EMBED Equation.DSMT4  ×π= EMBED Equation.DSMT4  π，其体积为1×π×12- EMBED Equation.DSMT4  ×π×（ EMBED Equation.DSMT4  ）2= EMBED Equation.DSMT4  π。
+【答案】 EMBED Equation.DSMT4  π， EMBED Equation.DSMT4  π
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+4-4-2 圆柱与圆锥 题库	                                                                             page  PAGE 14 of  NUMPAGES 16
+
+
+
+
+
+
+
+圆柱与圆锥
+
+
+
+
+例题精讲
+
+
+
+
+
+
+
+
+
+
+
+
+

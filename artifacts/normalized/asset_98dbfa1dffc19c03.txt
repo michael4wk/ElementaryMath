@@ -1,0 +1,248 @@
+
+ SHAPE  \* MERGEFORMAT 
+板块一  三角形等高模型
+我们已经知道三角形面积的计算公式：三角形面积 EMBED Equation.DSMT4  底 EMBED Equation.DSMT4  高 EMBED Equation.DSMT4  
+从这个公式我们可以发现：三角形面积的大小，取决于三角形底和高的乘积．
+如果三角形的底不变，高越大(小)，三角形面积也就越大(小)；
+如果三角形的高不变，底越大(小)，三角形面积也就越大(小)；
+这说明当三角形的面积变化时，它的底和高之中至少有一个要发生变化．但是，当三角形的底和高同时发生变化时，三角形的面积不一定变化．比如当高变为原来的3倍，底变为原来的 EMBED Equation.DSMT4  ，则三角形面积与原来的一样．这就是说：一个三角形的面积变化与否取决于它的高和底的乘积，而不仅仅取决于高或底的变化．同时也告诉我们：一个三角形在面积不改变的情况下，可以有无数多个不同的形状．
+在实际问题的研究中，我们还会常常用到以下结论：
+①等底等高的两个三角形面积相等；
+②两个三角形高相等，面积比等于它们的底之比；
+两个三角形底相等，面积比等于它们的高之比；
+如左图 EMBED Equation.DSMT4  
+    
+③夹在一组平行线之间的等积变形，如右上图 EMBED  \* MERGEFORMAT ；
+反之，如果 EMBED  \* MERGEFORMAT ，则可知直线 EMBED  \* MERGEFORMAT 平行于 EMBED  \* MERGEFORMAT ．
+④等底等高的两个平行四边形面积相等(长方形和正方形可以看作特殊的平行四边形)；
+⑤三角形面积等于与它等底等高的平行四边形面积的一半；
+⑥两个平行四边形高相等，面积比等于它们的底之比；两个平行四边形底相等，面积比等于它们的高之比．
+板块二  鸟头模型
+两个三角形中有一个角相等或互补，这两个三角形叫做共角三角形．
+共角三角形的面积比等于对应角(相等角或互补角)两夹边的乘积之比．
+如图在 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  分别是 EMBED Equation.DSMT4  上的点如图  = 1 \* GB2 ⑴(或 EMBED Equation.DSMT4  在 EMBED Equation.DSMT4  的延长线上， EMBED Equation.DSMT4  在 EMBED Equation.DSMT4  上)，
+则 EMBED Equation.DSMT4  
+    
+图 = 1 \* GB2 ⑴               图 = 2 \* GB2 ⑵
+如图在 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  分别是 EMBED Equation.DSMT4  上的点，且 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  平方厘米，求 EMBED Equation.DSMT4  的面积．
+                 
+【考点】三角形的鸟头模型  【难度】2星   【题型】解答
+连接 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，设 EMBED Equation.DSMT4  份，则 EMBED Equation.DSMT4  份， EMBED Equation.DSMT4  平方厘米，所以 EMBED Equation.DSMT4  份是 EMBED Equation.DSMT4  平方厘米， EMBED Equation.DSMT4  份就是 EMBED Equation.DSMT4  平方厘米， EMBED Equation.DSMT4  的面积是 EMBED Equation.DSMT4  平方厘米．由此我们得到一个重要的定理，共角定理：共角三角形的面积比等于对应角(相等角或互补角)两夹边的乘积之比 ．
+【答案】70
+
+【巩固】如图，三角形 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的5倍， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的3倍，如果三角形 EMBED Equation.DSMT4  的面积等于1，那么三角形 EMBED Equation.DSMT4  的面积是多少？
+                 
+【考点】三角形的鸟头模型  【难度】2星   【题型】解答
+连接 EMBED Equation.DSMT4  ．
+∵ EMBED Equation.DSMT4   
+∴ EMBED Equation.DSMT4  
+又∵ EMBED Equation.DSMT4  
+∴ EMBED Equation.DSMT4  ，∴ EMBED Equation.DSMT4  ．
+【答案】15
+
+【巩固】如图，三角形ABC被分成了甲(阴影部分)、乙两部分， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，乙部分面积是甲部分面积的几倍？
+           
+【考点】三角形的鸟头模型  【难度】2星   【题型】解答
+连接 EMBED Equation.DSMT4  ．
+∵ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+∴ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+又∵ EMBED Equation.DSMT4  ，
+∴ EMBED Equation.DSMT4  ，∴ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+【答案】5
+
+如图在 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  在 EMBED Equation.DSMT4  的延长线上， EMBED Equation.DSMT4  在 EMBED Equation.DSMT4  上，且 EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  平方厘米，求 EMBED Equation.DSMT4  的面积．
+       
+【考点】三角形的鸟头模型  【难度】3星   【题型】解答
+连接 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4                                                                             EMBED Equation.DSMT4  ，
+所以 EMBED Equation.DSMT4  ，设 EMBED Equation.DSMT4  份，则 EMBED Equation.DSMT4  份， EMBED Equation.DSMT4  平方厘米，所以 EMBED Equation.DSMT4  份是 EMBED Equation.DSMT4  平方厘米， EMBED Equation.DSMT4  份就是 EMBED Equation.DSMT4  平方厘米， EMBED Equation.DSMT4  的面积是 EMBED Equation.DSMT4  平方厘米．由此我们得到一个重要的定理，共角定理：共角三角形的面积比等于对应角(相等角或互补角)两夹边的乘积之比
+【答案】50
+
+如图所示，在平行四边形ABCD中，E为AB的中点， EMBED Equation.DSMT4  ，三角形AFE(图中阴影部分)的面积为8平方厘米．平行四边形的面积是多少平方厘米？
+
+【考点】三角形的鸟头模型  【难度】2星   【题型】解答
+连接FB．三角形AFB面积是三角形CFB面积的2倍，而三角形AFB面积是三角形AEF面积的2倍，所以三角形ABC面积是三角形AEF面积的3倍；又因为平行四边形的面积是三角形ABC面积的2倍，所以平行四边形的面积是三角形AFE面积的 EMBED Equation.DSMT4  倍．因此，平行四边形的面积为 EMBED Equation.DSMT4  (平方厘米)．
+【答案】48
+
+已知 EMBED Equation.DSMT4  的面积为 EMBED Equation.DSMT4  平方厘米， EMBED Equation.DSMT4  ，求 EMBED Equation.DSMT4  的面积．
+
+【考点】三角形的鸟头模型  【难度】3星   【题型】解答
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+设 EMBED Equation.DSMT4  份，则 EMBED Equation.DSMT4  份， EMBED Equation.DSMT4  份， EMBED Equation.DSMT4  份， EMBED Equation.DSMT4  份，恰好是 EMBED Equation.DSMT4  平方厘米，所以 EMBED Equation.DSMT4  平方厘米
+【答案】24
+
+如图16-4，已知．AE= EMBED Equation.DSMT4  AC，CD= EMBED Equation.DSMT4  BC，BF= EMBED Equation.DSMT4  AB，那么 EMBED Equation.DSMT4  等于多少?
+   
+【考点】三角形的鸟头模型  【难度】3星   【题型】解答
+【关键词】迎春杯，决赛，第一题，9题
+如下图，连接AD，BE，CF.
+ 
+有△ABE，△ABC的高相等，面积比为底的比，则有 EMBED Equation.DSMT4  = EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  = EMBED Equation.DSMT4  × EMBED Equation.DSMT4  = EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+同理有 EMBED Equation.DSMT4  = EMBED Equation.DSMT4   EMBED Equation.DSMT4  ,即= EMBED Equation.DSMT4  = EMBED Equation.DSMT4  × EMBED Equation.DSMT4   EMBED Equation.DSMT4  = EMBED Equation.DSMT4   EMBED Equation.DSMT4  .
+类似的还可以得到 EMBED Equation.DSMT4  = EMBED Equation.DSMT4  × EMBED Equation.DSMT4   EMBED Equation.DSMT4  = EMBED Equation.DSMT4   EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  = EMBED Equation.DSMT4  × EMBED Equation.DSMT4   EMBED Equation.DSMT4  = EMBED Equation.DSMT4   EMBED Equation.DSMT4  ．
+     所以有 EMBED Equation.DSMT4  = EMBED Equation.DSMT4  -( EMBED Equation.DSMT4  + EMBED Equation.DSMT4  + EMBED Equation.DSMT4  )=(1- EMBED Equation.DSMT4  - EMBED Equation.DSMT4  - EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  = EMBED Equation.DSMT4   EMBED Equation.DSMT4  ．
+即 EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+如图，三角形 EMBED Equation.DSMT4  的面积为3平方厘米，其中 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，三角形 EMBED Equation.DSMT4  的面积是多少？
+
+【考点】三角形的鸟头模型  【难度】2星   【题型】解答
+由于 EMBED Equation.DSMT4  ，所以可以用共角定理，设 EMBED Equation.DSMT4  份， EMBED Equation.DSMT4  份，则 EMBED Equation.DSMT4  份，    
+ EMBED Equation.DSMT4  份，由共角定理 EMBED Equation.DSMT4  ，设 EMBED Equation.DSMT4  份，恰好是 EMBED Equation.DSMT4  平方厘米，所以 EMBED Equation.DSMT4  份是 EMBED Equation.DSMT4  平方厘米， EMBED Equation.DSMT4  份就是 EMBED Equation.DSMT4  平方厘米，三角形 EMBED Equation.DSMT4  的面积是 EMBED Equation.DSMT4  平方厘米
+【答案】12.5
+
+如图所示，正方形 EMBED Equation.DSMT4  边长为6厘米， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．三角形 EMBED Equation.DSMT4  的面积为_______平方厘米．
+
+【考点】三角形的鸟头模型  【难度】3星   【题型】解答
+【关键词】走美杯，五年级，初赛
+由题意知 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，可得 EMBED Equation.DSMT4  ．根据”共角定理”可得，
+ EMBED Equation.DSMT4  ；而 EMBED Equation.DSMT4  ；所以 EMBED Equation.DSMT4  ；同理得， EMBED Equation.DSMT4  ;， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+故 EMBED Equation.DSMT4  (平方厘米)．
+【答案】10
+
+如图，已知三角形 EMBED Equation.DSMT4  面积为 EMBED Equation.DSMT4  ，延长 EMBED Equation.DSMT4  至 EMBED Equation.DSMT4  ，使 EMBED Equation.DSMT4  ；延长 EMBED Equation.DSMT4  至 EMBED Equation.DSMT4  ，使 EMBED Equation.DSMT4  ；延长 EMBED Equation.DSMT4  至 EMBED Equation.DSMT4  ，使 EMBED Equation.DSMT4  ，求三角形 EMBED Equation.DSMT4  的面积．
+     
+【考点】三角形的鸟头模型  【难度】3星   【题型】解答
+ (法 EMBED Equation.DSMT4  )本题是性质的反复使用．
+连接 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ．
+∵ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，
+∴ EMBED Equation.DSMT4  ．
+同理可得其它，最后三角形 EMBED Equation.DSMT4  的面积 EMBED Equation.DSMT4  ．
+(法 EMBED Equation.DSMT4  )用共角定理∵在 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  互补，
+∴ EMBED Equation.DSMT4  ．
+又 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ．
+同理可得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+所以 EMBED Equation.DSMT4  ．
+【答案】18
+
+如图，把四边形ABCD的各边都延长2倍，得到一个新四边形EFGH如果ABCD的面积是5平方厘米，则EFGH的面积是多少平方厘米?
+
+【考点】三角形的鸟头模型  【难度】4星   【题型】解答
+方法一：如下图，连接BD，ED，BG，
+
+        有 EMBED Equation.DSMT4  EAD、 EMBED Equation.DSMT4  ADB同高，所以面积比为底的比，有 EMBED Equation.DSMT4  ．
+同理 EMBED Equation.DSMT4  ．
+类似的，还可得 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，有 EMBED Equation.DSMT4  =30平方厘米．
+连接AC，AF，HC，还可得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，
+有 EMBED Equation.DSMT4  =30平方厘米.
+
+有四边形EFGH的面积为 EMBED Equation.DSMT4  EAH, EMBED Equation.DSMT4  FCG, EMBED Equation.DSMT4  EFB, EMBED Equation.DSMT4  DHG,ABCD的面积和，即为30+30+5=65(平方厘米.)
+方法二：连接BD，有 EMBED Equation.DSMT4  EAH 、△ABD中∠EAD+∠BAD=180°
+又夹成两角的边EA、AH，AB、AD的乘积比， EMBED Equation.DSMT4  =2×3=6，所以 EMBED Equation.DSMT4  =6 EMBED Equation.DSMT4  ．
+
+类似的，还可得 EMBED Equation.DSMT4  =6 EMBED Equation.DSMT4  ，有 EMBED Equation.DSMT4  + EMBED Equation.DSMT4  =6（ EMBED Equation.DSMT4  + EMBED Equation.DSMT4  )=6 EMBED Equation.DSMT4  =30平方厘米．
+连接AC，还可得 EMBED Equation.DSMT4  =6 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  =6 EMBED Equation.DSMT4  ，
+有 EMBED Equation.DSMT4  + EMBED Equation.DSMT4  =6（ EMBED Equation.DSMT4  + EMBED Equation.DSMT4  ）=6 EMBED Equation.DSMT4  =30平方厘米．
+
+有四边形EFGH的面积为△EAH，△FCG，△EFB，△DHG，ABCD的面积和，
+即为30+30+5=65平方厘米．
+【答案】65
+
+如图，平行四边形 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，平行四边形 EMBED Equation.DSMT4  的面积是 EMBED Equation.DSMT4  ， 求平行四边形 EMBED Equation.DSMT4  与四边形 EMBED Equation.DSMT4  的面积比．
+             
+【考点】三角形的鸟头模型  【难度】4星   【题型】解答
+连接 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ．根据共角定理
+        ∵在 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  互补，
+∴ EMBED Equation.DSMT4  ．
+又 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ．
+同理可得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+所以 EMBED Equation.DSMT4  ．
+所以 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+如图，四边形 EMBED Equation.DSMT4  的面积是 EMBED Equation.DSMT4  平方米， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，求四边形 EMBED Equation.DSMT4  的面积．
+     
+【考点】三角形的鸟头模型  【难度】4星   【题型】解答
+连接 EMBED Equation.DSMT4  ．由共角定理得 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  
+同理 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  
+所以 EMBED Equation.DSMT4  
+连接 EMBED Equation.DSMT4  ，同理可以得到 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+所以 EMBED Equation.DSMT4  平方米
+【答案】13.2
+
+如图，将四边形 EMBED Equation.DSMT4  的四条边 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别延长两倍至点 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，若四边形 EMBED Equation.DSMT4  的面积为5，则四边形 EMBED Equation.DSMT4  的面积是        ．
+      
+【考点】三角形的鸟头模型  【难度】4星   【题型】解答
+连接 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ．
+由于 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，于是 EMBED Equation.DSMT4  ，同理 EMBED Equation.DSMT4  ．
+于是 EMBED Equation.DSMT4  ．
+再由于 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，于是 EMBED Equation.DSMT4  ，同理 EMBED Equation.DSMT4  ．
+于是 EMBED Equation.DSMT4  ．
+那么 EMBED Equation.DSMT4  ．
+【答案】60
+
+如图，在 EMBED Equation.DSMT4  中，延长 EMBED Equation.DSMT4  至 EMBED Equation.DSMT4  ，使 EMBED Equation.DSMT4  ，延长 EMBED Equation.DSMT4  至 EMBED Equation.DSMT4  ，使 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的中点，若 EMBED Equation.DSMT4  的面积是 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  的面积是多少？
+
+【考点】三角形的鸟头模型  【难度】3星   【题型】解答
+∵在 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  互补，
+∴ EMBED Equation.DSMT4  ．
+又 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ．
+同理可得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+所以 EMBED Equation.DSMT4  
+【答案】3.5
+
+如图， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．求 EMBED Equation.DSMT4  ．
+
+【考点】三角形的鸟头模型  【难度】3星   【题型】解答
+本题题目本身很简单，但它把本讲的两个重要知识点融合到一起，既可以看作是”当两个三角形有一个角相等或互补时，这两个三角形的面积比等于夹这个角的两边长度的乘积比”的反复运用，也可以看作是找点，最妙的是其中包含了找点的 EMBED Equation.DSMT4  种情况．
+最后求得 EMBED Equation.DSMT4  的面积为 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+如图所示，正方形 EMBED Equation.DSMT4  边长为 EMBED Equation.DSMT4  厘米， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的中点， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的中点， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的中点，三角形 EMBED Equation.DSMT4  的面积是多少平方厘米？
+               
+【考点】三角形的鸟头模型  【难度】4星   【题型】解答
+连接 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ．
+因为 EMBED Equation.DSMT4  ，根据”当两个三角形有一个角相等或互补时，这两个三角形的面积比等于夹这个角的两边长度的乘积比” EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，再根据”当两个三角形有一个角相等或互补时，这两个三角形的面积比等于夹这个角的两边长度的乘积比”，得到 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  平方厘米．
+【答案】12
+
+四个面积为 EMBED Equation.DSMT4  的正六边形如图摆放，求阴影三角形的面积．
+      
+【考点】三角形的鸟头模型  【难度】4星   【题型】解答
+如图，将原图扩展成一个大正三角形 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  都是正三角形．
+假设正六边形的边长为为 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的边长都是 EMBED Equation.DSMT4  ，所以大正三角形 EMBED Equation.DSMT4  的边长为 EMBED Equation.DSMT4  ，那么它的面积为单位小正三角形面积的49倍．而一个正六边形是由6个单位小正三角形组成的，所以一个单位小正三角形的面积为 EMBED Equation.DSMT4  ，三角形 EMBED Equation.DSMT4  的面积为 EMBED Equation.DSMT4  ．
+由于 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  与三角形 EMBED Equation.DSMT4  的面积之比为 EMBED Equation.DSMT4  ．
+同理可知 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  与三角形 EMBED Equation.DSMT4  的面积之比都为 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  的面积占三角形 EMBED Equation.DSMT4  面积的 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  的面积的面积为 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+【巩固】已知图中每个正六边形的面积都是1，则图中虚线围成的五边形 EMBED Equation.DSMT4  的面积是        ．
+      
+【考点】三角形的鸟头模型  【难度】4星   【题型】解答
+从图中可以看出，虚线 EMBED Equation.DSMT4  和虚线 EMBED Equation.DSMT4  外的图形都等于两个正六边形的一半，也就是都等于一个正六边形的面积；虚线 EMBED Equation.DSMT4  和虚线 EMBED Equation.DSMT4  外的图形都等于一个正六边形的一半，那么它们合起来等于一个正六边形的面积；虚线 EMBED Equation.DSMT4  外的图形是两个三角形，从右图中可以看出，每个三角形都是一个正六边形面积的 EMBED Equation.DSMT4  ，所以虚线外图形的面积等于 EMBED Equation.DSMT4  ，所以五边形的面积是 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+仅用下图这把刻度尺，最少测量       次，就能得出三角形ABC和三角形BCD的面积比。
+INCLUDEPICTURE "../../Local%20Settings/Temp/ksohtml/wps_clip_image-9483.png" \* MERGEFORMAT 
+【考点】三角形的鸟头模型  【难度】5星   【题型】解答
+【关键词】学而思杯，6年级，第10题
+连接DA并延长交BC边的延长线于E点，然后测出EA和ED的长度，由于EA与ED在一条直线上，所以测一次就能EA和ED长度，根据共边定理可知，三角形ABC与三角形BCD的面积比就等于EA比ED，故最少测量1次就可解决问题。
+INCLUDEPICTURE "../../Local%20Settings/Temp/ksohtml/wps_clip_image-25514.png" \* MERGEFORMAT 
+【答案】1次
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+4-3-2 三角形等高模型与鸟头模型 题库	                                                              page  PAGE 11 of  NUMPAGES 11
+
+
+
+4-3-2.三角形等高模型与鸟头模型
+
+例题精讲
+
+
+

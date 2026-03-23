@@ -1,0 +1,246 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+1、明确溶液的质量,溶质的质量,溶剂的质量之间的关系
+2、浓度三角的应用
+3、会将复杂分数应用题及其他类型题目转化成浓度三角形式来解
+4、利用方程解复杂浓度问题
+
+ SHAPE  \* MERGEFORMAT 
+浓度问题的内容与我们实际的生活联系很紧密，就知识点而言它包括小学所学2个重点知识：百分数，比例。
+一、浓度问题中的基本量
+溶质：通常为盐水中的“盐”，糖水中的“糖”，酒精溶液中的“酒精”等
+溶剂：一般为水，部分题目中也会出现煤油等 
+溶液：溶质和溶液的混合液体。
+浓度：溶质质量与溶液质量的比值。
+二、几个基本量之间的运算关系
+1、溶液=溶质+溶剂
+2、EMBED Equation.DSMT4
+三、解浓度问题的一般方法
+1、寻找溶液配比前后的不变量，依靠不变量建立等量关系列方程
+2、十字交叉法：(甲溶液浓度大于乙溶液浓度)
+形象表达：EMBED Equation.DSMT4EMBED Equation.DSMT4EMBED Equation.DSMT4
+注：十字交叉法在浓度问题中的运用也称之为浓度三角，浓度三角与十字交叉法实质上是相同的．浓度三角的表示方法如下：
+
+3、列方程解应用题也是解决浓度问题的重要方法．
+
+
+
+ SHAPE  \* MERGEFORMAT 
+利用十字交叉即浓度三角进行解题
+简单的溶液浓度问题
+某种溶液由40克食盐浓度15%的溶液和60克食盐浓度10%的溶液混合后再蒸发50克水得到，那么这种溶液的食盐浓度为多少？
+【考点】溶液浓度问题          【难度】2星          【题型】解答 
+两种配置溶液共含食盐40×15%+60×10%=12克，而溶液质量为40+60-50=50克，所以这种溶液的浓度为12÷50=24%.
+【答案】24%
+
+一容器内有浓度为25％的糖水，若再加入20千克水，则糖水的浓度变为15％，问这个容器内原来含有糖多少千克？
+【考点】溶液浓度问题          【难度】2星          【题型】解答 
+ EMBED Equation.DSMT4  。所以原来含有糖 EMBED Equation.DSMT4  千克
+【答案】 EMBED Equation.DSMT4  
+
+现有浓度为10％的盐水8千克，要得到浓度为20％的盐水，用什么方法可以得到，具体如何操作？
+【考点】溶液浓度问题          【难度】2星          【题型】解答 
+10％的盐水8千克可以配出20％的盐水 EMBED Equation.DSMT4  千克，需要去掉 EMBED Equation.DSMT4  水。所以需蒸发掉4千克水，溶液的浓度变为20％。
+【答案】蒸发掉4千克水
+
+有浓度为20％的盐水300克，要配制成40％的盐水，需加入浓度为70％的盐水多少克？
+【考点】溶液浓度问题          【难度】2星          【题型】解答 
+将两种溶液的浓度分别放在左右两侧，重量放在旁边，配制后溶液的浓度放在正下方，用直线相连；（见图1）
+
+直线两侧标着两个浓度的差，并化成简单的整数比。所需溶液的重量比就是浓度差的反比；对“比”的理解应上升到“份”，3份对应的为300克，自然知道2份为200克了。需加入浓度为70％的盐水200克。
+【答案】200
+	
+现有浓度为10％的盐水20千克，在该溶液中再加入多少千克浓度为30％的盐水，可以得到浓度为22％的盐水？
+【考点】溶液浓度问题          【难度】2星          【题型】解答 
+10%与30%的盐水重量之比为（30%-22%）：（22%-10%）=2：3，因此需要30%的盐水20÷2×3=30克。
+【答案】30
+
+EMBED Equation.DSMT4千克浓度为EMBED Equation.DSMT4的溶液和多少千克浓度为EMBED Equation.DSMT4的溶液能混合成EMBED Equation.DSMT4的溶液？
+【考点】溶液浓度问题          【难度】2星          【题型】解答 
+由十字交叉法两种溶液的配比为EMBED Equation.DSMT4，所以应该用EMBED Equation.DSMT4千克的EMBED Equation.DSMT4的溶液来混合.
+【答案】EMBED Equation.DSMT4千克
+
+甲种酒精溶液中有酒精EMBED Equation.DSMT4千克，水EMBED Equation.DSMT4千克；乙种酒精溶液中有酒精EMBED Equation.DSMT4千克，水EMBED Equation.DSMT4千克；要配制成EMBED Equation.DSMT4的酒精溶液EMBED Equation.DSMT4千克，问两种酒精溶液各需多少千克？
+【考点】溶液浓度问题          【难度】2星          【题型】解答 
+甲种酒精浓度为EMBED Equation.DSMT4，乙种酒精浓度为EMBED Equation.DSMT4，根据浓度三角，可知两种酒精的质量之比为：EMBED Equation.DSMT4，由于配成的酒精溶液共7千克，因此需要甲种酒精EMBED Equation.DSMT4千克，乙种酒精EMBED Equation.DSMT4千克.
+【答案】甲种酒精EMBED Equation.DSMT4千克，乙种酒精EMBED Equation.DSMT4千克
+
+将75％的酒精溶液32克稀释成浓度为40％的稀酒精，需加入水多少克？
+【考点】溶液浓度问题          【难度】2星          【题型】解答 
+稀释时加入的水溶液浓度为0％（如果需要加入干物质，浓度为100％），标注数值的方法与例1相同。（见图2），32÷8×7＝28，需加水28克。
+
+【答案】28克
+
+浓度为10％，重量为80克的糖水中，加入多少克水就能得到浓度为8％的糖水？
+【考点】溶液浓度问题          【难度】2星          【题型】解答 
+浓度10％，含糖 80×10％＝ 8（克），有水80-8＝72（克）.如果要变成浓度为8％，含糖8克，糖和水的总重量是8÷8％＝100（克），其中有水100-8＝92（克）.还要加入水 92- 72＝ 20（克）.
+【答案】20
+
+浓度为20％的糖水40克，要把它变成浓度为40％的糖水，需加多少克糖？.
+【考点】溶液浓度问题          【难度】2星          【题型】解答 
+浓度为20％，含糖40×20％＝8（克），有水40- 8＝ 32（克）.如果要变成浓度为40％，32克水中，应该含有的糖为：32÷（1－40%）－32＝EMBED Equation.DSMT4（克），需加糖EMBED Equation.DSMT4（克）
+【答案】EMBED Equation.DSMT4
+
+A、B两杯食盐水各有40克，浓度比是 3：2．在B中加入60克水，然后倒入A中________克．再在A、B中加入水，使它们均为100克，这时浓度比为7：3．
+【考点】溶液浓度问题          【难度】2星          【题型】解答 
+【关键词】走美杯，初赛，六年级
+易知前后的食盐量保持不变，则先将初始时A、B的浓度比转化为6：4，分别是6个单位，4个单位，则往A倒入的食盐水的量为1个单位，占了A中的1/4，所以倒入A中的质量为：100×1/4=25克。
+【答案】25
+
+买来蘑菇10千克，含水量为99％，晾晒一会儿后，含水量为98％，问蒸发掉多少水份？
+【考点】溶液浓度问题          【难度】2星          【题型】解答 
+方法一：做蒸发的题目，要改变思考角度，本题就应该考虑成“98％的干蘑菇加水后得到99％的湿蘑菇”，这样求出加入多少水份即为蒸发掉的水份，就又转变成“混合配比”的问题了。但要注意，10千克的标注应该是含水量为99％的重量。将10千克按1∶1分配，10÷2=5，蒸发掉5千克水份。
+
+方法二：晾晒只是使蘑菇里面的水量减少了，蘑菇里其它物质的量还是不变的，所以本题可以抓住这个不变量来解．原来鲜蘑菇里面其它物质的含量为EMBED Equation.DSMT4千克，晾晒后蘑菇里面其它物质的含量还是0.1千克，所以晾晒后的蘑菇有EMBED Equation.DSMT4千克．
+【答案】EMBED Equation.DSMT4
+
+1000千克葡萄含水率为96.5%，一周后含水率降为96%，这些葡萄的质量减少了       千克。
+【考点】溶液浓度问题          【难度】2星          【题型】解答 
+【关键词】走美杯，初赛，六年级
+因为减少的是水的质量，其它物质的质量没有变化，设葡萄糖质量减少了 EMBED Equation.DSMT4  ，则有 EMBED Equation.DSMT4   解得 EMBED Equation.DSMT4   即葡萄糖的质量减少了125千克。
+【答案】125
+
+将含农药EMBED Equation.DSMT4的药液，加入一定量的水以后，药液含药EMBED Equation.DSMT4，如果再加入同样多的水，药液含药的百分比是________．
+【考点】溶液浓度问题          【难度】2星          【题型】解答 
+【关键词】西城实验
+开始时药与水的比为EMBED Equation.DSMT4，加入一定量的水后，药与水的比为EMBED Equation.DSMT4，由于在操作开始前后药的重量不变，所以我们把开始时药与水的比化为EMBED Equation.DSMT4，即，原来药占EMBED Equation.DSMT4份，水占EMBED Equation.DSMT4份；加入一定量的水后，药还是EMBED Equation.DSMT4份，水变为EMBED Equation.DSMT4份，所以加入了EMBED Equation.DSMT4份的水，若再加入EMBED Equation.DSMT4份的水，则水变为EMBED Equation.DSMT4份，药仍然为EMBED Equation.DSMT4份，所以最后得到的药水中药的百分比为：EMBED Equation.DSMT4．
+【答案】EMBED Equation.DSMT4
+
+一杯盐水，第一次加入一定量的水后，盐水的含盐百分比变为15%;第二次又加入同样多的水,盐水的含盐百分比变为12%,第三次再加入同样多的水,盐水的含盐百分比将变为_______%.
+【考点】溶液浓度问题          【难度】2星          【题型】解答 
+【关键词】希望杯，六年级，一试
+第一次加水后盐水和盐的比为20：3，第二次加水后变为25：3，所以第三次加水后变为30：3，所以盐水的含盐百分比为3÷30×100%=10%。
+【答案】10%
+
+在浓度为40％的酒精溶液中加入5千克水，浓度变为30％，再加入多少千克酒精，浓度变为50％？
+【考点】溶液浓度问题          【难度】2星          【题型】解答 
+再加入8千克酒精，溶液浓度变为50％。
+【答案】8
+
+（二）两种溶液多次混合
+甲容器有浓度为2％的盐水 180克，乙容器中有浓度为 9％的盐水若干克，从乙取出 240克盐水倒入甲.再往乙倒入水，使两个容器中有一样多同样浓度的盐水.问：（1）现在甲容器中食盐水浓度是多少？（2）再往乙容器倒入水多少克？
+【考点】溶液浓度问题          【难度】3星          【题型】解答 
+（1）现在甲容器中盐水含盐量是：180×2％＋ 240×9％＝ 25.2（克）.浓度是25.2÷（180 ＋ 240）× 100％= 6％.
+（2）“两个容器中有一样多同样浓度的盐水”，即两个容器中含盐量一样多.在乙中也含有25.2克盐.因为后来倒入的是水，所以盐只在原有的盐水中.在倒出盐水 240克后，乙的浓度仍是 9％，要含有 25.2克盐，乙容器还剩下盐水25.2÷9％＝280（克），还要倒入水420-280＝140（克）.
+【答案】（1）6％              （2）140（克）
+
+甲、乙两只装有糖水的桶，甲桶有糖水60千克，含糖率为EMBED Equation.DSMT4，乙桶有糖水40千克，含糖率为EMBED Equation.DSMT4，两桶互相交换多少千克才能使两桶糖水的含糖率相等？
+【考点】溶液浓度问题          【难度】3星          【题型】解答 
+由于两桶糖水互换的量是对等的，故在变化过程中，两桶中糖水的量没有改变，而两桶中糖水的含糖率由原来的不等变化为相等，
+那么变化后的含糖率为：EMBED Equation.DSMT4，甲桶中原来的含糖率为EMBED Equation.DSMT4，所以互相交换了：EMBED Equation.DSMT4(千克)．
+【答案】 EMBED Equation.DSMT4  
+
+有甲、乙两个同样的杯子，甲杯中有半杯清水，乙杯中盛满了含EMBED Equation.DSMT4酒精的液体．先将乙杯的一半倒入甲杯，搅匀后，再将甲杯中酒精溶液的一半倒入乙杯．问这时乙杯中酒精溶液的浓度是多少？
+【考点】溶液浓度问题          【难度】3星          【题型】解答 
+第一次将乙杯的一半倒入甲杯，倒入的溶液的量与甲杯中原有液体的量相等，浓度为EMBED Equation.DSMT4，所以得到的甲杯中的溶液的浓度为EMBED Equation.DSMT4；第二次将甲杯中酒精溶液的一半倒入乙杯，倒入的溶液的量与乙杯中剩余液体的量相等，而两种溶液的浓度分别为EMBED Equation.DSMT4和EMBED Equation.DSMT4，所以得到的溶液的浓度为EMBED Equation.DSMT4，即这时乙杯中酒精溶液的浓度是EMBED Equation.DSMT4．
+【答案】EMBED Equation.DSMT4
+
+甲容器中有纯酒精11升，乙容器中有水15升，第一次将甲容器中的一部分纯酒精倒入乙容器，使酒精与水混合。第二次将乙容器中的混合液倒入甲容器。这样甲容器中纯酒精含量为62.5％，乙容器中纯酒精的含量为40％。那么第二次从乙容器中倒入甲容器的混合液是多少升？
+【考点】溶液浓度问题          【难度】3星          【题型】解答 
+乙中酒精含量为40％，是由若干升纯酒精（100％）和15升水混合而成，可以求出倒入乙多少升纯酒精。15÷3×2＝10升62.5％，是由甲中剩下的纯酒 精（11－10＝）1升，与40％的乙混合而成，可以求出第二次乙倒入甲EMBED Equation.DSMT4升
+        
+【答案】EMBED Equation.DSMT4
+
+甲杯中有纯酒精EMBED Equation.DSMT4克，乙杯中有水EMBED Equation.DSMT4克，第一次将甲杯中的部分纯酒精倒入乙杯，使酒精与水混合．第二次将乙杯中的部分混合溶液倒入甲杯，这样甲杯中纯酒精含量为EMBED Equation.DSMT4，乙杯中纯酒精含量为EMBED Equation.DSMT4．问第二次从乙杯倒入甲杯的混合溶液是多少克？
+【考点】溶液浓度问题          【难度】3星          【题型】解答 
+第一次从甲杯倒入乙杯的纯酒精有：EMBED Equation.DSMT4(EMBED Equation.DSMT4)EMBED Equation.DSMT4(克)，
+则甲杯中剩纯酒精EMBED Equation.DSMT4(克)．
+由于第二次从乙杯倒入甲杯的混合溶液的浓度为EMBED Equation.DSMT4，根据浓度倒三角，倒入的溶液的量与甲杯中剩余溶液的量的比为EMBED Equation.DSMT4，
+所以第二次从乙杯倒入甲杯的混合溶液是EMBED Equation.DSMT4克．
+【答案】EMBED Equation.DSMT4克
+
+甲容器中有纯酒精11立方分米，乙容器中有水15立方分米．第一次将甲容器中的一部分纯酒精倒入乙容器，使酒精与水混合；第二次将乙容器中的一部分混合液倒入甲容器．这样甲容器中的纯酒精含量为EMBED Equation.DSMT4，乙容器中的纯酒精含量为EMBED Equation.DSMT4．那么，第二次从乙容器倒入甲容器的混合液是多少立方分米？
+【考点】溶液浓度问题          【难度】3星          【题型】解答 
+由于第二次操作是将乙容器内溶液倒入甲容器中，所以乙溶液在第二次操作的前后浓度不变，所以乙容器内倒入甲容器中的溶液的浓度为EMBED Equation.DSMT4，而在此次倒入之前，甲容器中是纯酒精，浓度为EMBED Equation.DSMT4，根据浓度倒三角，EMBED Equation.DSMT4，所以乙容器内倒入甲容器中的溶液的量与甲容器中剩下的量相等．
+而第一次甲容器中倒入乙容器的的酒精有EMBED Equation.DSMT4立方分米，所以甲容器中剩下的有EMBED Equation.DSMT4立方分米，故第二次从乙容器倒入甲容器的混合液是6立方分米．
+【答案】6
+
+有EMBED Equation.DSMT4、EMBED Equation.DSMT4两瓶不同浓度的盐水，小明从两瓶中各取EMBED Equation.DSMT4升混合在一起，得到一瓶浓度为EMBED Equation.DSMT4的盐水，他又将这份盐水与EMBED Equation.DSMT4升EMBED Equation.DSMT4瓶盐水混合在一起，最终浓度为EMBED Equation.DSMT4．那么EMBED Equation.DSMT4瓶盐水的浓度是     ．
+【考点】溶液浓度问题          【难度】3星          【题型】解答 
+根据题意，EMBED Equation.DSMT4瓶盐水的浓度为EMBED Equation.DSMT4，那么EMBED Equation.DSMT4瓶盐水的浓度是EMBED Equation.DSMT4．
+【答案】EMBED Equation.DSMT4
+
+甲种酒精纯酒精含量为EMBED Equation.DSMT4，乙种酒精纯酒精含量为EMBED Equation.DSMT4，混合后纯酒精含量为EMBED Equation.DSMT4．如果每种酒精取的数量比原来都多取EMBED Equation.DSMT4升，混合后纯酒精含量为EMBED Equation.DSMT4．第一次混合时，甲、乙两种酒精各取了多少升？
+【考点】溶液浓度问题          【难度】3星          【题型】解答 
+如果甲、乙两种酒精各取EMBED Equation.DSMT4升混合，那么混合后的溶液共30升，浓度为EMBED Equation.DSMT4，由于第二次混合后的浓度为EMBED Equation.DSMT4，则可知第一次混合后的体积与EMBED Equation.DSMT4升的比值为：EMBED Equation.DSMT4．则第一次混合后的体积为EMBED Equation.DSMT4升．又知，第一次混合时甲、乙两种酒精的体积之比为：EMBED Equation.DSMT4．则第一次甲酒精取了EMBED Equation.DSMT4升，乙酒精取了EMBED Equation.DSMT4升．
+【答案】EMBED Equation.DSMT4
+
+若干升含盐EMBED Equation.DSMT4的溶液与若干升含盐EMBED Equation.DSMT4的溶液混合后得到含盐EMBED Equation.DSMT4的溶液。如果每种溶液各多取EMBED Equation.DSMT4升，混合后就得到含盐EMBED Equation.DSMT4的溶液，那么第一次混合时含盐EMBED Equation.DSMT4的溶液取了        升。
+【考点】溶液浓度问题          【难度】3星          【题型】解答 
+【关键词】数学夏令营 
+第一次两种溶液所取的体积比为EMBED Equation.DSMT4；由于两种溶液各取15升，将混合成含盐为EMBED Equation.DSMT4的溶液30升，拿这30升溶液与开始时混合而成的含盐EMBED Equation.DSMT4的溶液混合，将得到含盐EMBED Equation.DSMT4的溶液，可知这两种溶液的体积之比为EMBED Equation.DSMT4，
+所以第一次混合而成的溶液体积为EMBED Equation.DSMT4升，所以第一次混合时含盐EMBED Equation.DSMT4的溶液取了EMBED Equation.DSMT4升。
+【答案】EMBED Equation.DSMT4
+
+纯酒精含量分别为EMBED Equation.DSMT4、EMBED Equation.DSMT4的甲、乙两种酒精混合后的纯酒精含量为EMBED Equation.DSMT4．如果每种酒精都多取EMBED Equation.DSMT4克，混合后纯酒精的含量变为EMBED Equation.DSMT4．求甲、乙两种酒精原有多少克？
+【考点】溶液浓度问题          【难度】3星          【题型】解答 
+原来混合时甲、乙的质量比是：EMBED Equation.DSMT4，
+现在混合时甲、乙的质量比是：EMBED Equation.DSMT4．
+由于原来甲、乙的质量差EMBED Equation.DSMT4现在甲、乙的质量差，所以原来甲的质量是该质量差的EMBED Equation.DSMT4倍，现在甲的质量是该质量差的EMBED Equation.DSMT4倍．于是多取的EMBED Equation.DSMT4克与EMBED Equation.DSMT4对应．
+所以，质量差EMBED Equation.DSMT4(克)，
+原来甲的质量是EMBED Equation.DSMT4克，原来乙的质量是EMBED Equation.DSMT4克．
+【答案】EMBED Equation.DSMT4
+
+甲瓶中酒精的浓度为EMBED Equation.DSMT4，乙瓶中酒精的浓度为EMBED Equation.DSMT4，两瓶酒精混合后的浓度是EMBED Equation.DSMT4．如果两瓶酒精各用去EMBED Equation.DSMT4升后再混合，则混合后的浓度是EMBED Equation.DSMT4．问原来甲、乙两瓶酒精分别有多少升？
+【考点】溶液浓度问题          【难度】3星          【题型】解答 
+根据题意，先从甲、乙两瓶酒精中各取5升混合在一起，得到10升浓度为EMBED Equation.DSMT4的酒精溶液；再将两瓶中剩下的溶液混合在一起，得到浓度为EMBED Equation.DSMT4的溶液若干升．再将这两次混合得到的溶液混合在一起，得到浓度是EMBED Equation.DSMT4的溶液．根据浓度三角，两次混合得到的溶液的量之比为：EMBED Equation.DSMT4，所以后一次混合得到溶液EMBED Equation.DSMT4升．这40升浓度为EMBED Equation.DSMT4的溶液是由浓度为EMBED Equation.DSMT4和EMBED Equation.DSMT4的溶液混合得到的，这两种溶液的量的比为：EMBED Equation.DSMT4，所以其中浓度为EMBED Equation.DSMT4的溶液有EMBED Equation.DSMT4升，浓度为EMBED Equation.DSMT4的溶液有EMBED Equation.DSMT4升．所以原来甲瓶酒精有EMBED Equation.DSMT4升，乙瓶酒精有EMBED Equation.DSMT4升．
+【答案】EMBED Equation.DSMT4
+
+甲种酒精4千克，乙种酒精6千克，混合成的酒精含纯酒精EMBED Equation.DSMT4．如果甲种酒精和乙种酒精一样多，混合成的酒精含纯酒精EMBED Equation.DSMT4．甲、乙两种酒精中含纯酒精的百分比各是多少？
+【考点】溶液浓度问题          【难度】3星          【题型】解答 
+ (法1)不妨设甲、乙两种酒精各取EMBED Equation.DSMT4千克，则混合后的浓度为EMBED Equation.DSMT4，含纯酒精EMBED Equation.DSMT4千克；又知，EMBED Equation.DSMT4千克甲酒精与EMBED Equation.DSMT4千克乙酒精，混合后的浓度为EMBED Equation.DSMT4，含纯酒精EMBED Equation.DSMT4千克．相差EMBED Equation.DSMT4千克，说明EMBED Equation.DSMT4千克乙酒精中含纯酒精EMBED Equation.DSMT4千克，则乙酒精中纯酒精的百分比为EMBED Equation.DSMT4，那么甲酒精中纯酒精百分比为EMBED Equation.DSMT4.
+(法2)甲、乙两种酒精各取EMBED Equation.DSMT4千克，则混合后的浓度为EMBED Equation.DSMT4，而这种混合溶液，再混上EMBED Equation.DSMT4千克的乙酒精就能获得EMBED Equation.DSMT4的混合溶液，由于混合的质量比是EMBED Equation.DSMT4，由十字交叉法，乙溶液的浓度为EMBED Equation.DSMT4，又因为同样多的甲种酒精溶液和乙种溶液能配成EMBED Equation.DSMT4的溶液，所以甲溶液浓度为EMBED Equation.DSMT4.
+【答案】EMBED Equation.DSMT4
+
+EMBED Equation.DSMT4、EMBED Equation.DSMT4两杯食盐水各有40克，浓度比是EMBED Equation.DSMT4．在EMBED Equation.DSMT4中加入60克水，然后倒入EMBED Equation.DSMT4中________克．再在EMBED Equation.DSMT4、EMBED Equation.DSMT4中加入水，使它们均为100克，这时浓度比为EMBED Equation.DSMT4．
+【考点】溶液浓度问题          【难度】2星          【题型】解答 
+【关键词】走美杯，六年级，初赛
+在EMBED Equation.DSMT4中加入60克水后，EMBED Equation.DSMT4盐水浓度减少为原来的EMBED Equation.DSMT4，但溶质质量不变，此时两杯盐水中的盐的质量比仍然为EMBED Equation.DSMT4，EMBED Equation.DSMT4中的盐占所有盐的质量的EMBED Equation.DSMT4，但最终状态下EMBED Equation.DSMT4中的盐占所有盐的质量的EMBED Equation.DSMT4，也就是说EMBED Equation.DSMT4中的盐减少了EMBED Equation.DSMT4，所以从EMBED Equation.DSMT4中倒出了EMBED Equation.DSMT4的盐水到A，即25克．
+【答案】25
+
+林林倒满一杯纯牛奶，第一次喝了EMBED Equation.DSMT4，然后加入豆浆，将杯子斟满并搅拌均匀，第二次，林又喝了EMBED Equation.DSMT4，继续用豆浆将杯子斟满并搅拌均匀，重复上述过程，那么第四次后，林林共喝了一杯纯牛奶总量的____。 （用分数表示）
+【考点】溶液浓度问题          【难度】3星          【题型】解答 
+【关键词】华杯赛，决赛
+     喝掉的牛奶                   剩下的牛奶
+第一次：          EMBED Equation.DSMT4                            1－ EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  
+第二次：     EMBED Equation.DSMT4  × EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  （喝掉剩下 EMBED Equation.DSMT4  的 EMBED Equation.DSMT4  ）      EMBED Equation.DSMT4  × EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  （剩下是第一次剩下 EMBED Equation.DSMT4  的 EMBED Equation.DSMT4  ）
+第三次：     EMBED Equation.DSMT4  × EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  （喝掉剩下 EMBED Equation.DSMT4  的 EMBED Equation.DSMT4  ）     EMBED Equation.DSMT4  × EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  （剩下是第一次剩下 EMBED Equation.DSMT4  的 EMBED Equation.DSMT4  ）
+第四次：    EMBED Equation.DSMT4  × EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  （喝掉剩下 EMBED Equation.DSMT4  的 EMBED Equation.DSMT4  ）   
+所以最后喝掉的牛奶为： EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+教师寄语：拼一个春夏秋冬，换一生无怨无悔。
+
+
+
+
+溶液浓度问题（一）
+
+教学目标
+
+知识精讲
+
+例题精讲
+
+
+ PAGE  \* MERGEFORMAT 8
+
+
+

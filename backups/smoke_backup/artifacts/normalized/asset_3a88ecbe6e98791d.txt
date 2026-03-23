@@ -1,0 +1,245 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+掌握差倍问题的基本解法以及相关的年龄等应用题.
+熟练应用通过图示来表示数量关系．
+ SHAPE  \* MERGEFORMAT 
+差倍问题就是已知大小两数的差，以及大小两数的倍数关系，求大小两数的问题．
+差倍问题的特点与和倍问题类似。解答差倍问题的关键是要确定两个数量的差及相对应的倍数差，一般情况下，在题目中不直接给出，需要经过调整和计算才能得到。
+解题思路：首先要在题目中找到1倍量，然后画图确定解题方法.被除数的数量和除数的倍数关系要相对应，相除后得到的结果是一倍量
+差倍问题的基本关系式：差÷(倍数－ EMBED Equation.DSMT4  )= EMBED Equation.DSMT4  倍数(较小数)
+ EMBED Equation.DSMT4  倍数×几倍=几倍数(较大数)或较小数+差=较大数
+解决差倍问题，关键是学会画线段图，这样可以帮助我们更好的弄清各数量之间的关系．
+    年龄问题的和差问题主要利用的年龄差不变。
+ SHAPE  \* MERGEFORMAT 
+
+两个整数，差为l6，一个是另一个的5倍．这两个数分别是（    ）和（     ）
+【考点】差倍问题   【难度】1星   【题型】填空
+【关键词】走美杯，3年级，初赛
+本题属于和差问题。小数：16÷（5-1）=4；大数：4×5=20或4+16=20。
+【答案】小数 EMBED Equation.DSMT4  ，大数 EMBED Equation.DSMT4  
+
+李爷爷家养的鸭比鹅多 EMBED Equation.DSMT4  只，鸭的只数是鹅的 EMBED Equation.DSMT4  倍，你知道李爷爷家养的鸭和鹅各有多少只吗？ 
+【考点】差倍问题   【难度】1星   【题型】解答 
+                           
+引导学生画图，但是一定要强调差所对应的份数，这样我们就可以求一份量（一倍量），从而解决题目．与 EMBED Equation.DSMT4  只相对应，这样就可以求出一倍数也就是鹅的只数，求出了鹅的只数，鸭的只数就容易求出来了．鸭与鹅只数的倍数差是 EMBED Equation.DSMT4  （倍），鹅有 EMBED Equation.DSMT4   (只)，鸭有  EMBED Equation.DSMT4  (只).
+【答案】鹅 EMBED Equation.DSMT4  只，鸭 EMBED Equation.DSMT4  只
+
+甲班的图书本数比乙班多80本，甲班的图书本数是乙班的3倍，甲班和乙班各有图书多少本？
+【考点】差倍问题   【难度】1星   【题型】解答 
+乙班的本数： 80÷（3-1）=40（本）
+甲班的本数： 40×3=120（本）或40＋80=120（本）。
+【答案】甲班 EMBED Equation.DSMT4  本，乙班 EMBED Equation.DSMT4  本
+
+
+
+
+两个书架，甲书架存书相当于乙书架存书量的 EMBED Equation.DSMT4  倍，甲书架比乙书架存书多 EMBED Equation.DSMT4  本，则乙书架存书多少本？
+【考点】差倍问题   【难度】1星   【题型】解答
+多的 EMBED Equation.DSMT4  本相当于乙书架的 EMBED Equation.DSMT4  倍，则乙书架的书为： EMBED Equation.DSMT4  （本）．
+【答案】 EMBED Equation.DSMT4  本
+
+开学前6天，小明还没做寒假数学作业，而小强已完成了60道题，开学时，两人都完成了数学作业. 在这6天中，小明做的题的数目是小强的3倍，他平均每天做（  ） 道题. （A） 6     (B)   9    (C)   12    (D)   15
+【考点】差倍问题   【难度】1星   【题型】选择
+【关键词】华杯赛，初赛，第2题
+由于开学前6填时小强比小明多做了60道题，而开学时两人做的题一样多，所以这6填中小明比小强多做了60道题，而这6天中小明做的题的数目是小强的3倍，所以这6天小明做了60÷（3-1）×3=90道题，他平均每天做90÷6=15道题。正确答案为D。
+【答案】 EMBED Equation.DSMT4  
+
+小芳在看一本图画书，她说：
+
+         由她所说，可知这本书共有            页。
+【考点】差倍问题   【难度】1星   【题型】填空
+【关键词】希望杯，五年级，二试，第5题
+方法一：看完的是没有看完的 EMBED Equation.DSMT4  倍，且比没有看完的多 EMBED Equation.DSMT4  页，所以没有看完的是 EMBED Equation.DSMT4  （页），书的页数为： EMBED Equation.DSMT4  （页）。
+方法二：设没看的页数为 EMBED Equation.DSMT4  ，2.4 EMBED Equation.DSMT4  = EMBED Equation.DSMT4  +42， EMBED Equation.DSMT4  =30，看完的页数为30+42=72页，
+所以全书共有30+72=102页
+【答案】 EMBED Equation.DSMT4  页
+
+
+箱子里装有同样数量的乒乓球和羽毛球．每次取出5个乒乓球和3个羽毛球，取了几次之后，乒乓球恰好没有了，羽毛球还有6个，则一共取了__________次，原来有乒乓球和羽毛球各__________个．
+【考点】差倍问题  【难度】1星   【题型】填空
+【关键词】迎春杯，五年级，初赛，4题
+共取了 EMBED Equation.DSMT4  (次)，原有乒乓球 EMBED Equation.DSMT4  (个)，所以原有羽毛球也是15个．
+【答案】取 EMBED Equation.DSMT4  次，羽毛球 EMBED Equation.DSMT4  个，乒乓球 EMBED Equation.DSMT4  个 
+
+
+小张有200支铅笔，小李有20支钢笔．每次小张给小李6支铅笔，小李还给小张1支钢笔．经过________次这样的交换后，小张手中铅笔的数量是小李手中钢笔数量的11倍．
+【考点】差倍问题   【难度】3星   【题型】填空
+【关键词】迎春杯，五年级，初试，2题
+方法一：题目中所求为小张手中铅笔的数量和小李手中的钢笔数量，而每一次交换，小张会减少６支铅笔，而小李会少一支钢笔；设经过 EMBED Equation.DSMT4  次这样的交换后，小张手中铅笔的数量是小李手中钢笔的数量的11倍。则 EMBED Equation.DSMT4  ，解之得 EMBED Equation.DSMT4  ＝４.
+
+方法二：为了使得每次都交换6支，那么设小李有钢笔20×6=120支，每次交换后的差不（1）如右表，调整不变量（差）；（2）共交换了（200−11×16）÷6=4次。
+【答案】 EMBED Equation.DSMT4  次
+
+甲、乙两位学生原计划每天自学时间相同．若甲每天增加自学时间半小时，乙每天减少自学时间半小时，则乙自学 EMBED Equation.DSMT4  天的时间仅相当于甲自学 EMBED Equation.DSMT4  天的时间．问：甲、乙原定每天自学的时间是多少？
+【考点】差倍问题   【难度】2星   【题型】解答
+改变后，甲每天比乙多自学 EMBED Equation.DSMT4  小时，即 EMBED Equation.DSMT4  分钟．它是乙现在五天自学的时间，即乙现在每天自学： EMBED Equation.DSMT4  （分），原来每天自学的时间是： EMBED Equation.DSMT4  （分）．
+【答案】 EMBED Equation.DSMT4  分钟
+
+某小学原来参加室外活动的人数比参加室内活动的人数多 EMBED Equation.DSMT4  人，现在把室内活动的 EMBED Equation.DSMT4  人改为室外活动，这样室外活动的人数正好是室内人数的 EMBED Equation.DSMT4  倍，则参加室内、室外活动的共有多少人?
+【考点】差倍问题   【难度】2星   【题型】解答 
+原来室外、室内活动人数相差 EMBED Equation.DSMT4  人，现把室内的 EMBED Equation.DSMT4  人改为室外活动，这样室外活动人数比室内人数多 EMBED Equation.DSMT4  (人)，这时室外活动人数正好是室内人数的 EMBED Equation.DSMT4  倍， EMBED Equation.DSMT4  人相当于现在室内活动人数的 EMBED Equation.DSMT4  (倍)，这样可先求出现在室内活动人数为 EMBED Equation.DSMT4  ，再求出室内、外人数之和： EMBED Equation.DSMT4  人．
+【答案】 EMBED Equation.DSMT4  人
+
+某校五年级比六年级人数少 EMBED Equation.DSMT4  人，若六年级学生再转来 EMBED Equation.DSMT4  人，则六年级学生是五年级学生的 EMBED Equation.DSMT4  倍，问五、六年级各有多少人？
+【考点】差倍问题   【难度】2星   【题型】解答 
+五年级人数为： EMBED Equation.DSMT4  （人），六年级的人数： EMBED Equation.DSMT4  （人）．
+【答案】五年级 EMBED Equation.DSMT4  人，六年级 EMBED Equation.DSMT4  人
+
+小云比小雨少20本书，后来小云丢了5本书，小雨新买了11本书，这时小雨的书比小云的书多2倍.问：原来两人各有多少本书？
+【考点】差倍问题   【难度】2星   【题型】解答 
+小雨的书比小云的书多2倍”，即小雨的书是小云的书的3倍.这个“倍数”是变化后的，所以“1倍”数应是小云变化后的书(见下图).“差”是20＋5＋11＝36(本).，小云现有书：(20＋5＋11)÷(3-1)＝18(本)；小云原来有书18＋5＝23(本)，小雨原来有书23＋20＝43(本).
+【答案】小云 EMBED Equation.DSMT4  本，小雨 EMBED Equation.DSMT4  本
+
+学而思学校买来白粉笔比彩色粉笔多 EMBED Equation.DSMT4  箱，白粉笔的箱数比彩色笔的 EMBED Equation.DSMT4  倍还多 EMBED Equation.DSMT4  箱，学而思学校买来白粉笔和彩色粉笔各多少箱？
+
+【考点】差倍问题   【难度】2星   【题型】解答 
+这不是一道典型的“差倍问题”，但我们可以通过适当的变形，将其作为一个典型的“差倍问题”来解决．见上图，由于白笔比彩笔的 EMBED Equation.DSMT4  倍多 EMBED Equation.DSMT4  箱，故把彩笔看做 EMBED Equation.DSMT4  倍数，(白笔－ EMBED Equation.DSMT4  )就相当于彩笔的 EMBED Equation.DSMT4  倍，即彩笔比(白笔－ EMBED Equation.DSMT4  )少 EMBED Equation.DSMT4  倍，注意此时白笔比彩笔多 EMBED Equation.DSMT4  （箱）．彩色粉笔的箱数 EMBED Equation.DSMT4  (箱)，白色粉笔的箱数： EMBED Equation.DSMT4  (箱)．
+【答案】白粉笔 EMBED Equation.DSMT4  箱，彩色粉笔 EMBED Equation.DSMT4  箱
+学而思学校买来白粉笔比彩色粉笔多 EMBED Equation.DSMT4  箱，白粉笔的箱数比彩色笔的 EMBED Equation.DSMT4  倍少 EMBED Equation.DSMT4  箱，学而思学校买来白粉笔和彩色粉笔各多少箱？ 
+【考点】差倍问题   【难度】2星   【题型】解答 
+把彩笔看做 EMBED Equation.DSMT4  倍数，(白笔＋ EMBED Equation.DSMT4  )就相当于彩笔的 EMBED Equation.DSMT4  倍，即彩笔比(白笔－ EMBED Equation.DSMT4  )少 EMBED Equation.DSMT4  倍，注意此时白笔比彩笔多 EMBED Equation.DSMT4  箱．彩色粉笔的箱数 EMBED Equation.DSMT4   (箱)，白色粉笔的箱数： EMBED Equation.DSMT4   (箱)
+【答案】白粉笔 EMBED Equation.DSMT4  箱，彩色粉笔 EMBED Equation.DSMT4  箱
+
+有两根铁丝，第一根长 EMBED Equation.DSMT4  米，第二根长 EMBED Equation.DSMT4  米，两根铁丝用去同样长的一段后，第一根剩下的长度是第二根剩下长度的 EMBED Equation.DSMT4  倍，两根铁丝各剩下多少米？
+【考点】差倍问题   【难度】2星   【题型】解答 
+引导学生画图，并找出本题中数与份数之间的关系．以学生探索为主，教师指导为铺．用去同样长的一段后，两段长度差为： EMBED Equation.DSMT4  （米），且第一根比第二根多： EMBED Equation.DSMT4  （倍），则第二根剩下： EMBED Equation.DSMT4  （米），第一根剩下： EMBED Equation.DSMT4  （米）．
+【答案】第一根剩下 EMBED Equation.DSMT4  米，第二根剩下 EMBED Equation.DSMT4  米
+
+有两条纸带，一条长 EMBED Equation.DSMT4  厘米，一条长 EMBED Equation.DSMT4  厘米，两条纸带都剪下同样的一段后，长纸带剩下的长度是短纸带剩下的 EMBED Equation.DSMT4  倍，问剪下的一段有多长？
+【考点】差倍问题   【难度】2星   【题型】解答 
+长纸带剩下长度比短纸带剩下的长度长： EMBED Equation.DSMT4  （厘米），短纸带剩下： EMBED Equation.DSMT4  （厘米），剪下： EMBED Equation.DSMT4  （厘米）．
+【答案】 EMBED Equation.DSMT4  厘米
+
+两根绳，第一根长 EMBED Equation.DSMT4  米，第二根长 EMBED Equation.DSMT4  米，剪去同样长后，第一根是第二根的 EMBED Equation.DSMT4  倍，求每根绳减去几米？
+【考点】差倍问题   【难度】2星   【题型】解答 
+剪去同样长后，第一根比第二根长 EMBED Equation.DSMT4  米，因此，第二根剩下的长为 EMBED Equation.DSMT4  米，从而剪去的长度为 EMBED Equation.DSMT4  米 ．
+【答案】 EMBED Equation.DSMT4  米
+
+两条纸带，较长的一条为23cm，较短的一条为15cm. 把两条纸带剪下同样长的一段后，剩下的两条纸带中，要求较长的纸带的长度不少于较短的纸带长度的两倍,那么剪下的长度至少是(     )cm.
+（A）6 （B）7 （C）8 （D）9
+【考点】差倍问题   【难度】2星   【题型】选择
+【关键词】华杯赛，初赛，第2题
+B，设剪下的长度为 EMBED Equation.DSMT4  厘米则可以列出不等式：23- EMBED Equation.DSMT4  ≥2（15- EMBED Equation.DSMT4  ），整理得 EMBED Equation.DSMT4  ≥7，所以剪下的长度至少是7厘米。
+【答案】 EMBED Equation.DSMT4  
+
+有大小两个桶原来水一样多，如果从小桶倒 EMBED Equation.DSMT4  千克水到大桶，则大桶中水是小桶的 EMBED Equation.DSMT4  倍，求原来大桶有水多少千克？
+【考点】和倍问题   【难度】2星   【题型】解答
+现在大桶水比小桶水多： EMBED Equation.DSMT4  （千克），所以现在小桶中的水是： EMBED Equation.DSMT4  （千克），而原来大桶中有水是： EMBED Equation.DSMT4  （千克）．
+【答案】 EMBED Equation.DSMT4  千克
+
+两筐千克数相同的苹果，甲筐卖出7千克，乙筐卖出19千克后，甲筐余下的千克数是乙筐的3倍，两筐苹果原来各有多少千克？
+【考点】和倍问题   【难度】2星   【题型】解答
+用下图表示它们的关系：
+
+设乙筐余下的千克数为1份，则甲筐余下的千克数为3份，甲、乙两筐余下的苹果相差 EMBED Equation.DSMT4   （份）．原来甲、乙两筐苹果的千克数相同，甲筐卖出7千克，乙筐卖出19千克，说明甲筐比乙筐少卖出 EMBED Equation.DSMT4  （千克），也就是乙筐余下的苹果比甲筐少12千克，所以甲、乙两筐余下的差是12千克，所对应的份数差是2，从而可以求出1份及两筐苹果原来的重量，甲、乙两筐余下的苹果数相差 EMBED Equation.DSMT4  （千克），乙筐余下苹果的数是 EMBED Equation.DSMT4  （千克），甲、乙两筐原来各有苹果的数量 EMBED Equation.DSMT4  （千克）．
+【答案】 EMBED Equation.DSMT4  	千克
+
+两块同样长的花布，第一块卖出31米，第二块卖出19米后，第二块是第一块的4倍，求每块花布原有多少米？
+【考点】差倍问题   【难度】2星   【题型】解答 
+已知两块花布同样长，由于第一块卖出的多，第二块卖出的少，因此第一块剩下的少，第二块剩下的多.所剩的布第二块比第一块多31-19=12（米）.又知第二块所剩下的布是第一块的4倍，那么第二块比第一块多出的12米正好相当于所剩布的（4-1）倍，这  样，第一块所剩布的长度即可求出：
+
+第二块布比第一块布多剩多少米？31-19＝12（米），第一块布剩下多少米？12÷（4-1）=4（米）第一块布原有多少米？4+31=35（米）（两块布原有长度相等），综合列式：（31-19）÷（4-1）+31=12÷3+31=4＋31=35（米）
+【答案】两块花布原有长度相等为 EMBED Equation.DSMT4  米
+
+两筐苹果一样重。第一筐卖出8千克，第二筐卖出16千克。第一筐中剩下的苹果恰好是第二筐中剩下的3倍。原来每筐苹果重    千克。
+【考点】和倍问题   【难度】3星   【题型】填空
+【关键词】走美杯，3年级，决赛
+第一筐剩下的是第二筐的3倍，那么就多2倍，得到： EMBED Equation.DSMT4  千克。
+【答案】 EMBED Equation.DSMT4  千克
+
+有两根同样长的绳子，第一根截去12米，第二根接上14米，这时第二根长度是第一根长的3倍，这两根绳子原来长多少米？
+【考点】和倍问题   【难度】3星   【题型】解答
+用下图表示它们的关系：
+
+两根绳子原来的长度一样长，但是从第一根截去12米，第二根绳子又接上14米后，第二根的长度是第一根的3倍．应该把变化后的第一根长度看作1倍，而 EMBED Equation.DSMT4  （米），正好相当于第一根绳子剩下的长度的2倍．所以，当从第一根截去12米后剩下的长度可以求出来了，那么第一根、第二根原有长度也就可以求出来了．所以，第一根截去12米剩下的长度： EMBED Equation.DSMT4  （米）两根绳子原来的长度： EMBED Equation.DSMT4  （米）．
+【答案】 EMBED Equation.DSMT4  米
+
+甲、乙两桶油重量相等，甲桶取走 EMBED Equation.DSMT4  千克油，乙桶加入 EMBED Equation.DSMT4  千克油后，乙桶油的重量是甲桶油的重量的 EMBED Equation.DSMT4  倍．甲桶原来有油多少千克？
+【考点】差倍问题   【难度】3星   【题型】解答 
+后来乙比甲多 EMBED Equation.DSMT4  千克油，所以这时甲桶油的重量是： EMBED Equation.DSMT4  (千克)，甲桶原来有油 EMBED Equation.DSMT4  (千克) ．
+【答案】 EMBED Equation.DSMT4  千克
+三（1）班与三（2）班原有图书数一样多.后来，三（1）班又买来新书74本，三（2）班从本班原书中拿出96本送给一年级小同学，这时，三（1）班图书是三（2）班的3倍，求两班原有图书各多少本？
+【考点】差倍问题   【难度】3星   【题型】解答 
+两个班原有图书一样多.后来三（1）班又买新书74本，即增加了74本；三（2）班从本班原有图书中取出96本送给一年级同学，则图书减少了96本.结果是一个班增加，另一个班减少，这样两个班图书就相差96+74＝170（本），也就是三（1）班比三（2）班多了170本图书.又知三（1）班现有图书是三（2）班图书的3倍，可见这170本图书就相当于三（2）班所剩图书的3-1=2倍，三（2）班所剩图书本数就可以求出来了，随之原有图书本数也就求出来了（见下图）：
+
+后来三（1）班比三（2）班图书多多少本？74＋96=170（本）
+三（2）班剩下的图书是多少本？170÷（3-1）=85（本）
+三（2）班原有图书多少本？85＋96=181（本）（两个班原有图书一样多）
+综合算式：（74＋96）÷（3-1）＋96＝170÷2+96＝85＋96=181（本）
+【答案】两个班原有图书一样多为181本
+
+大桶里有油60千克，小桶里有油30千克．将两个桶的油卖出同样多以后，所剩下的油中，大桶是小桶的4倍．问两个桶各剩油多少千克？
+【考点】和倍问题   【难度】3星   【题型】解答
+用下图表示它们的关系： 
+
+卖出同样多的油，可知两个桶里所有油的差总保持不变，因此这是一个差倍问题．小桶所剩的油为１倍数，大桶剩油是小桶剩油的4倍，所以大桶剩油比小桶剩油多 EMBED Equation.DSMT4  （倍）．而大桶比小桶多的油总保持不变，是 EMBED Equation.DSMT4  （千克）．再利用差倍问题的公式就可解决．小桶剩下的油是： EMBED Equation.DSMT4  （千克），大桶剩下的油是： EMBED Equation.DSMT4  （千克）．
+【答案】小桶 EMBED Equation.DSMT4  千克，大桶 EMBED Equation.DSMT4  千克
+
+食堂里有94千克面粉，138千克大米，每天用掉面粉和大米各9千克，几天后剩下的大米是面粉的3倍？
+【考点】差倍问题   【难度】3星   【题型】解答 
+因每天用掉的面粉和大米数量相等，不论经过多少天，面粉和大米的数量差都不变，仍然是：138-94=44（千克）。我们把几天后剩下的面粉重量看作1份，大米重量也就是3份，则几天后剩下面粉：44÷（3-1）=22（千克）。用掉的面粉总量除以每天用面粉数量，可以得出所求的天数：（94-22）÷9=8（天）。
+【答案】 EMBED Equation.DSMT4  天
+
+实验小学一校区人数比实验小学二校区人数少540人，因为第三校区建成，从两个校区各调走200人，这时实验小学二校区人数恰好是实验小学一校区人数的4倍，那么实验小学一校区和实验小学二校区原来各有多少人？
+【考点】差倍问题   【难度】3星   【题型】解答 
+两校区各调走200人之后还是相差540人，对应的倍数是： EMBED Equation.DSMT4  倍，实验小学一校区调走200人后剩下的人数是： EMBED Equation.DSMT4  (人)，实验小学一校区原有： EMBED Equation.DSMT4  (人)，实验小学二校区为： EMBED Equation.DSMT4  (人).
+【答案】实验小学一校区 EMBED Equation.DSMT4  人，实验小学二校区 EMBED Equation.DSMT4  人。
+
+有两盘苹果，如果从第一盘中拿 EMBED Equation.DSMT4  个放到第二个盘里，那么两盘的苹果数相同；如果从第二个盘中拿 EMBED Equation.DSMT4  个放到第一盘里，那么第一盘的苹果数是第二盘的 EMBED Equation.DSMT4  倍．第一盘有苹果多少个?
+【考点】差倍问题   【难度】3星   【题型】解答 
+原来第一盘比第二盘多： EMBED Equation.DSMT4  (个)，从第二盘拿 EMBED Equation.DSMT4  个到第一盘里，第一盘就比第二盘多： EMBED Equation.DSMT4  (个)，第二盘拿走 EMBED Equation.DSMT4  个后剩下的苹果数为： EMBED Equation.DSMT4  (个)，第一盘原有苹果： EMBED Equation.DSMT4  (个) ．
+【答案】 EMBED Equation.DSMT4  个
+
+小青和小红每人都有一些水彩笔，如果小青给小红1支，两人就一样多，如果小红给小青1支，小青的水彩笔就是小红的2倍，那么小青和小红各有多少支水彩笔？
+【考点】差倍问题   【难度】3星   【题型】解答 
+“小青给小红1支，两人就一样多”说明小青原来比小红多 EMBED Equation.DSMT4  (支)，“如果小红给小青1支，小青的水彩笔就是小红的2倍”则小红给小青1支后，小青就比小红多 EMBED Equation.DSMT4  (支)，这与倍数差 EMBED Equation.DSMT4  （倍）相对应，这样就可以求到小红的水彩笔现在是 EMBED Equation.DSMT4  (支)，她原来就是 EMBED Equation.DSMT4  (支)，小青原来是： EMBED Equation.DSMT4  (支).
+【答案】小青 EMBED Equation.DSMT4  支，小红 EMBED Equation.DSMT4  支
+
+小明和小刚各有玻璃弹球若干个.小明对小刚说：“我若给你两个，我们的玻璃弹球一样多.”小刚说：“我若给你两个，你的弹球数量将是我的3倍.”小明和小刚共有玻璃弹球多少个？
+【考点】差倍问题   【难度】3星   【题型】解答 
+由小明说的话推知
+
+小明的玻璃球比小刚多4个，如果小刚给小明2个，那么小明比小刚多8个.8个是小刚还剩下玻璃球数量的3-1＝2倍，此时小刚有玻璃球8÷2＝4（个），小明有玻璃球4+8＝12（个），两人共有玻璃球4+12＝16（个）
+【答案】 EMBED Equation.DSMT4  个
+
+小明和小刚各有玻璃弹球若干个。小明对小刚说“我若给你2个，我们的玻璃弹球将一样多。”小刚说“我若给你2个，我的弹球数量将是你的弹球数量的三分之一。”小明和小刚共有弹球         个。
+【考点】差倍问题   【难度】3星   【题型】填空
+【关键词】希望杯，五年级，六年级，一试，第10题
+由小明的话可以知道，他比小刚多4个，若小刚给小明4个，小明就比小刚多8个，假设小刚的弹球数为1份，那么小明的弹球则为3份，比小刚多2份，1份即为8÷2=4个，两人共有4份即4×4=16个。
+【答案】 EMBED Equation.DSMT4  个
+
+某迎春茶话会上，买来苹果 EMBED Equation.DSMT4  箱，已知每箱苹果取出 EMBED Equation.DSMT4  千克后，剩余的各箱苹果总和等于原来一箱苹果的重量，问原来一箱苹果多重？
+【考点】差倍问题   【难度】3星   【题型】解答 
+此题目较难找出数量间的关系，但是一定还的让学生自己动脑想一想，之后，教师再引导学生画图，共同探讨分析．取出 EMBED Equation.DSMT4  千克，即原来的比剩下的多 EMBED Equation.DSMT4  千克，原来有 EMBED Equation.DSMT4  箱，剩下一箱的重量，即原来的是剩下的 EMBED Equation.DSMT4  倍，所以 EMBED Equation.DSMT4  （千克）为剩下的重量，即一箱的重量．
+【答案】 EMBED Equation.DSMT4  千克
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+6-1-6.差倍问题（一）.题库	                            教师版                     page  PAGE 7 of  NUMPAGES 7
+
+
+
+6-1-6.差倍问题（一）
+
+教学目标
+
+知识精讲
+
+例题精讲
+
+
+

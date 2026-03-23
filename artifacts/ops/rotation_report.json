@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-03-23T12:03:28.689576+00:00",
+  "group_count": 1,
+  "gate": {
+    "min_consecutive_ok": 2,
+    "recent_consecutive_ok": 7,
+    "gate_passed": true
+  },
+  "groups": [
+    {
+      "name": "core-search-key",
+      "old_key": "rotate-old-001",
+      "new_key": "rotate-new-001",
+      "phase": "retire",
+      "old_key_expected_status": 401,
+      "new_key_expected_status": 200,
+      "old_key_id": "key_1a577057f0",
+      "new_key_id": "key_0a2e7957b9",
+      "old_success_count": 0,
+      "new_success_count": 9,
+      "old_blocked_count": 9,
+      "suggestion": "stable",
+      "target_phase": "retire",
+      "eligible": false
+    }
+  ]
+}

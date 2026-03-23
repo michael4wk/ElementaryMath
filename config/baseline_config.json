@@ -1,0 +1,9 @@
+{
+  "student_dir": "小学数学（学生版）",
+  "teacher_dir": "小学数学（教师版）",
+  "extensions": [
+    ".doc",
+    ".docx"
+  ],
+  "output_dir": "artifacts/baseline"
+}

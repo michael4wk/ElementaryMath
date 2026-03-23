@@ -1,0 +1,124 @@
+
+
+
+
+
+
+
+
+ SHAPE  \* MERGEFORMAT 
+
+1.学会用带入消元和加减消元法解方程组
+2.熟练掌握解方程组的方法并用到以后做题
+
+ SHAPE  \* MERGEFORMAT 
+知识点说明：
+方程的历史
+同学们，你们知道古代的方程到底是什么样子的吗？公元 263 年，数学家刘徽所著《九章算术》一书里有一个例子：“今有上禾三秉，中禾二秉，下禾一秉，实三十九斗；上禾二秉，中禾三秉，下禾一秉，实三十四斗；上禾一秉，中禾二秉，下禾三秉，实二十六斗。问上、中、下禾实一秉各几何？”刘徽列出的“方程”如图所示。
+
+方程的英语是 equation，就是“等式”的意思。清朝初年，中国的数学家把 equation 译成“相等式”，到清朝咸丰九年才译成“方程”。从这时候起，“方程”这个词就表示“含有未知数的等式”，而刘徽所说的“方程”就叫做“方程组”了。
+学习方程的目的
+使用方程有助于解决数学难题，作为代数学最基本内容，方程的学习和使用不但能为未来初中阶段数学学习打好基础，同时能够将抽象数学直观表达出来，能够帮助学生更好的理解抽象的数学知识。
+解二元一次方程组的一般方法
+解二元一次方程的关键的步骤：是消元，即将二元一次方程或多元一次方程化为一元一次方程。
+消元方法：代入消元法和加减消元法
+代入消元法：
+⒈ 取一个方程，将它写成用一个未知数表示另一个未知数，记作方程①；
+⒉ 将①代入另一个方程，得一元一次方程；
+⒊ 解这个一元一次方程，求出一个未知数的值；
+⒋ 将这个未知数的值代入①，求出另一个未知数的值，从而得到方程组的解．
+加减消元法：
+⒈ 变形、调整两条方程，使某个未知数的系数绝对值相等（类似于通分）；
+⒉ 将两条方程相加或相减消元；
+⒊ 解一元一次方程；
+⒋ 代入法求另一未知数．
+加减消元实际上就是将带系数的方程整体代入．
+
+ SHAPE  \* MERGEFORMAT 
+模块一、二元一次方程组
+解方程 EMBED Equation.DSMT4  （ EMBED Equation.DSMT4  为正整数）
+【考点】二元一次方程组          【难度】2星          【题型】解答 
+   EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+方法二：解 代入消元法，由 EMBED Equation.DSMT4  得到 EMBED Equation.DSMT4  ，代入方程 EMBED Equation.DSMT4  中，得到 EMBED Equation.DSMT4  ，整理得 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，所以方程的解为 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+解方程 EMBED Equation.DSMT4  （ EMBED Equation.DSMT4  为正整数）
+【考点】二元一次方程组          【难度】2星          【题型】解答 
+  方法一：加减消元法
+化 EMBED Equation.DSMT4  的系数相同，加减消元法计算得  EMBED Equation.DSMT4  
+去括号和并同类项得                            EMBED Equation.DSMT4  
+                            EMBED Equation.DSMT4  
+                              EMBED Equation.DSMT4  
+                             EMBED Equation.DSMT4  
+方法二：代入消元法由 EMBED Equation.DSMT4  得到 EMBED Equation.DSMT4  ，代入方程 EMBED Equation.DSMT4  中得到 EMBED Equation.DSMT4  ，整理得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以方程解为 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+解方程组 EMBED Equation.DSMT4  （ EMBED Equation.DSMT4  为正整数）
+【考点】二元一次方程组          【难度】2星          【题型】解答 
+加减消元，若想消掉 EMBED Equation.DSMT4  ，应将 EMBED Equation.DSMT4  的系数统一，因为 EMBED Equation.DSMT4  ，所以第一个方程应该扩大2倍，第二个式子应该扩大5倍，又因为 EMBED Equation.DSMT4  的系数符号不同，所以应该用加消元，计算结果如下： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  得 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+解方程组 EMBED Equation.DSMT4  （ EMBED Equation.DSMT4  为正整数）
+【考点】二元一次方程组          【难度】2星          【题型】解答 
+将第一个式子扩大2倍和二式相减得 EMBED Equation.DSMT4  ，去括号整理 EMBED Equation.DSMT4  解得 EMBED Equation.DSMT4  ，所以方程的解为 EMBED Equation.DSMT4  
+解方程组 EMBED Equation.DSMT4  （ EMBED Equation.DSMT4  为正整数）
+【考点】二元一次方程组          【难度】3星          【题型】解答 
+对第一个方程去括号整理，根据等式的性质将第二个式子扩倍变成正式进行整理得： EMBED Equation.DSMT4  ，若想消掉 EMBED Equation.DSMT4  ，将方程二扩大3倍，又因为 EMBED Equation.DSMT4  的系数符号不同，所以应该用加消元，计算结果如下： EMBED Equation.DSMT4  ，去括号整理得 EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  ，所以方程的解为 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  解下面关于 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的二元一次方程组： EMBED Equation.DSMT4  
+【考点】二元一次方程组          【难度】3星          【题型】解答 
+整理这个方程组里的两个方程，可以得到： EMBED Equation.DSMT4  ，可以看出，两个方程是不可能同时成立的，所以这是题目本身的问题，无解
+【答案】无解
+
+解方程组 EMBED Equation.DSMT4  （ EMBED Equation.DSMT4  为正整数）
+【考点】二元一次方程组          【难度】3星          【题型】解答 
+本题需要同学能够利用整体思想进行解题，将 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  看出相应的未知数，因为每一项的分母不同，所以先将分母系数化成同样的，所以第二个式子等号两边同时乘以2整理得： EMBED Equation.DSMT4  ，去括号整理后得到 EMBED Equation.DSMT4  ，根据分数的性质计算得 EMBED Equation.DSMT4  ，所以方程的解为： EMBED Equation.DSMT4  
+模块二、多元一次方程
+解方程组 EMBED Equation.DSMT4  （ EMBED Equation.DSMT4  为正整数）
+【考点】二元一次方程组          【难度】3星          【题型】解答 
+观察 EMBED Equation.DSMT4  的系数发现，第二个式子与第三个式子中 EMBED Equation.DSMT4  的系数是3倍关系，所以将第二个式子扩大3倍与第三个式子相减得到： EMBED Equation.DSMT4  ，去括号整理得 EMBED Equation.DSMT4  ，与第一个式子整理得 EMBED Equation.DSMT4  ，若想消掉 EMBED Equation.DSMT4  ，，因为 EMBED Equation.DSMT4  ，所以第一个方程应该扩大5倍，第二个式子应该扩大2倍，又因为 EMBED Equation.DSMT4  的系数符号相同，所以应该用减消元，计算结果如下： EMBED Equation.DSMT4  ，去括号整理得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以方程解为 EMBED Equation.DSMT4  
+
+解方程组 EMBED Equation.DSMT4  （ EMBED Equation.DSMT4  为正整数）
+【考点】二元一次方程组          【难度】3星          【题型】解答 
+将一式与二式相减得 EMBED Equation.DSMT4  去括号整理后得 EMBED Equation.DSMT4  ；将二式扩大2倍与三式相减得 EMBED Equation.DSMT4  ，去括号整理后得 EMBED Equation.DSMT4  ；最后将两式相加计算结果如下： EMBED Equation.DSMT4  ，整理得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  所以方程的解为： EMBED Equation.DSMT4  
+解方程组 EMBED Equation.DSMT4  （ EMBED Equation.DSMT4  为正整数）
+【考点】二元一次方程组          【难度】3星          【题型】解答 
+将5个式子相加得 EMBED Equation.DSMT4  ，将1式与2式相加得 EMBED Equation.DSMT4  ，将2式与3式相加得 EMBED Equation.DSMT4  ，同理连续相加得到 EMBED Equation.DSMT4  ，整理后解为 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+教师寄语：拼一个春夏秋冬，换一生无怨无悔。
+
+
+
+
+方程组解法综合
+
+教学目标
+
+知识精讲
+
+例题精讲
+
+
+ PAGE  \* MERGEFORMAT 4
+
+
+

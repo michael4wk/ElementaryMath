@@ -1,0 +1,211 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+1. 分析找出试题中经济问题的关键量。
+2. 建立条件之间的联系，列出等量关系式。
+3. 用解方程的方法求解。
+4. 利用分数应该题的方法进行解题
+
+ SHAPE  \* MERGEFORMAT 
+一、经济问题主要相关公式：
+EMBED Equation.DSMT4，EMBED Equation.DSMT4；
+EMBED Equation.DSMT4，EMBED Equation.DSMT4
+其它常用等量关系：
+售价=成本×（1+利润的百分数）；
+成本=卖价÷（1+利润的百分数）；
+本金：储蓄的金额；
+利率：利息和本金的比；
+利息=本金×利率×期数；
+含税价格=不含税价格×（1+增值税税率）；
+二、经济问题的一般题型
+(1)直接与利润相关的问题：
+直接与利润相关的问题，无非是找成本与销售价格的差价。
+(2)与利润无直接联系，但是涉及价格变动的问题：
+涉及价格变动，虽然没有直接提到利润的问题，但是最终还是转化成(1)的情况。
+三、解题主要方法
+1．抓不变量(一般情况下成本是不变量)；
+2．列方程解应用题．
+ SHAPE  \* MERGEFORMAT 
+摸块一，物品的出售问题
+单纯的经济问题
+某商店从阳光皮具厂以每个80元的价格购进了60个皮箱，这些皮箱共卖了6300元。这个商店从这60个皮箱上共获得多少利润？
+【考点】经济问题          【难度】1星          【题型】解答 
+6300-60×80=1500（元）
+【答案】 EMBED Equation.DSMT4  
+
+某商品价格因市场变化而降价，当初按盈利27%定价，卖出时如果比原价便宜4元，则仍可赚钱25%，求原价是多少元？
+【考点】经济问题          【难度】2星          【题型】解答 
+根据量率对应得到成本为：EMBED Equation.DSMT4，当初利润为：EMBED Equation.DSMT4（元）所以原价为：EMBED Equation.DSMT4（元）
+【答案】EMBED Equation.DSMT4
+
+王老板以2元/个的成本买入菠萝若干个，按照定价卖出了全部菠萝的EMBED Equation.DSMT4后，被迫降价为：5个菠萝只卖2元，直至卖完剩下的菠萝，最后一算，发现居然不亏也不赚，那么王老板一开始卖出菠萝的定价为        元/个．
+【考点】经济问题          【难度】2星          【题型】解答 
+降价后5个菠萝卖2元，相当于每个菠萝卖EMBED Equation.DSMT4元，则降价后每个菠萝亏EMBED Equation.DSMT4元，由于最后不亏也不赚，所以开始按定价卖出的菠萝赚得的与降价后亏损的相等，而开始按定价卖出的菠萝的量为降价后卖出的菠萝的4倍，所以按定价卖出的菠萝每个菠萝赚：EMBED Equation.DSMT4元，开始的定价为：EMBED Equation.DSMT4元．
+【答案】EMBED Equation.DSMT4
+
+昨天和今天，学校食堂买了同样多的蔬菜和肉，昨天付了250元，今天付了280元，原因如图所示，那么，今天蔬菜付了          元。
+
+【考点】经济问题          【难度】2星          【题型】解答 
+【关键词】希望杯，六年级，二试
+采用假设法。如果都涨价 EMBED Equation.DSMT4 ，那么应该多付 EMBED Equation.DSMT4 元，所以今天肉的总价为 EMBED Equation.DSMT4 元，那么蔬菜的总价为 EMBED Equation.DSMT4 元。
+【答案】 EMBED Equation.DSMT4 元
+
+奶糖每千克24元，水果糖每千克18元。买两种糖果花了同样多的钱，但水果糖比奶糖多4千克。水果糖           千克，奶糖           千克。
+【考点】经济问题          【难度】2星          【题型】解答 
+【关键词】走美杯，四年级
+若水果糖少买4千克那么就和奶糖重量一样，能够剩下 EMBED Equation.DSMT4  元，因为两种水果花的钱一样，此时奶糖比水果糖多用72元，因为奶糖比水果糖每千克多花6元，那么共买了奶糖 EMBED Equation.DSMT4  千克，水果糖16千克。
+【答案】EMBED Equation.DSMT4
+
+李师傅以1元钱3个苹果的价格买进苹果若干个，以1元钱2个苹果的价格将这些苹果卖出，卖出一半后，因为苹果降价只能以2元钱7个苹果的价格将剩下的苹果卖出．不过最后他不仅赚了24元钱，还剩下了1个苹果，那么他买了多少个苹果？
+【考点】经济问题          【难度】4星          【题型】解答 
+经济问题都是和成本、利润相关的，所以只要分别考虑前后的利润即可．
+1元钱3个苹果，也就是一个苹果EMBED Equation.DSMT4元；1元钱2个苹果，也就是一个苹果EMBED Equation.DSMT4元；卖出一半后，苹果降价只能以2元钱7个苹果的价格卖出，也就是每个EMBED Equation.DSMT4元．
+在前一半的每个苹果可以挣EMBED Equation.DSMT4(元)，而后一半的每个苹果亏EMBED Equation.DSMT4(元)．假设后一半也全卖完了，即剩下的1个苹果统一按亏的价卖得EMBED Equation.DSMT4元，就会共赚取EMBED Equation.DSMT4元钱．
+如果从前、后两半中各取一个苹果，合在一起销售，这样可赚得EMBED Equation.DSMT4(元)，所以每一半苹果有EMBED Equation.DSMT4个，那么苹果总数为EMBED Equation.DSMT4个．
+【答案】EMBED Equation.DSMT4
+
+某商品按每个5元的利润卖出4个的钱数，与按每个20元的利润卖出3个的钱数一样多，这种商品每个成本是多少元?
+【考点】经济问题          【难度】2星          【题型】解答 
+方法一：根据题意存在下面的关系（5元＋成本）×4＝（20元＋成本）×3，经过倒退可以列式子为：EMBED Equation.DSMT4（元），所以成本为40元
+方法二：成本不变，每件利润多EMBED Equation.DSMT4（元），3件多EMBED Equation.DSMT4（元），多与少恰好相等，少卖1个少45元，原价利润5元+成本，成本为EMBED Equation.DSMT4（元）。
+【答案】 EMBED Equation.DSMT4  
+
+一千克商品随季节变化降价出售，如果按现价降价10%，仍可获利180元，如果降价20%就要亏损240元，这种商品的进价是多少元？
+【考点】经济问题          【难度】2星          【题型】解答 
+根据盈亏问题可得现价为：EMBED Equation.DSMT4，
+所以成本为：EMBED Equation.DSMT4 (元)
+【答案】 EMBED Equation.DSMT4  
+
+某种商品按定价卖出可得利润EMBED Equation.DSMT4元，若按定价的EMBED Equation.DSMT4出售，则亏损EMBED Equation.DSMT4元．问：商品的购入价是________元．
+【考点】经济问题          【难度】2星          【题型】解答 
+【关键词】西城实验
+该商品的定价为：EMBED Equation.DSMT4(元)，则购入价为：EMBED Equation.DSMT4(元)．
+【答案】EMBED Equation.DSMT4
+
+一千克商品按20%的利润定价，然后又按8折售出，结果亏损了64元，这千克商品的成本是多少元？
+【考点】经济问题          【难度】2星          【题型】解答 
+EMBED Equation.DSMT4（元）
+【答案】EMBED Equation.DSMT4
+
+某种皮衣定价是1150元，以8折售出仍可以盈利EMBED Equation.DSMT4，某顾客再在8折的基础上要求再让利150元，如果真是这样，商店是盈利还是亏损？
+【考点】经济问题          【难度】2星          【题型】解答 
+该皮衣的成本为：EMBED Equation.DSMT4元，在8折的基础上再让利150元为：EMBED Equation.DSMT4元，所以商店会亏损30元．
+【答案】30
+
+一件衣服，第一天按原价出售，没人来买，第二天降价20％出售，仍无人问津，第三天再降价24元，终于售出。已知售出价格恰是原价的56％，这件衣服还盈利20元，那么衣服的成本价多少钱？
+【考点】经济问题          【难度】3星          【题型】解答 
+我们知道从第二天起开始降价，先降价20%然后又降价24元，最终是按原价的56%出售的，所以一共降价44%，因而第三天降价24%。24÷24%=100元。原价为100元。因为按原价的56%出售后，还盈利20元，所以100×56%-20=36元。所以成本价为：36元。
+【答案】36
+
+某家商店决定将一批苹果的价格降到原价的EMBED Equation.DSMT4卖出，这样所得利润就只有原计划的EMBED Equation.DSMT4．已知这批苹果的进价是每千克6元6角，原计划可获利润2700元，那么这批苹果共有多少千克？
+【考点】经济问题          【难度】2星          【题型】解答 
+原价的EMBED Equation.DSMT4相当于原利润的EMBED Equation.DSMT4，所以原利润相当于原价的EMBED Equation.DSMT4，则原价与原利润的比值为EMBED Equation.DSMT4，因此原利润为每千克EMBED Equation.DSMT4元；又原计划获利EMBED Equation.DSMT4元，则这批苹果共有EMBED Equation.DSMT4千克．
+【答案】EMBED Equation.DSMT4
+
+某商家决定将一批苹果的价格提高EMBED Equation.DSMT4，这时所得的利润就是原来的两倍．已知这批苹果的进价是每千克EMBED Equation.DSMT4元，按原计划可获利润EMBED Equation.DSMT4元，那么这批苹果共有多少千克？
+【考点】经济问题          【难度】2星          【题型】解答 
+根据题意可知，原价的EMBED Equation.DSMT4就等于原来的利润，所以原价和原利润的比值为EMBED Equation.DSMT4，利润为每千克EMBED Equation.DSMT4元，所以这批苹果一共有EMBED Equation.DSMT4千克．
+【答案】EMBED Equation.DSMT4
+
+某商场将一套儿童服装按进价的EMBED Equation.DSMT4加价后，再写上“大酬宾，八折优惠”，结果每套服装仍获利EMBED Equation.DSMT4元．这套服装的进价是        元．
+【考点】经济问题          【难度】2星          【题型】解答 
+如果儿童服装的成本为EMBED Equation.DSMT4元，那么原来的售价为EMBED Equation.DSMT4元，优惠后的价格为EMBED Equation.DSMT4元，每套服装能获利EMBED Equation.DSMT4元，所以EMBED Equation.DSMT4，可得EMBED Equation.DSMT4，即每套服装进价为100元．
+【答案】100
+
+某商店到苹果产地去收购苹果，收购价为每千克EMBED Equation.DSMT4元．从产地到商店的距离是EMBED Equation.DSMT4千米，运费为每吨货物每运EMBED Equation.DSMT4千米收EMBED Equation.DSMT4元．如果在运输及销售过程中的损耗是EMBED Equation.DSMT4，那么商店要想实现EMBED Equation.DSMT4的利润率，零售价应是每千克多少元？
+【考点】经济问题          【难度】2星          【题型】解答 
+以EMBED Equation.DSMT4千克苹果为例，收购价为EMBED Equation.DSMT4元，运费为EMBED Equation.DSMT4元，则成本为EMBED Equation.DSMT4元，要想实现EMBED Equation.DSMT4的利润率，应收入EMBED Equation.DSMT4元；由于损耗，实际的销售重量为EMBED Equation.DSMT4千克，所以实际零售价为每千克EMBED Equation.DSMT4元．
+【答案】EMBED Equation.DSMT4元
+
+果品公司购进苹果EMBED Equation.DSMT4万千克，每千克进价是EMBED Equation.DSMT4元，付运费等开支EMBED Equation.DSMT4元，预计损耗为EMBED Equation.DSMT4，如果希望全部进货销售后能获利EMBED Equation.DSMT4，每千克苹果零售价应当定为________元．
+【考点】经济问题          【难度】1星          【题型】解答 
+成本是EMBED Equation.DSMT4(元)，损耗后的总量是EMBED Equation.DSMT4(千克)，所以，最后定价为EMBED Equation.DSMT4(元)．
+【答案】EMBED Equation.DSMT4元
+
+某公司要到外地去推销产品,产品成本为3000元。从公司到的外地距离是400千米，运费为每件产品每运1千米收1.5元。如果在运输及销售过程中产品的损耗是10%，那么公司要想实现25%的利润率，零售价应是每件多少元？
+【考点】经济问题          【难度】2星          【题型】解答 
+以1件商品为例,成本为3000元，运费为1.5×400=600元，则成本为3000+600=3600元，要想实现25%的利润率，应收入3600×(1＋25%)=4500元；由于损耗，实际的销售产品数量为1×(1－10%)=90% ，所以实际零售价为每千克4500÷90%=5000元。
+【答案】5000元
+
+某种商品的进价为800元，出售时标价为1200元。后来由于该商品积压，商店准备打折出售，但要保持利润率不低于EMBED Equation.DSMT4，则最多可以打        折。
+【考点】经济问题          【难度】2星          【题型】解答 
+利润率不低于EMBED Equation.DSMT4，即售价最低为EMBED Equation.DSMT4元，由于EMBED Equation.DSMT4，最多可以打7折。
+【答案】7
+
+某种少年读物，如果按原定价格销售，每售一本，获利0.24元；现在降价销售，结果售书量增加一倍，获利增加0.5倍。问：每本书售价降价多少元？
+【考点】经济问题          【难度】3星          【题型】解答 
+【关键词】华杯赛，初赛
+降价销售平均每售2本书获利0.24×(1＋ EMBED Equation.DSMT4  )＝0.36(元)，每本获利0.18元。 所以每本书售价降低0.24－0.18＝0.06(元)
+【答案】0.06元
+电器厂销售一批电冰箱，每台售价EMBED Equation.DSMT4元，预计获利EMBED Equation.DSMT4万元，但实际上由于制作成本提高了EMBED Equation.DSMT4，所以利润减少了EMBED Equation.DSMT4．求这批电冰箱的台数．
+【考点】经济问题          【难度】2星          【题型】解答 
+电冰箱的售价不变，因此减少的利润相当于增加的成本，也就是说原成本的EMBED Equation.DSMT4等于原利润的EMBED Equation.DSMT4，从而原先成本与利润的比是EMBED Equation.DSMT4，而售价为2400元，所以原来每台电冰箱的利润是EMBED Equation.DSMT4元，那么这批电冰箱共有EMBED Equation.DSMT4台．
+【答案】EMBED Equation.DSMT4
+
+“新新”商贸服务公司，为客户出售货物收取销售额的EMBED Equation.DSMT4作为服务费，代客户购买物品收取商品定价的EMBED Equation.DSMT4作为服务费．今有一客户委托该公司出售自产的某种物品和代为购置新设备，已知该公司共扣取了客户服务费264元，客户恰好收支平衡．问所购置的新设备花费了多少元？
+【考点】经济问题          【难度】3星          【题型】解答 
+ “该客户恰好收支平衡”，这表明该客户出售物品的销售额的EMBED Equation.DSMT4，恰好用来支付了设备与代为购买设备的服务费，即等于所购置新设备费用的EMBED Equation.DSMT4.从而求得出售商品所得与新设备价格之比；再以新设备价格为“1”，可求出两次服务费相当于新设备的多少，从而可解得新设备价格.出售商品所得的EMBED Equation.DSMT4等于新设备价格的EMBED Equation.DSMT4.设新设备价格为“1”，则出售商品所得相当于EMBED Equation.DSMT4.该公司的服务费为EMBED Equation.DSMT4，故而新设备花费了EMBED Equation.DSMT4(元).
+【答案】EMBED Equation.DSMT4
+
+多种商品的经济问题
+某人在某国用5元钱买了两块鸡腿和一瓶啤酒，当物价上涨20％后，5元钱恰好可买一块鸡腿和一瓶啤酒，当物价又上涨20％，这5元钱能否够买一瓶啤酒？
+【考点】经济问题          【难度】2星          【题型】解答 
+方法一：以原来鸡腿和啤酒的价格为基准，所以可列下面的式子：两块鸡腿+一瓶啤酒=5元
+(一块鸡腿+一瓶啤酒）×(1+20%)＝5元；1瓶啤酒=4块鸡腿，所以原来一瓶啤酒要20/6元。物价上涨两次20%以后，啤酒的价格为：20/6×（1+20%）(1+20%)=4.8元。所以还能买到一瓶啤酒。
+方法二：物价上涨20%后，如果钱也增加20%，那么就仍然可买两块鸡腿和一瓶啤酒。两块鸡腿 + 一瓶啤酒=6元。但是现在一块鸡腿+一瓶啤酒=5元，则一块鸡腿=1元。一瓶啤酒=4元。再上涨20%以后，一瓶啤酒为：4×（1+20%）=4.8元。
+【答案】能
+
+甲、乙两种商品成本共200元。商品甲按EMBED Equation.DSMT4的利润定价，商品乙按EMBED Equation.DSMT4的利润定价。后来两种商品都按定价的九折销售，结果仍获得利润EMBED Equation.DSMT4元。问甲种商品的成本是多少元？
+【考点】经济问题          【难度】2星          【题型】解答 
+假设把两种商品都按EMBED Equation.DSMT4的利润来定价，那么可以获得的利润是
+EMBED Equation.DSMT4元，
+由于在计算甲商品获得的利润时，它成本所乘的百分数少了EMBED Equation.DSMT4，所以甲商品的成本是EMBED Equation.DSMT4元。
+【答案】EMBED Equation.DSMT4
+
+甲、乙两种商品，成本共2200元，甲商品按EMBED Equation.DSMT4的利润定价，乙商品按EMBED Equation.DSMT4的利润定价．后来都按定价的EMBED Equation.DSMT4打折出售，结果仍获利131元．甲种商品的成本是        元．
+【考点】经济问题          【难度】2星          【题型】解答 
+甲种商品的实际售价为成本的EMBED Equation.DSMT4，所以甲种商品的利润率为EMBED Equation.DSMT4；乙种商品的实际售价为成本的EMBED Equation.DSMT4，所以乙种商品的利润率为EMBED Equation.DSMT4．根据“鸡兔同笼”的思想，甲种商品的成本为：EMBED Equation.DSMT4(元)．
+【答案】EMBED Equation.DSMT4
+
+体育用品商店用EMBED Equation.DSMT4元购进EMBED Equation.DSMT4个足球和EMBED Equation.DSMT4个篮球．零售时足球加价EMBED Equation.DSMT4，篮球加价EMBED Equation.DSMT4，全部卖出后获利润EMBED Equation.DSMT4元．问：每个足球和篮球的进价是多少元？
+【考点】经济问题          【难度】2星          【题型】解答 
+如果零售时都是加价EMBED Equation.DSMT4，那么全部卖出后可获利润EMBED Equation.DSMT4元，比实际上少了EMBED Equation.DSMT4元，可见所有篮球的总成本为EMBED Equation.DSMT4元，那么足球的总成本为EMBED Equation.DSMT4元，故每个足球的进价为EMBED Equation.DSMT4元，每个篮球的进价为EMBED Equation.DSMT4元。
+【答案】EMBED Equation.DSMT4
+
+某体育用品商店进了一批篮球，分一级品和二级品．二级品的进价比一级品便宜EMBED Equation.DSMT4．按优质优价的原则，一级品按EMBED Equation.DSMT4的利润率定价，二级品按EMBED Equation.DSMT4的利润率定价，一级品篮球比二级品篮球每个贵EMBED Equation.DSMT4元．一级品篮球的进价是每个多少元？
+【考点】经济问题          【难度】2星          【题型】解答 
+设一级品的进价每个EMBED Equation.DSMT4元，则二级品的进价每个EMBED Equation.DSMT4元．由一、二级品的定价可列方程：EMBED Equation.DSMT4，解得EMBED Equation.DSMT4，所以一级品篮球的进价是每个EMBED Equation.DSMT4元.
+【答案】EMBED Equation.DSMT4
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+教师寄语：拼一个春夏秋冬，换一生无怨无悔。
+
+
+
+
+经济问题（一）
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+ PAGE  \* MERGEFORMAT 7
+
+
+

@@ -1,0 +1,300 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+熟练掌握工程问题的基本数量关系与一般解法；
+工程问题中常出现单独做，几人合作或轮流做，分析时一定要学会分段处理；
+根据题目中的实际情况能够正确进行单位“1”的统一和转换；
+工程问题中的常见解题方法以及工程问题算术方法在其他类型题目中的应用．
+
+ SHAPE  \* MERGEFORMAT 
+工程问题是小学数学应用题教学中的重点，是分数应用题的引申与补充，是培养学生抽象逻辑思维能力的重要工具。工程问题是把工作总量看成单位“1”的应用题，它具有抽象性，学生认知起来比较困难。在教学中，让学生建立正确概念是解决工程应用题的关键。
+一． 工程问题的基本概念
+定义 ： 工程问题是指用分数来解答有关工作总量、工作时间和工作效率之间相互关系的问题。
+工作总量：一般抽象成单位“1”
+工作效率：单位时间内完成的工作量
+三个基本公式：工作总量=工作效率×工作时间，
+工作效率=工作总量÷工作时间，
+工作时间=工作总量÷工作效率；
+二、为了学好分数、百分数应用题，必须做到以下几方面：
+① 具备整数应用题的解题能力，解决整数应用题的基本知识，如概念、性质、法则、公式等广泛应用于分数、百分数应用题；
+② 在理解、掌握分数的意义和性质的前提下灵活运用；
+③ 学会画线段示意图．线段示意图能直观地揭示“量”与“百分率”之间的对应关系，发现量与百分率之间的隐蔽条件，可以帮助我们在复杂的条件与问题中理清思路，正确地进行分析、综合、判断和推理；
+    ④ 学会多角度、多侧面思考问题的方法．分数、百分数应用题的条件与问题之间的关系变化多端，单靠统一的思路模式有时很难找到正确解题方法．因此，在解题过程中，要善于掌握对应、假设、转化等多种解题方法，不断地开拓解题思路．
+三、利用常见的数学思想方法：
+如代换法、比例法、列表法、方程法等
+抛开“工作总量”和“时间”，抓住题目给出的工作效率之间的数量关系，转化出与所求相关的工作效率，最后再利用先前的假设“把整个工程看成一个单位”，求得问题答案．一般情况下，工程问题求的是时间．
+
+
+ SHAPE  \* MERGEFORMAT 
+模块一、工程问题——变速问题
+甲打一篇文稿，打完一半后吃晚饭，晚饭后每分钟比晚饭前多打32个字．前后共打50分钟，前25分钟比后25分钟少打640个字．文稿一共（     ）字．
+【考点】工程问题          【难度】3星          【题型】解答 、
+【关键词】走美杯，三年级，初赛，四年级
+由“前25分钟比后25分钟少打640个字”，可知：多打这640个字需要的时间是：640÷32=20（分钟），那么就知饭前用了30分钟，饭后用了20分钟，如果这640个字全部用饭前的速度打，则需要10分钟，故可知饭前的速度是64个字每分钟，饭后的速度是96个字每分钟，则文稿一共有：64×30+96×20=3840个字。
+【答案】3840
+
+工厂生产一批产品，原计划15天完成，实际生产时改进了生产工艺，每天生产产品的数量比原计划每天生产产品数量的多10件，结果提前4天完成了生产任务，则这批产品有     件。
+【考点】工程问题          【难度】3星          【题型】解答 、
+【关键词】希望杯，五年级，一试
+设工厂原计划每天生产产品 EMBED Equation.DSMT4  件，则改进生产工艺后每天生产产品的数量为 EMBED Equation.DSMT4  件。
+          根据题意有 EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  。所以这批产品共有11×15=165（件）。
+【答案】165件
+
+甲、乙两个工程队修路，最终按工作量分配8400元工资．按两队原计划的工作效率，乙队应获5040元．实际上从第5天开始，甲队的工作效率提高了1倍，这样甲队最终可比原计划多获得960元．那么两队原计划完成修路任务要多少天？
+【考点】工程问题          【难度】3星          【题型】解答 
+开始时甲队拿到 EMBED Equation.DSMT4  元，甲、乙的工资比等于甲、乙的工效比，即为 EMBED Equation.DSMT4  ；甲提高工效后，甲、乙总的工资及工效比为 EMBED Equation.DSMT4  ．设甲开始时的工效为“2”，那么乙的工效为“3”，设甲在提高工效后还需 EMBED Equation.DSMT4  天才能完成任务．有 EMBED Equation.DSMT4  ，化简为 EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  ．工程总量为 EMBED Equation.DSMT4  ，所以原计划 EMBED Equation.DSMT4  天完成．
+【答案】 EMBED Equation.DSMT4  天
+
+甲、乙合作一件工程，由于配合得好，甲的工作效率比单独做时提高 EMBED Equation.DSMT4  ，乙的工作效率比单独做时提高 EMBED Equation.DSMT4  ．甲、乙两人合作 EMBED Equation.DSMT4  小时，完成全部工作的 EMBED Equation.DSMT4  ，第二天乙又单独做了 EMBED Equation.DSMT4  小时，还留下这件工作的 EMBED Equation.DSMT4  尚未完成，如果这件工作始终由甲一人单独来做，需要多少小时？
+【考点】工程问题          【难度】4星          【题型】解答 
+【关键词】人大附中
+乙的工作效率是： EMBED Equation.DSMT4  ，甲的工作效率是： EMBED Equation.DSMT4  ，所以，单独由甲做需要： EMBED Equation.DSMT4  (小时)．
+【答案】 EMBED Equation.DSMT4  小时
+
+一项工程，甲独做需10天，乙独做需15天．如果两人合做，甲的工作效率就要降低，只能完成原来的 EMBED Equation.DSMT4  ，乙只能完成原来的 EMBED Equation.DSMT4  ．现在要8天完成这项工程，两人合做天数尽可能少，那么两人要合做多少天?
+【考点】工程问题          【难度】4星          【题型】解答 
+因为甲比乙的工作效率高，又要求合做的天数尽可能的少，所以除了两人合作之外，其余工程应由甲单独完成．现设两人合作 EMBED Equation.DSMT4  天，则甲单独做8- EMBED Equation.DSMT4  天，于是得到方程( EMBED Equation.DSMT4  ×80％+ EMBED Equation.DSMT4  ×90％) ×+×(8-)=l，解出=5.所以，在满足条件下，两人至少要合作5天．
+【答案】5天
+
+要发一份资料，单用A传真机发送，要10分钟；单用B传真机发送，要8分钟；若A、B同时发送，由于相互干扰，A、B每分钟共少发0.2页。实际情况是由A、B同时发送，5分钟内传完了资料（对方可同时接收两份传真），则这份资料有________页。
+【考点】工程问题          【难度】4星          【题型】解答 
+【关键词】希望杯，六年级，一试
+没受干扰时传真机的合作工作效率为 EMBED Equation.DSMT4  ，而实际的工作效率为 EMBED Equation.DSMT4  ，所以这份资料共有 EMBED Equation.DSMT4  （页）
+【答案】5天
+
+甲、乙两人合作清理400米环形跑道上的积雪，两人同时从同一地点背向而行各自进行工作，最初，甲清理的速度比乙快 EMBED Equation.DSMT4  ，中途乙曾用10分钟去换工具，而后工作效率比原来提高了一倍，结果从开始算起，经过1小时，就完成了清理积雪的工作，并且两人清理的跑道一样长，问乙换了工具后又工作了多少分钟？
+【考点】工程问题          【难度】4星          【题型】解答 
+【关键词】四中，入学测试，希望杯，六年级，2试
+法一：直接求
+首先求出甲的工作效率，甲 EMBED Equation.DSMT4  个小时完成了 EMBED Equation.DSMT4  米的工作量，因此每分钟完成 EMBED Equation.DSMT4  （米），开始的时候甲的速度比乙快 EMBED Equation.DSMT4  ，也就是说乙开始每分钟完成为 EMBED Equation.DSMT4  （米），换工具之后，工作效率提高一倍，因此每分钟完成 EMBED Equation.DSMT4  （米），问题就变成了，乙 EMBED Equation.DSMT4  分钟扫完了 EMBED Equation.DSMT4  米的雪，前若干分钟每分钟完成 EMBED Equation.DSMT4  米，换工具之后的时间每分钟完成了 EMBED Equation.DSMT4  米，求换工具之后的时间。这是一个鸡兔同笼类型的问题，我们假设乙一直都是每分钟扫 EMBED Equation.DSMT4  米，那么 EMBED Equation.DSMT4  分钟应该能扫 EMBED Equation.DSMT4  （米），比实际少了 EMBED Equation.DSMT4  （米），这是因为换工具后每分钟多扫了 EMBED Equation.DSMT4  （米），因此换工具后的工作时间为 EMBED Equation.DSMT4  （分钟）.
+法二：其实这个问题当中的 EMBED Equation.DSMT4  米是一个多余条件，我们只需要根据甲乙两人工作量相同和他们之间的工作效率之比就可以求出这个问题的答案。我们不妨设乙开始每分钟清理的量为 EMBED Equation.DSMT4  ，甲比他快 EMBED Equation.DSMT4  ，甲每分钟可以清理 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  分钟之后，甲一共清理了 EMBED Equation.DSMT4  份的工作量，乙和他的工作总量相同，也是 EMBED Equation.DSMT4  份，但是乙之前的工作效率为 EMBED Equation.DSMT4  ，换工具后的工作效率为 EMBED Equation.DSMT4  ，和（法一）相同的，利用鸡兔同笼的思想，可以得到乙换工具后工作了 EMBED Equation.DSMT4  分钟。
+【答案】 EMBED Equation.DSMT4  分钟
+
+甲、乙两人同时加工同样多的零件，甲每小时加工40个，当甲完成任务的 EMBED Equation.DSMT4  时，乙完成了任务的 EMBED Equation.DSMT4  还差40个．这时乙开始提高工作效率，又用了 EMBED Equation.DSMT4  小时完成了全部加工任务．这时甲还剩下20个零件没完成．求乙提高工效后每小时加工零件多少个？
+【考点】工程问题          【难度】4星          【题型】解答 
+【关键词】十三分，入学测试
+当甲完成任务的 EMBED Equation.DSMT4  时，乙完成了任务的 EMBED Equation.DSMT4  还差40个，这时乙比甲少完成40个；
+当乙完成全部任务时，甲还剩下20个零件没完成，这时乙比甲多完成20个；
+所以在后来的 EMBED Equation.DSMT4  小时内，乙比甲多完成了 EMBED Equation.DSMT4  个，那么乙比甲每小时多完成 EMBED Equation.DSMT4  个．所以提高工效后乙每小时完成 EMBED Equation.DSMT4  个．
+【答案】 EMBED Equation.DSMT4  个
+
+甲、乙两项工程分别由一、二队来完成．在晴天，一队完成甲工作要12天，二队完成乙工程要15天；在雨天，一队的工作效率要下降 EMBED Equation.DSMT4  ，二队的工作效率要下降 EMBED Equation.DSMT4  ．结果两队同时完成工作，问工作时间内下了多少天雨？
+【考点】工程问题          【难度】4星          【题型】解答 
+在晴天，一队、二队的工作效率分别为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，一队比二队的工作效率高 EMBED Equation.DSMT4  ；在雨天，一队、二队的工作效率分别为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，二队的工作效率比一队高 EMBED Equation.DSMT4  ．由 EMBED Equation.DSMT4  知，3个晴天5个雨天，两个队的工作进程相同，此时完成了工程的 EMBED Equation.DSMT4  ，所以在施工期间，共有6个晴天10个雨天．
+方法二：本题可以用方程的方法，在方程解应用题中会继续出现。
+【答案】10个雨天
+
+一项挖土万工程，如果甲队单独做，16天可以完成，乙队单独做要20天能完成．现在两队同时施工，工作效率提高20％．当工程完成 EMBED Equation.DSMT4  时，突然遇到了地下水，影响了施工进度，使得每天少挖了47.25方土，结果共用了10天完成工程．问整工程要挖多少方土?
+【考点】工程问题          【难度】4星          【题型】解答 
+甲、乙合作时工作效率为( EMBED Equation.DSMT4  + EMBED Equation.DSMT4  )×(1+20%)= EMBED Equation.DSMT4  ．则 EMBED Equation.DSMT4  的工程量需÷= EMBED Equation.DSMT4   (天)，则遇到地下水后，甲、乙两队又工作了10-= EMBED Equation.DSMT4  (天)．则此时甲、乙合作的工作效率为 EMBED Equation.DSMT4  ÷= EMBED Equation.DSMT4  ．遇到地下水前后工作效率的差为: -= EMBED Equation.DSMT4  ，则总工作量为47.25÷=1100方土.
+【答案】1100方土
+
+甲、乙两个工程队分别负责两项工程．晴天，甲完成工程需要10天，乙完成工程需要16天；雨天，甲和乙的工作效率分别是晴天时的 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ．实际情况是两队同时开工、同时完工．那么在施工期间，下雨的天数是          天．
+【考点】工程问题          【难度】4星          【题型】解答 
+【关键词】希望杯，六年级，1试
+在晴天，甲、乙两队的工作效率分别为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，甲队比乙队的工作效率高 EMBED Equation.DSMT4  ；
+        在雨天，甲队、乙队的工作效率分别为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，乙队的工作效率比甲队高 EMBED Equation.DSMT4  ．由于两队同时开工、同时完工，完成工程所用的时间相同，所以整个施工期间，晴天与雨天的天数比为 EMBED Equation.DSMT4  ．
+如果有8个晴天，则甲共完成工程的 EMBED Equation.DSMT4  ，而实际的工程量为1，所以在施工期间，共有 EMBED Equation.DSMT4  个晴天， EMBED Equation.DSMT4  个雨天．
+【答案】 EMBED Equation.DSMT4  个雨天
+
+一批工人到甲、乙两个工地工作，甲工地的工作量是乙工地的工作量的 EMBED Equation.DSMT4  倍，上午在甲工地工作的人数是乙工地人数的3倍，下午这批工人中的 EMBED Equation.DSMT4  在乙工地工作。一天下来，甲工地的工作已完成，乙工地的工作还需4名工人再做一天。这批工人有          人。
+【考点】工程问题          【难度】3星          【题型】解答 
+【关键词】希望杯，五年级，一试
+ “甲工地的工作量是乙工地的工作量的 EMBED Equation.DSMT4  倍”说明甲、乙的工作量只比为3：2。
+可设这批工人有X人，每个工人的工效都为1，列式为：
+
+                       EMBED Equation.DSMT4  X：（ EMBED Equation.DSMT4  X+4）=3：2
+                                  EMBED Equation.DSMT4  X= EMBED Equation.DSMT4  X+12
+                                   EMBED Equation.DSMT4  X=12
+                                    X=48
+      所以这批工人有48人。
+【答案】48人
+
+模块二、工程问题方法与技巧
+整体分析法
+甲、乙、丙三人生产一批玩具，甲生产的个数是乙、丙二人生产个数之和的 EMBED Equation.DSMT4  ，乙生产的个数是甲、丙两人生产个数之和的 EMBED Equation.DSMT4  ，丙生产了50个。这批玩具共有_________________个.
+【考点】工程问题          【难度】3星          【题型】解答 
+【关键词】希望杯，六年级，二试
+如果直接研究甲、乙、丙三者之间的关系，可能会略显复杂，我们需要引入一个中间量：甲乙丙三人生产玩具数量的总和。甲是乙丙和的 EMBED Equation.DSMT4  ，则总和为 EMBED Equation.DSMT4  ，甲占了 EMBED Equation.DSMT4  份，甲占了总数的 EMBED Equation.DSMT4  ；乙是甲丙和的 EMBED Equation.DSMT4  ，同理可知乙占了总数的 EMBED Equation.DSMT4  ，那么可知丙生产的玩具占总数的 EMBED Equation.DSMT4  ，所以总数是 EMBED Equation.DSMT4  （个）.
+【答案】 EMBED Equation.DSMT4  个
+
+几个同学去割两块草地的草，甲地面积是乙地面积的4倍，开始他们一起在甲地割了半天，后来留下12人割甲地的草，其余人去割乙地的草，这样又割了半天，甲、乙两地的草同时割完了，问：共有多少名学生？
+【考点】工程问题          【难度】3星          【题型】解答 
+【关键词】西城实验
+有12人全天都在甲地割草，设有人上午在甲地，下午在乙地割草．由于这人在下午能割完乙地的草(甲地草的 EMBED Equation.DSMT4  )，所以这些人在上午也能割甲地 EMBED Equation.DSMT4  的草，所以12人一天割了甲地 EMBED Equation.DSMT4  的草，每人每天割草为 EMBED Equation.DSMT4  ，全部的草为甲地草的 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以共有20名学生．
+【答案】20名学生
+
+一批工人到甲、乙两个工地进行清理工作，甲工地的工作量是乙工地的工作量的 EMBED Equation.DSMT4  倍．上午去甲工地的人数是去乙工地人数的 EMBED Equation.DSMT4  倍，下午这批工人中有 EMBED Equation.DSMT4  的人去甲工地．其他工人到乙工地．到傍晚时，甲工地的工作已做完，乙工地的工作还需 EMBED Equation.DSMT4  名工人再做 EMBED Equation.DSMT4  天，那么这批工人有多少人？
+【考点】工程问题          【难度】3星          【题型】解答 
+根据题意，这批工人的人数是12的倍数，设这批工人有 EMBED Equation.DSMT4  人．
+那么上午有 EMBED Equation.DSMT4  人在甲工地，有 EMBED Equation.DSMT4  人在乙工地；下午有 EMBED Equation.DSMT4  人在甲工地，有 EMBED Equation.DSMT4  人在乙工地．所以甲工地相当于 EMBED Equation.DSMT4  人做了一整天；乙工地相当于 EMBED Equation.DSMT4  人做了一整天．
+由于甲工地的工作量是乙工地的工作量的 EMBED Equation.DSMT4  倍，假设甲工地的工作量是3份，那么乙工地的工作量是2份． EMBED Equation.DSMT4  人做一整天完成3份，那么 EMBED Equation.DSMT4  人做一整天完成 EMBED Equation.DSMT4  份，所以乙工地还剩下 EMBED Equation.DSMT4  份．这 EMBED Equation.DSMT4  份需要4名工人做一整天，所以甲工地的3份需要 EMBED Equation.DSMT4  人做一整天，即 EMBED Equation.DSMT4  ，可得 EMBED Equation.DSMT4  ，那么这批工人有 EMBED Equation.DSMT4  (人)．
+【答案】 EMBED Equation.DSMT4  人
+
+有两个同样的仓库，搬运完其中一个仓库的货物，甲需要6小时，乙需要7小时，丙需要14小时．甲、乙同时开始各搬运一个仓库的货物，开始时，丙先帮甲搬运，后来又去帮乙搬运，最后两个仓库的货物同时搬完．则丙帮甲          小时，帮乙          小时．
+【考点】工程问题          【难度】3星          【题型】解答 
+【关键词】希望杯，六年级，2试
+整个搬运的过程，就是甲、乙、丙三人同时开始同时结束，共搬运了两个仓库的货物，所以它们完成工作的总时间为 EMBED Equation.DSMT4  小时．在这段时间内，甲、乙各自在某一个仓库内搬运，丙则在两个仓库都搬运过．甲完成的工作量是 EMBED Equation.DSMT4  ，所以丙帮甲搬了 EMBED Equation.DSMT4  的货物，丙帮甲做的时间为 EMBED Equation.DSMT4  小时，那么丙帮乙做的时间为 EMBED Equation.DSMT4  小时．
+【答案】丙帮甲 EMBED Equation.DSMT4  小时，丙帮乙 EMBED Equation.DSMT4  小时．
+
+搬运一个仓库的货物，甲需 EMBED Equation.DSMT4  小时，乙需 EMBED Equation.DSMT4  小时，丙需 EMBED Equation.DSMT4  小时．有同样的仓库 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，甲在 EMBED Equation.DSMT4  仓库，乙在 EMBED Equation.DSMT4  仓库同时开始搬运货物，丙开始帮甲搬运，中途又转向帮乙搬运，最后同时搬完两个仓库的货物．丙帮助甲、乙各搬运了几小时？
+【考点】工程问题          【难度】3星          【题型】解答 
+甲、乙、丙搬完两个仓库共用了： EMBED Equation.DSMT4  小时，丙帮助甲搬运了 EMBED Equation.DSMT4  小时，丙帮助乙搬运了 EMBED Equation.DSMT4  小时．
+【答案】 EMBED Equation.DSMT4  小时
+
+甲、乙、丙三队要完成 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  两项工程， EMBED Equation.DSMT4  工程的工作量是 EMBED Equation.DSMT4  工程工作量再增加 EMBED Equation.DSMT4  ，如果让甲、乙、丙三队单独做，完成 EMBED Equation.DSMT4  工程所需要的时间分别是 EMBED Equation.DSMT4  天， EMBED Equation.DSMT4  天， EMBED Equation.DSMT4  天．现在让甲队做 EMBED Equation.DSMT4  工程，乙队做 EMBED Equation.DSMT4  工程，为了同时完成这两项工程，丙队先与乙队合做 EMBED Equation.DSMT4  工程若干天，然后再与甲队合做 EMBED Equation.DSMT4  工程若干天．问丙队与乙队合做了多少天？
+【考点】工程问题          【难度】4星          【题型】解答 
+这个问题当中有两个不同的工程，三个不同的人，因此显得很难解决，数学中化归的思想很重要，即以一个为基准，把其他的量转化为这个量，然后进行计算，我们不妨设 EMBED Equation.DSMT4  工程的工作总量为单位“1”，那么 EMBED Equation.DSMT4  工程的工作量就是“ EMBED Equation.DSMT4  ”，那么这个问题就和例 EMBED Equation.DSMT4  联系到了一起了。
+三队合作完成两项工程所用的天数为： EMBED Equation.DSMT4  天。 EMBED Equation.DSMT4  天里，乙队一直在完成 EMBED Equation.DSMT4  工作，因此乙的工作量为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  剩下的工作量应该是由丙完成，因此丙在 EMBED Equation.DSMT4  工程上用了 EMBED Equation.DSMT4  天也就是说两队合作了 EMBED Equation.DSMT4  天。
+解题关键是把“一项工程”看成一个单位，运用公式：工作效率 EMBED Equation.DSMT4  工作时间 EMBED Equation.DSMT4  工作总量，表示出各个工程队(人员)或其组合在统一标准和单位下的工作效率．
+【答案】 EMBED Equation.DSMT4  天
+
+甲、乙、丙三人同时分别在3个条件和工作量相同的仓库工作，搬完货物甲用10小时，乙用12小时，丙用15小时．第二天三人又到两个大仓库工作，这两个仓库的工作量相同．甲在 EMBED Equation.DSMT4  仓库，乙在 EMBED Equation.DSMT4  仓库，丙先帮甲后帮乙，用了16个小时将两个仓库同时搬完．丙在 EMBED Equation.DSMT4  仓库搬了多长时间？
+【考点】工程问题          【难度】4星          【题型】解答 
+因为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两个仓库的工作量相同，所以甲、乙、丙如果都在其中一个大仓库工作，那么8小时可以搬完．因为甲、乙、丙三人每小时的工作量的比是 EMBED Equation.DSMT4  ，所以甲每小时可以完成大仓库工作量的 EMBED Equation.DSMT4  ，丙每小时可以完成大仓库工作量的 EMBED Equation.DSMT4  ．那么甲16小时完成了 EMBED Equation.DSMT4  仓库的 EMBED Equation.DSMT4  ，丙在 EMBED Equation.DSMT4  仓库搬了 EMBED Equation.DSMT4  小时．
+【答案】 EMBED Equation.DSMT4  小时
+
+一项工程，乙单独做要 EMBED Equation.DSMT4  天完成．如果第一天甲做，第二天乙做，这样交替轮流做，那么恰好用整天数完成；如果第一天乙做，第二天甲做，这样交替轮流做，那么比上次轮流的做法多用半天完工．问：甲单独做需要几天？
+【考点】工程问题          【难度】4星          【题型】解答 
+甲、乙轮流做，如果是偶数天完成，那么乙、甲轮流做必然也是偶数天完成，且等于甲、乙轮流做的天数，与题意不符；所以甲、乙轮流做是奇数天完成，最后一天是甲做的．那么乙、甲轮流做比甲、乙轮流做多用半天，这半天是甲做的．如果设甲、乙工作效率分别为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，乙单独做要用 EMBED Equation.DSMT4  天，甲的工作效率是乙的 EMBED Equation.DSMT4  倍，所以甲单独做需要 EMBED Equation.DSMT4  天．
+【答案】 EMBED Equation.DSMT4  天
+
+一项工程，甲单独完成需l2小时，乙单独完成需15小时。甲乙合做1小时后，由甲单独做1小时，再由乙单独做1小时，……，甲、乙如此交替下去，则完成该工程共用________小时。
+【考点】工程问题          【难度】3星          【题型】解答 
+【关键词】希望杯，五年级，一试
+甲乙合做1小时后，还剩下： EMBED Equation.DSMT4  ，甲乙单独做2小时，共做 EMBED Equation.DSMT4  ，还需要做2×5=10小时，还剩下 EMBED Equation.DSMT4  ，需要甲做1小时，还有 EMBED Equation.DSMT4  ，乙还需要做 EMBED Equation.DSMT4  小时，一共需要1+10+1+ 0.25=12.25小时
+【答案】 EMBED Equation.DSMT4  天
+
+一项工程，甲单独做要12小时完成，乙单独做要18小时完成．若甲先做1小时，然后乙接替甲做1小时，再由甲接替乙做1小时，……，两人如此交替工作，请问：完成任务时，共用了多少小时？
+【考点】工程问题          【难度】4星          【题型】解答 
+① 若甲、乙两人合作共需多少小时？
+    EMBED Equation.DSMT4  （小时）．
+ ②甲、乙两人各单独做7小时后，还剩多少？
+    EMBED Equation.DSMT4  ．
+ ③余下的 EMBED Equation.DSMT4  由甲独做需要多少小时？
+    EMBED Equation.DSMT4  （小时）．
+ ④共用了多少小时？ 
+    EMBED Equation.DSMT4  （小时）．
+在工程问题中，转换条件是常用手法．本题中，甲做1小时，乙做1小时，相当于他们合作1小时，也就是每2小时，相当于两人合做1小时．这样先算一下一共进行了多少个这样的2小时，余下部分问题就好解决了．
+【答案】 EMBED Equation.DSMT4  小时
+
+一件工程，甲单独做要 EMBED Equation.DSMT4  小时，乙单独做要 EMBED Equation.DSMT4  小时，如果接甲、乙、甲、乙．．．顺序交替工作，每次 EMBED Equation.DSMT4  小时，那么需要多长时间完成？
+【考点】工程问题          【难度】4星          【题型】解答 
+甲 EMBED Equation.DSMT4  小时完成整个工程的 EMBED Equation.DSMT4  ，乙 EMBED Equation.DSMT4  小时完成整个工程的 EMBED Equation.DSMT4  ，交替干活时两个小时完成整个工程的 EMBED Equation.DSMT4  ，甲、乙各干 EMBED Equation.DSMT4  小时后完成整个工程的 EMBED Equation.DSMT4  ，还剩下 EMBED Equation.DSMT4  ，甲再干 EMBED Equation.DSMT4  小时完成整个工程的 EMBED Equation.DSMT4  ，还剩下 EMBED Equation.DSMT4  ，乙花 EMBED Equation.DSMT4  小时即 EMBED Equation.DSMT4  分钟即可完成．所以需要 EMBED Equation.DSMT4  小时 EMBED Equation.DSMT4  分钟来完成整个工程．
+【答案】 EMBED Equation.DSMT4  小时 EMBED Equation.DSMT4  分钟
+
+规定两人轮流做一个工程，要求第一个人先做1个小时，第二个人接着做一个小时，然后再由第一个人做1个小时，然后又由第二个人做1个小时，如此反复，做完为止．如果甲、乙轮流做一个工程需要 EMBED Equation.DSMT4  小时，而乙、甲轮流做同样的工程只需要 EMBED Equation.DSMT4  小时，那乙单独做这个工程需要多少小时？
+【考点】工程问题          【难度】4星          【题型】解答 
+根据题意，有： EMBED Equation.DSMT4  ，可知，甲做 EMBED Equation.DSMT4  小时与乙做 EMBED Equation.DSMT4  小时的工作量相等，故甲工作2小时，相当于乙1小时的工作量．
+所以，乙单独工作需要 EMBED Equation.DSMT4  小时．
+【答案】 EMBED Equation.DSMT4  小时
+
+公园水池每周需换一次水．水池有甲、乙、丙三根进水管．第一周小李按甲、乙、丙、甲、乙、丙、……的顺序轮流打开1小时，恰好在打开水管整数小时后灌满空水池．第二周他按乙、丙、甲、乙、丙、甲……的顺序轮流打开1小时，灌满一池水比第一周少用了15分钟；第三周他按丙、乙、甲、丙、乙、甲……的顺序轮流打开1小时，比第一周多用了15分钟．第四周他三个管同时打开，灌满一池水用了2小时20分，第五周他只打开甲管，那么灌满一池水需用________小时．
+【考点】工程问题          【难度】4星          【题型】解答 
+【关键词】迎春杯，高年级，初赛
+考虑水池减去甲乙丙两小时总和后的容积，则此部分按照甲乙丙的顺序灌刚好在整数小时后灌满，按照乙丙甲的顺序灌少用15分钟，按照丙乙甲的顺序灌多用15分钟，三个一起灌用20分钟．所以速度应该是乙最快，甲居中，丙最慢．也就是说，此部分是甲灌1个小时后灌满．甲灌1个小时的水=乙灌45分钟的水=丙灌1个小时的水+乙灌15分钟的水．所以灌水速度甲 EMBED Equation.DSMT4  乙 EMBED Equation.DSMT4  丙 EMBED Equation.DSMT4  ，也就是甲刚好是平均数．所以只用甲管灌满需要7小时．
+【答案】7小时
+
+为了创建绿色学校，科学俱乐部的同学设计了一个回收食堂的洗菜水来浇花草的水池，要求单独打开进水管3小时可以把水池注满，单独打开出水管4小时可以排完满池水。水池建成后，发现水池漏水。这时，若同时打开进水管和出水管14小时才能把水池注满。则当池水注满，并且关闭进水管与出水管时，经过          小时池水就会漏完。
+【考点】工程问题          【难度】4星          【题型】解答
+【关键词】希望杯 
+设满水池水位单位“1”，水池漏水相当于一个工作效率为 EMBED Equation.DSMT4  的出水管，因此关闭进水管与出水管，经过84小时池水就会漏完
+【答案】84小时
+
+蓄水池有一条进水管和一条排水管．要灌满一池水，单开进水管需 EMBED Equation.DSMT4  小时；排光一池水，单开排水管需 EMBED Equation.DSMT4  小时．现在池内有半池水，如果按进水，排水，进水，排水……的顺序轮流各开 EMBED Equation.DSMT4  小时．问：多长时间后水池的水刚好排完？(精确到分钟)
+【考点】工程问题          【难度】4星          【题型】解答 
+法一：
+ EMBED Equation.DSMT4  小时排水比 EMBED Equation.DSMT4  小时进水多 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，说明排水开了 EMBED Equation.DSMT4  小时后（实际加上进水3小时，已经过去 EMBED Equation.DSMT4  小时了），水池还剩一池子水的 EMBED Equation.DSMT4  ，
+再过 EMBED Equation.DSMT4  小时，水池里的水为一池子水的 EMBED Equation.DSMT4  ，
+把这些水排完需要 EMBED Equation.DSMT4  小时，不到1小时，
+所以共需要  EMBED Equation.DSMT4  小时 EMBED Equation.DSMT4  小时 EMBED Equation.DSMT4  分．
+法二：
+ EMBED Equation.DSMT4  小时排水比 EMBED Equation.DSMT4  小时进水多 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，
+说明 EMBED Equation.DSMT4  小时以后，水池的水全部排完，并且多排了一池子水的 EMBED Equation.DSMT4  ，
+排一池子需要 EMBED Equation.DSMT4  小时，排一池子水的 EMBED Equation.DSMT4  需要 EMBED Equation.DSMT4  小时，
+所以实际需要 EMBED Equation.DSMT4  小时 EMBED Equation.DSMT4  小时 EMBED Equation.DSMT4  分．
+【答案】 EMBED Equation.DSMT4  小时 EMBED Equation.DSMT4  分
+
+一项工程，甲、乙合作 EMBED Equation.DSMT4  小时可以完成，若第 EMBED Equation.DSMT4  小时甲做，第 EMBED Equation.DSMT4  小时乙做，这样交替轮流做，恰好整数小时做完；若第 EMBED Equation.DSMT4  小时乙做，第 EMBED Equation.DSMT4  小时甲做，这样交替轮流做，比上次轮流做要多 EMBED Equation.DSMT4  小时，那么这项工作由甲单独做，要用多少小时才能完成？
+【考点】工程问题          【难度】4星          【题型】解答 
+若第一种做法的最后一小时是乙做的，那么甲、乙共做了偶数个小时，那么第二种做法中甲、乙用的时间应与第一种做法相同，不会多 EMBED Equation.DSMT4  小时，与题意不符．所以第一种做法的最后一小时是甲做的，第二种做法中最后 EMBED Equation.DSMT4  小时是甲做的，而这 EMBED Equation.DSMT4  小时之前的一小时是乙做的，所以乙 EMBED Equation.DSMT4  甲 EMBED Equation.DSMT4  甲，得乙 EMBED Equation.DSMT4  甲．甲、乙工作效率之和为： EMBED Equation.DSMT4  ，甲的工作效率为： EMBED Equation.DSMT4  ，
+         所以甲单独做的时间为 EMBED Equation.DSMT4  (小时)．
+【答案】 EMBED Equation.DSMT4  小时
+
+甲、乙、丙3队要完成A，B两项工程．B工程的工作量比A工程的工作量多 EMBED Equation.DSMT4  ．甲、乙、丙3队单独完成A工程所需时间分别是20天、24天、30天.为了同时完成这两项工程，先派甲队做A工程，乙、丙两队共同做B工程；经过几天后，又调丙队与甲队共同完成A工程．那么，丙队与乙队合作了多少天?
+【考点】工程问题          【难度】4星          【题型】解答 
+设A项工程的工程总量为“1”，那么B工程的工程总量为 EMBED Equation.DSMT4  ，A、B两项工程的工程总量为1+ EMBED Equation.DSMT4  = EMBED Equation.DSMT4  ．而甲、乙、丙合作时的工作效率为 EMBED Equation.DSMT4  + EMBED Equation.DSMT4  + EMBED Equation.DSMT4  = EMBED Equation.DSMT4  ，甲、乙、丙始终在同时工作，所以两项工程同时完成时所需的时间为÷ EMBED Equation.DSMT4  =18(天)．在这18天，乙完成18×= EMBED Equation.DSMT4  的工程量，则B工程中剩下的- EMBED Equation.DSMT4  = EMBED Equation.DSMT4  的工程量是由丙帮助完成，即 EMBED Equation.DSMT4  ÷ EMBED Equation.DSMT4  =15(天)．即丙队与乙队合作了15天．
+【答案】15天
+
+蓄水池有甲、丙两条进水管和乙、丁两条排水管，要灌满一池水，单开甲管需 EMBED Equation.DSMT4  小时，单开丙管需要 EMBED Equation.DSMT4  小时，要排光一池水，单开乙管需要 EMBED Equation.DSMT4  小时，单开丁管需要 EMBED Equation.DSMT4  小时，现在池内有 EMBED Equation.DSMT4  的水，若按甲、乙、丙、丁、甲、乙、丙、丁……的顺序轮流打开 EMBED Equation.DSMT4  小时，问多少时间后水开始溢出水池？
+【考点】工程问题          【难度】5星          【题型】解答 
+甲乙丙丁顺序循环各开 EMBED Equation.DSMT4  小时可进水： EMBED Equation.DSMT4  ，循环 EMBED Equation.DSMT4  次后水池还空： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的工作量由甲管注水需要： EMBED Equation.DSMT4  (小时)，所以经过 EMBED Equation.DSMT4  小时后水开始溢出水池．
+【答案】 EMBED Equation.DSMT4  
+
+一件工程甲单独做 EMBED Equation.DSMT4  小时完成，乙单独做 EMBED Equation.DSMT4  小时完成．现在甲先做 EMBED Equation.DSMT4  小时，然后乙做 EMBED Equation.DSMT4  小时，再由甲做 EMBED Equation.DSMT4  小时，接着乙做 EMBED Equation.DSMT4  小时……两人如此交替工作，完成任务共需多少小时？
+【考点】工程问题          【难度】5星          【题型】解答 
+甲、乙交替各做四次，完成的工作量分别为： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，
+此时剩下的工作量为 EMBED Equation.DSMT4  ．还需甲做 EMBED Equation.DSMT4  (小时)，
+所以共需 EMBED Equation.DSMT4  (小时)．
+【答案】 EMBED Equation.DSMT4  (小时)
+
+甲、乙、丙三人做一件工作，原计划按甲、乙、丙的顺序每人一天轮流去做，恰好整数天做完，若按乙、丙、甲的顺序轮流去做，则比计划多用半天；若按丙、甲、乙的顺序轮流去做，则也比原计划多用半天．已知甲单独做完这件工作要 EMBED Equation.DSMT4  天，且三个人的工作效率各不相同，那么这项工作由甲、乙、丙三人一起做，要用多少天才能完成？
+【考点】工程问题          【难度】5星          【题型】解答 
+首先应确定按每一种顺序去做的时候最后一天由谁来完成．如果按甲、乙、丙的顺序去做，最后一天由丙完成，那么按乙、丙、甲的顺序和丙、甲、乙的顺序去做时用的天数将都与按甲、乙、丙的顺序做用的天数相同，这与题意不符；如果按甲、乙、丙的顺序去做，最后一天由乙完成，那么按乙、丙、甲的顺序去做，最后由甲做了半天来完成，这样有 EMBED Equation.DSMT4  ，可得 EMBED Equation.DSMT4  ；而按丙、甲、乙的顺序去做，最后由乙做了半天来完成，这样有 EMBED Equation.DSMT4  ，可得 EMBED Equation.DSMT4  ．那么 EMBED Equation.DSMT4  ，即甲、乙的工作效率相同，也与题意不合．所以按甲、乙、丙的顺序去做，最后一天是由甲完成的．那么有 EMBED Equation.DSMT4  ，可得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．这项工作由甲、乙、丙三人一起做，要用 EMBED Equation.DSMT4  天．
+【答案】 EMBED Equation.DSMT4  天
+
+甲、乙、丙三人完成一件工作，原计划按甲、乙、丙顺序每人轮流工作一天，正好整数天完成，若按乙、丙、甲的顺序每人轮流工作一天，则比原计划多用 EMBED Equation.DSMT4  天；若按丙、甲、乙的顺序每人轮流工作一天，则比原计划多用 EMBED Equation.DSMT4  天．已知甲单独完成这件工作需 EMBED Equation.DSMT4  天．问：甲、乙、丙一起做这件工作，完成工作要用多少天？
+【考点】工程问题          【难度】5星          【题型】解答 
+以甲、乙、丙各工作一天为一个周期，即3天一个周期．容易知道，第一种情况下一定不是完整周期内完成，但是在本题中，有两种可能，第一种可能是完整周期 EMBED Equation.DSMT4  天，第二种可能是完整周期 EMBED Equation.DSMT4  天．如果是第一种可能，有 EMBED Equation.DSMT4  ，得 EMBED Equation.DSMT4  ．然而此时甲、乙、丙的效率和为 EMBED Equation.DSMT4  ，经过4个周期后完成 EMBED Equation.DSMT4  ，还剩下 EMBED Equation.DSMT4  ，而甲每天完成 EMBED Equation.DSMT4  ，所以剩下的 EMBED Equation.DSMT4  不可能由甲1天完成，即所得到的结果与假设不符，所以假设不成立．
+再看第二种可能：
+
+完整周期
+不完整周期
+完成总工程量
+第一种情况
+ EMBED Equation.DSMT4  个周期
+甲1天，乙1天
+“1”
+第二种情况
+ EMBED Equation.DSMT4  个周期
+乙1天，丙1天，甲 EMBED Equation.DSMT4  天
+“1”
+第三种情况
+ EMBED Equation.DSMT4  个周期
+丙1天，甲1天，乙 EMBED Equation.DSMT4  天
+“1”
+可得 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．因为甲单独做需 EMBED Equation.DSMT4  天，所以工作效率为 EMBED Equation.DSMT4  ，于是乙的工作效率为 EMBED Equation.DSMT4  ，丙的工作效率为 EMBED Equation.DSMT4  ．
+于是，一个周期内他们完成的工程量为 EMBED Equation.DSMT4  ．则需 EMBED Equation.DSMT4  个完整周期，剩下 EMBED Equation.DSMT4  的工程量；正好甲、乙各一天完成．所以第二种可能是符合题意的．于是，根据第二种可能得出的工作效率，甲、乙、丙合作一天完成的工程量是 EMBED Equation.DSMT4  ，所以三人合作完成工作需要 EMBED Equation.DSMT4  天．
+【答案】 EMBED Equation.DSMT4  天
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+2-3-4.工程问题.题库	                                 教师版                                      page  PAGE 16 of  NUMPAGES 16
+
+
+
+工程问题（二）
+
+教学目标
+
+知识精讲
+
+例题精讲
+
+
+

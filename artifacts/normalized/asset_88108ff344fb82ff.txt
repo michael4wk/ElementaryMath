@@ -1,0 +1,154 @@
+ 
+
+
+
+
+
+
+
+
+ SHAPE  \* MERGEFORMAT 
+
+1.利用整除及奇偶性解不定方程
+2.不定方程的试值技巧
+3.学会解不定方程的经典例题
+
+ SHAPE  \* MERGEFORMAT 
+一、知识点说明
+历史概述
+不定方程是数论中最古老的分支之一．古希腊的丢番图早在公元 EMBED Equation.DSMT4  世纪就开始研究不定方程，因此常称不定方程为丢番图方程．中国是研究不定方程最早的国家，公元初的五家共井问题就是一个不定方程组问题，公元 EMBED Equation.DSMT4  世纪的《张丘建算经》中的百鸡问题标志着中国对不定方程理论有了系统研究．宋代数学家秦九韶的大衍求一术将不定方程与同余理论联系起来．
+考点说明
+在各类竞赛考试中，不定方程经常以应用题的形式出现，除此以外，不定方程还经常作为解题的重要方法贯穿在行程问题、数论问题等压轴大题之中．在以后初高中数学的进一步学习中，不定方程也同样有着重要的地位，所以本讲的着重目的是让学生学会利用不定方程这个工具，并能够在以后的学习中使用这个工具解题。
+二、不定方程基本定义
+1、定义：不定方程（组）是指未知数的个数多于方程个数的方程（组）。
+2、不定方程的解：使不定方程等号两端相等的未知数的值叫不定方程的解，不定方程的解不唯一。
+3、研究不定方程要解决三个问题：①判断何时有解；②有解时确定解的个数；③求出所有的解
+三、不定方程的试值技巧
+1、奇偶性
+2、整除的特点（能被2、3、5等数字整除的特性）
+3、余数性质的应用（和、差、积的性质及同余的性质）
+
+ SHAPE  \* MERGEFORMAT 
+模块一、利用整除性质解不定方程
+求方程 2x－3y＝8的整数解
+【考点】不定方程          【难度】2星          【题型】解答 
+方法一：由原方程，易得 2x＝8＋3y，x＝4＋ EMBED Equation.DSMT4  y，因此，对y的任意一个值，都有一个x与之对应，并且，此时x与y的值必定满足原方程，故这样的x与y是原方程的一组解，即原方程的解可表为： EMBED Equation.DSMT4  ，其中k为任意数．说明  由y取值的任意性，可知上述不定方程有无穷多组解．
+方法二：根据奇偶性知道2x是偶数，8为偶数，所以若想2x－3y＝8成立，y必为偶数，
+当y＝0，x＝4；当y＝2，x＝7；当y＝4，x＝10……，本题有无穷多个解。
+【答案】无穷多个解
+
+求方程2x＋6y＝9的整数解
+【考点】不定方程          【难度】2星          【题型】解答 
+因为2x＋6y＝2(x＋3y)，所以，不论x和y取何整数，都有2|2x＋6y，但2 EMBED Equation.DSMT4  9，因此，不论x和y取什么整数，2x＋6y都不可能等于9，即原方程无整数解．
+说明：此题告诉我们并非所有的二元一次方程都有整数解。
+【答案】无整数解
+
+求方程4x＋10y＝34的正整数解
+【考点】不定方程          【难度】2星          【题型】解答 
+因为4与10的最大公约数为2，而2|34，两边约去2后，得 2x＋5y＝17，5y的个位是0或5两种情况，2x是偶数，要想和为17，5y的个位只能是5，y为奇数即可；2x的个位为2，所以x的取值为1、6、11、16……
+x＝1时，17－2x＝15，y＝3，
+x＝6时，17－2x＝ 5，y＝1，
+x＝11时，17－2x＝17 －22，无解
+所以方程有两组整数解为： EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+求方程3x＋5y＝12的整数解
+【考点】不定方程          【难度】2星          【题型】解答 
+由3x＋5y＝12，3x是3的倍数，要想和为12（3的倍数），5y也为3的倍数，所以y为3的倍数即可，所以y的取值为0、3、6、9、12……
+y＝0时，12－5y＝12，x＝4，
+x＝3时，12－5y＝12－15，无解
+所以方程的解为： EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+解不定方程： EMBED Equation.DSMT4  （其中x,y均为正整数）
+【考点】不定方程          【难度】2星          【题型】解答 
+方法一：2x是偶数，要想和为40（偶数），9y也为偶数，即y为偶数，也可以化简方程 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  知道y为偶数，所以方程解为： EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+模块二、利用余数性质解不定方程
+求不定方程 EMBED Equation.DSMT4  的正整数解有多少组？
+【考点】不定方程          【难度】3星          【题型】解答 
+本题无论 EMBED Equation.DSMT4  或是 EMBED Equation.DSMT4  ，情况都较多，故不可能逐一试验．检验可知1288是7的倍数，所以 EMBED Equation.DSMT4  也是7的倍数，则 EMBED Equation.DSMT4  是7的倍数．
+设 EMBED Equation.DSMT4  ，原方程可变为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  可以为1，2，3，……16．由于每一个 EMBED Equation.DSMT4  的值都确定了原方程的一组正整数解，所以原方程共有16组正整数解．
+【答案】16组
+
+求方程3x＋5y＝31的整数解
+【考点】不定方程          【难度】3星          【题型】解答 
+方法一：利用欧拉分离法，由原方程，得 x＝ EMBED Equation.DSMT4  ，即  x＝10－2y＋ EMBED Equation.DSMT4  ，要使方程有整数解 EMBED Equation.DSMT4  必须为整数．
+取y＝2，得x＝10－2y＋ EMBED Equation.DSMT4  ＝10－4＋1＝7，故x＝7，y＝2
+当y＝5，得x＝10－2y＋ EMBED Equation.DSMT4  ＝10－10＋2＝2，故x＝2，y＝5
+当y＝8，得x＝10－2y＋ EMBED Equation.DSMT4  ＝10－16＋3无解
+        所以方程的解为： EMBED Equation.DSMT4  
+方法二：利用余数的性质
+3x是3的倍数，和31除以3余1，所以5y除以3余1（2y除以3余1），根据这个情况用余数的和与乘积性质进行判定为：
+取y＝1，2y＝2，2÷3＝0……2（舍）
+ y＝2，2y＝4，4÷3＝1……1（符合题意）
+ y＝3，2y＝6，6÷3＝2（舍）
+y＝4，2y＝8，8÷3＝2……2（舍）
+y＝5，2y＝10，10÷3＝3……1（符合题意）
+y＝6，2y＝12，12÷3＝4（舍）
+当y＞6时，结果超过31，不符合题意。
+所以方程的解为： EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+解方程 EMBED Equation.DSMT4  ，（其中x、y均为正整数）
+【考点】不定方程          【难度】3星          【题型】解答 
+方法一： EMBED Equation.DSMT4  ，4y是4的倍数，和89除以4余1，所以7x除以4余1（7÷4≡3），可以看成3x除以4余1，根据这个情况用余数的和与乘积性质进行判定为（x＜13）
+x＝1，3x＝3，3÷4≡3（舍）
+x＝2，3x＝6，6÷4≡2（舍）
+x＝3，3x＝9，9÷4≡1（符合题意）
+x＝4，3x＝12，12÷4≡0（舍）
+x＝5，3x＝15，15÷4≡3（舍）
+x＝6，3x＝18，18÷4≡2（舍）
+x＝7，3x＝21，21÷4≡1（符合题意）
+x＝8，3x＝24，24÷4≡0（舍）
+x＝9，3x＝27，27÷4≡3（舍）
+x＝10，3x＝30，30÷4≡2（舍）
+x＝11，3x＝33，33÷4≡1（符合题意）
+x＝12，3x＝36，36÷4≡0（舍）
+所以方程的解为： EMBED Equation.DSMT4  
+方法二：利用欧拉分离法，由原方程， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的取值为4的倍数即可，所以方程的解为： EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+模块三、解不定方程组
+解方程 EMBED Equation.DSMT4    （  其中a、b、c均为正整数 ）
+【考点】不定方程          【难度】3星          【题型】解答 
+根据等式的性质将第一个方程整理得 EMBED Equation.DSMT4  ，根据消元的思想将第二个式子扩大4倍相减后为： EMBED Equation.DSMT4  ，整理后得 EMBED Equation.DSMT4  ，根据等式性质， EMBED Equation.DSMT4  为偶数，20为偶数，所以 EMBED Equation.DSMT4  为偶数，所以 EMBED Equation.DSMT4  为偶数，当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以无解。所以方程解为 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+解不定方程 EMBED Equation.DSMT4    (其中x、y、z均为正整数)
+【考点】不定方程          【难度】3星          【题型】解答 
+根据等式的性质将第一个方程整理得 EMBED Equation.DSMT4  ，根据消元思想与第二个式子相减得 EMBED Equation.DSMT4  ，根据等式的性质两边同时除以2得： EMBED Equation.DSMT4  ，根据等式性质 EMBED Equation.DSMT4  为4的倍数，100为4的倍数，所以 EMBED Equation.DSMT4  为4的倍数，所以 EMBED Equation.DSMT4  为4的倍数试值如下 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+3-2-3.不定方程与不定方程组.题库	                               教师版                          page  PAGE 5 of  NUMPAGES 5
+
+
+
+不定方程与不定方程组
+
+教学目标
+
+知识精讲
+
+例题精讲
+
+
+

@@ -1,0 +1,240 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+了解整除的性质；
+运用整除的性质解题；
+整除性质的综合运用.
+
+ SHAPE  \* MERGEFORMAT 
+一、常见数字的整除判定方法
+1. 一个数的末位能被2或5整除，这个数就能被2或5整除；
+一个数的末两位能被4或25整除，这个数就能被4或25整除；
+一个数的末三位能被8或125整除，这个数就能被8或125整除；
+2. 一个位数数字和能被3整除，这个数就能被3整除；
+一个数各位数数字和能被9整除，这个数就能被9整除；
+3. 如果一个整数的奇数位上的数字之和与偶数位上的数字之和的差能被11整除，那么这个数能被11整除.
+4. 如果一个整数的末三位与末三位以前的数字组成的数之差能被7、11或13整除，那么这个数能被7、11或13整除.
+5.如果一个数能被99整除，这个数从后两位开始两位一截所得的所有数（如果有偶数位则拆出的数都有两个数字，如果是奇数位则拆出的数中若干个有两个数字还有一个是一位数）的和是99的倍数，这个数一定是99的倍数。
+
+【备注】（以上规律仅在十进制数中成立.）
+二、整除性质
+性质1  如果数a和数b都能被数c整除，那么它们的和或差也能被c整除．即如果c︱a，
+c︱b，那么c︱(a±b)．
+性质2  如果数a能被数b整除，b又能被数c整除，那么a也能被c整除．即如果b∣a，
+c∣b，那么c∣a．
+用同样的方法，我们还可以得出：
+性质3  如果数a能被数b与数c的积整除，那么a也能被b或c整除．即如果bc∣a，那
+么b∣a，c∣a．
+性质4  如果数a能被数b整除，也能被数c整除，且数b和数c互质，那么a一定能被b
+与c的乘积整除．即如果b∣a，c∣a，且(b，c)=1，那么bc∣a．
+       例如：如果3∣12，4∣12，且(3，4)=1，那么(3×4) ∣12．
+性质5  如果数a能被数b整除，那么am也能被bm整除．如果 b｜a，那么bm｜am（m为非0整数）；
+性质6  如果数a能被数b整除，且数c能被数d整除，那么ac也能被bd整除．如果 b｜a ，且d｜c ，那么bd｜ac；
+
+ SHAPE  \* MERGEFORMAT 
+
+综合系列
+
+甲、乙两个三位数的乘积是一个五位数，这个五位数的后四位为1031．如果甲数的数字和为10，乙数的数字和为8，那么甲乙两数之和是_________．
+【考点】整除之综合系列    【难度】3星   【题型】填空
+【关键词】迎春杯，高年级，初赛，第2题
+根据弃九法可得知，乘积是 EMBED Equation.DSMT4  ，适当组合可得知两数为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，和为360．
+【答案】 EMBED Equation.DSMT4  
+
+有5个不同的正整数，它们中任意两数的乘积都是12的倍数，那么这5个数之和的最小值是________． 
+【考点】整除之综合系列   【难度】3星   【题型】填空
+【关键词】迎春杯，六年级，初赛，第7题)
+为了5个数的和最小，那么12=1×12=2×6=3×4。（1）若为1、12、□、□、□，那么后面的三个数必须是12的倍数，最小为24、36、48，和为121；（2）若为2、6、□、□、□，那么后面的三个数必须是6的倍数，最小为12、18、24，和为62；（3）若为3、4、□、□、□，那么后面的三个数必须是12的倍数，最小为12、24、36，和为79；综上所述，得到的最小值为62。
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  是个四位数字。数学老师说：“我在这个 EMBED Equation.DSMT4  中先后填入3个数字，所得到的3个四位数，依次可被9、11、6整除。”问：数学老师先后填入的3个数字的和是多少？ 
+【考点】整除之综合系列   【难度】3星   【题型】解答
+用1730试除，1730÷9=192……2，1730÷1l=157……3，1730÷6=288……2．所以依次添上(9-2=)7、(11-3=)8、(6-2=)4后得到的1737、1738、1734依次能被9、11、6整除．所以，这三种情况下填入口内的数字的和为7+8+4=19．
+【答案】19
+
+ EMBED Equation.DSMT4  是2008的倍数． EMBED Equation.DSMT4  _________
+【考点】整除之综合系列   【难度】4星   【题型】填空
+【关键词】走美杯，五年级，初赛，第6题
+根据能被4整除的数的特征——后两位能被4整除， EMBED Equation.DSMT4  1，3，5，7，9；再根据能被8整除的数的特征——后三位能被8整除，可得 EMBED Equation.DSMT4  1，5，9。分别代入知 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+使得 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的倍数的最小正整数n是		。
+【考点】整除之综合系列   【难度】3星   【题型】填空
+【关键词】学而思杯，5年级，第5题
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  肯定是9的倍数，所以只要考虑7的倍数就可以了。考虑到111111是7的倍数， EMBED Equation.DSMT4  ，所以最小的n是6. 
+【答案】 EMBED Equation.DSMT4  
+
+如果六位数 EMBED Equation.DSMT4  能被105整除，那么它的最后两位数是多少？ 
+【考点】整除之综合系列   【难度】3星   【题型】填空
+因为 EMBED Equation.DSMT4  ，所以这个六位数同时满足能被3、7、5整除的数的特征即可． 方法一：利用整除特征 末位只能为0或5． ① 如果末位填入0，那么数字和为 EMBED Equation.DSMT4  □ EMBED Equation.DSMT4  □，要求数字和是3的倍数，所以□    可以为0，3，6，9，验证 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，    有91是7的倍数，即 EMBED Equation.DSMT4  是7的倍数，所以题中数字的末两位为90． ② 如果末位填入5，同上解法，验证没有数同时满足能被3、7、5整除的特征． 所以，题中数的末两位只能是90． 方法二：采用试除法 用 EMBED Equation.DSMT4  试除， EMBED Equation.DSMT4  ，余15可以看成不足， EMBED Equation.DSMT4    EMBED Equation.DSMT4  ．所以补上90，即在末两位的方格内填入90即可．
+【答案】90
+
+六位数20 EMBED Equation.DSMT4  08能被49整除， EMBED Equation.DSMT4  中的数是多少？ 
+【考点】整除之综合系列   【难度】3星   【题型】填空
+200008被49除商4081余39，所以 EMBED Equation.DSMT4  能被49整除，商11时， EMBED Equation.DSMT4  ，末两位是39，所以 EMBED Equation.DSMT4  为05。
+【答案】05
+
+在六位数11 EMBED Equation.DSMT4  11中的两个方框内各填入一个数字，使此数能被17和19整除，那么方框中的两位数是多少? 
+【考点】整除之综合系列   【难度】4星   【题型】填空
+采用试除法.设六位数为 EMBED Equation.DSMT4  如果一个数能同时被17和19整除，那么一定能被323整除． EMBED Equation.DSMT4  ，余191也可以看成不足 EMBED Equation.DSMT4  ．所以当 EMBED Equation.DSMT4   EMBED Equation.DSMT4  时，即 EMBED Equation.DSMT4  是100的倍数时，六位数才是323的倍数．所以有 EMBED Equation.DSMT4  的末位只能是 EMBED Equation.DSMT4  ，所以n只能是6，16，26， EMBED Equation.DSMT4  验证有 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ，所以原题的方框中填入5，3得到的115311满足题意．
+【答案】115311
+
+某个七位数1993□□□能够同时被2，3，4，5，6，7，8，9整除，那么它的最后三位数字依次是多少？ 
+【考点】整除之综合系列   【难度】4星   【题型】填空
+本题可采用整除数字的判定特征进行判断，但是太过繁琐。采用试除法比较方便，若使得7位数能够同时被2，3，4，5，6，7，8，9整除，只要让七位数是2，3，4，5，6，7，8，9最小公倍数的倍数即可。【2，3，4，5，6，7，8，9】=2520.用1993000试除，1993000÷2520=790……2200，余2200可以看成不足2520-2200=320，所以在末三位的方格内填入320即可．
+【答案】320
+
+在523后面写出三个数字，使所得的六位数被7、8、9整除．那么这三个数字的和是多少? 
+【考点】整除之综合系列   【难度】4星   【题型】解答
+7、8、9的最小公倍数是504，所得六位数应被504整除。 EMBED Equation.DSMT4  ，所以所得六位数是 EMBED Equation.DSMT4  ，或 EMBED Equation.DSMT4  ．因此三个数字的和是17或8．
+【答案】17或8
+
+用数字6，7，8各两个，组成一个六位数，使它能被168整除。这个六位数是多少？ 
+【考点】整除之综合系列   【难度】3星   【题型】解答
+因为168=8×3×7，所以组成的六位数可以被8、3、7整除．
+能够被8整除的数的特征是末三位组成的数一定是8的倍数，末两位组成的数一定是4的倍数，末位为偶数．在题中条件下，验证只有688、768是8的倍数，所以末三位只能是688或768，而又要求是7的倍数，由例8知 EMBED Equation.DSMT4  形式的数一定是7、11、13的倍数，所以768768一定是7的倍数，□□□688的□不管怎么填都得不到7的倍数．
+至于能否被3整除可以不验证，因为整除3的数的规律是数字和为3的倍数，在题中给定的条件下，不管怎么填数字和都是定值。
+所以768768能被168整除，且验证没有其他满足条件的六位数．
+【答案】768768
+
+一个十位数，如果各位上的数字都不相同，那么就称为“十全数”，例如，3785942160就是一个十全数．现已知一个十全数能被1，2，3，…，18整除，并且它的前四位数是4876，那么这个十全数是多少？ 
+【考点】整除之综合系列   【难度】5星   【题型】解答
+这个十全数能被10整除，个位数字必为0；能被4整除，十位数字必为偶数，末两位只能是20．设这个十全数为 EMBED Equation.DSMT4  ．由于它能被11整除，所以奇位数上的数字之和与偶位数上的数字之和的差能被11整除，即 EMBED Equation.DSMT4  被11整除，可能是 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ．由于 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  四个数分别为1、3、5、9中的一个，只能是 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ．所以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  是9和5； EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  是3和1，这个十全数只能是4876391520，4876351920，4876193520，4876153920中的一个．由于它能被7、13、17整除，经检验，只有4876391520符合条件．
+【答案】4876391520
+
+将数字4，5，6，7，8，9各使用一次，组成一个被667整除的6位数，那么，这个6位数除以667的结果是多少？ 
+【考点】整除之综合系列   【难度】4星   【题型】解答
+【关键词】2009年，迎春杯，五年级,初赛，第8题
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  各用一次后，各位数字之和为 EMBED Equation.DSMT4  ，即这个六位数应该为 EMBED Equation.DSMT4  的倍数，所以这个数应该是 EMBED Equation.DSMT4  的倍数．一个首位数字超过 EMBED Equation.DSMT4  的六位数除以 EMBED Equation.DSMT4  得到的商应该是三位数．而该三位数的商乘以 EMBED Equation.DSMT4  后所得六位数（即原六位数）的末三位即为该商，而前三位是该商的两倍，所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  这 EMBED Equation.DSMT4  个数字应该组成两个三位数，其中一个三位数是另一个的 EMBED Equation.DSMT4  倍，所以两个三位数的首位数字，大者应至少是小者的两倍，显然的较小的那个三位数的首位只能是 EMBED Equation.DSMT4  ，较大的那个三位数的首位可能是 EMBED Equation.DSMT4  ，也可能是 EMBED Equation.DSMT4  ，而较小的那个三位数的个位只能是 EMBED Equation.DSMT4  ，才能使较大的那个三位数的个位数字能被取到，进一步试验可得到这个六位数是 EMBED Equation.DSMT4  ，这个 EMBED Equation.DSMT4  位数除以 EMBED Equation.DSMT4  后的得数为 EMBED Equation.DSMT4  ．
+【答案】956478÷667=1434
+
+某住宅区有12家住户，他们的门牌号分别是1，2，…，12．他们的电话号码依次是12个连续的六位自然数，并且每家的电话号码都能被这家的门牌号整除，已知这些电话号码的首位数字都小于6，并且门牌号是9的这一家的电话号码也能被13整除，问：这一家的电话号码是什么数？
+【考点】整除之综合系列   【难度】4星   【题型】解答 
+设第一户电话号是 EMBED Equation.DSMT4  ，第二户的电话号是 EMBED Equation.DSMT4  ，…．第12户的电话号是 EMBED Equation.DSMT4  ．
+根据条件可知 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的倍数( EMBED Equation.DSMT4  ，2，…，12)，因此 EMBED Equation.DSMT4  是1，2，…，12的公倍数．
+而 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ．
+又 EMBED Equation.DSMT4  是13的倍数，而27720除以13余数为4，所以 EMBED Equation.DSMT4  是13的倍数，则 EMBED Equation.DSMT4  ，14，27，……
+第9户的电话号码是 EMBED Equation.DSMT4  ，是一个首位数字小于6的六位数，所以 EMBED Equation.DSMT4  取14合适；
+因此这一家的电话号码是 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+在六位数 EMBED Equation.DSMT4  中，不同的字母表示不同的数字，且满足 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  依次能被2，3，5，7，11，13整除．则 EMBED Equation.DSMT4  的最小值是        ；已知当 EMBED Equation.DSMT4  取得最大值时 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  的最大值是________．
+【考点】整除之综合系列   【难度】4星   【题型】填空
+【关键词】学而思杯，5年级，第14题
+求最小值，先看 EMBED Equation.DSMT4  ,最小偶数为 EMBED Equation.DSMT4  ，然后 EMBED Equation.DSMT4  被 EMBED Equation.DSMT4  整除， EMBED Equation.DSMT4  最小为 EMBED Equation.DSMT4  ，然后依次推出 EMBED Equation.DSMT4  . EMBED Equation.DSMT4  , EMBED Equation.DSMT4  , EMBED Equation.DSMT4  求最大值与上述方法类似。最后求出最大值为 EMBED Equation.DSMT4  
+【答案】210769； EMBED Equation.DSMT4  
+
+有一个九位数 EMBED Equation.DSMT4  的各位数字都不相同且全都不为0，并且二位数 EMBED Equation.DSMT4  可被2整除，三位数
+ EMBED Equation.DSMT4  可被3整除，四位数 EMBED Equation.DSMT4  可被4整除，……依此类推，九位数 EMBED Equation.DSMT4  可被9整除．请问这个	九位数 EMBED Equation.DSMT4  是多少？ 
+【考点】整除之综合系列   【难度】5星   【题型】填空
+由题可知这个九位数由数字1～9组成，其中每个数字出现一次，且 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  都是偶数， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  是奇数．由于 EMBED Equation.DSMT4  可被5整除，所以 EMBED Equation.DSMT4  ．
+由于 EMBED Equation.DSMT4  可被3整除，所以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  三个数之和可被3整除．由于 EMBED Equation.DSMT4  可被6整除，所以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  三个数之和可被3整除．
+由于 EMBED Equation.DSMT4  可被4整除，所以 EMBED Equation.DSMT4  可被4整除，而 EMBED Equation.DSMT4  是奇数，所以 EMBED Equation.DSMT4  只能为2或6．由 EMBED Equation.DSMT4  可被8整除知 EMBED Equation.DSMT4  可被4整除，所以 EMBED Equation.DSMT4  可被4整除，同上可知 EMBED Equation.DSMT4  也只能为2或6．所以有如下两种情况：
+⑴ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．此时 EMBED Equation.DSMT4  可被3整除， EMBED Equation.DSMT4  只能为8．那么 EMBED Equation.DSMT4  为4．由于 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  三个数之和可被3整除，而 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  为1、3、7、9中的某两个，所以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  为1和7．那么 EMBED Equation.DSMT4  为3或9，其中满足 EMBED Equation.DSMT4  可被8整除的只有9，所以 EMBED Equation.DSMT4  为9， EMBED Equation.DSMT4  为3．此时 EMBED Equation.DSMT4  为1472589或7412589，但这两个数都不能被7整除，不符题意；
+⑵ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．此时 EMBED Equation.DSMT4  可被3整除， EMBED Equation.DSMT4  只能为4．那么 EMBED Equation.DSMT4  为8．此时 EMBED Equation.DSMT4   可被8整除，所以 EMBED Equation.DSMT4  为3或7．又 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  三个数之和可被3整除，而 EMBED Equation.DSMT4  为8，所以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  可以为(1，3)、(1，9)、(7，3)或(7，9)，所以此时 EMBED Equation.DSMT4  有8种可能情况：189654327；981654327；789654321；987654321；183654729；381654729；189654723；981654723．经检验，其中只有381654729满足 EMBED Equation.DSMT4  能被7整除，所以所求的 EMBED Equation.DSMT4  是381654729．
+【答案】381654729
+
+用数字0、1、2、3、4、5、6、7、8、9拼成一个十位数。要求前1位数能被2整除，前2位数能被3整除，……，前9位数能被10整除．已知最高位数为8．这个十位数是                    
+【考点】整除之综合系列   【难度】4星   【题型】填空
+【关键词】走美杯，5年级，决赛，第8题，10分
+由前9位数能被10整除，可知第九位数字为0，前四位能被5整除，可知第四位数字为5，前8位数能被9整除，即前八位数字和为9的倍数，而所有数字本身就是9的倍数，所以第十位数字只能是9，前两位数能被3整除，故第二位数字只能是1、4或7，如果第二位数字是4，则找不到前三位数能被4整除，故第二位数字只能是1或7，则第三位数字只能是2或6，结合前五位能被6整除知只能是前五位87654或81654，前七位数字能被8整除，知第七位数字是2．由前6位数字能被7整除，经试验唯一可能是816543，故7必在第八位上，故这个数应为8165432709．
+【答案】 EMBED Equation.DSMT4  
+
+N是一个各位数字互不相等的自然数，它能被它的每个数字整除．N的最大值是      ．
+【考点】整除之综合系列   【难度】4星   【题型】填空
+【关键词】走美杯，5年级，决赛，第7题，10分
+N不能含有0，因为不能被0除。N不能同时含有5和偶数，因为此时N的个位将是0。如果含有5，则2，4，6，8都不能有，此时位数不会多。如果N只缺少5，则含有1，2，3，4，6，7，8，9，但是数字和为40，不能被9整除。所以必须再去掉一位，为了最大，应该保留9放到最高位，为了使数字和被9整除，还需要去掉4。此时由1，2，3，6，7，8，9组成，肯定被9整除，还需要考虑被7和8整除。
+前四位最大为9876，剩下三个数字组成的被8整除的三位数为312，9876312被7除余5；
+前四位如果取9873，剩下三个数字组成的被8整除的三位数为216，9873216被7除余3；
+前四位如果取9872，剩下三个数字组成的被8整除的三位数为136，9872136被7除余1；
+前四位如果取9871，剩下三个数字组成的被8整除的三位数为632，9871632被7除余1；
+前四位如果取9867，剩下三个数字组成的被8整除的三位数为312，9867312被7整除。
+【答案】9867312
+
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  各代表一个不同的非零数字，如果 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的倍数， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的倍数， EMBED Equation.DSMT4   是 EMBED Equation.DSMT4  的倍数， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的倍数，那么 EMBED Equation.DSMT4  是         。
+【考点】整除之综合系列   【难度】4星   【题型】填空
+【关键词】学而思杯，6年级，第14题
+由于 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的倍数，说明其各位数字之和能被 EMBED Equation.DSMT4  整除；由于 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的各位数字之和相同，所以 EMBED Equation.DSMT4  也是 EMBED Equation.DSMT4  的倍数；由于 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的倍数，那么其奇位数字之和与偶位数字之和的差能被 EMBED Equation.DSMT4  整除，也就是 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的差能被 EMBED Equation.DSMT4  整除，而 EMBED Equation.DSMT4  的奇位数字之和与偶位数字之和分别为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，恰好的差能被 EMBED Equation.DSMT4  整除，恰好与 EMBED Equation.DSMT4  互换了一下，可知 EMBED Equation.DSMT4  的奇位数字之和与偶位数字之和的差也能被 EMBED Equation.DSMT4  整除，也就是 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的倍数；又根据题意， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的倍数，那么 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的公倍数，也就是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的倍数，又是四位数，可能为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，其中 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  出现重复数字，可予排除。由于 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的倍数，说明 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的倍数，对 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，一一进行检验，发现只有 EMBED Equation.DSMT4  满足这一点，所以 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+利用数字0，1，2，3，4， EMBED Equation.DSMT4  ，8，9(每个数字可以重复)构造一个6位数，满足要求：前k位能被k整除( EMBED Equation.DSMT4  ，2， EMBED Equation.DSMT4  ，6)．这样的6位数最小是          ，最大是          ．
+【考点】整除之综合系列   【难度】4星   【题型】填空
+【关键词】走美杯，4年级，决赛，第8题，10分
+⑴ 最小的数先填第一位易知为1，第二位易知被2整除，最小为0，第三位结合前三位被3整除，所以为2，第四位同样结合前四位被4整除为0，同理知第五位为0，第六位可知前三位已能被6整除，所以第六位为0，即此数该为102000．
+⑵ 最大的数方法同上，从首位开始填起，然后取前k位能被k整除的最大数，即可得出结论，最大为 EMBED Equation.DSMT4  ．
+【答案】最小 EMBED Equation.DSMT4  ，最大为 EMBED Equation.DSMT4  
+
+有15位同学，每位同学都有编号，他们是1号到15号，1号同学写了一个自然数，其余各位同学都说这个数能被自己的编号数整除．1号作了检验：只有编号连续的两位同学说的不对，其余同学都对，问：⑴说的不对的两位同学，他们的编号是哪两个连续自然数？⑵如果告诉你1号写的数是五位数，请找出这个数． 
+【考点】整除之综合系列   【难度】4星   【题型】解答
+⑴为了表达方便，不妨设1号同学写的自然数为 EMBED Equation.DSMT4  ．根据 EMBED Equation.DSMT4  号同学所述结论， EMBED Equation.DSMT4  中只有两个连续的自然数不能整除 EMBED Equation.DSMT4  ，其他的数都能整除 EMBED Equation.DSMT4  ．由于 EMBED Equation.DSMT4  中的每一个数的2倍都在15以内，如果 EMBED Equation.DSMT4  中有某个数不能整除 EMBED Equation.DSMT4  ，那么这个数的2倍也不能整除 EMBED Equation.DSMT4  ，然而 EMBED Equation.DSMT4  中的这个数与它的2倍不可能是两个连续的自然数，所以 EMBED Equation.DSMT4  中每一个数都是 EMBED Equation.DSMT4  的约数．由于2与5互质，那么 EMBED Equation.DSMT4  也是 EMBED Equation.DSMT4  的约数．同理可知，12、14、15也都是 EMBED Equation.DSMT4  的约数．还剩下的四个数为8、9、11、13，只有8、9是两个连续的自然数，所以说的不对的两位同学，他们的编号分别是8和9．
+⑵1号同学所写的自然数能被2，3，4，5，6，7，10，11，12，13，14，15这12个数整除，也就是它们的公倍数．它们的最小公倍数是： EMBED Equation.DSMT4  ．因为60060是一个五位数，而这12个数的其他公倍数都是它们的最小公倍数60060的倍数，且最小为2倍，所以均不是五位数，那么1号同学写的五位数是60060．
+【答案】60060
+
+已知： EMBED Equation.DSMT4  ．则 EMBED Equation.DSMT4  ？ 
+【考点】整除之综合系列   【难度】4星   【题型】填空
+【关键词】走美杯，5年级，决赛，第7题，10分
+由于1～23中有4个5的倍数，所以 EMBED Equation.DSMT4  的末尾有4个0，所以 EMBED Equation.DSMT4  ．
+由于 EMBED Equation.DSMT4   ( EMBED Equation.DSMT4  为正整数)，所以
+ EMBED Equation.DSMT4  去掉末尾的4个0后得到的数是8的倍数，那么 EMBED Equation.DSMT4  是8的倍数，所以 EMBED Equation.DSMT4  ．
+易知 EMBED Equation.DSMT4  是9和11的倍数，所以
+ EMBED Equation.DSMT4  是9的倍数；
+ EMBED Equation.DSMT4  是11的倍数，
+那么 EMBED Equation.DSMT4  或15， EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ．
+若 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4   (或 EMBED Equation.DSMT4  )奇偶性相同，所以此时 EMBED Equation.DSMT4  ，得 EMBED Equation.DSMT4  ，不合题意．所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ．
+【答案】2040
+
+为了打开银箱，需要先输入密码，密码由7个数字组成，它们不是1、2就是3．在密码中1的数目比2多，2的数目比3多，而且密码能被3和16所整除．试问密码是多少？ 
+【考点】整除之综合系列   【难度】4星   【题型】解答
+密码由7位数字组成，如果有两个3的话，那么至少是 EMBED Equation.DSMT4  位数，与题意不符；只有一个3的话，那么至少有两个2.如果有三个2，那么1至少有四个，总共至少有 EMBED Equation.DSMT4  个数字，与题意不符，所以2只有两个，1有四个，如此，各数位数字和为 EMBED Equation.DSMT4  ，不是3的倍数，所以密码中没有3，只有1、2，由1、2组成的四位数中只有2112能被16整除（从个位向高数位推得），所以密码的后四位是2112，所以前三位数字和是3的倍数，只有111和222满足条件，其中2222112的2多于1，应予排除，所以这个密码是1112112.
+【答案】1112112
+
+为了打开银箱，需要先输入密码，密码由7个数字组成，它们不是2就是3．在密码中2的数目比3多，而且密码能被3和4所整除．试求出这个密码． 
+【考点】整除之综合系列   【难度】4星   【题型】解答
+密码中的2比3要多，所以2可能有4、5、6或7个．当2有4个时，密码的数字和为17；当2有5个时，数字和为16；当2有6个时，数字和为15；当2有7个时，数字和为14．由于一个数能被3整除时，它的数字和也能被3整除，所以密码中2应当有6个，这样3就只能有1个．另外，一个数能被4整除，那么它的末两位数也应当能被4整除，所以末两位数必定是32．所以，密码是2222232．
+【答案】密码是2222232
+
+盒子里放有编号为1到10的十个球，小明先后三次从盒中共取出九个球，如果从第二次开始，每次取出的球的编号之和是前一次的2倍，那么未取出的球的编号是___________.
+【考点】整除之综合系列   【难度】3星   【题型】填空
+【关键词】迎春杯，中年级，初赛，第11题
+因为从第二次开始每次取出的球的编号是前一次的2倍，由此得出： EMBED Equation.DSMT4  ，三次取出的 EMBED Equation.DSMT4  个球的编号之和必是 EMBED Equation.DSMT4  的倍数。因为 EMBED Equation.DSMT4  个球的编号之和是 EMBED Equation.DSMT4  ，所以取出的 EMBED Equation.DSMT4  个球，编号之和必在 EMBED Equation.DSMT4  之间，期间只有 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的倍数，所以未取出的球的编号为 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+六位自然数， EMBED Equation.DSMT4  能被12整除，末两位数有            种情况。
+【考点】整除之综合系列   【难度】2星   【题型】填空
+【关键词】希望杯，五年级，初赛，第10题，4分
+试除法：108299÷12=9024…11，99-11=88、88-12=76、76-12=64、64-12=52、52-12=40、40-12=28、28-12=16、16-12=04共8种情况
+【答案】 EMBED Equation.DSMT4  种情况
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+5-2-1.数的整除之四大判断法综合运用.题库	                        教师版                           page  PAGE 9 of  NUMPAGES 9
+
+
+
+5-2-1.数的整除之四大判断法
+综合运用
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

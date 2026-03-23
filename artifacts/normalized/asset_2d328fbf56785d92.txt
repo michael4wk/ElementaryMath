@@ -1,0 +1,365 @@
+
+
+
+
+
+
+
+
+ SHAPE  \* MERGEFORMAT 
+掌握较复杂的求平均数应用题的结构特征及解答方法。
+培养学生观察、分析和逻辑推理能力。
+ SHAPE  \* MERGEFORMAT 
+知识点说明：
+平均数问题：
+平均数：总数量÷总份数＝平均数（这个可以和行程问题里面的平均速度要区分并联系）
+
+ SHAPE  \* MERGEFORMAT 
+模块一，简单的平均数问题
+用4个同样的杯子装水，水面高度分别是4厘米，5厘米，7厘米，8厘米，这4个杯子水面平均高度是多少厘米？
+【考点】平均数问题          【难度】1星          【题型】解答 
+求4个杯子水面的平均高度，就相当于把4个杯子里的水合在一起，再平均倒入4个杯子里，看每个杯子里水面的高度．即为： EMBED Equation.DSMT4  （厘米）．
+【答案】 EMBED Equation.DSMT4  
+
+小叶子这学期前 EMBED Equation.DSMT4  次作业的得分分别是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．求小叶子这 EMBED Equation.DSMT4  次作业的平均成绩？
+【考点】平均数问题          【难度】1星          【题型】解答 
+因为本题的“平均成绩=总成绩÷次数”所以先求总成绩，再求平均成绩．即：
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  （分）．
+【答案】 EMBED Equation.DSMT4  
+
+中关村三小有15名同学参加跳绳比赛，他们每分钟跳绳的个数分别为93、94、85、92、86、88、94、91、88、89、92、86、93、90、89，求每个人平均每分钟跳绳多少个？
+【考点】平均数问题          【难度】1星          【题型】解答 
+从他们每人跳绳的个数可以看出，每人跳绳的个数很接近，所以可以选择其中一个数90做为基准数，再找出每个加数与这个基准数的差.大于基准数的差作为加数，如93＝90+3，3作为加数；小于基准数的差作为减数，如 87=90-3，3作为减数.把这些差累计起来，用和数的项数乘以基准数，加上累计差，再除以和数的个数就可以算出结果。
+①跳绳总个数。
+93+94+85+92+86+88+94+91+88+89+92+86+93+90+89
+=90×15+（3+4+2+4+1+2+3）-（5+4+2+2+1+4+1）
+=1350+19-19
+=1350（个）
+②每人平均每分钟跳多少个？
+1350÷15=90（个）
+【答案】90
+
+如图5是小华五次数学测验成绩的统计图。小华五次测验的平均分是        分。
+
+【考点】平均数问题          【难度】1星          【题型】解答 
+【关键词】希望杯，4年级，1试
+（90+95+85+90+100）÷5=92分
+【答案】92
+
+某学生算六个数的平均数，最后一步应除以6，但是他将“÷”错写成“×”，于是得错误分析l800，那么，正确分析是__________。
+【考点】平均数问题          【难度】1星          【题型】解答 
+【关键词】希望杯，五年级，一试
+由题意，6个数的和为：1800÷6=300，所以平均数应为：300÷6=50
+【答案】50
+
+已知8个数的平均数是8，如果把其中一个数改为8后这8个数的平均数变为7，那么这个被改动的数原来是___________。
+【考点】平均数问题   【难度】2星   【题型】填空
+【关键词】希望杯，4年级，初赛，5题
+原来8个数的和是8×8＝64，后来变成了7×8＝56，小了8，所以原数是8＋8＝16
+【答案】 EMBED Equation.DSMT4  
+
+小强的哥哥骑自行车旅游，第一天行32千米，第二天行41千米，第三天行44千米，第四天行的路程比前三天的平均路程还多9千米，第四天行多少千米？
+【考点】平均数问题          【难度】2星          【题型】解答 
+哥哥前三天行的路程平均数是： EMBED Equation.DSMT4  （千米），而第四天比这平均数还多9千米，所以第四天行了 EMBED Equation.DSMT4  （千米）．
+【答案】 EMBED Equation.DSMT4  
+
+一个粮仓，第一天运进大米83吨，第二天运进大米74吨，第三天运进大米71吨，第四天运进大米64吨，第五天运进的大米比四天中平均每天运的还多32吨，第五天运进大米多少吨？
+【考点】平均数问题          【难度】2星          【题型】解答 
+前四天运的大米的平均数是： EMBED Equation.DSMT4  （吨），第五天运进的大米是： EMBED Equation.DSMT4  （吨）．
+【答案】 EMBED Equation.DSMT4  
+
+小晴本周读完了一本故事书．第一天她读了 EMBED Equation.DSMT4  页，接下来的三天平均每天读了 EMBED Equation.DSMT4  页，最后三天读了 EMBED Equation.DSMT4  页．她平均每天读故事书多少页？
+【考点】平均数问题          【难度】2星          【题型】解答 
+要求小晴平均每天读故事书多少页，就要知道这本书的总页数和读完这本书的总天数．故事书的总页数为： EMBED Equation.DSMT4  (页)，总天数为 EMBED Equation.DSMT4  (天)．根据总数量 EMBED Equation.DSMT4  总天数 EMBED Equation.DSMT4  平均数，可得： EMBED Equation.DSMT4  (页)，所以，小晴每天读故事书 EMBED Equation.DSMT4  页．
+【答案】 EMBED Equation.DSMT4  
+
+有五个数，平均数是9，如果把其中的一个数改为1，那么这五个数的平均数是8，这个改动的数原来是多少？
+【考点】平均数问题          【难度】2星          【题型】解答 
+由五个数的平均数是9，可知这五个数的总和是： EMBED Equation.DSMT4  ，其中一个数改为1后，五个数的平均数为8，则现有五个数的总和是： EMBED Equation.DSMT4  ，被改的这个数减少了 EMBED Equation.DSMT4  ，可见这个被改动的数原来是： EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+果品店把3千克水果糖，9千克奶糖混合成什锦糖，已知水果糖每千克7元，奶糖每千克11元，那么什锦糖每千克多少元？
+【考点】平均数问题          【难度】2星          【题型】解答 
+要求混合后的什锦糖每千克的价格，必须知道混合后的总价钱和与总价钱相对应的总质量．什锦糖的总价是： EMBED Equation.DSMT4  （元），什锦糖的总质量是： EMBED Equation.DSMT4  （千克），什锦糖的单价是： EMBED Equation.DSMT4  （元）．
+【答案】 EMBED Equation.DSMT4  
+
+果品店把2千克酥糖，3千克水果糖，5千克奶糖混合成什锦糖.已知酥糖每千克4.40元，水果糖每千克4.20元，奶糖每千克7.20元.问：什锦糖每千克多少元？
+【考点】平均数问题          【难度】2星          【题型】解答 
+要求混合后的什锦糖每千克的价钱，必须知道混合后的总钱数和与总钱数相对应的总千克数。
+①什锦糖的总价：4.40×2+4.20×3+7.20×5＝57.4（元）
+②什锦糖的总千克数： 2＋3＋5＝10（千克）
+③什锦糖的单价：57.4÷10=5.74（元）
+【答案】5.74
+
+一辆摩托车从甲地开往乙地，前2小时每小时行驶60千米，后3小时每小时行驶70千米，平均每小时行驶多少千米？
+【考点】平均数问题          【难度】2星          【题型】解答 
+根据已知条件，先求这辆摩托车行驶的总路程： EMBED Equation.DSMT4  （千米），再求行驶的总时间： EMBED Equation.DSMT4  （小时），最后求出平均每小时行驶的路程，列式如下： EMBED Equation.DSMT4  （千米）．
+【答案】 EMBED Equation.DSMT4  
+
+小新算了一下今年自己的零花钱，他前三个月平均每个月的零花钱是 EMBED Equation.DSMT4  元，四、五月份两个月的零花钱平均是 EMBED Equation.DSMT4  元，那么小新前五个月的零花钱平均是多少元？
+【考点】平均数问题          【难度】2星          【题型】解答 
+要求前五个月的零花钱平均是多少元，则必须知道五个月总共的零花钱是多少元．
+　　　 即有： EMBED Equation.DSMT4  （元）．
+【答案】 EMBED Equation.DSMT4  
+
+小华期末考试时，语文、数学和音乐三科成绩平均分是 EMBED Equation.DSMT4  分，英语成绩公布后，四科平均分下降了 EMBED Equation.DSMT4  分，小华英语成绩是多少分？
+【考点】平均数问题          【难度】2星          【题型】解答 
+方法一：已知三科成绩平均分是 EMBED Equation.DSMT4  分，可以求出三科成绩总分数，英语成绩公布后，四科平均成
+绩是： EMBED Equation.DSMT4  (分)，就可以求出四科的总分数，用四科的总分数减去三科的总分数就是英语的分数．
+⑴ 语文、数学和音乐三科总分数： EMBED Equation.DSMT4  (分)
+⑵ 四科总分数： EMBED Equation.DSMT4  (分)
+⑶ 英语的分数： EMBED Equation.DSMT4  (分)
+综合列式： EMBED Equation.DSMT4  (分)
+方法二：根据平均分自身特点，可以用“移多补少”的方法．英语成绩公布后，平均分下降了 EMBED Equation.DSMT4  分，即四科平均的成绩是 EMBED Equation.DSMT4  (分)，根据题意，可以知道英语成绩低于 EMBED Equation.DSMT4  分，而英语成绩必须加上其他三科补给的分数，才能达到 EMBED Equation.DSMT4  分．由于三科平均成绩下降了 EMBED Equation.DSMT4  分，这样三科共低了 EMBED Equation.DSMT4  (分)，这 EMBED Equation.DSMT4  分补给英语成绩，才达到 EMBED Equation.DSMT4  分，这样就可以求出英语的考试分数．
+⑴ 四科平均分是： EMBED Equation.DSMT4  (分)
+⑵ 原三科共下降了： EMBED Equation.DSMT4  (分)
+⑶ 英语成绩是： EMBED Equation.DSMT4  (分)
+综合列式： EMBED Equation.DSMT4  (分)
+【答案】 EMBED Equation.DSMT4  
+
+在一次动物运动会的60米短跑项目结束后，小鸡发现：小熊、小狗和小兔三人的平均用时为4分钟，而小熊、小狗、小兔和小鸭四人的平均用时为5分钟。请问，小鸭在这项比赛中用时________分钟。
+【考点】平均数问题          【难度】2星          【题型】解答 
+【关键词】希望杯，六年级，二试
+因为小熊、小狗和小兔的平均用时为4分钟，所以总用时为4×3=12（分钟）；因为小熊、小狗、小兔和小鸭的平均用时为5分钟，所以总用时为5×4=20（分钟）；所以，小鸭的用时为20-12=8（分钟）。
+【答案】 EMBED Equation.DSMT4  
+
+在一次数学测验中，包括小明在内的6名同学的平均分为70分，其中小明得了96分，则小明以外的另5位同学的平均分为         分。
+【考点】平均数问题          【难度】2星          【题型】解答 
+【关键词】希望杯，五年级，一试
+6名同学的总分为70×6=420，除去小明的得分后另5名同学的总分为420-96=324。所以5名同学的平均分为324÷5=64.8。
+【答案】 EMBED Equation.DSMT4  
+
+篮球队中四名队员的平均身高是 EMBED Equation.DSMT4  厘米，另一名队员的身高比这五队员的平均身高矮 EMBED Equation.DSMT4  厘米，这名队员的身高是多少？
+【考点】平均数问题          【难度】2星          【题型】解答 
+这名队员比平均身高矮的 EMBED Equation.DSMT4  厘米，是由另四名队员给“补上”的，所以平均身高为 EMBED Equation.DSMT4   (厘米)，这名队员身高 EMBED Equation.DSMT4   (厘米)．或(182×4－8)÷4=180， EMBED Equation.DSMT4  (厘米)．
+【答案】 EMBED Equation.DSMT4  
+
+小林高 EMBED Equation.DSMT4  厘米，小强高 EMBED Equation.DSMT4  厘米，小刚比他们三人的平均身高要高 EMBED Equation.DSMT4  厘米．问小刚的身高是多少厘米？
+【考点】平均数问题          【难度】2星          【题型】解答 
+从“小刚比他们三人的平均身高要高 EMBED Equation.DSMT4  厘米”可知这 EMBED Equation.DSMT4  厘米补给了小林和小强，这样我们可以求出三人的平均身高，即(小林的身高+小强的身高 EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ，进而求出小刚的身高．
+ EMBED Equation.DSMT4  (厘米)
+【答案】 EMBED Equation.DSMT4  
+
+观音菩萨分别奖励唐僧师徒四人一些人参果，唐僧师徒四人平均拥有 EMBED Equation.DSMT4  个人参果，唐僧和孙悟空平均拥有 EMBED Equation.DSMT4  个，孙悟空、猪八戒和沙僧平均拥有 EMBED Equation.DSMT4  个，你知道孙悟空有多少个人参果吗？
+【考点】平均数问题          【难度】2星          【题型】解答 
+唐僧拥有的人参果数量为： EMBED Equation.DSMT4  (个)，
+孙悟空的人参果数量为： EMBED Equation.DSMT4  (个)
+【答案】 EMBED Equation.DSMT4  
+
+李明和张亮轮流打一份稿件，李明每天打 EMBED Equation.DSMT4  页，张亮每天打 EMBED Equation.DSMT4  页，他们一连打了 EMBED Equation.DSMT4  天，平均每天打 EMBED Equation.DSMT4  页，问李明、张亮各打了多少天？
+【考点】平均数问题          【难度】2星          【题型】解答 
+由题意可知他们一共打了 EMBED Equation.DSMT4  (页)．假设 EMBED Equation.DSMT4  天都是李明打的，那么打的页数是： EMBED Equation.DSMT4  (页)，比实际打的多 EMBED Equation.DSMT4  (页)，而李明每天比张亮多打： EMBED Equation.DSMT4  (页)，所以张亮打的天数是： EMBED Equation.DSMT4  (天)，李明打的天数是： EMBED Equation.DSMT4  (天)
+【答案】 EMBED Equation.DSMT4  
+
+（101中学选拔考试题）老师在黑板上写了十三个自然数，让同学们计算它们的平均数，要求保留两位小数，王林算得答案是 EMBED Equation.DSMT4  ，老师说最后一个数字错了，那么正确的答案是多少？
+(A)   EMBED Equation.DSMT4          (B)   EMBED Equation.DSMT4         (C)   EMBED Equation.DSMT4          (D)   EMBED Equation.DSMT4  
+【考点】平均数问题          【难度】2星          【题型】选择 
+（法1）十三个自然数的和一定是自然数．用和除以13后保留二位小数得到 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  四个答案中必有一个正确．我们可以考虑这个平均数的取值范围为 EMBED Equation.DSMT4  ，所以，这十三个自然数的和的取值范围是 EMBED Equation.DSMT4  ，由此可得， EMBED Equation.DSMT4  ．再反过来求平均数，得到 EMBED Equation.DSMT4  ．
+（法2）对于选择题，是要在给出的选项中选出一个正确的，所以可以从已知的选项入手．对于给出的4个选项，我们只需要将每一个数都乘以13，看所得到的积哪一个更接近整数： EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ．很明显 EMBED Equation.DSMT4  更接近整数，则正确答案是 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+从 EMBED Equation.DSMT4  开始的一串连续自然数 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，……，17，拿走其中一个数，余下的数的平均数是 EMBED Equation.DSMT4  ，那么拿走的数是      ．
+【考点】平均数问题          【难度】2星          【题型】解答 
+原来有13个数，总和是 EMBED Equation.DSMT4  ，拿走一个数还有12个数，总和为 EMBED Equation.DSMT4  ，那么拿走的数是 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+六个自然数的平均数是 EMBED Equation.DSMT4  ，其中前四个数的平均数是 EMBED Equation.DSMT4  ，第 EMBED Equation.DSMT4  个数是 EMBED Equation.DSMT4  ，求后三个数的平均数？
+【考点】平均数问题          【难度】2星          【题型】解答 
+要求后三个数的平均数，则必须有“这三个数的总和”，“这三个数的总和”就是本题目求解的关键．后两个数的总和是： EMBED Equation.DSMT4  ，则后三个数的总和是： EMBED Equation.DSMT4  ，则本题目的答案为： EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+人大附小有100名学生参加学而思杯数学竞赛，平均分是63分，其中参赛男同学平均分为60分，女同学平均分为70分，那么人大附小参赛男同学比女同学多几人？
+【考点】平均数问题          【难度】2星          【题型】解答 
+参赛女同学人数为：[100×（63－60）]÷（70－60）=30（人）
+所以参赛男同学比女同学多：100―30―30=40（人）
+【答案】40
+
+在一次数学竞赛中，甲队的平均分为75分，乙队的平均分为73分，两队全体同学的平均分为73.5分，又知乙队比v 甲队多6人，那么乙队有多少人？
+【考点】平均数问题          【难度】2星          【题型】解答 
+如果乙队去掉6个人，两队的平均分为（75＋73）÷2=74
+乙队多出的6个人，分数比平均分少（73.5－73）×6=3（分）
+说明甲队有3÷（74－73.5）÷2=3（人） 乙队有3＋6=9（人）
+【答案】9
+
+甲班51人，乙班49人，某次考试两个班全体同学的平均成绩是81分，乙班的平均成绩要比甲班平均成绩高7分，那么乙班的平均成绩是多少分？
+【考点】平均数问题          【难度】2星          【题型】解答 
+甲班学生如果都在乙班学习，平均每人增加7分，共增加7×51=357（分）
+总分增加为81×（51＋49）＋357=8457
+所以乙班的平均分是8457÷（51＋49）=84.57
+【答案】84.57
+
+小永的三门功课的成绩，如果不算语文，平均分是98分；如果不算数学，平均分是93；如果不算英语，平均分是91。小永三门功课的平均成绩是      分。
+【考点】平均数问题          【难度】2星          【题型】解答 
+【关键词】希望杯，五年级，一试
+98+93+91=282，平均成绩为282÷3=94
+【答案】94
+
+已知八个连续奇数的和是144，求这八个连续奇数。
+【考点】平均数问题          【难度】2星          【题型】解答 
+已知偶数个奇数的和是144.连续数的个数为偶数时，它的特点是首项与末项之和等于第二项与倒数第二项之和，等于第三项与倒数第三项之和……即每两个数分为一组，八个数分成4组，每一组两个数的和是144÷4＝36.这样可以确定出中间的两个数，再依次求出其他各数。
+①每组数之和：144÷4=36
+②中间两个数中较大的一个：（36＋2）÷2＝19
+③中间两个数中较小的一个：19-2=17
+这八个连续奇数为11、13、15、17、19、21、23和25。
+【答案】11、13、15、17、19、21、23、25
+
+六年级某班学生中有 EMBED Equation.DSMT4  的学生年龄为13岁，有 EMBED Equation.DSMT4  的学生年龄为12岁，其余学生年龄为11岁，这个班学生的平均年龄是________岁．
+【考点】平均数问题          【难度】2星          【题型】解答 
+关键是学生人数的处理，不能处理就用字母代，先将式子列出来．
+(法1)因为是填空题，所以可以直接设这个班有16人，计算比较快．所以题目变成了：
+有 1个学生年龄为13岁，有12个学生年龄为12岁，还有3个学生年龄为11岁，求他们的平均年龄．平均年龄为： EMBED Equation.DSMT4  (岁)；
+(法2)设而不求，如果是需要写过程的大题目，则可以设这个班的人数为 EMBED Equation.DSMT4  人，则平均年龄为： EMBED Equation.DSMT4  (岁)．
+【答案】11.875
+
+幼儿园的老师把一些画片分别给 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  三个班，每人都分到6张，如果只分给 EMBED Equation.DSMT4  班，每人能得15张，如果只分给 EMBED Equation.DSMT4  班，每人能得14张，如果只分给 EMBED Equation.DSMT4  班，每人能得        张．
+【考点】平均数问题          【难度】3星          【题型】解答 
+【关键词】2008年，第六届，创新杯，六年级
+设三个班的总人数为 EMBED Equation.DSMT4  人， EMBED Equation.DSMT4  班、 EMBED Equation.DSMT4  班、 EMBED Equation.DSMT4  班的人数分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，从而 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，因此将这些画片分给 EMBED Equation.DSMT4  班，每人能得 EMBED Equation.DSMT4  （张）．
+【答案】 EMBED Equation.DSMT4  
+
+琪琪画了一幅画，请爷爷、奶奶、爸爸和妈妈评分。爷爷的平均分是94分，奶奶和爸爸评分的平均分是90分，爸爸和妈妈评分的平均分是92分，那么爷爷和妈妈评分的平均分是        分？
+【考点】平均数问题          【难度】2星          【题型】解答 
+【关键词】小希望杯4年级1试
+爷爷和奶奶的分数和为188分，奶奶和爸爸的分数和为180分，爸爸和妈妈的分数和为184岁，所以爷爷和妈妈的分数和为188+184-480=192岁，平均分为192÷2=96分.
+【答案】96分
+
+柯南家2008年一年用电10200千瓦时，上半年的月平均用电比下半年的月平均用电少100千瓦时。柯南家下半年月平均用电为_______千瓦时。
+【考点】平均数问题          【难度】3星          【题型】解答 
+【关键词】走美杯，四年级，初赛
+柯南家上半年的总用电比下半年少600千瓦时，那么下半年用电 EMBED Equation.DSMT4  千瓦时，下半年月平均用电为 EMBED Equation.DSMT4  千瓦时。
+【答案】 EMBED Equation.DSMT4  
+
+五次测验的平均成绩是90，中位数是91（居中的成绩），众数（出现次数最多的那个成绩）是94,。则最低两次测验的成绩之和是____。
+【考点】平均数问题          【难度】3星          【题型】解答 
+【关键词】走美杯，3年级，决赛
+居中的为 EMBED Equation.DSMT4  ，众数为 EMBED Equation.DSMT4  ，则有最低的两次测验之和为 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+模块二，复杂的平均数问题
+某校男老师的平均年龄是27岁，女老师的平均年龄是32岁，全体老师的平均年龄是30岁。如果男老师比女老师少13名，那么该校共有_________名老师。
+【考点】平均数问题          【难度】3星          【题型】解答 
+【关键词】迎春杯，中年级，初赛
+ EMBED Equation.DSMT4  ，女老师与男老师的人数之比为， EMBED Equation.DSMT4  ，全校共有老师 EMBED Equation.DSMT4  （名）。
+【答案】 EMBED Equation.DSMT4  名
+
+蔡琛在期末考试中，政治、语文、数学、英语、生物五科的平均分是 89分。政治、数学两科的平均分是91.5分。语文、英语两科的平均分是84分。政治、英语两科的平均分是86分，而且英语比语文多10分.问蔡琛这次考试的各科成绩应是多少分？
+【考点】平均数问题          【难度】3星          【题型】解答 
+解题关键是根据语文、英语两科平均分是84分求出两科的总分，又知道两科的分数差是10分，用和差问题的解法求出语文、英语各得多少分后，就可以求出其他各科成绩。
+①英语：（84×2+10）÷2=89（分）
+②语文： 89-10=79（分）
+③政治：86×2-89＝83（分）
+④数学： 91.5×2-83＝100（分）
+⑤生物： 89×5-（89＋79＋83＋100）＝94（分）
+【答案】①英语： 89分
+②语文： 79分
+③政治： 83分
+④数学： 100分
+⑤生物： 94分
+
+18个数（可以有相同的）按从小到大的顺序排成一排。前10个数的平均数是28.5，后10个数的平均数是31.2。18个数的平均数为30。第5个数是              。
+【考点】平均数问题          【难度】3星          【题型】解答 
+【关键词】走美杯，4年级，决赛
+由题意知，前 EMBED Equation.DSMT4  个数 EMBED Equation.DSMT4  中间 EMBED Equation.DSMT4  个数 EMBED Equation.DSMT4  ；后 EMBED Equation.DSMT4  个数 EMBED Equation.DSMT4  中间 EMBED Equation.DSMT4  个数 EMBED Equation.DSMT4  ；前 EMBED Equation.DSMT4  个数 EMBED Equation.DSMT4  中间 EMBED Equation.DSMT4  个数 EMBED Equation.DSMT4  后 EMBED Equation.DSMT4  个数 EMBED Equation.DSMT4  ，可推出前 EMBED Equation.DSMT4  个数和 EMBED Equation.DSMT4  ；中间 EMBED Equation.DSMT4  个数和 EMBED Equation.DSMT4  ；后 EMBED Equation.DSMT4  个数 EMBED Equation.DSMT4  ，观察得到前 EMBED Equation.DSMT4  个数的平均数 EMBED Equation.DSMT4  中间 EMBED Equation.DSMT4  个数的平均数 EMBED Equation.DSMT4  ，这意味着这 EMBED Equation.DSMT4  个数均相等，否则不能满足从小到大的排列顺序．所以第 EMBED Equation.DSMT4  个数 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+某校入学考试，报考的学生中有 EMBED Equation.DSMT4  被录取，被录取者的平均分比录取分数线高6分，没被录取的学生的平均分比录取分数线低24分，所有考生的平均成绩是60分，那么录取分数线是        分。
+【考点】平均数问题          【难度】3星          【题型】解答 
+【关键词】小希望杯4年级1试
+有13 被录取，报考总人数有3份，则被录取的人数占1份，没被录取的有3－1=2份
+60×3=180（分）
+24×2=48（分）
+（180＋48－6）÷3=74（分）
+答：录取分数线是74分。
+【答案】74
+
+一次数学竞赛满分是100分，某班前六名同学的平均得分是95.5分，排名第六的同学的得分是89分，每人得分是互不相同的整数，那么排名第三的同学至少得          分。
+【考点】平均数问题          【难度】3星          【题型】解答 
+【关键词】华杯赛，五年级，决赛
+要想排名第三的同学得分尽量低，则其它几人的得分就要尽量的高，故第一名应为100分，第二名应为99分，因此第三、四、五名的总分为：95.5×6－100－99－89=285(分)；故第三、四、五名的平均分为 285÷3=95（分），因此第三名至少要得96分。
+【答案】96分
+
+某班一次数学考试，所有成绩得优的同学的平均分是95分，没有得优的同学的平均分是80分，已知全班同学的平均成绩不少于90分，问得优的同学占全班同学的比例至少是多少？
+【考点】平均数问题          【难度】3星          【题型】解答 
+【关键词】华杯赛，六年级，决赛
+为使全班同学的平均分达到90分，需将2名得优的同学和1名没得优的同学匹配为一组，即得优的同学至少应为没得优同学的2倍，才能确保全班同学的平均分不低于90分，所以得优同学占全班同学的比例至少是EMBED Equation.DSMT4。
+【答案】EMBED Equation.DSMT4
+
+某篮球运动员参加了l0场比赛，他在第6、7、8；9场比赛中分别得到了23、14、11和20分，他在前9场比赛的平均分比前5场比赛的平均分要高。如果他l0场比赛的平均分超过l8分，那么他在第l0场比赛至少得      分。
+【考点】平均数问题          【难度】3星          【题型】解答 
+【关键词】迎春杯，四年级，初赛
+前9场比赛的平均分比前5场比赛的平均分要高，所以6、7、8、9场的平均分比前5场的平均分要高.因为是6、7、8、9场将平均分拉上去了，6、7、8、9场的平均分为（23+14+11+20）÷4=17分，前5场的比赛平均分数小于17，总分小于17×5=85，至多84分，所以前9场的总分最多84+68=152分，为了让总分大于18×10=180，即至少181分，那么第10场至少181-152=29分.
+【答案】29 
+
+暑假中，小明读一本长篇小说．如果第一天读 EMBED Equation.DSMT4  页，以后每天都比前一天多读 EMBED Equation.DSMT4  页，结果最后一天读 EMBED Equation.DSMT4  页可读完；如果第一天读 EMBED Equation.DSMT4  页，以后每天都比前一天多读 EMBED Equation.DSMT4  页，结果最后一天读 EMBED Equation.DSMT4  页可读完．试问这本小说共多少页？
+【考点】平均数问题          【难度】3星          【题型】解答 
+【关键词】四中，分班考试
+如果第一天读 EMBED Equation.DSMT4  页，那么在最后一天之前每天读书的页数依次为： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，…，而最后一天读 EMBED Equation.DSMT4  页；
+如果第一天读 EMBED Equation.DSMT4  页，那么在最后一天之前每天读书的页数依次为： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，…，而最后一天读 EMBED Equation.DSMT4  页；
+可见第一种读法从第三天开始与第二种读法从第一天开始每天的读书页数是相同的，也就是有连续的若干天，两种读法每天读书的页数相同．
+由于两种读法读书的总页数相同，所以，除去相同的部分，两种读法在不同的部分所读的页数也相同．而第一种读法不同的部分有： EMBED Equation.DSMT4  页（第一天、第二天与最后一天），所以第二种读法不同的部分也有120页．除去最后一天的45页，之前还读了 EMBED Equation.DSMT4  页，由于第二种读法在最后一天之前每天读书的页数都大于 EMBED Equation.DSMT4  页，所以这 EMBED Equation.DSMT4  页只能在一天读完，即第二种读法倒数第二天读了 EMBED Equation.DSMT4  页，那么第二种读法每天所读的页数分别为50、55、60、65、70、75、45，所以，这本小说的页数为： EMBED Equation.DSMT4  (页)．
+【答案】 EMBED Equation.DSMT4  
+
+小龙5次测验每次都得84分，小海前4次测验分别比小龙多出1分、2分、3分、4分，那么小海第五次测验至少应得_____分，才能确保5次测验平均成绩高于小龙至少3分。
+【考点】平均数问题          【难度】2星          【题型】解答 
+【关键词】希望杯，4年级，1试
+总成绩高3×5=15，第五次需要高15-1-2-3-4=5分，第五次考84+5=89
+【答案】89分
+
+ EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  五人在一次满分100分的考试中，得分互不相同，并且都是大于91的整数．如果 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的平均分为95分， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的平均分为94分， EMBED Equation.DSMT4  是第一名， EMBED Equation.DSMT4  是第三名得96分，那么 EMBED Equation.DSMT4  的得分是多少分？
+【考点】平均数问题          【难度】3星          【题型】解答 
+ EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  三人总分为： EMBED Equation.DSMT4  (分)． EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  三人总分为： EMBED Equation.DSMT4  (分)．所以 EMBED Equation.DSMT4  比 EMBED Equation.DSMT4  多了 EMBED Equation.DSMT4  (分)．又因为 EMBED Equation.DSMT4  是第一名， EMBED Equation.DSMT4  是第三名得96分，故而 EMBED Equation.DSMT4  为98分、 EMBED Equation.DSMT4  为95分，或者 EMBED Equation.DSMT4  为100分、 EMBED Equation.DSMT4  为97分．当 EMBED Equation.DSMT4  得98分、 EMBED Equation.DSMT4  得95分、 EMBED Equation.DSMT4  得96分时， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  得分之和为： EMBED Equation.DSMT4  (分)． EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  之中必有一人得第二名97分，那么另一个就得了 EMBED Equation.DSMT4   (分)，与题中条件“每人得分都大于91”不符．当 EMBED Equation.DSMT4  得100分时， EMBED Equation.DSMT4  是第二名97分， EMBED Equation.DSMT4  是第三名96分， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  共得 EMBED Equation.DSMT4  分，只能是92分、93分，都符合题意．因此 EMBED Equation.DSMT4  得了97分．
+【答案】97分
+
+第七届春蕾杯数学竞赛原定一等奖10人、二等奖20人，现在将一等奖中最后4人调整为二等奖，这样得二等奖的学生的平均分提高了1分，得一等奖的学生的平均分提高了3分．那么原来一等奖平均得分比二等奖平均分多多少分？
+【考点】平均数问题          【难度】4星          【题型】解答 
+【关键词】春蕾杯，、决赛
+本题中所涉及的都是分数之间的差值，无法求出具体的平均分数，因此我们需要找一个分数作为基准数．由于一等奖中的后4名同学联系着一等奖与二等奖两部分，我们不妨就取这四名同学的平均分作为基准数． 取一等奖中最后4名同学的平均分作为基准数．根据题目中的条件一有前六人平均分 EMBED Equation.DSMT4  前十人平均分 EMBED Equation.DSMT4  ．这说明在计算前十人的平均分时，前六人共多出 EMBED Equation.DSMT4  (分)，用来弥补后四人的分数．因而四人的平均分比前十名的平均分少 EMBED Equation.DSMT4  (分)．根据题目中的条件二，当一等奖的后四人调整为二等奖后，二等奖者平均每人提高1分，这四人提供 EMBED Equation.DSMT4    EMBED Equation.DSMT4  (分)，平均每人供给 EMBED Equation.DSMT4  (分)． 这就说明，原来一等奖后四人的平均分比原来二等奖的平均分多6分． 综上可知，原来一等奖的平均分比二等奖的平均分多 EMBED Equation.DSMT4  (分)．
+【答案】 EMBED Equation.DSMT4  
+
+将和为45的9个数分成 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两组，如果将 EMBED Equation.DSMT4  组中的数4移到 EMBED Equation.DSMT4  组中，则 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两组数的平均数都比原来大 EMBED Equation.DSMT4  ．求 EMBED Equation.DSMT4  组中原来有多少个数？
+【考点】平均数问题          【难度】5星          【题型】解答 
+【关键词】希望杯，二试，六年级
+假设 EMBED Equation.DSMT4  组原来有 EMBED Equation.DSMT4  个数： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，……， EMBED Equation.DSMT4  ，4； EMBED Equation.DSMT4  组原来有 EMBED Equation.DSMT4  个数： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，……， EMBED Equation.DSMT4  ．
+则原来 EMBED Equation.DSMT4  组的平均数为 EMBED Equation.DSMT4  ，原来 EMBED Equation.DSMT4  组的平均数为 EMBED Equation.DSMT4  ；
+将 EMBED Equation.DSMT4  组中的数4移到 EMBED Equation.DSMT4  组中后， EMBED Equation.DSMT4  组的平均数为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  组的平均数为 EMBED Equation.DSMT4  ；
+所以有： EMBED Equation.DSMT4  
+由⑴得： EMBED Equation.DSMT4  ，
+即 EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  ；
+由⑵得 EMBED Equation.DSMT4  ，
+即 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，
+由于原来9个数的和为45，所以由 EMBED Equation.DSMT4  可得：
+ EMBED Equation.DSMT4  ，
+即 EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ．
+所以 EMBED Equation.DSMT4  组原来有 EMBED Equation.DSMT4  个数．
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+6-1-11.平均数问题.题库                           教师版                                    page  PAGE 11 of  NUMPAGES 11
+
+
+
+平均数问题
+
+教学目标
+
+知识精讲
+
+例题精讲
+
+
+

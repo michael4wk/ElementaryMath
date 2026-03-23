@@ -1,0 +1,236 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+熟悉鸡兔同笼的“砍足法”和“假设法”.
+利用鸡兔同笼的方法解决一些实际问题，需要把多个对象进行恰当组合以转化成两个对象．
+
+ SHAPE  \* MERGEFORMAT 
+一、鸡兔同笼
+这个问题，是我国古代著名趣题之一．大约在 EMBED Equation.DSMT4  年前，《孙子算经》中就记载了这个有趣的问题．书中是这样叙述的：“今有鸡兔同笼，上有三十五头，下有九十四足，问鸡兔各几何？这四句话的意思是：有若干只鸡兔同在一个笼子里，从上面数，有 EMBED Equation.DSMT4  个头；从下面数，有 EMBED Equation.DSMT4  只脚．求笼中各有几只鸡和兔？ 
+你会解答这个问题吗？你想知道《孙子算经》中是如何解答这个问题的吗？ 
+二、解鸡兔同笼的基本步骤
+解答思路是这样的：假如砍去每只鸡、每只兔一半的脚，则每只鸡就变成了“独脚鸡”，每只兔就变成了“双脚兔”．这样，鸡和兔的脚的总数就由 EMBED Equation.DSMT4  只变成了 EMBED Equation.DSMT4  只；如果笼子里有一只兔子，则脚的总数就比头的总数多 EMBED Equation.DSMT4  ．因此，脚的总只数 EMBED Equation.DSMT4  与总头数 EMBED Equation.DSMT4  的差，就是兔子的只数，即 EMBED Equation.DSMT4  （只）．显然，鸡的只数就是 EMBED Equation.DSMT4  （只）了． 
+这一思路新颖而奇特，其“砍足法”也令古今中外数学家赞叹不已．除此之外，“鸡兔同笼”问题的经典思路“假设法”．
+假设法顺口溜：鸡兔同笼很奥妙，用假设法能做到，假设里面全是鸡，算出共有几只脚，和脚总数做比较，做差除二兔找到．
+解鸡兔同笼问题的基本关系式是：
+如果假设全是兔，那么则有：数=（每只兔子脚数×鸡兔总数-实际脚数）÷（每只兔子脚数-每只鸡的脚数）
+　　                       兔数=鸡兔总数-鸡数
+如果假设全是鸡，那么就有：兔数=（实际脚数-每只鸡脚数×鸡兔总数）÷（每只兔子脚数-每只鸡的脚数）
+　    　                     鸡数=鸡兔总数-兔数
+当头数一样时，脚的关系：兔子是鸡的2倍
+当脚数一样时，头的关系：鸡是兔子的2倍
+在学习的过程中，注重假设法的运用，渗透假设法的重要性，在以后的专题中，如工程，行程，方程等专题中也都会接触到假设法
+
+ SHAPE  \* MERGEFORMAT 
+两个量的“鸡兔同笼”问题——变例
+
+某次数学竞赛，共有 EMBED Equation.DSMT4  道题，每道题做对得 EMBED Equation.DSMT4  分，没做或做错都要扣 EMBED Equation.DSMT4  分，小聪得了 EMBED Equation.DSMT4  分，他做对了多少道题？
+【考点】鸡兔同笼问题   【难度】3星   【题型】解答
+【关键词】假设思想方法
+做错 EMBED Equation.DSMT4   (道)，因此，做对的 EMBED Equation.DSMT4   (道)．
+【答案】 EMBED Equation.DSMT4  道
+
+数学竞赛共有20道题，规定做对一道得5分，做错或不做倒扣3分，赵天在这次数学竞赛中得了60分，他做对了几道题？
+【考点】鸡兔同笼问题   【难度】3星   【题型】解答
+【关键词】假设思想方法
+假设他将所有题全部做对了，则可得100分，实际上只得了60分，比假设少了40分，做错一题要少得8分，少得的40分中，有多少个8分，就是他做错的题的数量，则知他做对了15道．
+【答案】 EMBED Equation.DSMT4  道
+
+东湖路小学三年级举行数学竞赛，共 EMBED Equation.DSMT4  道试题.做对一题得 EMBED Equation.DSMT4  分，没有做一题或做错一题都要倒扣 EMBED Equation.DSMT4  分.刘钢得了 EMBED Equation.DSMT4  分，问他做对了几道题？
+【考点】鸡兔同笼问题   【难度】3星   【题型】解答
+【关键词】假设思想方法
+这道题也类似于“鸡兔同笼”问题．假设刘钢 EMBED Equation.DSMT4  道题全对，可得分 EMBED Equation.DSMT4  （分），但他实际上只得 EMBED Equation.DSMT4  分，少了 EMBED Equation.DSMT4  （分），因此他没做或做错了一些题．由于做对一道题得 EMBED Equation.DSMT4  分，没做或做错一道题倒扣 EMBED Equation.DSMT4  分，所以没做或做错一道题比做对一道题要少 EMBED Equation.DSMT4  （分）． EMBED Equation.DSMT4  分中含有多少个 EMBED Equation.DSMT4  ，就是刘钢没做或做错多少道题．所以，刘钢没做或做错题为 EMBED Equation.DSMT4  （道），做对题为 EMBED Equation.DSMT4  （道）．
+【答案】 EMBED Equation.DSMT4  道
+
+某次数学竞赛，试题共有 EMBED Equation.DSMT4  道，每做对一题得 EMBED Equation.DSMT4  分，每做错一题倒扣 EMBED Equation.DSMT4  分。小红最终得 EMBED Equation.DSMT4  分，做对的题比做错的题多______道。
+【考点】鸡兔同笼问题   【难度】3星   【题型】填空
+【关键词】学而思杯，3年级，第8题，假设思想方法
+ EMBED Equation.DSMT4  ，做错 EMBED Equation.DSMT4  道题，做对 EMBED Equation.DSMT4  道题，对的比错的多 EMBED Equation.DSMT4  道。
+【答案】多 EMBED Equation.DSMT4  道
+
+次数学竞赛有 EMBED Equation.DSMT4  道试题，若小宇得70分，根据图5中两人的对话可知小宇答对_________题。
+
+【考点】鸡兔同笼问题   【难度】3星   【题型】填空
+【关键词】希望杯，五年级，一试，第12题
+设答对了 EMBED Equation.DSMT4  道题，那么 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，也就是小宇答对了8道题。
+【答案】 EMBED Equation.DSMT4  题
+
+一次口算比赛，规定：答对一题得8分，答错一题扣5分。小华答了18道题，得92分，小华在此次比赛中答错了________ 道题。
+【考点】鸡兔同笼问题   【难度】3星   【题型】填空
+【关键词】希望杯，四年级，二试，第12题
+假设他全答对了，应该的18×8=144分，实际上少了144-92=52分，每答错一道题少8+5=13分，答错了52÷13=4道题。
+【答案】 EMBED Equation.DSMT4  题
+
+某工人与老板签订了一份30天的劳务合同：工作一天可得报酬48元，休息一天则要从所得报酬中扣掉12元。该工人合同到期后并没有拿到报酬，则他最多工作了_________天。
+【考点】和倍问题   【难度】3星   【题型】填空
+【关键词】希望杯，四年级，二试，第5题
+方法一：假设他没有休息他会得 EMBED Equation.DSMT4  （元），休息一天会少 EMBED Equation.DSMT4  （元），所以他休息了 EMBED Equation.DSMT4  （天），他工作了 EMBED Equation.DSMT4  天
+方法二：工作一天休息4天刚好抵消，那么最后没拿到钱，他只工作了30÷(4+1)=6天。
+【答案】 EMBED Equation.DSMT4  天
+
+春风小学3名云参加数学竞赛，共10道题，答对一道题得10分，答错一道题扣3分，这3名同学都回答了所有的题，小明得了87分，小红得了74分，小华得了9分，他们三人一共答对了_____道题.
+【考点】鸡兔同笼问题   【难度】3星   【题型】填空
+【关键词】假设思想方法
+三人共得 EMBED Equation.DSMT4  (分)，比满分 EMBED Equation.DSMT4  (分)少 EMBED Equation.DSMT4  (分)
+因此三个人共做错： EMBED Equation.DSMT4  (道)题，共答对了 EMBED Equation.DSMT4  (道)题
+【答案】 EMBED Equation.DSMT4  
+
+张明、李华两人进行射击比赛，规定每射中一发得20分，脱靶一发扣12分，两人各射了10发，共得208分，其中张明比李华多64分，则张明射中___________发。
+【考点】鸡兔同笼问题   【难度】3星   【题型】填空
+【关键词】希望杯，4年级，1试
+张明得分（208＋64） EMBED Equation.DSMT4  2＝136分，根据鸡兔同笼，
+张明脱靶（20×10－136） EMBED Equation.DSMT4  （20＋12）＝2，射中8发。
+【答案】 EMBED Equation.DSMT4  发
+
+小明和小刚进行数学解题能力对抗赛，两人商定，对一题得20分，不答或答错一题扣12分。两人各解答了10道题，一共得208分，又知道小明比小刚多得64分。那么小刚做对了    道题。
+【考点】鸡兔同笼问题   【难度】3星   【题型】填空
+【关键词】迎春杯，高年级，初试，10题
+小刚得了 EMBED Equation.DSMT4  （分）,如果小刚 EMBED Equation.DSMT4  道题都做对了，应得 EMBED Equation.DSMT4  分，实际得 EMBED Equation.DSMT4  分，所以错了 EMBED Equation.DSMT4  （道），做对了 EMBED Equation.DSMT4  （道）。
+【答案】 EMBED Equation.DSMT4  道
+
+有两次自然测验，第一次24道题，答对1题得5分，答错(包含不答)1题倒扣1分；第二次15道题，答对1题8分，答错或不答1题倒扣2分，小明两次测验共答对30道题，但第一次测验得分比第二次测验得分多10分，问小明两次测验各得多少分？ 
+【考点】鸡兔同笼问题   【难度】3星   【题型】解答
+【关键词】假设思想方法
+法一：如果小明第一次测验24题全对，得 EMBED Equation.DSMT4  (分).那么第二次只做对 EMBED Equation.DSMT4  (题)得分是 EMBED Equation.DSMT4  (分).两次相差 EMBED Equation.DSMT4  (分).比题目中条件相差10分，多了80分.说明假设的第一次答对题数多了，要减少.第一次答对减少一题，少得 EMBED Equation.DSMT4  (分)，而第二次答对增加一题不但不倒扣2分，还可得8分，因此增加 EMBED Equation.DSMT4  分.两者两差数就可减少 EMBED Equation.DSMT4  (分). EMBED Equation.DSMT4  (题).因此，第一次答对题数要比假设(全对)减少5题，也就是第一次答对19题，第二次答对 EMBED Equation.DSMT4  (题).第一次得分 EMBED Equation.DSMT4  .第二次得分 EMBED Equation.DSMT4  .
+法二：答对30题，也就是两次共答错 EMBED Equation.DSMT4  (题).第一次答错一题，要从满分中扣去 EMBED Equation.DSMT4  (分)，第二次答错一题，要从满分中扣去 EMBED Equation.DSMT4  (分).答错题互换一下，两次得分要相差 EMBED Equation.DSMT4   (分).如果答错9题都是第一次，要从满分中扣去 EMBED Equation.DSMT4  .但两次满分都是120分.比题目中条件“第一次得分多10分”，要少了 EMBED Equation.DSMT4  .
+因此，第二次答错题数是 EMBED Equation.DSMT4  (题).第一次答错 EMBED Equation.DSMT4  (题).
+第一次得分 EMBED Equation.DSMT4  (分).第二次得分 EMBED Equation.DSMT4   (分).
+【答案】第一次得分 EMBED Equation.DSMT4  分.第二次得分 EMBED Equation.DSMT4  分.
+
+
+某旅游点有儿童票、成人票两种规格的门票卖，儿童票的价格为30元，成人票的价格为40元，如果是团体还可以买平均32元一位的团体票，一个由8个家庭组成的旅游团（每个家庭由两位大人，或两个大人、一个小孩组成）来景点旅游，如果他们买团体票那么可以比他们各买各的少花120元，问这个旅游团一共有多少人？ 
+【考点】鸡兔同笼问题   【难度】3星   【题型】解答
+【关键词】假设思想方法
+每个三口之家可以少花 EMBED Equation.DSMT4  （元），每个二口之家可以少花 EMBED Equation.DSMT4  （元），如果这8个家庭都是三口之家，那么一共少花 EMBED Equation.DSMT4  （元），所以这8个家庭中有 EMBED Equation.DSMT4  （个）家庭是二口之家，所以这个旅游团一共有 EMBED Equation.DSMT4  （人）．
+【答案】 EMBED Equation.DSMT4  人
+
+一张数学试卷，只有 EMBED Equation.DSMT4  道选择题．做对一题得 EMBED Equation.DSMT4  分，做错一题倒扣 EMBED Equation.DSMT4  分；如不做，不得分也不扣分．若小明得了 EMBED Equation.DSMT4  分，那么他做对        题，做错        题，没做        题． 
+【考点】鸡兔同笼问题   【难度】4星   【题型】填空
+【关键词】假设思想方法，祖冲之杯
+这道题不是普通的鸡兔同笼问题，需要寻找一些特殊的线索．
+        小明得了 EMBED Equation.DSMT4  分，而且只有做对了题目才能得分．
+ EMBED Equation.DSMT4  ，所以可以知道小明至少做对 EMBED Equation.DSMT4  道题目，否则一定低于 EMBED Equation.DSMT4  (分)；
+        再假设他做对 EMBED Equation.DSMT4  题，发现即使另外四题都错，小明仍然有 EMBED Equation.DSMT4  (分)，超过了 EMBED Equation.DSMT4  分，所以小明至多做对 EMBED Equation.DSMT4  道题目；
+        综上，可以断定小明做对了 EMBED Equation.DSMT4  道题．
+        至此本题转化为简单鸡兔同笼问题．
+        假设剩下 EMBED Equation.DSMT4  题全部没做，那么小明应得 EMBED Equation.DSMT4  (分)．
+        但是只得了 EMBED Equation.DSMT4  分，说明又倒扣了 EMBED Equation.DSMT4  分，说明错了 EMBED Equation.DSMT4  道题， EMBED Equation.DSMT4  道题没做．
+        所以小明做对了 EMBED Equation.DSMT4  道题，做错了 EMBED Equation.DSMT4  道题，没做 EMBED Equation.DSMT4  道题．
+【答案】对了 EMBED Equation.DSMT4  道题，做错了 EMBED Equation.DSMT4  道题，没做 EMBED Equation.DSMT4  道题
+
+一批钢材，用小卡车装载要 EMBED Equation.DSMT4  辆，用大卡车装载只要 EMBED Equation.DSMT4  辆．已知每辆大卡车比每辆小卡车多装 EMBED Equation.DSMT4  吨，那么这批钢材有多少吨？
+【考点】鸡兔同笼问题   【难度】3星   【题型】解答
+【关键词】假设思想方法
+要算出这批钢材有多少吨，需要知道每辆大卡车或小卡车能装多少吨．利用假设法，假设只用 EMBED Equation.DSMT4  辆小卡车来装载这批钢材，因为每辆大卡车比每辆小卡车多装 EMBED Equation.DSMT4  吨，所以要剩下 EMBED Equation.DSMT4   (吨)．根据条件，要装完这 EMBED Equation.DSMT4  吨钢材还需要 EMBED Equation.DSMT4  (辆)小卡车．这样每辆小卡车能装 EMBED Equation.DSMT4  (吨)．由此可求出这批钢材有 EMBED Equation.DSMT4  吨．
+【答案】 EMBED Equation.DSMT4  吨
+
+下面是小波和售货员阿姨的一段对话：小波：“阿姨，您好！” 售货员：“同学，你好．想买点什么？”小波：“我只有100元，请帮我安排买10支钢笔和15本笔记本．”售货员：“好，每支钢笔比每本笔记本贵2元，退你5元，请拿好．再见．”根据这段对话，则钢笔每支是         元，笔记本每本是         元．
+【考点】鸡兔同笼问题   【难度】3星   【题型】填空
+【关键词】学而思杯，4年级，第14题
+一共花了 EMBED Equation.DSMT4  元。如果是买 EMBED Equation.DSMT4  本笔记本可以少花 EMBED Equation.DSMT4  元，即 EMBED Equation.DSMT4  元。所以每本笔记本 EMBED Equation.DSMT4  元，每支钢笔 EMBED Equation.DSMT4  元
+【答案】 EMBED Equation.DSMT4  元
+
+买一些4分和8分的邮票,共花6元8角.已知8分的邮票比4分的邮票多40张,那么两种邮票各买了多少张 
+【考点】鸡兔同笼问题   【难度】3星   【题型】解答
+【关键词】假设思想方法
+解一:如果拿出40张8分的邮票,余下的邮票中8分与4分的张数就一样多. 
+(680-8×40)÷(8+4)=30(张), 
+这就知道,余下的邮票中,8分和4分的各有30张. 
+因此8分邮票有 40+30=70(张). 
+解二:譬如,假设有20张4分,根据条件"8分比4分多40张",那么应有60张8分.以"分"作为计算单位,此时邮票总值是 4×20+8×60=560. 
+比680少,因此还要增加邮票.为了保持"差"是40,每增加1张4分,就要增加1张8分,每种要增加的张数是 (680-4×20-8×60)÷(4+8)=10(张). 
+因此4分有20+10=30(张),8分有60+10=70(张).
+【答案】4分有30张,8分有70张.
+
+喜羊羊的存钱罐中只有5角和1元的硬币共100枚，其中5角的硬币比1元的硬币多20元，喜羊羊的存钱罐中总共有________钱。
+【考点】盈亏问题   【难度】3星   【题型】填空
+【关键词】学而思杯，4年级，第3题
+ EMBED Equation.DSMT4  元。 EMBED Equation.DSMT4  枚， EMBED Equation.DSMT4  枚， EMBED Equation.DSMT4  元。
+【答案】 EMBED Equation.DSMT4  元
+
+小同有一个储蓄筒，存放的都是硬币，其中2分币比5分币多22个；按钱数算，5分币却比2分币多4角；另外，还有36个1分币．小同共存了多少钱？
+【考点】鸡兔同笼问题   【难度】3星   【题型】解答
+【关键词】假设思想方法
+假设去掉22个2分币，那么按钱数算，5分币比2分币多8角4分，一个5分币比一个2分币多3分，所以5分币有 EMBED Equation.DSMT4  （个），2分币有 EMBED Equation.DSMT4  （个）， EMBED Equation.DSMT4    EMBED Equation.DSMT4  （分）．
+【答案】 EMBED Equation.DSMT4  分
+
+现有大小油桶50个，每个大桶可装油4千克，每个小桶可装油2千克，大桶比小桶共多装油20千克，问大小桶各多少个?
+【考点】鸡兔同笼问题   【难度】3星   【题型】解答
+【关键词】假设思想方法
+方法一：假设50个油桶都是大桶，则共装油 EMBED Equation.DSMT4  千克，而这小桶所装油则为0．这样大桶比小桶多装200千克，比条件所给的差数多了 EMBED Equation.DSMT4  千克，若在50个大桶中把一部分大桶换成小桶，则每拿一个大桶换成小桶，大桶装的油就减少4千克，而小桶共装的油就增加2千克，那么大桶比小桶多装的数量就减少 EMBED Equation.DSMT4  千克，所以小桶有： EMBED Equation.DSMT4  (个)，大桶有： EMBED Equation.DSMT4  (个).
+方法二：这道题也可以用另外一种假设；每个大桶比每个小桶多装2千克，如果大小桶同样多，大桶要比小桶共多装20千克，则应该大小桶各 EMBED Equation.DSMT4  个，现在共有50个桶，在剩下的 EMBED Equation.DSMT4  个桶中，大小桶应装同样多的油，而每个大桶装的油是每个小桶装的 EMBED Equation.DSMT4  倍，那么在这30个桶中，应该有 EMBED Equation.DSMT4  个大桶， EMBED Equation.DSMT4  个小桶；所以可求出50个桶中，有大小桶各多少个．
+解： EMBED Equation.DSMT4  (个)    
+ EMBED Equation.DSMT4  (个)  (大桶)
+ EMBED Equation.DSMT4  (个)    (大桶共有)
+ EMBED Equation.DSMT4  (个)  (小桶共有)
+【答案】大桶 EMBED Equation.DSMT4  个，小桶 EMBED Equation.DSMT4  个
+
+大、小猴共 EMBED Equation.DSMT4  只，它们一起去采摘水蜜桃．猴王不在时，一只大猴一个小时可采摘 EMBED Equation.DSMT4  千克，一只小猴子一小时可摘 EMBED Equation.DSMT4  千克；猴王在场监督的时候，每只猴子不论大小每小时都可以多采摘 EMBED Equation.DSMT4  千克．一天，采摘了 EMBED Equation.DSMT4  小时，其中第一小时和最后一小时猴王在监督，结果共采摘了 EMBED Equation.DSMT4  千克水蜜桃．在这个猴群中，共有小猴子多少只？
+【考点】鸡兔同笼问题   【难度】3星   【题型】解答
+【关键词】假设思想方法
+其实大猴子和小猴子就相当于鸡兔问题中的鸡和兔．但是却有猴王来捣乱，所以我们先让猴王消失．一天中，猴王监视了 EMBED Equation.DSMT4  小时，假设猴王一直都不在，同猴王在时相比，每只猴子每小时都会少采 EMBED Equation.DSMT4  千克，那样猴群只能采摘 EMBED Equation.DSMT4  (千克)；这是一天也就是 EMBED Equation.DSMT4  小时的工作量，据此可以求出这群猴每小时采 EMBED Equation.DSMT4  (千克)；假设都是大猴子，应该每小时采摘 EMBED Equation.DSMT4  (千克)，比实际多采了 EMBED Equation.DSMT4  (千克)．而每只小猴子被假设成大猴子，会多采 EMBED Equation.DSMT4  (千克)．因此可以求出小猴子有： EMBED Equation.DSMT4  (只)．
+【答案】 EMBED Equation.DSMT4  只
+
+今年是1998年,父母年龄(整数)和是78岁,兄弟的年龄和是17岁.四年后(2002年)父的年龄是弟的年龄的4倍,母的年龄是兄的年龄的3倍.那么当父的年龄是兄的年龄的3倍时,是公元哪一年？
+【考点】鸡兔同笼问题   【难度】3星   【题型】解答
+【关键词】假设思想方法
+4年后,两人年龄和都要加8.此时兄弟年龄之和是17+8=25,父母年龄之和是78+8=86.我们可以把兄的年龄看作"鸡"头数,弟的年龄看作"兔"头数.25是"总头数".86是"总脚数".根据公式,兄的年龄是 (25×4-86)÷(4-3)=14(岁). 1998年,兄年龄是14-4=10(岁). 父年龄是 (25-14)×4-4=40(岁). 因此,当父的年龄是兄的年龄的3倍时,兄的年龄是 (40-10)÷(3-1)=15(岁),这是2003年. 
+【答案】 EMBED Equation.DSMT4  年
+
+一份稿件,甲单独打字需6小时完成.乙单独打字需10小时完成,现在甲单独打若干小时后,因有事由乙接着打完,共用了7小时.甲打字用了多少小时？
+【考点】鸡兔同笼问题   【难度】3星   【题型】解答
+【关键词】假设思想方法
+我们把这份稿件平均分成30份(30是6和10的最小公倍数),甲每小时打30÷6=5(份),乙每小时打30÷10=3(份). 现在把甲打字的时间看成"兔"头数,乙打字的时间看成"鸡"头数,总头数是7."兔"的脚数是5,"鸡"的脚数是3,总脚数是30,就把问题转化成"鸡兔同笼"问题了. 根据前面的公式"兔"数=(30-3×7)÷(5-3) =4.5, "鸡"数=7-4.5 =2.5,  也就是甲打字用了4.5小时,乙打字用了2.5小时. 
+【答案】 EMBED Equation.DSMT4  小时
+
+箱子里红、白两种玻璃球，红球数是白球数的 EMBED Equation.DSMT4  倍多 EMBED Equation.DSMT4  只，每次从箱子里取出 EMBED Equation.DSMT4  只白球、 EMBED Equation.DSMT4  只红球．如果经过若干次以后，箱子里剩下 EMBED Equation.DSMT4  只白球、 EMBED Equation.DSMT4  只红球．那么箱子里原有红球多少只？ 
+【考点】鸡兔同笼问题   【难度】3星   【题型】解答
+【关键词】假设思想方法
+假设每次一起取 EMBED Equation.DSMT4  只白球和 EMBED Equation.DSMT4  只红球，由于每次拿得红球都是白球的 EMBED Equation.DSMT4  倍，所以最后剩下的红球数应该刚好是白球数的 EMBED Equation.DSMT4  倍多 EMBED Equation.DSMT4  ．由于每次取的白球和原定的一样多，所以最后剩下的白球应该不变，仍然是 EMBED Equation.DSMT4  个．按照我们的假设，剩下的红球应该是白球的 EMBED Equation.DSMT4  倍多 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  (只)．但是实际上最后剩了 EMBED Equation.DSMT4  只红球，比假设多剩 EMBED Equation.DSMT4  只，因为每一次实际取得与假设相比少 EMBED Equation.DSMT4  只，所以可以知道一共取了 EMBED Equation.DSMT4  (次)．所以可以知道原来有红球 EMBED Equation.DSMT4  (只)．
+【答案】 EMBED Equation.DSMT4  只
+
+车库中停放若干辆双轮摩托车和四轮小卧车，车的辆数与车的轮子数之比是2∶5。问：摩托车的辆数与小卧车的辆数之比是多少？
+【考点】鸡兔同笼问题   【难度】4星   【题型】解答
+【关键词】华杯赛，初赛，第10题
+车库中，平均每2辆车有5个轮子，也就是说，平均每4辆车有10个轮子。简单的试凑可以知道，1辆小卧车和3辆摩托车恰好有10个轮子。所以摩托车的辆数与小卧车的辆数之比为3∶1
+【答案】 EMBED Equation.DSMT4  : EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+6-1-9.鸡兔同笼问题（二）.题库	                  教师版                          page  PAGE 6 of  NUMPAGES 7
+
+
+知识精讲
+
+
+
+
+例题精讲
+
+
+6-1-9.鸡兔同笼问题（二）
+
+
+
+
+教学目标
+
+
+
+
+
+

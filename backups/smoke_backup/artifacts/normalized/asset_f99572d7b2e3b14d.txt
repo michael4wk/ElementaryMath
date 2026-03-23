@@ -1,0 +1,353 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+数字谜从形式上可以分为横式数字谜与竖式数字谜，从运算法则上可以分为加减乘除四种形式的数字谜。横式与竖式亦可以互相转换，本讲中将主要介绍数字谜的一般解题技巧。主要横式数字谜问题，因此，会需要利用数论的简单奇偶性等知识解决数字谜问题
+
+ SHAPE  \* MERGEFORMAT 
+
+一、基本概念
+填算符：指在一些数之间的适当地方填上适当的运算符号（包括括号），从而使这些数和运算符号构成的算式成为一个等式。
+算符：指 +、-、×、÷、（）、[]、｛｝。
+二、解决巧填算符的基本方法
+（1）凑数法：根据所给的数，凑出一个与结果比较接近的数，再对算式中剩下的数字作适当的增加或减少，从而使等式成立。
+（2）逆推法：常是从算式的最后一个数字开始，逐步向前推想，从而得到等式。
+三、奇数和偶数的简单性质
+（一）定义：整数可以分为奇数和偶数两类
+（1）我们把1，3，5，7，9和个位数字是1，3，5，7，9的数叫奇数.
+（2）把0，2，4，6，8和个位数是0，2，4，6，8的数叫偶数.
+
+（二）性质：　①奇数≠偶数.
+②整数的加法有以下性质：
+　　奇数+奇数=偶数；
+　　奇数+偶数=奇数；
+　　偶数+偶数=偶数.
+　　③整数的减法有以下性质：
+　　奇数-奇数=偶数；
+　　奇数-偶数=奇数；
+　　偶数-奇数=奇数；
+　　偶数-偶数=偶数.
+　　④整数的乘法有以下性质：
+　　奇数×奇数=奇数；
+　　奇数×偶数=偶数；
+偶数×偶数=偶数.
+	
+ SHAPE  \* MERGEFORMAT 
+模块一、填横式数字谜
+
+将数字1~9填入下面方框，每个数字恰用一次，使得下列等式成立； EMBED Equation.DSMT4  现在“2”、“4”已经填入，当把其它数字都填入后，算式中唯一的减数（★处）是      ．
+【考点】填横式数字谜之复杂的横式数字谜   【难度】4星   【题型】填空
+【关键词】迎春杯，高年级，初赛，3试题
+方法一：首先可以估算四位数的取值范围：四位数不大于 EMBED Equation.DSMT4  ，不小于 EMBED Equation.DSMT4  ．显然四位数的千位数字只能是 EMBED Equation.DSMT4  ．再由四位数与2的和能被4整除，可以确定四位数的个位数字一定是偶数，只能是6或8．若为6，由个位是8而能被4整除的数其十位数字是偶数，可知四位数只能为 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  ，故只需利用剩下的数凑出10即可．剩下的数字是1，3，5，不能凑出10．所以四位数的个位数字不是6．四位数的个位数字是8时，由个位是0而能被4整除的数其十位数字是偶数，故四位数的十位数字是1、3、7或9．当四位数的十位数字是1时，四位数只可能是 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  ，故只需利用剩下的数凑出27即可．剩下的数字是3，5，6，不能凑出27；当四位数的十位数字是3时，四位数只可能是 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  ，故只需利用用剩下的数凑出22即可．剩下的数字是1，5，6，不能凑出22；当四位数的十位数字是5时，四位数只可能是7658或7958，若为7958，则由 EMBED Equation.DSMT4  ，需利用剩下的数凑出17即可．剩下的数字是1，3，6，不能凑出17；若为7658，有 EMBED Equation.DSMT4  ；当四位数的十位数字是9时，四位数只可能是7698，而 EMBED Equation.DSMT4  ，故只需利用剩下的数凑出82即可．剩下的数字是3，5，6，不能凑出82；故此题只有惟一答案： EMBED Equation.DSMT4  ．算式中唯一的减数是1．
+方法二：根据弃九法，7□□□+2+4+□□+★被9整除，而(7□□□+2)÷4+□□-★也被9整除。所以，后一式乘以4得到7□□□+2+4×□□-4×★被9整除，减去前一式得到3×□□-4-5×★被9整除。所以，★被3除余1，而4和7都已用，则★=1。
+【答案】 EMBED Equation.DSMT4  
+
+将1～9这九个数字分别填入下面算式的空格内，其中有一个数字已经知道，每个空格内只许填一个数字，使算式成立： EMBED Equation.DSMT4  
+【考点】填横式数字谜之复杂的横式数字谜  【难度】3星   【题型】填空  
+观察此横式，共三个算式， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，要使这三个算式的运算结果相同.由于第三个算式的减数已经知道，所以选择第三个算式 EMBED Equation.DSMT4  的差作为解题的突破口.因为 EMBED Equation.DSMT4  中被减数可填8和9，所以 EMBED Equation.DSMT4  ，的差就可以为1和2这两种情况.
+（1）若第三个算式为 EMBED Equation.DSMT4  ，由于第一个算式 EMBED Equation.DSMT4  ，不论这五个空格内填什么数字，都不能出现商为1，因此第三个算式不可能为 EMBED Equation.DSMT4  .
+（2）若第三个算式为 EMBED Equation.DSMT4  ，那么第一个算式为： EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，从而积的百位数为1，此时还有2，3，4，5，6，8可填，由数字不重复出现可得两位乘数只能为86、83、82、64、62五种取值。
+　　    若乘数为86，积为86×2＝172，7已出现，不行；
+　　    若乘数为83，积为83×2＝166，6重复出现，不行；
+若乘数为82，积为82×2＝164，剩下的5－3＝2，可以，此时有 EMBED Equation.DSMT4  
+　　    若乘数为64，积为64×2＝128，剩下的5－3＝2，可以，此时有 EMBED Equation.DSMT4  
+若乘数为62，积为62×2＝124，2重复出现，不行.
+
+
+【答案】 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  。
+
+1～9这九个数字分别填入下面算式的空格中，每个空格只许填一个数字，使算式成立：
+ EMBED Equation.DSMT4  
+【考点】填横式数字谜之复杂的横式数字谜  【难度】4星   【题型】填空  
+由于三个算式都是两位数除以一位数，所以考虑起来比较困难.
+（1）如果1出现在被除数的十位，则每个算式的商最小为2，最大为9.
+为了叙述方便，将方格内先填上字母： EMBED Equation.DSMT4  
+①若 EMBED Equation.DSMT4  ，则三个算式中A＝D＝G＝1，出现重复数字，
+所以三个算式的商不可能都为2.
+② EMBED Equation.DSMT4  ，则三个算式中的A、D、G必为1和2，
+也出现重复数字，所以三个算式的商不可能都为3.
+③ EMBED Equation.DSMT4  ，则三个算式中的A、D、G为1、2和3，
+12÷3＝4 24÷6＝4 32÷8＝4
+16÷4＝4 28÷7＝4 36÷9＝4
+若第一个算式为 EMBED Equation.DSMT4  ，则D与G都不能为2，只能为3，出现重复数字，因此第一个算式为 EMBED Equation.DSMT4  ，由于4与6都已用过，所以第二个算式不可能为 EMBED Equation.DSMT4  ，便为 EMBED Equation.DSMT4  ，这时剩下3、5、9三个数字没有用过，而这三个数字无法组成商为4的除法算式，因此三个算式的商不可能都为4.
+④ 三个算式的商不可能都为5，否则会出现B＝E＝H＝5，或B、E、H中有为0的，而我们所使用的数字中不包括0.
+⑤若 EMBED Equation.DSMT4  ，18÷3＝6 42÷7＝6 54÷9＝6
+由于在这三个算式的被除数与除数部分，4重复出现，因此三个算式的商不可能都为6.
+⑥若 EMBED Equation.DSMT4  ，
+14÷2＝7 21÷3＝7 28÷4＝7 42÷6＝7，
+49÷7＝7 56÷8＝7 63÷9＝7
+由于找不到三个左边数字不重复出现的式子，因此三个算式的商不可能都为7.
+⑦若 EMBED Equation.DSMT4  
+16÷2＝8 24÷3＝8 32÷4＝8
+56÷7＝8 64÷8＝8 72÷9＝8
+由于找不到三个左边数字不重复出现的式子，因此三个算式的商不可能都为8．
+⑧若 EMBED Equation.DSMT4  
+18÷2＝9 27÷3＝9 36÷4＝9 54÷6＝9
+63÷7＝9 72÷8＝9 81÷9＝9
+由于找不到三个左边数字不重复出现的式子，因此三个算式的商不可能都为9．
+（2）如果1出现在被除数的个位，则商为3、7、9、13、17、27．
+ ①若 EMBED Equation.DSMT4  ，
+21÷7＝3剩下3、4、5、6、8、9这六个数字，不可能组成被除数是两位数，
+除数是一位数且商为3的除法算式，因此这三个算式的商不可能都为3．
+②若 EMBED Equation.DSMT4  ，21÷3＝7 56÷8＝7 49÷7＝7
+便有 EMBED Equation.DSMT4  
+③若 EMBED Equation.DSMT4  ，81÷9＝9 54÷6＝9 27÷3＝9
+便有 EMBED Equation.DSMT4  
+④若 EMBED Equation.DSMT4  
+91÷7＝13 52÷4＝13，还剩3、6、8三个数字，不可能组成商为13的除法算式．
+因此三个算式的商不可能都为13．
+⑤若 EMBED Equation.DSMT4  ，51÷3＝17 68÷4＝17，
+还剩2、7、9三个数字，不可能组成商为17的除法算式．因此三个算式的商不可能都为17．
+⑥若 EMBED Equation.DSMT4  ，81÷3＝27 54÷2＝27，
+还剩6、7、9三个数字，不可能组成商为27的除法算式．因此三个算式的商不可能全为27．
+（3）如果1出现在除数部分，则商为23～29和32，经试验无一成立．
+解 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  	
+模块二、填横式数字谜综合
+将1～9分别填入下面算式的中 EMBED Equation.DSMT4  ，使每个算式都成立，其中1，2，5已填出.
+【考点】填横式数字谜之整除性质   【难度】4星   【题型】填空  
+①审题.本题由两个算式构成，题目中给了三个数字.由题目可见，第一个算式的要求比较高.
+②选择解题的突破口.填出第一式是解决这道题的关键.
+③确定各□中的数字，观察题目发现，满足第一个算式的只有7×8＝56和 6×9＝54.如果第一式填 7×8＝56，则剩下的数是3，4，9.无论怎样把它们填入第二式，都不能满足.所以这种填法不行.如果第一式填 6×9＝54，则剩下的数是3，7，8.可以这样填入第二式，即： EMBED Equation.DSMT4  本题的答案是： EMBED Equation.DSMT4  
+【答案】
+ EMBED Equation.DSMT4  
+
+下题是由1～9这九个数字组成的算式，其中有一个数字已经知道，请将其余的数字填入空格，使算式成立： EMBED Equation.DSMT4  
+【考点】填横式数字谜之复杂的横式数字谜   【难度】4星   【题型】填空  
+由于第一个算式中已经知道了一个数字，所以选择第一个算式作为解题的突破口．
+由于 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以第一个算式只有这两种情况。
+现在看第二个算式，为了叙述方便，先将第二个算式的空格内填上字母： EMBED Equation.DSMT4   
+由于第二个算式的结果为一位数，所以第二个算式中 EMBED Equation.DSMT4  的商必为一位数，且不为1．
+①若第一个算式为 EMBED Equation.DSMT4  ，则还剩1、2、3、7、8这五个数字，因此D为1或2．
+若D＝1，则还剩2、3、7、8这四个数字，无论怎样填，也都无法使算式 EMBED Equation.DSMT4  成立．
+若D＝2，则还剩1、3、7、8这四个数字，无论怎样填，都不能使算式 EMBED Equation.DSMT4  成立．
+因此第一个算式不可能为 EMBED Equation.DSMT4  
+②若第一个算式为 EMBED Equation.DSMT4  ，则还剩1、2、3、4、9这五个数字，D可能为1、2或3．
+若D＝1，还剩下2、3、4、9这四个数字，无论怎样填，都无法使算式 EMBED Equation.DSMT4  成立．
+若D＝2，则还剩1、3、4、9这四个数字，无论怎样填，都无法使算式 EMBED Equation.DSMT4  成立．
+若D＝3，则还剩1、2、4、9这四个数字， EMBED Equation.DSMT4  
+解 EMBED Equation.DSMT4  ，其中7和8可对换，4和9可对换．
+【答案】
+ EMBED Equation.DSMT4  ，其中7和8可对换，4和9可对换．
+
+是由1～9这九个数字组成的算式，请将这些数字填入空格，使算式成立． EMBED Equation.DSMT4  
+【考点】填横式数字谜之复杂的横式数字谜   【难度】4星   【题型】填空  
+为了叙述方便，先将算式各空格中填上字母： EMBED Equation.DSMT4  ,于第二个算式的左右两边是两个一位数相除，商必为一位数，且不为1．因此选择第二个算式左右两边的商作为解题的突破口．而这个商可以为2、3或4．
+①若 EMBED Equation.DSMT4  ，有2÷1＝2， 4÷2＝2 ，6÷3＝2， 8÷4＝2，
+2÷1＝6÷3，还剩4、5、7、8、9这五个数字， EMBED Equation.DSMT4  的和最大为 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  的积最小为 EMBED Equation.DSMT4  ，所以不可能使第一式成立．
+2÷1＝8÷4，则还剩3、5、6、7、9这五个数字， EMBED Equation.DSMT4  的和最大为 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  的积最小为 EMBED Equation.DSMT4  ，所以不可能使第一式成立。
+4÷2＝6÷3，则还剩1、5、7、8、9这五个数字， EMBED Equation.DSMT4  的和最大为 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  的积最小为 EMBED Equation.DSMT4  ，所以不可能使第一式成立。
+6÷3＝8÷4，则还剩1、2、5、7、9这五个数字，有 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  
+②若 EMBED Equation.DSMT4  ，有3÷1＝3， 6÷2＝3 ，9÷3＝3
+3÷1＝6÷2，则还剩4、5、7、8、9这五个数字，由于 EMBED Equation.DSMT4  的和最大为 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  的积最小为 EMBED Equation.DSMT4  ，所以不可能使第一式成立。
+ 6÷2＝9÷3，则还剩1、4、5、7、8这五个数字，由于 EMBED Equation.DSMT4  的和最大为 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  的积最小为 EMBED Equation.DSMT4  ，所以不可能使第一式成立。
+③若 EMBED Equation.DSMT4  ，4÷1＝4， 8÷2＝4
+4÷1＝8÷2，则还剩3、5、6、7、9这五个数字，由于 EMBED Equation.DSMT4  的和最大为 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  的积最小为 EMBED Equation.DSMT4  ，所以不可能使第一式成立。
+【答案】 EMBED Equation.DSMT4  
+
+将1～8这八个数字分别填入下面算式的□中 EMBED Equation.DSMT4  ，使每个算式都成立.
+【考点】填横式数字谜之整除性质   【难度】4星   【题型】填空  
+①审题.题目中的□比较多，且两个算式要求都比较高.如果硬猜会很难，为叙述方便，我们将各空格中填上字母如下： EMBED Equation.DSMT4  
+　　    ②选择解题的突破口.由于要填的数字中没有0，而所有的数字不能重复.所以，第一式的A、B、D不能填5.且第二式的E、F中，只能有一个填5，不妨设可填在E上.这样，5只能填在C、E、G、H四个空格之一.这就是解决本题的突破口.
+　　    ③确定各□中的数字.
+（i）若C＝5，则第一式为： EMBED Equation.DSMT4  ，空格A、B只能填7和8，此时D＝6.即： EMBED Equation.DSMT4  .此时，剩下数字1，2，3，4去填第二式.在用它们去填E、F时，有如下几种情况：1×2，1×3，1×4，2×3，2×4，3×4.（注意：在讨论中，应该把各种可能性不重、不漏地考虑到.这样从小到大，循序渐进的方法很重要）.把每一种情况都试验结果知，只有E、F填3和4时，可以满足第二个等式，此时， EMBED Equation.DSMT4  .这就找到了一个解. EMBED Equation.DSMT4  
+　　    （ii）若E＝5，则第二个算式为： EMBED Equation.DSMT4  ，F不能填偶数，否则结果中的H＝9，重复.F只能填奇数1，3，7.若F＝1，则G＝1，出现重复数字，不行，若F＝3，则第二式为： EMBED Equation.DSMT4  .剩下数字1，6，7，8，无论怎样，都无法满足第一式，不行；若F＝7.则 EMBED Equation.DSMT4  ，出现重复数字.也不行.所以，E所在空格不能填5.
+　  　（iii）若G＝5，则第二个算式为 EMBED Equation.DSMT4  .这时，E、F可以填6、7或6、8.如果E、F填6、7，则有 EMBED Equation.DSMT4  ，H＝1.下面用剩下的数字2，3，4，8填第一式.分析第一式，可以得到两个解为： EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  
+如果E、F填6、8，则有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  下面用剩下的数字1，2，3，4填第一式，分析第一式，可以这样填： EMBED Equation.DSMT4  .
+　　  （iv）若H＝5，则第二个算式为： EMBED Equation.DSMT4  ，这时 EMBED Equation.DSMT4  ，的个位必须等于6. EMBED Equation.DSMT4  可以是1×6，2×3，2×8，7×8.如果E、F填1和6，则 EMBED Equation.DSMT4  ，重复，不行.如果 E、F填2和3，则 EMBED Equation.DSMT4  ，剩下的数字为：4、6、7、8，不论怎样填，都不能满足第一式，所以E、F不能填2和3.如果E、F填2和8，则G＝2，重复.不行.如果E、F填7和8，则第二式为 EMBED Equation.DSMT4  .剩下的数字是1，2，3，4.用它们填第一式，可以是： EMBED Equation.DSMT4  .解为 EMBED Equation.DSMT4  
+　     所以本题解为：
+　　　 INCLUDEPICTURE "D:\\htm\\华罗庚学校数学课本：四年级\\download\\latest\\resource.hkedu.sh.cn\\RESOURCE\\XX\\XXSX\\ALPK\\BL000059\\65_253.jpg" \* MERGEFORMATINET 
+【答案】
+ INCLUDEPICTURE "D:\\htm\\华罗庚学校数学课本：四年级\\download\\latest\\resource.hkedu.sh.cn\\RESOURCE\\XX\\XXSX\\ALPK\\BL000059\\65_253.jpg" \* MERGEFORMATINET 
+
+	将 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  这八个数字分别填入右图的八个○中，使得图中的六个等式都成立．则 EMBED Equation.DSMT4  _________
+           
+【考点】填横式数字谜之复杂的横式数字谜   【难度】5星   【题型】填空  
+如图，用字母表示○中的数字，那么第三行的两个○中的数分别为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，第三列的两个○中的数分别为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  中的数为 EMBED Equation.DSMT4  ．由于八个○中的数之和为 EMBED Equation.DSMT4  ，而这八个数分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  中的数为 EMBED Equation.DSMT4  ．可见，不用知道每个○中的数具体是多少就可以求出 EMBED Equation.DSMT4  中的数，但是我们还是应该求出八个○中的数具体是多少．因为 EMBED Equation.DSMT4  只能等于 EMBED Equation.DSMT4  或者 EMBED Equation.DSMT4  ，所以第三行的两个加数和第 EMBED Equation.DSMT4  列的两个加数应分别为 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  又只能等于 EMBED Equation.DSMT4  ，相应地， EMBED Equation.DSMT4  只能分解为 EMBED Equation.DSMT4  ，即第一行和第二行的两个加数应分别为 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，具体排列如右上图所示（填法不唯一）。
+【答案】 EMBED Equation.DSMT4  
+
+将 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  这八个数字分别填入右图的八个○中，使得图中的六个等式都成立．那么图中 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  四个数的乘积为多少？
+
+【考点】数阵图与数论   【难度】5星   【题型】填空  
+由题意可知，第三行的两个○中的数分别为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，第三列的两个○中的数分别为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  中的数为 EMBED Equation.DSMT4  ．
+由于八个○中的数之和为 EMBED Equation.DSMT4  ，而这八个数分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  中的数为 EMBED Equation.DSMT4  ．
+由上可知，八个○中的数分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，不妨假设 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，那么这八个数中 EMBED Equation.DSMT4  最大，所以 EMBED Equation.DSMT4  ．由于 EMBED Equation.DSMT4  比 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  都大，所以 EMBED Equation.DSMT4  至少为 EMBED Equation.DSMT4  ．同理可知 EMBED Equation.DSMT4  至少为 EMBED Equation.DSMT4  ．由于 EMBED Equation.DSMT4  ，且 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  不相同，所以只能是一个为 EMBED Equation.DSMT4  ，一个为 EMBED Equation.DSMT4  ．由于 EMBED Equation.DSMT4  比 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  都小，所以 EMBED Equation.DSMT4  不为 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  中有一个为 EMBED Equation.DSMT4  ．不妨设 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  ，且 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  四个数分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  之一，它们的乘积为 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+请将1～12这12个自然数分别填入到右图的方框中，每个数只出现1次，使得每个等式都成立．那么乘积 EMBED Equation.DSMT4  =____________
+ EMBED Equation.DSMT4  
+【考点】数阵图与数论   【难度】5星   【题型】填空  
+【关键词】迎春杯，三年级，初赛，第12题
+我们先从第三列入手，设这四个数从上到下依次为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，⑴  EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  ，若 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  不可能大于 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  只能为 EMBED Equation.DSMT4  ；⑵  EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ；⑶ 分析第三行，设第三行的前两个数分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  .由于 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  （ EMBED Equation.DSMT4  已经被 EMBED Equation.DSMT4  占用），故 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，结合⑵可知 EMBED Equation.DSMT4  只能为 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ;⑷ 若 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，而此时 EMBED Equation.DSMT4  （ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  已经分别被 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  占用），则 EMBED Equation.DSMT4  ，和题目条件矛盾；  若 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  .若 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  只能为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，则第四行中的被除数只能为 EMBED Equation.DSMT4  （ EMBED Equation.DSMT4  的倍数只剩下 EMBED Equation.DSMT4  ），第四行算式为 EMBED Equation.DSMT4  ，此时还余下 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  这四个数，而第一行中的两个加数的和为 EMBED Equation.DSMT4  ，不在这四个数当中，所以这种情况不成立，因此 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，可得 EMBED Equation.DSMT4  只能为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  ，此时第四行中的被除数为偶数，只有 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，经试验只能为 EMBED Equation.DSMT4  ，则第四行算式为 EMBED Equation.DSMT4  （如被除数为 EMBED Equation.DSMT4  则第四行算式为 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  已被占用）⑸ 剩下的 EMBED Equation.DSMT4  个数为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  中只有 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  能满足第一行 EMBED Equation.DSMT4  ⑹ 最终的结果如下图所示.
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+模块三、数字谜与逻辑推理
+题目中的图是一个正方体木块的表面展开图．若在正方体的各面填上数，使得对面两数之和为7，则A、B、C处填的数各是多少？
+
+【考点】填横式数字谜之逻辑推理    【难度】2星   【题型】填空
+【关键词】华杯赛，初赛，第3题
+1、4、A、C面是B的邻面，2是B的对面，B应填5；1、2、B、A是C的邻面，4是C的对面，C应填3；1是A的对面，A应填6.
+【答案】 EMBED Equation.DSMT4  , EMBED Equation.DSMT4  , EMBED Equation.DSMT4  
+
+自然数 EMBED Equation.3   EMBED Equation.3  满足： EMBED Equation.3  则 EMBED Equation.3  （    ）
+【考点】减法数字谜   【难度】3星   【题型】填空  
+【关键词】走美杯，3年级，初赛
+由题目可得 EMBED Equation.DSMT4  =9,  EMBED Equation.DSMT4  =5，则 EMBED Equation.DSMT4  + EMBED Equation.DSMT4  =9+5=14。
+【答案】 EMBED Equation.DSMT4  
+
+用下图的3张卡片，能组成29的倍数的数是             
+
+【考点】填横式数字谜之逻辑推理   【难度】2星   【题型】填空
+【关键词】学而思杯，3年级，第5题
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+如果一个至少两位的自然数N满足下列性质：在N的前面任意添加一些数字，使得得到的新数的数字和为N，但无论如何添加，这样得到的新数一定不能被N整除，则称N为“学而思数”。那么最小的“学而思数”是       。
+【考点】填横式数字谜之逻辑推理   【难度】3星   【题型】填空
+【关键词】学而思杯，6年级，第9题
+求最小的“学而思数”N，而且N至少是两位数，故从最小的两位数10开始考虑，显然10不满足条件，接着考虑11，在11前面添加一些数字构成一个数字和是11的多位数，这个多位数的奇数位与偶数位的数字和不可能相等，也不可能相差11的倍数，11是满足要求的最小的学而思数。
+【答案】 EMBED Equation.DSMT4  
+
+如图，摩托车里程表显示的数字表示摩托车已经行驶了24944千米，经过两小时后，里程表上显示的数字从左到右与从右到左的读数相同，若摩托车的时速不超过90千米，则摩托车在这两个小时内的平均速度是       千米/时。
+
+【考点】填横式数字谜之逻辑推理   【难度】3星   【题型】填空
+【关键词】希望杯，五年级，初赛，第15题，6分
+数字谜，开头是249的五位对称数是24942小于24944，开头是250的五位对称数是25052，25052-24944=108千米，251开头的五位对称数是25152，25152-24944=208，超过了90×2，所以摩托车的速度为108÷2=54千米/小时.
+【答案】 EMBED Equation.DSMT4  
+
+一辆汽车以不变的速度在行驶，司机看了三次里程表，如图8所示，由此可知汽车每小时行驶      千米。
+
+【考点】填横式数字谜之逻辑推理   【难度】3星   【题型】填空
+【关键词】希望杯，五年级，初赛，第19题，6分
+汽车每小时行驶的路程= EMBED Equation.DSMT4  ；
+           又有汽车每小时行驶的路程= EMBED Equation.DSMT4  。
+           于是又 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  。
+           又根据题意可知 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  肯定是0-9的整数，且不同为0，所以，只能是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  。
+           所以汽车每小时行驶45千米。
+【答案】 EMBED Equation.DSMT4  
+
+小明把5个数字的乘法算式的两边改写其中两个数字后得到错误算式：4×5×4×5×4＝2247，那么原来正确的乘法算式是______________。
+【考点】填横式数字谜之逻辑推理   【难度】3星   【题型】填空
+【关键词】迎春杯，中年级，初赛，第7题
+ EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  
+
+有一类多位数，从左数第3位数字开始，每位上的数都等于其左边第2个数减去左边第1个数的差．如74312、6422．那么这类数中最大的是　　　　．
+【考点】填横式数字谜之逻辑推理   【难度】3星   【题型】填空
+【关键词】迎春杯，四年级，初赛，第7题
+比较两个数的大小首先比较数位，数位相同，然后从首位开始比较相同数位上数字大小．可从后到前构造出满足条件的数位最长的数是 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+小明去同学家玩。走进了弄堂，但记不起门牌号码了。怎么办呢?他忽然想起，这个门牌号码挺有意思，曾经研究过一次。它是一个三位数，个位数字比百位数字大4，十位数字比个位也大4。根据这点记忆，你能帮助小明找到同学家吗?如果想到了，就写在下面。门牌号码是________.  
+【考点】填横式数字谜之逻辑推理   【难度】3星   【题型】填空
+【关键词】走美杯，3年级，决赛，第3题，8分
+因为个位数字比百位数字大4，十位数字比个位数字大4，说明十位数字比百位数字大8，那么在0～9这十个数字中相差8的有8和0与9和1，因为百位数字是最高位，所以不能为0，所以答案为：195
+【答案】 EMBED Equation.DSMT4  
+
+在信息时代信息安全十分重要，往往需要对信息进行加密。若按照“叠3加1取个位”的方式逐位加密，明码“16”加密之后的密码为“49”。若某个四位明码按照上述加密方式，经过两次加密得到的密码是“2445”，则明码是___________ 。
+【考点】填横式数字谜之逻辑推理   【难度】4星   【题型】填空
+【关键词】走美杯，初赛，六年级，第10题
+0～9这10个数字乘以3所得的数的个位数字互不相同是本题可以进行判断的基础。采用倒推法，可以得到经过一次加密之后的密码是“7118”，再进行倒推，可以得到原来的明码是2009.
+【答案】 EMBED Equation.DSMT4  
+
+在算式(A□B)△(C○D)中，□,△,○代表的是三个互不相同的四则运算符号（即加、减、乘、除），A,B,C,D是4个互不相同的非零阿拉伯数字．如果无论□,△,○具体代表的是哪三个互不相同的四则运算符号，(A□B)△(C○D)的计算结果都是整数．那么，四位数 EMBED Equation.DSMT4  是　　　　　　． 
+【考点】填横式数字谜之逻辑推理   【难度】4星   【题型】填空
+【关键词】迎春杯，六年级，初赛，第8题
+如果□，△，○三个符号中没有除号，只有加、减、乘号，那么计算结果肯定是整数，所以只需要考虑有除号的情况.先选择□为除号，△，○为加、减号，由于计算结果为整数，那么 EMBED Equation.DSMT4  为整数，故 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的倍数.同理可知 EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  的倍数.再选择□为减号，△为除号，○则可以加号或乘号，那么( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )及( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )都是整数，故( EMBED Equation.DSMT4  )是 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的公倍数. 由于( EMBED Equation.DSMT4  )是一个小于 EMBED Equation.DSMT4  的正整数，故 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  都比较小，此时已可以猜到 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  .详细的证明如下：假设 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，那么( EMBED Equation.DSMT4  )是 EMBED Equation.DSMT4  和( EMBED Equation.DSMT4  )的倍数，则是 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )的倍数，当 EMBED Equation.DSMT4  时 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ，依题意，又 EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  只能为 EMBED Equation.DSMT4  ，则( EMBED Equation.DSMT4  )是 EMBED Equation.DSMT4  的倍数，只能是 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  只能为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  只能为 EMBED Equation.DSMT4  . 又 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  互不相同，故 EMBED Equation.DSMT4  至少为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  最大为 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，四位数 EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  
+
+右图是一所小学的科技数，它有4层，正面每层的三个圆形窗户由左向右表示一个三位数，这些三位数是：837、571、206、439，但是不知道这四个数和哪一层的窗户对应，请你观察一下，然后画出表示2008的四个窗户 。
+
+【考点】填横式数字谜之逻辑推理    【难度】3星   【题型】填空
+【关键词】希望杯，4年级，初赛，25题
+对比发现1层右边窗户和4层中间窗户一样，1层位837，4层为571，3层位439，2层为206
+所以2008的图形为
+【答案】
+
+写有0、1、2、3、…、9的卡片各一张， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别拿走2张，然后报出自己所拿两张卡片上的数的和，已知 EMBED Equation.DSMT4  报5， EMBED Equation.DSMT4  报12， EMBED Equation.DSMT4  报10， EMBED Equation.DSMT4  报12， EMBED Equation.DSMT4  拿的是       和      ．
+【考点】填横式数字谜之逻辑推理   【难度】4星   【题型】填空
+【关键词】走美杯，3年级，初赛，第13题
+根据和不变的性质，知道不论A、B、C、D、E如何选择卡片，五个人选择卡片的和是不变的，首先10张卡片的和为 EMBED Equation.DSMT4  ，A、B、C、D的和为： EMBED Equation.DSMT4  ，所以E拿的卡片和为： EMBED Equation.DSMT4  ，
+因为 EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4  ,
+ EMBED Equation.DSMT4  
+        经过排除 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，E选择0和6。
+【答案】 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  
+
+写有1，2，3，…10的卡片各一张， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  分别拿走2张，然后报出自己所拿两张卡片上数的和。已知 EMBED Equation.DSMT4  报5， EMBED Equation.DSMT4  报12， EMBED Equation.DSMT4  报10， EMBED Equation.DSMT4  报12， EMBED Equation.DSMT4  拿的是________和__________ 。
+【考点】填横式数字谜之逻辑推理   【难度】4星   【题型】填空
+【关键词】走美杯，四年级，初赛，第10题
+根据和不变的性质，知道不论A、B、C、D、E如何选择卡片，五个人选择卡片的和是不变的，首先10张卡片的和为 EMBED Equation.DSMT4  ，A、B、C、D的和为： EMBED Equation.DSMT4  ，所以E拿的卡片和为： EMBED Equation.DSMT4  ，
+因为 EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4  ,
+ EMBED Equation.DSMT4  
+        经过排除 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，E选择10和6。
+【答案】 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  
+
+有9张纸牌，分别为1至9。A，B，C，D四人取牌，每人取2张。已知A取的两张牌之和是10；B取的两张牌之差是1；C取的两张牌之积是24；D取的两张牌之商是3。剩下的一张牌是    。
+【考点】填横式数字谜之逻辑推理   【难度】4星   【题型】填空
+【关键词】走美杯，4年级，决赛，第5题，10分
+C的两张牌只能是3，8或4，6。当C是3，8时，D只能是6，2。推知A是1，9，B是5，4，剩下一张是7；当C是4，6时，D是3，1或9，3，A是2，8。此时剩下的三张牌是5，7，9或1，5，7，不能满足B的要求，不合题意。
+【答案】 EMBED Equation.DSMT4  
+
+下表中，A、B、C、D、E、F、G、H、M各代表一个互不相同的非零数字，其中A＋B＝14，M÷G＝M－F＝H－C，D×F＝24，B＋E＝16，那么H代表　　　．
+
+【考点】填横式数字谜之逻辑推理   【难度】4星   【题型】填空
+【关键词】迎春杯，四年级，初赛，第10题
+由"A+B=14,D×F=24,B+E=16"、"A、B、C、D、E、F、G、H、M各代表一个互不相同的非零数字",则假定这九个字母就是1-9这9个数字.再由A+B=14=9+5=8+6,D×F=24=4×6=8×3,则A、B只能从5、9中取值.由于M÷G=M-F,可得M=6,G=2,F=3,则A=5,B=9,H-C=3,则C=1,D=8,F=3,H=4
+
+【答案】 EMBED Equation.DSMT4  
+
+将1、2、3、……、15、16填入右图的16个方格中，并满足下列条件.(1) EMBED Equation.DSMT4  ； (2)  EMBED Equation.DSMT4  ；(3)  EMBED Equation.DSMT4  ；   (4)  EMBED Equation.DSMT4  ；(5)  EMBED Equation.DSMT4  ；  (7)  EMBED Equation.DSMT4  ；(7)  EMBED Equation.DSMT4  ：  (8)  EMBED Equation.DSMT4  ；(9)  EMBED Equation.DSMT4  .那么L=__________.
+
+【考点】填横式数字谜之逻辑推理   【难度】4星   【题型】填空
+【关键词】迎春杯，中年级，复试，第12题
+由于 EMBED Equation.DSMT4  ，所以J=10或者8或者16或者5.根据 EMBED Equation.DSMT4  ，J不能是10和16，如果J是8，G是16，如果J是5，G是10，因为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以G大于11，所以J=8,G=16，P=10,F=5, EMBED Equation.DSMT4  ,H,M应是3和12，或者4和9，  EMBED Equation.DSMT4  ，E,M应是9和14，于是M=9,E=14,H=4.  EMBED Equation.DSMT4  所以 EMBED Equation.DSMT4  ，A,C应该是1和4或者2和3，但是H=4所以A,C应该是2和3， EMBED Equation.DSMT4  所以C不能等于3，C=2,A=3，D=15,现在还没有填的数有1、6、7、11、12、13， EMBED Equation.DSMT4  ，那么就只能是7+4=11,于是B=7,R=11，因为还有 EMBED Equation.DSMT4  只有可能是13-1=12或者13-12=1，但是最后剩下的L 一定是6.
+【答案】 EMBED Equation.DSMT4  
+
+如图，A,B,C,D,E,F,G,H,I,J表示10个各不相同的数字。表中的数为所在行与列的对应字母的和，例如“G+C=14”。请将表中其它的数全部填好。
+
+【考点】   【难度】星   【题型】填空
+【关键词】走美杯，3年级，决赛，第12题，12分
+由于 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  只能是 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ．同理 EMBED Equation.DSMT4  , EMBED Equation.DSMT4  , EMBED Equation.DSMT4  因此可以推出： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．可得下图．
+
+【答案】
+
+
+在下边的乘法算式中，“二”、“月”、“四”、“日”、“数”、“学”、“科”、“普”、“节”分别表示1~9中的不同数字，且“二”＝2、“四”＝4，如果四位数“二月四日”的22倍等于五位数“数学科普节”，那么，“数”+“学”+“科”+“普”+“节”的和等于__________。
+（A）12  （B）15   （C）16  （D）27
+【考点】填横式数字谜之逻辑推理   【难度】4星   【题型】选择
+【关键词】迎春杯，高年级，复试，4题
+ EMBED Equation.DSMT4  ，提示：等号右边的五位数，除去 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，五个数字之和最小是 EMBED Equation.DSMT4  ，所以只有选项 EMBED Equation.DSMT4  的 EMBED Equation.DSMT4  可能正确。因为数学科普节是 EMBED Equation.DSMT4  的倍数，所以(数+科+节)  EMBED Equation.DSMT4   (学+普)= EMBED Equation.DSMT4  。因为 EMBED Equation.DSMT4  ，所以(学+普)= EMBED Equation.DSMT4  ,(数+科+节)=  EMBED Equation.DSMT4  。由题意知，数= EMBED Equation.DSMT4  。在剩下的 EMBED Equation.DSMT4  中，两个数之和等于 EMBED Equation.DSMT4  的只有 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，两个数之和等于 EMBED Equation.DSMT4  的只有 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  。容易得到符合题意的算式： EMBED Equation.DSMT4  。所以“数”+“学”+“科”+“普”+“节”的和等于 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+5-1-1-2.算式谜（二）.题库	                        教师版                           page  PAGE 14 of  NUMPAGES 14
+
+
+教学目标
+
+
+5-1-1-2.算式谜（二）
+
+知识点拨
+
+例题精讲
+
+
+

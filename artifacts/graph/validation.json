@@ -1,0 +1,8 @@
+{
+  "topic_cycle_detected": false,
+  "chapter_cycle_detected": false,
+  "isolated_topic_count": 0,
+  "isolated_chapter_count": 4,
+  "override_error_count": 0,
+  "override_errors": []
+}

@@ -1,0 +1,785 @@
+{
+  "checked_at": "2026-03-23T12:36:43.526275+00:00",
+  "base_url": "http://127.0.0.1:18080",
+  "total_checks": 23,
+  "failed_checks": 0,
+  "ok": true,
+  "results": [
+    {
+      "name": "health",
+      "ok": true,
+      "status": 200,
+      "expected_status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": {
+          "status": "up"
+        },
+        "trace_id": "eb92bc52f48f4b479d13987fa120f878"
+      }
+    },
+    {
+      "name": "topics",
+      "ok": true,
+      "status": 200,
+      "expected_status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": [
+          {
+            "topic_id": "1-1-1-1",
+            "title": "小数四则混合运算综合",
+            "canonical_edition": "teacher",
+            "pair_status": "paired",
+            "prerequisites": [],
+            "learning_objectives": [
+              "本讲主要是通过一些速算技巧，培养学生的数感，并通过一些大数运算转化为简单运算，让学生感受学习的成就感，进而激发学生的学习兴趣"
+            ],
+            "common_mistakes": [
+              "二、要注意添括号或者去括号对运算符号的影响",
+              "注意到在被除数和除数的表达式中均出现了 【公式】 ，而且分别有相近的数 【公式】 与 【公式】 ，我们可以考虑把被除数做如下变形："
+            ],
+            "source_ref": {
+              "asset_id": "asset_97f0858849fbe632",
+              "file_path": "小学数学（教师版）/1-1-1-1 小数四则混合运算综合.教师版.doc",
+              "text_path": "artifacts/normalized/asset_97f0858849fbe632.txt"
+            }
+          }
+        ],
+        "meta": {
+          "total": 179,
+          "offset": 0,
+          "limit": 1
+        },
+        "trace_id": "688a8df3a4fe4346a58ed8d4eb6bd1e3"
+      }
+    },
+    {
+      "name": "problems",
+      "ok": true,
+      "status": 200,
+      "expected_status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": [
+          {
+            "problem_id": "problem_c581a9b1d0da00cd",
+            "topic_id": "1-1-1-1",
+            "stem": "计算： 【公式】",
+            "answer": null,
+            "analysis_steps": null,
+            "method_tags": [
+              "四则混合运算之提取公因数"
+            ],
+            "method_tag_source": "direct",
+            "grade_band": "5",
+            "difficulty": "",
+            "grade_source": "topic_mode",
+            "difficulty_source": "none",
+            "source_ref": {
+              "asset_id": "asset_97f0858849fbe632",
+              "file_path": "小学数学（教师版）/1-1-1-1 小数四则混合运算综合.教师版.doc",
+              "text_path": "artifacts/normalized/asset_97f0858849fbe632.txt"
+            }
+          }
+        ],
+        "meta": {
+          "total": 1303,
+          "offset": 0,
+          "limit": 1
+        },
+        "trace_id": "75bbf38693b445c3b082e48e3ae38c47"
+      }
+    },
+    {
+      "name": "search_get",
+      "ok": true,
+      "status": 200,
+      "expected_status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": {
+          "topics": [
+            {
+              "topic_id": "3-1-1",
+              "title": "行程问题基础",
+              "canonical_edition": "teacher",
+              "pair_status": "paired",
+              "prerequisites": [],
+              "learning_objectives": [],
+              "common_mistakes": [
+                "注意：在这种特定的题目中，随便选一个方便的数字做总路程并不是不科学的，因为我们可以把总路程设为“单位1”，这样做无非是设了“单位24”，也就是把所有路程扩大了24倍变成整数，没有任何问题，不论总路程设成多少，结论都是一样的，大家可以验证一下"
+              ],
+              "source_ref": {
+                "asset_id": "asset_1b129bf52f8fcbba",
+                "file_path": "小学数学（教师版）/3-1-1 行程问题基础.教师版.doc",
+                "text_path": "artifacts/normalized/asset_1b129bf52f8fcbba.txt"
+              },
+              "evidence": {
+                "query": "行程",
+                "fields": [
+                  {
+                    "field": "title",
+                    "snippet": "行程问题基础",
+                    "match_index": 0
+                  }
+                ],
+                "source_locator": {
+                  "topic_id": "3-1-1",
+                  "problem_id": "",
+                  "asset_id": "asset_1b129bf52f8fcbba",
+                  "file_path": "小学数学（教师版）/3-1-1 行程问题基础.教师版.doc",
+                  "text_path": "artifacts/normalized/asset_1b129bf52f8fcbba.txt",
+                  "line_hint": 3
+                }
+              }
+            }
+          ],
+          "problems": [
+            {
+              "problem_id": "problem_609d368dd0d0b612",
+              "topic_id": "3-1-1",
+              "stem": "如图，从A到B是12千米下坡路，从B到C是8千米平路，从C到D是4千米上坡路.小张步行，下坡的速度都是6千米/小时，平路速度都是4千米/小时，上坡速度都是2千米/小时.问小张从A到D的平均速度是多少?",
+              "answer": "4千米/时",
+              "analysis_steps": [
+                "从A到B的时间为：12÷6=2（小时），从B到C的时间为：8÷4=2（小时），从C到D的时间为：4÷2=2（小时），从A到D的总时间为：2+2+2=6（小时），总路程为：12+8+4=24（千米），那么从A到D 的平均速度为：24÷6=4（千米/时）．"
+              ],
+              "method_tags": [
+                "行程问题"
+              ],
+              "method_tag_source": "direct",
+              "grade_band": "4",
+              "difficulty": "2",
+              "grade_source": "topic_mode",
+              "difficulty_source": "direct",
+              "source_ref": {
+                "asset_id": "asset_1b129bf52f8fcbba",
+                "file_path": "小学数学（教师版）/3-1-1 行程问题基础.教师版.doc",
+                "text_path": "artifacts/normalized/asset_1b129bf52f8fcbba.txt"
+              },
+              "evidence": {
+                "query": "行程",
+                "fields": [
+                  {
+                    "field": "method_tags",
+                    "snippet": "行程问题",
+                    "match_index": 0
+                  }
+                ],
+                "source_locator": {
+                  "topic_id": "3-1-1",
+                  "problem_id": "problem_609d368dd0d0b612",
+                  "asset_id": "asset_1b129bf52f8fcbba",
+                  "file_path": "小学数学（教师版）/3-1-1 行程问题基础.教师版.doc",
+                  "text_path": "artifacts/normalized/asset_1b129bf52f8fcbba.txt",
+                  "line_hint": 3
+                }
+              }
+            }
+          ]
+        },
+        "meta": {
+          "topic_total": 6,
+          "problem_total": 91,
+          "limit": 1
+        },
+        "trace_id": "b79ad0aa26fc4848a6244f44ce92a7a5"
+      }
+    },
+    {
+      "name": "search_post",
+      "ok": true,
+      "status": 200,
+      "expected_status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": {
+          "topics": [
+            {
+              "topic_id": "3-1-1",
+              "title": "行程问题基础",
+              "canonical_edition": "teacher",
+              "pair_status": "paired",
+              "prerequisites": [],
+              "learning_objectives": [],
+              "common_mistakes": [
+                "注意：在这种特定的题目中，随便选一个方便的数字做总路程并不是不科学的，因为我们可以把总路程设为“单位1”，这样做无非是设了“单位24”，也就是把所有路程扩大了24倍变成整数，没有任何问题，不论总路程设成多少，结论都是一样的，大家可以验证一下"
+              ],
+              "source_ref": {
+                "asset_id": "asset_1b129bf52f8fcbba",
+                "file_path": "小学数学（教师版）/3-1-1 行程问题基础.教师版.doc",
+                "text_path": "artifacts/normalized/asset_1b129bf52f8fcbba.txt"
+              },
+              "evidence": {
+                "query": "行程",
+                "fields": [
+                  {
+                    "field": "title",
+                    "snippet": "行程问题基础",
+                    "match_index": 0
+                  }
+                ],
+                "source_locator": {
+                  "topic_id": "3-1-1",
+                  "problem_id": "",
+                  "asset_id": "asset_1b129bf52f8fcbba",
+                  "file_path": "小学数学（教师版）/3-1-1 行程问题基础.教师版.doc",
+                  "text_path": "artifacts/normalized/asset_1b129bf52f8fcbba.txt",
+                  "line_hint": 3
+                }
+              }
+            }
+          ],
+          "problems": [
+            {
+              "problem_id": "problem_609d368dd0d0b612",
+              "topic_id": "3-1-1",
+              "stem": "如图，从A到B是12千米下坡路，从B到C是8千米平路，从C到D是4千米上坡路.小张步行，下坡的速度都是6千米/小时，平路速度都是4千米/小时，上坡速度都是2千米/小时.问小张从A到D的平均速度是多少?",
+              "answer": "4千米/时",
+              "analysis_steps": [
+                "从A到B的时间为：12÷6=2（小时），从B到C的时间为：8÷4=2（小时），从C到D的时间为：4÷2=2（小时），从A到D的总时间为：2+2+2=6（小时），总路程为：12+8+4=24（千米），那么从A到D 的平均速度为：24÷6=4（千米/时）．"
+              ],
+              "method_tags": [
+                "行程问题"
+              ],
+              "method_tag_source": "direct",
+              "grade_band": "4",
+              "difficulty": "2",
+              "grade_source": "topic_mode",
+              "difficulty_source": "direct",
+              "source_ref": {
+                "asset_id": "asset_1b129bf52f8fcbba",
+                "file_path": "小学数学（教师版）/3-1-1 行程问题基础.教师版.doc",
+                "text_path": "artifacts/normalized/asset_1b129bf52f8fcbba.txt"
+              },
+              "evidence": {
+                "query": "行程",
+                "fields": [
+                  {
+                    "field": "method_tags",
+                    "snippet": "行程问题",
+                    "match_index": 0
+                  }
+                ],
+                "source_locator": {
+                  "topic_id": "3-1-1",
+                  "problem_id": "problem_609d368dd0d0b612",
+                  "asset_id": "asset_1b129bf52f8fcbba",
+                  "file_path": "小学数学（教师版）/3-1-1 行程问题基础.教师版.doc",
+                  "text_path": "artifacts/normalized/asset_1b129bf52f8fcbba.txt",
+                  "line_hint": 3
+                }
+              }
+            }
+          ]
+        },
+        "meta": {
+          "topic_total": 6,
+          "problem_total": 91,
+          "limit": 1
+        },
+        "trace_id": "a15f2c2f0be54cae958ade288cca5211"
+      }
+    },
+    {
+      "name": "graph_validation",
+      "ok": true,
+      "status": 200,
+      "expected_status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": {
+          "topic_cycle_detected": false,
+          "chapter_cycle_detected": false,
+          "isolated_topic_count": 0,
+          "isolated_chapter_count": 4,
+          "override_error_count": 0,
+          "override_errors": []
+        },
+        "trace_id": "52ab442a787340ffa0a933f255421a83"
+      }
+    },
+    {
+      "name": "quality_summary",
+      "ok": true,
+      "status": 200,
+      "expected_status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": {
+          "topic_count": 179,
+          "problem_count": 1303,
+          "explanation_count": 179,
+          "problem_quality": {
+            "empty_answer_count": 98,
+            "empty_answer_rate_pct": 7.52,
+            "empty_analysis_count": 251,
+            "empty_analysis_rate_pct": 19.26,
+            "formula_only_answer_count": 403,
+            "formula_only_answer_rate_pct": 30.93,
+            "formula_in_stem_count": 948,
+            "formula_in_stem_rate_pct": 72.76,
+            "missing_grade_band_count": 155,
+            "missing_grade_band_rate_pct": 11.9,
+            "missing_difficulty_count": 21,
+            "missing_difficulty_rate_pct": 1.61,
+            "missing_method_tags_count": 0,
+            "missing_method_tags_rate_pct": 0.0,
+            "grade_source_distribution": {
+              "topic_mode": 750,
+              "direct": 398,
+              "none": 155
+            },
+            "difficulty_source_distribution": {
+              "none": 21,
+              "direct": 1163,
+              "topic_mode": 119
+            },
+            "method_tag_source_distribution": {
+              "direct": 1182,
+              "topic_title": 121
+            }
+          },
+          "topic_quality": {
+            "missing_learning_objectives_count": 14,
+            "missing_learning_objectives_rate_pct": 7.82,
+            "missing_common_mistakes_count": 64,
+            "missing_common_mistakes_rate_pct": 35.75
+          },
+          "explanation_quality": {
+            "missing_summary_count": 0,
+            "missing_summary_rate_pct": 0.0
+          },
+          "top_method_tags": [
+            {
+              "tag": "初赛",
+              "count": 238
+            },
+            {
+              "tag": "希望杯",
+              "count": 221
+            },
+            {
+              "tag": "决赛",
+              "count": 154
+            },
+            {
+              "tag": "迎春杯",
+              "count": 148
+            },
+            {
+              "tag": "六年级",
+              "count": 138
+            },
+            {
+              "tag": "走美杯",
+              "count": 136
+            },
+            {
+              "tag": "华杯赛",
+              "count": 135
+            },
+            {
+              "tag": "五年级",
+              "count": 122
+            },
+            {
+              "tag": "学而思杯",
+              "count": 91
+            },
+            {
+              "tag": "4年级",
+              "count": 86
+            },
+            {
+              "tag": "二试",
+              "count": 78
+            },
+            {
+              "tag": "四年级",
+              "count": 66
+            },
+            {
+              "tag": "6年级",
+              "count": 62
+            },
+            {
+              "tag": "5年级",
+              "count": 62
+            },
+            {
+              "tag": "复赛",
+              "count": 60
+            },
+            {
+              "tag": "一试",
+              "count": 59
+            },
+            {
+              "tag": "1试",
+              "count": 59
+            },
+            {
+              "tag": "列方程解应用题",
+              "count": 58
+            },
+            {
+              "tag": "10分",
+              "count": 56
+            },
+            {
+              "tag": "3年级",
+              "count": 53
+            }
+          ]
+        },
+        "trace_id": "bcfa31454413451ea45282a6c759a9d5"
+      }
+    },
+    {
+      "name": "auth_whoami",
+      "ok": true,
+      "status": 200,
+      "expected_status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": {
+          "auth_enabled": true,
+          "public_paths": [
+            "/health"
+          ],
+          "authorized": true,
+          "auth_reason": "allow_all",
+          "api_key_id": "key_6725c252b4",
+          "api_key_name": "dev-full",
+          "allow_all": true,
+          "allow_prefixes": [],
+          "allow_audiences": [],
+          "audience_hint": "",
+          "revoked_reason": "",
+          "config_mtime": 1774267408528831874,
+          "rotation_group": "",
+          "rotation_phase": ""
+        },
+        "trace_id": "6e943a84d048491b90f1566c363cdd65"
+      }
+    },
+    {
+      "name": "auth_config",
+      "ok": true,
+      "status": 200,
+      "expected_status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": {
+          "auth_enabled": true,
+          "public_paths": [
+            "/health"
+          ],
+          "api_key_count": 6,
+          "revoked_key_count": 1,
+          "config_mtime": 1774267408528831874
+        },
+        "trace_id": "6b0e894416984014903858305bbefdd4"
+      }
+    },
+    {
+      "name": "auth_reload",
+      "ok": true,
+      "status": 200,
+      "expected_status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": {
+          "reloaded": true
+        },
+        "trace_id": "52584e118c764b85a1a2cd1bd46aebc7"
+      }
+    },
+    {
+      "name": "auth_rotation",
+      "ok": true,
+      "status": 200,
+      "expected_status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": [
+          {
+            "name": "core-search-key",
+            "old_key": "rotate-old-001",
+            "new_key": "rotate-new-001",
+            "phase": "retire"
+          }
+        ],
+        "meta": {
+          "total": 1
+        },
+        "trace_id": "9bf08b78a8b7452b8baa8be342a33595"
+      }
+    },
+    {
+      "name": "auth_rotation_check",
+      "ok": true,
+      "status": 200,
+      "expected_status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": {
+          "groups": [
+            {
+              "name": "core-search-key",
+              "phase": "retire",
+              "old_key_id": "key_1a577057f0",
+              "new_key_id": "key_0a2e7957b9",
+              "old_key_exists": true,
+              "new_key_exists": true,
+              "old_key_disabled": true,
+              "old_key_revoked": false
+            }
+          ],
+          "issues": [],
+          "ok": true
+        },
+        "trace_id": "4e044612c3ad45a2be2e8df88012d5c4"
+      }
+    },
+    {
+      "name": "auth_rotation_advice",
+      "ok": true,
+      "status": 200,
+      "expected_status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": {
+          "groups": [
+            {
+              "name": "core-search-key",
+              "phase": "retire",
+              "old_key_id": "key_1a577057f0",
+              "new_key_id": "key_0a2e7957b9",
+              "old_success_count": 0,
+              "new_success_count": 12,
+              "old_blocked_count": 12,
+              "suggestion": "stable"
+            }
+          ],
+          "window": 479
+        },
+        "trace_id": "0501d2a63577493caf2b9c73f340fa77"
+      }
+    },
+    {
+      "name": "auth_rotation_gate",
+      "ok": true,
+      "status": 200,
+      "expected_status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": {
+          "can_promote": true,
+          "blockers": [],
+          "min_consecutive_ok": 2,
+          "recent_consecutive_ok": 10,
+          "rotation_check_ok": true,
+          "advice": [
+            {
+              "name": "core-search-key",
+              "phase": "retire",
+              "old_key_id": "key_1a577057f0",
+              "new_key_id": "key_0a2e7957b9",
+              "old_success_count": 0,
+              "new_success_count": 12,
+              "old_blocked_count": 12,
+              "suggestion": "stable"
+            }
+          ]
+        },
+        "trace_id": "22477544a0e5447c9bf8414870630fb6"
+      }
+    },
+    {
+      "name": "auth_rotation_plan",
+      "ok": true,
+      "status": 200,
+      "expected_status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": {
+          "can_promote": true,
+          "blockers": [],
+          "plans": [
+            {
+              "name": "core-search-key",
+              "current_phase": "retire",
+              "suggestion": "stable",
+              "target_phase": "retire",
+              "eligible": false
+            }
+          ]
+        },
+        "trace_id": "894331848f6644bb9803c2b4c707e765"
+      }
+    },
+    {
+      "name": "readonly_whoami",
+      "ok": true,
+      "status": 200,
+      "expected_status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": {
+          "auth_enabled": true,
+          "public_paths": [
+            "/health"
+          ],
+          "authorized": true,
+          "auth_reason": "prefix_allowed",
+          "api_key_id": "key_975571bf28",
+          "api_key_name": "readonly-teacher",
+          "allow_all": false,
+          "allow_prefixes": [
+            "/health",
+            "/topics",
+            "/problems",
+            "/catalog",
+            "/auth"
+          ],
+          "allow_audiences": [
+            "teacher"
+          ],
+          "audience_hint": "",
+          "revoked_reason": "",
+          "config_mtime": 1774267408528831874,
+          "rotation_group": "",
+          "rotation_phase": ""
+        },
+        "trace_id": "51bb60147857483db5a61ef72b8f9142"
+      }
+    },
+    {
+      "name": "readonly_topics",
+      "ok": true,
+      "status": 200,
+      "expected_status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": [
+          {
+            "topic_id": "1-1-1-1",
+            "title": "小数四则混合运算综合",
+            "canonical_edition": "teacher",
+            "pair_status": "paired",
+            "prerequisites": [],
+            "learning_objectives": [
+              "本讲主要是通过一些速算技巧，培养学生的数感，并通过一些大数运算转化为简单运算，让学生感受学习的成就感，进而激发学生的学习兴趣"
+            ],
+            "common_mistakes": [
+              "二、要注意添括号或者去括号对运算符号的影响",
+              "注意到在被除数和除数的表达式中均出现了 【公式】 ，而且分别有相近的数 【公式】 与 【公式】 ，我们可以考虑把被除数做如下变形："
+            ],
+            "source_ref": {
+              "asset_id": "asset_97f0858849fbe632",
+              "file_path": "小学数学（教师版）/1-1-1-1 小数四则混合运算综合.教师版.doc",
+              "text_path": "artifacts/normalized/asset_97f0858849fbe632.txt"
+            }
+          }
+        ],
+        "meta": {
+          "total": 179,
+          "offset": 0,
+          "limit": 1
+        },
+        "trace_id": "66793b4fb84647109500f57071db3de9"
+      }
+    },
+    {
+      "name": "readonly_forbidden_student_topics",
+      "ok": true,
+      "status": 401,
+      "expected_status": 401,
+      "response": "HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "readonly_forbidden_graph",
+      "ok": true,
+      "status": 401,
+      "expected_status": 401,
+      "response": "HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "disabled_key_topics",
+      "ok": true,
+      "status": 401,
+      "expected_status": 401,
+      "response": "HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "revoked_key_topics",
+      "ok": true,
+      "status": 401,
+      "expected_status": 401,
+      "response": "HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "rotated_old_key_topics",
+      "ok": true,
+      "status": 401,
+      "expected_status": 401,
+      "response": "HTTP Error 401: Unauthorized"
+    },
+    {
+      "name": "rotated_new_key_topics",
+      "ok": true,
+      "status": 200,
+      "expected_status": 200,
+      "response": {
+        "code": 0,
+        "message": "ok",
+        "data": [
+          {
+            "topic_id": "1-1-1-1",
+            "title": "小数四则混合运算综合",
+            "canonical_edition": "teacher",
+            "pair_status": "paired",
+            "prerequisites": [],
+            "learning_objectives": [
+              "本讲主要是通过一些速算技巧，培养学生的数感，并通过一些大数运算转化为简单运算，让学生感受学习的成就感，进而激发学生的学习兴趣"
+            ],
+            "common_mistakes": [
+              "二、要注意添括号或者去括号对运算符号的影响",
+              "注意到在被除数和除数的表达式中均出现了 【公式】 ，而且分别有相近的数 【公式】 与 【公式】 ，我们可以考虑把被除数做如下变形："
+            ],
+            "source_ref": {
+              "asset_id": "asset_97f0858849fbe632",
+              "file_path": "小学数学（教师版）/1-1-1-1 小数四则混合运算综合.教师版.doc",
+              "text_path": "artifacts/normalized/asset_97f0858849fbe632.txt"
+            }
+          }
+        ],
+        "meta": {
+          "total": 179,
+          "offset": 0,
+          "limit": 1
+        },
+        "trace_id": "875675149b2f4cd797050662c5ebfad6"
+      }
+    }
+  ]
+}

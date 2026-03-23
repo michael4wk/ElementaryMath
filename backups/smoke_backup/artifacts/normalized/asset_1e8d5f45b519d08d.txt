@@ -1,0 +1,188 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+几何面积问题除了利用常规的五大模型、各种公式求得之外，还可以用图形分割的思想来做。我们发现，在迎春杯几何问题中，这类题目很多。掌握好这种思想方法，可以帮助我们解决很多几何难题。
+解题关键：分割其实就是运用特殊的三角形（等角直角三角形、等边三角形等）、正方形、等边图形的特殊性质进行分割而得，所以分割的关键是利用了特殊图形的关系解题。
+解题思想：这其实就是一种化整为零的思想，各位同学不仅要学会几何题中的这种方法，更要细细体味这种思想在解决各种问题中的妙用。
+
+ SHAPE  \* MERGEFORMAT 
+
+模块一、简单分割
+
+3个相同的正方形纸片按相同的方向叠放在一起(如图)，顶点A和B分别与正方形中心点重合，如果所构成图形的周长是48厘米，那么这个图形覆盖的面积是__________平方厘米.
+    
+【考点】图形的分割  【难度】2星   【题型】填空
+【关键词】迎春杯，中年级组，复试，4题
+将这3个正方形分割，可知这个图形的周长即为两个正方形纸片的周长之和，故正方形边长为48÷8=6（厘米），则图中每个分割得到的小正方形边长为6÷2=3（厘米），所以这个图形覆盖的面积为6×6×2+3×3×2=90（平方厘米）。
+【答案】 EMBED Equation.DSMT4  平方厘米
+
+正方形 EMBED Equation.DSMT4  的面积是1平方米，将四条边分别向两端各延长一倍，连结八个端点得到一个正方形(如图)，求大正方形的面积．
+
+【考点】图形的分割  【难度】2星   【题型】解答
+四条边分别向两端各延长一倍，很容易可以观察出，大正方形有9个小正方形组成，所以，大正方形的面积是： EMBED Equation.DSMT4  (平方米)．
+【答案】 EMBED Equation.DSMT4  平方米
+
+将边长为 EMBED Equation.DSMT4 的正方形各边的中点连结成第二个正方形，再将第二个正方形各边的中点连结成第三个正方形，依此规律，继续下去，得到下图那么，边长为 EMBED Equation.DSMT4 的正方形面积是图中阴影部分面积的________ 倍.
+
+【考点】图形的分割  【难度】3星   【题型】填空
+【关键词】希望杯，四年级，复赛，第6题，4分
+阴影部分是大正方形的0.5×0.5×0.5×0.5= EMBED Equation.DSMT4  ，所以正方形是阴影的16倍
+【答案】 EMBED Equation.DSMT4  倍
+
+正三角形 EMBED Equation.DSMT4  的面积是1平方米，将三条边分别向两端各延长一倍，连结六个端点得到一个六边形(如右图)，求六边形的面积．
+        
+【考点】图形的分割  【难度】3星   【题型】解答
+采用分割法，过 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别作平行线，得到右上图，其中所有小三角形的面积都相同，所以六边形面积等于13平方米．　
+【答案】 EMBED Equation.DSMT4  平方米
+
+正六边形 EMBED Equation.DSMT4  的面积是1平方米，将六条边分别向两端各延长一倍，交于六个点，组成如下图的图形，求这个图形的面积．
+
+【考点】图形的分割  【难度】3星   【题型】解答
+采用分割法，连接正六边形的对角线，会发现，所有的三角形面积都相同，一共有12个小三角形，原来正六边形的面积是1平方米，由6个小三角形组成，所以现在的大图形的面积是： EMBED Equation.DSMT4   (平方米)
+【答案】 EMBED Equation.DSMT4  平方米
+
+长方形ABCD的面积是40平方厘米，E、F、G、H分别为AC、AH、DH、BC的中点。三角形EFG的面积是      平方厘米。
+
+【考点】图形的分割  【难度】3星   【题型】填空
+【关键词】走美杯，五年级，初赛，第3题
+ EMBED Equation.DSMT4  （平方厘米）
+【答案】 EMBED Equation.DSMT4  平方厘米
+
+把同一个三角形的三条边分别5等分、7等分(如图1，图2)，然后适当连接这些等分点，便得到了若干个面积相等的小三角形．已知图1中阴影部分面积是294平方分米，那么图2中阴影部分的面积是______平方分米．
+      
+【考点】图形的分割  【难度】3星   【题型】填空
+图1中阴影部分占整个三角形面积的 EMBED Equation.DSMT4  ，图2中阴影部分占整个三角形面积的 EMBED Equation.DSMT4  ，故图2中阴影部分的面积为294÷ EMBED Equation.DSMT4  =200(平方分米)．
+【答案】 EMBED Equation.DSMT4  平方分米
+
+右图中的大正方形ABCD的面积是 1，其它点都是它所在的边的中点。请问：阴影三角形的面积是多少？
+
+【考点】图形的分割  【难度】3星   【题型】解答
+【关键词】华杯赛，初赛，第6题
+图中有大、中、小三个正方形，每个面积是前一个的 EMBED Equation.DSMT4  ，所以小正方形面积是 EMBED Equation.DSMT4  ，将小正方形各顶点标上字母如右图，很容易看出三角形JFG面积＝三角形IHG面积＝ EMBED Equation.DSMT4  ×正方形EFGH面积，三角形EJI面积＝ EMBED Equation.DSMT4  ×三角形EFH面积＝ EMBED Equation.DSMT4  ×正方形EFGH面积。所以阴影三角形JGI面积＝(1－ EMBED Equation.DSMT4  － EMBED Equation.DSMT4  － EMBED Equation.DSMT4  )×小正方形面积＝ EMBED Equation.DSMT4  ×小正方形面积＝ EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+下图中有四条弦，每一条弦都把大圆分割成两个面积比为1:3的区域，而且这些弦的交点恰好是一个正方形的四个顶点。这些弦把圆分割成9个区域，则此正方形的面积是区域P面积的		 倍。（ EMBED Equation.DSMT4  ）
+
+【考点】图形的分割  【难度】4星   【题型】填空
+【关键词】学而思杯，6年级，第1题
+去掉两边的弓形之后，中间部分面积是整个圆的一半，横竖两块中间部分面积和就等于圆面积，所以重叠部分面积等于4个P面积的和。即正方形面积是P的4倍。
+【答案】 EMBED Equation.DSMT4  
+
+模块二、化整为零
+
+在图中，三角形ABC和DEF是两个完全相同的等腰直角三角形，其中DF长9厘米，CF长3厘米，那么阴影部分的面积是多少平方厘米?
+
+【考点】图形的分割   【难度】3星   【题型】解答
+方法一：如图，将原题中图形分为12个完全一样的小等腰三角形．△ABC占有9个小等腰三角形，其中阴影部分占有6个小等腰三角形， EMBED Equation.DSMT4  =9×9÷2=40.5(平方厘米)，所以阴影部分的面积为40.5÷9×6=27(平方厘米)．
+
+方法二：如图，连接IG，有四边形ADGI为正方形，易知FG=FC=3(厘米)，所以DG=DF-FG=9-3=6(厘米)，于是S EMBED Equation.DSMT4  = EMBED Equation.DSMT4  × EMBED Equation.DSMT4  = EMBED Equation.DSMT4  × EMBED Equation.DSMT4  =9.而四边形IGFB为长方形，有BF=AD=DG=6(厘米)，GF=3(厘米)，所以 EMBED Equation.DSMT4  =6×3=18．阴影部分面积为A HIG与长方形IGFB的面积和，即为9+18=27(平方厘米)．
+
+方法三：如图，为了方便叙述，将图6-10中某些交点标上字母．
+
+易知三角形BIE、CGF、AIH、DGH均为等腰直角三角形．
+先求出等腰直角三角形AHI、CGF的面积，再用已知的等腰三角形ABC的面积与其作差，
+即为需求阴影部分的面积．有S EMBED Equation.DSMT4  = EMBED Equation.DSMT4  = EMBED Equation.DSMT4  ×EF×DF= EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  = EMBED Equation.DSMT4  ×CF×FG= EMBED Equation.DSMT4  ．
+因为CF=FG=3，所以DG=DF-FG=6．
+如图，可以将4个三角形DGH拼成一个边长为DG的正方形．
+
+所以， EMBED Equation.DSMT4   EMBED Equation.DSMT4  = EMBED Equation.DSMT4  ×DG×DG=9，而 EMBED Equation.DSMT4  = EMBED Equation.DSMT4  =9，
+所以 EMBED Equation.DSMT4  = S EMBED Equation.DSMT4  - EMBED Equation.DSMT4  - EMBED Equation.DSMT4  = EMBED Equation.DSMT4   - EMBED Equation.DSMT4  -9=27(平方厘米)．
+即阴影部分的面积为27平方厘米．
+【答案】 EMBED Equation.DSMT4  平方厘米
+
+正方形ABCD与等腰直角三角形BEF放在一起（如图），M、N点为正方形的边的中点，阴影部分的面积是14cm2，三角形BEF的面积是____ cm2。
+
+【考点】图形的分割  【难度】3星   【题型】填空
+【关键词】走美杯，四年级，初赛，第8题
+因为M、N是中点，故我们可以将该图形进行分割，所得图形如下
+
+图形中的三角形面积都相等，阴影部分由7个三角形组成，且其面积为14平方厘米，故一个三角形的面积为2平方厘米，那么三角形BEF的面积是18平方厘米。
+【答案】 EMBED Equation.DSMT4  平方厘米
+
+一个等腰直角三角形和一个正方形如图摆放，①、②、③这三块的面积分别是2、8、58，则④、⑤这两块的面积差是            ．
+    
+【考点】图形的分割  【难度】4星   【题型】填空
+【关键词】迎春杯，五年级，初赛，7题
+由于②的面积是①的4倍，所以可以把②分成4倍的①，而两个①为一个方格，一个方格的面积为 EMBED Equation.DSMT4  ．根据 EMBED Equation.DSMT4  ，则①与③一共是 EMBED Equation.DSMT4  格，所以①与③是 EMBED Equation.DSMT4  的长方形．所以正方形边长是①的直角边长的5倍，等腰直角三角形直角边长是①的直角边长的7倍，则④的格数为8格，⑤的格数为10格，④、⑤这两块的面积差是 EMBED Equation.DSMT4  (格)，1格的面积为4，所以④、⑤这两块的面积差为 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+如图4，在长方形 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别是 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  上的点，且使得四边形 EMBED Equation.DSMT4  是直角梯形， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．如果梯形 EMBED Equation.DSMT4  的面积是 EMBED Equation.DSMT4  平方厘米，那么长方形 EMBED Equation.DSMT4  的面积是         平方厘米．
+
+【考点】图形的分割  【难度】4星   【题型】填空
+【关键词】迎春杯，高年级组，初试，9题
+这是一道几何问题，重点考察同学们对等腰直角三角形性质的认识．
+方法一：在长方形 EMBED Equation.DSMT4  中，由于四边形 EMBED Equation.DSMT4  是直角梯形， EMBED Equation.DSMT4  ，可知 EMBED Equation.DSMT4  ，所以， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  都是等腰直角三角形．故可将长方形 EMBED Equation.DSMT4  分割，如图6：
+
+显然， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  平方厘米．
+方法二：在直角梯形 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  ，由 EMBED Equation.DSMT4  ，可知 EMBED Equation.DSMT4  ，因为直角三角形 EMBED Equation.DSMT4   与 EMBED Equation.DSMT4  的斜边 EMBED Equation.DSMT4  ，所以直角边 EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  ．于是， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．连结 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  平方厘米．
+【答案】 EMBED Equation.DSMT4  平方厘米
+
+一个长方形和一个等腰直角三角形如图放置，图中六块的面积分别为1，1，l，l，2，3．大长方形的面积是      ．
+
+【考点】图形的分割  【难度】4星   【题型】填空
+【关键词】走美杯，5年级，决赛，第3题，8分
+面积为2的部分可以划分为两个单位三角形，并可观察出，空白部分可以划分为14个单位三角形。所以，大长方形的面积为1+1+14+3=19。
+【答案】 EMBED Equation.DSMT4  
+
+如右图，一个面积为2009平方厘米的长方形，被分割成了一个长方形、两个等腰直角三角形、三个梯形．已知除了阴影长方形外，其它的五块面积都相等，且B是AC的中点；那么阴影长方形的面积是            平方厘米．
+
+【考点】图形的分割  【难度】4星   【题型】填空
+【关键词】迎春杯，五年级，初赛，7题
+方法一：设等腰直角三角形的腰长为 EMBED Equation.DSMT4  ，那么等腰直角三角形的面积为 EMBED Equation.DSMT4  ．因为 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的中点，那么可以判断三个梯形的高都是 EMBED Equation.DSMT4  ．这样每个梯形的两底之和为 EMBED Equation.DSMT4  ，其中左右两个梯形，上底比下底短 EMBED Equation.DSMT4  ，可求得左右两个梯形的上底为 EMBED Equation.DSMT4  ，下底为 EMBED Equation.DSMT4  ．上边的梯形，上底比下底短 EMBED Equation.DSMT4  ，可求得上边的梯形上底长为 EMBED Equation.DSMT4  ，下底长 EMBED Equation.DSMT4  ．所以长方形的宽为 EMBED Equation.DSMT4  ，长为 EMBED Equation.DSMT4  ．所以大长方形的面积为 EMBED Equation.DSMT4  ，而阴影长方形的面积为 EMBED Equation.DSMT4  ，所以阴影长方形的面积为 EMBED Equation.DSMT4  ．
+方法二：利用图形分割如下图知道左右两个角上的直角三角行可以分割为四个小直角三角行看做4份，因为两个等腰直角三角形、三个梯形的面积相等，所以这五部分共可以看作20份，长方形的面积可以看作15份，所以整个图形被 EMBED Equation.DSMT4  （份），那么阴影长方形的面积是 EMBED Equation.DSMT4  （平方厘米）
+
+【答案】 EMBED Equation.DSMT4  平方厘米
+
+如图中正六边形的面积为24，其中A、B、C都是所在边的中点，D是BC的三等分点，阴影部分的面积是________。
+ EMBED Visio.Drawing.11  
+【考点】图形的分割  【难度】5星   【题型】填空
+【关键词】学而思杯，4年级，第7题
+5
+
+    在格点图中，每个小三角形的面积是 EMBED Equation.DSMT4  ，可以数出阴影外面的部分19，那么阴影部分的面积是 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+正六边形A1A2A3A4A5A6的面积是2009平方厘米，B1,B2,B3,B4,B5,B6分别是正六边形各边的中点；那么图中阴影六边形的面积是　　　　平方厘米．
+
+【考点】图形的分割  【难度】5星   【题型】填空
+【关键词】迎春杯，六年级，初赛，14题
+如图，设 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的交点为 EMBED Equation.DSMT4  ，则图中空白部分由 EMBED Equation.DSMT4  个与 EMBED Equation.DSMT4  一样大小的三角形组成，只要求出了 EMBED Equation.DSMT4  的面积，就可以求出空白部分面积，进而求出阴影部分面积.
+
+连接 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4   设 EMBED Equation.DSMT4  的面积为“ EMBED Equation.DSMT4  ”，则 EMBED Equation.DSMT4  面积为“ EMBED Equation.DSMT4  ”， EMBED Equation.DSMT4  面积为“ EMBED Equation.DSMT4  ”，那么 EMBED Equation.DSMT4  面积为 EMBED Equation.DSMT4  的 EMBED Equation.DSMT4  倍，为“ EMBED Equation.DSMT4  ”，梯形 EMBED Equation.DSMT4  的面积为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的面积为“ EMBED Equation.DSMT4  ”， EMBED Equation.DSMT4  的面积为 EMBED Equation.DSMT4  
+根据蝴蝶定理， EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  ，
+所以 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  的面积为梯形 EMBED Equation.DSMT4  面积的 EMBED Equation.DSMT4  ，故为六边形 EMBED Equation.DSMT4  面积的 EMBED Equation.DSMT4  ，那么空白部分的面积为正六边形面积的 EMBED Equation.DSMT4  ，所以阴影部分面积为 EMBED Equation.DSMT4  (平方厘米).
+方法二：分割如下图：整个图形被分成 EMBED Equation.DSMT4  个小的正六边形，每个面积为 EMBED Equation.DSMT4  ，根据下图知道，阴影部分是由一个小正六边形和六个半个小六边行组合而成，合计为4个小六边形，面积是 EMBED Equation.DSMT4  （平方厘米）
+
+【答案】 EMBED Equation.DSMT4  平方厘米
+
+如右图，长方形ABCD中被嵌入了6个相同的正方形．已知AB=22厘米，BC=20厘米，那么每一个正方形的面积为              平方厘米．
+
+【考点】图形的分割  【难度】5星   【题型】填空
+【关键词】迎春杯，五年级，初赛，15题
+将所有的正方形按照弦图进行分割如图：设每个小直角三角形的长直角边长为 EMBED Equation.DSMT4  ，短直角边长为 EMBED Equation.DSMT4  ，那么根据大长方形的长宽可列出方程组： EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  ，所以每个小正方形的面积为 EMBED Equation.DSMT4  平方厘米．
+
+【答案】 EMBED Equation.DSMT4  平方厘米
+
+
+
+
+
+
+
+
+
+
+
+4-2-4 图形的分割 题库	                                                                       page  PAGE 8 of  NUMPAGES 9
+
+
+
+4-2-4.图形的分割
+
+知识点拨
+
+例题精讲
+
+
+

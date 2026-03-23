@@ -1,0 +1,127 @@
+{
+  "topic_count": 179,
+  "problem_count": 1303,
+  "explanation_count": 179,
+  "problem_quality": {
+    "empty_answer_count": 98,
+    "empty_answer_rate_pct": 7.52,
+    "empty_analysis_count": 251,
+    "empty_analysis_rate_pct": 19.26,
+    "formula_only_answer_count": 403,
+    "formula_only_answer_rate_pct": 30.93,
+    "formula_in_stem_count": 948,
+    "formula_in_stem_rate_pct": 72.76,
+    "missing_grade_band_count": 155,
+    "missing_grade_band_rate_pct": 11.9,
+    "missing_difficulty_count": 21,
+    "missing_difficulty_rate_pct": 1.61,
+    "missing_method_tags_count": 0,
+    "missing_method_tags_rate_pct": 0.0,
+    "grade_source_distribution": {
+      "topic_mode": 750,
+      "direct": 398,
+      "none": 155
+    },
+    "difficulty_source_distribution": {
+      "none": 21,
+      "direct": 1163,
+      "topic_mode": 119
+    },
+    "method_tag_source_distribution": {
+      "direct": 1182,
+      "topic_title": 121
+    }
+  },
+  "topic_quality": {
+    "missing_learning_objectives_count": 126,
+    "missing_learning_objectives_rate_pct": 70.39,
+    "missing_common_mistakes_count": 71,
+    "missing_common_mistakes_rate_pct": 39.66
+  },
+  "explanation_quality": {
+    "missing_summary_count": 0,
+    "missing_summary_rate_pct": 0.0
+  },
+  "top_method_tags": [
+    {
+      "tag": "初赛",
+      "count": 238
+    },
+    {
+      "tag": "希望杯",
+      "count": 221
+    },
+    {
+      "tag": "决赛",
+      "count": 154
+    },
+    {
+      "tag": "迎春杯",
+      "count": 148
+    },
+    {
+      "tag": "六年级",
+      "count": 138
+    },
+    {
+      "tag": "走美杯",
+      "count": 136
+    },
+    {
+      "tag": "华杯赛",
+      "count": 135
+    },
+    {
+      "tag": "五年级",
+      "count": 122
+    },
+    {
+      "tag": "学而思杯",
+      "count": 91
+    },
+    {
+      "tag": "4年级",
+      "count": 86
+    },
+    {
+      "tag": "二试",
+      "count": 78
+    },
+    {
+      "tag": "四年级",
+      "count": 66
+    },
+    {
+      "tag": "6年级",
+      "count": 62
+    },
+    {
+      "tag": "5年级",
+      "count": 62
+    },
+    {
+      "tag": "复赛",
+      "count": 60
+    },
+    {
+      "tag": "一试",
+      "count": 59
+    },
+    {
+      "tag": "1试",
+      "count": 59
+    },
+    {
+      "tag": "列方程解应用题",
+      "count": 58
+    },
+    {
+      "tag": "10分",
+      "count": 56
+    },
+    {
+      "tag": "3年级",
+      "count": 53
+    }
+  ]
+}

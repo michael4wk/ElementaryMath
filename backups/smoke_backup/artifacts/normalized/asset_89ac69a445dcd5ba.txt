@@ -1,0 +1,249 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE  \* MERGEFORMAT 
+	
+循环小数与分数的互化，循环小数之间简单的加、减运算，涉及循环小数与分数的主要利用运算定律进行简算的问题．
+
+ SHAPE  \* MERGEFORMAT 
+1. EMBED Equation.DSMT4  的“秘密”
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ,…,  EMBED Equation.DSMT4  
+2.推导以下算式
+⑴ EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ；
+⑵ EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ；
+ EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  
+以 EMBED Equation.DSMT4  为例，推导 EMBED Equation.DSMT4  ．
+设 EMBED Equation.DSMT4  ，将等式两边都乘以100，得： EMBED Equation.DSMT4  ；
+再将原等式两边都乘以10000，得： EMBED Equation.DSMT4  ，
+两式相减得： EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ．
+3.循环小数化分数结论
+
+纯循环小数
+混循环小数
+分子
+循环节中的数字所组成的数
+循环小数去掉小数点后的数字所组成的数与
+不循环部分数字所组成的数的差
+分母
+n个9，其中n等于循环节所含的数字个数
+按循环位数添9，不循环位数添0，组成分母，其中9在0的左侧
+ EMBED Equation.DSMT4  ；     EMBED Equation.DSMT4  ；     EMBED Equation.DSMT4  ；     EMBED Equation.DSMT4  ，……
+ SHAPE  \* MERGEFORMAT 
+模块一、循环小数的认识
+在小数 EMBED Equation.DSMT4  上加两个循环点，能得到的最小的循环小数是_______(注：公元2007年10月24日北京时间18时05分，我国第一颗月球探测卫星“嫦娥一号”由“长征三号甲”运载火箭在西昌卫星发射中心升空，编写此题是为了纪念这个值得中国人民骄傲的时刻。) 
+【考点】循环小数的认识           【难度】2星          【题型】填空
+【关键词】希望杯，1试
+因为要得到最小的循环小数，首先找出小数部分最小的数为0，再看0后面一位上的数字，有05、02、00、07，00最小，所以得到的最小循环小数为 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+给下列不等式中的循环小数添加循环点：0.1998 EMBED Equation.DSMT4  0.1998 EMBED Equation.DSMT4  0.1998 EMBED Equation.DSMT4  0.1998
+【考点】循环小数的认识           【难度】3星          【题型】计算 
+根据循环小数的性质考虑，最小的循环小数应该是在小数点后第五位出现最小数字1的小数，因此一定是 EMBED Equation.DSMT4  ，次小的小数在小数点后第五位出现次小数字8，因此一定是 EMBED Equation.DSMT4  ．其后添加的循环点必定使得小数点后第五位出现9，因此需要考虑第六位上的数字，所以最大的小数其循环节中在9后一定还是9，所以最大的循环小数是 EMBED Equation.DSMT4  ，而次大数为 EMBED Equation.DSMT4  ，于是得到不等式： EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+真分数 EMBED Equation.DSMT4  化为小数后，如果从小数点后第一位的数字开始连续若干个数字之和是1992，那么 EMBED Equation.DSMT4  是多少? 
+【考点】循环小数的认识           【难度】3星          【题型】计算 
+ EMBED Equation.DSMT4  ，  EMBED Equation.DSMT4   EMBED Equation.DSMT4  ， EMBED Equation.DSMT4   EMBED Equation.DSMT4  ， EMBED Equation.DSMT4   EMBED Equation.DSMT4  ， EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，  EMBED Equation.DSMT4   EMBED Equation.DSMT4  ．因此，真分数 EMBED Equation.DSMT4  化为小数后，从小数点第一位开始每连续六个数字之和都是1+4+2+8+5+7=27，又因为1992÷27=73……21,27-21=6，而6=2+4，所以 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+真分数 EMBED Equation.DSMT4  化成循环小数之后，从小数点后第1位起若干位数字之和是 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  是多少？ 
+【考点】循环小数的认识           【难度】3星          【题型】计算 
+我们知道形如 EMBED Equation.DSMT4  的真分数转化成循环小数后，循环节都是由1、2、4、5、7、8这6个数字组
+成，只是各个数字的位置不同而已，那么 EMBED Equation.DSMT4  就应该由若干个完整的 EMBED Equation.DSMT4  和一个不完整 EMBED Equation.DSMT4  组成。  EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  ，所以最后一个循环节中所缺的数字之和为6，经检验只有最后两位为4，2时才符合要求，显然，这种情况下完整的循环节为“ EMBED Equation.DSMT4  ”，因此这个分数应该为 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+真分数 EMBED Equation.DSMT4  化成循环小数之后，小数点后第2009位数字为7，则 EMBED Equation.DSMT4  是多少？
+【考点】循环小数的认识           【难度】3星          【题型】计算 
+我们知道形如 EMBED Equation.DSMT4  的真分数转化成循环小数后，循环节都是由6位数字组成， EMBED Equation.DSMT4  ，因此只需判断当 EMBED Equation.DSMT4  为几时满足循环节第5位数是7，经逐一检验得 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+（2009年学而思杯4年级第6题） EMBED Equation.DSMT4  所得的小数，小数点后的第 EMBED Equation.DSMT4  位数字是         ．
+【考点】循环小数的认识           【难度】3星          【题型】计算 
+ EMBED Equation.DSMT4  …… EMBED Equation.DSMT4  个数一循环， EMBED Equation.DSMT4  ……5，是4
+【答案】4
+
+写出下面等式右边空白处的数，使等式能够成立：0.6+0.06+0.006+……=2002÷______ 。
+【考点】循环小数的认识           【难度】3星          【题型】计算 
+【关键词】小希望杯，4年级
+0.6+0.06+0.006+……= EMBED Equation.DSMT4  = EMBED Equation.DSMT4  =2002÷3003
+【答案】 EMBED Equation.DSMT4  
+
+下面有四个算式： ①0.6+0. EMBED Equation.DSMT4   ②0.625= EMBED Equation.DSMT4  ； ③ EMBED Equation.DSMT4  + EMBED Equation.DSMT4  = EMBED Equation.DSMT4  = EMBED Equation.DSMT4  = EMBED Equation.DSMT4  ； ④3 EMBED Equation.DSMT4  ×4 EMBED Equation.DSMT4  =14 EMBED Equation.DSMT4  ； 其中正确的算式是（  ）. （A）①和②      (B) ②和④      (C) ②和③       (D) ①和④
+【考点】循环小数的认识           【难度】3星          【题型】选择
+【关键词】华杯赛，初赛
+对题中的四个算式依次进行检验：
+0.6+0.133=0.6+0.133133=0.733133，所以①不正确；
+0.625= EMBED Equation.DSMT4  是正确的；
+两个分数相加应该先进行通分，而非分子、分母分别相加，本算式通过 EMBED Equation.DSMT4  ﹥ EMBED Equation.DSMT4  即可判断出其不正确；
+  EMBED Equation.DSMT4  × EMBED Equation.DSMT4  = EMBED Equation.DSMT4  × EMBED Equation.DSMT4  = EMBED Equation.DSMT4  = EMBED Equation.DSMT4  ，所以④不正确。
+那么其中正确的算式是②和④，正确答案为B。
+【答案】 EMBED Equation.DSMT4  
+
+在混合循环小数 EMBED Equation.DSMT4  的某一位上再添上一个表示循环的圆点，使新产生的循环小数尽可能大，请写出新的循环小数。
+【考点】循环小数的认识           【难度】3星          【题型】计算 
+【关键词】华杯赛，初赛
+小数点后第7位应尽可能大，因此应将圈点点在8上，新的循环小数是 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+将 EMBED Equation.DSMT4  化成小数等于0.5，是个有限小数；将 EMBED Equation.DSMT4  化成小数等于0.090…，简记为 EMBED Equation.DSMT4  ，是纯循环小数；将 EMBED Equation.DSMT4  化成小数等于0.1666……，简记为 EMBED Equation.DSMT4  ，是混循环小数。现在将2004个分数 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，…， EMBED Equation.DSMT4  化成小数，问：其中纯循环小数有多少个？
+【考点】循环小数的认识           【难度】3星          【题型】计算 
+【关键词】华杯赛，总决赛，二试
+凡是分母的质因数仅含2和5的，化成小数后为有限小数，凡是分母的质因数不含2和5的，化成小数后为有限小数后为纯循环小数，所以本题实际上是问从2到2005的2004个数中，不含质因数2或5的共有多少个.这2004个数中，含质因数2的有2004÷2＝1002个，含质因数5的有2005÷5＝401个，既含2又含5的有2000÷10＝200个，所以可以化成纯循环小数的有2004－1002－401＋200＝801个.
+【答案】 EMBED Equation.DSMT4  
+
+模块二、循环小数计算
+计算： EMBED Equation.DSMT4  （结果写成分数形式）
+【考点】循环小数计算          【难度】2星          【题型】计算 
+【关键词】希望杯，五年级，一试
+原式 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+计算：0．3+0． EMBED Equation.DSMT4  =_____(结果写成分数)。
+【考点】循环小数计算          【难度】2星          【题型】计算 
+【关键词】希望杯，五年级，一试
+原式= EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+请将算式 EMBED Equation.DSMT4  的结果写成最简分数． 
+【考点】循环小数计算          【难度】2星          【题型】计算 
+【关键词】华杯赛，初赛
+原式 EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  
+
+计算:  EMBED Equation.DSMT4  （结果用最简分数表示）
+【考点】循环小数计算          【难度】2星          【题型】计算 
+【关键词】华杯赛，总决赛，一试
+原式＝ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+将 EMBED Equation.DSMT4  的积写成小数形式是____.
+【考点】循环小数计算          【难度】2星          【题型】计算 
+【关键词】华杯赛，初赛
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4   
+【考点】循环小数计算          【难度】2星          【题型】计算 
+方法一： EMBED Equation.DSMT4   
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  =  EMBED Equation.DSMT4  
+方法二： EMBED Equation.DSMT4  
+           		 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+           		 EMBED Equation.DSMT4  
+           		 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算 （1） EMBED Equation.DSMT4    （2） EMBED Equation.DSMT4   
+【考点】循环小数计算          【难度】2星          【题型】计算 
+（1）原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  		
+（2）原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】（1） EMBED Equation.DSMT4             （2） EMBED Equation.DSMT4  
+
+ ⑴  EMBED Equation.DSMT4              
+  ⑵ EMBED Equation.DSMT4            
+【考点】循环小数计算          【难度】2星          【题型】计算 
+⑴ 法一：原式 EMBED Equation.DSMT4  ．
+法二：将算式变为竖式：
+
+可判断出结果应该是 EMBED Equation.DSMT4  ，化为分数即是 EMBED Equation.DSMT4  ．
+⑵ 原式 EMBED Equation.DSMT4  
+【答案】⑴ EMBED Equation.DSMT4                ⑵ EMBED Equation.DSMT4  
+
+ ⑴计算： EMBED Equation.DSMT4  
+         ⑵ EMBED Equation.DSMT4  ________． 
+【考点】循环小数计算          【难度】2星          【题型】计算 
+【关键词】香港圣公会，希望杯，六年级，1试
+⑴ 原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ；
+⑵ 原式 EMBED Equation.DSMT4  ．
+【答案】⑴ EMBED Equation.DSMT4              ⑵ EMBED Equation.DSMT4  
+
+⑴  EMBED Equation.DSMT4  ；   ⑵  EMBED Equation.DSMT4    (结果表示成循环小数) 
+【考点】循环小数计算          【难度】2星          【题型】计算 
+⑴原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4   
+⑵ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4  
+【答案】⑴ EMBED Equation.DSMT4                 ⑵ EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  （    ）。
+【考点】循环小数计算          【难度】2星          【题型】计算 
+【关键词】中环杯，五年级，决赛
+ EMBED Equation.DSMT4  ，所以括号中填 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算 EMBED Equation.DSMT4        (结果表示为循环小数) 
+【考点】循环小数计算          【难度】4星          【题型】计算 
+由于 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，
+所以 EMBED Equation.DSMT4  ，
+而 EMBED Equation.DSMT4  ，
+所以， EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+某学生将 EMBED Equation.DSMT4  乘以一个数 EMBED Equation.DSMT4  时，把 EMBED Equation.DSMT4  误看成1.23，使乘积比正确结果减少0.3.则正确结果该是多少? 
+【考点】循环小数计算          【难度】3星          【题型】计算 
+由题意得： EMBED Equation.DSMT4  ，即： EMBED Equation.DSMT4  ，所以有： EMBED Equation.DSMT4  ．解得 EMBED Equation.DSMT4  ，
+所以 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  ，结果保留三位小数． 
+【考点】循环小数计算          【难度】2星          【题型】计算 
+方法一： EMBED Equation.DSMT4  
+方法二： EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+将循环小数 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  相乘，取近似值，要求保留一百位小数，那么该近似值的最后一位小数是多少? 
+【考点】循环小数计算          【难度】3星          【题型】计算 
+ EMBED Equation.DSMT4  × EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+循环节有6位，100÷6=16……4，因此第100位小数是循环节中的第4位8，第10l位是5．这样四舍五入后第100位为9．
+【答案】9
+
+有8个数， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  , EMBED Equation.DSMT4  , EMBED Equation.DSMT4  , EMBED Equation.DSMT4  是其中6个，如果按从小到大的顺序排列时，第4个数是 EMBED Equation.DSMT4  ，那么按从大到小排列时，第4个数是哪一个数? 
+【考点】循环小数计算          【难度】3星          【题型】计算 
+ EMBED Equation.DSMT4  , EMBED Equation.DSMT4  , EMBED Equation.DSMT4  , EMBED Equation.DSMT4   
+显然有 EMBED Equation.DSMT4  即 EMBED Equation.DSMT4  ，8个数从小到大排列第4个是 EMBED Equation.DSMT4  ，所以有 EMBED Equation.DSMT4  ．(“□”，表示未知的那2个数).所以，这8个数从大到小排列第4个数是 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  化成循环小数后第100位上的数字之和是_____________.
+【考点】循环小数计算          【难度】2星          【题型】计算 
+【关键词】走美杯，初赛，六年级，第14题
+如果将 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  转化成循环小数后再去计算第100位上的数字和比较麻烦，通过观察计算我们发现 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  ，则第100位上的数字和为9.
+【答案】9
+
+将循环小数 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  相乘，小数点后第 EMBED Equation.DSMT4  位是       。
+【考点】循环小数计算          【难度】3星          【题型】计算 
+【关键词】走美杯，6年级，决赛
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以乘积为 EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4  ，所以第 EMBED Equation.DSMT4  位是 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+1-3-3.循环小数与分数的拆分.题库	                         教师版                    page  PAGE 8 of  NUMPAGES 8
+
+
+
+循环小数的计算
+
+教学目标
+
+知识点拨
+
+ EMBED Equation.DSMT4  
+
+例题精讲
+
+EMBED Equation.DSMT4
+
+

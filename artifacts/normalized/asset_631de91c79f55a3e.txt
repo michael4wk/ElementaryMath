@@ -1,0 +1,381 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE \* MERGEFORMAT 
+定义新运算这类题目是在考验我们的适应能力，我们大家都习惯四则运算，定义新运算就打破了运算规则，要求我们要严格按照题目的规定做题．新定义的运算符号，常见的如△、◎、※等等，这些特殊的运算符号，表示特定的意义，是人为设定的．解答这类题目的关键是理解新定义，严格按照新定义的式子代入数值，把定义的新运算转化成我们所熟悉的四则运算。
+
+ SHAPE \* MERGEFORMAT 
+一  定义新运算
+基本概念：定义一种新的运算符号，这个新的运算符号包含有多种基本（混合）运算。
+基本思路：严格按照新定义的运算规则，把已知的数代入，转化为加减乘除的运算，然后按照基本运算过程、规律进行运算。
+关键问题：正确理解定义的运算符号的意义。
+注意事项：①新的运算不一定符合运算规律，特别注意运算顺序。
+          ②每个新定义的运算符号只能在本题中使用。 
+我们学过的常用运算有：＋、－、×、÷等.
+如：2＋3＝5            2×3＝6
+都是2和3，为什么运算结果不同呢？主要是运算方式不同，实际是对应法则不同.可见一种运算实际就是两个数与一个数的一种对应方法，对应法则不同就是不同的运算.当然，这个对应法则应该是对任意两个数，通过这个法则都有一个唯一确定的数与它们对应.只要符合这个要求，不同的法则就是不同的运算.在这一讲中，我们定义了一些新的运算形式，它们与我们常用的“＋”，“－”，“×”，“÷”运算不相同.
+二  定义新运算分类
+1.直接运算型
+2.反解未知数型
+3.观察规律型
+4.其他类型综合
+
+ SHAPE \* MERGEFORMAT 
+模块一、直接运算型
+若 EMBED Equation.DSMT4  表示 EMBED Equation.DSMT4  ，求 EMBED Equation.DSMT4  的值。
+
+
+
+定义新运算为a△b＝（a＋1）÷b，求的值。6△（3△4）
+
+
+
+
+设 EMBED Equation.DSMT4  △ EMBED Equation.DSMT4  ，那么，5△ EMBED Equation.DSMT4  ______，(5△2) △ EMBED Equation.DSMT4  _____.
+
+
+
+
+ EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  表示数， EMBED Equation.DSMT4  表示 EMBED Equation.DSMT4  ，求3 EMBED Equation.DSMT4  (6 EMBED Equation.DSMT4  8) 
+
+
+
+
+已知a,b是任意自然数,我们规定: a⊕b= a+b-1, EMBED Equation.DSMT4  ,那么
+ EMBED Equation.DSMT4            . 
+
+
+
+
+ EMBED Equation.DSMT4  表示 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+
+
+规定运算“☆”为：若a>b，则a☆b=a＋b；若a=b，则a☆b=a－b＋1；若a<b，则a☆b=a×b。那么，（2☆3）＋（4☆4）＋（7☆5）=        。
+
+“△”是一种新运算，规定：a△b＝a×c＋b×d(其中c，d为常数)，如5△7＝5×c＋7×d。如果1△2＝5，2△3＝8，那么6△1OOO的计算结果是________。
+
+
+
+
+
+对于非零自然数a和b，规定符号 EMBED Equation.DSMT4 的含义是：a EMBED Equation.DSMT4 b＝ EMBED Equation.DSMT4  EMBED Equation.DSMT4  （m是一个确定的整数）。如果1 EMBED Equation.DSMT4 4＝2 EMBED Equation.DSMT4 3，那么3 EMBED Equation.DSMT4 4等于________。
+
+
+
+
+
+
+对于任意的整数x与y定义新运算“△”： EMBED Equation.DSMT4  ,求2△9。
+
+
+
+
+
+“*”表示一种运算符号，它的含义是： EMBED Equation.DSMT4   ，已知
+	 EMBED Equation.DSMT4  ，求 EMBED Equation.DSMT4  。
+
+
+
+
+
+
+
+[A]表示自然数A的约数的个数.例如4有1,2,4三个约数,可以表示成[4]=3.计算:  EMBED Equation.DSMT4  =          . 
+
+
+
+
+x为正数,<x>表示不超过x的质数的个数,如<5.1>=3,即不超过5.1的质数有2,3,5共3个.那么<<19>+<93>+<4>×<1>×<8>>的值是          . 
+
+
+
+
+定义运算“△”如下:对于两个自然数a和b,它们的最大公约数与最小公倍数的和记为a△b.例如:4△6=(4,6)+[4,6]=2+12=14.根据上面定义的运算,18△12=          . 
+
+
+
+
+我们规定：符号 EMBED Equation.DSMT4  表示选择两数中较大数的运算，例如：5 EMBED Equation.DSMT4  3=3 EMBED Equation.DSMT4  5=5，符号△表示选择两数中较小数的运算，例如：5△3=3△5=3，计算： EMBED Equation.DSMT4  的结果是多少？ 
+
+
+
+
+
+规定：符号“&”为选择两数中较大数的运算，“◎”为选择两数中较小数的运算。计算下式：[（7◎3）& 5]×[ 5◎（3 & 7）] 
+
+
+
+
+
+我们规定：A EMBED Equation.DSMT4  B表示A、B中较大的数，A△B表示A、B中较小的数。则 EMBED Equation.DSMT4                        
+
+
+
+
+
+如果规定a※b =13×a-b ÷8，那么17※24的最后结果是______。
+
+
+
+
+若用G（a）表示自然数a的约数的个数，如：自然数6的约数有1、2、3、6，共4个，记作G（6）=4，则G(36)+G(42)=         。
+
+
+
+
+如果 EMBED Equation.DSMT4  ,那么 EMBED Equation.DSMT4             。
+
+
+
+
+ “华”、“杯”、“赛”三个字的四角号码分别是“2440”、“4199”和“3088”，将“华杯赛”的编码取为244041993088，如果这个编码从左起的奇数位的数码不变，偶数位的数码改变为关于9的补码，例如：0变9，1变8等，那么“华杯赛”新的编码是________.
+
+
+
+羊和狼在一起时，狼要吃掉羊.所以关于羊及狼，我们规定一种运算，用符号△表示：羊△羊=羊；羊△狼=狼；狼△羊=狼；狼△狼=狼，以上运算的意思是：羊与羊在一起还是羊，狼与狼在一起还是狼，但是狼与羊在一起便只剩下狼了。小朋友总是希望羊能战胜狼.所以我们规定另一种运算，用符号☆表示：羊☆羊=羊；羊☆狼=羊；狼☆羊=羊；狼☆狼=狼，这个运算的意思是：羊与羊在一起还是羊，狼与狼在一起还是狼，但由于羊能战胜狼，当狼与羊在一起时，它便被羊赶走而只剩下羊了。对羊或狼，可以用上面规定的运算作混合运算，混合运算的法规是从左到右，括号内先算.运算的结果或是羊，或是狼．求下式的结果：羊△(狼☆羊)☆羊△(狼△狼) 
+
+
+
+
+
+
+
+
+一般我们都认为手枪指向谁，谁好像是有危险的，下面的规则同学们能看懂吗
+规定：警察小偷 EMBED Equation.DSMT4  警察，警察 HYPERLINK "http://www.iecool.com/vector/show/237/124058.htm"  INCLUDEPICTURE "http://pic2.iecool.com/yundonglei/qiuleier/qiuleier2_0722.jpg" \* MERGEFORMATINET 小偷 EMBED Equation.DSMT4  小偷．
+        那么：（猎人小兔） HYPERLINK "http://www.iecool.com/vector/show/237/124058.htm"  INCLUDEPICTURE "http://pic2.iecool.com/yundonglei/qiuleier/qiuleier2_0722.jpg" \* MERGEFORMATINET （山羊 HYPERLINK "http://www.iecool.com/vector/show/237/124058.htm"  INCLUDEPICTURE "http://pic2.iecool.com/yundonglei/qiuleier/qiuleier2_0722.jpg" \* MERGEFORMATINET 白菜） EMBED Equation.DSMT4              ．
+
+
+
+
+
+模块二、反解未知数型
+如果a△b表示 EMBED Equation.DSMT4  ,例如3△4 EMBED Equation.DSMT4  ,那么,当a△5=30时, a=       . 
+
+
+
+ 规定新运算※:a※b=3a-2b.若x※(4※1)=7,则x=          . 
+
+如果a⊙b表示 EMBED Equation.DSMT4  ,例如4⊙5=3×4-2×5=2,那么,当x⊙5比5⊙x大5时, x=         
+
+
+
+对于数a、b、c、d，规定，< a、b、c、d >＝2ab－c＋d，已知< 1、3、5、x >＝7，求x的值。
+
+
+
+
+定义新运算为 EMBED Equation.DSMT4  ， = 1 \* GB2 ⑴求 EMBED Equation.DSMT4  的值； = 2 \* GB2 ⑵若 EMBED Equation.DSMT4  则x的值为多少？ 
+
+
+对于任意的两个自然数 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，规定新运算 EMBED Equation.DSMT4  ： EMBED Equation.DSMT4  ，其中 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  表示自然数.如果 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  等于几？ 
+
+
+
+
+定义 EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  之间（包含 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ）所有与 EMBED Equation.DSMT4  奇偶性相同的自然数的平均数，例如： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．在算术 EMBED Equation.DSMT4  的方格中填入恰当的自然数后可使等式成立，那么所填的数是多少？ 
+
+
+
+
+如有 EMBED Equation.DSMT4  # EMBED Equation.DSMT4  新运算， EMBED Equation.DSMT4  # EMBED Equation.DSMT4  表示 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  中较大的数除以较小数后的余数.例如；2#7=1，8#3=2，9#16=7，21#2=1.如（21#（21# EMBED Equation.DSMT4  ））=5，则 EMBED Equation.DSMT4  可以是________（ EMBED Equation.DSMT4  小于50）
+
+
+
+
+
+
+已知 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  满足 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ；其中 EMBED Equation.DSMT4  表示不大于 EMBED Equation.DSMT4  的最大整数， EMBED Equation.DSMT4  表示 EMBED Equation.DSMT4   的小数部分，即 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4           。
+
+
+
+
+
+规定：A○B表示A、B中较大的数，A△B表示A、B中较小的数．若（A○5＋B△3）×（B○5+ A△3）＝96，且A、B均为大于0的自然数，A×B的所有取值为                                ．（8级）
+
+
+
+
+
+
+
+
+
+模块三、观察规律型
+如果    1※2＝1＋11
+      			 2※3＝2＋22＋222              
+      			 3※4＝3＋33＋333＋333＋3333
+计算  （3※2）×5。
+
+
+
+
+
+规定:6※2=6+66=72
+	2※3=2+22+222=246,
+             1※4=1+11+111+1111=1234.           
+             7※5=                  
+
+
+有一个数学运算符号 EMBED Equation.DSMT4  ，使下列算式成立： 
+         EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，求 EMBED Equation.DSMT4  
+
+
+
+
+规定 EMBED Equation.DSMT4  △ EMBED Equation.DSMT4   EMBED Equation.DSMT4  , 计算：（2△1） EMBED Equation.DSMT4  （11△10） EMBED Equation.DSMT4  ______. 
+
+
+
+
+
+一个数n的数字中为奇数的那些数字的和记为 EMBED Equation.DSMT4  ，为偶数的那些数字的和记为 EMBED Equation.DSMT4  ，例如 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+ EMBED Equation.DSMT4           ； EMBED Equation.DSMT4  ＝       ． 
+
+
+
+
+
+
+模块四、综合型题目
+已知：10△3=14， 8△7=2， EMBED Equation.DSMT4△EMBED Equation.DSMT4，根据这几个算式找规律，如果  EMBED Equation.DSMT4△EMBED Equation.DSMT4=1，那么EMBED Equation.DSMT4=               .
+
+
+
+
+如果 EMBED Equation.DSMT4 、 EMBED Equation.DSMT4 、 EMBED Equation.DSMT4 是3个整数，则它们满足加法交换律和结合律，即 ⑴ EMBED Equation.DSMT4 ；⑵ EMBED Equation.DSMT4 。 现在规定一种运算"*"，它对于整数 a、 b、c 、d 满足：  EMBED Equation.DSMT4 。 例： EMBED Equation.DSMT4   请你举例说明，"*"运算是否满足交换律、结合律。
+
+
+
+
+
+用 EMBED Equation.DSMT4 表示 EMBED Equation.DSMT4 的小数部分， EMBED Equation.DSMT4 表示不超过 EMBED Equation.DSMT4 的最大整数。例如： EMBED Equation.DSMT4 记 EMBED Equation.DSMT4 ，
+请计算 EMBED Equation.DSMT4 的值。
+在计算机中，对于图中的数据(或运算)的读法规则是：先读第一分支圆圈中的，再读与它相连的第二分支左边的圆圈中的，最后读与它相连的第二分支右边的圆圈中的，也就是说，对于每一个圆圈中的数据(或运算)都是按"中→左→右"的顺序。如：图A表示：2+3， B表示2+3×2－1。图C中表示的式子的运算结果是_______ 。
+
+
+
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  表示成 EMBED Equation.DSMT4  ; EMBED Equation.DSMT4  表示成 EMBED Equation.DSMT4  .
+试求下列的值: 
+(1) EMBED Equation.DSMT4          (2) EMBED Equation.DSMT4   (3) EMBED Equation.DSMT4  ;
+(4)如果x, y分别表示若干个2的数的乘积,试证明: EMBED Equation.DSMT4  . 
+
+
+
+
+
+对于任意有理数x, y,定义一种运算“※”，规定:x※y= EMBED Equation.DSMT4  ,其中的 EMBED Equation.DSMT4  表示已知数,等式右边是通常的加、减、乘运算.又知道1※2=3,2※3=4,x※m=x(m≠0),则m的数值是 _________。
+
+
+
+
+x、y表示两个数，规定新运算“*”及“△”如下：x*y=mx+ny，x△y=kxy，其中 m、n、k均为自然数，已知 1*2=5，（2*3）△4=64，求（1△2）*3的值. 
+
+
+
+
+
+
+
+
+
+对于任意的两个自然数 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，规定新运算 EMBED Equation.DSMT4  ：  EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，其中 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  表示自然数. = 1 \* GB2 ⑴求1 EMBED Equation.DSMT4  100的值； = 2 \* GB2 ⑵已知 EMBED Equation.DSMT4   EMBED Equation.DSMT4  10 EMBED Equation.DSMT4  75，求 EMBED Equation.DSMT4  为多少？ = 3 \* GB2 ⑶如果（ EMBED Equation.DSMT4  3） EMBED Equation.DSMT4  2 EMBED Equation.DSMT4  121，那么 EMBED Equation.DSMT4  等于几？ 
+
+
+
+
+
+
+
+两个不等的自然数a和b,较大的数除以较小的数,余数记为a☉b,比如5☉2=1,7☉25=4,6☉8=2. （8级）
+        (1)求1991☉2000,(5☉19)☉19,(19☉5)☉5;
+        (2)已知11☉x=2,而x小于20,求x;
+        (3)已知(19☉x)☉19=5,而x小于50,求x. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+设a,b是两个非零的数,定义a※b EMBED Equation.DSMT4  . 
+(1)计算(2※3)※4与2※(3※4).
+(2)如果已知a是一个自然数,且a※3=2,试求出a的值.  
+
+
+
+
+
+
+定义运算“⊙”如下: 
+        对于两个自然数a和b,它们的最大公约数与最小公倍数的差记为a⊙b.
+        比如:10和14,最小公倍数为70,最大公约数为2,则10⊙14=70-2=68.
+        (1)求12⊙21,5⊙15;
+        (2)说明,如果c整除a和b,则c也整除a⊙b;如果c整除a和a⊙b,则c也整除b; 
+        (3)已知6⊙x=27,求x的值.
+
+
+
+
+
+
+
+
+“⊙”表示一种新的运算符号，已知：2⊙3 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ；7⊙2 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ：3⊙5 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，……按此规则，如果n⊙8 EMBED Equation.DSMT4  68，那么，n  EMBED Equation.DSMT4  ____.
+
+
+
+
+
+喜羊羊喜欢研究数学，它用计算器求 EMBED Equation.DSMT4  个正整数 EMBED Equation.DSMT4  的值。当它依次按了 EMBED Equation.DSMT4  得到数字 EMBED Equation.DSMT4  。而当它依次按 EMBED Equation.DSMT4  时，惊讶地发现得到的数值却是 EMBED Equation.DSMT4  。这时喜羊羊才明白计算器先做除法再做加法。于是，她依次按 EMBED Equation.DSMT4  ，得到了正确的结果为             。（填出所有可能情况）
+
+
+
+
+国际统一书号ISBN由10个数字组成，前面9个数字分成3组，分别用来表示区域、出版社和书名，最后一个数字则作为核检之用。核检码可以根据前9个数字按照一定的顺序算得。如：某书的书号是ISBN 7-107-17543-2，它的核检码的计算顺序是：  ①7×10＋1×9＋0×8＋7×7＋1×6＋7×5＋5×4＋4×3＋3×2＝207； ②207÷11＝18……9；    ③11－9＝2。这里的2就是该书号的核检码。 依照上面的顺序，求书号ISBN-7-303-07618-□的核检码。
+
+
+
+
+
+
+如图2一只甲虫从画有方格的木板上的A点出发，沿着一段一段的横线、竖线爬行到B，图1中的路线对应下面的算式： EMBED Equation.DSMT4  .请在图2中用粗线画出对应于算式： EMBED Equation.DSMT4  的路线． 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+1-3-1.定义新运算.题库	                                学生版                                     page  PAGE 10 of  NUMPAGES 10
+
+
+
+定义新运算
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

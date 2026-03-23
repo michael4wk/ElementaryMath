@@ -1,0 +1,166 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+掌握差倍问题的基本解法以及相关的年龄等应用题.
+熟练应用通过图示来表示数量关系．
+ SHAPE  \* MERGEFORMAT 
+差倍问题就是已知大小两数的差，以及大小两数的倍数关系，求大小两数的问题．
+差倍问题的特点与和倍问题类似。解答差倍问题的关键是要确定两个数量的差及相对应的倍数差，一般情况下，在题目中不直接给出，需要经过调整和计算才能得到。
+解题思路：首先要在题目中找到1倍量，然后画图确定解题方法.被除数的数量和除数的倍数关系要相对应，相除后得到的结果是一倍量
+差倍问题的基本关系式：差÷(倍数－ EMBED Equation.DSMT4  )= EMBED Equation.DSMT4  倍数(较小数)
+ EMBED Equation.DSMT4  倍数×几倍=几倍数(较大数)或较小数+差=较大数
+解决差倍问题，关键是学会画线段图，这样可以帮助我们更好的弄清各数量之间的关系．
+    年龄问题的和差问题主要利用的年龄差不变。
+ SHAPE  \* MERGEFORMAT 
+
+模块一、年龄与差倍问题
+
+爸爸妈妈现在的年龄和是 EMBED Equation.DSMT4  岁；五年后，爸爸比妈妈大 EMBED Equation.DSMT4  岁．今年爸爸妈妈二人各多少岁？
+【考点】差倍问题   【难度】2星   【题型】解答 
+五年后，爸爸比妈妈大 EMBED Equation.DSMT4  岁，即爸妈的年龄差是 EMBED Equation.DSMT4  岁．它是一个不变量．所以爸爸、妈妈现在的年龄差仍然是 EMBED Equation.DSMT4  岁．这样原问题就归结成“已知爸爸、妈妈的年龄和是 EMBED Equation.DSMT4  岁，他们的年龄差是 EMBED Equation.DSMT4  岁，求二人各是几岁”的和差问题．
+爸爸的年龄： EMBED Equation.DSMT4  (岁)
+妈妈的年龄： EMBED Equation.DSMT4  (岁)
+【答案】爸爸 EMBED Equation.DSMT4  ，妈妈 EMBED Equation.DSMT4  岁
+
+爸爸妈妈现在的年龄和是72岁；六年后，爸爸比妈妈大4岁.今年爸爸妈妈二人各多少岁？
+【考点】差倍问题   【难度】2星   【题型】解答 
+六年后，爸比妈大4岁，即爸妈的年龄差是4岁.它是一个不变量.所以爸爸、妈妈现在的年龄差仍然是4岁.这样原问题就归结成“已知爸爸、妈妈的年龄和是72岁，他们的年龄差是4岁，求二人各是几岁”的和差问题．爸爸年龄： EMBED Equation.DSMT4  （岁），妈妈的年龄： EMBED Equation.DSMT4  （岁）
+所以，爸爸的年龄是38岁，妈妈的年龄是34岁.
+【答案】爸爸 EMBED Equation.DSMT4  岁，妈妈 EMBED Equation.DSMT4  岁
+
+爸爸今年38岁，佳佳今年2岁，问：几年后，父亲的年龄是佳佳的5倍？
+【考点】差倍问题   【难度】3星   【题型】解答 
+父女年龄差是： EMBED Equation.DSMT4  （岁），这个数量是不会变化的，这一点很关键.当父亲的年龄恰好是女儿年龄的5倍时，父亲仍比女儿大36岁，这36岁是父亲比女儿多的 EMBED Equation.DSMT4  倍所对应的年龄.
+ EMBED Equation.DSMT4  （岁）， EMBED Equation.DSMT4  （年），即7年后，父亲的年龄是佳佳的5倍
+【答案】 EMBED Equation.DSMT4  年后
+
+姐姐今年13岁，弟弟今年9岁，几年后姐弟俩岁数和是40岁？姐姐到时多少岁了？
+【考点】差倍问题   【难度】3星   【题型】解答 
+由题意，姐弟俩今年的年龄和是 EMBED Equation.DSMT4  （岁），用几年后姐弟俩的岁数和40岁减去今年姐弟俩的年龄和22岁，就得到姐弟俩经过的年数和，即为 EMBED Equation.DSMT4  （年），最后再除以2，就求出姐弟俩每人经过的年数.经过的年数都是： EMBED Equation.DSMT4  （年）．可以求出姐姐的年龄是 EMBED Equation.DSMT4  
+        
+用线段图显示数量关系.姐弟俩的年龄差总是 EMBED Equation.DSMT4  （岁），不管经过多少年，姐弟年龄的差仍是4岁，由图可见，如果从40岁中减去姐弟年龄的差，再除以2就得到所求的弟弟的年龄，也就可以求出姐姐的年龄了.弟弟的年龄： EMBED Equation.DSMT4  （岁），姐姐的年龄： EMBED Equation.DSMT4  （岁）．
+【答案】 EMBED Equation.DSMT4  年后姐弟两个的岁数和是 EMBED Equation.DSMT4  岁，姐姐到时 EMBED Equation.DSMT4  岁。
+
+兄弟俩今年的年龄和是30岁，当哥哥像弟弟现在这样大时，弟弟的年龄恰好是哥哥年龄的一半．问：哥哥今年几岁？
+【考点】差倍问题   【难度】3星   【题型】解答 
+假设他们的年龄差是1份，由“哥哥像弟弟现在这样大时，弟弟的年龄恰好是哥哥年龄的一半”可知弟弟的年龄是2份，哥哥的年龄是3份，所以每一份是 EMBED Equation.DSMT4  (岁)，那么哥哥的年龄是 EMBED Equation.DSMT4  (岁)．
+【答案】 EMBED Equation.DSMT4  岁
+
+哥哥现在的年龄是弟弟当年年龄的3倍，哥哥当年的年龄与弟弟现在的年龄相同，哥哥与弟弟现在的年龄和为30岁．问：哥哥现在多少岁？
+【考点】差倍问题   【难度】3星   【题型】解答 
+假设弟弟当年年龄是1份，那么哥哥现在的年龄就是3份，因为哥哥当年的年龄与弟弟现在的年龄相同，因为弟弟当年年龄，弟弟现在年龄(哥哥当年年龄)，哥哥现在年龄这三个数是等差的，所以弟弟现在年龄(哥哥当年年龄)就刚好是2份，那么兄弟现在的年龄和是 EMBED Equation.DSMT4  份，一份就是 EMBED Equation.DSMT4  (岁)，哥哥现在是 EMBED Equation.DSMT4  (岁)．
+【答案】 EMBED Equation.DSMT4  岁
+
+妈妈的年龄是小红的5倍，奶奶的年龄比小红大9倍，已知奶奶比妈妈大35岁，求三人年龄各多少岁？
+【考点】差倍问题   【难度】4星   【题型】解答 
+根据题意作图如下：
+
+奶奶的年龄比小红大9倍，妈妈的年龄是小红的5倍，那么，妈妈的年龄比小红大（5-1）倍，奶奶的年龄比妈妈大（9-4）倍，把小红的年龄看作一倍数，则小红的年龄为：35÷（9-4）=7（岁），妈妈的年龄是：7×5=35（岁），奶奶的年龄是：35+35=70（岁）
+【答案】小红 EMBED Equation.DSMT4  岁，妈妈年级 EMBED Equation.DSMT4  岁，奶奶年龄 EMBED Equation.DSMT4  岁
+
+新老运动员把话谈，手拉手儿笑微微.老将说：“我比你大10岁.”新手说：“上次你比我大一倍.”运动会四年开一次，两人年龄各几岁？
+【考点】差倍问题   【难度】4星   【题型】解答 
+我们把这个问题译成常见应用题表述形式为：今年，老运动员年龄比新运动员大10岁；四年前，老运动员年龄比新运动员大一倍.新、老运动员今年各几岁？大家还记得年龄问题的基本关系吗？
+几年后年龄=大小年龄差÷倍数差-小年龄；几年前年龄=小年龄-大小年龄差÷倍数差
+那么上面的这道题解法是：新运动员： EMBED Equation.DSMT4  （岁），老运动员： EMBED Equation.DSMT4  （岁）．
+【答案】新运动员 EMBED Equation.DSMT4  岁，老运动员 EMBED Equation.DSMT4  岁
+
+模块二、多个量的差倍问题
+
+有40个连续的自然数，其中最大的数是最小的数的4倍，那么最大的数与最小的数之和是           。
+【考点】差倍问题   【难度】3星   【题型】填空
+【关键词】希望杯，四年级，二试，第5题
+最大的数是最小的数的4倍，那么两数之差就是最小数的3倍。最大数与最小数的差是39，所以最小数是39÷3＝13，最大数是13×4＝52，两数之和是65
+【答案】 EMBED Equation.DSMT4  
+
+老师买了同样多的田格本、横线本和练习本．他发给每个同学1个田格本、3个横线本和5个练习本．这时横线本还剩24个，那么田格本和练习本共剩了　　　　个．
+【考点】差倍问题   【难度】3星   【题型】填空
+【关键词】迎春杯，四年级，初赛，2题
+田格本和练习本的本数之和为横线本的本数的两倍，每次分发的田格本和练习本的本数之和也为横线本的本数的两倍，所以剩下的田格本和练习本的本数之和也为横线本的本数的两倍．即剩下的田格本和练习本的本数之和为 EMBED Equation.DSMT4  本．
+另解：设老师原来买了各种本子各 EMBED Equation.DSMT4  本，分发了 EMBED Equation.DSMT4  个人后，剩下的三种本子的本数分别有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，田格本和练习本共剩了 EMBED Equation.DSMT4  ，因为 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  个
+
+红星学校花坛放有红黄蓝三种颜色的花，已知蓝花比红花多20盆；黄花比红花的4倍多30盆，又是蓝花数量的3倍，则有________盆黄花。
+【考点】差倍问题   【难度】3星   【题型】填空
+【关键词】学而思杯,5年级,第4题
+设红花是3份，黄花是12份多30，是蓝花的3倍，所以蓝花就是4份多10，蓝花比红花多20，那么1份就是10，红花30盆，黄花150盆，蓝花50盆。
+【答案】 EMBED Equation.DSMT4  盆
+
+小丸子家养了一些鸡，黄鸡比黑鸡多13只，比白鸡少18只，白鸡的只数是黄鸡2倍，白鸡、黄鸡、黑鸡一共多少只？
+【考点】差倍问题   【难度】3星   【题型】解答 
+以黄鸡的只数为标准，画图如下：
+
+白鸡的只数是黄鸡的2倍，所以黄鸡：18÷（2－1）＝18（只），白鸡：18×2＝36（只），
+黑鸡：18－13＝5（只），三种鸡共有：18+36+5＝59（只）
+【答案】 EMBED Equation.DSMT4  只
+
+小明、小红、小玲共有 EMBED Equation.DSMT4  块糖．如果小玲吃掉 EMBED Equation.DSMT4  块，那么小红与小玲的糖就一样多；如果小红给小明 EMBED Equation.DSMT4  块糖，那么小明的糖就是小红的糖的 EMBED Equation.DSMT4  倍．问小红有多少块糖？
+【考点】差倍问题   【难度】3星   【题型】解答 
+如果小玲吃掉 EMBED Equation.DSMT4  块，那么小红与小玲的糖就一样多，说明小玲比小红多 EMBED Equation.DSMT4  块；如果小红给小明 EMBED Equation.DSMT4  块糖，那么小明的糖就是小红的糖的 EMBED Equation.DSMT4  倍，即小明的糖加 EMBED Equation.DSMT4  是小红的糖减 EMBED Equation.DSMT4  后的 EMBED Equation.DSMT4  倍，说明小明的糖是小红的糖的 EMBED Equation.DSMT4  倍少 EMBED Equation.DSMT4  块．所以，小红有 EMBED Equation.DSMT4  块糖．
+【答案】 EMBED Equation.DSMT4  块糖
+
+
+
+红旗小学三年级有甲、乙、丙三个班，一共有学生162人．如果从甲班转出2个人到乙班，则甲、乙两班人数相同．如果这时再从丙班转出3个人到乙班，则乙、丙两班人数相同．请问：甲班原来有多少人？
+【考点】差倍问题   【难度】3星   【题型】解答 
+由题意，现在的甲班比乙班多 EMBED Equation.DSMT4  （人），丙班比乙班多 EMBED Equation.DSMT4  （人），即丙班比甲班还多 EMBED Equation.DSMT4  （人）．所以甲班人数为： EMBED Equation.DSMT4  （人）．
+【答案】 EMBED Equation.DSMT4  人
+
+甲、乙、丙三数的和是78，甲比乙的2倍多4，乙比丙的3倍少2．求这三个数．
+【考点】差倍问题   【难度】3星   【题型】解答 
+这道题里出现了3个数，首先要确定把哪个数看作“1倍数”．把丙数看作“1倍数”算起来更简便．这样，乙数就是“3倍少2”．甲数是“乙数的2倍多4”，可转化为：甲数是丙数的(3倍 EMBED Equation.DSMT4   EMBED Equation.DSMT4  倍，这三个数的和就相当于丙数的6倍+(3倍-2)+1倍=10倍-2．
+　　　　 EMBED Equation.DSMT4  ……丙　 EMBED Equation.DSMT4  ……乙　　 EMBED Equation.DSMT4  ……甲
+【答案】甲 EMBED Equation.DSMT4  ，乙 EMBED Equation.DSMT4  ，丙 EMBED Equation.DSMT4  
+
+甲、乙、丙三所小学学生人数的总和为 EMBED Equation.DSMT4  ，已知甲校学生人数的 EMBED Equation.DSMT4  倍，乙校学生人数减 EMBED Equation.DSMT4  ，丙校学生人数加 EMBED Equation.DSMT4  都是相等的，问：甲、乙、丙各校的人数是多少？
+【考点】差倍问题   【难度】3星   【题型】解答 
+甲校学生人数为： EMBED Equation.DSMT4  （人），乙校学生人数为： EMBED Equation.DSMT4  （人），丙校学生人数为： EMBED Equation.DSMT4  （人）．甲、乙、丙三校的人数分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+【答案】甲、乙、丙三校的人数分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+
+幼儿园老师买了同样多的巧克力、奶糖和水果糖．她发给每个小朋友2块巧克力，7块奶糖和8块水果糖．发完后清点一下，水果糖还剩15块，而巧克力恰好是奶糖的3倍．那么共有_____________个小朋友．
+【考点】差倍问题   【难度】4星   【题型】填空
+【关键词】迎春杯，中年级，决赛，10题
+画线段图分析，由题意知：
+
+从奶糖的7份中取2份，那么剩下的5份就和上面的2小段相等．如图：
+
+那么2小段和5份都看成10份量，那么总量就相当于19份量，水果糖中原有的8份就是现在的16份，则剩下的15块水果糖就占有3份，则1份就是5块，给小朋友们分出去的水果糖数量是： EMBED Equation.DSMT4  （块），小朋友的人数是： EMBED Equation.DSMT4  （人）．
+【答案】 EMBED Equation.DSMT4  
+
+王宇玩射击气球的游戏，游戏有两关，两关气球数量相同。若王宇第一关射中的气球数比没射中的气球数的4倍多2个；第二关射中的气球数比第一关增加了8个，正好是没射中的气球数的6倍，则游戏中每一关有气球__________个。
+【考点】差倍问题   【难度】3星   【题型】填空
+【关键词】希望杯，六年级，一试，第14题
+方法一：设每一关有气球 EMBED Equation.DSMT4  个，第一关射中 EMBED Equation.DSMT4  个 EMBED Equation.DSMT4  ，有气球147个。
+方法二：第一次没有射中的气球数是 EMBED Equation.DSMT4  倍量，那么射中的是 EMBED Equation.DSMT4  倍多2个；第二次射中数增加 EMBED Equation.DSMT4  个，那么射中的数是 EMBED Equation.DSMT4  倍多 EMBED Equation.DSMT4  个，没有射中的是 EMBED Equation.DSMT4  倍少 EMBED Equation.DSMT4  个。此时“ EMBED Equation.DSMT4  倍多 EMBED Equation.DSMT4  个”是“ EMBED Equation.DSMT4  倍少 EMBED Equation.DSMT4  个”的 EMBED Equation.DSMT4  倍，则： EMBED Equation.DSMT4  ，是少 EMBED Equation.DSMT4  个后的 EMBED Equation.DSMT4  倍量，所以原来每关有气球数为： EMBED Equation.DSMT4  （个）。
+【答案】 EMBED Equation.DSMT4  个球
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+6-1-6.差倍问题（三）.题库	                                  教师版                            page  PAGE 5 of  NUMPAGES 5
+
+
+
+6-1-6.差倍问题（三）
+
+教学目标
+
+知识精讲
+
+例题精讲
+
+
+

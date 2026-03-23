@@ -1,0 +1,361 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+1．封闭与非封闭植树路线的讲解及生活运用。
+2．掌握空心方阵和实心方阵的变化规律．
+3．几何图形的设计与构造
+ SHAPE  \* MERGEFORMAT 
+一、植树问题分两种情况：
+（一）不封闭的植树路线.
+① 若题目中要求在植树的线路两端都植树，则棵数比段数多1.
+全长、棵数、株距之间的关系就为：棵数 EMBED Equation.DSMT4  段数 EMBED Equation.DSMT4  全长 EMBED Equation.DSMT4  株距 EMBED Equation.DSMT4  　
+全长 EMBED Equation.DSMT4  株距 EMBED Equation.DSMT4  (棵数 EMBED Equation.DSMT4  )
+株距 EMBED Equation.DSMT4  全长 EMBED Equation.DSMT4  (棵数 EMBED Equation.DSMT4  )
+
+　　② 如果题目中要求在路线的一端植树，则棵数就比在两端植树时的棵数少1，即棵数与段数相等.
+全长、棵数、株距之间的关系就为：全长 EMBED Equation.DSMT4  株距 EMBED Equation.DSMT4  棵数；
+棵数 EMBED Equation.DSMT4  段数 EMBED Equation.DSMT4  全长 EMBED Equation.DSMT4  株距；
+株距 EMBED Equation.DSMT4  全长 EMBED Equation.DSMT4  棵数.
+
+③ 如果植树路线的两端都不植树，则棵数就比②中还少1棵.
+   全长、棵数、株距之间的关系就为：棵数 EMBED Equation.DSMT4  段数 EMBED Equation.DSMT4  全长 EMBED Equation.DSMT4  株距 EMBED Equation.DSMT4  .
+株距 EMBED Equation.DSMT4  全长 EMBED Equation.DSMT4  (棵数 EMBED Equation.DSMT4  ).
+全长 EMBED Equation.DSMT4  株距 EMBED Equation.DSMT4  (棵数+1)
+（二）封闭的植树路线.
+在圆、正方形、长方形、闭合曲线等上面植树，因为头尾两端重合在一起，所以种树的棵数等于分成的段数.
+全长、棵数、株距之间的关系就为：棵数 EMBED Equation.DSMT4  段数 EMBED Equation.DSMT4  周长 EMBED Equation.DSMT4  株距.
+二、解植树问题的三要素
+（1）总路线长（2）间距（棵距）长（3）棵数，
+只要知道这三个要素中任意两个要素，就可以求出第三个．
+三、方阵问题
+（1）明确空心方阵和实心方阵的概念及区别.
+（2）每边的个数＝总数÷ EMBED Equation.DSMT4  ”；
+（3）每向里一层每边棋子数减少 EMBED Equation.DSMT4  ； 
+（4）掌握计算层数、每层个数、总个数的方法，及每层个数的变化规律。
+
+
+
+
+ SHAPE  \* MERGEFORMAT 
+模块一、封闭图形的植树问题
+小强家附近的公园里有一个圆形池塘，它的周长1500是米，每隔3米栽种一棵树．问：共需树苗多少株？
+【考点】封闭图形的植树问题   【难度】1星   【题型】解答
+因为圆形池塘是一个封闭的模型，所以我们直接运用公式棵数＝段数＝周长÷株距，从而有树苗：1500÷3＝500（株）.
+【答案】 EMBED Equation.DSMT4  株
+
+周叔叔家有一个长40米，宽30米的长方形鱼塘，他想沿塘每隔5米栽一棵柳树，需要栽多少棵柳树？
+【考点】封闭图形的植树问题   【难度】1星   【题型】解答
+ EMBED Equation.DSMT4  （米）， EMBED Equation.DSMT4  （棵）．
+【答案】 EMBED Equation.DSMT4  棵
+
+在一个长345米、宽240米的长方形草坪四周等距离地栽一些松树，要求四个顶点和每边中点都正好栽一棵松树，则最少要买松树苗            棵。
+【考点】封闭图形的植树问题   【难度】2星   【题型】填空
+【关键词】希望杯，五年级，二试，第9题
+先找出两边中点数120、172.5的最大公约数为7.5草坪周长为：（345+240）÷7.5=156（棵）
+【答案】 EMBED Equation.DSMT4  棵
+
+公园内有一个圆形花坛，绕着它走一圈是120米．如果沿着这一圈每隔6米栽一棵丁香花，再在每相邻的两株丁香花之间等距离地栽2株月季花，可栽丁香花多少株？可栽月季花多少株？两株相邻的丁香花之间的2株月季花相距多少米？
+【考点】封闭图形的植树问题   【难度】2星   【题型】解答
+在圆周上栽树时，由于开始栽的一棵与依次栽的最后一棵将会重合在一起，所以可栽的株数正好等于分成的段数．由于每相邻的两株丁香花之间等距离地栽2株月季花，所以栽月季花的株数等于2乘以段数的积．要求两株相邻的丁香花之间的2株月季花相距多少米？需要懂得两株相邻的丁香花之间等距离地栽2株月季花，就是说这4株花之间有3段相等的距离.以6米为一段，圆形花坛一圈可分的段数，即是栽丁香花的株数：120÷6＝20(株)，栽月季花的株数是：2×20＝40(株)，每段上丁香花和月季花的总株数是：2＋2＝4(株)，4株花栽在6米的距离中，有3段相等的距离，每两株之间的距离是：6÷(4-1)＝2(米).
+【答案】丁香花的株数20株，月季花的株数40株，两株相邻的丁香花之间的2株月季花相距2米。
+
+一个圆形花坛，周长是180米.每隔6米种一棵芍药花，每相邻的两棵芍药花之间均匀地栽两棵月季花.问可栽多少棵芍药？多少棵月季？两棵月季之间的株距是多少米？
+【考点】封闭图形的植树问题   【难度】2星   【题型】解答
+①在圆形花坛上栽花，是封闭路线问题，其株数=段数.② 由于相邻的两棵芍药花之间等距的栽有两棵月季，则每6米之中共有3棵花，且月季花棵数是芍药的2倍.
+解：共可栽芍药花： EMBED Equation.DSMT4  (棵)
+  共种月季花： EMBED Equation.DSMT4  (棵)
+两种花共： EMBED Equation.DSMT4  (棵)
+两棵花之间距离： EMBED Equation.DSMT4  (米)
+相邻的花或者都是月季花或者一棵是月季花另一棵是芍药花，所以月季花的株距是2米或4米.
+【答案】芍药花 EMBED Equation.DSMT4  棵，月季花 EMBED Equation.DSMT4  棵，月季花的株距是2米或4米
+
+在某校周长400米的环形跑道上，每隔8米插一面红旗，然后在相邻两面红旗之间每隔2米插一面黄旗，应准备红旗______面，黄旗______面．
+【考点】封闭图形的植树问题   【难度】2星   【题型】填空
+ EMBED Equation.DSMT4  (红旗)， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  (黄旗)   
+【答案】红旗 EMBED Equation.DSMT4  面，黄旗 EMBED Equation.DSMT4  面
+
+大雪后的一天，小明和爸爸共同步测一个圆形花圃的周长．他俩的起点和走的方向完全相同，小明的平均步长是54厘米，爸爸的平均步长是72厘米，由于两人的脚印有重合，并且他们走了一圈后都回到起点，这时雪地上只留下60个脚印，这个花圃的周长是多少厘米？
+【考点】封闭图形的植树问题   【难度】3星   【题型】解答
+通过画图使学生明白从第一个重合点（起点）到下一个重合点之间的距离是216厘米， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，从而知在两个重合点之间，爸爸留下脚印3个，小明留下脚印4个，去掉一个重合的脚印，共留下脚印 EMBED Equation.DSMT4  (个)，因为从起点到最后雪地上共留下脚印60个，所以花圃的周长是 EMBED Equation.DSMT4  （厘米）．
+【答案】 EMBED Equation.DSMT4  厘米
+
+园林工人要在周长300米的圆形花坛边等距离地栽上树.他们先沿着花坛的边每隔3米挖一个坑，当挖完30个坑时，突然接到通知：改为每隔5米栽一颗树.这样，他们还要挖多少个坑才能完成任务？
+【考点】封闭图形的植树问题   【难度】3星   【题型】解答
+这道题的关键就在之间每3米一个，已经挖的坑，和后来改成5米挖一个坑，有多少个是重复不需要挖的，那么一步一步分析如下：
+       (1)从第1个坑到第30个坑，共有多长？  EMBED Equation.DSMT4  (米) 
+(2)改为“每5米栽一棵树”，有多少坑仍然有用？  EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  (个) 
+(3)改为“每5米栽一棵树”，一共应挖多少个坑？  EMBED Equation.DSMT4  (个) 
+(4)还要挖多少个？  EMBED Equation.DSMT4  (个) 
+【答案】 EMBED Equation.DSMT4  个
+
+一个街心花园如右图所示．它由四个大小相等的等边三角形组成．已知从每个小三角形的顶点开始，到下一个顶点均匀栽有9棵花．问大三角形边上栽有多少棵花？整个花园中共栽多少棵花？
+ INCLUDEPICTURE "http://berl.tjjy.com.cn/RESOURCE/XX/XXSX/ALPK/BL000058/64_110.jpg" \* MERGEFORMAT 
+【考点】封闭图形的植树问题   【难度】3星   【题型】解答
+大三角形三条边上共栽花：（9×2－1－1）×3＝48（棵），中间画斜线小三角形三条边上栽花：（9－2）×3＝21（棵），整个花坛共栽花：48＋21＝69（棵）.
+【答案】 EMBED Equation.DSMT4  棵
+
+正方形操场四周栽了一圈树，四个角上都栽了树，每两棵树相隔5米.甲、乙从一个角上同时出发，向不同的方向走去，甲的速度是乙的2倍，乙在拐了一个弯之后的第5棵树与甲相遇（把角上的树看作第一棵树），操场四周栽了多少棵树？
+【考点】封闭图形的植树问题   【难度】3星   【题型】解答
+因为甲的速度是乙的两倍，乙走了操场的一条边，甲走了两条边，乙拐了一个弯之后走到第5棵树，实际走了4个间隔，那么甲应该走了8个间隔，相遇的树就是甲拐弯以后走的第9棵树，所以这一边有9+4 EMBED Equation.DSMT4  13（棵）树.操场周围的树一共有（13-1）×4 EMBED Equation.DSMT4  48（棵）.
+【答案】 EMBED Equation.DSMT4  棵
+模块二、方阵问题
+在一次运动会开幕式上，有一大一小两个方阵合并变换成一个 EMBED Equation.DSMT4  行 EMBED Equation.DSMT4  列的方阵，求原来两个方阵各有多少人？
+【考点】方阵问题   【难度】2星   【题型】解答
+根据时间多少和学生具体情况可考虑教给学生平方数的概念，并记住一些简单的平方数.
+ EMBED Equation.DSMT4  行 EMBED Equation.DSMT4  列的方阵由 EMBED Equation.DSMT4  人组成，原来的小方阵每行或每列人数都不会超过 EMBED Equation.DSMT4  人，大方阵人数应该在 EMBED Equation.DSMT4  之间，可取 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，运用枚举法，可求出满足条件的是：大方阵有 EMBED Equation.DSMT4  人，小方阵有 EMBED Equation.DSMT4  人．
+【答案】大方阵有 EMBED Equation.DSMT4  人，小方阵有 EMBED Equation.DSMT4  人
+
+小华观看团体操表演，他看到表演队伍中的一个方阵变换成一个正三角形实心队列，他估计队伍中人数大概在 EMBED Equation.DSMT4  至 EMBED Equation.DSMT4  人之间，你能告诉他到底有多少人吗？
+【考点】方阵问题   【难度】3星   【题型】解答
+方阵总人数的特点:它是两个相同自然数的积，而三角形队列总人数的特点是:总数是从 EMBED Equation.DSMT4  开始若干个连续自然数的和，我们只要在 EMBED Equation.DSMT4  的范围内找出同时满足这两个条件的数就可以得出总人数．由于队伍可以排成方阵，在 EMBED Equation.DSMT4  至 EMBED Equation.DSMT4  人的范围内人数可能是 EMBED Equation.DSMT4  人或 EMBED Equation.DSMT4  人，又因为 EMBED Equation.DSMT4  ，所以总人数是 EMBED Equation.DSMT4  人．
+【答案】 EMBED Equation.DSMT4  人
+
+同学们做操，小林站在左起第 EMBED Equation.DSMT4  列，右起第 EMBED Equation.DSMT4  列；从前数前面有 EMBED Equation.DSMT4  个同学，从后数后面有 EMBED Equation.DSMT4  个同学．每行每列的人数同样多，做操的同学一共有多少人？
+【考点】方阵问题   【难度】2星   【题型】解答
+带领学生画图求解．
+一共有几行？列式： EMBED Equation.DSMT4  （行）
+        一共有几列？列式： EMBED Equation.DSMT4  （列）
+        一共有多少人？列式： EMBED Equation.DSMT4  （人）
+【答案】 EMBED Equation.DSMT4  人
+
+一群小猴排成整齐的队伍做操，长颈鹿站在队伍旁边，一下子看到了他的好朋友金丝猴．长颈鹿数了数，金丝猴的左边有 EMBED Equation.DSMT4  只猴，右边也有 EMBED Equation.DSMT4  只猴，前面有 EMBED Equation.DSMT4  只猴，后面也有 EMBED Equation.DSMT4  只猴．小朋友，你能算出有多少只猴子在做操吗？
+【考点】方阵问题   【难度】2星   【题型】解答
+一共有多少行？列式： EMBED Equation.DSMT4  （行）
+        一共有多少列？列式： EMBED Equation.DSMT4  （列）
+        一共有多少只猴子？ EMBED Equation.DSMT4  （只）．
+【答案】 EMBED Equation.DSMT4  人
+
+小朋友们做广播体操，小明恰好站在队列的正中心，此时无论是从前往后或者从后往前数他都排在第5个，无论是从左往右或者是从右往左数他都排在第6个，则这个队列中一共有________位小朋友．
+【考点】方阵问题   【难度】2星   【题型】填空
+【关键词】2008年，陈省身杯
+根据题意知：每列有 EMBED Equation.DSMT4  (人)，每行有 EMBED Equation.DSMT4  （人），则这个队列共有： EMBED Equation.DSMT4  （人）．
+【答案】 EMBED Equation.DSMT4  人
+
+希望小学举行运动会，全体运动员的编号是从1开始的连续整数，他们按图1中实线所示，从第1行第1列开始，按照编号从小到大的顺序排成一个方阵。小明的编号是28，他排在第3行第4列，则运动员共有         人。
+
+【考点】方阵问题   【难度】3星   【题型】填空
+【关键词】希望杯，4年级，1试
+28号在第3行第4列，那么前两行共有28-4＝24人，每行有24÷2＝12人，共有12×12＝144人。
+【答案】 EMBED Equation.DSMT4  人
+
+四年级一班同学参加了广播操比赛，排成每行 EMBED Equation.DSMT4  人，每列 EMBED Equation.DSMT4  人的方阵，问方阵中共有多少学生？如果去掉一行一列．还剩多少同学？
+【考点】方阵问题   【难度】2星   【题型】解答
+可以根据“实心方阵总人数＝每边人数×每边人数”得到 EMBED Equation.DSMT4  行 EMBED Equation.DSMT4  列的实心方阵人数为： EMBED Equation.DSMT4  （人），去掉一行一列后，还剩 EMBED Equation.DSMT4  行 EMBED Equation.DSMT4  列，也可通过同样的方法得出总人数为： EMBED Equation.DSMT4  （人）．
+【答案】 EMBED Equation.DSMT4  行 EMBED Equation.DSMT4  列的实心方阵人数为 EMBED Equation.DSMT4  人，去掉一行一列后，还剩 EMBED Equation.DSMT4  人。
+
+ EMBED Equation.DSMT4  名同学排成一个方阵，后来又减去一行一列，问减少了多少人？
+【考点】方阵问题   【难度】2星   【题型】解答
+和前两题比仅仅是数量上的增加，此时可带领学生总结规律：去掉一行一列后要加上重复的那一个．
+ EMBED Equation.DSMT4  名同学排成一个方阵，后来又减去一行一列，剩下的是 EMBED Equation.DSMT4  行 EMBED Equation.DSMT4  列的方阵，即剩下 EMBED Equation.DSMT4  人，减少了 EMBED Equation.DSMT4   人．
+【答案】 EMBED Equation.DSMT4  人
+
+军训的学生进行队列表演，排成了一个 EMBED Equation.DSMT4  行 EMBED Equation.DSMT4  列的正方形队列，如果去掉一行一列，要去掉多少人？
+【考点】方阵问题   【难度】2星   【题型】解答
+一行一列各 EMBED Equation.DSMT4  人，顶点处重复． EMBED Equation.DSMT4  人，因为角上的一个同学被重复数了两次，所以要把多算的一次减掉．
+【答案】 EMBED Equation.DSMT4  人
+
+学生进行队列表演，排成了一个正方形队列，如果去掉一行一列，要去掉 EMBED Equation.DSMT4  人，问这个方阵共有多少人？
+【考点】方阵问题   【难度】2星   【题型】解答
+由上题思路，带领学生进行逆向思维．学生排成一正方形队列表演，去掉一行一列，去掉了 EMBED Equation.DSMT4  人，那我们就要思考每行去掉了几个同学，因为是正方形队列，所以每行每列人数一样多，但在数的时候，站在角落的同学被数了两个，那么现在求每行的人数时就要在 EMBED Equation.DSMT4  里面多加一个．现在每行的人数是： EMBED Equation.DSMT4  （人），共 EMBED Equation.DSMT4  （人）．
+【答案】 EMBED Equation.DSMT4  人
+
+学生进行队列表演，排成了一个正方形队列，如果去掉一行一列，要去掉 EMBED Equation.DSMT4  人，问这个方阵共有多少人？
+【考点】方阵问题   【难度】2星   【题型】解答
+每行： EMBED Equation.DSMT4  （人），总人数： EMBED Equation.DSMT4  （人）．
+【答案】 EMBED Equation.DSMT4  人
+
+二年级舞蹈队为全校做健美操表演，组成一个正方形队列，后来由于表演的需要，又增加一行一列，增加的人数正好是 EMBED Equation.DSMT4  人，那么原来准备参加健美操表演的有多少人？
+【考点】方阵问题   【难度】2星   【题型】解答
+可先让学生自己画图实践，从3乘3的方阵变成4乘4的如何进行，掌握画法后再来思考这题．
+因增加的是一行一列，而行、列人数仍应相等，但为什么增加的却是 EMBED Equation.DSMT4  人，因有 EMBED Equation.DSMT4  人是既在他所在的行，又在他所在的列．若把它减掉，剩下人数恰是原两行或两列的人数，则原来一行或一列的人数可求．参加健美操表演的人数可求．
+        列式： EMBED Equation.DSMT4   (人)， EMBED Equation.DSMT4  (人)．
+【答案】 EMBED Equation.DSMT4  人
+
+某部队战士排成方阵行军，另一支队伍共 EMBED Equation.DSMT4  人加入他们的方阵，正好使横竖各增加一排，现共有多少战士？
+【考点】方阵问题   【难度】2星   【题型】解答
+后来的战士加入方阵时，是在原方阵外侧横竖方向各增加一排，那么有一个战士要站在这两排的交界处，计算横排竖排的人数时，对他进行了重复计算，也就是说现在每一排实际人数是 EMBED Equation.DSMT4  （人），因此可以求出总人数： EMBED Equation.DSMT4  （人）．
+【答案】 EMBED Equation.DSMT4  人
+
+育新小学召开秋季运动会，准备在正方形的操场周围插上彩旗．如果4个角上都要插上一面彩旗，要使每边有7面彩旗，那么一共要准备多少面彩旗才行？
+【考点】方阵问题   【难度】2星   【题型】解答
+
+心急的学生会很配合的说28，此时可提示他们想想，彩旗不够，能不能少点？根据题目的要求画出示意图：我们把这些彩旗按照图中所示的方式分成相等的4部分，可以看出每一部分都有 EMBED Equation.DSMT4  面旗． EMBED Equation.DSMT4  (面)，一共准备24面彩旗．
+【答案】 EMBED Equation.DSMT4  面
+
+某校五年级学生排成一个方阵，最外一层的人数为60人．问方阵外层每边有多少人？这个方阵共有五年级学生多少人？
+【考点】方阵问题   【难度】3星   【题型】解答
+根据四周人数和每边人数的关系可以知：每边人数=四周人数 EMBED Equation.DSMT4  ，可以求出方阵最外层每边人数，那么整个方阵队列的总人数就可以求了．所以方阵最外层每边人数： EMBED Equation.DSMT4  (人)，整个方阵共有学生人数： EMBED Equation.DSMT4  (人)．
+【答案】方阵最外层每边人数 EMBED Equation.DSMT4  人，整个方阵共有学生人数 EMBED Equation.DSMT4  人．
+
+明在一个正方形的棋盘里摆棋子，他先把最外层摆满，用了 EMBED Equation.DSMT4  个棋子，求最外层每边有多少棋子？如果他要把整个棋盘摆满，还需要多少棋子？
+【考点】方阵问题   【难度】3星   【题型】解答
+有前一题基础，可让学生自己思考解决．
+首先根据“每边的个数＝总数÷ EMBED Equation.DSMT4  ”求出每边的棋子数： EMBED Equation.DSMT4  （个），根据＂每向里一层每边棋子数减少 EMBED Equation.DSMT4  ＂，求出最外面数第二层中每边各有： EMBED Equation.DSMT4  （个）棋子，利用求实心方阵总个数的方法就可以求出还需： EMBED Equation.DSMT4  （个）棋子．
+【答案】 EMBED Equation.DSMT4  个棋子
+
+校三年级学生排成一个方阵，最外一层的人数为 EMBED Equation.DSMT4  人，问方阵外层每边有多少人？这个方阵共有三年级学生多少人？
+【考点】方阵问题   【难度】3星   【题型】解答
+引导学生找出与前四题区别，因为条件是方阵外层，所以有四个重复计算的人．
+（法 EMBED Equation.DSMT4  ）方阵外层每边有： EMBED Equation.DSMT4  （人），共 EMBED Equation.DSMT4  （人）．
+（法 EMBED Equation.DSMT4  ）方阵外层每边有： EMBED Equation.DSMT4  （人），共 EMBED Equation.DSMT4  （人）．
+【答案】 EMBED Equation.DSMT4  人
+
+三年级学生排成一个方阵进行体操表演，最外一层的人数为 EMBED Equation.DSMT4  人，问方阵外层每边有多少人？这个方阵共有三年级学生多少人？
+【考点】方阵问题   【难度】3星   【题型】解答
+每边： EMBED Equation.DSMT4  （人），总人数： EMBED Equation.DSMT4  （人）．
+【答案】 EMBED Equation.DSMT4  人
+
+新学期开始，手持鲜花的少先队员在一辆彩车四周围成了每边两层的方阵，最外面一层每边 EMBED Equation.DSMT4  人，彩车周围的少先队员有多少人？
+【考点】方阵问题   【难度】3星   【题型】解答
+先让学生自己思考，待大家都有结果后，让学生思考一个问题：相邻两层差几个人．外层 EMBED Equation.DSMT4  人，内外相差 EMBED Equation.DSMT4  人（教师可举例说明），内层 EMBED Equation.DSMT4  人，共 EMBED Equation.DSMT4  人．
+【答案】 EMBED Equation.DSMT4  人
+
+节日来临，同学们用盆花在操场上摆了一个空心花坛，最外层的一层每边摆了 EMBED Equation.DSMT4  盆花，一共 EMBED Equation.DSMT4  层，一共用去多少盆花？
+【考点】方阵问题   【难度】3星   【题型】解答
+让学生利用上题思考结果加以解决．
+(法 EMBED Equation.DSMT4  )不论是空心方阵还是实心方阵，每向里一层，每边的花盆就少 EMBED Equation.DSMT4  个，每层的花盆就少 EMBED Equation.DSMT4  个，因此可以依次求出每层花盆的个数．最外层有花盆: EMBED Equation.DSMT4  (盆)，第二层有: EMBED Equation.DSMT4  (盆)，第三层有: EMBED Equation.DSMT4  (盆)，共有: EMBED Equation.DSMT4  (盆)．
+(法 EMBED Equation.DSMT4  )将三层花盆分成四块，形成四个相等的长方形．它们的长是 EMBED Equation.DSMT4  个，宽是 EMBED Equation.DSMT4  个， EMBED Equation.DSMT4  个，即每个长方形中包括 EMBED Equation.DSMT4  个花盆，再将结果乘以 EMBED Equation.DSMT4  就得到总数是 EMBED Equation.DSMT4  个，于是我们可以总结为:空心方阵中点的总个数=(最外层每边的个数-层数)×层数× EMBED Equation.DSMT4  ．
+(法 EMBED Equation.DSMT4  )也可以将这种情况看作从一个大的实心方阵中取出一个小的实心方阵．
+【答案】 EMBED Equation.DSMT4  盆
+
+晓晓爱好围棋，他用棋子在棋盘上摆了一个二层空心方阵，外层每边有14个棋子，你知道他一共用了多少个棋子吗？
+【考点】方阵问题   【难度】3星   【题型】解答
+
+如图所示，方阵每向里面一层，每边的个数就减少2个．知道最外面一层每边放14个棋子，就可以求出第二层每边的个数．知道各层每边的个数，就可以求出总数． EMBED Equation.DSMT4  (个)， EMBED Equation.DSMT4  (个)， EMBED Equation.DSMT4  (个)，一共用了96个棋子．
+【答案】 EMBED Equation.DSMT4  个棋子
+
+晶晶用围棋子摆成一个三层空心方阵，最外一层每边有围棋子14个．晶晶摆这个方阵共用围棋子多少个？
+【考点】方阵问题   【难度】3星   【题型】解答
+方阵每向里面一层，每边的个数就减少2个．知道最外面一层每边放14个，就可以求第二层及第三层每边个数．知道各层每边的个数，就可以求出各层总数．最外边一层棋子个数： EMBED Equation.DSMT4  (个)，第二层棋子个数： EMBED Equation.DSMT4  (个)，第三层棋子个数： EMBED Equation.DSMT4  (个)．摆这个方阵共用棋子： EMBED Equation.DSMT4  (个)．还可以这样想：中空方阵总个数＝(外层每边个数一层数)×层数×4进行计算，得 EMBED Equation.DSMT4  (个)．
+【答案】 EMBED Equation.DSMT4  个
+
+在一次团体操表演中，有一个空心方阵最外层有 EMBED Equation.DSMT4  人，最内层有 EMBED Equation.DSMT4  人，参加团体操表演的共多少人？
+【考点】方阵问题   【难度】4星   【题型】解答
+根据最外层和最内层人数，可以分别求出内外层每边的人数，一个空心方阵，可以看做从一个最外层有 EMBED Equation.DSMT4  人的实心方阵中，减去了一个小方阵．外层每边人数： EMBED Equation.DSMT4  （人）．内层每边人数： EMBED Equation.DSMT4  （人），空心方阵人数： EMBED Equation.DSMT4  （人）．
+【答案】 EMBED Equation.DSMT4  人
+
+ EMBED Equation.DSMT4  个棋子摆成一个三层空心方阵，最内层每边有多少棋子？
+【考点】方阵问题   【难度】4星   【题型】解答
+棋子一共三层，容易知道外层比中层多 EMBED Equation.DSMT4  个，内层比中层少 EMBED Equation.DSMT4  个，因此中层的棋子数就是三层的平均数为 EMBED Equation.DSMT4  (个)，可以求出中层每边的棋子数，向里一层，每边棋子数又减少 EMBED Equation.DSMT4  ．中层总数:  EMBED Equation.DSMT4  (个)．中层每边个数: EMBED Equation.DSMT4  (个)，内层每边个数: EMBED Equation.DSMT4  (个)．
+【答案】 EMBED Equation.DSMT4  个
+
+将一个每边 EMBED Equation.DSMT4  枚棋子的实心方阵变成一个四层的空心方阵，此空心方阵的最外层每边有多少棋子？
+【考点】方阵问题   【难度】4星   【题型】解答
+棋子总数为： EMBED Equation.DSMT4  （枚），由于空心方阵总个数＝（每边个数－层数）×层数× EMBED Equation.DSMT4  ，所以，每边个数＝空心方阵总个数÷层数÷ EMBED Equation.DSMT4  ＋层数，得出最外层每边有 EMBED Equation.DSMT4  枚棋子．
+【答案】 EMBED Equation.DSMT4  枚棋子
+
+
+一些棋子被摆成了一个四层的空心方阵（右图是一个四层空心方阵的示意图）．后来小林又添入28个棋子，这些棋子恰好变成了一个五层的空心方阵（不能移动原来的棋子），那么最开始最少有            个棋子．
+
+【考点】方阵问题   【难度】4星   【题型】填空
+【关键词】迎春杯，五年级，初赛，12题
+将四层空心方阵变成五层空心方阵有三种方法，一种是在最外层增加一圈（两行两列），第二种是在最内层增加一圈（两行两列），第三种是在最内层增加一行一列，在最外层的另外两个方向也增加一行一列．
+五层空心方阵的最外层至少有 EMBED Equation.DSMT4  枚棋子，所以第一种情况不符合题意，如果是第二种情况，那么最外层应该有 EMBED Equation.DSMT4  枚棋子，最开始应该有 EMBED Equation.DSMT4  枚棋子．如果是第三种情况，那么设五层方阵最内圈边长为 EMBED Equation.DSMT4  ，那么最外圈边长为 EMBED Equation.DSMT4  ，一共增加的棋子数为 EMBED Equation.DSMT4  枚，所以 EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  ．五层方阵的最外层边长为 EMBED Equation.DSMT4  ，原有棋子 EMBED Equation.DSMT4  枚．
+所以最开始至少有 EMBED Equation.DSMT4  枚棋子．
+【答案】 EMBED Equation.DSMT4  枚
+
+同学们用 EMBED Equation.DSMT4  盆花排出一个两层空心方阵，后来又决定在外面再增加一层成为三层方阵，还需多少盆花？
+【考点】方阵问题   【难度】4星   【题型】解答
+对于两层方阵，外层比内层多 EMBED Equation.DSMT4  盆，两层共 EMBED Equation.DSMT4  盆，利用和差问题的解法，可以求出外层盆数是 EMBED Equation.DSMT4  (盆)，从而得出需增加的盆数， EMBED Equation.DSMT4  (盆)．
+【答案】 EMBED Equation.DSMT4  盆
+
+有一群学生排成三层空心方阵，多 EMBED Equation.DSMT4  人，如空心部分增加两层，又少 EMBED Equation.DSMT4  人，问有学生多少人？
+【考点】方阵问题   【难度】4星   【题型】解答
+增加的两层人数为： EMBED Equation.DSMT4  （人），这两层人数之差是 EMBED Equation.DSMT4  人，因此最里层有 EMBED Equation.DSMT4  （人），现在的方阵共 EMBED Equation.DSMT4  层，那么最外层有 EMBED Equation.DSMT4  （人），知道最外层人数及层数就不难求出总人数是 EMBED Equation.DSMT4  人．
+【答案】 EMBED Equation.DSMT4  人
+
+为了准备学校的集体舞比赛，四年级的学生在排队形．如果排成3层空心的方阵则多10人，如果在中间空心的部分接着增加一层又少6人．问一共有多少个学生参加排练呢？
+【考点】方阵问题   【难度】4星   【题型】解答
+在内部增加一层，人数由多出10人变为反而少6人，所以这一层人数为 EMBED Equation.DSMT4  人．
+⑴中间空心部分加一层，每边有 EMBED Equation.DSMT4  (人)
+⑵四层方阵有 EMBED Equation.DSMT4  (人)
+⑶一共有学生 EMBED Equation.DSMT4  (人)
+【答案】 EMBED Equation.DSMT4  人
+
+一队战士排成三层空心方阵多出 EMBED Equation.DSMT4  人，如果空心部分再加一层又少 EMBED Equation.DSMT4  人，这队战士共有多少人？如果他们改成实心方阵，每边应有多少人？
+【考点】方阵问题   【难度】4星   【题型】解答
+把多余的 EMBED Equation.DSMT4  人放在方阵内部还少 EMBED Equation.DSMT4  人，可见方阵内部增加一层，需要 EMBED Equation.DSMT4  人，因此向外三层的每层人数都可以求出．从内向外每层人数依次是:第一层: EMBED Equation.DSMT4  (人)，第二层: EMBED Equation.DSMT4  (人)，第三层: EMBED Equation.DSMT4  (人)，总人数: EMBED Equation.DSMT4  (人)，因为 EMBED Equation.DSMT4  ，所以排成实心方阵每边有 EMBED Equation.DSMT4  人．
+【答案】这队战士共有 EMBED Equation.DSMT4  人，没边有 EMBED Equation.DSMT4  人
+模块三、植树中的智巧趣题
+今有10盆花要在平地上摆成5行，每行都通过4盆花．请你给出一种设计方案，画图时用点表示花，用直线表示行．
+【考点】植树中的智巧趣题   【难度】5星   【题型】解答
+如下图所示：
+
+【答案】
+
+
+ 今有9盆花要在平地上摆成9行，其中每盆花都有3行通过，而且每行都通过3盆花．请你给出一种设计方案，画图时用点表示花，用直线表示行.
+【考点】植树中的智巧趣题   【难度】5星   【题型】解答
+【关键词】迎春杯，决赛，5题
+如下图所示，我们给出四种不同的排法．
+
+【答案】
+
+
+
+今有9盆花要在平地上摆成10行，每行都通过3盆花．请你给出一种设计方案，画图时用点表示花，用直线表示行．
+【考点】植树中的智巧趣题   【难度】6星   【题型】解答
+如下图所示：
+
+【答案】
+
+
+今有10盆花要在平地上摆成10行，每行都通过3盆花．请你给出一种设计方案，画图时用点表示花，用直线表示行.
+【考点】植树中的智巧趣题   【难度】6星   【题型】解答
+如下图所示：
+
+【答案】
+
+
+今有20盆花要在平地上摆成18行，每行都通过4盆花．请你给出一种设计方案，画图时用点表示花，用直线表示行．
+【考点】植树中的智巧趣题   【难度】6星   【题型】解答
+如下图所示：
+
+【答案】
+
+
+今有20盆花要在平地上摆成20行，每行都通过4盆花．请你给出一种设计方案，画图时用点表示花，用直线表示行．
+【考点】植树中的智巧趣题   【难度】6星   【题型】解答
+如下图所示：
+
+【答案】
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+6-1-3.植树问题（二）.题库             	          教师版                                page  PAGE 12 of  NUMPAGES 12
+
+
+知识点拨
+
+
+
+
+
+
+5-1-3.植树问题（二）
+
+
+
+例题精讲
+
+教学目标
+
+
+
+
+
+

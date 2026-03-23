@@ -1,0 +1,220 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+了解整除的性质；
+运用整除的性质解题；
+整除性质的综合运用.
+
+ SHAPE  \* MERGEFORMAT 
+一、常见数字的整除判定方法
+1. 一个数的末位能被2或5整除，这个数就能被2或5整除；
+一个数的末两位能被4或25整除，这个数就能被4或25整除；
+一个数的末三位能被8或125整除，这个数就能被8或125整除；
+2. 一个位数数字和能被3整除，这个数就能被3整除；
+一个数各位数数字和能被9整除，这个数就能被9整除；
+3. 如果一个整数的奇数位上的数字之和与偶数位上的数字之和的差能被11整除，那么这个数能被11整除.
+4. 如果一个整数的末三位与末三位以前的数字组成的数之差能被7、11或13整除，那么这个数能被7、11或13整除.
+5.如果一个数能被99整除，这个数从后两位开始两位一截所得的所有数（如果有偶数位则拆出的数都有两个数字，如果是奇数位则拆出的数中若干个有两个数字还有一个是一位数）的和是99的倍数，这个数一定是99的倍数。
+
+【备注】（以上规律仅在十进制数中成立.）
+二、整除性质
+性质1  如果数a和数b都能被数c整除，那么它们的和或差也能被c整除．即如果c︱a，
+c︱b，那么c︱(a±b)．
+性质2  如果数a能被数b整除，b又能被数c整除，那么a也能被c整除．即如果b∣a，
+c∣b，那么c∣a．
+用同样的方法，我们还可以得出：
+性质3  如果数a能被数b与数c的积整除，那么a也能被b或c整除．即如果bc∣a，那
+么b∣a，c∣a．
+性质4  如果数a能被数b整除，也能被数c整除，且数b和数c互质，那么a一定能被b
+与c的乘积整除．即如果b∣a，c∣a，且(b，c)=1，那么bc∣a．
+       例如：如果3∣12，4∣12，且(3，4)=1，那么(3×4) ∣12．
+性质5  如果数a能被数b整除，那么am也能被bm整除．如果 b｜a，那么bm｜am（m为非0整数）；
+性质6  如果数a能被数b整除，且数c能被数d整除，那么ac也能被bd整除．如果 b｜a ，且d｜c ，那么bd｜ac；
+
+ SHAPE  \* MERGEFORMAT 
+
+模块一、11系列
+
+以多位数142857为例，说明被11整除的另一规律就是看奇数位数字之和与偶数位数字之和的差能否被11整除. 
+【考点】整除之11系列   【难度】2星   【题型】解答
+略
+【答案】 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+因为根据整除性质1和铺垫知，等式右边第一个括号内的数能被11整除，再根据整除性质1，要判断 EMBED Equation.DSMT4  能否被11整除，只需判断 EMBED Equation.DSMT4  能否被11整除，因此结论得到说明.
+
+试说明一个4位数，原序数与反序数的和一定是11的倍数(如：1236为原序数，那么它对应的反序数为6321，它们的和7557是11的倍数．
+【考点】整除之11系列   【难度】2星   【题型】解答
+略
+【答案】设原序数为 EMBED Equation.DSMT4  ，则反序数为 EMBED Equation.DSMT4  ，则
+ EMBED Equation.DSMT4  ＋ EMBED Equation.DSMT4    EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  ，因为等式的右边能被 EMBED Equation.DSMT4  整除，所以 EMBED Equation.DSMT4   EMBED Equation.DSMT4    EMBED Equation.DSMT4  能被11整除
+
+一个4位数，把它的千位数字移到右端构成一个新的4位数.已知这两个4位数的和是以下5个数的一个：①9865；②9866；③9867；④9868；⑤9869.这两个4位数的和到底是多少? 
+【考点】整除之11系列   【难度】2星   【题型】解答
+设这个4位数是 EMBED Equation.DSMT4  ，则新的4位数是 EMBED Equation.DSMT4  .两个数的和为
+ EMBED Equation.DSMT4  ,是11的倍数.在所给的5个数中只有9867是11的倍数，故正确的答案为9867．
+【答案】9867
+
+模块二、7、11、13系列
+
+以多位数 EMBED Equation.DSMT4  为例，说明被7、11、13整除的规律. 
+【考点】整除之7、11、13系列   【难度】3星   【题型】解答
+略
+【答案】 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4    EMBED Equation.DSMT4     EMBED Equation.DSMT4         
+因为根据整除性质 EMBED Equation.DSMT4  和铺垫知，等式右边第一个括号内的数能被7、11、13整除，再根据整除性质1，要判断 EMBED Equation.DSMT4  能否被7、11、13整除，只需判断 EMBED Equation.DSMT4  能否被7、11、13整除，因此结论得到说明.
+
+已知道六位数 EMBED Equation.DSMT4  是13的倍数，求 EMBED Equation.DSMT4  中的数字是几？ 
+【考点】整除之7、11、13系列   【难度】2星   【题型】填空
+根据一个整数的末三位与末三位以前的数字组成的数之差能被7、11或13整除，那么这个数能被7、11或13整除的特点知道： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  是13的倍数， EMBED Equation.DSMT4  是8的时候是13倍数，所以知道方格中填1。
+【答案】1
+
+三位数的百位、十位和个位的数字分别是5，a和b，将它连续重复写2008次成为： EMBED Equation.DSMT4  .如果此数能被91整除，那么这个三位数 EMBED Equation.DSMT4  是多少？ 
+【考点】整除之7、11、13系列   【难度】3星   【题型】填空
+因为 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  也是7和13的倍数，因为能被7和13整除的特点是末三位和前面数字的差是7和13的倍数，由此可知 EMBED Equation.DSMT4  也是7和13的倍数，即 EMBED Equation.DSMT4  也是7和13的倍数，依次类推可知 EMBED Equation.DSMT4  末三位和前面数字的差即为： EMBED Equation.DSMT4  也是7和13的倍数，即 EMBED Equation.DSMT4  也是7和13的倍数，由此可知 EMBED Equation.DSMT4  也是7和13的倍数，百位是5能被7和13即91整除的数是： EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  .
+【答案】546
+
+已知四十一位数 EMBED Equation.DSMT4  （其中5和9各有20个）能被7整除，那么中间方格内的数字是多少？
+【考点】整除之7、11、13系列   【难度】4星   【题型】填空
+我们知道 EMBED Equation.DSMT4  这样的六位数一定能被7、11、13整除。原41位数中从高位数起共有20个5，从低位数起共有20个9，那么我们可以分别从低位和高位选出555555，和999999，从算式的结构上将就是进行加法的分拆，即：555555×10…00(35个0)+555555×10…00(29个0)+…+55□99+999999×10…00(12个0)+…+999999.这个算式的和就是原来的41位数，我们可以发现每一组含有555555或999999因数的部分都已经是7的倍数，唯独剩余55□99待定，那么只要令55□99是7的倍数即可，即只要□44是7的倍数即可，□应为6。
+【答案】6
+
+应当在如下的问号“？”的位置上填上哪一个数码，才能使得所得的整数 EMBED Equation.DSMT4  可被7整除？ 
+【考点】整除之7、11、13系列   【难度】4星   【题型】填空
+由于 EMBED Equation.DSMT4  可被7整除，因此如果将所得的数的头和尾各去掉48个数码，并不改变其对7的整除性，于是还剩下“ EMBED Equation.DSMT4  ”．从中减去63035，并除以10，即得“ EMBED Equation.DSMT4  ”可被7整除.此时不难验证，具有此种形式的三位数中，只有322和392可被7整除．所以？处应填2或9.
+【答案】2或9
+
+ EMBED Equation.DSMT4  是77的倍数，则 EMBED Equation.DSMT4  最大为_________?
+【考点】整除之7、11、13系列   【难度】4星   【题型】填空
+【关键词】学而思杯，4年级，第9题
+ EMBED Equation.DSMT4  
+         EMBED Equation.DSMT4  既不是 EMBED Equation.DSMT4  的倍数，也不是 EMBED Equation.DSMT4  的倍数
+        所以 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  的倍数
+         EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+        所以 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+一个19位数 EMBED Equation.DSMT4  能被13整除，求О内的数字． 
+【考点】整除之7、11、13系列   【难度】4星   【题型】填空
+∵13| EMBED Equation.DSMT4  ，∴13| EMBED Equation.DSMT4  ，∴13|7777770000000+ EMBED Equation.DSMT4  
+∵13|777777，∴13|7777770000000，∴13| EMBED Equation.DSMT4  ，∴13| EMBED Equation.DSMT4   EMBED Equation.DSMT4  444
+∵ EMBED Equation.DSMT4  ，∴13| EMBED Equation.DSMT4   EMBED Equation.DSMT4  2，∴设 EMBED Equation.DSMT4  =7770
+ EMBED Equation.DSMT4  ，∴0 EMBED Equation.DSMT4  
+【答案】6
+
+称一个两头（首位与末尾）都是 EMBED Equation.DSMT4  的数为“两头蛇数”。一个四位数的“两头蛇数”去掉两头，得到一个两位数，它恰好是这个“两头蛇数”的约数。这个“两头蛇数”是                                 。（写出所有可能）
+【考点】整除之7、11、13系列    【难度】4星   【题型】填空
+【关键词】走美杯，5年级，决赛，第9题，10分
+去掉头尾后的两位数必为 EMBED Equation.DSMT4  的约数。 EMBED Equation.DSMT4  的两位数的约数有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所有可能的数为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  。
+【答案】所有可能的数为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+
+模块三、特殊的数字系列
+
+学生问数学老师的年龄老师说：“由三个相同数字组成的三位数除以这三个数字的和，所得结果就是我的年龄。”老师今年        岁。
+【考点】整除之特殊的数字系列   【难度】2星   【题型】填空
+【关键词】走美杯，3年级，决赛，第10题，12分
+方法一：操作找规律，当这个三位数为 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ，当这个三位数为 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ，所以老师今年 EMBED Equation.DSMT4  岁。
+方法二，设而不求设这个三位数为 EMBED Equation.DSMT4  时，根据题意列出式子整理得到： EMBED Equation.DSMT4  。 
+【答案】 EMBED Equation.DSMT4  
+
+已知两个三位数 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的和 EMBED Equation.DSMT4  能被37整除，试说明：六位数 EMBED Equation.DSMT4  也能被37整除．
+【考点】整除之特殊的数字系列   【难度】2星   【题型】解答
+略
+【答案】 EMBED Equation.DSMT4  ，因为999能被37整除，所以 EMBED Equation.DSMT4  能被37整除，而 EMBED Equation.DSMT4  也能被37整除，所以其和也能被37整除，即 EMBED Equation.DSMT4  能被37整除．
+
+一个4位数，把它的千位数字移到右端构成一个新的4位数.再将新的4位数的千位数字移到右端构成一个更新的四位数，已知最新的4位数与最原先的4位数的和是以下5个数的一个：①9865；②9867；③9462；④9696；⑤9869.这两个4位数的和到底是多少? 
+【考点】整除之特殊的数字系列   【难度】2星   【题型】解答
+设这个4位数是 EMBED Equation.DSMT4  ，则最新的4位数是 EMBED Equation.DSMT4  .两个数的和为
+ EMBED Equation.DSMT4  ,是101的倍数.在所给的5个数中只有9696是101的倍数，故正确的答案为9696.
+【答案】9696
+
+一个六位数各个数字都不相同，且这个数字能被17整除，则这个数最小是________？
+【考点】整除之特殊的数字系列   【难度】2星   【题型】填空
+【关键词】学而思杯，4年级，第11题
+各个数字不同的六位数最小是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ……2
+         EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，123505+17=123522，
+         EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+        最小是 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+王老师在黑板上写了这样的乘法算式: EMBED Equation.DSMT4  ,然后说道:“只要同学们告诉我你们喜欢1,2,3,4,5,6,7,8,9中的哪个数，我在括号里填上适当的乘数，右边的积一定全由你喜欢的数字组成。”小明抢着说：“我喜欢3。”王老师填上乘数“27”结果积就出现九个3； EMBED Equation.DSMT4  小宇举手说：“我喜欢7。”只见王老师填上乘数“63”，积久出现九个7： EMBED Equation.DSMT4  ，小丽说：“我喜欢8。”那么算式中应填上的乘数是               .
+【考点】整除之特殊的数字系列   【难度】2星   【题型】填空
+实际上有 EMBED Equation.DSMT4  ，因此12345679乘以 EMBED Equation.DSMT4  （ EMBED Equation.DSMT4  为1,2,3,4,5,6,7,8,9）得到的积就能出现9个 EMBED Equation.DSMT4  ，所以要想得到9个8应该乘以 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+模块四、综合系列
+
+有四个非零自然数 EMBED Equation.DSMT4  ，其中 EMBED Equation.DSMT4  ，  EMBED Equation.DSMT4  .如果 EMBED Equation.DSMT4  能被2整除，  EMBED Equation.DSMT4  能被3整除，  EMBED Equation.DSMT4  能被5整除，  EMBED Equation.DSMT4  能被7整除，那么 EMBED Equation.DSMT4  最小是        ．
+【考点】整除之综合系列   【难度】2星   【题型】填空
+【关键词】迎春杯，高年级，复赛，6题
+令 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，因为 EMBED Equation.DSMT4  能被7整除，最小14，此时 EMBED Equation.DSMT4  取不到5的倍数；若 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  最小是28．
+【答案】 EMBED Equation.DSMT4  
+
+若四位数 EMBED Equation.DSMT4  能被15整除，则 EMBED Equation.DSMT4  代表的数字是多少？
+【考点】整除之综合系列   【难度】2星   【题型】解答
+【关键词】希望杯，五年级，复赛，第4题，6分
+因为15是3和5的倍数，所以 EMBED Equation.DSMT4  既能被3整除，也能被5整除．能被5整除的数的个位数字是0或5，能被3整除的数的各位数字的和是3的倍数．当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ，不是3的倍数；当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ，是3的倍数．所以， EMBED Equation.DSMT4  代表的数字是5
+【答案】5
+
+在六位数 EMBED Equation.DSMT4  的三个方框里分别填入数字，使得该数能被15整除，这样的六位数中最小的是______.
+【考点】整除之综合系列   【难度】3星   【题型】填空
+【关键词】希望杯，五年级，初赛，第13题，5分
+15=5×3，最小数为302010
+【答案】 EMBED Equation.DSMT4  
+
+0～6这7个数字能组成许多个没有重复数字的7位数，其中有些是55的倍数，最大的一个是（    ）。
+【考点】整除之综合系列   【难度】4星   【题型】填空
+【关键词】走美杯，五年级，初赛，第8题
+如果组成的7位数是55的倍数， EMBED Equation.DSMT4  说明这个数既是5的倍数也是11的倍数。能被5整除个位为5或者0，能被11整除说明这7位数的奇数位与偶数位的差是11的倍数，为0、11、22……， EMBED Equation.DSMT4  ，拆成的两组数的差分别为：5和16， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，又因为组成的数要最大为：6431205或者6342105，所以答案为6431205
+【答案】 EMBED Equation.DSMT4  
+
+两个四位数 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  相乘，要使它们的乘积能被72整除，求 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  .
+【考点】整除之综合系列   【难度】2星   【题型】解答
+考虑到 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  是奇数，所以 EMBED Equation.DSMT4  必为8的倍数，因此可得 EMBED Equation.DSMT4  ；四位数2752各位数字之和为 EMBED Equation.DSMT4  不是3的倍数也不是9的倍数，因此 EMBED Equation.DSMT4  必须是9的倍数，其各位数字之和 EMBED Equation.DSMT4  能被9整除，所以 EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+
+一位后勤人员买了72本笔记本，可是由于他吸烟不小心，火星落在帐本上，把这笔帐的总数烧去两个数字.帐本是这样的：72本笔记本，共□ EMBED Equation.DSMT4  □元(□为被烧掉的数字)，请把□处数字补上，并求笔记本的单价. 
+【考点】整除之综合系列   【难度】3星   【题型】填空
+把□ EMBED Equation.DSMT4  □元作为整数□ EMBED Equation.DSMT4  □分.既然是72本笔记本的总线数，那就一定能被72整除，又因为 EMBED Equation.DSMT4  ，(8，9)  EMBED Equation.DSMT4  .所以 EMBED Equation.DSMT4  □ EMBED Equation.DSMT4  □， EMBED Equation.DSMT4  □ EMBED Equation.DSMT4  □.  EMBED Equation.DSMT4  □ EMBED Equation.DSMT4  □，根据能被8整除的数的特征，8 |79□，通过计算个位的□ EMBED Equation.DSMT4  .又 EMBED Equation.DSMT4  □ EMBED Equation.DSMT4  ，根据能被9整除的数的特征， EMBED Equation.DSMT4   (□ EMBED Equation.DSMT4  )，显然前面的□应是3.所以这笔帐笔记本的单价是： EMBED Equation.DSMT4   (元).
+【答案】5.11
+
+小红为班里买了33个笔记本。班长发现购物单上没有表明单价，总金额的字迹模糊，只看到 EMBED Equation.DSMT4  元，班长问小红用了多少钱，小红只记得不超过95元，她实际用了       元。
+【考点】整除之综合系列  【难度】3星   【题型】填空
+【关键词】希望杯，五年级，初赛，第19题，5分
+9a.b3元是33个本的总金额，那一定是33的倍数。因为33=3×11，所以9a.b3一定是11和3的倍数，即9+3+a+b=3的倍数，也就是a+b=3的倍数；同时9+a-（3+b）=11，也就是6+b-a=11;总上可知a=2,b=7.s所以她实际用了92.73元。
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+5-2-2.数的整除之四大判断法综合运用（二）.题库	                     教师版                    page  PAGE 7 of  NUMPAGES 7
+
+
+
+5-2-2.数的整除之四大判断法
+综合运用（二）
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

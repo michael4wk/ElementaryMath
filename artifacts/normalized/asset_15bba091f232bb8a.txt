@@ -1,0 +1,230 @@
+
+
+
+
+
+
+
+
+
+ SHAPE  \* MERGEFORMAT 
+了解容斥原理二量重叠和三量重叠的内容；
+掌握容斥原理的在组合计数等各个方面的应用．
+
+
+ SHAPE  \* MERGEFORMAT 
+一、两量重叠问题
+在一些计数问题中，经常遇到有关集合元素个数的计算．求两个集合并集的元素的个数，不能简单地把两个集合的元素个数相加，而要从两个集合个数之和中减去重复计算的元素个数，即减去交集的元素个数，用式子可表示成： EMBED Equation.DSMT4  (其中符号“ EMBED Equation.DSMT4  ”读作“并”，相当于中文“和”或者“或”的意思；符号“ EMBED Equation.DSMT4  ”读作“交”，相当于中文“且”的意思．)则称这一公式为包含与排除原理，简称容斥原理．图示如下: EMBED Equation.DSMT4  表示小圆部分， EMBED Equation.DSMT4  表示大圆部分， EMBED Equation.DSMT4  表示大圆与小圆的公共部分，记为： EMBED Equation.DSMT4  ，即阴影面积．图示如下: EMBED Equation.DSMT4  表示小圆部分， EMBED Equation.DSMT4  表示大圆部分， EMBED Equation.DSMT4  表示大圆与小圆的公共部分，记为： EMBED Equation.DSMT4  ，即阴影面积．
+　       
+
+包含与排除原理告诉我们，要计算两个集合 EMBED Equation.DSMT4  的并集 EMBED Equation.DSMT4  的元素的个数，可分以下两步进行：
+第一步：分别计算集合 EMBED Equation.DSMT4  的元素个数，然后加起来，即先求 EMBED Equation.DSMT4  (意思是把 EMBED Equation.DSMT4  的一切元素都“包含”进来，加在一起)；
+第二步：从上面的和中减去交集的元素个数，即减去 EMBED Equation.DSMT4  (意思是“排除”了重复计算的元素个数)．
+二、三量重叠问题
+ EMBED Equation.DSMT4  类、 EMBED Equation.DSMT4  类与 EMBED Equation.DSMT4  类元素个数的总和 EMBED Equation.DSMT4  类元素的个数 EMBED Equation.DSMT4  类元素个数 EMBED Equation.DSMT4  类元素个数 EMBED Equation.DSMT4  既是 EMBED Equation.DSMT4  类又是 EMBED Equation.DSMT4  类的元素个数 EMBED Equation.DSMT4  既是 EMBED Equation.DSMT4  类又是 EMBED Equation.DSMT4  类的元素个数 EMBED Equation.DSMT4  既是 EMBED Equation.DSMT4  类又是 EMBED Equation.DSMT4  类的元素个数 EMBED Equation.DSMT4  同时是 EMBED Equation.DSMT4  类、 EMBED Equation.DSMT4  类、 EMBED Equation.DSMT4  类的元素个数．用符号表示为： EMBED Equation.DSMT4  ．图示如下：
+
+
+
+在解答有关包含排除问题时，我们常常利用圆圈图(韦恩图)来帮助分析思考．
+
+ SHAPE  \* MERGEFORMAT 
+
+在 EMBED Equation.DSMT4  的全部自然数中，不是 EMBED Equation.DSMT4  的倍数也不是 EMBED Equation.DSMT4  的倍数的数有多少个？
+
+【考点】容斥原理之数论问题   【难度】2星   【题型】解答
+如图，用长方形表示 EMBED Equation.DSMT4  的全部自然数， EMBED Equation.DSMT4  圆表示 EMBED Equation.DSMT4  中 EMBED Equation.DSMT4  的倍数， EMBED Equation.DSMT4  圆表示 EMBED Equation.DSMT4  中 EMBED Equation.DSMT4  的倍数，长方形内两圆外的部分表示既不是 EMBED Equation.DSMT4  的倍数也不是 EMBED Equation.DSMT4  的倍数的数．
+由 EMBED Equation.DSMT4  可知， EMBED Equation.DSMT4  中 EMBED Equation.DSMT4  的倍数有 EMBED Equation.DSMT4  个；由 EMBED Equation.DSMT4  可知， EMBED Equation.DSMT4  中 EMBED Equation.DSMT4  的倍数有 EMBED Equation.DSMT4  个；由 EMBED Equation.DSMT4  可知， EMBED Equation.DSMT4  既是 EMBED Equation.DSMT4  的倍数又是 EMBED Equation.DSMT4  的倍数的数有 EMBED Equation.DSMT4  个．
+由包含排除法， EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  的倍数有： EMBED Equation.DSMT4  (个)．从而不是 EMBED Equation.DSMT4  的倍数也不是 EMBED Equation.DSMT4  的倍数的数有 EMBED Equation.DSMT4  (个)．
+【答案】 EMBED Equation.DSMT4  
+
+在自然数 EMBED Equation.DSMT4  中，能被 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  中任一个整除的数有多少个？
+【考点】容斥原理之数论问题   【难度】2星   【题型】解答
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．根据包含排除法，能被 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  中任一个整除的数有 EMBED Equation.DSMT4  (个)．
+【答案】 EMBED Equation.DSMT4  
+
+在前 EMBED Equation.DSMT4  个自然数中，能被 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  整除的数有多少个？
+【考点】容斥原理之数论问题   【难度】2星   【题型】解答
+如图所示， EMBED Equation.DSMT4  圆内是前 EMBED Equation.DSMT4  个自然数中所有能被 EMBED Equation.DSMT4  整除的数， EMBED Equation.DSMT4  圆内是前 EMBED Equation.DSMT4  个自然数中所有能被 EMBED Equation.DSMT4  整除的数， EMBED Equation.DSMT4  为前 EMBED Equation.DSMT4  个自然数中既能被 EMBED Equation.DSMT4  整除也能被 EMBED Equation.DSMT4  整除的数．
+前 EMBED Equation.DSMT4  个自然数中能被 EMBED Equation.DSMT4  整除的数有： EMBED Equation.DSMT4  (个)．由 EMBED Equation.DSMT4  知，前 EMBED Equation.DSMT4  个自然数中能被 EMBED Equation.DSMT4  整除的数有： EMBED Equation.DSMT4  个．由 EMBED Equation.DSMT4  知，前 EMBED Equation.DSMT4  个自然数中既能被 EMBED Equation.DSMT4  整除也能被 EMBED Equation.DSMT4  整除的数有 EMBED Equation.DSMT4  个．
+所以 EMBED Equation.DSMT4  中有 EMBED Equation.DSMT4  个数， EMBED Equation.DSMT4  中有 EMBED Equation.DSMT4  个数， EMBED Equation.DSMT4  中有 EMBED Equation.DSMT4  个数．因为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  都包含 EMBED Equation.DSMT4  ，根据包含排除法得到，能被 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  整除的数有： EMBED Equation.DSMT4  (个)．
+【答案】 EMBED Equation.DSMT4  
+
+在从1至1000的自然数中，既不能被5除尽，又不能被7除尽的数有多少个?
+【考点】容斥原理之数论问题   【难度】2星   【题型】解答
+1～1000之间，5的倍数有=200个，7的倍数有=142个，因为既是5的倍数，又是7的倍数的数一定是35的倍数，所以这样的数有=28个．
+所以既不能被5除尽，又不能被7除尽的数有1000-200-142+-28=686个．
+【答案】 EMBED Equation.DSMT4  
+
+求在1至100的自然数中能被3或7整除的数的个数．
+【考点】容斥原理之数论问题   【难度】2星   【题型】解答
+记  A：1～100中3的倍数， EMBED Equation.DSMT4  ，有33个；
+B：1～100中7的倍数， EMBED Equation.DSMT4  ，有14个；
+ EMBED Equation.DSMT4  ：1～100中3和7的公倍数，即21的倍数， EMBED Equation.DSMT4  ，有4个．
+依据公式，1～100中3的倍数或7的倍数共有 EMBED Equation.DSMT4  个，则能被3或7整除的数的个数为43个.
+【答案】 EMBED Equation.DSMT4  
+
+以105为分母的最简真分数共有多少个？它们的和为多少？
+【考点】容斥原理之数论问题   【难度】4星   【题型】解答
+以105为分母的最简真分数的分子与105互质，105=3×5×7，所以也是求1到105不是3、5、7倍数的数有多少个，3的倍数有35个，5的倍数有21个，7的倍数有15个，15的倍数有7个，21的倍数有5个，35的倍数有3个，105的倍数有1个，所以105以内与105互质的数有105-35-21-15+7+5+3-1=48个，显然如果n与105互质，那么（105-n）与n互质，所以以105为分母的48个最简真分数可两个两个凑成1，所以它们的和为24.
+【答案】 EMBED Equation.DSMT4  个，和 EMBED Equation.DSMT4  
+
+分母是385的最简真分数有多少个？并求这些真分数的和.
+【考点】容斥原理之数论问题   【难度】4星   【题型】解答
+385=5×7×11，不超过385的正整数中被5整除的数有77个；被7整除的数有55个；被11整除的数有35个；被77整除的数有5个；被35整除的数有11个；被55整除的数有7个；被385整除的数有1个；最简真分数的分子可以有385-77-55-35+5+11+7-1=240.对于某个分数a/385如果是最简真分数的话，那么（385-a）/385也是最简真分数，所以最简真分数可以每两个凑成整数1，所以这些真分数的和为120.
+【答案】 EMBED Equation.DSMT4  个， EMBED Equation.DSMT4  个
+
+ 在1至2008这2008个自然数中，恰好是3、5、7中两个数的倍数的数共有        个．
+【考点】容斥原理之数论问题   【难度】3星   【题型】填空
+【关键词】西城实验
+1到2008这2008个自然数中，3和5的倍数有 EMBED Equation.DSMT4  个，3和7的倍数有 EMBED Equation.DSMT4  个，5和7的倍数有 EMBED Equation.DSMT4  个，3、5和7的倍数有 EMBED Equation.DSMT4  个．所以，恰好是3、5、7中两个数的倍数的共有 EMBED Equation.DSMT4  个．
+【答案】 EMBED Equation.DSMT4  个
+
+求1到100内有____个数不能被2、3、7中的任何一个整除。
+【考点】容斥原理之数论问题   【难度】3星   【题型】填空
+【关键词】学而思杯，4年级，第12题
+被 EMBED Equation.DSMT4  整除的有 EMBED Equation.DSMT4  个，被 EMBED Equation.DSMT4  整除的有 EMBED Equation.DSMT4  个，被 EMBED Equation.DSMT4  整除的有 EMBED Equation.DSMT4  个
+同时被 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  整除的有 EMBED Equation.DSMT4  个，同时被 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  整除的有 EMBED Equation.DSMT4  个，同时被 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  整除的有 EMBED Equation.DSMT4  个
+同时被 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  整除的有 EMBED Equation.DSMT4  个， EMBED Equation.DSMT4  个
+【答案】28个。
+
+在从1到1998的自然数中，能被2整除，但不能被3或7整除的数有多少个？
+【考点】容斥原理之数论问题   【难度】3星   【题型】解答
+ EMBED Equation.DSMT4  表示取商的整数部分．例如， EMBED Equation.DSMT4  ．要注意的是，符号 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  符号一样，也是一种运算，叫取整运算．
+本题中，先求出能被2整除的数有多少个，再分别求出能被2和3、能被2和7分别整除的数的个数，那么用能被2整除的数的个数减去能被2和3整除的数的个数，再减去能被2和7整除的
+数的个数，所得的差是不是所求的得数呢？仔细想想你会发现不是的，因为它多减了能同时被2、3、7整除的数．
+故能被2整除的有： EMBED Equation.DSMT4  (个)．
+能被2和3同时整除的有： EMBED Equation.DSMT4  (个)．
+能被2和7同时整除的有： EMBED Equation.DSMT4  ．
+能被2、3、7同时整除的有： EMBED Equation.DSMT4  (个)．
+所以，能被2整除，但不能被3或7整除的数有 EMBED Equation.DSMT4  (个)．
+【答案】 EMBED Equation.DSMT4  个
+
+50名同学面向老师站成一行．老师先让大家从左至右按1，2，3，…，49，50依次报数；再让报数是4的倍数的同学向后转，接着又让报数是6的倍数的同学向后转．问：现在面向老师的同学还有多少名?
+【考点】容斥原理之数论问题   【难度】3星   【题型】解答
+【关键词】华杯赛，初赛，第13题
+在转过两次后，面向老师的同学分成两类：
+第一类是标号既不是4的倍数，又不是6的倍数；第二类是标号既是4的倍数又是6的倍数．
+1～50之间，4的倍数有=12,6的倍数有=8，即是4的倍数又是6的倍数的数一定是12的倍数，所以有=4．于是，第一类同学有50-12-8+4=34人，第二类同学有4人，所以现在共有34+4=38名同学面向老师．
+【答案】 EMBED Equation.DSMT4  名
+
+体育课上，60名学生面向老师站成一行，按老师口令，从左到右报数：1，2，3，…，60，然后，老师让所报的数是4的倍数的同学向后转，接着又让 所报的数是5的倍数的同学向后转，最后让所报的数是6的倍数的同学向后转，现在面向老师的学生有________人。
+【考点】容斥原理之数论问题   【难度】3星   【题型】填空
+【关键词】希望杯，六年级，二试，第15题，4分
+可知其中4的倍数有15个，5的倍数有12个，6的倍数有10个，同时是4和5的倍数的有3个，同时是5和6的倍数的有2个，同时是4和6的倍数的有5个，同时是4、5、6的倍数的数有1个，现在背向老师的有15+12+10-3-2-5+1=28个，面向老师的学生有60-28=32人。转过两次的有：3－1+2－1+5－1＝7。最后面向老师的学生数=32+7＝39个。
+【答案】 EMBED Equation.DSMT4  个
+
+有2000盏亮着的电灯，各有一个拉线开关控制着，现按其顺序编号为1，2，3，…，2000，然后将编号为2的倍数的灯线拉一下，再将编号为3的倍数的灯线拉一下，最后将编号为5的倍数的灯线拉一下，三次拉完后，亮着的灯有多少盏？
+
+【考点】容斥原理之数论问题   【难度】3星   【题型】解答
+三次拉完后，亮着的灯包括不是2、3、5的倍数的数以及是6、10、15的倍数但不是30的倍数的数．1～2000这2000个正整数中，2的倍数有1000个，3的倍数有666个，5的倍数有400个，6的倍数有333个，10的倍数有200个，15的倍数有133个，30的倍数有66个，亮着的灯一共有2000-1000-666-400+2×（333+200+133）-4×66=1002盏．
+【答案】 EMBED Equation.DSMT4  盏
+
+2006盏亮着的电灯，各有一个拉线开关控制，按顺序编号为1，2，3，……，2006。将编号为2的倍数的灯的拉线各拉一下；再将编号为3的倍数的灯的拉线各拉一下，最后将编号为5的倍数的灯的拉线各拉一下。拉完后这着的灯数为（    ）盏。
+【考点】容斥原理之数论问题   【难度】3星   【题型】填空
+【关键词】走美杯，五年级，第11题，六年级，第11题
+因为灯在开始的时候是亮着的，所以拉了两次或者没拉的灯最后还是亮的．这道题实际上是求　　　1到2006中不能被2、3、5整除的数和只能同时被2、3、5中2个数整除的数的总个数．
+我们可以求得被2整除的数有 EMBED Equation.DSMT4  (盏)，
+被3整除的数有 EMBED Equation.DSMT4  ，共668(盏)，
+被5整除的数有 EMBED Equation.DSMT4  ，共401(盏)．
+其中，同时被2、3整除的数有 EMBED Equation.DSMT4  ，共334(盏)；
+同时被3、5整除的有 EMBED Equation.DSMT4  ，共133(盏)；
+同时被2、5整除的数有 EMBED Equation.DSMT4  ，共200(盏)；
+同时被2、3、5整除的数有 EMBED Equation.DSMT4  ，共66(盏)，所以，只能同时被2、3、5中2个数整除的数的个数为 EMBED Equation.DSMT4  (盏)，不能被2、3、5整除的数的个数为
+ EMBED EQUATION.DSMT4  (盏)．所以，最后亮着的灯一共为 EMBED Equation.DSMT4  (盏)．
+【答案】 EMBED Equation.DSMT4  盏
+
+写有1到100编号的灯100盏，亮着排成一排，每一次把编号是3的倍数的灯拉一次开关，第二次把编号是5的倍数的灯拉一次开关，那么亮着的灯还有多少盏？
+【考点】容斥原理之数论问题   【难度】3星   【题型】解答
+因为灯在开始的时候是亮着的，所以拉了两次或者没拉的灯最后还是亮的．没拉的灯有 EMBED Equation.DSMT4  (盏)，拉两次的有 EMBED Equation.DSMT4  (盏)，最后亮着的灯一共为 EMBED Equation.DSMT4  (盏)
+【答案】 EMBED Equation.DSMT4  盏
+
+200名同学编为1至200号面向南站成一排．第1次全体同学向右转（转后所有的同学面朝西）；第2次编号为2 的倍数的同学向右转；第3次编号为3的倍数的同学向右转；……；第200次编号为200的倍数的同学向右转；这时，面向东的同学有            名．
+【考点】容斥原理之数论问题   【难度】3星   【题型】填空
+【关键词】迎春杯，五年级，初赛，10题
+只有约数个数被 EMBED Equation.DSMT4  除余 EMBED Equation.DSMT4  的数，最后面向东．
+约数个数为 EMBED Equation.DSMT4  的数有 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，共 EMBED Equation.DSMT4  个数．
+约数个数为 EMBED Equation.DSMT4  的数有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  个，
+约数个数为 EMBED Equation.DSMT4  的数有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  个
+        一共有 EMBED Equation.DSMT4  个满足条件的编号．
+【答案】 EMBED Equation.DSMT4  名
+
+下编号是1、2、3、……36号的36名学生按编号顺序面向里站成一圈.第一次，编号是1的同学向后转，第二次，编号是2、3的同学向后转，第三次，编号是4、5、6的同学向后转，……，第36次，全体同学向后转.这时，面向里的同学还有________名.
+【考点】容斥原理之数论问题   【难度】3星   【题型】填空
+【关键词】迎春杯，中年级，复试，10题
+整个过程中一共转了1+2+3+4…+36=666人次，每转过72人次所有学生的朝向就会和原来一样，那么666÷72=9…18，于是应该有18名同学面朝里，18名同学面朝外。
+【答案】 EMBED Equation.DSMT4  名
+
+在游艺会上，有100名同学抽到了标签分别为1至100的奖券．按奖券标签号发放奖品的规则如下：
+（1）标签号为2的倍数，奖2支铅笔；
+（2）标签号为3的倍数，奖3支铅笔；
+（3）标签号既是2的倍数，又是3的倍数可重复领奖；
+（4）其他标签号均奖1支铅笔．
+那么游艺会为该项活动准备的奖品铅笔共有多少支?
+【考点】容斥原理之数论问题   【难度】4星   【题型】解答
+1～100，2的倍数有=50，3的倍数有=33个，因为既是2的倍数，又是3的倍数的数一定是6的倍数，所以标签为这样的数有=16个．于是，既不是2的倍数，又不是3的倍数的数在1～100中有100-50-33+16=33．所以，游艺会为该项活动准备的奖品铅笔共有：50×2+33×3+33×1=232支.
+【答案】 EMBED Equation.DSMT4  支
+
+在一根长木棍上，有三种刻度线，第一种刻度线将木棍分成十等份；第二种将木棍分成十二等份；第三种将木棍分成十五等份；如果沿每条刻度线将木棍锯断，则木棍总共被锯成________段．
+【考点】容斥原理之数论问题   【难度】3星   【题型】填空
+假设木棍长 EMBED Equation.DSMT4  ，则沿第一种刻度线锯成的木棍每段长 EMBED Equation.DSMT4  ，沿第二种刻度线锯成的木棍每段长 EMBED Equation.DSMT4  ，沿第三种刻度线锯成的木棍每段长 EMBED Equation.DSMT4  ．
+因为，沿三种刻度线可将木棍分别锯成10、12、15段；沿第一、二种重合的刻度线可将木棍锯成 EMBED Equation.DSMT4  段，沿第一、三种重合的刻度线可将木棍锯成 EMBED Equation.DSMT4  段，沿第二、三种重合的刻度线可将木棍锯成 EMBED Equation.DSMT4  段；沿三种刻度重合的刻度线可将木棍锯成 EMBED Equation.DSMT4  段．应该减去重复计算的沿任意两种重合的刻度线锯成的段数，应加上多减去的沿三种刻度重合的刻度线锯成的段数．所以，沿每条刻度线将木棍锯断，则木棍总共被锯成
+ EMBED Equation.DSMT4  段．
+【答案】 EMBED Equation.DSMT4  段
+
+一根101厘米长的木棒，从同一端开始，第一次每隔2厘米画一个刻度，第二次每隔3厘米画一个刻度，第三次每隔5厘米画一个刻度，如果按刻度把木棒截断，那么可以截出        段．
+【考点】容斥原理之数论问题   【难度】4星   【题型】填空
+【关键词】101中学
+要求出截出的段数，应当先求出木棒上的刻度数，而木棒上的刻度数，相当于1、2、3、…、100、101这101个自然数中2或3或5的倍数的个数，为：
+ EMBED Equation.DSMT4  ，故木棒上共有74个刻度，可以截出75段．
+【答案】 EMBED Equation.DSMT4  段
+
+一根 EMBED Equation.DSMT4  米长的木棍，从左端开始每隔2厘米画一个刻度，涂完后再从左端开始每隔3厘米画一个刻度，再从左端每隔5厘米画一个刻度，再从左端每隔7厘米画一个刻度，涂过按刻度把木棍截断，一共可以截成多少段小木棍？
+【考点】容斥原理之数论问题   【难度】4星   【题型】解答
+ EMBED Equation.DSMT4  米长的木棍，按2厘米一段画出刻度，那么也就是说所有的偶数点都已经划过了，即2、4、6、8、10……共89个点，那么再画3的时候所有的偶数点都已经划过，那么会多出30个点，即3、9、15……，再画5的时候会多出来的点是5、25、35、55、65、85、95、115、125、145、155、175，共12个，最后画间隔7厘米的时候，会多出7、49、77、91、119、133、161共7个点，那么所有的刻度总和应该是 EMBED Equation.DSMT4  个，那么截断之后应该会有139段小木棍．
+【答案】 EMBED Equation.DSMT4  段
+
+在循环小数中类似于 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  等，循环节是从小数点右边的第一位（即十分位）就开始的小数，叫做纯循环小数，包括 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  在内，共有         个正整数，其倒数是循环节恰好为六位的纯循环小数。
+【考点】容斥原理之数论问题   【难度】5星   【题型】填空
+【关键词】学而思杯，6年级，1试，第4题
+根据容斥原理， EMBED Equation.DSMT4  的约数有 EMBED Equation.DSMT4  个， EMBED Equation.DSMT4  的约数有 EMBED Equation.DSMT4  个， EMBED Equation.DSMT4  的约数有 EMBED Equation.DSMT4  个， EMBED Equation.DSMT4  的约数有 EMBED Equation.DSMT4  个， 所求的 EMBED Equation.DSMT4  的个数为 EMBED Equation.DSMT4  （个）。
+【答案】 EMBED Equation.DSMT4  个
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+7-7-4.容斥原理之数论问题.题库	                         教师版                                        page  PAGE 2 of  NUMPAGES 8
+
+
+
+7-7-4 容斥原理之数论问题
+
+
+教学目标
+
+例题精讲
+
+1．先包含： EMBED Equation.DSMT4  
+重叠部分 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  重叠了 EMBED Equation.DSMT4  次，多加了 EMBED Equation.DSMT4  次．
+2．再排除： EMBED Equation.DSMT4  
+重叠部分 EMBED Equation.DSMT4  重叠了 EMBED Equation.DSMT4  次，但是在进行 EMBED Equation.DSMT4    EMBED Equation.DSMT4  计算时都被减掉了．
+3．再包含： EMBED Equation.DSMT4  ．
+
+图中小圆表示 EMBED Equation.DSMT4  的元素的个数，中圆表示 EMBED Equation.DSMT4  的元素的个数，大圆表示 EMBED Equation.DSMT4  的元素的个数．
+
+知识要点
+
+1．先包含—— EMBED Equation.DSMT4  
+重叠部分 EMBED Equation.DSMT4  计算了 EMBED Equation.DSMT4  次，多加了 EMBED Equation.DSMT4  次；
+2．再排除—— EMBED Equation.DSMT4  
+把多加了 EMBED Equation.DSMT4  次的重叠部分 EMBED Equation.DSMT4  减去．
+
+
+

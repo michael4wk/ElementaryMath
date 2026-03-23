@@ -1,0 +1,597 @@
+
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE  \* MERGEFORMAT 
+
+通过实际操作寻找题目中蕴含的数学规律
+在操作过程中，体会数学规律的并且设计最优的策略和方案
+熟练掌握通过简单操作、染色、数论等综合知识解决策略问题
+
+ SHAPE  \* MERGEFORMAT 
+
+实际操作与策略问题这类题目能够很好的提高学生思考问题的能力，激发学生探索数学规律的兴趣，并通过寻找最佳策略过程，培养学生的创造性思维能力，这也是各类考试命题者青睐的这类题目的原因。
+
+ SHAPE  \* MERGEFORMAT 
+模块一、探索与操作
+将1—13这13个自然数分别写在13张卡片上，再将这13张卡片按一定的顺序从左至右排好．然后进行如下操作：将从左数第一张和第二张依次放到最后，将第三张取出而这张卡片上的数是1；再将下面的两张依次放到最后并取出下一张，取出的卡片上面的数是2；继续将下面的两张依次放到最后并取出下一张，取出的卡片上面的数是3……如此进行下去，直到取出最后一张是13为止．则13张卡片最初从左到右的顺序为                             ．
+【考点】游戏与策略            【难度】3星            【题型】填空
+【关键词】北京奥校杯
+这13张卡片依次是原来的第3，第6，第9，第12，第2，第7，第11，第4，第10，第5，第1，第8，第13张，所以原来的顺序为11，5，1，8，10，2，6，12，3，9，7，4，13
+【答案】11，5，1，8，10，2，6，12，3，9，7，4，13
+
+在纸上写着一列自然数1，2，…，98，99．一次操作是指将这列数中最前面的三个数划去，然后把这三个数的和写在数列的最后面．例如第一次操作后得到4，5，…，98，99，6；而第二次操作后得到7，8，…，98，99，6，15．这样不断进行下去，最后将只剩下一个数，则最后剩下的数是               ．
+【考点】游戏与策略            【难度】3星            【题型】填空
+【关键词】迎春杯
+第一轮：分33次划1～9，后面写上6，15，24，…，294共33个数．第二轮：分11次划去这33个数，后面写上45，126，207，…，855，共11个数．之后的操作一次减少2个数，故还需操作5次．
+设这11个数为： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，…， EMBED Equation.DSMT4  ．则接下去的数是： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+因此最后一数为： EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+在1，9，8，9后面写一串这样的数字：先计算原来这4个数的后两个之和8 EMBED Equation.DSMT4  9 EMBED Equation.DSMT4  17，取个位数字7写在1，9，8，9的后面成为1，9，8，9，7；再计算这5个数的后两个之和9 EMBED Equation.DSMT4  7 EMBED Equation.DSMT4  16；取个位数字6写在1，9，8，9，7的后面成为1，9，8，9，7，6；再计算这6个数的后两个之和7 EMBED Equation.DSMT4  6 EMBED Equation.DSMT4  13，取个位数字3写在1，9，8，9，7，6的后面成为1，9，8，9，7，6，3. 继续这样求和，这样添写，成为数串1，9，8，9，7，6，3，9，2，1，3，4…那么这个数串的前398个数字的和是________. 
+【考点】游戏与策略            【难度】3星            【题型】填空
+【关键词】迎春杯，决赛
+前16个数字是1，9，8，9，7，6，3，9，2，1，3，4，7，1，8，9
+可见除去前2个数字1、9后，每12个数字一组重复出现.因此前398个数字的和是
+1 EMBED Equation.DSMT4  9 EMBED Equation.DSMT4  （8 EMBED Equation.DSMT4  9 EMBED Equation.DSMT4  7 EMBED Equation.DSMT4  6 EMBED Equation.DSMT4  3 EMBED Equation.DSMT4  9 EMBED Equation.DSMT4  2 EMBED Equation.DSMT4  1 EMBED Equation.DSMT4  3 EMBED Equation.DSMT4  4 EMBED Equation.DSMT4  7 EMBED Equation.DSMT4  1） EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  10 EMBED Equation.DSMT4  60 EMBED Equation.DSMT4  33 EMBED Equation.DSMT4  1990
+【答案】1990
+
+圆周上放有 EMBED Equation.DSMT4  枚棋子，如图所示， EMBED Equation.DSMT4  点的那枚棋子紧邻 EMBED Equation.DSMT4  点的棋子．小洪首先拿走 EMBED Equation.DSMT4  点处的1枚棋子，然后沿顺时针方向每隔1枚拿走2枚棋子，这样连续转了10周，9次越过 EMBED Equation.DSMT4  ．当将要第10次越过 EMBED Equation.DSMT4  处棋子取走其他棋子时，小洪发现圆周上余下20多枚棋子．若 EMBED Equation.DSMT4  是14的倍数，请精确算出圆周上现在还有多少枚棋子？
+
+【考点】游戏与策略            【难度】3星            【题型】解答
+设圆周上余 EMBED Equation.DSMT4  枚棋子，从第9次越过 EMBED Equation.DSMT4  处拿走2枚棋子到第10次将要越过 EMBED Equation.DSMT4  处棋子时，小洪拿了 EMBED Equation.DSMT4  枚棋子，所以在第9次将要越过 EMBED Equation.DSMT4  处棋子时，圆周上有 EMBED Equation.DSMT4  枚棋子．依次类推，在第8次将要越过 EMBED Equation.DSMT4  处棋子时，圆周上有 EMBED Equation.DSMT4  枚棋子，…，在第1次将要越过 EMBED Equation.DSMT4  处棋子时，圆周上有 EMBED Equation.DSMT4  枚棋子，在第1次将要越过 EMBED Equation.DSMT4  处棋子之间，小洪拿走了 EMBED Equation.DSMT4  枚棋子，所以 EMBED Equation.DSMT4  ． EMBED Equation.DSMT4  是14的倍数， EMBED Equation.DSMT4  是2和7的公倍数，所以 EMBED Equation.DSMT4  必须是奇数；又 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  必须是7的倍数．当 EMBED Equation.DSMT4  ，25，27，29时， EMBED Equation.DSMT4  不是7的倍数，当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  是7的倍数．所以，圆周上还有23枚棋子．
+【答案】23
+
+有足够多的盒子依次编号0，1，2，…，只有0号是黑盒，其余的都是白盒．开始时把10个球放入白盒中，允许进行这样的操作：如果 EMBED Equation.DSMT4  号白盒中恰有 EMBED Equation.DSMT4  个球，可将这 EMBED Equation.DSMT4  个球取出，并给0号、1号、…， EMBED Equation.DSMT4  号盒中各放1个．如果经过有限次这样的操作后，最终把10个球全放入黑盒中，那么4号盒中原有               个球．
+【考点】游戏与策略            【难度】3星            【题型】填空
+【关键词】两岸四地，华杯赛
+使用倒推法．最终各盒中依次有球(10，0，0，0，…)，前一次必然分的是1号盒中的球，否则1号盒中最终至少有1个球．所以，倒数第一次分前盒中依次有球(9，1，0，0，…)．依次倒推，为：(10，0，0，0，…)←(9，1，0，0，…)←(8，0，2，0，0，…)←(7，1，2，0，0，…)←(6，0，1，3，0，…)←(5，1，1，3，0，…)←(4，0，0，2，4，…)←(3，1，0，2，4，…)←(2，0，2，2，4，…)←(1，1，2，2，4，…)←(0，0，1，1，3，5…)，0号盒中此时为0个球，不能再倒推．所以，4号盒中原有3个球．
+【答案】3
+
+一个数列有如下规则：当数 EMBED Equation.DSMT4  是奇数时，下一个数是 EMBED Equation.DSMT4  ；当数 EMBED Equation.DSMT4  是偶数时，下一个数是 EMBED Equation.DSMT4  ．如果这列数的第一个数是奇数，第四个数是 EMBED Equation.DSMT4  ，则这列数的第一个数是       ．
+【考点】游戏与策略            【难度】3星            【题型】填空
+本题可以进行倒推． EMBED Equation.DSMT4  的前一个数只能是偶数 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的前一个数可以是偶数 EMBED Equation.DSMT4  或奇数 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的前一个是可以是偶数 EMBED Equation.DSMT4  或奇数 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  的前一个只能是偶数 EMBED Equation.DSMT4  ．
+由于这列数的第一个是奇数，所以只有43满足．故这列数的第一个数是43．
+也可以顺着进行分析．假设第一个数是 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  是奇数，所以第二个数是 EMBED Equation.DSMT4  ，是个偶数，那么第三个数是 EMBED Equation.DSMT4  ，第四个数是11，11只能由偶数22得来，所以 EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  ，即这列数的第一个数是43．
+【答案】 EMBED Equation.DSMT4  
+
+在信息时代信息安全十分重要，往往需要对信息进行加密，若按照“乘3加1取个位”的方式逐位加密，明码“16”加密之后的密码为“49”，若某个四位明码按照上述加密方式，经过两次加密得到的密码是“2445”，则明码是        ．
+【考点】游戏与策略            【难度】3星            【题型】填空
+【关键词】走美杯，初赛，六年级
+0～9这10个数字乘以3所得的数的个位数字互不相同是本题可以进行判断的基础．
+采用倒推法，可以得到经过一次加密之后的密码是“7118”，再进行倒推，可以得到原来的明码是2009.
+【答案】2009
+
+设有25个标号筹码，其中每个筹码都标有从1到49中的一个不同的奇数，两个人轮流选取筹码．当一个人选取了标号为 EMBED Equation.DSMT4  的筹码时，另一个人必须选取标号为 EMBED Equation.DSMT4  的最大奇因数的筹码．如果第一个被选取的筹码的编号为5，那么当游戏结束时还剩         个筹码．
+【考点】游戏与策略            【难度】3星            【题型】解答
+【关键词】武汉,明星奥数挑战赛
+解若             EMBED Equation.DSMT4  		 EMBED Equation.DSMT4  
+				5		47
+				47		13
+				13		43
+43		7
+				7		23
+				23		19
+				19		5
+当一个人拿到19时，下一个人就要拿5了，故游戏结束，拿了7个．剩 EMBED Equation.DSMT4  (个)．
+【答案】 EMBED Equation.DSMT4  
+
+一个盒子里有400枚棋子，其中黑色和白色的棋子各200枚，我们对这些棋子做如下操作：每次拿出2枚棋子，如果颜色相同，就补1枚黑色棋子回去；如果颜色不同，就补1枚白色的棋子回去．这样的操作，实际上就是每次都少了1枚棋子，那么，经过399次操作后，最后剩下的棋子是          颜色(填黑或者白)
+【考点】游戏与策略            【难度】3星            【题型】填空
+【关键词】北大附中，资优博雅杯
+由于起初白子200枚是偶数，若同色，补黑子1枚，白子仍为偶数；若异色，补白子1枚，白子仍为偶数．因此最后1枚不可能是白子，故应是黑子．
+【答案】黑
+
+30粒珠子依8粒红色、2粒黑色、8粒红色、2粒黑色、 EMBED Equation.DSMT4  的次序串成一圈．一只蚱蜢从第2粒黑珠子起跳，每次跳过6粒珠子落在下一粒珠子上．这只蚱蜢至少要跳几次才能再次落在黑珠子上．
+【考点】游戏与策略            【难度】3星            【题型】解答
+【关键词】走美杯，试题
+这些珠子按8粒红色、2粒黑色、8粒红色、2粒黑色、 EMBED Equation.DSMT4  的次序串成一圈，那么每10粒珠子一个周期，我们可以推断出这30粒珠子数到第9和10、19和20、29和30、39和40、49和50粒 EMBED Equation.DSMT4  的时候，会是黑珠子．刚才是从第10粒珠子开始跳，中间隔6粒，跳到第17粒，接下来是第24粒、31粒、38粒、45粒、52粒、59粒，一直跳到59粒的时候会是黑珠子，所以至少要跳7次．
+【答案】7次
+
+在黑板上写上 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、……、 EMBED Equation.DSMT4  ，按下列规定进行“操怍”：每次擦去其中的任意两个数 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，然后写上它们的差(大数减小数)，直到黑板上剩下一个数为止．问黑板上剩下的数是奇数还是偶数？为什么？
+【考点】游戏与策略            【难度】3星            【题型】解答
+根据等差数列求和公式，可知开始时黑板上所有数的和为 EMBED Equation.DSMT4  是一个偶数，而每一次“操作”，将 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两个数变成了 EMBED Equation.DSMT4  ，它们的和减少了 EMBED Equation.DSMT4  ，即减少了一个偶数．那么从整体上看，总和减少了一个偶数，其奇偶性不变，还是一个偶数．所以每次操作后黑板上剩下的数的和都是偶数，那么最后黑板上剩下一个数时，这个数是个偶数．
+【答案】偶数
+
+桌上有一堆石子共1001粒。第一步从中扔去一粒石子，并把余下的石子分成两堆。以后的每一步，都从某个石子数目多于1的堆中扔去一粒，再把某一堆分作两堆。问：能否在若干步之后，桌上的每一堆中都刚好有3粒石子？
+【考点】游戏与策略            【难度】3星            【题型】解答
+不可能．事实上，如果可能的话，那么假定最后在桌上剩下了 EMBED Equation.DSMT4  堆石子，每堆3粒，则在此之前一共进行了 EMBED Equation.DSMT4  次操作（开始时只有一堆石子，每操作一次，多分出一堆，操作 EMBED Equation.DSMT4  次后分成 EMBED Equation.DSMT4  堆）．而每操作一次，都扔去一粒石子，所以一共扔去 EMBED Equation.DSMT4  粒石子．因此， EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  ，但1002不是4的倍数，说明 EMBED Equation.DSMT4  不是整数，导致矛盾．所以不可能．
+【答案】不可能
+
+有3堆小石子，每次允许进行如下操作：从每堆中取走同样数目的小石子，或是将其中的某一石子数是偶数的堆中的一半石子移入另外的一堆．开始时，第一堆有1989块石子，第二堆有989块石子，第三堆有89块石子．问，能否做到：⑴某2堆石子全部取光？⑵3堆中的所有石子都被取走？
+【考点】游戏与策略            【难度】3星            【题型】解答
+要使得某两堆石子全部取光，只需使得其中有两堆的石子数目一样多，那么如果我们把最少的一堆先取光，只要剩下的两堆中有一堆数目是偶数，再平分一下就可以实现了．而题中数字正好能满足要求．所以，全部取光两堆是可以的．
+对于第二个问题，要取走全部3堆，则必须3堆石子的总数是3的倍数才有可能，但1989、989、89之和并非3的倍数，所以是不可能的．
+⑴可以取光其中的两堆石子．如进行如下的操作：
+第1堆         第二堆            第三堆
+1989           989               89
+1900           900               0    (第一步：三堆各取走89块)
+1900           450               450  (第二步：第二堆900是偶数，将其一半移入第三堆)
+1450           0                 0    (第三步：三堆各取走450块)
+⑵不能将三堆全部取光． 因为每一次取走石子是从三堆中同时取走相同数目的石子，那么每次取走的石子数都是3的倍数，则不论怎么取，取走的石子总数是3的倍数，
+而 EMBED Equation.DSMT4  ，3067被3除余1，不是3的整数倍，所以不能将三堆石子全部取光．
+【答案】⑴可以；⑵不能
+
+今有101枚硬币，其中有100枚同样的真币和1枚伪币，伪币和真币的重量不同．现需弄清楚伪币究竟比真币轻还是重、但只有一架没有砝码的天平，那么怎样利用这架天平称两次，来达到目的？
+【考点】游戏与策略            【难度】3星            【题型】解答
+略
+【答案】101枚硬币，如果进行称重的话应该保证天平两边的硬币数相等．因此应该首先拿掉一个，把剩下的100枚硬币在天平两边各放50个．如果这时天平两边重量相等的话，就说明剩下的那个是伪币．只要任意拿出一个真币和这个伪币再称一次就可以知道真币和伪币那种比较重了．
+如果天平两边重量不相等的话，就是说伪币还在这100个硬币中．可以拿出其中比较轻的50个．这时同样还是把他们分成两个25枚，分到天平两边称重．
+如果两边重量相等，说明这50个硬币都是真的．伪币在比较重的那50个中，因此伪币就应该比真币重．如果两边重量不相等，说明伪币就在这50个比较轻的硬币中，显然伪币就应该比真币轻．同样道理，也可以把比较重的那50个硬币分成两个25进行称重，同样也可以得出结论
+
+9个金币中，有一个比真金币轻的假金币，你能用天平称两次就找出来吗（天平无砝码）?
+【考点】游戏与策略            【难度】3星            【题型】解答
+第一次在左右两托盘各放置3个：
+(一)如果不平衡，那么较轻的一侧的3个中有一个是假的．从中任取两个分别放在两托盘内：①如果不平衡，较低的一侧的那个是假的；②如果平衡，剩下的一个是假的；
+(二)如果平衡，剩下的三个中必有一个为假的．从中任取两个分别放在两托盘内：①如果不平衡，较低的一侧的那个是假的；②如果平衡，剩下的那个是假的．
+这类称量找假币的问题，一定要会分类，并尽量是每一类对应天平称量时的不同状态(轻，重，平)，所以分成3堆是很常见的分法．
+【答案】能
+
+你有四个装药丸的罐子，每个药丸都有一定的重量，被污染的药丸是没被污染的重量＋1.只称量一次，如何判断哪个罐子的药被污染了？
+【考点】游戏与策略            【难度】3星            【题型】解答
+略.
+【答案】第一瓶拿一个药丸，第二瓶拿两个药丸，第三瓶拿三个，第四瓶拿四个，称一下比标准的10个药丸重多少，重多少就是第几个瓶子里的药丸被污染
+
+有大，中，小3个瓶子，最多分别可以装入水1000克，700克和300克.现在大瓶中装满水，希望通过水在3个瓶子间的流动使得中瓶和小瓶上标出100克水的刻度线，问最少要倒几次水？
+【考点】游戏与策略            【难度】3星            【题型】解答
+通过对三个数字的分析，我们发现700-300-300=100，是计算步数最少的得到100的方法．而由于我们每计算一步就相当于倒一次水，所以倒水最少的方案应该是：
+1．大瓶往中瓶中倒满水．
+2．中瓶往小瓶中倒满水，这时中瓶中还剩下400克水．
+3．小瓶中水倒回大瓶．
+4．中瓶再往小瓶中倒满水，这时中瓶中只剩下100克水，标记．
+5．小瓶中水倒回大瓶．
+6．中瓶中100克水倒入小瓶，标记．所以最少要倒6次水．
+本题关键是，小瓶中的水每次都要倒掉，不然无法再往小瓶中倒水的．
+【答案】 EMBED Equation.DSMT4  次
+
+对一个自然数作如下操作：如果是偶数则除以2；如果是奇数则加1. 如此进行直到为1操作停止. 求经过9次操作变为1的数有多少个？
+【考点】游戏与策略            【难度】3星            【题型】解答
+【关键词】华杯赛，决赛
+ 可以先尝试一下，得出下面的图：其中经1次操作变为1的1个，即2，经2次操作变为1的1个，即4，经3次操作变为1的2个，即3，8，…，经6次操作变为1的有8个，即11，24，10，28，13，30，64，31.
+于是，经1、2、…次操作变为1的数的个数依次为
+1，1，2，3，5，8，…                                                   = 1 \* GB3 ①
+这一串数中有个特点：自第三个开始，每一个等于前两个的和，即
+2 EMBED Equation.DSMT4  1 EMBED Equation.DSMT4  1，3 EMBED Equation.DSMT4  2 EMBED Equation.DSMT4  1，5 EMBED Equation.DSMT4  3 EMBED Equation.DSMT4  2，8 EMBED Equation.DSMT4  5 EMBED Equation.DSMT4  3，…
+如果这个规律正确，那么8后面的数依次是
+8 EMBED Equation.DSMT4  5 EMBED Equation.DSMT4  13，13 EMBED Equation.DSMT4  8 EMBED Equation.DSMT4  21，21 EMBED Equation.DSMT4  13 EMBED Equation.DSMT4  34，…
+即经过9次操作变为1的数有34个.
+为什么上面的规律是正确的呢？
+道理也很简单. 设经过 EMBED Equation.DSMT4  次操作变为1的数的个数为 EMBED Equation.DSMT4  ,则 EMBED Equation.DSMT4  1， EMBED Equation.DSMT4  1， EMBED Equation.DSMT4   EMBED Equation.DSMT4  2，…
+
+从上面的图看出， EMBED Equation.DSMT4  比 EMBED Equation.DSMT4  大. 一方面，每个经过 EMBED Equation.DSMT4  次操作变为1的数，乘以2，就得出一个偶数，经过 EMBED Equation.DSMT4  次操作变为1；反过来，每个经过 EMBED Equation.DSMT4  次操作变为1的偶数，除以2，就得出一个经过 EMBED Equation.DSMT4  次操作变为1的数. 所以经过 EMBED Equation.DSMT4  次操作变为1的数与经过 EMBED Equation.DSMT4  次操作变为1的偶数恰好一样多.前者的个数是 EMBED Equation.DSMT4  ,因此后者也是 EMBED Equation.DSMT4  个.
+另一方面，每个经过 EMBED Equation.DSMT4  次操作变为1的偶数，减去1，就得出一个奇数，它经过 EMBED Equation.DSMT4  次操作变为1，反过来.每个经过 EMBED Equation.DSMT4  次操作变为1的奇数，加上1，就得出一个偶数，它经过 EMBED Equation.DSMT4  次操作变为1. 所以经过 EMBED Equation.DSMT4  次操作变为1的偶数经过 EMBED Equation.DSMT4  次操作变为1的奇数恰好一样多.而由上面所说，前者的个数就是 EMBED Equation.DSMT4  ,因此后者也是 EMBED Equation.DSMT4  .
+经过 EMBED Equation.DSMT4  1次操作变为1的数，分为偶数、奇数两类，所以
+ EMBED Equation.DSMT4                                                                = 2 \* GB3 ②
+即上面所说的规律的确成立.
+满足规律 = 2 \* GB3 ②，并且 EMBED Equation.DSMT4  1的一串数  = 1 \* GB3 ①称为裴波那契数列，斐波那契（Fibonacci,约1175—1250）是意大利数学家，以他的名字命名的这种数列有很广泛的应用.
+【答案】34
+
+模块二、染色与操作（证明）
+六年级一班全班有 EMBED Equation.DSMT4  名同学，共分成 EMBED Equation.DSMT4  排，每排 EMBED Equation.DSMT4  人，坐在教室里，每个座位的前后左右四个位置都叫作它的邻座．如果要让这 EMBED Equation.DSMT4  名同学各人都恰好坐到他的邻座上去，能办到吗？为什么？
+
+【考点】游戏与策略            【难度】3星            【题型】解答
+建议建议教师在本讲可以以游戏的形式激发学生自主解决问题．划一个 EMBED Equation.DSMT4  的方格表，其中每一个方格表示一个座位．将方格黑白相间地染上颜色，这样黑色座位与白色座位都成了邻座．因此每位同学都坐到他的邻座相当于所有白格的坐到黑格，所有黑格坐到白格．但实际上图中有 EMBED Equation.DSMT4  个黑格， EMBED Equation.DSMT4  个白格，黑格与白格的个数不相等，故不能办到．
+【答案】不能
+
+图是学校素质教育成果展览会的展室，每两个相邻的展室之间都有门相通．有一个人打算从 EMBED Equation.DSMT4  室开始依次而入，不重复地看过各室展览之后，仍回到 EMBED Equation.DSMT4  室，问他的目的能否达到，为什么？
+
+【考点】游戏与策略            【难度】3星            【题型】解答
+采用染色法．如右图，共有 EMBED Equation.DSMT4  个展览室，对这 EMBED Equation.DSMT4  个展览室，黑白相间地进行染色，从白室 EMBED Equation.DSMT4  出发走过第 EMBED Equation.DSMT4  扇门必至黑室，再由黑室走过第 EMBED Equation.DSMT4  扇门至白室，由于不重复地走遍每一间展览室，因此将走过黑白相间的 EMBED Equation.DSMT4  个展览室，再回到白室 EMBED Equation.DSMT4  ，共走过 EMBED Equation.DSMT4  扇门．由于走过奇数次门至黑室，走过偶数次门至白室． 现在，走过 EMBED Equation.DSMT4  扇门，必至黑室，所以无法回到原来的白室 EMBED Equation.DSMT4  ．
+【答案】无法回到
+
+右图是某套房子的平面图，共 EMBED Equation.DSMT4  个房间，每相邻两房间都有门相通．请问：你能从某个房间出发，不重复地走完每个房间吗?
+       
+【考点】游戏与策略            【难度】3星            【题型】解答
+如图所示，将房间黑白相间染色，发现有 EMBED Equation.DSMT4  个白格， EMBED Equation.DSMT4  个黑格．因为每次只能由黑格到白格或由白格到黑   格，路线必然黑白相间，这样白格数目与黑格数目之差最多为 EMBED Equation.DSMT4  才能不重复，但图中黑格比白格多 EMBED Equation.DSMT4  个，所以无法实现不重复走遍．
+【答案】无法实现
+
+有一次车展共 EMBED Equation.DSMT4  个展室，如右图，每个展室与相邻的展室都有门相通，入口和出口如图所示．参观者能否从入口进去，不重复地参观完每个展室再从出口出来?
+
+【考点】游戏与策略            【难度】3星            【题型】解答
+如右图，对每个展室黑白相间染色，那么每次只能从黑格到白格或从白格到黑格．由于入口处和出口处都是白格，而路线黑白相间，首尾都是白格，于是应该白格比黑格多 EMBED Equation.DSMT4  个，而实际上白格、黑格都是 EMBED Equation.DSMT4  个，故不可能做到不重复走遍每个展室．
+【答案】不可能
+
+如右图，在 EMBED Equation.DSMT4  方格的 EMBED Equation.DSMT4  格中有一只爬虫，它每次总是只朝上下左右四个方向爬到相邻方格中．那么它能否不重复地爬遍每个方格再回到 EMBED Equation.DSMT4  格中?
+
+【考点】游戏与策略            【难度】3星            【题型】解答
+由小虫的爬法，仍可黑白相间对方格自然染色，于是小虫只能由黑格爬到白格或由白格爬到黑格．所以，它由 EMBED Equation.DSMT4  出发回到 EMBED Equation.DSMT4  ，即黑格爬到黑格，必须经过偶数步．而小方格为 EMBED Equation.DSMT4  个，每格爬过一次，就应该为 EMBED Equation.DSMT4  步，不是偶数．于是这只爬虫不可能不重复地爬遍每格再回到 EMBED Equation.DSMT4  格．
+【答案】不可能
+
+右图是半张中国象棋盘，棋盘上放有一只马．众所周知，马是走“日”字的．请问：这只马能否不重复地走遍这半张棋盘上的每一个点，然后回到出发点？
+
+【考点】游戏与策略            【难度】3星            【题型】解答
+马走“日”字，在中国象棋盘上走有什么规律呢？为方便研究规律，如下图所示：
+
+先在棋盘各交点处相间标上○和●，图中共有22个○和23个●．因为马走“日”字，每步只能从○跳到●，或由●跳到○，所以马从某点跳到同色的点（指○或●），要跳偶数步；跳到不同色的点，要跳奇数步．现在马在○点，要跳回这一点，应跳偶数步，可是棋盘上共有 EMBED Equation.DSMT4  个点，所以不可能做到不重复地走遍所有的点后回到出发点．
+讨论：如果马的出发点不是在○点上而是在●点上，那么这只马能不能不重复地走遍这半张棋盘上的每个点，最后回到出发点上呢？按照上面的分析，显然也是不可能的．但是如果放弃“回到出发点”的要求，那么情况就不一样了．从某点出发，跳遍半张棋盘上除起点以外的其它 EMBED Equation.DSMT4  个点，要跳 EMBED Equation.DSMT4  步， EMBED Equation.DSMT4  是偶数，所以起点和终点应是同色的点（指○或●）．因为 EMBED Equation.DSMT4  步跳过的点○与点●各 EMBED Equation.DSMT4  个，所以起点必是●，终点也是●．也就是说，当不要求回到出发点时，只要从●出发，就可以不重复地走遍半张棋盘上的所有点．
+【答案】不可能
+
+一只电动老鼠从右图的 EMBED Equation.DSMT4  点出发，沿格线奔跑，并且每到一个格点不是向左转就是向右转．当这只电动老鼠又回到 EMBED Equation.DSMT4  点时，甲说它共转了 EMBED Equation.DSMT4  次弯，乙说它共转了 EMBED Equation.DSMT4  次弯．如果甲、乙二人有一人说对了，那么谁正确？
+         
+【考点】游戏与策略            【难度】3星            【题型】解答
+如右图所示:格点黑白相间染色，因为老鼠遇到格点必须转弯，所以经过多少个格点就转了多少次弯．如右上图所示，老鼠从黑点出发，到达任何一个黑点都转了奇数次弯，所以甲正确．
+【答案】甲正确
+
+模块三、染色与操作（剪拼）
+有7个苹果要平均分给12个小朋友，园长要求每个苹果最多分成5份．应该怎样分？
+【考点】游戏与策略            【难度】3星            【题型】解答
+显然每人应该分 EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  + EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  + EMBED Equation.DSMT4  ．
+
+于是，拿4个苹果，每个苹果3等分；拿3个苹果，每个苹果4等分.
+【答案】拿4个苹果，每个苹果3等分；拿3个苹果，每个苹果4等分
+
+右图是由 EMBED Equation.DSMT4  个大小相同的方格组成的图形．试问能不能剪裁成 EMBED Equation.DSMT4  个由相邻两方格组成的长方形？
+
+【考点】游戏与策略            【难度】3星            【题型】解答
+将这 EMBED Equation.DSMT4  个小方格黑白相间染色（见右下图），有 EMBED Equation.DSMT4  个黑格， EMBED Equation.DSMT4  个白格．相邻两个方格必然是一黑一白，如果能剪裁成 EMBED Equation.DSMT4  个小长方形，那么 EMBED Equation.DSMT4  个格应当是黑、白各 EMBED Equation.DSMT4  个，与实际情况不符，所以不能剪裁成 EMBED Equation.DSMT4  个由相邻两个方格组成的长方形．
+【答案】不能
+
+你能把下面的图形分成 EMBED Equation.DSMT4  个大小相同的长方形吗？动手画一画．
+
+【考点】游戏与策略            【难度】3星            【题型】解答
+可以通过染色发现黑白方格个数相同，可以按一黑一白分成 EMBED Equation.DSMT4  块含有 EMBED Equation.DSMT4  个小方格的长方形，答案如下（答案不唯一）：
+【答案】
+
+
+有6张电影票(如右图) ，想撕成相连的3张，共有________种不同的撕法.
+
+【考点】游戏与策略            【难度】3星            【题型】填空
+形如的有2种，
+形如的有8种.
+所以共有 EMBED Equation.DSMT4  （种）
+【答案】 EMBED Equation.DSMT4  种
+
+右图是由 EMBED Equation.DSMT4  个小正方形组成的图形，能否将它剪裁成 EMBED Equation.DSMT4  个相同的长方形？
+
+【考点】游戏与策略            【难度】3星            【题型】解答
+将 EMBED Equation.DSMT4  个小正方形剪裁成 EMBED Equation.DSMT4  个相同的长方形，就是将图形分割成 EMBED Equation.DSMT4  个 EMBED Equation.DSMT4  的小长方形，将图形黑白相间染色后，发现有 EMBED Equation.DSMT4  黑， EMBED Equation.DSMT4  白，黑、白格数目不等，而 EMBED Equation.DSMT4  的小长方形覆盖的总是黑白格各一个，所以不可能做到．
+【答案】不可能
+
+右面的三个图形都是从4×4的正方形纸片上剪去两个1×1的小方格后得到的. 问：能否把它们分别剪成1×2的七个小矩形.
+
+【考点】游戏与策略            【难度】3星            【题型】解答
+如右图
+
+（1）能，黑白格数相等；（2）（3）不能，黑白格数不等，而1×2的小矩形一次覆盖黑白格各一个.
+【答案】（1）能；（2）（3）不能
+
+用 EMBED Equation.DSMT4  个 EMBED Equation.DSMT4  的长方形能不能拼成一个 EMBED Equation.DSMT4  的正方形？请说明理由．
+
+【考点】游戏与策略            【难度】3星            【题型】解答
+本题若用传统的自然染色法，不能解决问题．因为要用 EMBED Equation.DSMT4  来覆盖，我们对 EMBED Equation.DSMT4  正方形用四种颜色染色．为了方便起见，这里用 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别代表四种颜色．为了使每个 EMBED Equation.DSMT4  长方形在任何位置盖住的都一样，我们采用沿对角线染色，如右图．这样，可以发现无论将 EMBED Equation.DSMT4  长方形放于何处，盖住的必然是 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  各一个．要不重叠地拼出 EMBED Equation.DSMT4  ，需 EMBED Equation.DSMT4  个 EMBED Equation.DSMT4  长方形，则必然盖住 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  各 EMBED Equation.DSMT4  个．但实际上图中一共是 EMBED Equation.DSMT4  个 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  个 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  个 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  个 EMBED Equation.DSMT4  ，因而不可能用 EMBED Equation.DSMT4  个 EMBED Equation.DSMT4  长方形拼出 EMBED Equation.DSMT4  正方形．
+【答案】不可能
+
+能否用 EMBED Equation.DSMT4  个所示的卡片拼成一个 EMBED Equation.DSMT4  的棋盘？
+
+【考点】游戏与策略            【难度】3星            【题型】解答
+不能．将 EMBED Equation.DSMT4  的棋盘黑白相间染色（见右图），有 EMBED Equation.DSMT4  个黑格．而每张卡片盖住的黑格数只能是 EMBED Equation.DSMT4  或者 EMBED Equation.DSMT4  ，所以每张卡片盖住的黑格数是个奇数， EMBED Equation.DSMT4  张卡片盖住的黑格数之和也是奇数，不可能盖住 EMBED Equation.DSMT4  个黑格．
+【答案】不可能
+
+如右图，缺两格的 EMBED Equation.DSMT4  方格有 EMBED Equation.DSMT4  个格，能否用 EMBED Equation.DSMT4  个图不重复地盖住它且不留空隙?
+         
+【考点】游戏与策略            【难度】3星            【题型】解答
+这种覆盖问题是典型的用染色方法解决的问题之一．用来覆盖，则用黑白相间染色，可以发现它无论横放、竖放，必然盖住一白一黑．要不重复不留空白，那总共盖住的黑格数与白格数应该相等．但从染色后整个图来看，黑格 EMBED Equation.DSMT4  个，白格 EMBED Equation.DSMT4  个，故不可能将整个图不重不漏地盖住．
+【答案】不可能
+
+用 EMBED Equation.DSMT4  个和 EMBED Equation.DSMT4  个能否盖住 EMBED Equation.DSMT4  的大正方形？
+
+【考点】游戏与策略            【难度】3星            【题型】解答
+如右图，对 EMBED Equation.DSMT4  的正方形黑白相间染色后，发现必然盖住 EMBED Equation.DSMT4  白 EMBED Equation.DSMT4  黑， EMBED Equation.DSMT4  个则盖住 EMBED Equation.DSMT4  白 EMBED Equation.DSMT4  黑．则盖住了 EMBED Equation.DSMT4  白 EMBED Equation.DSMT4  黑或 EMBED Equation.DSMT4  黑 EMBED Equation.DSMT4  白，从奇偶性考虑，都是奇数．而这种形状共 EMBED Equation.DSMT4  个，奇数个奇数相加仍为奇数，故这种形状盖住的黑格和白格都是奇数，加上另一种形状的 EMBED Equation.DSMT4  白 EMBED Equation.DSMT4  黑，两种形状共盖住奇数个白格奇数个黑格．但实际染色后共 EMBED Equation.DSMT4  个白格 EMBED Equation.DSMT4  个黑格，故不可能按题目要求盖住．
+注意：本题中每个盖 EMBED Equation.DSMT4  白 EMBED Equation.DSMT4  黑或 EMBED Equation.DSMT4  黑 EMBED Equation.DSMT4  白， EMBED Equation.DSMT4  个这种形状盖住的不一定是 EMBED Equation.DSMT4  白 EMBED Equation.DSMT4  黑或 EMBED Equation.DSMT4  黑 EMBED Equation.DSMT4  白，因为可能一部分盖 EMBED Equation.DSMT4  白 EMBED Equation.DSMT4  黑，另一部分盖 EMBED Equation.DSMT4  黑 EMBED Equation.DSMT4  白．这是一个容易犯错的地方．
+【答案】不可能
+
+在 EMBED Equation.DSMT4  的网格正方形(如图1)中用图2形状的图形来覆盖，要求图2的分割线落在正方形的网格线上．为使所余部分不能再放下图2形状的图形，最少需用图2形状的图形     个．
+    
+图1                       图2
+【考点】游戏与策略            【难度】3星            【题型】填空
+最少需要图2形状的图形11个．每个 EMBED Equation.DSMT4  的正方形至少被覆盖住2个小方格，才不能再放下图2形状的图形．在 EMBED Equation.DSMT4  的正方形中有16个 EMBED Equation.DSMT4  的正方形，因此至少需要覆盖住 EMBED Equation.DSMT4  个小方格．而要覆盖住32个小方格至少需要11个图2形状的图形(10个只能覆盖 EMBED Equation.DSMT4  个小方格)．
+具体覆盖方法很多，这里仅给出几种供读者参考．(如下图)
+
+【答案】11个
+
+用若干个 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  的小正方形能不能拼成一个 EMBED Equation.DSMT4  的大正方形？请说明理由．
+【考点】游戏与策略            【难度】3星            【题型】解答
+如图所示，
+
+将 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  的小正方形沿格线摆在右图的任何位置，必定盖住偶数个阴影方格，而阴影方格共有 EMBED Equation.DSMT4  个，是奇数，所以只用 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  的小正方形，不可能拼成 EMBED Equation.DSMT4  的大正方形．
+【答案】不可能
+
+ EMBED Equation.DSMT4  个 EMBED Equation.DSMT4  正方形和 EMBED Equation.DSMT4  个 EMBED Equation.DSMT4  长方形能不能拼出 EMBED Equation.DSMT4  的大正方形?请说明理由．
+【考点】游戏与策略            【难度】3星            【题型】解答
+若仍然将 EMBED Equation.DSMT4  的大正方形黑白相间染色，则 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  两种形状盖住的都是两白两黑．必须寻找其他的染色方法．新的方法必须使得 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  长方形无论放在何处，都分别符合一定的规律．采用如右图的染色方法，
+
+则： EMBED Equation.DSMT4  长方形必盖住两黑两白，共 EMBED Equation.DSMT4  个 EMBED Equation.DSMT4  ，盖住 EMBED Equation.DSMT4  黑 EMBED Equation.DSMT4  白； EMBED Equation.DSMT4  长方形可盖住 EMBED Equation.DSMT4  白 EMBED Equation.DSMT4  黑或 EMBED Equation.DSMT4  黑 EMBED Equation.DSMT4  白．可以发现，总共只能盖住 EMBED Equation.DSMT4  黑 EMBED Equation.DSMT4  白或 EMBED Equation.DSMT4  白 EMBED Equation.DSMT4  黑，而图中实际有 EMBED Equation.DSMT4  个黑格 EMBED Equation.DSMT4  个白格，故不可能用 EMBED Equation.DSMT4  个 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  个 EMBED Equation.DSMT4  的长方形盖住 EMBED Equation.DSMT4  的大正方形．对区域染色也可理解为对多个方格染色，但此时方格染色范围更广，染色方案更加灵活．
+【答案】不可能
+
+有一批商品，每一件都是长方体形状，尺寸是 EMBED Equation.DSMT4  ．现有一批现成的木箱，内空尺寸是 EMBED Equation.DSMT4  ，问：为什么不能用这些商品将木箱装满?
+【考点】游戏与策略            【难度】3星            【题型】解答
+略．
+【答案】采用如右图的染色方法．
+
+每件 EMBED Equation.DSMT4  的商品必占 EMBED Equation.DSMT4  个白的小立方体和 EMBED Equation.DSMT4  个黑的小立方体．在整个大正方体中， EMBED Equation.DSMT4  的黑正方体共有 EMBED Equation.DSMT4  (个)．故 EMBED Equation.DSMT4  的黑正方体共： EMBED Equation.DSMT4  (个)．白正方体共： EMBED Equation.DSMT4  (个)．可见， EMBED Equation.DSMT4  的小立方体黑白总数不等，而每件 EMBED Equation.DSMT4  的商品能占的黑白小立方体个数相同，故不可能用这种商品装满木箱而没有空隙
+	
+模块四、操作问题（计算）
+对于任意一个自然数 EMBED Equation.DSMT4  ，当 EMBED Equation.DSMT4  为奇数时，加上 EMBED Equation.DSMT4  ；当 EMBED Equation.DSMT4  为偶数时，除以 EMBED Equation.DSMT4  ，这算一次操作．现在对 EMBED Equation.DSMT4  连续进行这种操作，在操作过程中是否可能出现 EMBED Equation.DSMT4  ？为什么？
+【考点】游戏与策略            【难度】3星            【题型】解答
+同学们碰到这种题，可能会“具体操作”一下，得到
+ EMBED Equation.DSMT4  
+        这个过程还可以继续下去，虽然一直没有得到 EMBED Equation.DSMT4  ，但也不能肯定得不到 EMBED Equation.DSMT4  ．当然，连续操作
+下去会发现，数字一旦重复出现后，这一过程就进入循环，这时就可以肯定不会出现 EMBED Equation.DSMT4  ．因为
+这一过程很长，所以这不是好方法．我们可以从另一个方面来考虑，因为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  都是 EMBED Equation.DSMT4  的倍
+数，而 EMBED Equation.DSMT4  不是 EMBED Equation.DSMT4  的倍数，所以在操作过程中产生的数也应当是 EMBED Equation.DSMT4  的倍数． EMBED Equation.DSMT4  不是 EMBED Equation.DSMT4  的倍数，所
+以不可能出现．
+【答案】不可能
+
+小牛对小猴说：“对一个自然数 EMBED Equation.DSMT4  进行系列变换：当 EMBED Equation.DSMT4  是奇数时，则加上2007；当 EMBED Equation.DSMT4  是偶数时，则除以2．现在对2004连续做这种变换，变换中终于出现了数2008．”小猴说：“你骗人！不可能出现2008．”请问：小牛和小猴谁说得对呢？为什么？
+【考点】游戏与策略            【难度】3星            【题型】解答
+试着按照规则进行变换，得到的结果依次如下：2004，1002，501，2508，1254，627，2634，1317，3324，1662，831，2838，……
+从中发现不了什么规律，所以应该从另外的角度进行分析．观察可知2004和2007都是3的倍数，那么不论变换多少次，得到的数也还是3的倍数．而2008不是3的倍数，所以不可能出现2008．
+【答案】小猴
+
+在2009张卡片上分别写着数字1、2、3、4、……、2009，现在将卡片的顺序打乱，让空白面朝上，并在空白面上又分别写上1、2、3、4、……、2009．然后将每一张卡片正反两个面上的数字相加，再将这2009个和相乘，所得的积能否确定是奇数还是偶数？
+【考点】游戏与策略            【难度】3星            【题型】解答
+从整体进行考虑．所得的2009个和相加，便等于1～2009的所有数的总和的2倍，是个偶数．2009个数的和是偶数，说明这2009个数中必有偶数，那么这2009个数的乘积是偶数．
+本题也可以考虑其中的奇数．由于1～2009中有1005个奇数，那么正反两面共有2010个奇数，而只有2009张卡片，根据抽屉原理，其中必有2个奇数在同一张卡片上，那么这张卡片上的数字的和是偶数，从而所有2009个和的乘积也是偶数．
+【答案】偶数
+
+先写出一个两位数62，接着在62右端写这两个数字的和8，得到628，再写末两位数字2和8的和10，得到62810，用上述方法得到一个有2006位的整数：6 2 8 1 0 1 1 2 3 ……则这个整数的数字之和是          。
+【考点】游戏与策略            【难度】3星            【题型】填空
+这个2006位整数的前若干位如下：62810┊1123581347┊11……从第6位起，每10位数字循环出现一次，这10位数字之和为 1 + 1 + 2 + 3 + 5 + 8 + 1 + 3 + 4 + 7 = 35。（2006－5）÷10=200……1，这个整数的数字之和是  6 + 2 + 8 + 1 + 0 + 35×200 + 1 = 7018。
+【答案】7018
+
+右图是一个圆盘，中心轴固定在黑板上．开始时，圆盘上每个数字所对应的黑板处均写着 EMBED Equation.DSMT4  ．然后转动圆盘，每次可以转动 EMBED Equation.DSMT4  的任意整数倍，圆盘上的四个数将分别正对着黑板上写数的位置，将圆盘上的数加到黑板上对应位置的数上．问：经过若干次后，黑板上的四个数是否可能都是 EMBED Equation.DSMT4  ？
+
+【考点】游戏与策略            【难度】3星            【题型】解答
+不可能．因为每次加上的数之和都是 EMBED Equation.DSMT4  ，所以黑板上的四个数之和永远是 EMBED Equation.DSMT4  的整数倍．而 EMBED Equation.DSMT4  ，不是 EMBED Equation.DSMT4  的倍数，所以黑板上的四个数不可都是 EMBED Equation.DSMT4  ．
+【答案】不可都
+
+如右图所示，将 EMBED Equation.DSMT4  顺次排成一圈．如果报出一个数 EMBED Equation.DSMT4  （在 EMBED Equation.DSMT4  之间），那么就从数 EMBED Equation.DSMT4  的位置顺时针走 EMBED Equation.DSMT4  个数的位置．例如 EMBED Equation.DSMT4  ，就从 EMBED Equation.DSMT4  的位置顺时针走 EMBED Equation.DSMT4  个数的位置到达 EMBED Equation.DSMT4  的位置； EMBED Equation.DSMT4  ，就从 EMBED Equation.DSMT4  的位置顺时针走 EMBED Equation.DSMT4  个数的位置到达 EMBED Equation.DSMT4  的位置．问： EMBED Equation.DSMT4  是多少时，可以走到 EMBED Equation.DSMT4  的位置？
+
+【考点】游戏与策略            【难度】3星            【题型】解答
+不存在．当 EMBED Equation.DSMT4  时，从 EMBED Equation.DSMT4  的位置顺时针走 EMBED Equation.DSMT4  个数的位置，应到达 EMBED Equation.DSMT4  的位置；当 EMBED Equation.DSMT4  时，从 EMBED Equation.DSMT4  的位置顺时针走 EMBED Equation.DSMT4  个数的位置，应到达 EMBED Equation.DSMT4  的位置．由上面的分析知，不论 EMBED Equation.DSMT4  是什么数，结果总是走到偶数的位置，不会走到 EMBED Equation.DSMT4  的位置．
+【答案】不会
+
+有5个黑色和白色棋子围成一圈，规定：将同色且相邻的两个棋子之间放入一个白色棋子，在异色且相邻的两个棋子之间放入一个黑色棋子，然后将原来的5个棋子拿掉。如果第一幅图的初始状态开始依照上述规定操作下去，对于圆圈上呈现5个棋子的情况，圆圈上黑子最多能有       个。
+
+【考点】游戏与策略            【难度】3星            【题型】填空
+5个棋子2种颜色，至少有2个相同颜色的棋子相邻，所以无论操作多少次，5个棋子中至少有1个是白子，所以黑子最多有4个。实际操作得到： 所以最多有4个
+
+【答案】最多有4个
+
+对于表⑴，每次使其中的任意两个数减去或加上同一个数，能否经过若干次后（各次减去或加上的数可以不同），变为表⑵？为什么？
+
+【考点】游戏与策略            【难度】3星            【题型】解答
+因为每次有两个数同时被加上或减去同一个数，所以表中九个数码的总和经过一次变化后，等于原来的总和加上或减去那个数的 EMBED Equation.DSMT4  倍， 因此总和的奇偶性没有改变．原来九个数的总和为 EMBED Equation.DSMT4  ，是奇数，经过若干次变化后，总和仍应是奇数，而表⑵中九个数的总和是 EMBED Equation.DSMT4  ，是个偶数．奇数不可能等于偶数，所以不可能变成表⑵．
+【答案】不可能
+
+在图⑴的方格表中，对任意相邻的上下或左右两格中的数字同时加 EMBED Equation.DSMT4  或减 EMBED Equation.DSMT4  ，这算一次操作，经过若干次操作后变为图⑵，问：图⑵中的 EMBED Equation.DSMT4  格中的数字是几？
+
+【考点】游戏与策略            【难度】3星            【题型】解答
+将 EMBED Equation.DSMT4  的方格进行黑白相间染色，如右图所示
+
+每个小格同时加 EMBED Equation.DSMT4  或减 EMBED Equation.DSMT4  ，因黑白格数相等，那么操作中不变的应该是黑格数字和与白格数字和之差，由图⑴知这个差是 EMBED Equation.DSMT4  ，由图⑵可知：白格数之和 EMBED Equation.DSMT4  黑格数之和 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+如图，图 EMBED Equation.DSMT4  的 EMBED Equation.DSMT4  方格中交替填满了 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，图 EMBED Equation.DSMT4  是从图 EMBED Equation.DSMT4  中任意位置截取的、、三种图形，并对每种图形进行操作：每个小方格同时加 EMBED Equation.DSMT4  或同时减 EMBED Equation.DSMT4  ，如此反复多次，再将这三种图形不重叠地拼成的．问：图 EMBED Equation.DSMT4  中的 EMBED Equation.DSMT4  格中的数字应该是多少？
+
+【考点】游戏与策略            【难度】3星            【题型】解答
+此题似乎脱离了染色问题，问的是数字，但注意到图 EMBED Equation.DSMT4  中 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  的交替，想到将 EMBED Equation.DSMT4  方格自然染色(如右图)
+
+则黑格里全为 EMBED Equation.DSMT4  ，白格里全为 EMBED Equation.DSMT4  ．而题中的三种图形， EMBED Equation.DSMT4  方格必占 EMBED Equation.DSMT4  白 EMBED Equation.DSMT4  黑， EMBED Equation.DSMT4  的方格必占 EMBED Equation.DSMT4  白 EMBED Equation.DSMT4  黑，黑白格数都相同．再想到对它们的操作：每个小格同时加 EMBED Equation.DSMT4  或减 EMBED Equation.DSMT4  ，因黑白格数相等，那么操作中不变的应该是黑格数字和与白格数字和之差，三种图形拼出的图 EMBED Equation.DSMT4  中这个差也应该不变．于是对比图 EMBED Equation.DSMT4  和图 EMBED Equation.DSMT4  ，
+图 EMBED Equation.DSMT4  中：黑格数字和 EMBED Equation.DSMT4  白格数字和 EMBED Equation.DSMT4  ；
+图 EMBED Equation.DSMT4  中：黑格数字和一白格数字和 EMBED Equation.DSMT4  ，即
+ EMBED Equation.DSMT4  ，得 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+右图是一个 EMBED Equation.DSMT4  的方格盘．先将其中的 EMBED Equation.DSMT4  个方格染黑，然后按以下规则继续染色：如果某个格与两个黑格都有公共边，就将这个格染黑．这样操作下去，能否将整个方格盘都染成黑色？
+
+【考点】游戏与策略            【难度】3星            【题型】解答
+开始时染黑 EMBED Equation.DSMT4  个方格，这 EMBED Equation.DSMT4  个方格的总周长不会超过 EMBED Equation.DSMT4  ，以后每染一个格，因为这个格至少与两个黑格有公共边，所以染黑后，所有黑格的总周长不会增加．也就是说，所有黑格的总周长永远不会超过 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  方格盘的周长是 EMBED Equation.DSMT4  ，所以不能将整个方格盘都染成黑色．
+【答案】不能
+
+将一张正方形纸片，横着剪 EMBED Equation.DSMT4  刀，竖着剪 EMBED Equation.DSMT4  刀，裁成尽可能大的形状大小一样的 EMBED Equation.DSMT4  张长方形纸片．再把这样的一张长方形纸片裁成尽可能大的面积相等的小正方形纸片．如果小正方形边长为 EMBED Equation.DSMT4  厘米，那么大正方形纸片的面积应为多少平方厘米？说明理由．
+【考点】游戏与策略            【难度】3星            【题型】解答
+大正方形纸片被横着裁成 EMBED Equation.DSMT4  份，竖着裁成 EMBED Equation.DSMT4  份，所以裁成的长方形纸片的长宽比为 EMBED Equation.DSMT4  ，若将这样的纸片切割成尽可能大的正方形纸片，则正方形纸片边长应该为长方形纸片长、宽的公约数，而 EMBED Equation.DSMT4  ，所以长方形纸片的宽是小正方形纸片的边长的 EMBED Equation.DSMT4  倍， EMBED Equation.DSMT4  ，所以长方形纸片宽 EMBED Equation.DSMT4  厘米，大正方形纸片边长为 EMBED Equation.DSMT4  厘米．所以大正方形纸片的面积为 EMBED Equation.DSMT4  平方厘米．
+【答案】 EMBED Equation.DSMT4  平方厘米
+
+能否把 EMBED Equation.DSMT4  台电话中的每台电话恰好与其它 EMBED Equation.DSMT4  台相连？
+【考点】游戏与策略            【难度】3星            【题型】解答
+题目引入：假如你是一个工程师，专门设计程控电话网络，很有科技含量哦！如果我们可以把 EMBED Equation.DSMT4  个电话或 EMBED Equation.DSMT4  个电话做到每台电话与 EMBED Equation.DSMT4  个电话相连接，我们可以将 EMBED Equation.DSMT4  分成 EMBED Equation.DSMT4  个一组的共 EMBED Equation.DSMT4  组以及 EMBED Equation.DSMT4  个一组的共 EMBED Equation.DSMT4  组．如下图，每个点代表一台电话，每条线段表示其两个端点为相连接的两台电话，左图为 EMBED Equation.DSMT4  台电话的情形，右图为 EMBED Equation.DSMT4  台电话的情形．所以我们可以把 EMBED Equation.DSMT4  台电话中的每台电话恰好与其它 EMBED Equation.DSMT4  台相连．
+
+【答案】可以
+
+有一长为11 cm，宽为9cm，高为7cm的长方体木块，能否切割成77块长、宽都是3cm，高是1cm的长方体形状的积木块?说明理由．
+【考点】游戏与策略            【难度】3星            【题型】解答
+木块体积为 EMBED Equation.DSMT4  立方厘米．77块 EMBED Equation.DSMT4  立方厘米的积木也恰为693立方厘米．如果能将 EMBED Equation.DSMT4  立方厘米的木块切割为77块 EMBED Equation.DSMT4  立方厘米的积木．那么 EMBED Equation.DSMT4  的侧面将被小积木的侧面盖满．而小积木侧面面积要么是3平方厘米，要么是9平方厘米．从而 EMBED Equation.DSMT4  应被3整除，但这不成立．
+所以长为11cm，宽为9cm，高为7cm的木块不能切割成77块 EMBED Equation.DSMT4  立方厘米的长方体积木．
+
+拓展：长边和短边的比例都是2：1的长方形称为基本长方形，用短边互不相同的基本长方形拼图，要求任意两个长方形之间：①没有重叠部分；②没有空隙．试用短边互不相同且最小短边为1的五个基本长方形拼接一个更大的长方形，若 EMBED Equation.DSMT4  =1< EMBED Equation.DSMT4   < EMBED Equation.DSMT4   < EMBED Equation.DSMT4   < EMBED Equation.DSMT4  分别为5个短边，我们将大长方形记为( EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  )．
+例如(1，2，5，6，12)就可以拼成一个长方形(见右图)，是一个解答．请尽可能多地写出其他的解答(不必画图)．注意示意图是用解答中5个基本长方形拼成的一个长方形的具体拼图方法．其他方法可能存在，但不能算另一种．
+【答案】
+
+一张长14厘米、宽11厘米的长方形纸片最多能裁出多少个长4厘米、宽1厘米的纸条?怎样裁?请画图说明．
+【考点】游戏与策略            【难度】3星            【题型】解答
+这张纸的面积为154平方厘米，每张纸条的面积为4平方厘米．
+ EMBED Equation.DSMT4  因此，最多能裁38张小纸条，下面画出两种不同的裁法
+第一种裁法：
+
+  第二种裁法：
+
+
+【答案】 EMBED Equation.DSMT4  张
+
+现在流行的变速自行车，在主动轴和后轴分别安装了几个齿数不同的齿轮。用链条连接不同搭配的齿轮，通过不同的传动比获得若干档不同的车速。“希望牌”变速自行车主动轴上有三个齿轮，齿数分别是48，36，24；后轴上有四个齿轮，齿数分别是36，24，16，12。问：“这种变速车一共有几档不同的车速？
+【考点】游戏与策略            【难度】3星            【题型】解答
+【关键词】华杯赛，初赛，第5题
+算出全部传动比，并列成表：
+
+这里有4对传动比是相同的：1， EMBED Equation.DSMT4  ，2,3。将重复的传动比去掉，剩下8个不同的比，所以共有8档不同的车速。
+【答案】 EMBED Equation.DSMT4  档
+
+现在世界各国普遍采用的公历是在1582年修订的格列高里历，它规定：公元年数被4除得尽的是闰年，但如被100除得尽而被400除不尽的则不是闰年。按此规定，从1582年至今共有         个闰年。
+【考点】两个量重叠问题   【难度】3星   【题型】填空
+【关键词】希望杯，四年级，二试，第15题
+1582-2006共有（2004-1584）÷4+1＝106个数能被4整除，能被100整除的有5个，但这5个数中1700，1800，1900不能被400整除，所以共有106-3＝103个闰年。
+【答案】 EMBED Equation.DSMT4  个闰年
+
+小名、小亮两人玩扑克牌，他们手里各有点数为1、2、3、4、5、6、7、8、9、10的纸牌各一张。两人每轮各出一张牌，点数大的为胜，并将两张牌的点数差(大减小)，做为获胜一方的分数，另一方不得分，10轮牌出完之后，两人总分之和最大是           。
+【考点】游戏与策略            【难度】4星            【题型】填空
+【关键词】迎春杯，三年级，初赛，第9题
+设小名赢了a局，小亮赢了10-a局，得分和就可以写成： EMBED Equation.DSMT4  其中 EMBED Equation.DSMT4  表示小名的点数， EMBED Equation.DSMT4  表示小亮的点数. 拆括号为 EMBED Equation.DSMT4  .为了让这个值最大，那么前边是+的 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  都填最大的数，减的填最小，当a是5时能得到最大值[（10+9+8+7+6）-(1+2+3+4+5)]×2=50
+【答案】50
+
+黑板上写着1至2008共2008自然数，小明每次擦去两个奇偶性相同的数，再写上它们的平均数，最后黑板上只剩下一个自然数，这个数可能的最大值和最小值的差是       。
+【考点】游戏与策略            【难度】3星            【题型】填空
+【关键词】华杯赛，决赛，第8题，10分
+先求剩下数的最大值，那么擦去的数应该尽量小，找到规律：
+首先擦去1，3，写上2
+擦去2，2，写上2
+擦去2，4，写上3
+擦去3，5，写上4
+擦去4，6，写上5
+ EMBED Equation.DSMT4  
+擦去2006，2008，写上2007。
+所以剩下数的最大值为2007。
+同理可知剩下数的最小值为2。
+所以最大值和最小值的差是2005。 【答案】 EMBED Equation.DSMT4  
+
+有一类自然数，从左边第三位开始，每个数位上的数字都是它左边两个数位上的数的和，如21347。则这类自然数中，最大的奇数是         .
+【考点】游戏与策略            【难度】3星            【题型】填空
+设从左到右，第一位数字为 EMBED Equation.DSMT4  ，第二位数字为 EMBED Equation.DSMT4  。其中 EMBED Equation.DSMT4  可取1到9,。 EMBED Equation.DSMT4  可取0到9，则相应地第三位到第八位数字分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，之后无论 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  取任何值都不能满足 EMBED Equation.DSMT4  ，因此这样的数最多能是八位数。观察发现要使这个数字最大（即位数最多），则 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  小于10， EMBED Equation.DSMT4  必然为0。此时 EMBED Equation.DSMT4  必为偶数，不可取。因此最大的奇数是七位数，此时 EMBED Equation.DSMT4  必然为1,这个最大的奇数是1011235 EMBED Equation.DSMT4  
+【答案】1011235
+
+如图，按如下①和②的要求，从16个方格中选出6个数擦去。
+          ①使每行和每列剩下的数的个数都是偶数。
+②使剩下的10个数之和最大。
+则擦掉的6个数之和是          ，共有       种擦法(擦去6个数)。
+
+【考点】游戏与策略            【难度】3星            【题型】填空
+去掉一个 EMBED Equation.DSMT4  的部分即可，要使留下来的数字之和最大，所以得去掉左上角，两种去法。
+        数字之和为 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  ；两种
+
+如图，在“贪吃豆”游戏中，开始时积分为10分。当贪吃豆走到某个宝箱处，就要吃掉那个宝箱，并将积分按照宝箱上的要求进行运算。贪吃豆吃掉所有宝箱后才能过关。例如，贪吃豆可以依次吃掉“×2”、“＋2”、“÷2”、“＋3”、“－2”、“×3”，过关时的积分为36。贪吃豆过关时，积分最多可以为：              。
+
+【考点】游戏与策略            【难度】3星            【题型】填空
+【关键词】走美杯,4年级,决赛
+要使积分最高，即要使除法尽量发生在前面，又要使乘积在发生之前数尽量最大，则得到下式：    EMBED Equation.DSMT4    EMBED Equation.DSMT4   EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+二十多位小朋友围成一圈做游戏．他们依顺时针顺序从小赵报1开始连续报数，但7的倍数或带有数字7的数都要跳过去不报；报错的人表演一个节目．小明是第一个报错的人，当他右边的同学报90时他错报了91．如果他第一次报数报的是19，那么这群小朋友共有        人．
+【考点】游戏与策略            【难度】3星            【题型】填空
+【关键词】走美杯，5年级，决赛
+a .“跳过去不报”指一个小朋友报了6，下一个小朋友不报数而是拍手，再下一个小朋友报8。此时，每个人应当轮到的数和上一次轮到的数（报出来或者拍手跳过）之间的差等于总人数。小明本次应当拍手，而不是报出91。所以，总人数是91-19=72的约数，有72，36，24，18，……，其中是“二十多”的只有24。
+b. “跳过去不报”指一个小朋友报了6，下一个小朋友直接报8。此时，把所有7的倍数和带有数字7的数去掉之后，剩余的数字排成一列，每个人应当轮到的数和上一次轮到的数在这个数列中的位置号之差等于总人数。从19到90这72个数中，含有数字7的有27，37，47，57，67，70到79，87，共16个，是7的倍数且不含有数字7的有21，28，35，42，49，56，63，84共8个，所以排除掉之后剩下48个，总人数应当是48的约数，有48，24，16，……，其中是“二十多”的也只有24。
+这道题目存在两种不同的理解方式，但是答案却恰好相同，这确实是巧合。
+【答案】24
+
+模块五、游戏策略
+甲、乙二人轮流在右上图的10个方格中，甲画“○”，乙画“×”。甲胜的情况是：最后一行有4个“○”或者其它的直线上有3个“○”；乙胜的情况是：最后一行有4个“×”或者其它的直线上有3个“×”。甲先画，他要取胜，第一步应填在标号为     的方格中(有几种就填几种)。
+
+【考点】游戏与策略            【难度】3星            【题型】填空
+【关键词】走美杯，5年级，决赛
+略.
+【答案】5、2、6
+
+A、B、C、D、E五个小朋友做游戏，每轮游戏都按照下面的箭头方向把原来手里的玩具传给另外一个小朋友：A->C,B->E,C->A,D->B,E->D.开始A、B拿着福娃，C、D、E拿着福牛，传递完5轮时，拿着福娃的小朋友是（  ）. （A）C与D      (B) A与D      (C) C与E      (D) A与B
+【考点】游戏与策略            【难度】3星            【题型】选择
+【关键词】华杯赛，初赛，第6题
+根据题意，A与C互相传，B、D、E之间则按B→E→D→B→…的顺序轮流传。开始时，两个福娃分别在A、B手上，其中A手上的福娃经过5轮的传递将到C的手里，B手上的福娃经过5轮的传递将到D的手里。所以传递完5轮时，拿着福娃的小朋友是C和D。正确答案为A。
+【答案】 EMBED Equation.DSMT4  
+
+请在5×5的棋盘中放入10个国际象棋中的皇后，使得标有数N的格子恰好受到N枚皇后的攻击．每个格最多一枚棋子，标有数的格子不能放棋子．如果有超过一枚皇后从同一方向攻击到某个格子，只计算最前方的那枚皇后（注：每只皇后可攻击同一行、同一列或同一斜线上的格子）．
+
+【考点】游戏与策略            【难度】3星            【题型】填空
+【关键词】走美，5年级，决赛
+先从5入手，5只有5个受攻击方向，可以推断5个方向都要受到攻击，从而 = 1 \* GB3 ① = 2 \* GB3 ②位置必有皇后，则推断1的打“×”位置都不能有皇后，从而 = 8 \* GB3 ⑧位置必有皇后，再根据7推断 = 3 \* GB3 ③ = 4 \* GB3 ④ = 5 \* GB3 ⑤ = 6 \* GB3 ⑥ = 7 \* GB3 ⑦位置必有皇后，此时4和7还缺少一个受攻击方向，则有一个皇后必须同时攻击4和7，这个皇后只能在 = 1 \* GB2 ⑴或 = 2 \* GB2 ⑵，但如果把皇后放在  = 2 \* GB2 ⑵的位置，最后最多只能放9个皇后，因此 = 1 \* GB2 ⑴和 = 9 \* GB3 ⑨的位置再放两个皇后，共10个皇后
+
+【答案】
+
+
+下图是一座迷宫，请画出任意一条从A到B的通道。
+ SHAPE  \* MERGEFORMAT 
+【考点】游戏与策略            【难度】3星            【题型】填空
+【关键词】走美杯，3年级，初赛
+略.
+【答案】
+
+
+下图是常见的正方体，我们可以看到三面共有3 EMBED Equation.DSMT4  9=27个变成为1的正方体，在这三面上有三条蛇。每条有5个连续的正方形（每两个连续正方形有一条公共边）组成，不全在一个面上，每两条蛇互不接触（两条蛇的方格不能有公共点），请将这三条蛇画出来。（用阴影将蛇所在的正方形画出来）
+
+【考点】游戏与策略            【难度】3星            【题型】填空
+【关键词】走美杯，3年级，初赛
+略
+【答案】
+ SHAPE  \* MERGEFORMAT 
+
+
+
+小谢要把32张奖状贴到办公室的墙上. 他用胶涂好一张奖状需要2分钟，涂好后至少需要等待2分钟才可以开始往墙上粘贴，但是若等待时间超过6分钟，胶就会完全干掉而失去作用. 如果小谢粘贴一张奖状还需要1分钟时间. 那么，小谢粘贴完全部奖状最少需要_____________分钟.
+【考点】游戏与策略            【难度】3星            【题型】填空
+【关键词】迎春杯，三年级，初赛
+要想用的时间最少，那么等待的时间应尽可能地少，所以应把等待的时间用在涂奖状上. 涂第 EMBED Equation.DSMT4  张奖状要 EMBED Equation.DSMT4  分钟，涂第 EMBED Equation.DSMT4  张也要 EMBED Equation.DSMT4  分钟，涂第 EMBED Equation.DSMT4  张也要 EMBED Equation.DSMT4  分钟，此时第 EMBED Equation.DSMT4  张已等待了 EMBED Equation.DSMT4  分钟，此时将第 EMBED Equation.DSMT4  张粘贴需要 EMBED Equation.DSMT4  分钟；再涂第 EMBED Equation.DSMT4  张奖状，又要 EMBED Equation.DSMT4  分钟，此时第 EMBED Equation.DSMT4  张奖状已等待了 EMBED Equation.DSMT4  分钟，可以将第 EMBED Equation.DSMT4  张奖状粘贴……这样从第 EMBED Equation.DSMT4  张奖状起，保持总是有 EMBED Equation.DSMT4  张奖状在等待，直到最后两张，先后将其粘贴.可见其中没有浪费任何一分钟，而花在每一张奖状上的时间都是 EMBED Equation.DSMT4  分钟，所以共需要 EMBED Equation.DSMT4  分钟.
+【答案】 EMBED Equation.DSMT4  
+
+国际象棋中“马”的走法如图1所示，位于○位置的“马”只能走到标有×的格中，类似于中国象棋中的“马走日”．如果“马”在8×8的国际象棋棋盘中位于第一行第二列(图2中标有△的位置)，要走到第八行第五列(图2中标有★的位置)，最短路线有＿＿＿条．
+
+图1                        图2
+【考点】游戏与策略            【难度】3星            【题型】填空
+【关键词】迎春杯，六年级，初赛
+如图所示，采用标数法，可知共有12条最短路线。
+
+【答案】12条最短路线
+
+有一只小猴子在深山中发现了一片野香蕉园，它一共摘了300根香蕉，然后要走1000米才能到家，如果它每次最多只能背100根香蕉，并且它每走10米就要吃掉一根香蕉，那么，它最多可以把           根香蕉带回家？
+【考点】游戏与策略            【难度】3星            【题型】填空
+【关键词】北大附中，资优博雅杯
+首先，猴子背着100根香蕉直接回家，会怎样？在到家的时候，猴子刚好吃完最后一根香蕉，其他200根香蕉白白浪费了！
+折返，求最值问题，我们需要设计出一个最优方案． EMBED Equation.DSMT4  ．猴子必然要折返3次来拿香蕉．
+我们为猴子想到一个绝妙的主意：在半路上储存一部分香蕉．
+猴子的路线：
+
+这两个储存点 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  就是猴子放置香蕉的地方，怎么选呢？最好的情况是：
+(一)当猴子第①③④次回去时，都能在这里拿到足够到野香蕉园的香蕉．
+(二)当猴子第②④次到达储存点时，都能将之前路上消耗的香蕉补充好(即身上还有100个)
+(三) EMBED Equation.DSMT4  点同上．
+ EMBED Equation.DSMT4  的距离为 EMBED Equation.DSMT4  ，路上消耗 EMBED Equation.DSMT4  个香蕉． EMBED Equation.DSMT4  的距离为 EMBED Equation.DSMT4  ，路上消耗 EMBED Equation.DSMT4  个香蕉．
+猴子第一次到达 EMBED Equation.DSMT4  点，还有 EMBED Equation.DSMT4  个香蕉，回去又要消耗 EMBED Equation.DSMT4  个，只能留下 EMBED Equation.DSMT4  个香蕉．这 EMBED Equation.DSMT4  个香蕉将为猴子补充②③④次路过时的消耗和需求，每次都是 EMBED Equation.DSMT4  个，则 EMBED Equation.DSMT4  ． EMBED Equation.DSMT4  米，猴子将在 EMBED Equation.DSMT4  留下60个香蕉．
+那么当猴子②次到达 EMBED Equation.DSMT4  时，身上又有了100个香蕉，到⑤时还有 EMBED Equation.DSMT4  个，从⑤回③需要 EMBED Equation.DSMT4  个，可在 EMBED Equation.DSMT4  留下 EMBED Equation.DSMT4  个，用于⑥时补充从④到⑥的消耗 EMBED Equation.DSMT4  个．则： EMBED Equation.DSMT4  ．
+至此，猴子到家时所剩的香蕉为： EMBED Equation.DSMT4  ．
+因为猴子每走10米才吃一个香蕉，走到家时最后一个10米才走了 EMBED Equation.DSMT4  ，所以还没有吃香蕉，应该还剩下54个香蕉．
+【答案】54个香蕉
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+8-7.游戏与策略.题库	                          教师版                       page  PAGE 28 of  NUMPAGES 28
+
+
+
+游戏与策略
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+B
+
+A
+
+
+

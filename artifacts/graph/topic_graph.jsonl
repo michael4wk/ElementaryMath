@@ -1,0 +1,179 @@
+{"topic_id": "1-1-1-1", "prerequisites": [], "next_topics": ["1-1-2-1", "1-1-2-2", "1-1-2-3"]}
+{"topic_id": "1-1-2-1", "prerequisites": ["1-1-1-1"], "next_topics": ["1-1-2-2"]}
+{"topic_id": "1-1-2-2", "prerequisites": ["1-1-1-1", "1-1-2-1"], "next_topics": ["1-1-2-3"]}
+{"topic_id": "1-1-2-3", "prerequisites": ["1-1-1-1", "1-1-2-2"], "next_topics": []}
+{"topic_id": "1-2-1-1", "prerequisites": [], "next_topics": ["1-2-1-2", "1-2-2-1", "1-2-2-2", "1-2-2-3"]}
+{"topic_id": "1-2-1-2", "prerequisites": ["1-2-1-1"], "next_topics": ["1-2-1-3"]}
+{"topic_id": "1-2-1-3", "prerequisites": ["1-2-1-2"], "next_topics": []}
+{"topic_id": "1-2-2-1", "prerequisites": ["1-2-1-1"], "next_topics": ["1-2-2-2"]}
+{"topic_id": "1-2-2-2", "prerequisites": ["1-2-1-1", "1-2-2-1"], "next_topics": ["1-2-2-3"]}
+{"topic_id": "1-2-2-3", "prerequisites": ["1-2-1-1", "1-2-2-2"], "next_topics": []}
+{"topic_id": "1-3-1", "prerequisites": [], "next_topics": ["1-3-2"]}
+{"topic_id": "1-3-2", "prerequisites": ["1-3-1"], "next_topics": ["1-3-3"]}
+{"topic_id": "1-3-3", "prerequisites": ["1-3-2"], "next_topics": ["1-3-4"]}
+{"topic_id": "1-3-4", "prerequisites": ["1-3-3"], "next_topics": ["1-3-5"]}
+{"topic_id": "1-3-5", "prerequisites": ["1-3-4"], "next_topics": ["1-3-6"]}
+{"topic_id": "1-3-6", "prerequisites": ["1-3-5"], "next_topics": []}
+{"topic_id": "2-1-1", "prerequisites": [], "next_topics": ["2-2-1", "2-2-2", "2-2-3"]}
+{"topic_id": "2-2-1", "prerequisites": ["2-1-1"], "next_topics": ["2-2-2", "2-3-1", "2-3-2", "2-3-3"]}
+{"topic_id": "2-2-2", "prerequisites": ["2-1-1", "2-2-1"], "next_topics": ["2-2-3"]}
+{"topic_id": "2-2-3", "prerequisites": ["2-1-1", "2-2-2"], "next_topics": []}
+{"topic_id": "2-3-1", "prerequisites": ["2-2-1"], "next_topics": ["2-3-2"]}
+{"topic_id": "2-3-2", "prerequisites": ["2-2-1", "2-3-1"], "next_topics": ["2-3-3"]}
+{"topic_id": "2-3-3", "prerequisites": ["2-2-1", "2-3-2"], "next_topics": []}
+{"topic_id": "3-1-1", "prerequisites": [], "next_topics": ["3-1-2", "3-2-1", "3-2-10", "3-2-2", "3-2-3", "3-2-4", "3-2-5", "3-2-6", "3-2-7", "3-2-8", "3-2-9"]}
+{"topic_id": "3-1-2", "prerequisites": ["3-1-1"], "next_topics": ["3-1-3"]}
+{"topic_id": "3-1-3", "prerequisites": ["3-1-2"], "next_topics": ["3-1-4"]}
+{"topic_id": "3-1-4", "prerequisites": ["3-1-3"], "next_topics": []}
+{"topic_id": "3-2-1", "prerequisites": ["3-1-1"], "next_topics": ["3-2-2", "3-3-1", "3-3-2"]}
+{"topic_id": "3-2-10", "prerequisites": ["3-1-1", "3-2-9"], "next_topics": []}
+{"topic_id": "3-2-2", "prerequisites": ["3-1-1", "3-2-1"], "next_topics": ["3-2-3"]}
+{"topic_id": "3-2-3", "prerequisites": ["3-1-1", "3-2-2"], "next_topics": ["3-2-4"]}
+{"topic_id": "3-2-4", "prerequisites": ["3-1-1", "3-2-3"], "next_topics": ["3-2-5"]}
+{"topic_id": "3-2-5", "prerequisites": ["3-1-1", "3-2-4"], "next_topics": ["3-2-6"]}
+{"topic_id": "3-2-6", "prerequisites": ["3-1-1", "3-2-5"], "next_topics": ["3-2-7"]}
+{"topic_id": "3-2-7", "prerequisites": ["3-1-1", "3-2-6"], "next_topics": ["3-2-8"]}
+{"topic_id": "3-2-8", "prerequisites": ["3-1-1", "3-2-7"], "next_topics": ["3-2-9"]}
+{"topic_id": "3-2-9", "prerequisites": ["3-1-1", "3-2-8"], "next_topics": ["3-2-10"]}
+{"topic_id": "3-3-1", "prerequisites": ["3-2-1"], "next_topics": ["3-3-2"]}
+{"topic_id": "3-3-2", "prerequisites": ["3-2-1", "3-3-1"], "next_topics": []}
+{"topic_id": "4-1-1", "prerequisites": [], "next_topics": ["4-1-2", "4-2-1", "4-2-2", "4-2-3", "4-2-4", "4-2-5", "4-2-6", "4-2-7"]}
+{"topic_id": "4-1-2", "prerequisites": ["4-1-1"], "next_topics": ["4-1-3"]}
+{"topic_id": "4-1-3", "prerequisites": ["4-1-2"], "next_topics": ["4-1-4"]}
+{"topic_id": "4-1-4", "prerequisites": ["4-1-3"], "next_topics": ["4-1-5"]}
+{"topic_id": "4-1-5", "prerequisites": ["4-1-4"], "next_topics": []}
+{"topic_id": "4-2-1", "prerequisites": ["4-1-1"], "next_topics": ["4-2-2", "4-3-1", "4-3-2", "4-3-3", "4-3-4", "4-3-5", "4-3-6"]}
+{"topic_id": "4-2-2", "prerequisites": ["4-1-1", "4-2-1"], "next_topics": ["4-2-3"]}
+{"topic_id": "4-2-3", "prerequisites": ["4-1-1", "4-2-2"], "next_topics": ["4-2-4"]}
+{"topic_id": "4-2-4", "prerequisites": ["4-1-1", "4-2-3"], "next_topics": ["4-2-5"]}
+{"topic_id": "4-2-5", "prerequisites": ["4-1-1", "4-2-4"], "next_topics": ["4-2-6"]}
+{"topic_id": "4-2-6", "prerequisites": ["4-1-1", "4-2-5"], "next_topics": ["4-2-7"]}
+{"topic_id": "4-2-7", "prerequisites": ["4-1-1", "4-2-6"], "next_topics": []}
+{"topic_id": "4-3-1", "prerequisites": ["4-2-1"], "next_topics": ["4-3-2", "4-4-1", "4-4-2", "4-4-3"]}
+{"topic_id": "4-3-2", "prerequisites": ["4-2-1", "4-3-1"], "next_topics": ["4-3-3"]}
+{"topic_id": "4-3-3", "prerequisites": ["4-2-1", "4-3-2"], "next_topics": ["4-3-4"]}
+{"topic_id": "4-3-4", "prerequisites": ["4-2-1", "4-3-3"], "next_topics": ["4-3-5"]}
+{"topic_id": "4-3-5", "prerequisites": ["4-2-1", "4-3-4"], "next_topics": ["4-3-6"]}
+{"topic_id": "4-3-6", "prerequisites": ["4-2-1", "4-3-5"], "next_topics": []}
+{"topic_id": "4-4-1", "prerequisites": ["4-3-1"], "next_topics": ["4-4-2", "4-5-1", "4-5-2", "4-5-3"]}
+{"topic_id": "4-4-2", "prerequisites": ["4-3-1", "4-4-1"], "next_topics": ["4-4-3"]}
+{"topic_id": "4-4-3", "prerequisites": ["4-3-1", "4-4-2"], "next_topics": []}
+{"topic_id": "4-5-1", "prerequisites": ["4-4-1"], "next_topics": ["4-5-2"]}
+{"topic_id": "4-5-2", "prerequisites": ["4-4-1", "4-5-1"], "next_topics": ["4-5-3"]}
+{"topic_id": "4-5-3", "prerequisites": ["4-4-1", "4-5-2"], "next_topics": []}
+{"topic_id": "5-1-1-1", "prerequisites": [], "next_topics": ["5-1-1-2", "5-1-2-1", "5-1-2-2", "5-1-2-3", "5-1-2-4", "5-1-2-5"]}
+{"topic_id": "5-1-1-2", "prerequisites": ["5-1-1-1"], "next_topics": []}
+{"topic_id": "5-1-2-1", "prerequisites": ["5-1-1-1"], "next_topics": ["5-1-2-2", "5-1-3-1", "5-1-3-2", "5-1-3-3"]}
+{"topic_id": "5-1-2-2", "prerequisites": ["5-1-1-1", "5-1-2-1"], "next_topics": ["5-1-2-3"]}
+{"topic_id": "5-1-2-3", "prerequisites": ["5-1-1-1", "5-1-2-2"], "next_topics": ["5-1-2-4"]}
+{"topic_id": "5-1-2-4", "prerequisites": ["5-1-1-1", "5-1-2-3"], "next_topics": ["5-1-2-5"]}
+{"topic_id": "5-1-2-5", "prerequisites": ["5-1-1-1", "5-1-2-4"], "next_topics": []}
+{"topic_id": "5-1-3-1", "prerequisites": ["5-1-2-1"], "next_topics": ["5-1-3-2", "5-1-4-1", "5-1-4-2"]}
+{"topic_id": "5-1-3-2", "prerequisites": ["5-1-2-1", "5-1-3-1"], "next_topics": ["5-1-3-3"]}
+{"topic_id": "5-1-3-3", "prerequisites": ["5-1-2-1", "5-1-3-2"], "next_topics": []}
+{"topic_id": "5-1-4-1", "prerequisites": ["5-1-3-1"], "next_topics": ["5-1-4-2"]}
+{"topic_id": "5-1-4-2", "prerequisites": ["5-1-3-1", "5-1-4-1"], "next_topics": []}
+{"topic_id": "5-2-1", "prerequisites": [], "next_topics": ["5-2-2", "5-3-1", "5-3-2", "5-3-3", "5-3-4", "5-3-5"]}
+{"topic_id": "5-2-2", "prerequisites": ["5-2-1"], "next_topics": ["5-2-3"]}
+{"topic_id": "5-2-3", "prerequisites": ["5-2-2"], "next_topics": ["5-2-4"]}
+{"topic_id": "5-2-4", "prerequisites": ["5-2-3"], "next_topics": ["5-2-5"]}
+{"topic_id": "5-2-5", "prerequisites": ["5-2-4"], "next_topics": []}
+{"topic_id": "5-3-1", "prerequisites": ["5-2-1"], "next_topics": ["5-3-2", "5-4-1", "5-4-2", "5-4-3", "5-4-4", "5-4-5"]}
+{"topic_id": "5-3-2", "prerequisites": ["5-2-1", "5-3-1"], "next_topics": ["5-3-3"]}
+{"topic_id": "5-3-3", "prerequisites": ["5-2-1", "5-3-2"], "next_topics": ["5-3-4"]}
+{"topic_id": "5-3-4", "prerequisites": ["5-2-1", "5-3-3"], "next_topics": ["5-3-5"]}
+{"topic_id": "5-3-5", "prerequisites": ["5-2-1", "5-3-4"], "next_topics": []}
+{"topic_id": "5-4-1", "prerequisites": ["5-3-1"], "next_topics": ["5-4-2", "5-5-1", "5-5-2", "5-5-3", "5-5-4", "5-5-5", "5-5-6"]}
+{"topic_id": "5-4-2", "prerequisites": ["5-3-1", "5-4-1"], "next_topics": ["5-4-3"]}
+{"topic_id": "5-4-3", "prerequisites": ["5-3-1", "5-4-2"], "next_topics": ["5-4-4"]}
+{"topic_id": "5-4-4", "prerequisites": ["5-3-1", "5-4-3"], "next_topics": ["5-4-5"]}
+{"topic_id": "5-4-5", "prerequisites": ["5-3-1", "5-4-4"], "next_topics": []}
+{"topic_id": "5-5-1", "prerequisites": ["5-4-1"], "next_topics": ["5-5-2", "5-6-1"]}
+{"topic_id": "5-5-2", "prerequisites": ["5-4-1", "5-5-1"], "next_topics": ["5-5-3"]}
+{"topic_id": "5-5-3", "prerequisites": ["5-4-1", "5-5-2"], "next_topics": ["5-5-4"]}
+{"topic_id": "5-5-4", "prerequisites": ["5-4-1", "5-5-3"], "next_topics": ["5-5-5"]}
+{"topic_id": "5-5-5", "prerequisites": ["5-4-1", "5-5-4"], "next_topics": ["5-5-6"]}
+{"topic_id": "5-5-6", "prerequisites": ["5-4-1", "5-5-5"], "next_topics": []}
+{"topic_id": "5-6-1", "prerequisites": ["5-5-1"], "next_topics": ["5-7-1"]}
+{"topic_id": "5-7-1", "prerequisites": ["5-6-1"], "next_topics": ["5-8-1", "5-8-2"]}
+{"topic_id": "5-8-1", "prerequisites": ["5-7-1"], "next_topics": ["5-8-2"]}
+{"topic_id": "5-8-2", "prerequisites": ["5-7-1", "5-8-1"], "next_topics": []}
+{"topic_id": "6-1-1", "prerequisites": [], "next_topics": ["6-1-2", "6-2-1", "6-2-2", "6-2-3", "6-2-4", "6-2-5", "6-2-6", "6-2-7", "6-2-8", "6-2-9"]}
+{"topic_id": "6-1-10", "prerequisites": ["6-1-9"], "next_topics": ["6-1-11"]}
+{"topic_id": "6-1-11", "prerequisites": ["6-1-10"], "next_topics": ["6-1-12"]}
+{"topic_id": "6-1-12", "prerequisites": ["6-1-11"], "next_topics": ["6-1-13"]}
+{"topic_id": "6-1-13", "prerequisites": ["6-1-12"], "next_topics": ["6-1-14"]}
+{"topic_id": "6-1-14", "prerequisites": ["6-1-13"], "next_topics": ["6-1-15"]}
+{"topic_id": "6-1-15", "prerequisites": ["6-1-14"], "next_topics": ["6-1-16"]}
+{"topic_id": "6-1-16", "prerequisites": ["6-1-15"], "next_topics": ["6-1-17"]}
+{"topic_id": "6-1-17", "prerequisites": ["6-1-16"], "next_topics": ["6-1-18"]}
+{"topic_id": "6-1-18", "prerequisites": ["6-1-17"], "next_topics": ["6-1-19"]}
+{"topic_id": "6-1-19", "prerequisites": ["6-1-18"], "next_topics": ["6-1-20"]}
+{"topic_id": "6-1-2", "prerequisites": ["6-1-1"], "next_topics": ["6-1-3"]}
+{"topic_id": "6-1-20", "prerequisites": ["6-1-19"], "next_topics": ["6-1-21"]}
+{"topic_id": "6-1-21", "prerequisites": ["6-1-20"], "next_topics": ["6-1-22"]}
+{"topic_id": "6-1-22", "prerequisites": ["6-1-21"], "next_topics": ["6-1-23"]}
+{"topic_id": "6-1-23", "prerequisites": ["6-1-22"], "next_topics": ["6-1-24"]}
+{"topic_id": "6-1-24", "prerequisites": ["6-1-23"], "next_topics": ["6-1-25"]}
+{"topic_id": "6-1-25", "prerequisites": ["6-1-24"], "next_topics": []}
+{"topic_id": "6-1-3", "prerequisites": ["6-1-2"], "next_topics": ["6-1-4"]}
+{"topic_id": "6-1-4", "prerequisites": ["6-1-3"], "next_topics": ["6-1-5"]}
+{"topic_id": "6-1-5", "prerequisites": ["6-1-4"], "next_topics": ["6-1-6"]}
+{"topic_id": "6-1-6", "prerequisites": ["6-1-5"], "next_topics": ["6-1-7"]}
+{"topic_id": "6-1-7", "prerequisites": ["6-1-6"], "next_topics": ["6-1-8"]}
+{"topic_id": "6-1-8", "prerequisites": ["6-1-7"], "next_topics": ["6-1-9"]}
+{"topic_id": "6-1-9", "prerequisites": ["6-1-8"], "next_topics": ["6-1-10"]}
+{"topic_id": "6-2-1", "prerequisites": ["6-1-1"], "next_topics": ["6-2-2", "6-3-1", "6-3-2", "6-3-3", "6-3-4", "6-3-5"]}
+{"topic_id": "6-2-2", "prerequisites": ["6-1-1", "6-2-1"], "next_topics": ["6-2-3"]}
+{"topic_id": "6-2-3", "prerequisites": ["6-1-1", "6-2-2"], "next_topics": ["6-2-4"]}
+{"topic_id": "6-2-4", "prerequisites": ["6-1-1", "6-2-3"], "next_topics": ["6-2-5"]}
+{"topic_id": "6-2-5", "prerequisites": ["6-1-1", "6-2-4"], "next_topics": ["6-2-6"]}
+{"topic_id": "6-2-6", "prerequisites": ["6-1-1", "6-2-5"], "next_topics": ["6-2-7"]}
+{"topic_id": "6-2-7", "prerequisites": ["6-1-1", "6-2-6"], "next_topics": ["6-2-8"]}
+{"topic_id": "6-2-8", "prerequisites": ["6-1-1", "6-2-7"], "next_topics": ["6-2-9"]}
+{"topic_id": "6-2-9", "prerequisites": ["6-1-1", "6-2-8"], "next_topics": []}
+{"topic_id": "6-3-1", "prerequisites": ["6-2-1"], "next_topics": ["6-3-2"]}
+{"topic_id": "6-3-2", "prerequisites": ["6-2-1", "6-3-1"], "next_topics": ["6-3-3"]}
+{"topic_id": "6-3-3", "prerequisites": ["6-2-1", "6-3-2"], "next_topics": ["6-3-4"]}
+{"topic_id": "6-3-4", "prerequisites": ["6-2-1", "6-3-3"], "next_topics": ["6-3-5"]}
+{"topic_id": "6-3-5", "prerequisites": ["6-2-1", "6-3-4"], "next_topics": []}
+{"topic_id": "7-1-1", "prerequisites": [], "next_topics": ["7-1-2", "7-2-1", "7-2-2", "7-2-3"]}
+{"topic_id": "7-1-2", "prerequisites": ["7-1-1"], "next_topics": ["7-1-3"]}
+{"topic_id": "7-1-3", "prerequisites": ["7-1-2"], "next_topics": []}
+{"topic_id": "7-2-1", "prerequisites": ["7-1-1"], "next_topics": ["7-2-2", "7-3-1", "7-3-2", "7-3-3", "7-3-4"]}
+{"topic_id": "7-2-2", "prerequisites": ["7-1-1", "7-2-1"], "next_topics": ["7-2-3"]}
+{"topic_id": "7-2-3", "prerequisites": ["7-1-1", "7-2-2"], "next_topics": []}
+{"topic_id": "7-3-1", "prerequisites": ["7-2-1"], "next_topics": ["7-3-2", "7-4-1", "7-4-2", "7-4-3"]}
+{"topic_id": "7-3-2", "prerequisites": ["7-2-1", "7-3-1"], "next_topics": ["7-3-3"]}
+{"topic_id": "7-3-3", "prerequisites": ["7-2-1", "7-3-2"], "next_topics": ["7-3-4"]}
+{"topic_id": "7-3-4", "prerequisites": ["7-2-1", "7-3-3"], "next_topics": []}
+{"topic_id": "7-4-1", "prerequisites": ["7-3-1"], "next_topics": ["7-4-2", "7-5-1", "7-5-2", "7-5-3", "7-5-4"]}
+{"topic_id": "7-4-2", "prerequisites": ["7-3-1", "7-4-1"], "next_topics": ["7-4-3"]}
+{"topic_id": "7-4-3", "prerequisites": ["7-3-1", "7-4-2"], "next_topics": []}
+{"topic_id": "7-5-1", "prerequisites": ["7-4-1"], "next_topics": ["7-5-2", "7-6-1", "7-6-2", "7-6-3", "7-6-4"]}
+{"topic_id": "7-5-2", "prerequisites": ["7-4-1", "7-5-1"], "next_topics": ["7-5-3"]}
+{"topic_id": "7-5-3", "prerequisites": ["7-4-1", "7-5-2"], "next_topics": ["7-5-4"]}
+{"topic_id": "7-5-4", "prerequisites": ["7-4-1", "7-5-3"], "next_topics": []}
+{"topic_id": "7-6-1", "prerequisites": ["7-5-1"], "next_topics": ["7-6-2", "7-7-1", "7-7-2", "7-7-3", "7-7-4", "7-7-5"]}
+{"topic_id": "7-6-2", "prerequisites": ["7-5-1", "7-6-1"], "next_topics": ["7-6-3"]}
+{"topic_id": "7-6-3", "prerequisites": ["7-5-1", "7-6-2"], "next_topics": ["7-6-4"]}
+{"topic_id": "7-6-4", "prerequisites": ["7-5-1", "7-6-3"], "next_topics": []}
+{"topic_id": "7-7-1", "prerequisites": ["7-6-1"], "next_topics": ["7-7-2", "7-8-1", "7-8-2", "7-8-3"]}
+{"topic_id": "7-7-2", "prerequisites": ["7-6-1", "7-7-1"], "next_topics": ["7-7-3"]}
+{"topic_id": "7-7-3", "prerequisites": ["7-6-1", "7-7-2"], "next_topics": ["7-7-4"]}
+{"topic_id": "7-7-4", "prerequisites": ["7-6-1", "7-7-3"], "next_topics": ["7-7-5"]}
+{"topic_id": "7-7-5", "prerequisites": ["7-6-1", "7-7-4"], "next_topics": []}
+{"topic_id": "7-8-1", "prerequisites": ["7-7-1"], "next_topics": ["7-8-2", "7-9-1"]}
+{"topic_id": "7-8-2", "prerequisites": ["7-7-1", "7-8-1"], "next_topics": ["7-8-3"]}
+{"topic_id": "7-8-3", "prerequisites": ["7-7-1", "7-8-2"], "next_topics": []}
+{"topic_id": "7-9-1", "prerequisites": ["7-8-1"], "next_topics": []}
+{"topic_id": "8-1", "prerequisites": [], "next_topics": ["8-2"]}
+{"topic_id": "8-10", "prerequisites": ["8-9"], "next_topics": []}
+{"topic_id": "8-2", "prerequisites": ["8-1"], "next_topics": ["8-3"]}
+{"topic_id": "8-3", "prerequisites": ["8-2"], "next_topics": ["8-4"]}
+{"topic_id": "8-4", "prerequisites": ["8-3"], "next_topics": ["8-5"]}
+{"topic_id": "8-5", "prerequisites": ["8-4"], "next_topics": ["8-6"]}
+{"topic_id": "8-6", "prerequisites": ["8-5"], "next_topics": ["8-7"]}
+{"topic_id": "8-7", "prerequisites": ["8-6"], "next_topics": ["8-8"]}
+{"topic_id": "8-8", "prerequisites": ["8-7"], "next_topics": ["8-9"]}
+{"topic_id": "8-9", "prerequisites": ["8-8"], "next_topics": ["8-10"]}

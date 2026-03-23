@@ -1,0 +1,135 @@
+ SHAPE \* MERGEFORMAT 
+
+ SHAPE \* MERGEFORMAT 
+
+本讲知识点属于计算板块的部分，难度并不大。要求学生熟记加减法运算规则和运算律，并在计算中运用凑整的技巧。
+
+ SHAPE \* MERGEFORMAT 
+一、基本运算律及公式
+一、加法
+加法交换律：两个数相加，交换加数的位置，他们的和不变。即：a＋b＝b＋a
+其中a，b各表示任意一数．例如，7＋8＝8＋7＝15.
+总结：多个数相加，任意交换相加的次序，其和不变．
+加法结合律：三个数相加，先把前两个数相加，再加上第三个数；或者先把后两个数相加，再与第一个数相加，他们的和不变。
+即：a＋b＋c＝（a＋b）＋c＝a＋（b＋c）
+其中a，b，c各表示任意一数．例如，5＋6＋8＝（5＋6）＋8＝5＋(6＋8).
+总结：多个数相加，也可以把其中的任意两个数或者多个数相加，其和不变。
+二、减法
+在连减或者加减混合运算中，如果算式中没有括号，那么计算时要带数字前面的运算符号“搬家”．例如：a－b－c＝a－c－b，a－b＋c＝a＋c－b，其中a，b，c各表示一个数．
+在加减法混合运算中，去括号时：如果括号前面是“＋”号，那么去掉括号后，括号内的数的运算符号不变；如果括号前面是“－”号，那么去掉括号后，括号内的数的运算符号“＋”变为“－”，“－”变为“＋”．
+如：a＋（b－c）＝a＋b－c
+a－（b＋c）＝a－b－c
+a－（b－c）＝a－b＋c
+在加、减法混合运算中，添括号时：如果添加的括号前面是“＋”，那么括号内的数的原运算符号不变；如果添加的括号前面是“－”，那么括号内的数的原运算符号“＋”变为“－”，“－”变为“＋”。
+如：a＋b－c＝a＋（b－c）
+a－b＋c＝a－（b－c）
+a－b－c＝a－（b＋c）
+
+二、加减法中的速算与巧算
+速算巧算的核心思想和本质：凑整
+常用的思想方法：
+分组凑整法．把几个互为“补数”的减数先加起来，再从被减数中减去，或先减去那些与被减数有相同尾数的减数．“补数”就是两个数相加，如果恰好凑成整十、整百、整千……，就把其中的一个数叫做另一个数的“补数”．
+2、加补凑整法．有些算式中直接凑整不明显，这时可“借数”或“拆数”凑整．
+3、数值原理法．先把加在一起为整十、整百、整千……的数相加，然后再与其它的数相加．
+4、“基准数”法，基准当几个数比较接近于某一整数的数相加时，选这个整数为“基准数”（要注意把多加的数减去，把少加的数加上）
+
+ SHAPE \* MERGEFORMAT 
+ EMBED Equation.DSMT4  _____
+【考点】分数约分           【难度】1星          【题型】计算  
+【关键词】希望杯，五年级，一试
+原式= EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+如果 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ________（4级）
+【考点】分数约分           【难度】2星          【题型】计算  
+【关键词】希望杯，六年级，一试
+ EMBED Equation.DSMT4  ，所以A=2008.
+【答案】 EMBED Equation.DSMT4  
+
+模块一：分组凑整思想
+ EMBED Equation.DSMT4  
+【考点】分组凑整           【难度】3星          【题型】计算  
+观察可知分母是1的和为1；分母是2的和为2；分母是3的和为3；……依次类推；分母是1995的和为1995.这样，此题简化成求 EMBED Equation.DSMT4  的和.
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】分组凑整           【难度】3星          【题型】计算  
+观察可知分母是2分子和为1分母是3分子和为 EMBED Equation.DSMT4  ；分母是4分子和为 EMBED Equation.DSMT4  ；……依次类推；分母是20子和为 EMBED Equation.DSMT4  .
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+
+分母为1996的所有最简分数之和是_________
+【考点】分组凑整           【难度】2星          【题型】计算  
+因为1996=2×2×499。所以分母为1996的最简分数，分子不能是偶数，也不能是499的倍数，499与3×499。因此，分母为1996的所有最简真分数之和是
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+所有分母小于30并且分母是质数的真分数相加，和是__________。
+【考点】分组凑整           【难度】2星          【题型】计算  
+小于30的质数有2、3、5、7、11、13、17、19、23、29共十个，分母为17的真分数相加，和等于
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  。
+类似地，可以求出其它分母为质数的分数的和。因此，所求的和是
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+模块二、位值原理
+ EMBED Equation.DSMT4   
+【考点】位值原理           【难度】2星          【题型】计算  
+原式
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4          ． 
+【考点】位值原理           【难度】3星          【题型】计算  
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4   
+【考点】位值原理           【难度】3星          【题型】计算  
+本题需要先拆分在分组，然后在做简单的等差数列求和
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  _______
+【考点】位值原理           【难度】3星          【题型】计算  
+【关键词】走美杯，五年级，初赛
+ 原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+教师寄语：拼一个春夏秋冬，换一生无怨无悔。
+
+
+
+分数加减法速算与巧算
+
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+ PAGE  \* MERGEFORMAT 4
+
+
+

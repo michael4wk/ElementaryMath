@@ -1,0 +1,16 @@
+{
+    "canonical_source": "teacher",
+    "fallback_source": "student",
+    "audience_projection": {
+        "teacher": {
+            "hide_fields": []
+        },
+        "student": {
+            "hide_fields": [
+                "answer",
+                "analysis_steps",
+                "teaching_tips"
+            ]
+        }
+    }
+}

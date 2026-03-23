@@ -1,0 +1,181 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+前面在讲加法原理、乘法原理、排列组合时已经穿插讲解了计数中的一些常用的方法，比如枚举法、树形图法、标数法、捆绑法、排除法、插板法等等，这里再集中学习一下计数中其他常见的方法，主要有归纳法、整体法、对应法、递推法．对这些计数方法与技巧要做到灵活运用．
+
+ SHAPE  \* MERGEFORMAT 
+将难以计数的数量与某种可计量的事物联系起来，只要能建立一一对应的关系，那么这两种事物在数量上是相同的．事实上插入法和插板法都是对应法的一种表现形式．
+
+模块一、图形中的对应关系
+
+在8×8的方格棋盘中，取出一个由三个小方格组成的“L”形（如图），一共有多少种不同的方法？
+【考点】计数之图形中的对应关系   【难度】3星   【题型】解答
+          
+注意：数“不规则几何图形”的个数时，常用对应法．
+第1步：找对应图形  每一种取法，有一个点与之对应，这就是图中的A点，它是棋盘上横线与竖线的交点，且不在棋盘边上．
+第2步：明确对应关系　从下图可以看出，棋盘内的每一个点对应着4个不同的取法（“L”形的“角”在2×2正方形的不同“角”上）．
+第3步：计算对应图形个数  由于在 8×8的棋盘上，内部有7×7=49（个）交叉点， 
+第4步：按照对应关系，给出答案故不同的取法共有49×4=196（种）．
+评注:通过上面两个范例我们知道,当直接去求一个集合元素的个数较为困难的时候,可考虑采用相等的原则,把问题转化成求另一个集合的元素个数．
+【答案】 EMBED Equation.DSMT4  
+
+在8×8的黑白相间染色的国际象棋棋盘中，以网格线为边的、恰包含两个白色小方格与一个黑色小方格的长方形共有多少个？
+【考点】计数之图形中的对应关系   【难度】3星   【题型】解答
+
+
+首先可以知道题中所讲的 EMBED Equation.DSMT4  长方形中间的那个小主格为黑色，这是因为两个白格不相邻，所以不能在中间．显然，位于棋盘角上的黑色方格不可能被包含在这样的长方形中．下面分两种情况来分析：第一种情况，一个位于棋盘内部的黑色方格对应着两个这样的 EMBED Equation.DSMT4  长方形(一横一竖)；第二种情况，位于边上的黑色方格只能对应一个 EMBED Equation.DSMT4  长方形．由于在棋盘上的32个黑色方格中，位于棋盘内部的18个，位于边上的有12个，位于角上的有2个，所以共有 EMBED Equation.DSMT4  个这样的长方形．本题也可以这样来考虑：事实上，每一行都有6个 EMBED Equation.DSMT4  长方形，所以棋盘上横、竖共有 EMBED Equation.DSMT4  长方形 EMBED Equation.DSMT4  个．由于棋盘上的染色具有对称性，因此包含两个白色小方格与一个黑色小方格的长方形正好与包含两个黑色小方格与一个白色小方格的长方形具有一一对应关系，这说明它们各占一半，因此所求的长方形个数为 EMBED Equation.DSMT4  个．
+【答案】 EMBED Equation.DSMT4  
+
+用一张如图所示的纸片盖住 EMBED Equation.DSMT4  方格表中的四个小方格，共有多少种不同的放置方法？
+【考点】计数之图形中的对应关系   【难度】3星   【题型】解答
+    
+
+【解析】如图，将纸片中的一个特殊方格染为黑色，下面考虑此格在 EMBED Equation.DSMT4  方格表中的位置．易见它不能位于四个角上；若黑格位于方格表中间如图浅色阴影所示的 EMBED Equation.DSMT4  正方形内的某格时，纸片有4种不同的放法，共计 EMBED Equation.DSMT4  种；若黑格位于方格表边上如图深色阴影所示的方格中时，纸片的位置随之确定，即只有1种放法，此类放法有 EMBED Equation.DSMT4  种．
+所以，纸片共有 EMBED Equation.DSMT4  种不同的放置方法．
+【答案】 EMBED Equation.DSMT4  种
+
+图中可数出的三角形的个数为        ．
+【考点】计数之图形中的对应关系   【难度】4星   【题型】填空
+
+这个图不像我们以前数三角形那样规则，粗看似乎看不出其中的规律，不妨我们取出其中的一个三角形，发现它的三条边必然落在这个图形中的三条大线段上，而每三条大线段也正好能构成一个三角形，因此三角形的个数和三条大线段的取法是一一对应的关系，图中一共有8条大线段，因此有 EMBED Equation.DSMT4  个三角形．
+【答案】 EMBED Equation.DSMT4  个三角形
+
+如图所示，在直线 EMBED Equation.DSMT4  上有7个点，直线 EMBED Equation.DSMT4  上有9个点．以 EMBED Equation.DSMT4  上的点为一个端点、 EMBED Equation.DSMT4  上的点为另一个端点的所有线段中，任意3条线段都不相交于同一个点，求所有这些线段在 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  之间的交点数．
+【考点】计数之图形中的对应关系   【难度】4星   【题型】解答
+            
+常规的思路是这样的：直线 EMBED Equation.DSMT4  上的7个点，每个点可以与直线 EMBED Equation.DSMT4  上的9个点连9根线段，然后再分析这些线段相交的情况．如右图所示，如果注意到下面这个事实：对于直线 EMBED Equation.DSMT4  上的任意两点 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  与直线 EMBED Equation.DSMT4  上的任意两点 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  都可以构成一个四边形 EMBED Equation.DSMT4  ，而这个四边形的两条对角线 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的交点恰好是我们要计数的点，同时，对于任意四点( EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  上任意两点)都可以产生一个这样的交点，所以图中两条线段的交点与四边形有一一对应的关系．这说明，为了计数出有多少个交点，我们只需要求出在直线 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  中有多少个满足条件的四边形 EMBED Equation.DSMT4  就可以了！从而把问题转化为：在直线 EMBED Equation.DSMT4  上有7个点，直线 EMBED Equation.DSMT4  上有9个点．四边形 EMBED Equation.DSMT4  有多少个？其中点 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  位于直线 EMBED Equation.DSMT4  上，点 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  位于直线 EMBED Equation.DSMT4  上．这是一个常规的组合计数问题，可以用乘法原理进行计算：由于线段 EMBED Equation.DSMT4  有 EMBED Equation.DSMT4  种选择方式，线段 EMBED Equation.DSMT4  有 EMBED Equation.DSMT4  种选择方式，根据乘法原理，共可产生 EMBED Equation.DSMT4  个四边形．因此在直线 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  之间共有756个交点．
+【答案】 EMBED Equation.DSMT4  个交点
+
+模块二、数字问题中的对应关系
+
+有多少个四位数，满足个位上的数字比千位数字大，千位数字比百位大，百位数字比十位数字大？
+【考点】计数之数字问题中的对应关系   【难度】4星   【题型】解答
+由于四位数的四个数位上的数的大小关系已经非常明确，而对于从0～9中任意选取的4个数字，它们的大小关系也是明确的，那么由这4个数字只能组成1个符合条件的四位数(题目中要求千位比百位大，所以千位不能为0，本身已符合四位数的首位不能为0的要求，所以进行选择时可以把0包含在内)，也就是说满足条件的四位数的个数与从0～9中选取4个数字的选法是一一对应的关系，那么满足条件的四位数有 EMBED Equation.DSMT4  个．
+【答案】 EMBED Equation.DSMT4  个
+
+三位数中，百位数比十位数大，十位数比个位数大的数有多少个？
+【考点】计数之数字问题中的对应关系   【难度】4星   【题型】解答
+相当于在10个数字中选出3个数字，然后按从大到小排列.共有10×9×8÷（3×2×1）=120种．实际上，前铺中每一种划法都对应着一个数．
+【答案】 EMBED Equation.DSMT4  种
+
+数3可以用4种方法表示为一个或几个正整数的和，如3， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．问：1999表示为一个或几个正整数的和的方法有多少种？
+【考点】计数之数字问题中的对应关系   【难度】4星   【题型】解答
+我们将1999个1写成一行，它们之间留有1998个空隙，在这些空隙处，或者什么都不填，或者填上“＋”号．例如对于数3，上述4种和的表达方法对应：1 1 1，1 EMBED Equation.DSMT4  1 1，1 1 EMBED Equation.DSMT4  1，1 EMBED Equation.DSMT4  1 EMBED Equation.DSMT4  1．
+可见，将1999表示成和的形式与填写1998个空隙处的方式之间是一一对应的关系，而每一个空隙处都有填“＋”号和不填“＋”号2种可能，因此1999可以表示为正整数之和的不同方法有 EMBED Equation.DSMT4  种．
+【答案】 EMBED Equation.DSMT4  种
+
+请问至少出现一个数码3，并且是3的倍数的五位数共有多少个？
+【考点】计数之数字问题中的对应关系   【难度】4星   【题型】解答
+【关键词】小学数学竞赛
+五位数共有90000个，其中3的倍数有30000个．可以采用排除法，首先考虑有多少个五位数是3的倍数但不含有数码3.首位数码有8种选择，第二、三、四位数码都有9种选择．当前四位的数码确定后，如果它们的和除以余数为0，则第五位数码可以为0、6、9；如果余数为1，则第五位数码可以为2、5、8；如果余数为2，则第五位数码可以为1、4、7.可见只要前四位数码确定了，第五位数码都有3种选择，所以五位数中是3的倍数但不含有数码3的数共有 EMBED Equation.DSMT4  个．
+所以满足条件的五位数共有 EMBED Equation.DSMT4  个．
+【答案】 EMBED Equation.DSMT4  个
+
+模块三、对应与阶梯型标数法
+游乐园的门票1元1张，每人限购1张．现在有10个小朋友排队购票，其中5个小朋友只有1元的钞票，另外5个小朋友只有2元的钞票，售票员没有准备零钱．问有多少种排队方法，使售票员总能找得开零钱？
+【考点】计数之对应与阶梯型标数法   【难度】5星   【题型】解答
+与类似题目找对应关系．要保证售票员总能找得开零钱，必须保证每一位拿2元钱的小朋友前面的若干小朋友中，拿1元的要比拿2元的人数多，先将拿1元钱的小朋友看成是相同的，将拿2元钱的小朋友看成是相同的，可以利用斜直角三角模型．在下图中，每条小横线段代表1元钱的小朋友，每条小竖线段代表2元钱的小朋友，因为从 EMBED Equation.DSMT4  点沿格线走到 EMBED Equation.DSMT4  点，每次只能向右或向上走，无论到途中哪一点，只要不超过斜线，那么经过的小横线段都不少于小竖线段，所以本题相当于求下图中从 EMBED Equation.DSMT4  到 EMBED Equation.DSMT4  有多少种不同走法．使用标数法，可求出从 EMBED Equation.DSMT4  到 EMBED Equation.DSMT4  有42种走法．
+ 
+但是由于10个小朋友互不相同，必须将他们排队，可以分成两步，第一步排拿2元的小朋友，5个人共有 EMBED Equation.DSMT4  种排法；第二步排拿到1元的小朋友，也有120种排法，所以共有 EMBED Equation.DSMT4  种排队方法．这样，使售票员能找得开零钱的排队方法共有 EMBED Equation.DSMT4  (种)．
+【答案】 EMBED Equation.DSMT4  种
+
+学学和思思一起洗 EMBED Equation.DSMT4  个互不相同的碗（顺序固定），思思洗好的碗一个一个往上摞，学学再从最上面一个一个地拿走放入碗柜摞成一摞，思思一边洗，学学一边拿，那么学学摞好的碗一共有        种不同的摞法．
+【考点】计数之对应与阶梯型标数法   【难度】5星   【题型】解答
+【关键词】学而思杯，5年级，第7题
+方法一：如下所示，共有 EMBED Equation.DSMT4  种不同的摞法：
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，  EMBED Equation.DSMT4  。
+方法二：我们把学学洗的 EMBED Equation.DSMT4  个碗过程看成从起点向右走 EMBED Equation.DSMT4  步（即洗几个碗就代表向右走几步），思思拿 EMBED Equation.DSMT4  个碗的过程看成是向上走 EMBED Equation.DSMT4  步（即拿几个碗就代表向上走几步），摞好碗的摞法，就代表向右、向上走 EMBED Equation.DSMT4  步到达终点最短路线的方法.由于洗的碗要多余拿的碗，所以向右走的路线要多余向上走的路线，所以我们用下面的斜三角形进行标数，共有 EMBED Equation.DSMT4  种走法，所以共有42种不同的摞法。
+
+【答案】 EMBED Equation.DSMT4  种
+学学和思思一起洗 EMBED Equation.DSMT4  个互不相同的碗（顺序固定），思思洗好的碗一个一个往上摞，学学再从最上面一个一个地拿走放入碗柜摞成一摞，思思一边洗，学学一边拿，问学学摞好的碗一共有        种不同的摞法。
+【考点】计数之对应与阶梯型标数法   【难度】4星   【题型】填空
+【关键词】学而思杯，3年级，第7题
+按思思洗碗的顺序将这 EMBED Equation.DSMT4  个碗依次标号为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，则学学摞好的碗一共有如下 EMBED Equation.DSMT4  种摆法： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  。 
+【答案】 EMBED Equation.DSMT4  
+
+一个正在行进的8人队列，每人身高各不相同，按从低到高的次序排列，现在他们要变成并列的2列纵队，每列仍然是按从低到高的次序排列，同时要求并排的每两人中左边的人比右边的人要矮，那么，2列纵队有        种不同排法.
+【考点】计数之对应与阶梯型标数法   【难度】5星   【题型】填空
+【关键词】第七届，走美杯
+首先，将8人的身高从低到高依次编号为 EMBED Equation.DSMT4  ，现在就相当于要将这8个数填到一个 EMBED Equation.DSMT4  的方格中，要求每一行的数依次增大，每一列上面的要比下面的大．
+
+下面我们将 EMBED Equation.DSMT4  依次往方格中填，按照题目规则，很容易就发现：第二行填的的数字的个数永远都小于或等于第一行数字填的个数．也就是说，不能出现下图这样的情况．
+
+而这个正好是“阶梯型标数”题型的基本原则．于是，我们可以把原题转化成：
+
+在这个阶梯型方格中，横格代表在第一行的四列，纵格代表第二行的四列，那么此题所有标数的方法就相当于从A走到B的最短路线有多少条．
+例如，我们选择一条路线：
+
+它对应的填法就是：
+．
+最后，用“标数法”得出从A到B的最短路径有14种，如下图：
+
+【答案】 EMBED Equation.DSMT4  种
+
+【巩固】将1~12这12个数填入到2行6列的方格表中，使得每行右边比左边的大，每一列上面比下面的大，共有多少种填法？
+【考点】计数之对应与阶梯型标数法   【难度】5星   【题型】解答
+根据对应关系，再运用阶梯型标数法画图如下：
+
+共有132种填法．
+【答案】 EMBED Equation.DSMT4  种
+
+在一次小组长选举中，铮铮与昊昊两人作为候选人参加竞选，一共得了7张选票。在将7张选票逐一唱票的过程中，昊昊的得票始终没有超过铮铮。那么这样的唱票过程有	   	种不同的情况。
+【考点】计数之对应与阶梯型标数法   【难度】5星   【题型】填空
+【关键词】学而思杯，6年级，1试，第14题
+标数法（1）7张全是铮铮，1种；
+（2）6张铮铮,1张昊昊,6种；
+（3）5张铮铮,2张昊昊,14种；
+（4）4张铮铮,3张昊昊,14种。
+一共35种。
+【答案】 EMBED Equation.DSMT4  种
+
+模块四、不完全对应关系
+
+圆周上有12个点，其中一个点涂红，还有一个点涂了蓝色，其余10个点没有涂色，以这些点为顶点的凸多边形中，其顶点包含了红点及蓝点的多边形称为双色多边形；只包含红点(蓝点)的多边形称为红色(蓝色)多边形．不包含红点及蓝点的称无色多边形．试问，以这12个点为顶点的所有凸多边形(边数可以从三角形到12边形)中，双色多边形的个数与无色多边形的个数，哪一种较多？多多少个？
+【考点】计数之不完全对应关系   【难度】4星   【题型】解答
+从任意一个双色的 EMBED Equation.DSMT4  边形出发( EMBED Equation.DSMT4  时)，在去掉这个双色多边形中的红色顶点与蓝色顶点后，将得到一个无色的 EMBED Equation.DSMT4  边形；另一方面，对于一个任意的无色的 EMBED Equation.DSMT4  边形，如果加上红色顶点和蓝色顶点，就得到一个双色的 EMBED Equation.DSMT4  边形，所以无色多边形与双色多边形中的五边形以上的图形是一一对应的关系，所以双色多边形的个数比较多，多的是双色三角形和双色四边形的个数．而双色三角形有10个，双色四边形有 EMBED Equation.DSMT4  个，所以双色多边形比无色多边形多 EMBED Equation.DSMT4  个．
+【答案】双色多边形比无色多边形多 EMBED Equation.DSMT4  个
+
+有一类各位数字各不相同的五位数 EMBED Equation.DSMT4  ，它的千位数字比左右两个数字大，十位数字也比左右两位数字大．另有一类各位数字各不相同的五位数 EMBED Equation.DSMT4  ，它的千位数字比左右两个数字小，十位数字也比左右两位数字小．请问符合要求的数 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  ，哪一类的个数多？多多少？
+【考点】计数之不完全对应关系   【难度】5星   【题型】解答
+ EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  都是五位数，都有千位和十位与其它数位的大小关系，所以两类数有一定的对应关系．比如有一个符合要求的五位数 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  不为0)，那么就有一个与之相反并对应的五位数 EMBED Equation.DSMT4  必属于 EMBED Equation.DSMT4  类，比如 EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  类，则与之对应的 EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  类．
+所以对于 EMBED Equation.DSMT4  类的每一个数， EMBED Equation.DSMT4  类都有一个数与之对应．但是两类数的个数不是一样多，因为 EMBED Equation.DSMT4  类中 EMBED Equation.DSMT4  不能做首位，而 EMBED Equation.DSMT4  类中9可以做首位．所以 EMBED Equation.DSMT4  类的数比 EMBED Equation.DSMT4  类的数要多，多的就是就是首位为 EMBED Equation.DSMT4  的符合要求的数．
+计算首位为 EMBED Equation.DSMT4  的 EMBED Equation.DSMT4  类的数的个数，首先要确定另外四个数，因为要求各不相同，从除9外的其它 EMBED Equation.DSMT4  个数字中选出 EMBED Equation.DSMT4  个，有 EMBED Equation.DSMT4  种选法．
+对于每一种选法选出来的4个数，假设其大小关系为 EMBED Equation.DSMT4  ，由于其中最小的数只能在千位和十位上，最大的数只能在百位和个位上，所以符合要求的数有 EMBED Equation.DSMT4  类：①千位、十位排 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，有两种方法，百位、十位排 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，也有两种方法，故此时共有 EMBED Equation.DSMT4  种；②千位、十位排 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，只能是千位 EMBED Equation.DSMT4  ，百位 EMBED Equation.DSMT4  ，十位 EMBED Equation.DSMT4  ，个位 EMBED Equation.DSMT4  ，只有 EMBED Equation.DSMT4  种方法．
+根据乘法原理，首位为 EMBED Equation.DSMT4  的 EMBED Equation.DSMT4  类的数有 EMBED Equation.DSMT4  个．
+【答案】W多，多 EMBED Equation.DSMT4  个
+
+用1元，2元，5元，10元四种面值的纸币若干张(不一定要求每种都有)，组成99元有 EMBED Equation.DSMT4   种方法，组成101元有 EMBED Equation.DSMT4  种方法，则 EMBED Equation.DSMT4          ．
+【考点】计数之不完全对应关系   【难度】5星   【题型】填空
+【关键词】学而思杯，6年级，1试
+如果 EMBED Equation.DSMT4  元的取 EMBED Equation.DSMT4  张，即 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  元的有 EMBED Equation.DSMT4  种取法；
+如果 EMBED Equation.DSMT4  元的取 EMBED Equation.DSMT4  张，即 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  元的有 EMBED Equation.DSMT4  种取法；
+如果 EMBED Equation.DSMT4  元的取 EMBED Equation.DSMT4  张，即 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  元的有 EMBED Equation.DSMT4  种取法；
+ EMBED Equation.DSMT4  
+如果 EMBED Equation.DSMT4  元的取 EMBED Equation.DSMT4  张，即 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  元的有 EMBED Equation.DSMT4  种取法；
+所以总数为 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+7-6-3.计数之对应法.题库	                         教师版                        page  PAGE 8 of  NUMPAGES 8
+
+
+
+7-6-3计数之对应法
+
+教学目标
+
+例题精讲
+
+
+

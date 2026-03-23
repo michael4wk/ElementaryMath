@@ -1,0 +1,349 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+会用罗伯法填奇数阶幻方
+了解偶数阶幻方相关知识点
+深入学习三阶幻方
+ SHAPE  \* MERGEFORMAT 
+一、幻方起源
+也叫纵横图，也就是把数字纵横排列成正方形，因此纵横图又叫幻方．幻方起源于我国，古人还为它编撰了一些神话．传说在大禹治水的年代，陕西的洛水经常大肆泛滥，无论怎样祭祀河神都无济于事，每年人们摆好祭品之后，河中都会爬出一只大乌龟，乌龟壳有九大块，横着数是3行，竖着数是3列，每块乌龟壳上都有几个点点，正好凑成1至9的数字，可是谁也弄不清这些小点点是什么意思．一次，大乌龟又从河里爬上来，一个看热闹的小孩惊叫起来：“瞧多有趣啊，这些点点不论横着加、竖着加还是斜着加，结果都等于十五！”于是人们赶紧把十五份祭品献给河神，说来也怪，河水果然从此不再泛滥了．这个神奇的图案叫做“幻方”，由于它有3行3列，所以叫做“三阶幻方”，这个相等的和叫做“幻和”．“洛书”就是幻和为15的三阶幻方．如下图：
+        
+我国北周时期的数学家甄鸾在《算数记遗》里有一段注解：“九宫者，二四为肩，六八为足，左三右七，戴九履一，五居中央．”这段文字说明了九个数字的排列情况，可见幻方在我国历史悠久．三阶幻方又叫做九宫图，九宫图的幻方民间歌谣是这样的：“四海三山八仙洞，九龙五子一枝连；二七六郎赏月半，周围十五月团圆．”幻方的种类还很多，这节课我们将学习认识了解它们．
+
+二、幻方定义
+幻方是指横行、竖列、对角线上数的和都相等的数的方阵，具有这一性质的 EMBED Equation.DSMT4  的数阵称作三阶幻方， EMBED Equation.DSMT4  的数阵称作四阶幻方， EMBED Equation.DSMT4  的称作五阶幻方……如图为三阶幻方、四阶幻方的标准式样，
+      
+三、解决这幻方常用的方法
+⑴适用于所有奇数阶幻方的填法有罗伯法．口诀是：一居上行正中央，后数依次右上连．上出框时往下填，右出框时往左填．排重便在下格填，右上排重一个样． 
+⑵适用于三阶幻方的三大法则有：
+①求幻和： 所有数的和÷行数（或列数）
+②求中心数：我们把幻方中对角线交点的数叫“中心数”，中心数＝幻和÷3．
+③角上的数=与它不同行、不同列、不同对角线的两数和÷2．
+四、数独
+数独简介：（日语：数独　すうどく）是一种源自18世纪末的瑞士，后在美国发展、并在日本得以发扬光大的数学智力拼图游戏。如今数独的雏型首先于1970年代由美国的一家数学逻辑游戏杂志发表，当时名为Number Place。现今流行的数独于1984年由日本游戏杂志《パズル通信ニコリ》发表并得了现时的名称。数独本是“独立的数字”的省略，因为每一个方格都填上一个个位数。 数独可以简单的数为：让行与列及单元格的数字成规律性变换的一类数字谜问题
+解题技巧：数独游戏中最常规的办法就是利用每一个空格所在的三个单元中已经出现的数字（大小数独一个空格只位于两个单元之内，但是同时多了一个大小关系作为限制条件）来缩小可选数字的范围。
+总结4个小技巧：
+巧选突破口：数独中未知的空格数目很多，如何寻找突破口呢？首先我们要通过规则的限制来分析每一个空格的可选数字的个数，然后选择可选数字最少的方格开始，一般来说，我们会选择所在行、所在列和所在九宫格中已知数字比较多的方格开始，尽可能确定方格中的数字；而大小数独中已知的数字往往非常少，这个时候大小关系更加重要，我们除了利用已知数字之外更加需要考虑大小关系的限制。
+相对不确定法：有的时候我们不能确定2个方格中的数字，却可以确定同一单元其他方格中肯定不会出现什么数字，这个就是我们说的相对不确定法。举例说明，A1可以填入1或者2，A2也可以填入1或者2，那么我们可以确定，1和2必定出现在A1和A2两者之中，A行其他位置不可能出现1或者2.
+相对排除法：某一单元中出现好几个空格无法确定，但是我们可以通过比较这几个空格的可选数字进行对比分析来确定它们中的某一个或者几个空格。举例说明，A行中已经确定5个数字，还有4个数字（我们假设是1、2、3、4）没有填入，通过这4个空格所在的其他单元我们知道A1可以填入1、2、3、4，A2可以填入1、3，A3可以填入1、2、3，A4可以填入1、3，这个时候我们可以分析，数字4只能填入A1中，所以A1可以确定填入4，我们就可以不用考虑A1，这样就可以发现2只能填入A3中，所以A3也能确定，A2和A4可以通过其他办法进行确定。
+假设法：如果找不到能够确定的空格，我们不妨进行假设，当然，假设也是原则的，我们不能进行无意义的假设，假设的原则是：如果通过假设一个空格的数字，可以确定和这个空格处在同一个单元内的其它某一个或者某几个空格的数字，那么我们就以选择这样的空格来假设为佳。举例说明，B3可以填入1或者2，A3可以填入2或者3，B4可以填入1或者2，这个时候我们就应该假设B3填入2，这样就可以确定A3填入3，B4填入1，然后以这个为基础进行推理，如果推出违反规则的情况出现，那么这个假设就是错误的，我们回到假设点重新开始。
+ SHAPE  \* MERGEFORMAT 
+数独
+在下图的每个方格中填入一个数字，使得每行、每列以及每条对角线上的方格中的四个数字都是1，2，3，4．
+
+【考点】数独   【难度】3星   【题型】填空 
+如中间图所示，受列及对角线的限制， EMBED Equation.DSMT4  处只能填1，从而 EMBED Equation.DSMT4  处填3；进而推知 EMBED Equation.DSMT4  处填4， EMBED Equation.DSMT4  处填3， EMBED Equation.DSMT4  处填4，……右上图为填好后的数阵图．
+【答案】
+在图的5×5的方格表中填入 EMBED Equation.DSMT4  四个字母，要求：每行每列中四个字母都恰出现一次：如果菜行的左边标有字母，则它表示这行中第一个出现的字母；如果某行的右边标有字母，则它表示这行中最后一个出现的字母；类似地，如果某列的上边(或者下边)标有字母，则它表示该列的第一个(或者最后一个)出现的字母．那么 EMBED Equation.DSMT4  在第二行从左到右出现的次序是        ．
+
+【考点】数独   【难度】4星   【题型】填空
+【关键词】迎春杯，高年级，复赛，7题
+ EMBED Equation.DSMT4  在第二行从左到右出现的次序是 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+在左下图的5×5方格表的空白处填入1～5中的数，使得每行、每列、每条对角线上的数各不相同。
+
+【考点】数独   【难度】4星   【题型】填空
+【关键词】走美杯，4年级，决赛，第11题，12分
+
+
+【答案】
+
+请你在六阶拉丁幻方中的空白方格内填入相应数字，使得每一行、每一列及两条对角线上恰好出现1、2、3、4、5、6． 
+
+【考点】数独   【难度】4星   【题型】填空
+【关键词】迎春杯，中年级，初赛，第8题
+这也是一道逻辑推理问题，它雷同于风靡一时的数独游戏．在这个拉丁幻方中，从右上到左下的对角线上已给出4个数字，还少了数字4和5，而4在第三列中已经出现了，所以4只能填入第一列，5则自然而然的出现在第三列．如图10所示．再看自上而下的第六行，还少了数字3、4和5，而4、5在第六列出现，所以只能填3．同理5在第四列中已经出现了，所以5只能填入第二列，4则自然而然的出现在第四列．如图11所示．再看自上而下的第三行，还少了数字1，2，3和6，而3在第三、五、六列中已经出现了，所以3只能填入第二列，1在第三、五列中已经出现了，所以1只能填入第六列，6在第五列中已经出现了，所以6只能填入第三列，2则自然而然的出现在第五列．如图12所示．
+
+再看第六列，可确定第四行填6，第五行填2．再往下填就容易多了，请同学们自己完成．
+【答案】
+
+如下图，6个3×2的小方格表拼成了6×6的大方格表。请在空白处填入1～6中的数，使得每行、每列中的数各不相同，并且原来6个3×2的小方格表中的数也各不相同。
+
+【考点】数独  【难度】4星   【题型】填空
+【关键词】走美杯，6年级，决赛，第10题，10分
+三种填法如下：
+
+    提示：第一步可得出下页左上图圆圈中的数，其中第二行第一列的数是因为第一行不能再填5.
+
+    第二步可得出右上图圆圈中的数。其中第一行后两数是因为第二行不能再填2，6；左下角的数是因为第五行不能再填6.第三步可得出左下图圆圈中的数，其中第三行第三列的数是因为第四行不能再填5.
+
+    第四步可得出右上图圆圈中的数。第五步可依次得到下图中的a=4，b=1，c=1，d=5，e=3，f=5.
+
+剩下的空格不能确定，依次假设可能取值，可得三种填法.
+【答案】
+
+
+请在如右图的每个空格内填入1至8中的一个数字，使每行、每列、每条对角线上8个数字都互不相同．
+
+【考点】   【难度】星   【题型】填空
+【关键词】迎春杯，高年级，初赛，第10题
+1	2	7	6	3	8	4	5
+6	3	5	4	7	1	2	8
+4	7	8	5	2	3	1	6
+2	5	3	7	4	6	8	1
+5	1	4	8	6	2	7	3
+3	8	1	2	5	4	6	7
+8	6	2	3	1	7	5	4
+7	4	6	1	8	5	3	2
+从两条对角线上的方格为突破口，因为它们同时涉及三条线，所受的限制最严，所能填的数的空间也就最小．副对角线上面已经填了2，3，8，6四个数，剩下1，4，5和7，这是突破口．观察这四个格，发现左下角的格所在的行已经有5，所在的列已经有1和4，所以只能填7．然后，第六行第三列的格所在的行已经有5，所在的列已经有4，所以只能填1．第四行第五列的格所在的行和列都已经有5，所以只能填4，剩下右上角填5．再看主对角线，已经填了1和2，依次观察剩余的6个方格，发现第四行第四列的方格只能填7，因为第四行和第四列已经有了5，4，6，8，3．再看第五行第五列，已经有了4，8，3，5，所以只能填6．此时似乎无法继续填主对角线的格子，但是，可观察空格较少的行列，例如第四列已经填了5个数，只剩下1，2，5，则很明显第六格填2，第八格填1，第三格填5．此时可以填主对角线的格子了，第三行第三列填8，第二行第二列填3，第六行第六列填4，第七行第七列填5．继续依次分析空格较少的行和列（例如第五列）可得出结果．
+【答案】1	2	7	6	3	8	4	5
+6	3	5	4	7	1	2	8
+4	7	8	5	2	3	1	6
+2	5	3	7	4	6	8	1
+5	1	4	8	6	2	7	3
+3	8	1	2	5	4	6	7
+8	6	2	3	1	7	5	4
+7	4	6	1	8	5	3	2
+
+如图，请将1个1，2个2，3个3，…，7个7，8个8填入6×6的表格中，使得相同的数所在的方格都连在一起（相连的两个方格必须有公共边）；现在已经给出了其中8个方格中的数，并且知道A,B,C,D,E,F各不相同；那么，六位数 EMBED Equation.DSMT4  是              ．
+
+【考点】   【难度】星   【题型】填空
+【关键词】迎春杯，四年级，初赛，第9题）
+方格当中填 EMBED Equation.DSMT4  的格子只有 EMBED Equation.DSMT4  个且连在一起，所以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  当中不可能有格子中填 EMBED Equation.DSMT4  ，也不可能填 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  只能是 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，通过尝试可得到 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+将1到9填入下图的空白方块中，每个方块只能填一个数字，任何一行，一列或一个区块都是一个单元。每个单元都必须包含全部但不重复的数字。
+
+【考点】数独   【难度】5星   【题型】填空 
+这道题是一个标准的数独游戏，我们从把这个方块如右图编号：
+我们首先从条件最多的第1列和第9列入手：第1列中已有234589，缺167，我们观察发现G行有1346，，所以G1既不能填234589，也不能填1346，所以只能填7；
+类似的我们可以继续分析第9列中的每个空白，我们会发现C9只能填4，H9只能填9，G9只能填8；
+我们再考虑已知比较多的第4列和I行，同时考虑空白方块所在的九宫格，我们可以发现I4填4，I2填1，G2填2，G7填5，G5填9，I7填7，I6填5，H8填3，H3填5，H2填4；这个时候我们发现比较难找到唯一确定的，我们不妨使用假设法，如果推出结果矛盾，那么我们回到假设点再来。我们发现右上角的九宫格中，A8可以填178，B7可以填189，B8可以填189，C8可以填17，我们发现假设B8为1，则可以进而唯一确定C8为7，A8为8，B7为9，我们就这么假设吧！我们根据这个假设继续分析下去：A6填7，H6填2，H5填7，C3填3，B2填8，A3填2，A4填1，C5填6，C1填1，E8填5，F8填2，D8填9，D3填8，E3填1，F2填7，E5填3，D5填2，F5填1，E2填6，D2填3，D6填6，F6填8，F7填3，E7填8，B1填6，B4填2，B5填4.整个数独完成，没有产生冲突，所以假设成立.
+【答案】
+
+
+如右下图，9个3 EMBED Equation.3  的小方格表合并成一个9 EMBED Equation.3  的大方格表，每个格子中填入1-9中的一个数，每个数在每一行、每一列中都只出现一次，并且在原来的每个3 EMBED Equation.3  3的小方格表中也只出现一次，10个“☆”处所填数的总和是                 。
+
+【考点】数独   【难度】5星   【题型】填空 
+【关键词】走美杯，3年级，初赛
+本题是9宫格的题目经过尝试得到10个“☆”处所填数的总和是46
+【答案】 EMBED Equation.DSMT4  
+
+“九宫图”是一个9×9的方阵，它是由九个3×3的“九宫格”（图中黑实线围住的方阵）组成。
+
+请你在上图中将数字1、2、3、4、5、6、7、8、9分别填入空格内，使得每行、每列及9个“九宫图”中数字1~9均恰好出现一次。当填写完后，位于第4行第4列的数字式______。
+（A）2 （B）4  （C）6  （D）8
+【考点】数独   【难度】5星   【题型】选择
+【关键词】迎春杯，高年级，复试，9题
+ EMBED Equation.DSMT4  ，示：第 EMBED Equation.DSMT4  行第 EMBED Equation.DSMT4  列的数，根据所在行、所在列、所在九宫格判断，只能填 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  。如果填 EMBED Equation.DSMT4  ，则第 EMBED Equation.DSMT4  行第 EMBED Equation.DSMT4  列无数可填，所以第 EMBED Equation.DSMT4  行第 EMBED Equation.DSMT4  列只能填 EMBED Equation.DSMT4  。注：是否有满足题意的填法，还要实际填一下（见下图）。
+
+【答案】 EMBED Equation.DSMT4  
+
+如图是一个未完成的“数独”，给出数字 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  所在方格内应填的数字。 EMBED Equation.DSMT4  
+         、 EMBED Equation.DSMT4          、  EMBED Equation.DSMT4          、 EMBED Equation.DSMT4          。注：所谓“数独”即在 EMBED Equation.DSMT4   的方格中填入 EMBED Equation.DSMT4  中的数字，使得每个粗线 EMBED Equation.DSMT4  的方格中数字及 EMBED Equation.DSMT4  的方格中每行每列数字均不重复。
+
+【考点】数独   【难度】5星   【题型】填空
+【关键词】走美杯，4年级，决赛，第8题，10分
+如图，补充完整这个数独后，可以知道 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  。
+
+【答案】
+
+
+下图是一个9×9的方格图，由粗线隔为9个横竖各有3个格子的“小九宫”格，其中，有一些小方格填有1至9的数字。小青在第4列的空格中各填入了一个1至9中的自然数，使每行、每列和每个“小九宫”格内的数字都不重复，然后小青将第4列的数字从上向下写成一个9位数，请写出这个9位数，并且简单说明理由.
+
+【考点】数独    【难度】5星   【题型】填空
+【关键词】华杯赛，六年级，决赛，第11题
+用（a，b）表示第a行第b列的方格，第4列已有数字1、2、3、4、5，第6行已有数字6、7、9，所以方格（6，4）＝8；第3行和第5行都有数字9，所以（7，4）＝9；正中的“小九宫”中已有数字7，所以只能是（3，4）＝7；此时，第4列中只余（5，4），这一列只有数字6未填，所以（5，4）＝6。所以，第4列的数字从上向下写成的9位数是：327468951.
+
+【答案】327468951
+
+将1到4填入右图的空白方块中，每个方块只能填一个数字，任何一行，一列都必须包含全部但不重复的数字，并且，在有“>”或者“<”的对应两个空格必须满足对应的大小关系。
+
+【考点】数独   【难度】4星   【题型】填空 
+我们要善于利用大小关系条件。（1）首先看A行，A1、A2、A3都大于某一个数，那么A4必然为1，进而可以知道B4为4，C4为3，D4为2；（2）观察发现，D3只能填3或者4，A3只能填3或者4，则第3列中的3和4只可能是在A3和D3中出现，所以B3、C3只能是1或者2，再分析B行，发现B1可能是1、2、3，B2可能是1、2，所以3只能出现在B1中，故B1填3；（3）剩下的就变得非常简单了，我们来逐步推导，我们现分析A行，A1填4，A2填2，A3填3，然后分析B行，B2填1，B3填2，再看第3列，C3填1，余下的通过简单的行列对比可以知道C2填4，C1填2，D1填1，D2填3。分析完毕，答案如图。
+
+【答案】
+
+请在右图4×4表格的每格中填入l,2，3，4中的一个，使得每行，每列，每条对角线的四个数各不相同，且满足图中三个不等的关系．
+
+【考点】数独   【难度】4星   【题型】填空 
+【关键词】走美杯，3年级，初赛
+如图1，a＞b＞c,符合这种情况的只有三种情况，情况1：3＞2＞1，要符合每行，每列，每对角线的四个数字各不相同，如图2不符合要求；情况2：4＞2＞1，要符合每行，每列，每对角线的四个数字各不相同，如图3不符合要求；情况3：4＞3＞2，要符合每行，每列，每对角线的四个数字各不相同，如图4符合要求。
+         
+【答案】
+
+将1到4填入右图的空白方块中，每个方块只能填一个数字，任何一行，一列都必须包含全部但不重复的数字，并且，在有“>”或者“<”的对应两个空格必须满足对应的大小关系。
+
+【考点】数独   【难度】4星   【题型】填空 
+这道题是一道数独游戏的变体，我们称之为“大小数独”。
+我们对存在大小关系的方格进行可行性分析，如图，在空格中填入可能的数字；
+
+因为A3和D3都可能填入1或2，所以1和2必然出现在A3和D3中，所以B3和C3都可能填入3或4，因为B2可能填入3或4，所以B行中3或4必然出现在B2和B3中，那么B1和B4就只能填入1或2，又因为C4只能填1或2，根据同样的理由，且D4为3，则A4只能填4，进而知道A3填1，D3填2，D2填4，D1填4，B2填3，A2填2，A1填3，C2填1，C4填2，B4填1，B1填2，C1填4，B3填4.
+分析完毕，答案如图.
+
+【答案】
+
+将1、2、3、4分别填入4×4的方格网（如下图所示）的16个小方格中，使得每一行每一列中的4个数1、2、3、4恰好各出现一次，并且满足与不等号相邻的两个数中小数是大数的约数，那么，从左上到右下的对角线上4个数的和是____________。（左下图是一个3×3的例子）
+
+10            B.  11              C.  12             D.  16
+【考点】数独   【难度】5星   【题型】选择
+【关键词】迎春杯，中年级，复试，4题
+ EMBED Equation.DSMT4  提示：填法如右图。
+ 
+【答案】 EMBED Equation.DSMT4  
+
+将1到5填入右图的空白方块中，每个方块只能填一个数字，任何一行，一列都必须包含全部但不重复的数字，并且，在有“>”或者“<”的对应两个空格必须满足对应的大小关系。
+
+【考点】数独   【难度】4星   【题型】填空 
+这道题是一道数独游戏的变体，我们称之为“大小数独”。已知数字很少，我们就要善于利用大小关系条件。
+首先我们观察右下角密集的大于小于关系：E4<E3，E4<E5并且E4>D4，所以E4只能填入2或者3，又因为B4已经填入2，所以E4只能填入3，进而D4只能填入1（因为第4列中已经有2），C4只能填入4；
+再观察左半部的3个大于小于关系：B2>C2>D2，所以C2可以填入2、3、4，又因为C3已经填入2，C4已经填入4，所以C2只能填入3，进而知道D2只能填2（D4已经填入1），C1只能填入5（1是最小的数，不能填入C1），C5填1；
+然后观察第5列，C5为1，E5>D5，所以E5可以填入4或5，D5可以填入3或4，B5可以填入3或4，A5可以填入2、3、4，发现只有A5可以填2，所以A5必然是2，又因为B2、B3和B5都不能填1，所以B1填入1；
+观察第3列，C3为2，B3、E3都大于某数，故都不能填1，D3所在行已经有1，故也不能填1，那么只有A3填1；
+观察E行，E3与E5都是填入4或5，所以4、5必然出现在E3与E5中，又因为E1`所在列的B1为1，所以E1只能填2，进而知道E2填1，A2填4，B2填5，则B5不能填5，那么只有E5填5，所以E3填4，B3填3，B5填4，D5填3，D3填5，D1填4，最后A1填3.
+分析完毕，结果如右图所示.
+
+【答案】
+
+
+将1到5填入右图的空白方块中，每个方块只能填一个数字，任何一行，一列都必须包含全部但不重复的数字，并且，在有“>”或者“<”的对应两个空格必须满足对应的大小关系。
+
+【考点】数独   【难度】5星   【题型】填空 
+这道题是一道数独游戏的变体，我们称之为“大小数独”。已知数字很少，我们就要善于利用大小关系条件。
+首先看E行，因为E4<3，所以E4只能填入1或者2，又因为D4>D3>E3,再因为E5为3，所以E3只能填入1或者2，这样，1和2就必然出现在E3和E4中，所以E1和E2只能填4和5，再根据E1>E2，我们可以知道E1为5，E2为4；
+再看A行和第5列，因为A3>A4>A5且A1为3，所以A5填1或者2，同理我们知道第5列中B2也只能填1或者2，于是我们可以确定1和2必然出现在A5和B5之中，那么4和5必然出现在C5和D5中，再根据D5>C5，我们推知C5填4，D5填5，又根据D4大于D3，我们知道D4只能填4或者5，而5已经出现在D5中，所以D4只能填4，进而确定D3只能填3，A4只能填2，A5填1，B5填2，A2填5（E5已经填入4，A2不能再填4），A3填4，E4填1，E3填2，C3填1，B4填3，B2填1，C4填5，再由于E1为5，所以B1为4，B3为5，进而C1填2，D1填1，D2填2，C2填3.
+分析完毕，答案如图. 
+
+【答案】
+
+
+请你在下面 EMBED Equation.DSMT4  表格的每格中填入1，2，3，4，5中的一个，使得每行、每列、每条对角线所填的5个数各不相同，且 EMBED Equation.DSMT4  格中的数比 EMBED Equation.DSMT4  格中的数大， EMBED Equation.DSMT4  格中的数比 EMBED Equation.DSMT4  格中的数大， EMBED Equation.DSMT4  格中的数比 EMBED Equation.DSMT4  格中的数大， EMBED Equation.DSMT4  格中的数比 EMBED Equation.DSMT4  格中的数大， EMBED Equation.DSMT4  格中的数比 EMBED Equation.DSMT4  格中的数大。那么，第二行的5个数从左到右依次是        。
+
+【考点】数独   【难度】5星   【题型】填空
+【关键词】迎春杯，中年级，复赛，第10题
+本题基于日本比较流行的谜题“大小数独”，所不同的是，除了限制行列为拉丁方以外还限制了两条大对角线也不能有重复数字。所以，和解通常的大小数独相比，会有一些新的套路。 解数独的时候，一般是先分析必然成立的，如果分析不出来了再去假设。为描述方便，将所有没有标出来的方格用小写字母标出。
+
+根据已知的大小关系可知：
+A只能填4或5，B只能填3或4，C只能填2或3，D只能填1或2。除此之外，E和G都不能填1，F和H都不能填5。除此之外，观察到D不能和A，B，C，j里面的任何一个数相同，所以D只能和i相同。至此似乎无法继续分析，可以进行假设。但是，假设哪里比较好呢？注意到本题和通常的大小数独相比，多了对角线的要求，所以中间的方格F最特殊，可以以它为突破口。注意，只有和中间格成“马步”的格才可能和中间格填相同的数，这很关键。
+(1) 假设F填1，则i和j都不能填1，这样第一行没有任何一格能填1，矛盾；
+(2) 假设F填2，则D填1，i填1。第一行的2只能填在C，从而第五行的2只能填在v。第三行的1只能填在p，这样第四、五两行的1只能填在H和w，此时副对角线出现了D和H两个1，与题意不符，矛盾；
+(3) 假设F填3，则B填4，A填5，i和j填1和2。第一行的3只能填在C，从而第五行的3只能填在v。G不能再填3或5，所以只能填2或4。H比G小，而且也不能填3，所以只能填1或2。但此时，副对角线上的j，D，H三格都只能填1或2，矛盾；
+(4) 假设F填4，则B填3，C填2，D填1，i填1，E填5。第一行的4只能填在A，从而第五行的4只能填在x。第一行最后剩下j填5，第四列最后剩下s填3。之后就非常简单了，填完之后的结果如下：
+
+所求结果为45213。
+【答案】45213
+
+将1、2、3、4、5、6都分别填入6×6的方格网（如下图所示）的36个小方格中，使得每一行每一列中的6个数1、2、3、4、5、6各出现依次，并且满足与不等式相邻的两个数中小数是大数的约数，那么，第二行从左到右的第6个数是___________。（左下图是一个3×3的例子。）
+
+（A）5  （B）4   （C）3   （D）2
+【考点】数独   【难度】5星   【题型】选择
+【关键词】迎春杯，高年级，复试，6题
+ EMBED Equation.DSMT4  ，提示：填法如下图。
+
+【答案】 EMBED Equation.DSMT4  
+
+如图．4 EMBED Equation.DSMT4  4方格被分成了五块；请你在每格中填入l、2、3、4中的一个，使得每行、每列的四个数各不相同，且每块上所填数的和都相等。则A、B、C、D四处所填数字之和是        。
+
+【考点】数独   【难度】3星   【题型】填空
+【关键词】迎春杯，三年级，初赛，第11
+首先16个方格的和为4×（1+2+3+4）=40，所以每一块的和位40÷5=8，4个数和为8只有1+2+3+2和1+1+2+4两种，3个数和为8有1+3+4、2+2+4、2+3+3两种.其中只有1+3+4，三个加数各不相同，所以A所在的三格只能填1、3、4，所以B只能是2，B所在块中另外两个数只能是3+3（排除）或2+4.
+
+再看C所在的块，这能填1+2+3+1或1+1+2+4，其中C右侧的数只能填重复的数
+      
+事实上以上两个中2可以确定位置.剩下的尝试即可得出.
+
+所以和为10.
+【答案】 EMBED Equation.DSMT4  
+
+如图，5×5方格被分成了五块；请你在每格中填入1、2、3、4、5中的一个，使得每行、每列、每条对角线的五个数各不相同，。现有两个格子已分别填入1和2，请在其它格子中填上适当的数。那么， EMBED Equation.DSMT4  是           。
+
+【考点】数独   【难度】5星   【题型】填空 
+【关键词】2008年，迎春杯
+这道题是数独游戏的变体。
+１、因为每行、每列、每条对角线的五个数各不相同，且每块上所填数的和都相等;
+所以，⑴如图两a位置的数一定相等。
+⑵右下角的数如果有数相同，只能是两b位置的数相同。
+⑶左上角一组第二行的数为2。
+２、求公和=(1+2+3+4+5)×5÷5=15，所以，右下角的四个数的情况可能为：
+必有5,否则为15＝4＋4＋4＋3,不成立。
+则可能：15＝5＋5＋4＋1 
+15＝5＋5＋3＋2，不成立
+15＝5＋4＋4＋2，不成立
+15＝5＋4＋3＋3，不成立，
+因为对角线上a必为3,则最底行有两个3.所以，只有：
+        
+所以，a＝3,(3,4-斜去，5－底去)，C＝5（斜只剩），c＝4（4,5－竖去），b＝5（横只剩），d＝1（1,4－横去），B＝4（竖只剩），e＝4（3－横竖去，4），f＝3（斜只剩），D＝2（竖只剩2），E＝3(3,1-竖去)，A＝1（横只剩）， EMBED Equation.DSMT4  ＝14523。
+【答案】 EMBED Equation.DSMT4  ＝14523
+
+请将1个1，2个2，3个3，…，8个8，9个9填入右图的表格中，使得相同的数所在的方格都连在一起（相连的两个方格必须有公共边）．现在已经给出了其中8个方格中的数，并且知道A,B,C,D,E,F,G各不相同；那么，五位数 EMBED Equation.DSMT4  是              ．
+
+【考点】数独   【难度】5星   【题型】填空
+【关键词】迎春杯，五年级，初赛，第13题
+首先可以判断 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  当中不可能出现 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，通过尝试可得到 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+请将1个1，2个2，3个3，…，8个8，9个9填入右图的表格中，使得相同的数所在的方格都连在一起（相连的两个方格必须有公共边）；现在已经给出了其中8个方格中的数，并且知道A,B,C,D,E,F,G各不相同；那么，七位数 EMBED Equation.DSMT4  是              ．
+
+【考点】数独   【难度】5星   【题型】填空
+【关键词】迎春杯，六年级，初赛，第10题
+首先可以判断 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  当中不可能出现 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，通过尝试可得到 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别为6和7，所以 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+将数字1～6中填入右面的6×6方格，使每个数字在每一行、每一列和每一个标有粗线的 EMBED Equation.DSMT4  的“宫”中只能出现一次. 如果虚线框出的区域左上角标注的数值为该区域内所有数字之和，并且该区域内所有数字互不相同，那么，六位数 EMBED Equation.DSMT4  是_____________.
+
+【考点】数独   【难度】6星   【题型】填空
+【关键词】迎春杯，三年级，初赛，第10题
+每行每列中 EMBED Equation.DSMT4  ～ EMBED Equation.DSMT4  各出现 EMBED Equation.DSMT4  次，故每行每列 EMBED Equation.DSMT4  个数的和都是 EMBED Equation.DSMT4  ，则可以确定第 EMBED Equation.DSMT4  行第 EMBED Equation.DSMT4  列的数为 EMBED Equation.DSMT4  ，第 EMBED Equation.DSMT4  行第 EMBED Equation.DSMT4  列的数为 EMBED Equation.DSMT4  ，第 EMBED Equation.DSMT4  行第 EMBED Equation.DSMT4  列的数为 EMBED Equation.DSMT4  ，而第 EMBED Equation.DSMT4  列第 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  行的数只能为 EMBED Equation.DSMT4  ，故第 EMBED Equation.DSMT4  行第 EMBED Equation.DSMT4  列为 EMBED Equation.DSMT4  ，第 EMBED Equation.DSMT4  行第 EMBED Equation.DSMT4  列为 EMBED Equation.DSMT4  . 由于第 EMBED Equation.DSMT4  列第 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  行两个数和为 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  ，而这两个数不可能为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，故只可能为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，而右上角的“宫”中 EMBED Equation.DSMT4  个数 EMBED Equation.DSMT4  ～ EMBED Equation.DSMT4  各出现 EMBED Equation.DSMT4  次，那么第 EMBED Equation.DSMT4  行第 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  列的两个数分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  . 由于第 EMBED Equation.DSMT4  列的 EMBED Equation.DSMT4  只能出现在上面 EMBED Equation.DSMT4  个数中，现在第 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  行已经有 EMBED Equation.DSMT4  ，故第 EMBED Equation.DSMT4  列第 EMBED Equation.DSMT4  行的数为 EMBED Equation.DSMT4  ，且第 EMBED Equation.DSMT4  列第 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  行的两个数之和为 EMBED Equation.DSMT4  ，且都不能为 EMBED Equation.DSMT4  ，只能为 EMBED Equation.DSMT4  ，注意到第 EMBED Equation.DSMT4  行已有 EMBED Equation.DSMT4  ，故第 EMBED Equation.DSMT4  列第 EMBED Equation.DSMT4  行为 EMBED Equation.DSMT4  ，第 EMBED Equation.DSMT4  行为 EMBED Equation.DSMT4  ，则第 EMBED Equation.DSMT4  列第 EMBED Equation.DSMT4  行为 EMBED Equation.DSMT4  ，第 EMBED Equation.DSMT4  行为 EMBED Equation.DSMT4  ，第 EMBED Equation.DSMT4  行第 EMBED Equation.DSMT4  行为 EMBED Equation.DSMT4  ，第 EMBED Equation.DSMT4  列为 EMBED Equation.DSMT4  . 又第 EMBED Equation.DSMT4  列第 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  行的数之和为 EMBED Equation.DSMT4  ，第 EMBED Equation.DSMT4  行的数为 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，如果为 EMBED Equation.DSMT4  ，则第 EMBED Equation.DSMT4  行的数为 EMBED Equation.DSMT4  ，重复，故第 EMBED Equation.DSMT4  行的数为 EMBED Equation.DSMT4  第 EMBED Equation.DSMT4  行的数为 EMBED Equation.DSMT4  ，则第 EMBED Equation.DSMT4  列第 EMBED Equation.DSMT4  行的数为 EMBED Equation.DSMT4  . 此时第 EMBED Equation.DSMT4  列第 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  行的数之和为 EMBED Equation.DSMT4  ，可能为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，又第 EMBED Equation.DSMT4  行已有 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，故只能为 EMBED Equation.DSMT4  ，第 EMBED Equation.DSMT4  列第 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  行的数为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  . 此时第 EMBED Equation.DSMT4  列第 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  行的两个数之和为 EMBED Equation.DSMT4  ，可能为 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，又第 EMBED Equation.DSMT4  列第 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  行的两数之和为 EMBED Equation.DSMT4  ，只能为 EMBED Equation.DSMT4  ，故此时第 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  行的两个 EMBED Equation.DSMT4  分别在第 EMBED Equation.DSMT4  列和第 EMBED Equation.DSMT4  列，那么第 EMBED Equation.DSMT4  列只能是 EMBED Equation.DSMT4  ，故第 EMBED Equation.DSMT4  列第 EMBED Equation.DSMT4  行为 EMBED Equation.DSMT4  ，第 EMBED Equation.DSMT4  行为 EMBED Equation.DSMT4  . 那么右列中间的“宫”中1，2，3，5，6都已出现，所以这个“宫”中的4只能在第4行第5列，则可以确定第5列第5行为3，第6行为2。
+第1列第4、5行的数为1和5，而第4行的5在第2列或第6列，故第1列第4行为1，第5行为5。
+下面根据每行、每列、每“宫”中 EMBED Equation.DSMT4  ～ EMBED Equation.DSMT4  各出现 EMBED Equation.DSMT4  次，较易确定最后的填法.如图. 故 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  .
+
+【答案】 EMBED Equation.DSMT4  
+
+如图1的每个方格中分别填入1、2、3、4、5、6、7中的一个数，使得每行、每列的七个数各不相等；并且圆圈中的数等于与它相邻的四个数的乘积．那么，★处所填的数是      ．
+
+【考点】数独   【难度】6星   【题型】填空
+【关键词】迎春杯，高年级，初赛，第5题
+这是一道拉丁方问题．每行、每列的7个各不相等的数的乘积均为 EMBED Equation.DSMT4  ．任意两行、两列中14个各不相等的数的乘积均为 EMBED Equation.DSMT4  ，除去已知的乘积，未知数的乘积便可知．将其分解，进行分析，即可填出．首先将列依次定 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，行依次定为1、2、3、4、5、6、7，那么★处可表示为 EMBED Equation.DSMT4  ．观察 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两列，由 EMBED Equation.DSMT4  ，容易知道 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  只能是1和7．再由 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  相乘积为20，容易知道 EMBED Equation.DSMT4  只能填1， EMBED Equation.DSMT4  只能填7．
+
+由于 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  相乘积为20， EMBED Equation.DSMT4  填1，这样一来， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  可能填1、4、5或2、2、5．若 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  填1、4、5，只能是 EMBED Equation.DSMT4  填4， EMBED Equation.DSMT4  填1， EMBED Equation.DSMT4  填5（ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  乘积为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  中必有两个是5，一个是3，另一个是7）．于是 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的乘积为9，在 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  中，必有两个是3，这时与 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  中所填的3出现在同一列，矛盾．确定 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  中填的数．由 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  已填2，所以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  只能填3和4．60与120均不是7的倍数，故 EMBED Equation.DSMT4  列中，7只能在 EMBED Equation.DSMT4  处． EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  只能填1和6．60与120均是5的倍数，故 EMBED Equation.DSMT4  列中，5已出现，显然 EMBED Equation.DSMT4  填5， EMBED Equation.DSMT4  填2．再由 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，可确定 EMBED Equation.DSMT4  填3．下面确定 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  所填的数是 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的公约数，只能是1或5．若填1，则 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的乘积为60，它显然不能表示成两个不大于7的数的乘积，故 EMBED Equation.DSMT4  填5．从第6、7行看， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  不能出现2，这样一来，84只能表示为 EMBED Equation.DSMT4  ，显然 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  只能填7和1， EMBED Equation.DSMT4  填3， EMBED Equation.DSMT4  填4，． EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  乘积是 EMBED Equation.DSMT4  ，从 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  列看， EMBED Equation.DSMT4  只能表示为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  填6， EMBED Equation.DSMT4  填6．下面请同学们自己进行分析，容易得到下面填法．★处所填的数是6．
+
+【答案】 EMBED Equation.DSMT4  
+
+如图，请沿虚线将 EMBED Equation.DSMT4  的方格表分割成若干个长方形，使得每个长方形中恰好包含一个数字，并且这个数字就是此长方形的面积．那么第四列的7个小方格分别属于________个不同的长方形．
+【考点】数独   【难度】6星   【题型】填空
+【关键词】迎春杯，五年级，初赛，第9题
+如图所示：第4行第6列的数字4为此题的突破口。
+
+【答案】 EMBED Equation.DSMT4  个
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+5-1-4-2.幻方（二）.题库	                        教师版                           page  PAGE 18 of  NUMPAGES 18
+
+
+
+5-1-4-2.幻方（二）
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,225 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+能够根据除法性质调整余数进行解题
+能够利用余数性质进行相应估算
+学会多位数的除法计算
+根据简单操作进行找规律计算
+ SHAPE  \* MERGEFORMAT 
+带余除法的定义及性质
+1、定义：一般地，如果a是整数，b是整数（b≠0）,若有a÷b=q……r，也就是a＝b×q＋r, 
+0≤r＜b；我们称上面的除法算式为一个带余除法算式。这里：
+(1)当 EMBED Equation.DSMT4  时：我们称a可以被b整除，q称为a除以b的商或完全商
+(2)当 EMBED Equation.DSMT4  时：我们称a不可以被b整除，q称为a除以b的商或不完全商
+一个完美的带余除法讲解模型:如图
+
+这是一堆书，共有a本，这个a就可以理解为被除数，现在要求按照b本一捆打包，那么b就是除数的角色，经过打包后共打包了c捆，那么这个c就是商，最后还剩余d本，这个d就是余数。
+这个图能够让学生清晰的明白带余除法算式中4个量的关系。并且可以看出余数一定要比除数小。
+2、余数的性质
+⑴ 被除数 EMBED Equation.DSMT4  除数 EMBED Equation.DSMT4  商 EMBED Equation.DSMT4  余数；除数 EMBED Equation.DSMT4  （被除数 EMBED Equation.DSMT4  余数） EMBED Equation.DSMT4  商；商 EMBED Equation.DSMT4  （被除数 EMBED Equation.DSMT4  余数） EMBED Equation.DSMT4  除数；
+⑵ 余数小于除数．
+3、解题关键
+理解余数性质时，要与整除性联系起来，从被除数中减掉余数，那么所得到的差就能够被除数整除了．在一些题目中因为余数的存在，不便于我们计算，去掉余数，回到我们比较熟悉的整除性问题，那么问题就会变得简单了．
+ SHAPE  \* MERGEFORMAT 
+
+除法公式的应用
+
+某数被13除，商是9，余数是8，则某数等于        。
+【考点】除法公式的应用   【难度】1星   【题型】填空
+【关键词】希望杯，四年级，复赛，第2题，5分
+125
+【答案】 EMBED Equation.DSMT4  
+
+一个三位数除以36，得余数8，这样的三位数中，最大的是__________。
+【考点】除法公式的应用   【难度】1星   【题型】填空
+【关键词】希望杯，四年级，复赛，第3题
+因为最大的三位数为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以满足题意的三位数最大为： EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算口÷△，结果是：商为10，余数为▲。如果▲的值是6，那么△的最小值是_____。
+【考点】除法公式的应用   【难度】1星   【题型】填空
+【关键词】希望杯，五年级，复赛，第4题，6分
+根据带余除法的性质，余数必须小于除数，则有 △的最小值为7。
+【答案】 EMBED Equation.DSMT4  
+
+除法算式 EMBED Equation.DSMT4  中，被除数最小等于       。 
+【考点】除法公式的应用   【难度】1星   【题型】填空
+【关键词】希望杯，4年级，初赛，4题
+本题的商和余数已经知道了，若想被除数最小，则需要除数最小即可，除数最小是 EMBED Equation.DSMT4  ，所以本题答案为：20×（8+1）+8=188.
+【答案】 EMBED Equation.DSMT4  
+
+71427和19的积被7除，余数是几?
+【考点】除法公式的应用   【难度】1星   【题型】填空
+【关键词】华杯赛，初赛，第14题
+71427被7除，余数是6，19被7除，余数是5，所以71427×19被7除，余数就是6×5被7除所得的余数2。
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  除以一个两位数，余数是 EMBED Equation.DSMT4  ．求出符合条件的所有的两位数．
+【考点】除法公式的应用   【难度】1星   【题型】解答
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，那么符合条件的所有的两位数有 EMBED Equation.DSMT4  ，因为“余数小于除数”,所以舍去 EMBED Equation.DSMT4  ，答案只有 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  共三个
+
+一个两位数除310，余数是37，求这样的两位数。
+【考点】除法公式的应用   【难度】1星   【题型】解答
+本题为余数问题的基础题型，需要学生明白一个重要知识点，就是把余数问题---即“不整除问题”转化为整除问题。方法为用被除数减去余数，即得到一个除数的倍数；或者是用被除数加上一个“除数与余数的差”，也可以得到一个除数的倍数。
+本题中310-37=273，说明273是所求余数的倍数，而273=3×7×13，所求的两位数约数还要满足比37大，符合条件的有39，91.
+【答案】39或者97
+
+在下面的空格中填上适当的数。
+
+【考点】除法公式的应用    【难度】2星   【题型】填空
+【关键词】走美杯，3年级，决赛，第10题，12分
+本题的被除数、商和余数已经给出，根据除法的计算公式：被除数 EMBED Equation.DSMT4  除数 EMBED Equation.DSMT4  商 EMBED Equation.DSMT4  余数，逆推计算得到：除数 EMBED Equation.DSMT4  (20047—13)÷742=27。
+【答案】 EMBED Equation.DSMT4  
+
+一个两位奇数除1477，余数是49，那么，这个两位奇数是多少？
+【考点】除法公式的应用   【难度】1星   【题型】解答
+这个两位奇数能被1477-49=1428整除，且必须大于49,1428=2×2×3×7×17,所以这样的两位奇数只有51。
+【答案】51
+
+大于35的所有数中，有多少个数除以7的余数和商相等？
+【考点】除法公式的应用   【难度】2星   【题型】解答
+除以7的余数只能是0～6，所以商只能是0～6，满足大于7的数只有商和余数都为5、6，所以只能是40、48。
+【答案】40、48
+
+已知2008被一些自然数去除，所得的余数都是10，那么这样的自然数共有多少个？
+【考点】除法公式的应用   【难度】2星   【题型】解答
+本题为一道余数与约数个数计算公式的小综合性题目。由题意所求的自然数一定是2008-10即1998的约数，同时还要满足大于10这个条件。这样题目就转化为1998有多少个大于10的约数， EMBED Equation.DSMT4  ，共有（1+1）×（3+1）×（1+1）=16个约数，其中1，2，3，6，9是比10小的约数，所以符合题目条件的自然数共有11个。
+【答案】11
+
+写出全部除109后余数为4的两位数． 
+【考点】除法公式的应用   【难度】2星   【题型】解答
+【关键词】美国长岛，小学数学竞赛，第五届
+ EMBED Equation.DSMT4  ．因此，这样的两位数是：15；35；21．
+【答案】两位数是：15；35；21
+
+甲、乙两数的和是 EMBED Equation.DSMT4  ，甲数除以乙数商 EMBED Equation.DSMT4  余 EMBED Equation.DSMT4  ，求甲、乙两数．
+【考点】除法公式的应用   【难度】2星   【题型】解答
+【关键词】清华附中，小升初分班考试
+(法1)因为 甲 EMBED Equation.DSMT4  乙 EMBED Equation.DSMT4  ，所以 甲 EMBED Equation.DSMT4  乙 EMBED Equation.DSMT4  乙 EMBED Equation.DSMT4  乙 EMBED Equation.DSMT4  乙 EMBED Equation.DSMT4  ；
+则乙 EMBED Equation.DSMT4  ，甲 EMBED Equation.DSMT4  乙 EMBED Equation.DSMT4  ．
+(法2)将余数先去掉变成整除性问题，利用倍数关系来做：从 EMBED Equation.DSMT4  中减掉 EMBED Equation.DSMT4  以后， EMBED Equation.DSMT4  就应当是乙数的 EMBED Equation.DSMT4  倍，所以得到乙数 EMBED Equation.DSMT4  ，甲数 EMBED Equation.DSMT4  ．
+【答案】乙数 EMBED Equation.DSMT4  ，甲数 EMBED Equation.DSMT4  
+
+用某自然数 EMBED Equation.DSMT4  去除 EMBED Equation.DSMT4  ，得到商是46，余数是 EMBED Equation.DSMT4  ，求 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ．
+【考点】除法公式的应用   【难度】2星   【题型】解答
+【关键词】第五届，小数报，决赛
+因为 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的 EMBED Equation.DSMT4  倍还多 EMBED Equation.DSMT4  ,得到 EMBED Equation.DSMT4  ，得 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+
+当1991和1769除以某个自然数n，余数分别为2和1．那么，n最小是多少？
+【考点】除法公式的应用   【难度】2星   【题型】解答
+如果用1990和1769去除这个自然数n时，余数是1．而 EMBED Equation.DSMT4  ，我们不妨取 EMBED Equation.DSMT4  ，再验证一下： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以n最小为13．
+【答案】13
+
+有三个自然数 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，已知 EMBED Equation.DSMT4  除以 EMBED Equation.DSMT4  ，得商3余3； EMBED Equation.DSMT4  除以 EMBED Equation.DSMT4  ，得商9余11。则 EMBED Equation.DSMT4  除以 EMBED Equation.DSMT4  ，得到的余数是              。
+【考点】除法公式的应用   【难度】2星   【题型】填空
+【关键词】希望杯，5年级，初赛，第4题，6分
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+所以应该余2。
+【答案】 EMBED Equation.DSMT4  
+
+有两个自然数相除，商是 EMBED Equation.DSMT4  ，余数是 EMBED Equation.DSMT4  ，已知被除数、除数、商与余数之和为 EMBED Equation.DSMT4  ，则被除数是多少？
+【考点】除法公式的应用   【难度】3星   【题型】解答
+【关键词】小学数学奥林匹克
+被除数除数商余数被除数除数+17+13=2113，所以被除数除数=2083，由于被除数是除数的17倍还多13，则由“和倍问题”可得：除数=（2083-13）÷（17+1）=115，所以被除数=2083-115=1968．
+【答案】1968
+
+两数相除，商4余8，被除数、除数、商数、余数四数之和等于415，则被除数是_______．
+【考点】除法公式的应用   【难度】3星   【题型】填空
+【关键词】小学数学奥林匹克
+因为被除数减去8后是除数的4倍，所以根据和倍问题可知，除数为 EMBED Equation.DSMT4  ，所以，被除数为 EMBED Equation.DSMT4  。
+【答案】324
+
+用一个自然数去除另一个自然数，商为40，余数是16.被除数、除数、商、余数的和是933，求这2个自然数各是多少？
+【考点】除法公式的应用   【难度】3星   【题型】解答
+本题为带余除法定义式的基本题型。根据题意设两个自然数分别为x,y，可以得到
+ EMBED Equation.DSMT4  ,解方程组得 EMBED Equation.DSMT4  ，即这两个自然数分别是856，21.
+【答案】两个自然数分别是856，21
+
+有一个三位数，其中个位上的数是百位上的数的3倍。且这个三位数除以5余4，除以11余3。这个三位数是_            
+【考点】除法公式的应用   【难度】3星   【题型】填空
+首先个位数不是4就是9，又因为它是百位的3倍所以一定是9，那么百位就是3,又因为它被11除余3，因此十位是9，答案是399
+【答案】399
+
+一个自然数，除以11时所得到的商和余数是相等的，除以9时所得到的商是余数的3倍，这个自然数是_________.
+【考点】除法公式的应用   【难度】3星   【题型】填空
+【关键词】2004年，福州市，迎春杯
+设这个自然数除以11余 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，除以9余 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，则有 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，只有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以这个自然数为 EMBED Equation.DSMT4  。
+【答案】84
+
+盒子里放有编号1到10的十个球，小红先后三次从盒子中共取出九个球，如果从第二次起，每次取出的球的编号的和都比上一次的两倍还多一，那么剩下的球的编号为____。
+【考点】除法公式的应用   【难度】3星   【题型】填空
+【关键词】走美杯，四年级，初赛，第11题
+令第1次取的编号为a，第二次取的编号为2a+1，第三次取的编号为：2（2a+1）+1=4a+3；还剩下的编号为：55-7a-4=51 EMBED Equation.DSMT4  7a，当a为6时，余下的是9；当a为7时，余下的是2.
+【答案】 EMBED Equation.DSMT4  或者 EMBED Equation.DSMT4  
+
+10个自然数，和为100，分别除以3。若用去尾法，10个商的和为30；若用四舍五入法，l0个商的和为34．10个数中被3除余l的有________个．
+【考点】除法公式的应用   【难度】3星   【题型】填空
+【关键词】走美杯，五年级，初赛，第13题
+由题意，“用去尾法，10个商的和为30；用四舍五入法，l0个商的和为34”可知，10个数中除以3余2的数有34-30=4（个），又知道10个自然数的和为100，设除以3余1的数有 EMBED Equation.DSMT4  个，那么根据用去尾法后十个商的和与10个自然数的和，可得关系式： EMBED Equation.DSMT4  ，解得， EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  除以某个整数后所得的商恰好是余数的 EMBED Equation.DSMT4  倍，那么除数最小可能是        。
+【考点】除法公式的应用   【难度】3星   【题型】填空
+【关键词】学而思杯，4年级，第2题
+设除数为 EMBED Equation.DSMT4  ，商为 EMBED Equation.DSMT4  ，余数为 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，且 EMBED Equation.DSMT4  。可以将除式转化为 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的约数， EMBED Equation.DSMT4  ，在 EMBED Equation.DSMT4  的约数中只有 EMBED Equation.DSMT4  被 EMBED Equation.DSMT4  除所得的余数为 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+在大于2009的自然数中，被57除后，商与余数相等的数共有______个.
+【考点】除法公式的应用   【难度】4星   【题型】填空
+【关键词】华杯赛，初赛，第10题
+根据题意，设这样的数除以57所得的商和余数都为a（a﹤57），则这个数为57×a+a=58a。所以58a﹥2009，得到a﹥2009÷58= EMBED Equation.DSMT4  ，由于a为整数，所以a至少为35.又由于a﹤57，所以a最大为56，则a可以为35，36，37，…，56.由于每一个a的值就对应一个满足条件的数，所以所求的满足条件的数共有56-35+1=22个。
+【答案】 EMBED Equation.DSMT4  
+
+用1、9、8、8这四个数字能排成几个被11除余8的四位数？
+【考点】除法公式的应用    【难度】5星   【题型】填空
+【关键词】华杯赛，初赛，第14题
+用1、9、8、8可排成12个四位数，即1988，1898，1889，9188，9818，9881，8198，8189，8918，8981，8819，8891 它们减去8变为1980，1890，1881，9180，9810，9873，8190，8181，8910，8973，8811，8883其中被11整除的仅有1980，1881，8910，8811，即用1、9、8、8可排成4个被1除余8的四位数，即1988，1889，8918，8819. 【又解】什么样的数能被11整除呢？一个判定法则是：比较奇位数字之和与偶位数字之和，如果它们之差能被11除尽，那么所给的数就能被11整除，否则就不能够． 现在要求被11除余8，我们可以这样考虑：这样的数加上3后，就能被11整除了．所以我们得到“一个数被11除余8”的判定法则：将偶位数字相加得一个和数，再将奇位数字相加再加上3，得另一个和数，如果这两个和数之差能被11除尽，那么这个数是被11除余8的数；否则就不是． 　　要把1、9、8、8排成一个被11除余8的四位数，可以把这4个数分成两组，每组2个数字．其中一组作为千位和十位数，它们的和记作A；另外一组作为百位和个位数，它们之和加上3记作B．我们要适当分组，使得能被11整除．现在只有下面4种分组法：  经过验证，第（1）种分组法满足前面的要求：A＝1＋8，B＝9＋8＋3＝20，B－A＝11能被11除尽．但其余三种分组都不满足要求． 根据判定法则还可以知道，如果一个数被11除余8，那么在奇位的任意两个数字互换，或者在偶位的任意两个数字互换，得到的新数被11除也余8．于是，上面第（1）分组中，1和8中任一个可以作为千位数，9和8中任一个可以作为百位数．这样共有4种可能的排法：1988，1889，8918，8819． 答：能排成4个被11除余8的数
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+5-5-1.带余除法（一）.题库	                        教师版                       page  PAGE 7 of  NUMPAGES 7
+
+
+
+5-5-1.带余除法（一）
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

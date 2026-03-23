@@ -1,0 +1,130 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE  \* MERGEFORMAT 
+
+前面在讲加法原理、乘法原理、排列组合时已经穿插讲解了计数中的一些常用的方法，比如枚举法、树形图法、标数法、捆绑法、排除法、插板法等等，这里再集中学习一下计数中其他常见的方法，主要有归纳法、整体法、对应法、递推法．对这些计数方法与技巧要做到灵活运用．
+
+ SHAPE  \* MERGEFORMAT 
+
+从条件值较小的数开始，找出其中规律，或找出其中的递推数量关系，归纳出一般情况下的数量关系．
+
+如图所示，在2×2方格中，画一条直线最多穿过3个方格；在3×3方格中，画一条直线最多穿过5个方可知；那么在5×5方格中，画一条直线，最多穿过        个方格。
+
+【考点】计数之归纳法   【难度】2星   【题型】填空
+【关键词】希望杯，四年级，复赛，第14题，6分
+边长每多1，穿过的方格多2，那么5×5的最多穿过3+2+2+2=9个方格
+【答案】 EMBED Equation.DSMT4  
+
+一条直线分一个平面为两部分．两条直线最多分这个平面为四部分．问5条直线最多分这个平面为多少部分?
+【考点】计数之归纳法   【难度】3星   【题型】解答
+方法一：我们可以在纸上试着画出1条直线，2条直线，3条直线，……时的情形，于是得到下表：
+        由上表已知5条直线最多可将这个平面分成16个部分，并且不难知晓，当有n条直线时，最多可将平面分成2+2+3+4+…+n= EMBED Equation.DSMT4  +1个部分．
+方法二：如果已有k条直线，再增加一条直线，这条直线与前k条直线的交点至多k个，因而至多被分成k+1段，每一段将原有的部分分成两个部分，所以至多增加k+1个部分．于是3条直线至多将平面分为4+3=7个部分，4条直线至多将平面分为7+4=11个部分，5条直线至多将平面分为11+5=16个部分．
+一般的有k条直线最多将平面分成：1+1+2+…+k= EMBED Equation.DSMT4  +1个部分，所以五条直线可以分平面为16个部分．
+
+【答案】 EMBED Equation.DSMT4  
+
+【巩固】平面上5条直线最多能把圆的内部分成几部分？平面上100条直线最多能把圆的内部分成几部分？
+【考点】计数之归纳法   【难度】4星   【题型】解答
+假设用ak表示k条直线最多能把圆的内部分成的部分数，这里k＝0，1，2，……
+a0＝1
+a1=a0+1＝2
+a2=a1＋2=4
+a3=a2＋3=7
+a4=a3+4＝11
+……
+故5条直线可以把圆分成16部分，100条直线可以把圆分成5051部分
+【答案】 EMBED Equation.DSMT4  部分
+
+平面上10个两两相交的圆最多能将平面分割成多少个区域？
+【考点】计数之归纳法  【难度】4星   【题型】解答
+先考虑最简单的情形．为了叙述方便，设平面上 EMBED Equation.DSMT4  个圆最多能将平面分割成 EMBED Equation.DSMT4  个部分．
+
+从图中可以看出， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，……
+可以发现 EMBED Equation.DSMT4  满足下列关系式： EMBED Equation.DSMT4  ．
+实际上，当平面上的( EMBED Equation.DSMT4  )个圆把平面分成 EMBED Equation.DSMT4  个区域时，如果再在平面上出现第 EMBED Equation.DSMT4  个圆，为了保证划分平面的区域尽可能多，新添的第 EMBED Equation.DSMT4  个圆不能通过平面上前 EMBED Equation.DSMT4  个圆之间的交点．这样，第 EMBED Equation.DSMT4  个圆与前面 EMBED Equation.DSMT4  个圆共产生 EMBED Equation.DSMT4  个交点，如下图：
+
+这 EMBED Equation.DSMT4  个交点把第 EMBED Equation.DSMT4  个圆分成了 EMBED Equation.DSMT4  段圆弧，而这 EMBED Equation.DSMT4  段圆弧中的每一段都将所在的区域一分为二，所以也就是整个平面的区域数增加了 EMBED Equation.DSMT4  个部分．所以， EMBED Equation.DSMT4  ．
+那么， EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  ．
+故10个圆最多能将平面分成92部分．
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  个三角形最多将平面分成几个部分？
+【考点】计数之归纳法  【难度】4星   【题型】解答
+设 EMBED Equation.DSMT4  个三角形最多将平面分成 EMBED Equation.DSMT4  个部分．
+ EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ；
+ EMBED Equation.DSMT4  时，第二个三角形的每一条边与第一个三角形最多有 EMBED Equation.DSMT4  个交点，三条边与第一个三角形最多有 EMBED Equation.DSMT4  （个）交点．这 EMBED Equation.DSMT4  个交点将第二个三角形的周边分成了 EMBED Equation.DSMT4  段，这 EMBED Equation.DSMT4  段中的每一段都将原来的每一个部分分成 EMBED Equation.DSMT4  个部分，从而平面也增加了 EMBED Equation.DSMT4  个部分，即 EMBED Equation.DSMT4  ．
+ EMBED Equation.DSMT4  时，第三个三角形与前面两个三角形最多有 EMBED Equation.DSMT4  （个）交点，从而平面也增加了 EMBED Equation.DSMT4  个部分，即： EMBED Equation.DSMT4  ．
+……
+一般地，第 EMBED Equation.DSMT4  个三角形与前面 EMBED Equation.DSMT4  个三角形最多有 EMBED Equation.DSMT4  个交点，从而平面也增加 EMBED Equation.DSMT4  个部分，故 EMBED Equation.DSMT4  ；
+特别地，当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  个三角形最多把平面分成 EMBED Equation.DSMT4  个部分．
+【答案】 EMBED Equation.DSMT4  
+
+一个长方形把平面分成两部分，那么3个长方形最多把平面分成多少部分？
+【考点】计数之归纳法  【难度】4星   【题型】解答
+ INCLUDEPICTURE "http://www.aoshucn.cn/UploadFile/2004-12/20041217154422257.gif" \* MERGEFORMATINET 
+一个长方形把平面分成两部分．第二个长方形的每一条边至多把第一个长方形的内部分成2部分，这样第一个长方形的内部至多被第二个长方形分成五部分．
+    　　同理，第二个长方形的内部至少被第一个长方形分成五部分．这两个长方形有公共部分(如下图，标有数字9的部分)．还有一个区域位于两个长方形外面，所以两个长方形至多把平面分成10部分．
+
+    　　第三个长方形的每一条边至多与前两个长方形中的每一个的两条边相交，故第一条边被隔成五条小线段，其中间的三条小线段中的每一条线段都把前两个长方形内部的某一部分一分为二，所以至多增加3×4=12个部分．而第三个长方形的4个顶点都在前两个长方形的外面，至多能增加4个部分．
+所以三个长方形最多能将平面分成10+12+4=26．
+【小结】 EMBED Equation.DSMT4  个图形最多可把平面分成部分数：
+直线： EMBED Equation.DSMT4  ；
+圆： EMBED Equation.DSMT4  ；
+三角形： EMBED Equation.DSMT4   ；
+长方形： EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+在平面上画5个圆和1条直线，最多可把平面分成多少部分?
+【考点】计数之归纳法  【难度】5星   【题型】解答
+先考虑圆．1个圆将平面分成2个部分．这时增加1个圆，这个圆与原有的1个圆最多有两个交点，成为2条弧，每条弧将平面的一部分一分为二，增加了2个部分，所以2个圆最多将平面分成4个部分．当有3个圆时，第3个圆与原有的2个产生4个交点而增加4个部分，所以3个圆最多将平面分成8个部分．
+同样的道理，5个圆最多将平面分成22个部分．
+再考虑直线．直线与每个圆最多有2个交点，这样与5个圆最多有10个交点．它们将直线分成11条线段或射线，而每条线段又将平面的一部分一分为二，2条射线增加了一部分，因此5个圆和1条直线最多可将平面分成32个部分．
+【答案】 EMBED Equation.DSMT4  
+
+在一个西瓜上切 EMBED Equation.DSMT4  刀，最多能将瓜皮切成多少片？
+【考点】计数之归纳法  【难度】4星   【题型】解答
+将西瓜看做一个球体，球体上任意一个切割面都是圆形，所以球面上的切割线是封闭的圆周，考虑每一次切割能增加多少瓜皮片．当切 EMBED Equation.DSMT4  刀时，瓜皮被切成两份，当切第 EMBED Equation.DSMT4  刀时，由于切割线相交，所以瓜皮被切成 EMBED Equation.DSMT4  分，……，切第 EMBED Equation.DSMT4  次时，新增加的切割线与原来的切割线最多有 EMBED Equation.DSMT4  个交点．这些交点将第 EMBED Equation.DSMT4  条切割线分成 EMBED Equation.DSMT4  段，也就是说新增加的切割线使瓜皮数量增加了 EMBED Equation.DSMT4  ，所以在西瓜上切 EMBED Equation.DSMT4  刀，最多能将瓜皮切成 EMBED Equation.DSMT4  片．
+【答案】 EMBED Equation.DSMT4  
+
+在一大块面包上切 EMBED Equation.DSMT4  刀最多能将面包切成多少块．（注：面包是一个立体几何图形，切面可以是任何方向）
+【考点】计数之归纳法  【难度】5星   【题型】解答
+题目相当于 EMBED Equation.DSMT4  个平面能将空间划分为多少个部分．
+通过找规律来寻找递推关系，显然的 EMBED Equation.DSMT4  个平面能将空间划分成 EMBED Equation.DSMT4  块， EMBED Equation.DSMT4  个平面能将空间划分成 EMBED Equation.DSMT4   块， EMBED Equation.DSMT4  个平面能将空间划分成 EMBED Equation.DSMT4  个平面，当增加到第四个平面时，第四个平面这能将原来空间中的 EMBED Equation.DSMT4  个部分中的其中几个划分．如图：
+
+注意到第四个平面与其他三个平面相交形成3条直线，这三条直线将第四个平面分割成 EMBED Equation.DSMT4  个部分，而每一部分将原来三个平面划分的 EMBED Equation.DSMT4  个空间中的 EMBED Equation.DSMT4  个划分成两份，所以 EMBED Equation.DSMT4  个平面能将空间划分成 EMBED Equation.DSMT4  个部分．
+同样的第五个平面与前四个平面分别相交成 EMBED Equation.DSMT4  条直线，这四条直线能将第 EMBED Equation.DSMT4  个平面分割成 EMBED Equation.DSMT4  个部分，每一部分都划分原空间中的某一区域，所以第五个平面能使空间中的区域增加到 EMBED Equation.DSMT4  个部分．
+当增加到 EMBED Equation.DSMT4  个平面时，第六个平面共被划分成 EMBED Equation.DSMT4  个部分，所以第 EMBED Equation.DSMT4  个平面能将空间中的区块数增加到 EMBED Equation.DSMT4  个部分．
+所以 EMBED Equation.DSMT4  刀能将面包切成 EMBED Equation.DSMT4  块．
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+PAGE  
+
+
+7-6-1.计数之归纳法.题库	                         教师版                        page  PAGE 5 of  NUMPAGES 5
+
+
+
+7-6-1.计数之归纳法
+
+
+
+
+
+
+教学目标
+
+例题精讲
+
+
+

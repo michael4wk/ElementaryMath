@@ -1,0 +1,171 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+熟练掌握盈亏问题的本质.
+运用盈亏问题的解题方法解决一些生活实际问题．
+
+ SHAPE  \* MERGEFORMAT 
+
+盈亏问题的特点是问题中每一同类量都要出现两种不同的情况．分配不足时，称之为“亏”，分配有余称之为“盈”；还有些实际问题，是把一定数量的物品平均分给一定数量的人时，如果每人少分，则物品就有余(也就是盈)，如果每人多分，则物品就不足(也就是亏)，凡研究这一类算法的应用题叫做“盈亏问题”．
+    可以得出盈亏问题的基本关系式：
+(盈 EMBED Equation.DSMT4  亏) EMBED Equation.DSMT4  两次分得之差 EMBED Equation.DSMT4  人数或单位数
+(盈 EMBED Equation.DSMT4  盈) EMBED Equation.DSMT4  两次分得之差 EMBED Equation.DSMT4  人数或单位数
+(亏 EMBED Equation.DSMT4  亏) EMBED Equation.DSMT4  两次分得之差 EMBED Equation.DSMT4  人数或单位数
+物品数可由其中一种分法和人数求出.也有的问题两次都有余或两次都不足，不管哪种
+情况，都是属于按两个数的差求未知数的“盈亏问题”. 
+    注意：1.条件转换； 2.关系互换.
+
+模块一、利用条件关系转换解盈亏问题——转化被分配物质
+王老师给小朋友分苹果和桔子，苹果数是桔子数的2倍.桔子每人分3个，多4个；苹果每人分7个，少5个.问有多少个小朋友？多少个苹果和桔子？
+【考点】盈亏问题   【难度】3星   【题型】解答
+因为桔子每人分3个多4个，而苹果是桔子的2倍，因此苹果每人分6个就多8个.又已知苹果每人分7个少5个，所以应有（8+5）÷（6-5）=13（人）.
+苹果个数为13×7-5=86（个）.
+桔子数为 13×3+4=43（个）.
+答：有13个小朋友，86个苹果和43个桔子.
+【答案】 EMBED Equation.DSMT4  个小朋友，苹果 EMBED Equation.DSMT4  个，桔子 EMBED Equation.DSMT4  个
+
+学而思学校买来一批体育用品，羽毛球拍是乒乓球拍的2倍，分给同学们，每组分乒乓球拍5副，余乒乓球拍15副，每组分羽毛球拍14副，则差30副，问：学而思学校买来羽毛球拍、乒乓球拍各多少副？
+【考点】盈亏问题   【难度】3星   【题型】解答
+因为羽毛球拍是乒乓球拍的2倍，如果每次分羽毛球拍5×2=10（副），最后应余下15×2=30（副），因为14-5×2=4（副），分到最后还差30副，所以比每次分10副总共差30+30=60（副），所以有小组：60÷4=15（组），乒乓球拍有：5×15+15=90（副），羽毛球拍90×2=180（副）.
+【答案】羽毛球拍 EMBED Equation.DSMT4  副，乒乓球拍 EMBED Equation.DSMT4  副
+
+有若干个苹果和若干个梨.如果按每1个苹果配2个梨分堆，那么梨分完时还剩2个苹果；如果按每3个苹果配5个梨分堆，那么苹果分完时还剩1个梨.苹果和梨各有多少个? 
+【考点】盈亏问题   【难度】4星   【题型】解答
+容易看出这是一道盈亏应用题，但是盈亏总额与两次分配数之差很难找到.原因在于第一种方案是1个苹果“搭配”2个梨，第二种方案是3个苹果“搭配”5个梨.如果将这两种方案统一为1个苹果“搭配”若干个梨，那么问题就好解决了.将原题条件变为“1个苹果搭配2个梨，缺4个梨；1个苹果搭配5/3个梨，多1个梨”，此时盈亏总额为 EMBED Equation.DSMT4  (个)梨，两次分配数之差为 EMBED Equation.DSMT4  (个)梨.所以有苹果 EMBED Equation.DSMT4  (个)，有梨 EMBED Equation.DSMT4  (个).
+【答案】苹果 EMBED Equation.DSMT4  个，梨 EMBED Equation.DSMT4  个
+
+有若干梨和苹果，如果1个梨和3个苹果分成一堆，则多2个梨，如果2个梨和5个苹果分成一堆，则少2个苹果，则梨有         个，苹果有         个。
+【考点】盈亏问题   【难度】4星   【题型】填空
+【关键词】学而思杯，3年级，第11题
+ EMBED Equation.DSMT4  个梨， EMBED Equation.DSMT4  个苹果
+【答案】梨有 EMBED Equation.DSMT4  个，苹果有 EMBED Equation.DSMT4  个
+
+有红球和绿球若干个，如果按每组1个红球2个绿球分组，绿球恰好够用，但剩5个红球；如果按每组3个红球5个绿球分组，红球恰好够用，但剩5个绿球，则红球和绿球共有_____________个。
+【考点】盈亏问题   【难度】4星   【题型】填空
+【关键词】希望杯，五年级，二试，第14题
+设红球有a个，绿球有b个。在第一种分法中，(a-5)÷1=b÷2；在第二种分法中,（b-5）÷5=a÷3。解得：b=80,a=45.所以红球和绿球共有80+45=125个。
+【答案】 EMBED Equation.DSMT4  个
+
+有若干个苹果和梨，如果按1个苹果配3个梨分一堆，那么苹果分完时，还剩2个梨；如果按半个苹果配2个梨分一堆，那么梨分完时，还剩半个苹果.问梨有多少个？
+【考点】盈亏问题   【难度】4星   【题型】解答
+1个苹果配3个梨，多2个梨；半个苹果配2个梨，即1个苹果配4个梨，剩半个苹果，即少2个梨.苹果有：（2+2）÷（4-3）=4（个），梨有：3×4+2=14（个）.
+【答案】 EMBED Equation.DSMT4  个
+
+四(2)班在这次的班级评比中，获得了“全优班”的称号．为了奖励同学们，班主任刘老师买了一些铅笔和橡皮．刘老师把这些铅笔和橡皮分成一小堆一小堆，以便分给几位优秀学生．如果每堆有1块橡皮2支铅笔，铅笔分完时橡皮还剩5块；如果每堆有3块橡皮和5支铅笔，橡皮分完时还剩5支铅笔．那么，刘老师一共买了多少块橡皮?多少支铅笔?  
+【考点】盈亏问题   【难度】4星   【题型】解答
+如果增加10支铅笔，则按1块橡皮、2支铅笔正好分完；而按3块橡皮、5支铅笔分，则剩下10+5=15(支)铅笔，但如果按3块橡皮、6支铅笔分，则正好分完，可以分成：15÷(6—5)=15(堆)，所以，橡皮数为：15×3=45(块)，铅笔数为：15×6—10=80(支)．
+【答案】橡皮 EMBED Equation.DSMT4  支，铅笔 EMBED Equation.DSMT4  支
+
+小白兔和小灰兔各有若干只．如果5只小白兔和3只小灰兔放到一个笼子中，小白兔还多4只，小灰兔恰好放完；如果7只小白兔和3只小灰兔放到一个笼子中，小白兔恰好放完，小灰兔还多12只．那么小白兔和小灰兔共有多少只？
+【考点】盈亏问题   【难度】4星   【题型】解答
+“7只小白兔和3只小灰兔装一个笼子，小白兔恰好装完，小灰兔还多12只”说明小白兔少了12÷3×7＝28（只），这样原来笼子数有：（28＋4）÷（7－5）＝16（个），所以小白兔有16×5＋4＝84（只），小灰兔有16×3＝48（只），合起来有84＋48＝132（只）．
+【答案】 EMBED Equation.DSMT4  只
+
+幼儿园老师买了同样多的巧克力、奶糖和水果糖．她发给每个小朋友2块巧克力，7块奶糖和8块水果糖．发完后清点一下，水果糖还剩15块，而巧克力恰好是奶糖的3倍．那么共有_____________个小朋友．
+【考点】盈亏问题   【难度】5星   【题型】填空
+【关键词】迎春杯，中年级组，复试题
+方法一：画线段图分析，由题意知：
+
+从奶糖的7份中取2份，那么剩下的5份就和上面的2小段相等．如图：
+
+那么2小段和5份都看成10份量，那么总量就相当于19份量，水果糖中原有的8份就是现在的16份，则剩下的15块水果糖就占有3份，则1份就是5块，给小朋友们分出去的水果糖数量是： EMBED Equation.DSMT4  （块），小朋友的人数是： EMBED Equation.DSMT4  （人）．
+方法二：由上图知，设发完后奶糖剩下 EMBED Equation.DSMT4  份，则巧克力剩下 EMBED Equation.DSMT4  份，而巧克力与奶糖每人分得相差 EMBED Equation.DSMT4  块，对应剩下的糖相差 EMBED Equation.DSMT4  份，水果糖与奶糖每人分得相差 EMBED Equation.DSMT4  块，则对应剩下的糖应相差 EMBED Equation.DSMT4  份，所以水果糖最后应剩下 EMBED Equation.DSMT4  份，恰是 EMBED Equation.DSMT4  块，所以1份对应的是 EMBED Equation.DSMT4  ，所以应用盈亏问题共有 EMBED Equation.DSMT4  （人）．
+【答案】 EMBED Equation.DSMT4  人
+模块二、盈亏问题的综合运用
+“六一”儿童节，小明到商店买了一盒花球和一盒白球，两盒内的球的数量相等．花球原价1元钱2个，白球原价1元钱3个．因节日商店优惠销售，两种球的售价都是2元钱5个，结果小明少花了4元钱，那么小明共买了多少个球？
+【考点】盈亏问题   【难度】4星   【题型】解答
+花球原价1元钱2个，白球原价1元钱3个．即花球原价10元钱20个，白球原价10元钱30个．那么，同样买花球和白球各30个，花球要比白球多花 EMBED Equation.DSMT4  （元），共需要 EMBED Equation.DSMT4  （元）．现在两种球的售价都是2元钱5个，花球和白球各买30个需要 EMBED Equation.DSMT4  （元），说明花球和白球各买30个能省下 EMBED Equation.DSMT4  （元）．现在共省了4元，说明花球和白球各有 EMBED Equation.DSMT4  （个），共买了 EMBED Equation.DSMT4  （个）．
+【答案】 EMBED Equation.DSMT4  个
+
+一盒咖啡中有若干袋，一包方糖中有若干块．小唐喝前两盒咖啡时每袋咖啡都放3块方糖，结果共用了1包方糖和第2包中的24块；小唐喝后三盒咖啡时每袋咖啡都只放1块方糖，最后第3包方糖还剩下36块，那么每盒咖啡有多少袋？
+【考点】盈亏问题   【难度】5星   【题型】解答
+小唐喝前2盒咖啡，每袋放3块糖，相当于喝6盒咖啡每袋放1块糖；
+小唐喝后3盒咖啡，每袋放1块糖，所以喝后3盒用掉的方糖总量是前2盒用掉方糖量的一半．
+小唐喝前2盒咖啡一共用掉方糖一包又24块，
+喝后3盒咖啡用掉方糖一包差12块，
+因此一包又24块方糖与两包差24块方糖一样多，一包方糖有 EMBED Equation.DSMT4  （块）．
+于是喝前两盒咖啡用掉方糖 EMBED Equation.DSMT4  （块），每盒咖啡的袋数为： EMBED Equation.DSMT4  （袋）．
+【答案】 EMBED Equation.DSMT4  袋
+
+巧克力每盒 EMBED Equation.DSMT4  块，软糖每盒 EMBED Equation.DSMT4  块，要把这两种糖分发给一些小朋友，每种糖每人一块，由于又来了一位小朋友，软糖就要增加一盒，两种糖分发的盒数就一样多，现在又来了一位小朋友，巧克力还要增加一盒，则最后共有多少个小朋友？
+【考点】盈亏问题   【难度】5星   【题型】解答
+新来了一位小朋友，就要增加一盒软糖，说明在此之前，软糖应该是刚好分完几整盒，所以原来的小朋友人数是 EMBED Equation.DSMT4  的倍数．增加了第二位小朋友之后，巧克力糖也要再来一盒了，说明原有的小朋友分几整盒巧克力糖之后还剩下一块，也就是说，原有的小朋友人数是9的倍数减 EMBED Equation.DSMT4  ．符合这两个条件的最小的数是 EMBED Equation.DSMT4  ，而且它刚好满足原有的巧克力比软糖多一盒的条件，所以原有 EMBED Equation.DSMT4  个小朋友，最后有 EMBED Equation.DSMT4  个小朋友．
+【答案】 EMBED Equation.DSMT4  个小朋友
+
+有48本书分给两组小朋友，已知第二组比第一组多5人．如果把书全部分给第一组，那么每人4本，有剩余；每人5本，书不够．如果把书全分给第二组，那么每人3本，有剩余；每人4本，书不够．问第二组有多少人？
+【考点】盈亏问题   【难度】5星   【题型】解答
+如果把书全部分给第一组，那么每人4本，有剩余；每人5本，书不够．说明第一组人数少于 EMBED Equation.DSMT4  （人），多于 EMBED Equation.DSMT4  ，即9人；如果把书全分给第二组，那么每人3本，有剩余；每人4本，书不够．说明第二组人数少于 EMBED Equation.DSMT4  （人），多于 EMBED Equation.DSMT4  （人）；因为已知第二组比第一组多5人，所以，第一组只能是10人，第二组15人．
+【答案】 EMBED Equation.DSMT4  人
+
+有若干盒卡片分给一些小朋友，如果只分一盒，每人至少可以得到7张；如果每人分8张卡片，则还缺少5张．现在把所有卡片都分完，每人分到60张，而且还多出4张．问：共有多少个小朋友？
+【考点】盈亏问题   【难度】5星   【题型】解答
+首先由题意，一盒卡片每人分7张则有剩余，每人分8张则少5张，证明总人数多于5个．
+如果一共有7盒卡片，则所有人每人要想分到 EMBED Equation.DSMT4  （张）卡片，还缺35张，卡片张数比题中所述要少．
+如果一共有9盒卡片，则只要再添上 EMBED Equation.DSMT4  （张）卡片，就能使所有人每人分到 EMBED Equation.DSMT4  （张），人数为 EMBED Equation.DSMT4  ，不满足总人数多于5个的要求．
+类似地，当卡片总盒数多于9时，都不满足总人数多于5个的要求．
+因此卡片一共有8盒，添上 EMBED Equation.DSMT4  （张）卡片，就能使所有人每人分到 EMBED Equation.DSMT4  （张），所以总人数为： EMBED Equation.DSMT4  （人）．
+(二解) EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，说明卡片的盒数是8盒，“若都分8张则还缺少5张”，即如果我们在每盒中加5张（8盒共加40张），每人就可以得到 EMBED Equation.DSMT4  （张），现在实际每人得到60张，即每人需要退出4张，其中要有4张是每人60张后多下来的，还有40张是我们一开始借来的要还出去，即要退出44张， EMBED Equation.DSMT4  （人），说明有11人．
+【答案】 EMBED Equation.DSMT4  个小朋友
+
+一班和二班的学生一起出去划船，要求一班和二班的学生不能坐同一艘船，但每船都按要求尽量坐满，如果7人一船，则共需15船；如果要求8人一船，则恰好全部坐满；如果要求10人一船，则一班比二班多3船，那么一班和二班分别有_____、______人.  
+【考点】盈亏问题   【难度】5星   【题型】填空
+【关键词】学而思杯，5年级，第13题
+8人一船，则恰好全部坐满，那么两班人数都是8的倍数；10人一船，则一班比二班多3船，说明一班比二班人多. 7人一船，肯定也是一班船多，多的数目也是3左右. 由于两班船和是15，是奇数，所以差也应该是奇数. 下面我们按照差分别是1，3，5分别讨论. 
+
+发现在船数差3和差5的时候，会出现10人每船时差3的情况，但是第一种一班人数没有8的倍数，所以取第二种情况，一班64人，二班32人.
+【答案】一班64人，二班32人.
+
+幼儿园有三个班，甲班比乙班多 EMBED Equation.DSMT4  人，乙班比丙班多 EMBED Equation.DSMT4  人，老师给小孩分枣，甲班每个小孩比乙班每个小孩少分 EMBED Equation.DSMT4  个枣，乙班每个小孩比丙班每个小孩少分 EMBED Equation.DSMT4  个枣，结果甲班比乙班共多分 EMBED Equation.DSMT4  个枣，乙班比丙班总共多分 EMBED Equation.DSMT4  个枣．问：三个班总共分了多少个枣？
+【考点】盈亏问题   【难度】6星   【题型】解答
+设丙班有 EMBED Equation.DSMT4  个小孩，那么乙班就有 EMBED Equation.DSMT4  个小孩，甲班有 EMBED Equation.DSMT4  个小孩．
+乙班每个小孩比丙班每个小孩少分 EMBED Equation.DSMT4  个枣，那么 EMBED Equation.DSMT4  个小孩就少分 EMBED Equation.DSMT4  个枣，而乙班比丙班总共多分 EMBED Equation.DSMT4  个枣，所以多出来的那 EMBED Equation.DSMT4  个小孩分了 EMBED Equation.DSMT4  个枣．
+        同样的道理，甲班每个小孩比乙班每个小孩少分 EMBED Equation.DSMT4  个枣，那么 EMBED Equation.DSMT4  个小孩就少分 EMBED Equation.DSMT4  个枣，而甲班比乙班总共多分 EMBED Equation.DSMT4  个枣，所以多出来的那 EMBED Equation.DSMT4  个小孩分了 EMBED Equation.DSMT4  个枣．
+甲班每个小孩比乙班每个小孩少分 EMBED Equation.DSMT4  个枣， EMBED Equation.DSMT4  个小孩就少 EMBED Equation.DSMT4  个枣，因此我们得到： EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  ．
+        所以，丙班有 EMBED Equation.DSMT4  个小朋友，乙班有 EMBED Equation.DSMT4  个小朋友，甲班有 EMBED Equation.DSMT4  个小朋友；甲班每人分 EMBED Equation.DSMT4  个枣，乙班每人分 EMBED Equation.DSMT4  个枣，丙班每人分 EMBED Equation.DSMT4  个枣．—共分了 EMBED Equation.DSMT4  （个）枣．
+【答案】 EMBED Equation.DSMT4  个
+
+动物园里猩猩比狒狒多，猴子比猩猩多。一天，饲养员拿了10箱香蕉分给它们。每只猩猩比每只狒狒多分1根，每只猴子比每只猩猩多分1根。分完后，只剩下2根香蕉。如果每箱香蕉数量相同，都是40多个，而且猴子比狒狒多6只，猩猩16只。那么，动物园里有_______________只猴子。
+ 18            B.  19              C.  20            D.  17
+【考点】盈亏问题   【难度】6星   【题型】选择
+【关键词】迎春杯，中年级组，复试，8题
+ EMBED Equation.DSMT4  ，由题意知，共吃了香蕉 EMBED Equation.DSMT4  根，且个位数是 EMBED Equation.DSMT4  。设有猴子 EMBED Equation.DSMT4  只，则有狒狒 EMBED Equation.DSMT4  只。因为猩猩的数量介于猴子与狒狒之间，所以 EMBED Equation.DSMT4  ≤ EMBED Equation.DSMT4  ≤ EMBED Equation.DSMT4  。再设每只猴子吃了 EMBED Equation.DSMT4  根香蕉，则每只猩猩吃了 EMBED Equation.DSMT4  根，每只狒狒吃了 EMBED Equation.DSMT4  根。共吃香蕉
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  。 EMBED Equation.DSMT4  的个位数是8，且 EMBED Equation.DSMT4  ≤ EMBED Equation.DSMT4  ≤ EMBED Equation.DSMT4  
+若 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  。 EMBED Equation.DSMT4  的个位只能是 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，不满足 EMBED Equation.DSMT4  ；
+若 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  。 EMBED Equation.DSMT4  的个位只能是 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，不满足 EMBED Equation.DSMT4  ；
+若 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  。 EMBED Equation.DSMT4  的个位只能是 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ，符合题意；
+同理， EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  都不符合题意。
+所以有猴子 EMBED Equation.DSMT4  只。
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+6-1-7.盈亏问题（三）.题库	                         教师版                          page  PAGE 5 of  NUMPAGES 5
+
+
+
+6-1-7.盈亏问题（三）
+
+教学目标
+
+知识精讲
+
+
+

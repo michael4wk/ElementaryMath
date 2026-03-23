@@ -1,0 +1,94 @@
+{
+    "auth_enabled": true,
+    "api_keys": [
+        {
+            "name": "dev-full",
+            "key": "dev-key-001",
+            "enabled": true,
+            "not_before": "",
+            "not_after": "",
+            "allow_all": true,
+            "allow_prefixes": [],
+            "allow_audiences": []
+        },
+        {
+            "name": "readonly-teacher",
+            "key": "readonly-key-001",
+            "enabled": true,
+            "not_before": "",
+            "not_after": "",
+            "allow_all": false,
+            "allow_prefixes": [
+                "/health",
+                "/topics",
+                "/problems",
+                "/catalog",
+                "/auth"
+            ],
+            "allow_audiences": [
+                "teacher"
+            ]
+        },
+        {
+            "name": "disabled-sample",
+            "key": "disabled-key-001",
+            "enabled": false,
+            "not_before": "",
+            "not_after": "",
+            "allow_all": true,
+            "allow_prefixes": [],
+            "allow_audiences": []
+        },
+        {
+            "name": "revoked-sample",
+            "key": "revoked-key-001",
+            "enabled": true,
+            "not_before": "",
+            "not_after": "",
+            "allow_all": true,
+            "allow_prefixes": [],
+            "allow_audiences": []
+        },
+        {
+            "name": "rotate-old",
+            "key": "rotate-old-001",
+            "enabled": false,
+            "not_before": "",
+            "not_after": "",
+            "allow_all": true,
+            "allow_prefixes": [],
+            "allow_audiences": []
+        },
+        {
+            "name": "rotate-new",
+            "key": "rotate-new-001",
+            "enabled": true,
+            "not_before": "",
+            "not_after": "",
+            "allow_all": true,
+            "allow_prefixes": [],
+            "allow_audiences": []
+        }
+    ],
+    "rotation_groups": [
+        {
+            "name": "core-search-key",
+            "old_key": "rotate-old-001",
+            "new_key": "rotate-new-001",
+            "phase": "retire"
+        }
+    ],
+    "revoked_keys": [
+        {
+            "key": "revoked-key-001",
+            "reason": "manual_revoke"
+        }
+    ],
+    "rotation_gate": {
+        "min_consecutive_ok": 2,
+        "require_rotation_check_ok": true
+    },
+    "public_paths": [
+        "/health"
+    ]
+}

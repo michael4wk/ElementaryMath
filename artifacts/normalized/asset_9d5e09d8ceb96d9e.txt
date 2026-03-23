@@ -1,0 +1,681 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+本讲主要通过求一些不规则图形的面积，体会一种转化思想，重点在于把不规则图形转化为规则图形的方法，包括平移、旋转、割补、差不变原理，通过这些方法的学习，让学生体会求面积的技巧，提高学生的观察能力、动手操作能力、综合运用能力．
+
+你有什么好的方法计算所给图形的面积呢？(单位：厘米)
+
+        　　　　 　　　　　　　 图1            　　  图2            　  图3
+
+
+
+
+【巩固】如图是学校操场一角，请计算它的面积(单位：米)
+
+
+
+
+
+
+【巩固】如右图所示，图中的 EMBED Equation.DSMT4  是由一个长方形 EMBED Equation.DSMT4  及一个正方形 EMBED Equation.DSMT4  拼成的，线段的长度如图所示(单位：厘米)，求 EMBED Equation.DSMT4  的周长和面积．
+      
+
+
+
+
+
+【巩固】求图中五边形的面积．
+
+
+
+
+
+
+这是一个楼梯的截面图，高280厘米，每级台阶的宽和高都是20 厘米．问，此楼梯截面的面积是多少？
+                                 
+
+
+
+
+
+
+【巩固】如图是一个楼梯的截面图，每级台阶的宽和高都是20厘米．这楼梯的截面积是多少平方厘米？
+           
+
+
+
+
+
+有一块菜地长 EMBED Equation.DSMT4  米，宽 EMBED Equation.DSMT4  米，菜地中间留了宽 EMBED Equation.DSMT4  米的路，把菜地平均分成四块，每一块地的面积是多少？
+    
+
+
+
+
+
+
+
+有10张长3厘米，宽2厘米的纸片，将它们按照下图的样子摆放在桌面上，那么这10张纸片所盖住的桌面的面积是多少平方厘米？
+
+
+
+
+
+
+下图(单位：厘米)是两个相同的直角梯形重叠在一起，求阴影部分的面积.
+     
+
+
+
+
+
+【巩固】两个相同的直角三角形如下图所示(单位：厘米)重叠在一起，求阴影部分的面积.
+
+
+
+
+
+如图，李大伯给一块长方形田地喷药，喷药器所能喷洒的范围是以李大伯的落脚点为中心，边长2米的正方形区域，他从图中的 EMBED Equation.DSMT4  点出发，沿最短路线(图中虚线)走，走过88米到达 EMBED Equation.DSMT4  点，恰好把这块田地全部喷完，这块田地的面积是多少平方米？
+
+右图中甲的面积比乙的面积大__________平方厘米．
+
+
+
+
+右图中，矩形 EMBED Equation.DSMT4  的边 EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  厘米， EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  厘米，三角形 EMBED Equation.DSMT4  比三角形 EMBED Equation.DSMT4  的面积大 EMBED Equation.DSMT4  平方厘米，求 EMBED Equation.DSMT4  的长．
+
+
+
+
+
+
+【巩固】如图所示， EMBED Equation.DSMT4  厘米， EMBED Equation.DSMT4  比 EMBED Equation.DSMT4  的面积小 EMBED Equation.DSMT4  平方厘米，求 EMBED Equation.DSMT4  的长为多少厘米？
+
+
+
+
+
+【巩固】如图，平行四边形ABCD种， EMBED Equation.DSMT4  ，直角三角形ECB的边 EMBED Equation.DSMT4  ，已知阴影部分的总面积比三角形EFG的面积大 EMBED Equation.DSMT4  ，求平行四边形ABCD的面积．
+
+
+
+
+
+
+
+如图，ABCD是 EMBED Equation.DSMT4  的长方形，DEFG是 EMBED Equation.DSMT4  的长方形，求 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的面积差．
+      
+
+
+
+
+
+
+有一个长方形菜园，如果把宽改成50米，长不变，那么它的面积减少680平方米，如果使宽为60米，长不变，那么它的面积比原来增加2720平方米，原来的长和宽各是多少米？
+
+
+
+
+
+
+【巩固】有一个长方形，如果宽减少 EMBED Equation.DSMT4  米，或长减少3米，则面积均减少 EMBED Equation.DSMT4  平方米，求这个长方形的面积？
+             
+
+
+
+
+
+一块长方形铁板，长15分米，宽12分米，如果长和宽各减少2分米，面积比原来减少多少平方分米？
+
+
+
+
+
+一个长方形，如果长减少5厘米，宽减少2厘米，那么面积就减少66平方厘米，这时剩下的部分恰好成为一个正方形，求原来长方形的面积？
+
+
+
+
+
+【巩固】一块长方形纸片，在长边剪去 EMBED Equation.DSMT4  ，宽边剪去 EMBED Equation.DSMT4  后(如图)，得到的正方形面积比原长方形面积少 EMBED Equation.DSMT4  ．求原长方形纸片的面积．
+    
+
+
+
+
+
+【巩固】一个正方形，如果把它的相邻两边都增加6厘米，就可以得到一个新正方形，新正方形的面积比原正方形大120平方厘米．求原正方形的面积？
+    
+
+
+
+
+
+
+一块正方形的钢板，先截去一个宽5分米的长方形，又截去一个宽8分米的长方形(如图)，面积就比原来正方形减少181平方分米．原正方形的边长是多少分米？
+
+
+
+
+
+
+【巩固】一张长方形纸片，先把长剪去8厘米，这时面积减少了72平方厘米，又把宽剪去5厘米，这时面积又减少了60平方厘米，原来这张长方形纸片的面积是多少平方厘米？
+
+
+
+
+
+【巩固】如右图所示，在一个正方形上先截去宽 EMBED Equation.DSMT4  分米的长方形，再截去宽 EMBED Equation.DSMT4  分米的长方形，所得图形的面积比原正方形减少 EMBED Equation.DSMT4  平方分米．原正方形的边长是______分米．
+     
+
+
+
+
+
+如图长方形被分成两部分，已知阴影面积比空白部分面积大 EMBED Equation.DSMT4  平方厘米，求阴影部分的面积．
+
+
+
+
+
+
+一张长方形纸片，把它的右上角往下折叠(如图甲)，阴影部分面积占原纸片面积的 EMBED Equation.DSMT4  ；再把左下角往上折叠(如图乙)，乙图中阴影部分面积占原纸片面积的________(答案用分数表示)．
+                     
+
+
+
+
+
+
+
+【巩固】折叠后，原平行四边形面积是折叠后图形面积的 EMBED Equation.DSMT4  倍．已知阴影部分面积之和为 EMBED Equation.DSMT4  ，则重叠部分(即空白部分)的面积是多少？
+    
+
+
+
+
+
+
+【巩固】如图，一张长方形纸片，长7厘米，宽5厘米．把它的右上角往下折叠，再把左下角往上折叠，未盖住的阴影部分的面积是多少平方厘米？
+
+
+
+
+
+
+如图，大正方形的边长为10厘米．连接大正方形的各边中点得小正方形，将小正方形每边三等分，再将三等分点与大正方形的中心和一个顶点相连，那么图中阴影部分的面积总和等于多少平方厘米？
+
+
+
+
+
+
+如图所示，直角三角形中有一个长方形，求长方形的面积？
+   
+
+
+
+
+
+
+
+一个边长为20厘米的正方形，依次连接四边中点得到第二个正方形，这样继续下去可得到第三个、第四个、第五个正方形．求第五个正方形的面积？
+          
+
+
+
+
+
+【巩固】如图是由 EMBED Equation.DSMT4  个大小不同的正方形叠放而成的，如果最小的正方形(阴影部分)的周长是 EMBED Equation.DSMT4  ，那么最大的正方形的边长是        ．
+
+
+
+
+
+
+【巩固】图中有 EMBED Equation.DSMT4  个正方形，较小的正方形都由较大的正方形的 EMBED Equation.DSMT4  边中点连接而成．已知最大的正方形的边长为 EMBED Equation.DSMT4  厘米，那么最小的正方形的面积等于多少平方厘米？
+
+
+
+
+
+
+已知图中大正方形的面积是22平方厘米，小正方形面积是多少平方厘米？
+    
+
+
+
+
+
+
+
+【巩固】如图所示，外侧大正方形的边长是 EMBED Equation.DSMT4  ，在里面画两条对角线、一个圆、两个正方形，阴影的总面积为 EMBED Equation.DSMT4  ，最小的正方形的边长为多少厘米？
+　　　　　　
+
+
+
+
+
+有一个边长为16厘米的正方形，连接每边的中点构成第二个正方形，再连接每边的中点构成第三个正方形，第四个正方形．求图中阴影部分的面积？
+
+
+
+
+
+
+
+如图，边长为  EMBED Equation.DSMT4  的正方形中有一等宽的十字，其面积(阴影部分)为 EMBED Equation.DSMT4  ，则十字中央的小正方形面积为        ．
+     
+
+
+
+
+
+
+下图大小两个正方形有一部分重合，两块没有重合的阴影部分面积相差是多少？(单位：厘米)
+
+
+
+
+【巩固】如图所示，四个相叠的正方形，边长分别是5、7、9、11.问灰色区与黑色区的面积的差是多少？
+
+
+
+
+
+
+
+甲、乙、丙三个正方形，它们的边长分别是6、8、10厘米，乙的一个顶点在甲的中心上，丙的一个顶点在乙的中心上．这三个正方形的覆盖面积是多少平方厘米？
+           
+
+
+
+
+
+【巩固】将20张边长为10厘米的正方形纸片，按顺序一张一张地摆放在地板上，摆的时候，要求后摆的纸片必须有一个顶点与前一张的中心重合，且每一张只与其前一张和后一张有重合部分(右图表示已经摆好的5张)．地板被这20张纸片所覆盖部分的面积是多少？
+
+
+
+
+
+有 EMBED Equation.DSMT4  个大小不同的正方形 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ．如下左图所示的那样，在将 EMBED Equation.DSMT4  正方形的对角线的交点与 EMBED Equation.DSMT4  正方形的一个顶点相重叠时，相重叠部分的面积为 EMBED Equation.DSMT4  正方形面积的 EMBED Equation.DSMT4  ．求 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的边长之比．如果当按下右图那样，将 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  反向重叠的话，所重叠部分的面积是 EMBED Equation.DSMT4  的几分之几？
+            
+              左图					  右图
+有一个正方形水池(图中阴影部分)，在它的周围修一个宽是8米的草地，草地的面积为480平方米，求水池的边长？
+　　　　
+
+
+
+
+【巩固】一块长方形草坪(图中阴影部分)长是宽的 EMBED Equation.DSMT4  倍，它的四周围的总面积是 EMBED Equation.DSMT4  平方米的1米宽的小路．求草坪的面积是多少平方米？
+         
+
+
+
+
+如图所示，一个长方形广场的正中央有一个长方形的水池．水池长 EMBED Equation.DSMT4  米、宽 EMBED Equation.DSMT4  米．水池周围用边长为 EMBED Equation.DSMT4  米的方砖一圈一圈地向外铺．恰好铺了若干圈，共用了 EMBED Equation.DSMT4  块方砖，那么共铺了        圈．
+
+
+
+
+
+
+
+用四个相同的长方形拼成一个面积为 EMBED Equation.DSMT4  的大正方形，每个长方形的周长是多少平方厘米？
+
+
+
+
+
+【巩固】如图所示， EMBED Equation.DSMT4  个相同的长方形和一个小正方形拼成一个大的正方形，大正方形的面积是 EMBED Equation.DSMT4  平方分米，小正方形的面积是 EMBED Equation.DSMT4  平方分米，求一个小长方形的面积及周长．
+
+
+
+
+四个完全相同的长方形拼成右图，大正方形的面积是l00平方分米，小正方形的面积是l6平方分米，求每个长方形的面积是多少？长方形的短边是多少分米？
+
+
+
+
+
+
+【巩固】如图， EMBED Equation.DSMT4  个相同的长方形和 EMBED Equation.DSMT4  个小正方形拼成一个大正方形，已知其中小正方形的面积为 EMBED Equation.DSMT4  平方厘米，大正方形的面积为 EMBED Equation.DSMT4  平方厘米，则其中长方形的长为        厘米，宽        厘米．
+
+
+
+
+
+
+街心花园里有一个正方形花坛，四周有一条宽1米的甬道(如图)，如果甬道的面积是12平方米，那么中间花坛的面积是多少平方米？
+             
+
+
+
+
+
+【巩固】在一个正方形的小花园周围，环绕着宽 EMBED Equation.DSMT4  米的水池，水池面积为 EMBED Equation.DSMT4  平方米，那么正方形花园的面积是多少平方米？
+        
+
+
+
+【巩固】有大、小两个长方形(如图)，对应边的距离均为 EMBED Equation.DSMT4  ，已知两个长方形之间部分的面积是 EMBED Equation.DSMT4  ，且小长方形的长是宽的 EMBED Equation.DSMT4  倍，求大长方形的面积．
+       
+
+
+
+
+
+已知大正方形比小正方形边长多4厘米，大正方形面积比小正方形面积大96平方厘米．问大、小正方形面积各是多少？
+    
+
+
+
+
+
+【巩固】两个正方形的面积相差 EMBED Equation.DSMT4  ，边长相差 EMBED Equation.DSMT4  ．求两个正方形的面积和．
+
+
+
+
+
+
+【巩固】有一大一小两个正方形，它们的周长相差20厘米，面积相差55平方厘米．小正方形的面积是多少平方厘米？
+
+
+
+在一个正方形中放入一个四个顶点与大正方形相接的一个小正方形(如图)，如果两个正方形的周长相差 EMBED Equation.DSMT4  厘米，面积相差 EMBED Equation.DSMT4  平方厘米，求小正方形的面积是多少平方厘米？
+            
+用两块长方形纸片和一块正方形纸片拼成一个大正方形，长方形纸片面积分别为 EMBED Equation.DSMT4  平方厘米与 EMBED Equation.DSMT4  平方厘米，原正方形纸片面积是多少平方厘米？
+
+
+
+
+
+计划修建一个正方形的花坛，并在花坛周围种上 EMBED Equation.DSMT4  米宽的草坪，草坪的面积为 EMBED Equation.DSMT4  平方米，那么修建这个花坛需要占地多少平方米？
+    
+
+
+
+
+
+【巩固】有大、小两个长方形(右图)，对应边的距离均为 EMBED Equation.DSMT4  厘米，已知两个长方形之间部分的面积是 EMBED Equation.DSMT4  平方厘米，且小长方形的长是宽的 EMBED Equation.DSMT4  倍，求大长方形的面积．
+    
+
+
+
+
+【巩固】一块长方形的草坪(见图中阴影部分)，长是宽的 EMBED Equation.DSMT4  倍，它的四周围的总面积是 EMBED Equation.DSMT4  平方米的 EMBED Equation.DSMT4  米宽的小路，求草坪的总面积是多少平方米？
+
+
+
+
+
+
+
+
+一块正方形的苗圃(如右图实线所示)，若将它的边长各增加 EMBED Equation.DSMT4  米(如图虚线所示)，则面积增加 EMBED Equation.DSMT4  平方米，问原来这块正方形苗圃的面积是多少平方米？
+
+
+
+
+从一块正方形的玻璃板上锯下宽为 EMBED Equation.DSMT4  米的一个长方形玻璃条后，剩下的长方形的面积为 EMBED Equation.DSMT4  平方米，请问锯下的长方形玻璃条的面积等于多少？
+
+
+
+
+
+
+【巩固】从一个正方形的木板上锯下宽 EMBED Equation.DSMT4 的一个长方形木条后，剩下的长方形面积为 EMBED Equation.DSMT4 ，问锯下的长方形木条面积是多少？
+           
+
+
+
+
+【巩固】从一块正方形木板锯下宽为 EMBED Equation.DSMT4  米的一个木条以后，剩下的面积是 EMBED Equation.DSMT4  平方米．问锯下的木条面积是多少平方米？
+
+
+
+
+
+
+
+图中，甲、乙两个正方形的边长的和是 EMBED Equation.DSMT4  厘米，甲正方形比乙正方形的面积大 EMBED Equation.DSMT4  平方厘米．求乙正方形的面积．
+
+
+
+
+
+
+
+
+有一大一小两块正方形试验田，他们的周长相差 EMBED Equation.DSMT4  米，面积相差 EMBED Equation.DSMT4  平方米，那么小正方形试验田的面积是多少平方米？
+    
+
+
+
+
+
+如图，边长是整数的四边形 EMBED Equation.DSMT4  的面积是48平方厘米，FB为8厘米．那么，正方形 EMBED Equation.DSMT4  的面积是          平方厘米．
+
+
+
+
+
+
+
+
+
+
+
+如图，一个正方形被分成4个小长方形，它们的面积分别是 EMBED Equation.DSMT4  平方米、 EMBED Equation.DSMT4  平方米、 EMBED Equation.DSMT4  平方米和 EMBED Equation.DSMT4  平方米．已知图中的阴影部分是正方形，那么它的面积是多少平方米？
+    
+
+
+
+
+
+长方形 EMBED Equation.DSMT4  的周长是 EMBED Equation.DSMT4  厘米，以这个长方形的每一条边为边长向外画正方形．已知这四个正方形的面积之和为 EMBED Equation.DSMT4  平方厘米，那么长方形 EMBED Equation.DSMT4  的面积是多少平方厘米？
+
+
+
+
+
+
+
+
+【巩固】如图，长方形 EMBED Equation.DSMT4  的周长是16厘米，在它的每一条边上各画一个以该边为边长的正方形，已知这四个正方形的面积和是68平方厘米，求长方形 EMBED Equation.DSMT4  的面积？
+           
+
+
+
+
+一条白色的正方形手帕，它的边长是18厘米，手帕上横竖各有二道黑条，黑条宽都是2厘米，这条手帕白色部分的面积是多少？
+　　　
+用同样大小的瓷砖铺一个正方形地面，两条对角线上铺黑色的，其它地方铺白色的，如图所示．如果铺满这块地面共用101块黑色瓷砖，那么白色瓷砖用了多少块？
+             　 　
+图１　　　　　  　　图2
+
+
+
+
+
+7个完全相同的长方形拼成了图中阴影部分，图中空白部分的面积是多少平方厘米？
+
+
+
+
+
+
+【巩固】如图所示，7个完全相同的长方形拼成了图中的阴影部分，图中空白部分的面积是多少平方厘米？
+　　　　
+
+
+
+
+如右图所示，在长方形 EMBED Equation.DSMT4  中，放入六个形状大小相同的长方形(尺寸如图)，图中阴影部分的面积是__________．
+
+
+若干同样大小的长方形小纸片摆成了如图所示的图形．已知小纸片的宽是12厘米，问阴影部分的总面积是多少平方厘米？
+
+
+
+
+
+
+一个大长方形若能分割成若干个大小不同的小正方形，则称为完美长方形．下面一个长方形是由9个小正方形组成的完美长方形．图中正方形 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  的边长分别是7厘米和4厘米，那么这个完美长方形的面积分别是多少平方厘米？
+　　
+
+
+
+
+
+【巩固】如图：有一个矩形可以被分割为 EMBED Equation.DSMT4  个正方形，其中最小的正方形(阴影部分)面积为 EMBED Equation.DSMT4  ，请问这个矩形之面积为多少平方厘米？
+
+
+
+
+【巩固】图中的长方形被分割成 EMBED Equation.DSMT4  个正方形，已知中央小正方形的面积是 EMBED Equation.DSMT4  平方厘米，求原来长方形的面积．
+
+
+
+
+
+【巩固】9个边长分别为1、4、7、8、9、10、14、15、18的正方形拼成一个长方形，问这个长方形的长和宽是多少？并请画出这个长方形的拼接图．
+
+
+
+
+
+图中数字分别表示两个长方形和一个直角三角形的面积，另一个三角形的面积是          ．
+          
+
+
+
+
+如图，一个矩形被分成八个小矩形，其中有五个矩形的面积如图中所示(单位：平方厘米)，问大矩形的面积是多少平方厘米？
+   
+
+
+
+
+
+
+
+
+【巩固】阳阳用四块小长方形恰好拼成了一个大的长方形，如图所示．现在知道其中三块长方形的面积分别为 EMBED Equation.DSMT4  平方厘米、 EMBED Equation.DSMT4  平方厘米、 EMBED Equation.DSMT4  平方厘米，那么，阴影部分的面积是多少？
+    
+
+
+【巩固】如图，矩形 EMBED Equation.DSMT4  被分割成9个小矩形．其中有5个小矩形的面积如图所示．矩形 EMBED Equation.DSMT4  的面积为          ．
+
+
+
+
+
+有红、黄、绿三块大小一样的正方形纸片，放在一个底面为正方形的盒内，它们之间相互叠合(见下图)．已知露在外面的部分中，红色面积是 EMBED Equation.DSMT4  ，黄色面积是 EMBED Equation.DSMT4  ，绿色面积是 EMBED Equation.DSMT4  ．求正方形盒底的面积．
+
+
+
+
+
+如图所示，在正方形 EMBED Equation.DSMT4  内，红色、绿色正方形的面积分别是 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，且红、绿两个正方形有一个顶点重合．黄色正方形的一个顶点位于红色正方形两条对角线的交点，另一个顶点位于绿色正方形两条对角线的交点．那么黄色正方形的面积是        ．
+    
+
+
+
+
+
+【巩固】如图所示，在正方形 EMBED Equation.DSMT4  中，红色，绿色正方形的面积分别是 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，且红、绿两个正方形有一个顶点重合.黄色正方形的一个顶点位于红色正方形两条对角线的交点，另一个顶点位于绿色正方形两条对角线的交点，求黄色正方形面积.
+
+如图，三个一样大小的正方形放在一个长方形的盒内，A和B是两个正方形的重叠部分，C、D、E是空出的部分，每一部分都是矩形，它们的面积比是A：B：C：D：E=1：2：3：4：5，那么这个长方形的长与宽之比是________．
+        
+
+
+
+
+
+
+如图如果长方形的面积为 EMBED Equation.DSMT4  平方厘米，且 EMBED Equation.DSMT4  厘米、 EMBED Equation.DSMT4  厘米、 EMBED Equation.DSMT4  厘米、 EMBED Equation.DSMT4  厘米，那么请你求出四边形 EMBED Equation.DSMT4  的面积是多少厘米？
+
+
+
+
+
+
+【巩固】长方形的广告牌长为10米，宽为8米， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  分别在四条边上，并且 EMBED Equation.DSMT4  比 EMBED Equation.DSMT4  低5米， EMBED Equation.DSMT4  在 EMBED Equation.DSMT4  的左边2米，四边形 EMBED Equation.DSMT4  的面积是        平方米．
+    
+
+
+直角三角形 EMBED Equation.DSMT4  的直角边为 EMBED Equation.DSMT4  厘米， EMBED Equation.DSMT4  厘米，问：图中三个正方形的面积之和比 EMBED Equation.DSMT4  个三角形的面积之和大多少？
+    
+如图所示，甲、乙、丙、丁四个长方形拼成一个正方形 EMBED Equation.DSMT4  ，中间阴影为正方形．已知甲、乙、丙、丁四个长方形面积的和是 EMBED Equation.DSMT4  ，四边形 EMBED Equation.DSMT4  的面积是 EMBED Equation.DSMT4  ．⑴求正方形 EMBED Equation.DSMT4  的边长？⑵求甲、乙、丙、丁四个长方形周长的总和？
+　　
+图 EMBED Equation.DSMT4  　　　　　　　　　　图 EMBED Equation.DSMT4  　　　　　　　　　图 EMBED Equation.DSMT4  
+
+
+
+
+
+如图，平面上 EMBED Equation.DSMT4  是正方形， EMBED Equation.DSMT4  是等腰梯形，它的上底 EMBED Equation.DSMT4  厘米，下底 EMBED Equation.DSMT4  厘米．求三角形 EMBED Equation.DSMT4  的面积．
+
+
+
+
+
+
+右图是由9个等边三角形拼成的六边形，已知中间最小的等边三角形的边长是1，问：这个六边形的周长是多少?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+把正三角形的每条边三等分，以各边的中间一段为边向外作小正三角形，得到一个六角形．再将这个六角形的六个”角”(即小正三角形)的两边三等分，又以它的中间段为边向外作更小的小正三角形，这样就得到如右图所示的图形．如果所作的最小的小正三角形的面积为 EMBED Equation.DSMT4  平方厘米，求如图中整个图形的面积．
+    
+
+
+
+
+
+
+如图，长方形的面积是小于100的数．它的内部有三个边长是整数的正方形．正方形②的边长是长方形长的 EMBED Equation.DSMT4  ，正方形①的边长是长方形宽的 EMBED Equation.DSMT4  ．那么，图中阴影部分的面积是          
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+教师寄语：拼一个春夏秋冬，换一生无怨无悔。
+
+
+
+
+4-2-6.不规则图形的面积
+
+例题精讲
+
+
+ PAGE  \* MERGEFORMAT 25
+
+
+

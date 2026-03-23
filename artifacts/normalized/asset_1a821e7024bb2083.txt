@@ -1,0 +1,180 @@
+ SHAPE \* MERGEFORMAT 
+
+ SHAPE \* MERGEFORMAT 
+
+本讲主要是通过一些速算技巧，培养学生的数感，并通过一些大数运算转化为简单运算，让学生感受学习的成就感，进而激发学生的学习兴趣
+ SHAPE \* MERGEFORMAT 
+一、运算定律
+⑴加法交换律： EMBED Equation.DSMT4  的等比数列求和
+⑵加法结合律： EMBED Equation.DSMT4  
+⑶乘法交换律： EMBED Equation.DSMT4  
+⑷乘法结合律： EMBED Equation.DSMT4   
+⑸乘法分配律： EMBED Equation.DSMT4  （反过来就是提取公因数）
+⑹减法的性质： EMBED Equation.DSMT4  
+⑺除法的性质： EMBED Equation.DSMT4  
+	            EMBED Equation.DSMT4  
+	            EMBED Equation.DSMT4  
+上面的这些运算律，既可以从左到右顺着用，又可以从右到左逆着用．
+二、要注意添括号或者去括号对运算符号的影响
+⑴在“ EMBED Equation.DSMT4  ”号后面添括号或者去括号，括号内的“ EMBED Equation.DSMT4  ”、“ EMBED Equation.DSMT4  ”号
+都不变；
+⑵在“ EMBED Equation.DSMT4  ”号后面添括号或者去括号，括号内的“ EMBED Equation.DSMT4  ”、“ EMBED Equation.DSMT4  ”号都
+改变，其中“ EMBED Equation.DSMT4  ”号变成“ EMBED Equation.DSMT4  ”号，“ EMBED Equation.DSMT4  ”号变成“ EMBED Equation.DSMT4  ”号；
+⑶在“ EMBED Equation.DSMT4  ”号后面添括号或者去括号，括号内的“ EMBED Equation.DSMT4  ”、“ EMBED Equation.DSMT4  ”号都
+不变，但此时括号内不能有加减运算，只能有乘除运算；
+⑷在“ EMBED Equation.DSMT4  ”号后面添括号或者去括号，括号内的“ EMBED Equation.DSMT4  ”、“ EMBED Equation.DSMT4  ”号
+都改变，其中“ EMBED Equation.DSMT4  ”号变成“ EMBED Equation.DSMT4  ”号，“ EMBED Equation.DSMT4  ”号变成“ EMBED Equation.DSMT4  ”号，
+但此时括号内不能有加减运算，只能有乘除运算．
+
+ SHAPE \* MERGEFORMAT 
+计算： EMBED Equation.DSMT4   
+
+
+
+
+计算： EMBED Equation.DSMT4         . 
+
+
+计算：2.009×43+20.09×2.9+200.9×0.28=         .
+
+
+
+计算： EMBED Equation.DSMT4  ． 
+
+
+
+计算： EMBED Equation.DSMT4  
+
+
+
+
+
+计算： EMBED Equation.DSMT4             .
+
+
+
+
+
+
+计算： EMBED Equation.DSMT4  
+
+
+
+
+
+
+计算： EMBED Equation.DSMT4          ．
+
+
+
+
+
+
+计算： EMBED Equation.DSMT4            ．
+
+
+
+
+计算： EMBED Equation.DSMT4  ＝           ．
+
+
+
+
+计算： EMBED Equation.DSMT4   
+
+
+
+
+计算： EMBED Equation.DSMT4   
+
+
+
+
+计算 EMBED Equation.DSMT4   
+
+
+
+
+计算： 7.816×1.45+3.14×2.184+1.69×7.816=_____。
+
+
+
+计算： EMBED Equation.DSMT4   
+
+
+
+
+计算：  EMBED Equation.DSMT4  
+
+
+
+
+
+计算⑴  EMBED Equation.DSMT4        ⑵  EMBED Equation.DSMT4  
+
+
+
+
+计算：  EMBED Equation.DSMT4  
+
+
+
+
+计算： EMBED Equation.DSMT4  
+
+
+
+
+ EMBED Equation.DSMT4  
+
+
+
+
+计算： EMBED Equation.DSMT4  ． 
+计算 EMBED Equation.DSMT4  
+
+
+
+
+
+⑴  EMBED Equation.DSMT4  
+⑵ ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )
+
+
+
+
+
+计算： EMBED Equation.DSMT4  ． 
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+1-1-1-1.小数四则混合运算（由K12教材中心【小学部】题库提供）	                教师版               page  PAGE 4 of  NUMPAGES 4
+
+
+
+小数四则混合运算综合
+
+教学目标
+
+
+知识点拨
+
+例题精讲
+
+
+

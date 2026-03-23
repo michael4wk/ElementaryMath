@@ -1,0 +1,349 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+熟悉鸡兔同笼的“砍足法”和“假设法”.
+利用鸡兔同笼的方法解决一些实际问题，需要把多个对象进行恰当组合以转化成两个对象．
+
+ SHAPE  \* MERGEFORMAT 
+一、鸡兔同笼
+这个问题，是我国古代著名趣题之一．大约在 EMBED Equation.DSMT4  年前，《孙子算经》中就记载了这个有趣的问题．书中是这样叙述的：“今有鸡兔同笼，上有三十五头，下有九十四足，问鸡兔各几何？这四句话的意思是：有若干只鸡兔同在一个笼子里，从上面数，有 EMBED Equation.DSMT4  个头；从下面数，有 EMBED Equation.DSMT4  只脚．求笼中各有几只鸡和兔？ 
+你会解答这个问题吗？你想知道《孙子算经》中是如何解答这个问题的吗？ 
+二、解鸡兔同笼的基本步骤
+解答思路是这样的：假如砍去每只鸡、每只兔一半的脚，则每只鸡就变成了“独脚鸡”，每只兔就变成了“双脚兔”．这样，鸡和兔的脚的总数就由 EMBED Equation.DSMT4  只变成了 EMBED Equation.DSMT4  只；如果笼子里有一只兔子，则脚的总数就比头的总数多 EMBED Equation.DSMT4  ．因此，脚的总只数 EMBED Equation.DSMT4  与总头数 EMBED Equation.DSMT4  的差，就是兔子的只数，即 EMBED Equation.DSMT4  （只）．显然，鸡的只数就是 EMBED Equation.DSMT4  （只）了． 
+这一思路新颖而奇特，其“砍足法”也令古今中外数学家赞叹不已．除此之外，“鸡兔同笼”问题的经典思路“假设法”．
+假设法顺口溜：鸡兔同笼很奥妙，用假设法能做到，假设里面全是鸡，算出共有几只脚，和脚总数做比较，做差除二兔找到．
+解鸡兔同笼问题的基本关系式是：
+如果假设全是兔，那么则有：
+　　    鸡数=（每只兔子脚数×鸡兔总数-实际脚数）÷（每只兔子脚数-每只鸡的脚数）
+　　    兔数=鸡兔总数-鸡数
+如果假设全是鸡，那么就有：
+　    　兔数=（实际脚数-每只鸡脚数×鸡兔总数）÷（每只兔子脚数-每只鸡的脚数）
+　    　鸡数=鸡兔总数-兔数
+当头数一样时，脚的关系：兔子是鸡的2倍
+当脚数一样时，头的关系：鸡是兔子的2倍
+在学习的过程中，注重假设法的运用，渗透假设法的重要性，在以后的专题中，如工程，行程，方程等专题中也都会接触到假设法
+
+ SHAPE  \* MERGEFORMAT 
+模块一、两个量的“鸡兔同笼”问题——鸡兔同笼问题
+鸡兔同笼，头共 EMBED Equation.DSMT4  ，足共 EMBED Equation.DSMT4  ，鸡兔各几只？
+【考点】鸡兔同笼问题   【难度】1星   【题型】解答
+【关键词】假设思想方法
+假设 EMBED Equation.DSMT4  只都是兔，一共应有 EMBED Equation.DSMT4  只脚，这和已知的 EMBED Equation.DSMT4  只脚相比多了 EMBED Equation.DSMT4  只脚，这是因为我们把鸡当成了兔子，如果把 EMBED Equation.DSMT4  只鸡当成 EMBED Equation.DSMT4  只兔，就要比实际多 EMBED Equation.DSMT4  （只）脚，那么 EMBED Equation.DSMT4  只脚是我们把 EMBED Equation.DSMT4  只鸡当成了兔子，所以鸡的只数就是 EMBED Equation.DSMT4  ，兔的只数是 EMBED Equation.DSMT4  （只）．当然，这里我们也可以假设 EMBED Equation.DSMT4  只全是鸡！鼓励学生从两个方面假设解题，更深一步理解假设法．
+【答案】鸡 EMBED Equation.DSMT4  只，兔 EMBED Equation.DSMT4  只
+
+点点家养了一些鸡和兔子，同时养在一个笼子里，点点数了数，它们共有 EMBED Equation.DSMT4  个头， EMBED Equation.DSMT4  只脚．问：点点家养的鸡和兔各有多少只？
+【考点】鸡兔同笼问题   【难度】1星   【题型】解答
+【关键词】假设思想方法
+方法一：我们假设，每只鸡都是“金鸡独立”，一只脚站着；而每只兔子都是两条后腿，像人一样用两只脚站着．现在，地面上出现的脚是总数的一半，也就是 EMBED Equation.DSMT4  (只)．在 EMBED Equation.DSMT4  这个数中，鸡的头数算了一次，兔子的头数相当于算了两次，因此从 EMBED Equation.DSMT4  减去总头数 EMBED Equation.DSMT4  ，剩下的就是兔子头数， EMBED Equation.DSMT4  (只)，所以有 EMBED Equation.DSMT4  只兔子，有 EMBED Equation.DSMT4  (只)鸡．
+方法二：假设 EMBED Equation.DSMT4  只都是兔子，那么就有 EMBED Equation.DSMT4  (只)脚，比 EMBED Equation.DSMT4  只脚多了 EMBED Equation.DSMT4  (只)．每只鸡比兔子少 EMBED Equation.DSMT4  (只)脚，那么共有鸡 EMBED Equation.DSMT4  (只)
+方法三：还可以假设 EMBED Equation.DSMT4  只都是鸡，那么共有脚 EMBED Equation.DSMT4  (只)，比 EMBED Equation.DSMT4  只脚少了 EMBED Equation.DSMT4  (只)脚，每只鸡比兔子少 EMBED Equation.DSMT4  (只)脚，那么共有兔子 EMBED Equation.DSMT4  (只)．	
+方法一可以归结为：总脚数 EMBED Equation.DSMT4  总头数 EMBED Equation.DSMT4  兔子数．能够这样算，主要是利用了兔和鸡的脚数分别为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，而且 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  的 EMBED Equation.DSMT4  倍．
+方法二说明假设的 EMBED Equation.DSMT4  只兔子中有 EMBED Equation.DSMT4  只不是兔子，而是鸡．由此可以列出公式：
+鸡数 EMBED Equation.DSMT4  (兔脚数 EMBED Equation.DSMT4  总头数 EMBED Equation.DSMT4  总脚数) EMBED Equation.DSMT4  (兔脚数 EMBED Equation.DSMT4  鸡脚数)
+方法三说明假设的 EMBED Equation.DSMT4  只鸡中有 EMBED Equation.DSMT4  只是兔．由此可以列出公式：
+兔数 EMBED Equation.DSMT4  (总脚数 EMBED Equation.DSMT4  鸡脚数 EMBED Equation.DSMT4  总头数) EMBED Equation.DSMT4  (兔脚数 EMBED Equation.DSMT4  鸡脚数)
+【答案】鸡 EMBED Equation.DSMT4  只，兔 EMBED Equation.DSMT4  只
+
+鸡兔共有 EMBED Equation.DSMT4  只，关在同一个笼子中．每只鸡有两条腿，每只兔子有四条腿，笼中共有 EMBED Equation.DSMT4  条腿．试计算，笼中有鸡多少只？兔子多少只？
+【考点】鸡兔同笼问题   【难度】1星   【题型】解答
+【关键词】假设思想方法
+⑴假设法：若假设所有的 EMBED Equation.DSMT4  只动物都是兔子，那么一共应该有 EMBED Equation.DSMT4  (条)腿，比实际多算 EMBED Equation.DSMT4  (条)腿．而每将一只鸡算做一只兔子会多算两条腿，所以有 EMBED Equation.DSMT4  (只)鸡被当作了兔子，所以共有 EMBED Equation.DSMT4  只鸡，有 EMBED Equation.DSMT4  (只)兔子．
+             注意：假设为兔子时，按照“多算的腿数”计算出的是鸡的数目；假设为鸡时，按照“少算的腿数”计算出的是兔子的数目．同学们可以自己来做一下当假设为鸡时的算法．
+       ⑵“金鸡独立”法（砍足法）：
+           假设所有的动物都只用一半的腿站立，这样就出现了鸡都变成了“金鸡独立”，而兔子们都只用两条腿站立的“奇观”．这样就有一个好处：鸡的腿数和头数一样多了；而每只兔子的腿数则会比头数多 EMBED Equation.DSMT4  ．因此，在腿的数目都变成原来的一半的时候，腿数比头数多多少，就有多少只兔子．原来有 EMBED Equation.DSMT4  只腿，让兔子都抬起两只腿，鸡抬起一只腿，则此时笼中有 EMBED Equation.DSMT4  (条)腿，比头数多 EMBED Equation.DSMT4  ，所以有 EMBED Equation.DSMT4  只兔子，另外 EMBED Equation.DSMT4  只是鸡．
+【答案】鸡 EMBED Equation.DSMT4  只，兔 EMBED Equation.DSMT4  只
+
+老虎和鸡共l0只，脚共26只．鸡（     ）只．
+【考点】鸡兔同笼问题   【难度】1星   【题型】填空
+【关键词】走美杯，3年级，初赛
+这属于鸡兔同笼问题，每只老虎有4只腿，每只鸡有2只腿。假设10只都是鸡，那么老虎的只数是：（26－2×10）÷（4-2）=3只，鸡有10-3=7（只）。
+【答案】鸡 EMBED Equation.DSMT4  只
+
+动物园里有一群鸵鸟和大象,它们共有 EMBED Equation.DSMT4  只眼睛和 EMBED Equation.DSMT4  只脚，问：鸵鸟和大象各有多少？
+【考点】鸡兔同笼问题   【难度】1星   【题型】解答
+【关键词】假设思想方法
+由于每只动物有两只眼睛，由题意知：动物园里鸵鸟和大象的总数为： EMBED Equation.DSMT4  ，假设鸵鸟和大象一样也有 EMBED Equation.DSMT4  只脚，则应该有 EMBED Equation.DSMT4  只脚，多了 EMBED Equation.DSMT4  只脚，由假设引起的差值： EMBED Equation.DSMT4  ，则鸵鸟数为 EMBED Equation.DSMT4  （只），大象数为 EMBED Equation.DSMT4  （头）．
+【答案】鸵鸟 EMBED Equation.DSMT4  只，大象 EMBED Equation.DSMT4  头
+
+一队猎手一队狗，两队并着一起走。数头一共一百六，数脚一共三百九，则有      名猎手，      只狗。
+【考点】鸡兔同笼问题   【难度】1星   【题型】填空
+【关键词】希望杯，4年级，1试
+如果全是猎手则有脚320个，多出的390-320=70个脚是狗多出来的，所以狗有70÷2=35条，猎手有160-35=125个.
+【答案】 EMBED Equation.DSMT4  个
+
+动物园里养了一些梅花鹿和鸵鸟，共有脚 EMBED Equation.DSMT4  只，鸵鸟比梅花鹿多 EMBED Equation.DSMT4  只，梅花鹿和鸵鸟各有多少只？
+【考点】鸡兔同笼问题   【难度】2星   【题型】解答
+【关键词】假设思想方法，整体思想
+假设梅花鹿和鸵鸟的只数相同，则从总脚数中减去鸵鸟多的 EMBED Equation.DSMT4  只的脚数得： EMBED Equation.DSMT4  　(只)．这 EMBED Equation.DSMT4  只脚是梅花鹿的脚数和鸵鸟的脚数(注意此时梅花鹿和鸵鸟的只数相同)脚数的和，一只梅花鹿和一只鸵鸟的脚数和是： EMBED Equation.DSMT4  (只)，所以梅花鹿的只数是： EMBED Equation.DSMT4  (只)，从而鸵鸟的只数是： EMBED Equation.DSMT4  (只) （本题也可给学生讲成“捆绑法”，一鸡一兔一组，这个怎么分组时有倍数关系得到的）
+【答案】梅花鹿 EMBED Equation.DSMT4  只，鸵鸟 EMBED Equation.DSMT4  只
+
+一个养殖园内，鸡比兔多36只，共有脚792只，鸡兔各几只？
+【考点】鸡兔同笼问题   【难度】2星   【题型】解答
+【关键词】假设思想方法，整体思想
+已知鸡比兔多36只，如果把多的36只鸡拿走，剩下的鸡兔只数就相等了，拿走的36只鸡有 EMBED Equation.DSMT4  （只）脚，可知现在剩下 EMBED Equation.DSMT4  （只）脚，一只鸡与一只兔有6只脚，那么兔有 EMBED Equation.DSMT4  （只），鸡有 EMBED Equation.DSMT4  （只）．
+【答案】兔有 EMBED Equation.DSMT4  只，鸡有 EMBED Equation.DSMT4  只。
+
+鸡、兔同笼，鸡比兔多 EMBED Equation.DSMT4  只，足数共 EMBED Equation.DSMT4  只，问鸡、兔各几只？
+【考点】鸡兔同笼问题   【难度】2星   【题型】解答
+【关键词】假设思想方法，整体思想
+这道例题是已知鸡、兔的脚数和，鸡比兔多的只数，求鸡、兔各几只．我们假设鸡与兔只数一样多，那么现在它们的足数一共有： EMBED Equation.DSMT4  （只），每一对鸡、兔共有足： EMBED Equation.DSMT4  （只），鸡兔共有对数（也就是兔子的只数）： EMBED Equation.DSMT4  （只），则鸡有 EMBED Equation.DSMT4  （只）．
+【答案】兔子 EMBED Equation.DSMT4  只，鸡有 EMBED Equation.DSMT4  只
+
+鸡兔同笼，鸡、兔共有 EMBED Equation.DSMT4  只，兔的脚数比鸡的脚数多 EMBED Equation.DSMT4  只，问鸡、兔各多少只？
+【考点】鸡兔同笼问题   【难度】2星   【题型】解答
+【关键词】假设思想方法，整体思想
+这道例题和前面的例题有所不同，前面的题是已知头数之和和脚数之和求各有几只，而这道题是已知头数之和和脚数之差，这样就比前面的例题增加了一点难度．我们用两种方法来解这道题．
+（方法一）考虑如果补上鸡脚少的 EMBED Equation.DSMT4  只的话，那么就要增加 EMBED Equation.DSMT4  （只）鸡．这样一来，鸡、兔共有 EMBED Equation.DSMT4  （只），这时鸡脚、兔脚一样多．
+已知一只鸡的脚数是一只兔的一半，而现在鸡脚、兔脚相同，可知鸡的只数是兔的 EMBED Equation.DSMT4  倍，根据和倍问题有：兔有： EMBED Equation.DSMT4  （只），鸡有： EMBED Equation.DSMT4  （只）或者 EMBED Equation.DSMT4  （只）
+（方法二）不妨假设 EMBED Equation.DSMT4  只都是兔，没有鸡，那么就有兔脚： EMBED Equation.DSMT4  （只），而鸡的脚数为零．这样兔脚比鸡脚多 EMBED Equation.DSMT4  只，而实际上只多 EMBED Equation.DSMT4  只，这说明假设的兔脚比鸡脚多的数比实际上多： EMBED Equation.DSMT4  （只）．现在以鸡换兔，每换一只，兔脚减少 EMBED Equation.DSMT4  只，鸡脚增加 EMBED Equation.DSMT4  只，即兔脚与鸡脚的总数差就会减少 EMBED Equation.DSMT4  （只）．鸡的只数： EMBED Equation.DSMT4  （只）兔的只数： EMBED Equation.DSMT4  （只）
+【答案】兔有 EMBED Equation.DSMT4  只，鸡有 EMBED Equation.DSMT4  只。
+
+鸡、兔共100只，鸡脚比兔脚多20只.问：鸡、兔各多少只?
+【考点】鸡兔同笼问题   【难度】2星   【题型】解答
+【关键词】假设思想方法，整体思想
+假设100只都是鸡，没有兔，那么就有鸡脚200只，而兔的脚数为零.这样鸡脚比兔脚多200只，而实际上只多20只，这说明假设的鸡脚比兔脚多的数比实际上多 EMBED Equation.DSMT4  (只).现在以兔换鸡，每换一只，鸡脚减少2只，兔脚增加4只，即鸡脚比兔脚多的脚数中就会减少 EMBED Equation.DSMT4  (只)，而 EMBED Equation.DSMT4  ，因此有兔子30只，鸡 EMBED Equation.DSMT4  (只).
+【答案】兔子30只，鸡 EMBED Equation.DSMT4  只.
+
+鸡、兔共 EMBED Equation.DSMT4  只，鸡脚比兔脚多 EMBED Equation.DSMT4  只．问：鸡、兔各多少只？
+【考点】鸡兔同笼问题   【难度】2星   【题型】解答
+【关键词】假设思想方法，整体思想
+假设 EMBED Equation.DSMT4  只都是鸡，没有兔，那么就有鸡脚 EMBED Equation.DSMT4  只，而兔的脚数为零．这样鸡脚比兔脚多 EMBED Equation.DSMT4  只，而实际上只多 EMBED Equation.DSMT4  只，这说明假设的鸡脚比兔脚多的数比实际上多 EMBED Equation.DSMT4  (只)．现在以兔换鸡，每换一只，鸡脚减少 EMBED Equation.DSMT4  只，兔脚增加 EMBED Equation.DSMT4  只，即鸡脚比兔脚多的脚数中就会减少 EMBED Equation.DSMT4  (只)，而 EMBED Equation.DSMT4  ，因此有兔子 EMBED Equation.DSMT4  只，鸡 EMBED Equation.DSMT4  (只)．
+【答案】兔子 EMBED Equation.DSMT4  只，鸡 EMBED Equation.DSMT4  只.
+
+鸡、兔共有27只，兔的脚比鸡的脚多18只。兔有     只。
+【考点】鸡兔同笼问题   【难度】2星   【题型】填空
+【关键词】假设思想方法，整体思想，2004年，第2届，走美杯，3年级，决赛
+如果27只都是兔，那么有108只脚，兔脚比鸡脚多108只，每用1只兔换1只鸡，兔脚与鸡脚的差将减少6只，所以有鸡 EMBED Equation.DSMT4  只，兔子12只。
+【答案】 EMBED Equation.DSMT4  只
+
+鸡与兔共100只,鸡的脚数比兔的脚数少28.问鸡与兔各几只 ？
+【考点】鸡兔同笼问题   【难度】2星   【题型】解答
+【关键词】假设思想方法，整体思想
+解一:假如再补上28只鸡脚,也就是再有鸡28÷2=14(只),鸡与兔脚数就相等,兔的脚是鸡的脚4÷2=2(倍),于是鸡的只数是兔的只数的2倍.
+兔的只数是 (100+28÷2)÷(2+1)=38(只). 鸡是100-38=62(只). 
+当然也可以去掉兔28÷4=7(只).兔的只数是 (100-28÷4)÷(2+1)+7=38(只). 
+也可以用任意假设一个数的办法. 
+解二:假设有50只鸡,就有兔100-50=50(只).此时脚数之差是
+4×50-2×50=100, 比28多了72.就说明假设的兔数多了(鸡数少了).为了保持总数是100,
+一只兔换成一只鸡,少了4只兔脚,多了2只鸡脚,相差为6只(千万注意,不是2).
+因此要减少的兔数是 (100-28)÷(4+2)=12(只). 兔只数是 50-12=38(只). 
+【答案】鸡是62只，兔是38只.
+
+每只完整的螃蟹有2只鳌、8只脚。现有一批螃蟹，共有25只鳌，120只脚。其中可能有多少缺鳌少脚的，但每只螃蟹至少保留1只鳌、4只脚。这批螃蟹最多有       只，至少有         只。
+【考点】鸡兔同笼问题   【难度】3星   【题型】填空
+【关键词】走美杯，3年级，初赛
+若要螃蟹尽量多，那么螃蟹的鳌和脚要尽量少，光看鳌的话，鳌最少为1，螃蟹最多为25只，只看脚的话，脚最少为4，螃蟹最多为 EMBED Equation.DSMT4  只，所以螃蟹最多为25只，同理若要螃蟹尽量少，那么螃蟹的鳌和脚要尽量多，光看鳌的话，鳌最多为2，螃蟹最少为 EMBED Equation.DSMT4  只，只看脚的话，脚最多为8，螃蟹最少为 EMBED Equation.DSMT4  只，所以螃蟹最少为13只。
+【答案】螃蟹最少 EMBED Equation.DSMT4  只，最多 EMBED Equation.DSMT4  只
+
+
+
+模块二、两个量的“鸡兔同笼”问题——变例
+在一个停车场上，现有车辆 EMBED Equation.DSMT4  辆，其中汽车有 EMBED Equation.DSMT4  个轮子，摩托车有 EMBED Equation.DSMT4  个轮子，这些车共有 EMBED Equation.DSMT4  个轮子，那么三轮摩托车有多少辆？
+【考点】鸡兔同笼问题   【难度】2星   【题型】解答
+【关键词】假设思想方法
+假设都是三轮摩托车，应有 EMBED Equation.DSMT4  (个)轮子，少了 EMBED Equation.DSMT4  (个)轮子．每把一辆汽车假设为三轮摩托车，会减少 EMBED Equation.DSMT4  (个)轮子．汽车有 EMBED Equation.DSMT4  (辆)；从而求出三轮摩托车有 EMBED Equation.DSMT4  (辆)．或者假设都是汽车，应有 EMBED Equation.DSMT4  (个)轮子，多了 EMBED Equation.DSMT4  (个)轮子；
+        所以摩托车有 EMBED Equation.DSMT4  (辆)．
+【答案】 EMBED Equation.DSMT4  辆
+
+某玩具店新购进飞机和汽车模型共30个，其中飞机模型每个有3个轮子，汽车模型每个有4个轮子，这些玩具模型共有 EMBED Equation.DSMT4  个轮子。则新购进的飞机模型有________个。
+【考点】鸡兔同笼问题   【难度】2星   【题型】填空
+【关键词】希望杯，五年级，一试，第17题
+假设30个模型都是汽车，那么就有30×4=120个轮子，少了120-110=10（个），每个飞机比汽车少1个轮子，那么有飞机模型：10÷1=10（个）
+【答案】 EMBED Equation.DSMT4  个
+
+体育老师买了运动服上衣和裤子共 EMBED Equation.DSMT4  件，共用了 EMBED Equation.DSMT4  元，其中上衣每件 EMBED Equation.DSMT4  元、裤子每件 EMBED Equation.DSMT4  元，问老师买上衣和裤子各多少件？
+【考点】鸡兔同笼问题   【难度】2星   【题型】解答
+【关键词】假设思想方法
+假设买的都是上衣，那么裤子的件数为： EMBED Equation.DSMT4  （件），上衣： EMBED Equation.DSMT4  （件）．
+ 【答案】裤子 EMBED Equation.DSMT4  件，上衣 EMBED Equation.DSMT4  件.
+
+100名学生参加社会实践，高年级学生两人一组，低年级学生三人一组，共有41组。问：高、低年级学生各多少人?
+【考点】鸡兔同笼问题   【难度】2星   【题型】解答
+【关键词】华杯赛，初赛，第8题
+如全为高年级学生，则只需41×2＝82（人），实际100人，100－82＝18（人），所以有18组低年级学生，41－18＝23组高年级学生，高年级学生为23×2＝46（人），低年级学生为18×3＝54（人）。
+【答案】高年级 EMBED Equation.DSMT4  人，低年级 EMBED Equation.DSMT4  人
+
+三( EMBED Equation.DSMT4  )班有象棋、飞行棋共 EMBED Equation.DSMT4  副，恰好可供全班 EMBED Equation.DSMT4  名同学同时进行活动．象棋要 EMBED Equation.DSMT4  人下一副，飞行棋要 EMBED Equation.DSMT4  人下一副，则飞行棋和象棋各有几副？
+【考点】鸡兔同笼问题   【难度】2星   【题型】解答
+【关键词】假设思想方法
+假设只有飞行棋，那么一共有 EMBED Equation.DSMT4  （名）同学参与活动，多出 EMBED Equation.DSMT4  （名）同学，多一副象棋，就会少 EMBED Equation.DSMT4  （名）同学，可知一共有 EMBED Equation.DSMT4  （副）象棋， EMBED Equation.DSMT4  （副）飞行棋．
+【答案】飞行棋 EMBED Equation.DSMT4  副，象棋 EMBED Equation.DSMT4  副
+
+某学校有30间宿舍，大宿舍每间住6人，小宿舍每间住4人．已知这些宿舍中共住了168人，那么其中有多少间大宿舍？
+【考点】鸡兔同笼问题   【难度】2星   【题型】解答
+【关键词】假设思想方法
+如果30间都是小宿舍，那么只能住 EMBED Equation.DSMT4  （人），而实际上住了168人．大宿舍比小宿舍每间多住 EMBED Equation.DSMT4  （人），所以大宿舍有 EMBED Equation.DSMT4  （间）．
+【答案】 EMBED Equation.DSMT4  间
+
+
+王老师带了 EMBED Equation.DSMT4  名同学去北海公园划船，共租了 EMBED Equation.DSMT4  条船．每条大船坐 EMBED Equation.DSMT4  人，每条小船坐 EMBED Equation.DSMT4  人，问大船、小船各租几条？
+【考点】鸡兔同笼问题   【难度】2星   【题型】解答
+【关键词】假设思想方法
+我们分步来考虑：
+　　    ①假设租的 EMBED Equation.DSMT4  条船都是大船，那么船上应该坐 EMBED Equation.DSMT4  （人）．
+　　    ②假设后的总人数比实际人数多了 EMBED Equation.DSMT4  （人），多的原因是把小船坐的 EMBED Equation.DSMT4  人都假设成坐 EMBED Equation.DSMT4  人．
+　　    ③一条小船当成大船多出 EMBED Equation.DSMT4  人，多出的 EMBED Equation.DSMT4  人是把 EMBED Equation.DSMT4  （条）小船当成大船．所以有 EMBED Equation.DSMT4  条小船， EMBED Equation.DSMT4  条大船．
+　　    列式为： EMBED Equation.DSMT4  (条） EMBED Equation.DSMT4  （条）
+【答案】 EMBED Equation.DSMT4  条大船， EMBED Equation.DSMT4  条小船
+
+李明和张亮轮流打一份稿件，李明每天打 EMBED Equation.DSMT4  页，张亮每天打 EMBED Equation.DSMT4  页，他们一连打了 EMBED Equation.DSMT4  天，平均每天打 EMBED Equation.DSMT4  页，问李明、张亮各打了多少天？
+【考点】鸡兔同笼问题   【难度】2星   【题型】解答
+【关键词】假设思想方法
+从总数入手，由题意可知他们一共打了 EMBED Equation.DSMT4  (页)．假设 EMBED Equation.DSMT4  天都是李明打的，那么打的页数是： EMBED Equation.DSMT4  (页)，比实际打的多 EMBED Equation.DSMT4  (页)，而李明每天比张亮多打： EMBED Equation.DSMT4  (页)，所以张亮打的天数是： EMBED Equation.DSMT4  (天)，李明打的天数是： EMBED Equation.DSMT4  (天)
+【答案】李明 EMBED Equation.DSMT4  天，张亮 EMBED Equation.DSMT4  天
+
+小伟和小丽计划用50天假期练习书法：将3755个一级常用汉字练习一遍。小伟每天练73个汉字，小丽每天练80个汉字，每天只有一人练习，每人每天练习的字各不相同，这样，他们正好在假期结束时完成计划。他们各练习了多少天？
+【考点】鸡兔同笼问题   【难度】 EMBED Equation.DSMT4  星   【题型】填空
+【关键词】希望杯，五年级，二试，第18题
+假如50天全是小丽练字，那么能练80×50=4000个字，多了4000-3755=245个，（2分）而小伟每多一天就少80-73=7个字，所以小伟练了245÷7=35天。（6分）小丽练了50-35=15天。（10分）
+【答案】小伟 EMBED Equation.DSMT4  天，小丽 EMBED Equation.DSMT4  天
+
+松鼠妈妈采松果，晴天每天可以采 EMBED Equation.DSMT4  个，雨天每天只能采 EMBED Equation.DSMT4  个．它一连几天采了 EMBED Equation.DSMT4  个松果，平均每天采 EMBED Equation.DSMT4  个．问这几天中有几个雨天？
+【考点】鸡兔同笼问题   【难度】2星   【题型】解答
+【关键词】假设思想方法
+首先要根据已知条件计算一共采了多少天，再根据“鸡兔同笼”问题的解法计算．
+因松鼠妈妈共采松果 EMBED Equation.DSMT4  个，平均每天采 EMBED Equation.DSMT4  个，所以实际用了 EMBED Equation.DSMT4  （天）．假设这8天全是晴天，松鼠妈妈应采松果 EMBED Equation.DSMT4  （个），比实际采的多了 EMBED Equation.DSMT4  （个），因雨天比晴天少采 EMBED Equation.DSMT4  （个），所以共有雨天 EMBED Equation.DSMT4  （天）．
+【答案】 EMBED Equation.DSMT4  天
+
+小松鼠采松果，晴天每天可以采 EMBED Equation.DSMT4  个，雨天每天只能采 EMBED Equation.DSMT4  个．它一连几天采了 EMBED Equation.DSMT4  个松果，平均每天采 EMBED Equation.DSMT4  个．那么其中有几天是雨天呢？
+【考点】鸡兔同笼问题   【难度】2星   【题型】解答
+【关键词】假设思想方法
+小松鼠一共采了 EMBED Equation.DSMT4  （天），假设每天都是晴天，那么一共可以采 EMBED Equation.DSMT4  （个），而实际上少采了 EMBED Equation.DSMT4  （个），少 EMBED Equation.DSMT4  天晴天，就少采 EMBED Equation.DSMT4  （个），所以一共有雨天： EMBED Equation.DSMT4  （天）．
+【答案】 EMBED Equation.DSMT4  天
+
+松鼠妈妈采松子，晴天每天可以采20个，雨天每天只能采12个。它一连几天采了112个松子，平均每天采14个。问这几天当中有几天有雨?
+【考点】鸡兔同笼问题   【难度】2星   【题型】解答
+【关键词】华杯赛，初赛，第6题
+松鼠采了：112÷14＝8(天)，假设这8天都是晴天，可以采到的松籽是：20×8＝160(个)，实际只采到112个，共少采松籽：160－112＝48(个)，每个下雨天就要少采：20－12＝8(个)，所以有48÷8＝6（个）雨天。
+【答案】 EMBED Equation.DSMT4  个雨天
+
+使用甲种农药每千克要兑水20千克，使用乙种农药每千克要兑水40千克．根据农科院专家的意见，把两种农药混起来用可以提高药效，现有两种农药共50千克，要配药水1400千克，那么，其中甲种农药用了多少千克？ 
+【考点】鸡兔同笼问题   【难度】2星   【题型】解答
+【关键词】迎春杯，高年级，初试，6题，假设思想方法
+方法一：设甲种农药 EMBED Equation.DSMT4  千克，则乙种农药 EMBED Equation.DSMT4  千克。 EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  （千克）
+        方法二：假设全是乙种农药，需要水 EMBED Equation.DSMT4  （千克），比实际需要的多： EMBED Equation.DSMT4   （千克），每千克甲种农药比每千克乙种农药多用水： EMBED Equation.DSMT4  （千克），所以甲种农药有： EMBED Equation.DSMT4  （千克）
+【答案】 EMBED Equation.DSMT4  千克
+
+孙阿姨有贰元人民币和伍元人民币共 EMBED Equation.DSMT4  张，合计 EMBED Equation.DSMT4  元，孙阿姨这两种人民币各有多少张？
+【考点】鸡兔同笼问题   【难度】2星   【题型】解答
+【关键词】假设思想方法，小学数学奥林匹克，初赛
+假设这 EMBED Equation.DSMT4  张人民币全是贰元的，共计 EMBED Equation.DSMT4  (元)，比实际的钱数少了 EMBED Equation.DSMT4  (元)． 这是因为伍元的全部假设成贰元的，一张就少了 EMBED Equation.DSMT4  (元)，那么可知伍元的共有 EMBED Equation.DSMT4   (张)，贰元的有： EMBED Equation.DSMT4  (张)
+【答案】伍元 EMBED Equation.DSMT4   张，贰元 EMBED Equation.DSMT4  张.
+
+小华用二元五角钱买了面值二角和一角的邮票共 EMBED Equation.DSMT4  张，问两种邮票各买多少张？
+【考点】鸡兔同笼问题   【难度】2星   【题型】解答
+【关键词】假设思想方法
+二元五角＝ EMBED Equation.DSMT4  分； EMBED Equation.DSMT4  角＝ EMBED Equation.DSMT4  分； EMBED Equation.DSMT4  角＝ EMBED Equation.DSMT4  分.假设都是 EMBED Equation.DSMT4  分邮票： EMBED Equation.DSMT4  （分），比实际少了： EMBED Equation.DSMT4  （分），每张邮票相差钱数： EMBED Equation.DSMT4  （分），有二角邮票： EMBED Equation.DSMT4  （张），有一角邮票张： EMBED Equation.DSMT4  （张）．
+【答案】二角邮票 EMBED Equation.DSMT4  张，一角邮票张 EMBED Equation.DSMT4  张.
+
+有1元和5元的人民币共17张，合计49元，两种面值的人民币各有多少张?
+【考点】鸡兔同笼问题   【难度】2星   【题型】解答
+【关键词】假设思想方法
+该题求两种面值的人民币各有多少张，已知总张数17张，但两种不同面值的人民币张数相差多少难以确定，怎么办?再分析题意，又知两种面值的人民币的总钱数，及各自的票面值，但两种人民币相差的钱数也难以确定，这又怎么办?我们可用“假设法”思考．假设17张人民币全是5元的，总钱数则为5×17=85(元)，比实际的49元多出85-49=36(元)，多的原因是把1元的人民币假设为5元的人民币了，用数量关系式表示为：
+
+        根据这一数量关系式，可先求1元人民币的张数．解法①：(5×17-49)÷(5-1)=9(张)，17-9=8(张)，
+验算：1×9+5×8=49(元)，也可以假设17张人民币全是1元的，便可有另一解法．
+解法②：(49-1×17)÷(5-1)-8(张)，17-8=9(张)
+【答案】一元 EMBED Equation.DSMT4  张，五元 EMBED Equation.DSMT4  张.
+
+四年级的同学们去春游，按团体购票120张，共432元，其中单程票每张2元，往返票4元，那么单程票和往返票相差多少张？
+【考点】鸡兔同笼问题   【难度】2星   【题型】解答
+【关键词】假设思想方法
+假设全部买的是往返票，那么共需 EMBED Equation.DSMT4  （元），比实际多花了48元，这48元是因为把每张单程票假设成往返票多出的，每张单程票看成往返票则增加2元，可知48元中有几个2元就有几张单程票，即单程票有24张，相差72张．
+【答案】 EMBED Equation.DSMT4  张
+
+从前有座山，山里有个庙，庙里有许多小和尚，两个小和尚用一根扁担一个桶抬水，一个小和尚用一根扁担两个桶挑水，共用了38根扁担和58个桶，那么有多少个小和尚抬水？多少个挑水？
+【考点】鸡兔同笼问题   【难度】3星   【题型】解答
+【关键词】假设思想方法
+假设全是抬水，38根扁担应抬38个桶，而实际上是58个桶，为什么少了 EMBED Equation.DSMT4  （个）桶呢？因为当我们把一个挑水的当作抬水的就会少算 EMBED Equation.DSMT4  （个）桶，所以有 EMBED Equation.DSMT4  （人）在挑水，抬水的扁担数是 EMBED Equation.DSMT4  （根），抬水的人数是 EMBED Equation.DSMT4  （人）．
+【答案】 EMBED Equation.DSMT4  人在抬水， EMBED Equation.DSMT4  人在挑水.
+
+100个和尚140个馍，大和尚1人分3个馍，小和尚1人分1个馍．问：大、小和尚各有多少人？
+【考点】鸡兔同笼问题   【难度】3星   【题型】解答
+【关键词】假设思想方法
+本题由中国古算名题“百僧分馍问题”演变而得．如果将大和尚、小和尚分别看作鸡和兔，馍看作腿，那么就成了鸡兔同笼问题，可以用假设法来解．
+        假设100人全是大和尚，那么共需馍300个，比实际多 EMBED Equation.DSMT4  （个）．现在以小和尚去换大和尚，每换一个总人数不变，而馍就要减少 EMBED Equation.DSMT4  （个），因为 EMBED Equation.DSMT4  ，故小和尚有80人，大和尚有 EMBED Equation.DSMT4  （人）．
+        同样，也可以假设100人都是小和尚，这里不再作说明．
+【答案】故小和尚有80人，大和尚有 EMBED Equation.DSMT4  人.
+
+ EMBED Equation.DSMT4  个和尚 EMBED Equation.DSMT4  个馍，大和尚 EMBED Equation.DSMT4  人分 EMBED Equation.DSMT4  个馍，小和尚 EMBED Equation.DSMT4  人分 EMBED Equation.DSMT4  个馍．问：大、小和尚各有多少人？
+【考点】鸡兔同笼问题   【难度】3星   【题型】解答
+【关键词】假设思想方法
+本题由中国古算名题“百僧分馍问题”演变而得．如果将大和尚、小和尚分别看作鸡和兔，馍看作腿，那么就成了鸡兔同笼问题，可以用假设法来解．
+        假设 EMBED Equation.DSMT4  人全是大和尚，那么共需馍 EMBED Equation.DSMT4  个，比实际多 EMBED Equation.DSMT4  (个)．现在以小和尚去换大和尚，每换一个总人数不变，而馍就要减少 EMBED Equation.DSMT4  (个)，因为 EMBED Equation.DSMT4  ，故小和尚有70人，大和尚有 EMBED Equation.DSMT4   (人)．同样，也可以假设 EMBED Equation.DSMT4  人都是小和尚，同学们不妨自己试试．
+【答案】故小和尚有70人，大和尚有 EMBED Equation.DSMT4   (人)．
+
+（中国古代僧粥问题）一百个和尚刚好喝一百碗粥，一个大和尚喝三碗粥，三个小和尚喝一碗粥，那么大和尚有多少个，小和尚有多少个？
+【考点】鸡兔同笼问题   【难度】3星   【题型】解答
+【关键词】假设思想方法
+我们把大碗换小碗，换小碗盛粥！把一大碗粥分成三小碗粥，则原题变为一百个和尚喝三百碗粥，一个大和尚喝九碗粥，一个小和尚喝一碗粥．然后仍然用假设法：
+        假设都是小和尚，只能喝 EMBED Equation.DSMT4  （碗）粥，有一个大和尚被当成小和尚会少 EMBED Equation.DSMT4  （碗）粥，一共少了 EMBED Equation.DSMT4  （碗）粥．所以大和尚有 EMBED Equation.DSMT4  （个）；小和尚有 EMBED Equation.DSMT4  （个）．
+【答案】大和尚 EMBED Equation.DSMT4  个，小和尚 EMBED Equation.DSMT4  个
+
+小建和小雷做仰卧起坐，小建先做了 EMBED Equation.DSMT4  分钟，然后两人各做了 EMBED Equation.DSMT4  分钟，一共做仰卧起坐 EMBED Equation.DSMT4  次．已知每分钟小建比小雷平均多做 EMBED Equation.DSMT4  次，那么小建比小雷多做了多少次？
+【考点】鸡兔同笼问题   【难度】3星   【题型】解答
+【关键词】假设思想方法
+假设小建每分钟做仰卧起坐的次数与小雷一样多，这样两人做仰卧起坐的总次数就减少了 EMBED Equation.DSMT4  (次)，由此可知小雷每分钟做了 EMBED Equation.DSMT4  (次)，进而可以分别求出小建每分钟做的次数以及两人分别做仰卧起坐的总次数之差．假设小建每分钟做仰卧起坐的次数与小雷一样多，两人做仰卧起坐的总次数就减少： EMBED Equation.DSMT4  (次)小雷每分钟做： EMBED Equation.DSMT4  (次)；小建每分钟做： EMBED Equation.DSMT4  (次)小建一共做： EMBED Equation.DSMT4  (次)；小雷一共做： EMBED Equation.DSMT4  (次)小建比小雷多做： EMBED Equation.DSMT4  (次)
+【答案】 EMBED Equation.DSMT4  次
+
+工人运青瓷花瓶250个，规定完整运到目的地一个给运费20元，损坏一个倒赔100元．运完这批花瓶后，工人共得4400元，则损坏了多少个？
+【考点】盈亏问题   【难度】3星   【题型】解答
+本题中“损坏一个倒赔100元”的意思是运一个完好的花瓶与损坏1个花瓶相差 EMBED Equation.DSMT4  （元），即损1个花瓶不但得不到20元的运费，而且要付出120元．本例可假设250个花瓶都完好，这样可得运费 EMBED Equation.DSMT4  （元）．这样比实际多得 EMBED Equation.DSMT4  （元）．
+   　　 就是因为有损坏的瓶子，损坏1个花瓶相差120元．现共相差600元，从而求出共损坏多少个花瓶．根据以上分析，可得损坏了 EMBED Equation.DSMT4  （个）．
+【答案】 EMBED Equation.DSMT4  个
+
+乐乐百货商店委托搬运站运送100只花瓶．双方商定每只运费1元，但如果发生损坏，那么每打破一只不仅不给运费，而且还要赔偿1元，结果搬运站共得运费92元．问：搬运过程中共打破了几只花瓶？
+【考点】鸡兔同笼问题   【难度】3星   【题型】解答
+【关键词】假设思想方法
+假设100只花瓶在搬运过程中一只也没有打破，那么应得运费 EMBED Equation.DSMT4  （元）．实际上只得到92元，少得 EMBED Equation.DSMT4  （元）．搬运站每打破一只花瓶要损失 EMBED Equation.DSMT4  （元）．
+因此共打破花瓶 EMBED Equation.DSMT4  （只）．
+【答案】 EMBED Equation.DSMT4  只
+
+有一辆货车运输2000只玻璃瓶,运费按到达时完好的瓶子数目计算,每只2角,如有破损,破损瓶子不给运费,还要每只赔偿1元.结果得到运费379.6元,问这次搬运中玻璃瓶破损了几只 
+【考点】鸡兔同笼问题   【难度】3星   【题型】解答
+【关键词】假设思想方法
+如果没有破损,运费应是400元.但破损一只要减少1+0.2=1.2(元).因此破损只数是 (400-379.6)÷(1+0.2)=17(只). 
+【答案】 EMBED Equation.DSMT4  只
+
+一名搬运工从批发部搬运500只瓷碗到商店，货主规定：运到一只完好的瓷碗得运费3角，打破一只瓷碗陪9角，结果他领到的运费136.80元，则在运输中搬运工打破了     只瓷碗。
+【考点】鸡兔同笼问题   【难度】3星   【题型】填空
+【关键词】希望杯，五年级，一试，第16题
+如果没有打破碗，那么应该得到500×0.3=150元，每打破一个碗，就少得到1元2角，而他一共少得到150-136.8=13.2元，所以他打破了13.2÷1.2=11个.
+【答案】 EMBED Equation.DSMT4  个
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+教师寄语：拼一个春夏秋冬，换一生无怨无悔。
+
+
+
+
+6-1-9.鸡兔同笼问题（一）
+
+教学目标
+
+知识精讲
+
+例题精讲
+
+
+ PAGE  \* MERGEFORMAT 9
+
+
+

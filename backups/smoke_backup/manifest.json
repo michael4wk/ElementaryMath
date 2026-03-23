@@ -1,0 +1,7 @@
+{
+  "name": "smoke_backup",
+  "mode": "backup",
+  "created_at": "2026-03-23T08:24:35.391375+00:00",
+  "source": "/Users/michael/Documents/小学数学精讲/artifacts",
+  "target": "/Users/michael/Documents/小学数学精讲/backups/smoke_backup/artifacts"
+}

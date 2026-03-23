@@ -1,0 +1,228 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+学会分析题意并且熟练的利用线段图法能够分析和倍问题
+掌握寻找和倍的方法解决问题．
+ SHAPE  \* MERGEFORMAT 
+知识点说明：
+和倍问题就是已知两个数的和以及它们之间的倍数关系，求这两个数各是多少的问题．
+　　解答此类应用题时要根据题目中所给的条件和问题，画出线段图，使数量关系一目了然，从而找出解题规律，正确迅速地列式解答。
+和倍问题的特点是已知两个数的和与大数是小数的几倍，要求两个数，一般是把较小数看作 EMBED Equation.DSMT4  倍数，大数就是几倍数，这样就可知总和相当于小数的几倍了，可求出小数，再求大数.
+和倍问题的数量关系式是： 和÷(倍数+ EMBED Equation.DSMT4  )=小数
+    小数×倍数=大数   或  和一小数=大数
+    如果要求两个数的差，要先求 EMBED Equation.DSMT4  份数：
+     EMBED Equation.DSMT4  份数×(倍数－ EMBED Equation.DSMT4  )=两数差.
+解决和倍问题，关键是学会画线段图，这样可以帮助我们更好的弄清各数量之间的关系。
+
+ SHAPE  \* MERGEFORMAT 
+
+一家三口人，三人年龄之和是 EMBED Equation.DSMT4  岁，妈妈和爸爸同岁，妈妈的年龄是孩子的 EMBED Equation.DSMT4  倍，三人各是多少岁？
+【考点】和倍问题   【难度】2星   【题型】填空
+妈妈的年龄是孩子的 EMBED Equation.DSMT4  倍，爸爸和妈妈同岁，那么爸爸的年龄也是孩子的 EMBED Equation.DSMT4  倍，把孩子的年龄作为 EMBED Equation.DSMT4  倍数，已知三口人年龄和是 EMBED Equation.DSMT4  岁，那么孩子的年龄为： EMBED Equation.DSMT4  (岁)，妈妈的年龄是： EMBED Equation.DSMT4  (岁)，爸爸和妈妈同岁为 EMBED Equation.DSMT4  岁．
+【答案】孩子的年龄为 EMBED Equation.DSMT4  岁，爸爸妈妈的年龄为 EMBED Equation.DSMT4  岁
+
+三只小猫去钓鱼，它们共钓上36条鱼，其中黑猫和花猫钓到的鱼的条数是白猫钓到的鱼的条数的5倍，花猫钓到的鱼比另外两只猫钓到的鱼的条数的2倍少9条。黑猫钓上          条鱼。
+【考点】和倍问题   【难度】3星   【题型】填空
+【关键词】希望杯，四年级，二试，第8题
+白猫钓到36÷（5+1）＝6条，花猫和黑猫共钓30条花猫钓到的鱼比另外两只猫钓到的鱼的条数的2倍少9条，那么就比黑猫钓到的2倍多3条，黑猫钓到（30-3）÷3＝9条
+【答案】 EMBED Equation.DSMT4  
+
+甲、乙、丙三人的年龄和为30岁，乙的年龄是甲、丙年龄和的一半．乙（   ）岁．
+【考点】和倍问题   【难度】3星   【题型】填空
+【关键词】走美杯，四年级，初赛
+由题意可知，甲丙的年龄和是乙的2倍，那么三人的年龄和就是乙的3倍，故乙的年龄为 EMBED Equation.DSMT4  岁。
+【答案】 EMBED Equation.DSMT4  岁
+
+红、黄、蓝三个纸盒里共有彩票56张．其中红色纸盒里的彩票是黄色纸盒的2倍，蓝色纸盒里的彩票是红色纸盒的2倍，红、黄、蓝三个纸盒里各有多少张彩票?
+【考点】和倍问题   【难度】2星   【题型】解答
+以黄色纸盒的彩票数为1倍数，红纸盒是这样的2倍，蓝纸盒是红纸盒的2倍，也就是黄纸盒的4倍，一共就是(1+2+4)倍，这样就能建立起彩票总数与总倍数之间的对应关系，从而求出黄纸盒里有几张彩票．56÷(1+2+4)=8(张)……黄纸盒里的彩票数；8×2=16(张)……红纸盒里的彩票数 ；16×2=32(张)……蓝纸盒里的彩票数。
+【答案】黄纸盒里有 EMBED Equation.DSMT4  张，红纸盒里有 EMBED Equation.DSMT4  张，蓝纸盒里有 EMBED Equation.DSMT4  张。
+
+在一道减法算式中，已知被减数、减数、差的和是 EMBED Equation.DSMT4  ，而减数是差的 EMBED Equation.DSMT4  倍．求差是多少？
+【考点】和倍问题   【难度】3星   【题型】解答
+引导学生分析被减数、减数、差三者之间的关系，
+并认识它们之间的转化．
+我们先看下面一道简单的减法算式：
+             EMBED Equation.DSMT4    － EMBED Equation.DSMT4     =   EMBED Equation.DSMT4  
+          被减数   减数     差
+        被减数、减数、差这三个数有下面的关系：
+被减数=差+减数，如 EMBED Equation.DSMT4  
+        这道题中，被减数、减数、差的和是 EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4  是被减数的 EMBED Equation.DSMT4  倍， EMBED Equation.DSMT4  ，就得被减数，也就是
+减数与差的和，这样题目就转化为：“已知减数与差的和
+是 EMBED Equation.DSMT4  ，减数是差的 EMBED Equation.DSMT4  倍”，按照和倍问题的解题方法，就可求出差是： EMBED Equation.DSMT4  ．
+        列式：减数与差的和是多少？ EMBED Equation.DSMT4  
+          差是多少？　 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+被除数、除数、商3个数的和是212。已知商是2，被除数和除数各是多少？
+【考点】和倍问题   【难度】3星   【题型】解答
+由商是2，可得被除数与除数的和为：212-2=210；且被除数是除数的2倍。
+把除数看着1份，两数和对应的份数是3份，除数为：210÷（2+1）=70；
+被除数为：70×2=140。
+【答案】被除数 EMBED Equation.DSMT4  ，除数 EMBED Equation.DSMT4  
+
+两个正整数相除，商是 EMBED Equation.DSMT4  ，余数是 EMBED Equation.DSMT4  ，如果被除数、除数都扩大到原来的 EMBED Equation.DSMT4  倍，那么被除数、除数、商、余数的和等于 EMBED Equation.DSMT4  ．原来的被除数是        ，除数是        ．
+【考点】和倍问题   【难度】3星   【题型】填空
+【关键词】小机灵杯，数学竞赛，五年级，复赛
+被除数、除数都扩大到原来的 EMBED Equation.DSMT4  倍，它们的商还是 EMBED Equation.DSMT4  、余数为 EMBED Equation.DSMT4  ，所以被除数与除数的和为 EMBED Equation.DSMT4  ，而此时被除数比除数的 EMBED Equation.DSMT4  倍大 EMBED Equation.DSMT4  ，所以除数为 EMBED Equation.DSMT4  ，所以原来的除数为 EMBED Equation.DSMT4  ，被除数原来为 EMBED Equation.DSMT4  ．
+【答案】被除数 EMBED Equation.DSMT4  ，除数 EMBED Equation.DSMT4  
+
+学校买来篮球、足球、排球共 EMBED Equation.DSMT4  个，其中篮球的个数是足球的 EMBED Equation.DSMT4  倍．排球比足球多 EMBED Equation.DSMT4  个．问学校买来的篮球、足球、排球各多少个？
+　　　
+【考点】和倍问题   【难度】3星   【题型】解答
+可引导学生，让他们自己画图来分析，强调和与对应的份数，教师辅导指正．
+从线段图上可以看出，把足球的个数看作 EMBED Equation.DSMT4  份数，篮球的个数是 EMBED Equation.DSMT4  份数，如果排球少买 EMBED Equation.DSMT4  个，也是 EMBED Equation.DSMT4  份数，这时三种球一共( EMBED Equation.DSMT4  )个，总份数是( EMBED Equation.DSMT4  )，就可先求出足球的个数，再分别求篮球和排球的个数．
+如果排球减少 EMBED Equation.DSMT4  个，三种球一共多少个？　　 EMBED Equation.DSMT4  (个)
+        足球多少个？　　 EMBED Equation.DSMT4  (个)
+        篮球多少个？　　 EMBED Equation.DSMT4  (个)
+        排球多少个？　　 EMBED Equation.DSMT4  (个)
+【答案】足球 EMBED Equation.DSMT4  个，篮球 EMBED Equation.DSMT4  个，排球 EMBED Equation.DSMT4  个。
+
+一筐苹果、一筐梨、一筐香蕉共重 EMBED Equation.DSMT4  千克．已知苹果的重量是梨的 EMBED Equation.DSMT4  倍，香蕉的重量比梨少 EMBED Equation.DSMT4  千克．一筐苹果、一筐梨、一筐香蕉各重多少千克？
+【考点】和倍问题   【难度】3星   【题型】解答
+梨的重量是： EMBED Equation.DSMT4  （千克）
+        苹果的重量是： EMBED Equation.DSMT4  （千克）
+        香蕉的重量是： EMBED Equation.DSMT4  （千克）　　　　　　
+【答案】苹果 EMBED Equation.DSMT4  千克，梨 EMBED Equation.DSMT4  千克，香蕉 EMBED Equation.DSMT4  千克。
+
+玩具厂生产红、黄、白气球共 EMBED Equation.DSMT4  个，其中红气球的个数是黄气球的 EMBED Equation.DSMT4  倍，白气球比黄气球少 EMBED Equation.DSMT4  个．问三种气球各生产了多少个？
+【考点】和倍问题   【难度】3星   【题型】解答
+黄气球： EMBED Equation.DSMT4  （个）；红气球： EMBED Equation.DSMT4  （个）；白气球： EMBED Equation.DSMT4  （个）
+【答案】黄气球 EMBED Equation.DSMT4  个，红气球 EMBED Equation.DSMT4  个，白气球 EMBED Equation.DSMT4  个。
+
+小红家养了一些鸡，黄鸡比黑鸡多 EMBED Equation.DSMT4  只，比白鸡少 EMBED Equation.DSMT4  只．白鸡的只数是黄鸡的 EMBED Equation.DSMT4  倍，白鸡、黄鸡、黑鸡一共有多少只? 
+【考点】和倍问题   【难度】3星   【题型】解答
+⑴黄鸡多少只？　　 EMBED Equation.DSMT4  (只)
+     　 ⑵白鸡多少只？　　 EMBED Equation.DSMT4  (只)    
+        ⑶黑鸡多少只？　　 EMBED Equation.DSMT4  (只)
+        ⑷白鸡、黄鸡、黑鸡共多少只？　  EMBED Equation.DSMT4  (只)
+【答案】 EMBED Equation.DSMT4  只
+
+商店运来橘子、苹果、香蕉共53千克，橘子的重量是苹果的3倍少3千克，香蕉的重量是苹果的2倍多2千克，橘子重多少千克?
+【考点】和倍问题   【难度】3星   【题型】解答
+我们可以把苹果的重量看作1份，如下图：
+
+如果橘子重量增加3千克，正好是苹果重量的3倍，
+香蕉的重量减少2千克，正好是苹果重量的2倍，
+这时三种水果的总重量变为：53＋3－2＝54(千克)，
+正好是苹果重量的(1＋3＋2)倍，
+苹果有 (53＋3－2)÷(1＋3＋2) ＝54÷6＝9(千克)，橘子有9×3－3＝24(千克) .
+【答案】 EMBED Equation.DSMT4  千克
+
+
+果园里有桃树、梨树、苹果树共552棵.桃树比梨树的2倍多12棵，苹果树比梨树少20棵，求桃树、梨树和苹果树各有多少棵？
+【考点】和倍问题   【难度】3星   【题型】解答
+下图可以看出桃树比梨树的2倍多12棵，苹果树比梨树少20棵，都是同梨树相比较、以梨树的棵数为标准、作为1份数容易解答.
+
+又知三种树的总数是552棵.如果给苹果树增加20棵，那么就和梨树同样多了；再从桃树里减少12棵，那么就相当于梨树的2倍了，而总棵树则变为552+20-12=560（棵），相当于梨树棵数的4倍。梨树的棵数：（552＋20-12）÷（1＋1＋2）=560÷4=140（棵），桃树的棵数：140×2＋12=292（棵），苹果树的棵数： 140-20=120（棵），桃树、梨树、苹果树分别是292棵、140棵和120棵。
+【答案】桃树、梨树、苹果树分别是292棵、140棵和120棵
+
+某养殖厂养鸡、鸭、鹅共1462只，鸡的只数比鸭的4倍多132只，鹅的只数比鸭的2倍少70只．这个养殖厂养的鸡、鸭、鹅各有多少只？
+
+【考点】差倍问题   【难度】1星   【题型】解答 
+我们把鸭的只数看作1份，鸡的只数看作4份，鹅的只数看作2份，鸡、鸭、鹅的总只数就相当于鸭的： EMBED Equation.DSMT4  (份)．而鸡、鸭、鹅的总只数可以看作： EMBED Equation.DSMT4  (只)．用总只数除以总份数，先求出鸭的只数，再求鸡和鹅的只数．
+鸭的只数： EMBED Equation.DSMT4  (只)；
+鸡的只数： EMBED Equation.DSMT4  (只)；
+ 　　　 鹅的只数： EMBED Equation.DSMT4  (只)．
+【答案】鸭 EMBED Equation.DSMT4  只，鸡 EMBED Equation.DSMT4  只，鹅 EMBED Equation.DSMT4  只
+
+有100块糖，分给甲乙丙三位小朋友，甲比乙多分了3块，乙比丙多分了5块，三位小朋友各分得多少块糖?
+【考点】和倍问题   【难度】3星   【题型】解答
+此题从两个数量扩展到三个数量．已知甲比乙多分了3块，乙比丙多分了5块，从线段图上可以清楚地看出：
+
+甲比丙多分了3＋5＝8(块)．如果甲少拿7块，乙少拿5块，那么糖的总数就要减少8＋5＝13(块)，总共就是100－13＝87(块)．87块相当于丙所有的糖块数的3倍，由此可以算出甲乙丙三人各自糖块的数量．丙：[100－(3＋5)－5]÷3＝29(块)；乙：29＋5＝34(块)；甲：34＋3＝37(块)。
+【答案】甲 EMBED Equation.DSMT4  块，乙 EMBED Equation.DSMT4  块，丙 EMBED Equation.DSMT4  块。
+
+王奶奶家养了鸡、鸭、鹅共250只，其中鸭比鹅的2倍少10只，鸡比鸭的3倍多20只。王奶奶养了__________只鸡，_________只鸭，___________只鹅。
+【考点】和倍问题   【难度】3星   【题型】填空
+【关键词】希望杯，四年级，二试，第8题
+鹅比鸭的一半多5只，所以如果将多出少的去掉和补上一共有250-20-5=225，所以鸭有225÷（3+1+0.5）=50只，鸡有50÷2+5=30只，鹅有50×3+20=170只.
+【答案】鸡 EMBED Equation.DSMT4  只，鸭 EMBED Equation.DSMT4  只，鹅 EMBED Equation.DSMT4  只
+
+甲、乙、丙三个小朋友共有 EMBED Equation.DSMT4  块巧克力，如果丙吃掉 EMBED Equation.DSMT4  块，那么乙和丙的巧克力就一样多；如果乙给甲 EMBED Equation.DSMT4  块巧克力，那么甲的巧克力就是乙的 EMBED Equation.DSMT4  倍，丙原有     块巧克力．
+【考点】和倍问题   【难度】3星   【题型】填空
+【关键词】IMC，国际数学邀请赛，新加坡，四年级，复赛
+方法一：由题意可知，丙比乙多 EMBED Equation.DSMT4  块，所以如果乙给甲两块巧克力，则丙比乙多 EMBED Equation.DSMT4  块，此时乙的巧克力数为 EMBED Equation.DSMT4  （块），丙原有 EMBED Equation.DSMT4  （块）。
+方法二：如果丙吃掉 EMBED Equation.DSMT4  块，那么乙与并的糖就一样多，说明丙比乙多 EMBED Equation.DSMT4  块；如果乙给甲 EMBED Equation.DSMT4  块糖，那么甲的糖就是乙的糖的 EMBED Equation.DSMT4  倍，即甲的糖加 EMBED Equation.DSMT4  是乙的糖减 EMBED Equation.DSMT4  后的 EMBED Equation.DSMT4  倍，说明甲的糖是丙的糖的 EMBED Equation.DSMT4  倍少 EMBED Equation.DSMT4  块．所以，乙有 EMBED Equation.DSMT4  块糖，丙 EMBED Equation.DSMT4  （块）
+【答案】 EMBED Equation.DSMT4  块
+
+甲、乙、丙3数之和是183，乙比丙的2倍少4，甲比丙的3倍多7，求甲、乙、丙三数各是多少？
+【考点】和倍问题   【难度】3星   【题型】解答
+我们把丙数看作一份，画出线段图如下：
+ INCLUDEPICTURE "http://www.meblog.cn/UploadFiles/2009-10/252238657346.bmp" \* MERGEFORMAT 
+假如我们给乙数添上4凑成2份，甲数减去7凑成3份，则这时候三个数的总和为：
+183+4-7=180，和对应的份数为：1+2+3=6。所以，一份数即丙数为：180÷6=30；
+乙数为：30×2-4=56；甲数为：30×3+7=97。
+【答案】甲 EMBED Equation.DSMT4  ，乙 EMBED Equation.DSMT4  ，丙 EMBED Equation.DSMT4  
+
+甲、乙、丙三所小学学生人数的总和为1999，已知甲校学生人数的2倍，乙校学生人数减3、丙校学生人数加4都是相等的。问：甲、乙、丙各校学生人数是多少?
+【考点】和倍问题   【难度】3星   【题型】解答
+【关键词】华杯赛，初赛，第8题
+(1999－3＋4)÷(1＋2＋2)＝400， 400×2＋3＝803，400×2－4＝796，甲、乙、丙三校的人数分别为400，803，796。
+【答案】甲、乙、丙三校的人数分别为400，803，796。
+
+549是甲、乙、丙、丁4个数的和.如果甲数加上2，乙数减少2，丙数乘以2，丁数除以2以后，则4个数相等.求4个数各是多少？
+【考点】和倍问题   【难度】3星   【题型】解答
+下图可以看出，丙数最小.由于丙数乘以2和丁数除以2相等，也就是丙数的2倍和丁数的一半相等，即丁数相当于丙数的4倍.乙减2之后是丙的2倍，甲加上2之后也是丙的2倍.根据这些倍数关系，可以先求出丙数，以丙数为一份量，再分别求出其他各数。
+
+丙数是：（549＋2-2）÷（2＋2＋1＋4）=549÷9=61，甲数是：61×2-2=120，乙数是：61×2＋2=124
+     丁数是：61×4=244，验算：120+124＋61+244=549120＋2=122 124-2=12261×2＝122 244÷2＝122
+【答案】甲 EMBED Equation.DSMT4  ，乙 EMBED Equation.DSMT4  ，丙 EMBED Equation.DSMT4  ，丁 EMBED Equation.DSMT4  
+
+四年级有甲、乙、丙、丁四个班．不算甲班，其余三个班的总人数是131人；不算丁班，其余三个班的总人数是134人；乙、丙两班的总人数比甲、丁两班的总人数少1人．问：这四个班共有多少人？
+【考点】和倍问题   【难度】4星   【题型】解答
+由题意，乙、丙、丁三个班总人数为131人，甲、乙、丙三个班总人数为134人，于是可以看出，甲班比丁班多3个人．又因为乙、丙两班的总人数比甲、丁两班的总人数少1人，也就是说乙、丙两班总人数是丁班的2倍还多2人．从而可以求出丁班的人数为：
+ EMBED Equation.DSMT4  （人）．
+因此这四个班的总人数为 EMBED Equation.DSMT4  （人）．
+【答案】 EMBED Equation.DSMT4  人
+
+有几个同学想称一下体重，可是秤的秤砣不齐，只能称50千克以上的重量，他们只好每人都和其他人合称一次，共得到以下10个数据（单位：千克）：75、78、79、80、81、82、83、84、86、88．问：⑴有几名同学？⑵他们的重量各是多少千克？
+【考点】和倍问题   【难度】4星   【题型】解答
+⑴首先 EMBED Equation.DSMT4  ，也就是说5个同学两两合称才恰好需要称10次，所以有5个同学．
+⑵设这5个同学的体重从小到大依次为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ．
+则有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ；
+ EMBED Equation.DSMT4  ．
+则 EMBED Equation.DSMT4  千克； EMBED Equation.DSMT4  千克； EMBED Equation.DSMT4  千克； EMBED Equation.DSMT4  千克； EMBED Equation.DSMT4  千克．
+即他们的体重分别为37千克、38千克、41千克、43千克、45千克．
+【关键词】5名同学，体重分别为37千克、38千克、41千克、43千克、45千克
+
+有红、黄、蓝、绿四种颜色的卡片，每种颜色的卡片各有3张．相同颜色的卡片上写相同的自然数，不同颜色的卡片上写不同的自然数．老师把这 EMBED Equation.DSMT4  张卡片发给6名同学，每人得到两张颜色不同的卡片．然后老师让学生分别求出各自两张卡片上两个自然数的和．六名同学交上来的答案分别为：92，125，133，147，158，191．老师看完6名同学的答案后说，只有一名同学的答案错了．问：四种颜色卡片上所写各数中最小数是多少？
+【考点】和倍问题   【难度】4星   【题型】解答
+【关键词】迎春杯，初赛
+根据题意可知，6名同学每人都得到给定的4个数中的某2个，而从4个数中选取2个不同的数共有 EMBED Equation.DSMT4  种不同的方法．而6名同学所给的6个答案中只有1个错误，有5个是正确的，而且这5个正确的答案互不相同，所以这5名同学所拿到的两个数也互不相同．而总共只有6种不同情况，所以给出错误答案的那名同学所拿到的两个数与其他5名同学所拿到的两个数的情况也都不相同．那么本题相当于：有四个数 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )，每次从中取出两个数，计算它们的和，得到六个和：92，125，133，147，158，191，其中只有一个是错误的，求 EMBED Equation.DSMT4  的值．
+由取法可知，得到的六个和可以两两匹配，即 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4   与 EMBED Equation.DSMT4  ，互相匹配的两个和的和是相等的，都等于 EMBED Equation.DSMT4  ．而题中的6个数中， EMBED Equation.DSMT4  ，可见 EMBED Equation.DSMT4  ，那么六个和数中133和147都可能是错误的．
+如果147是错误的，那么133是正确的，另一个正确的和数为 EMBED Equation.DSMT4  ，根据 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的大小顺序，可得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  分别为133和150．再由 EMBED Equation.DSMT4  得 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  是偶数，那么 EMBED Equation.DSMT4  ，得 EMBED Equation.DSMT4  ，进而得 EMBED Equation.DSMT4  ．即四种颜色卡片上所写各数中最小数是42．
+        如果133是错误的，那么147是正确的，同样分析可知，此时四种颜色卡片上所写各数中最小数是35．
+【关键词】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+6-1-5.和倍问题（二）.题库	                                 教师版                      page  PAGE 7 of  NUMPAGES 7
+
+
+
+6-1-5.和倍问题（二）
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

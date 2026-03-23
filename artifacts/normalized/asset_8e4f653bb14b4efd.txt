@@ -1,0 +1,644 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE  \* MERGEFORMAT 
+
+掌握逻辑推理的解题思路与基本方法：列表、假设、对比分析、数论分析法等
+培养学生的逻辑推理能力，掌握解不同题型的突破口
+能够利用所学的数论等知识解复杂的逻辑推理题
+ SHAPE  \* MERGEFORMAT 
+
+逻辑推理作为数学思维中重要的一部分，经常出现在各种数学竞赛中，除此以外，逻辑推理还经常作为专项的内容出现在各类选拔考试，甚至是面向成年人的考试当中。对于学生学习数学来说，逻辑推理既有趣又可以开发智力，学生自主学习研究性比较高。本讲我们主要从各个角度总结逻辑推理的解题方法。
+一、列表推理法
+　逻辑推理问题的显著特点是层次多，条件纵横交错.如何从较繁杂的信息中选准突破口，层层剖析，一步步向结论靠近，是解决问题的关键.因此在推理过程中，我们也常常采用列表的方式，把错综复杂的约束条件用符号和图形表示出来，这样可以借助几何直观，把令人眼花缭乱的条件变得一目了然，答案也就容易找到了.
+二、假设推理
+用假设法解逻辑推理问题，就是根据题目的几种可能情况，逐一假设．如果推出矛盾，那么假设不成立；如果推不出矛盾，而是符合题意，那么假设成立．
+解题突破口：找题目所给的矛盾点进行假设
+三、体育比赛中的数学
+对于体育比赛形式的逻辑推理题，注意“一队的胜、负、平”必然对应着“另一队的负、胜、平”。有时综合性的逻辑推理题需要将比赛情况用点以及连接这些点的线来表示，从整体考虑，通过数量比较、整数分解等方式寻找解题的突破口。
+四、计算中的逻辑推理
+   能够利用数论等知识通过计算解决逻辑推理题.
+
+ SHAPE  \* MERGEFORMAT 
+模块一、列表推理法
+刘刚、马辉、李强三个男孩各有一个妹妹，六个人进行乒乓球混合双打比赛．事先规定：兄妹二人不许搭伴．第一盘：刘刚和小丽对李强和小英；第二盘：李强和小红对刘刚和马辉的妹妹．问：三个男孩的妹妹分别是谁？
+【考点】逻辑推理           【难度】2星            【题型】解答
+因为兄妹二人不许搭伴，所以题目条件表明：刘刚与小丽、李强与小英、李强与小红都不是兄妹．由第二盘看出，小红不是马辉的妹妹．将这些关系画在左下表中，由左下表可得右下表．
+
+　　刘刚与小红、马辉与小英、李强与小丽分别是兄妹．
+【答案】刘刚与小红、马辉与小英、李强与小丽分别是兄妹
+
+王文、张贝、李丽分别是跳伞、田径、游泳运动员，现在知道：⑴张贝从未上过天；⑵跳伞运动员已得过两块金牌；⑶李丽还未得过第一名，她与田径运动员同年出生.请根据上述情况判断王文、张贝、李丽各是什么运动员？
+【考点】逻辑推理           【难度】2星            【题型】解答
+为了能清楚地找到所给条件之间的关系，我们不妨运用列表法，列出下表，在表中“√”表示是，“×”表示不是，在任意一行或一列中，如果一格是“√”，可推出其它两格是“×”
+
+由⑴⑶可知张贝、李丽都不是跳伞运动员，可填出第一行，即王文是跳伞运动员；由⑶可知，李丽也不是田径运动员，可填出第三列，即李丽是游泳运动员，则张贝是田径运动员．
+【答案】王文是跳伞运动员，李丽是游泳运动员，张贝是田径运动员
+
+李波、顾锋、刘英三位老师共同担负六年级某班的语文、数学、政治、体育、音乐和图画六门课的教学，每人教两门．现知道：
+顾锋最年轻；
+李波喜欢与体育老师、数学老师交谈；
+体育老师和图画老师都比政治老师年龄大；
+顾锋、音乐老师、语文老师经常一起去游泳；
+刘英与语文老师是邻居．问：各人分别教哪两门课程？
+【考点】逻辑推理           【难度】2星            【题型】解答
+李波教语文、图画，顾锋教数学、政治，刘英教音乐、体育．由⑴⑶⑷推知顾锋教数学和政治；由⑵推知刘英教体育；由⑶⑸推知李波教图画、语文．
+【答案】顾锋教数学和政治，刘英教音乐、体育，李波教图画、语文
+
+王平、宋丹、韩涛三个小学生都是少先队的干部，一个是大队长，一个是中队长，一个是小队长．一次数学测验，这三个人的成绩是：⑴韩涛比大队长的成绩好．⑵王平和中队长的成绩不相同．⑶中队长比宋丹的成绩差．请你根据这三个人的成绩，判断一下，谁是大队长呢？
+【考点】逻辑推理           【难度】2星            【题型】解答
+根据条件⑵和⑶，王平和中队长的成绩不相同，中队长比宋丹的成绩差．，可以断定，王平不是中队长，宋丹也不是中队长，只有韩涛当中队长了．
+
+王平和宋丹两人谁是大队长呢？由⑴和⑶，韩涛比大队长的成绩好，中队长比宋丹的成绩差，可以推断出按成绩高低排列的话，宋丹的成绩比中队长（韩涛）的成绩好，韩涛的成绩比大队长的成绩好．这样，宋丹、韩涛就都不是大队长，那么，大队长肯定是王平． 
+【答案】王平
+
+张明、席辉和李刚在北京、上海和天津工作，他们的职业是工人、农民和教师，已知：⑴张明不在北京工作，席辉不在上海工作；⑵在北京工作的不是教师；⑶在上海工作的是工人；⑷席辉不是农民．问：这三人各住哪里？各是什么职业？
+【考点】逻辑推理           【难度】2星            【题型】解答
+这道题的关系要复杂一些，要求我们通过推理，弄清人物、工作地点、职业三者之间的关系．三者的关系需要两两构造三个表，即人物与地点，人物与职业，地点与职业三个表．
+　　    我们先将题目条件中所给出的关系用下面的表来表示，由条件⑴得到表 EMBED Equation.DSMT4  ，由条件⑵、⑶得到表 EMBED Equation.DSMT4  ，由条件⑷得到表 EMBED Equation.DSMT4  ．  
+
+　　    因为各表中，每行每列只能有一个“√”，所以表 EMBED Equation.DSMT4  可填全为表 EMBED Equation.DSMT4  ．
+
+由表 EMBED Equation.DSMT4  知农民在北京工作，又知席辉不是农民，所以席辉不在北京工作，可以将表 EMBED Equation.DSMT4  可填全完为表 EMBED Equation.DSMT4  
+由表 EMBED Equation.DSMT4  和表 EMBED Equation.DSMT4  知得到：张明住在上海，是工人；席辉住在天津，是教师；李刚住在北京，是农民．
+方法二：由题目条件可知：席辉不在上海工作，而在上海工作的是工人，所以席辉不是工人，又不是农
+民，那么席辉只能是教师，不在北京工作，就只能是在天津工作，那么张明在上海工作，是工人。李刚
+在北京，是农民。
+
+【答案】席辉在天津工作，是教师；张明在上海工作，是工人；李刚在北京，是农民
+
+甲、乙、丙三人，他们的籍贯分别是辽宁、广西、山东，他们的职业分别是教师、工人、演员．已知：⑴甲不是辽宁人，乙不是广西人；⑵辽宁人不是演员，广西人是教师；⑶乙不是工人．
+求这三人各自的籍贯和职业．
+【考点】逻辑推理           【难度】2星            【题型】解答
+由题意可画出下面三个表：
+
+　　    将表 EMBED Equation.DSMT4  补全为表 EMBED Equation.DSMT4  ．由表 EMBED Equation.DSMT4  知，工人是辽宁人，而乙不是工人，所以乙不是辽宁人，由此可将表 EMBED Equation.DSMT4  补全为表 EMBED Equation.DSMT4  ．
+
+        所以，甲是广西人，职业是教师；乙是山东人，职业是演员；丙是辽宁人，职业是工人．
+方法二：将能判断的条件先列入图表中，广西人是教师，但是乙不是广西人，所以乙不是教师，乙又不是工人，所以乙为演员。在对应的地方打上“√”，对应的行列均打“×”。但是辽宁人不是演员，所以乙不是辽宁人，乙就是山东人，所以甲是广西人，职业是教师；乙是山东人，职业是演员；丙是辽宁人，职业是工人。
+ 【答案】甲是广西人，职业是教师；乙是山东人，职业是演员；丙是辽宁人，职业是工人。
+
+小明、小芳、小花各爱好游泳、羽毛球、乒乓球中的一项，并分别在一小、二小、三小中的一所小学上学。现知道：（1）小明不在一小；（2）小芳不在二小（3）爱好乒乓球的不在三小；（4）爱好游泳的在一小；（5）爱好游泳的不是小芳。问：三人上各爱好什么运动？各上哪所小学？
+【考点】逻辑推理           【难度】2星            【题型】解答
+这道题比上例复杂，因为要判断人、学校和爱好三个内容。先将题目条件中给出的关系用下面的表1、表2、表3表示：
+
+　　因为各表中，每行每列只能有一个“√”，所以表3可补全为表4。
+
+由表4、表2知道，爱好游泳的在一小，小芳不爱游泳，所以小芳不在一小。于是可将表1补全为表
+5。对照表5和表4，得到：小明在二小上学，爱好打乒乓球；小芳在三小上学，爱好打羽毛球；小花
+在一小上学，爱好游泳。
+【答案】小明在二小上学，爱好打乒乓球；小芳在三小上学，爱好打羽毛球；小花在一小上学，爱好游泳
+
+小王、小张和小李一位是工人，一位是农民，一位是教师，现在只知道：小李比教师年龄大；小王与农民不同岁；农民比小张年龄小。问：谁是工人？谁是农民？谁是教师？
+【考点】逻辑推理           【难度】2星            【题型】解答
+这道题目并不难，聪明的小朋友思考一下就能得到答案，但是今天我们通过这道题目一起来学习一个十分有用的方法：列表分析法。由题目条件可以知道：小李不是教师，小王不是农民，小张不是农民。由此得到左下表。表格中打“√”表示肯定，打“×”表示否定。
+INCLUDEPICTURE "../../../../htm/活动课四年/DOWNLOAD/LATEST/resource.hkedu.sh.cn/RESOURCE/XX/XXSX/SXBL/BL000018/69_217.jpg" \* MERGEFORMAT 
+因为左上表中，任一行、任一列只能有一个“√”，其余是“×”，所以小李是农民，
+于是得到右上表。因为农民小李比小张年龄小，又小李比教师年龄大，所以小张比教师年龄大，
+即小张不是教师。因此得到左下表，从而得到右下表，即小张是工人，小李是农民，小王是教师。
+INCLUDEPICTURE "../../../../htm/活动课四年/DOWNLOAD/LATEST/resource.hkedu.sh.cn/RESOURCE/XX/XXSX/SXBL/BL000018/69_218.jpg" \* MERGEFORMAT 
+例题中采用列表法，使得各种关系更明确。为了讲解清楚，例题中画了几个表，实际解题时，不用画这么多表，只在一个表中先后画出各种关系即可。需要注意的是：①第一步应将题目条件给出的关系画在表上，然后再依次将分析推理出的关系画在表上；②每行每列只能有一个“√”，如果出现了一个“√”，它所在的行和列的其余格中都应画“×”。
+【答案】小张是工人，小李是农民，小王是教师
+
+甲、乙、丙、丁四个人的职业分别是教师、医生、律师、警察．已知：⑴教师不知道甲的职业；⑵医生曾给乙治过病；⑶律师是丙的法律顾问（经常见面）；⑷丁不是律师；⑸乙和丙从未见过面．那么甲、乙、丙、丁的职业依次是：      ．
+【考点】逻辑推理           【难度】2星            【题型】解答
+律师、教师、警察．由⑶可以知道丙不是律师，但是他见过律师，再由⑸知乙不是律师，又由⑷可知甲是律师．于是由⑴和⑶知丙不是教师，由⑵和⑸知丙不是医生，从而丙是警察．再由⑵知乙是教师，丁是医生．
+列表如下（列表的好处在于直观明了，不会犯错误）：
+
+【答案】律师、教师、警察
+
+徐、王、陈、赵四位师傅分别是工厂的木工、车工、电工和钳工，他们都是象棋迷。（1）电工只和车工下棋；（2）王、陈两位师傅经常与木工下棋；（3）徐师傅与电工下棋互有胜负；（4）陈师傅比钳工下得好。问：徐、王、陈、赵四位师傅各从事什么工种？
+【考点】逻辑推理           【难度】2星            【题型】解答
+徐是车工，王是钳工，陈是木工，赵是电工。
+【答案】徐是车工，王是钳工，陈是木工，赵是电工
+
+甲、乙、丙三个小学生都是少先队的干部，一个是大队长，一个是中队长，一个是小队长．一次数学测验，这三个人的成绩是：⑴丙比大队长的成绩好．⑵甲和中队长的成绩不相同．⑶中队长比乙的成绩差．请你根据这三个人的成绩，判断一下，谁是大队长呢？
+【考点】逻辑推理           【难度】2星            【题型】解答
+根据条件⑵和⑶，甲和中队长的成绩不相同，中队长比乙的成绩差，可以断定，甲不是中队长，乙也不是中队长，只有丙是中队长了（也可以列表确定中队长）．甲和乙两人谁是大队长呢？由⑴和⑶，丙比大队长的成绩好，中队长比乙的成绩差，可以推断出按成绩高低排列的话，乙的成绩比中队长（丙）的成绩好，丙的成绩比大队长的成绩好．这样，乙、丙就都不是大队长，那么，大队长肯定是甲．
+【答案】甲
+
+甲、乙、丙、丁在谈论他们及他们的同学何伟的居住地．
+甲说：“我和乙都住在北京，丙住在天津．”
+乙说：“我和丁都住在上海，丙住在天津．”
+丙说：“我和甲都不住在北京，何伟住在南京．”
+丁说：“甲和乙都住在北京，我住在广州．”
+假定他们每个人都说了两句真话，一句假话．问：不在场的何伟住在哪儿？
+【考点】逻辑推理           【难度】2星            【题型】解答
+因为甲、乙都说“丙住在天津，”我们可以假设这句话是假话，那么甲、乙的前两句应当都是真话，推出乙既住在北京又住在上海，矛盾．所以假设不成立，即“丙住在天津”是真话．因为甲的前两句话中有一句假话，而甲、丁两人的前两句话相同，所以丁的第三句话“我住在广州”是真的．由此知乙的第二句话“丁住在上海”是假话，第一句“我住在上海”是真话；进而推知甲的第二句是假话，第一句“我住在北京”是真话；最后推知丙的第二句话是假话，第三句“何伟住在南京”是真话．所以，何伟住在南京．
+【答案】何伟住在南京
+
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  分别是中国、日本、美国和法国人.已知：⑴ EMBED Equation.DSMT4  和中国人是医生；⑵ EMBED Equation.DSMT4  和法国人是教师；⑶ EMBED Equation.DSMT4  和日本人职业不同；⑷ EMBED Equation.DSMT4  不会看病.问： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  各是哪国人，
+【考点】逻辑推理           【难度】2星            【题型】解答
+有⑴⑵可知， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  都不是中国人和法国人，再由⑴⑷知， EMBED Equation.DSMT4  也不是中国人，所以， EMBED Equation.DSMT4  是中国人，由⑶，日本人也是教师，从而推知， EMBED Equation.DSMT4  是法国人，得下表：
+
+最后由 EMBED Equation.DSMT4  是中国人及⑴⑶，推知日本人是教师，再由⑵知 EMBED Equation.DSMT4  是日本人.
+【答案】 EMBED Equation.DSMT4  是美国人， EMBED Equation.DSMT4  是日本人， EMBED Equation.DSMT4  是中国人， EMBED Equation.DSMT4  是法国人
+
+根据条件判断旅游团去了 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  中的哪几个地方？
+⑴如果去 EMBED Equation.DSMT4  ，就必须去 EMBED Equation.DSMT4  ；
+⑵ EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地至少去一地；
+⑶ EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地只能去一地；
+⑷ EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地要去都去，要不去都不去；
+⑸若去 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地必须去.
+【考点】逻辑推理           【难度】2星            【题型】解答
+从⑶入手，分别假设去 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ：⑶若去 EMBED Equation.DSMT4  则不能去 EMBED Equation.DSMT4  ，⑷也不能去 EMBED Equation.DSMT4  ，⑵只能去 EMBED Equation.DSMT4  .⑸必须去 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，与不能去 EMBED Equation.DSMT4  矛盾.所以不能去 EMBED Equation.DSMT4  假设去 EMBED Equation.DSMT4  ：⑷必去 EMBED Equation.DSMT4  ，⑵需去 EMBED Equation.DSMT4  ，⑸必须去 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，⑴去 EMBED Equation.DSMT4  必须去 EMBED Equation.DSMT4  ，与⑶ EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  不能同去矛盾，所以不能去 EMBED Equation.DSMT4  ．综上只能去 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  .
+【答案】只能去 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  .
+
+甲、乙、丙、丁每人只会中、英、法、日四种语言中的两种，其中有一种语言只有一人会说．他们在一起交谈可有趣啦：⑴乙不会说英语，当甲与丙交谈时，却请他当翻译；⑵甲会日语，丁不会日语，但他们却能相互交谈；⑶乙、丙、丁找不到三人都会的语言；⑷没有人同时会日、法两种语言．请问：甲、乙、丙、丁各会哪两种语言？
+【考点】逻辑推理           【难度】2星            【题型】解答
+由⑴⑵⑷可得下表，其中丙不会日语是因为甲会日语，且甲与丙交谈需要翻译．由下表看出，甲会的另一种语言不是中文就是英语．
+
+　　　　先假设甲会说中文．由⑵知，丁也会中文；由⑴知丙不会中文，再由每人会两种语言，知丙会英、法语（见左下表：由⑴⑷推知乙会中文和法语；再由⑶及每人会两种语言，推知丁会英语（见右下表）．结果符合题意．
+
+　　　　再假设甲会说英语．由⑵知，丁也会英语；由⑴知丙不会英语，再由每人会两种语言，知丙会中文和法语（见左下表）；由⑴⑷ 推知，乙会中文和日语；再由⑶及每人会两种语言，推知丁会法语（见右下表）．右下表与“有一种语言只有一人会说”矛盾．假设不成立．
+
+　　　　所以甲会中、日语，乙会中、法语，丙会英、法语，丁会中、英语．
+【答案】甲会中、日语，乙会中、法语，丙会英、法语，丁会中、英语
+
+宝宝、贝贝、聪聪每人有两个外号，人们有时以“数学博士”、“短跑健将”、“跳高冠军”、“小画家”、“大作家”和“歌唱家”称呼他们，此外：⑴数学博士夸跳高冠军跳的高⑵跳高冠军和大作家常与宝宝一起看电影⑶短跑健将请小画家画贺年卡⑷数学博士和小画家关系很好⑸贝贝向大作家借过书⑹聪聪下象棋常赢贝贝和小画家问：宝宝、贝贝、聪聪各有哪两个外号吗？
+【考点】逻辑推理           【难度】2星            【题型】解答
+由⑵知，宝宝不是跳高冠军和大作家；由 ⑸知，贝贝不是大作家；由⑹知，贝贝、聪聪都不是小画家，可以得到下表：
+
+因为宝宝是小画家，所以由⑶⑷知宝宝不是短跑健将和数学博士，推知宝宝是歌唱家，因为聪聪是大作家，所以由⑵知聪聪不是跳高冠军，推知贝贝是跳高冠军，因为贝贝是跳高冠军，所以由⑴知贝贝不是数学博士，将上面结论依次填入上表，得到下表：
+
+所以，宝宝是小画家和歌唱家，贝贝是短跑健将和跳高冠军，聪聪是数学博士和大作家．
+【答案】宝宝是小画家和歌唱家，贝贝是短跑健将和跳高冠军，聪聪是数学博士和大作家
+
+六年级四个班进行数学竞赛，小明猜想比赛的结果是： EMBED Equation.DSMT4  班第一名， EMBED Equation.DSMT4  班第二名， EMBED Equation.DSMT4  班第三名， EMBED Equation.DSMT4   班第四名．小华猜想比赛的结果是： EMBED Equation.DSMT4  班第一名， EMBED Equation.DSMT4  班第二名， EMBED Equation.DSMT4  班第三名， EMBED Equation.DSMT4  班第四名．结果只有小华猜到的 EMBED Equation.DSMT4  班为第二名是正确的．那么这次竞赛的名次是       班第一名，     班第二名，    班第三名，      班第四名。
+【考点】逻辑推理           【难度】2星            【题型】解答
+【关键词】湖北省，创新杯，初赛
+方法一：依题意， EMBED Equation.DSMT4  班不为第一名也不为第三名，那么 EMBED Equation.DSMT4  班为第四名．同样， EMBED Equation.DSMT4  班不为第二名也不为第一名，那么 EMBED Equation.DSMT4  班为第三名． EMBED Equation.DSMT4  班不为第三名也不为第四名，那么 EMBED Equation.DSMT4  班为第一名．故第一名到第四名依次为 EMBED Equation.DSMT4  班， EMBED Equation.DSMT4  班， EMBED Equation.DSMT4  班， EMBED Equation.DSMT4  班．
+方法二：我们可以将两人的猜测结果列成表格形式，将小明猜想结果用“▲”表示，小华猜测结果用“★”表示，列表如下：
+
+由题意知只有小华猜到的 EMBED Equation.DSMT4  班为第二名正确，其他的全是错误的，所以很容易确定各班名次
+（打√的即为正确的名次）
+
+方法二：题目中只有小华猜到4班为第二名是正确的，那么其他的猜想均为错误的。在其对应的地方打“×”，正确的则打“√”。
+
+【答案】第一名到第四名依次为 EMBED Equation.DSMT4  班， EMBED Equation.DSMT4  班， EMBED Equation.DSMT4  班， EMBED Equation.DSMT4  班
+
+甲、乙、丙、丁、戊五名同学参加推铅球比赛，通过抽签决定出赛顺序．在未公布顺序前每人都对出赛顺序进行了猜测．甲猜：乙第三，丙第五．乙猜：戊第四，丁第五．丙猜：甲第一，戊第四．丁猜：丙第一，乙第二．戊猜：甲第三，丁第四．老师说每人的出赛顺序都至少被一人所猜中，则出赛顺序中，第一是__________；第三是__________．
+【考点】逻辑推理           【难度】2星            【题型】解答
+题中每个人都猜了另外两个人的出场顺序，每个人的出场顺序也都被另外两个人猜过，其中戊被乙和丙猜的都是第四，由于每人的出赛顺序都至少被一人所猜中，所以戊是第四（否则戊的出赛顺序没有人猜中），以此为突破口。由于戊是第四，则在第四列其余地方均打“×”则丁不能第四，所以丁的出赛顺序被乙猜中，为第五，则丙不能是第五，丙只能是第一，甲不能是第一，故甲是第三，乙是第二，所以答案为：第一是丙，第三是甲．
+
+【答案】第一是丙，第三是甲
+
+红、黄、蓝、白、紫五种颜色的珠子各一颗，分别用纸包着，在桌子上排成一行，有 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  五个人，猜各包珠子的颜色，每人只猜两包．
+ EMBED Equation.DSMT4  猜：第二包是紫的，第三包是黄的； EMBED Equation.DSMT4  猜：第二包是蓝的，第四包是红的；
+ EMBED Equation.DSMT4  猜：第一包是红的，第五包是白的； EMBED Equation.DSMT4  猜：第三包是蓝的，第四包是白的；
+ EMBED Equation.DSMT4  猜：第二包是黄的，第五包是紫的．
+猜完后，打开各纸包一看发现每人都只猜对了一包，并且每包只有一人猜对．请你判断他们各猜对了其中的哪一包？ 
+【考点】逻辑推理           【难度】2星            【题型】解答
+方法一：题目要求 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  五个人在猜每包珠子的颜色时每人只猜两包且每人都只猜对了一包每包只有一人猜对，所以观察五包珠子中第一包只有 EMBED Equation.DSMT4  猜，所以 EMBED Equation.DSMT4  猜对了第一包，又根据每人只猜对了一种，所以 EMBED Equation.DSMT4  猜第五包是白的，猜错了；第五包只有 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两人猜，所以 EMBED Equation.DSMT4  猜第五包是紫的，猜对了；那么 EMBED Equation.DSMT4  猜第二包是黄的，猜错了；紫颜色的珠子，只有 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两人猜，那么 EMBED Equation.DSMT4  猜第二包是紫的，猜错了；第二包有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  三人猜，其中 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  都猜错了，所以 EMBED Equation.DSMT4  猜第二包是蓝的，猜对了；那么 EMBED Equation.DSMT4  猜第四包是红的，猜错了；所以 EMBED Equation.DSMT4  猜对的是第四包，是白的． EMBED Equation.DSMT4  猜第三包是蓝的，也猜错了；所以 EMBED Equation.DSMT4  猜对的是第三包，是黄的；
+总结以上推理判断， EMBED Equation.DSMT4  猜对了第三包是黄的， EMBED Equation.DSMT4  猜对了第二包是蓝的， EMBED Equation.DSMT4  猜对了第一包是红的， EMBED Equation.DSMT4  猜对了第四包是白的， EMBED Equation.DSMT4  猜对了第五包是紫的．
+方法二：分析同方法一，第一包只有一人猜对，所以第一包为红色，在第一行的其余地方打上“×”第四包不为红色，第四包为白色，白色不能为第五包，第五包就为紫色，同理可知其余各包颜色。
+
+【答案】 EMBED Equation.DSMT4  猜对了第三包是黄的， EMBED Equation.DSMT4  猜对了第二包是蓝的， EMBED Equation.DSMT4  猜对了第一包是红的， EMBED Equation.DSMT4  猜对了第四包是白的， EMBED Equation.DSMT4  猜对了第五包是紫的
+
+五封信，信封完全相同，里面分别夹着红、蓝、黄、白、紫五种颜色的卡片．现在把它们按顺序排成一行，让 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  五人猜每只信封内所装卡片的颜色．
+　　　　 EMBED Equation.DSMT4  猜：第2封内是紫色，第3封是黄色；
+　　　　 EMBED Equation.DSMT4  猜：第2封内是蓝色，第4封是红色；
+　　　　 EMBED Equation.DSMT4  猜：第1封内是红色，第5封是白色；
+ EMBED Equation.DSMT4  猜：第3封内是蓝色，第4封是白色；
+　　　　 EMBED Equation.DSMT4  猜：第2封内是黄色，第5封是紫色．
+　　　　然后，拆开信封一看，每人都猜对一种颜色，而且每封都有一人猜中．请你根据这些条件，再猜猜，每封信中夹什么颜色的卡片？
+【考点】逻辑推理           【难度】2星            【题型】解答
+把已知条件简明地记录在表格中．选择其中一只信封作为“突破口”．比如第3封， EMBED Equation.DSMT4  猜的是黄色， EMBED Equation.DSMT4  猜的却是蓝色．由已知条件，这只信封内的卡片不是蓝色，就是黄色．假如第3封是蓝色，那么逐步推理可导出矛盾：白色卡片没人猜对．这说明假设不正确，第3封内应是黄色．由此推出其它各封内的颜色．
+【答案】第1封内是红色，第2封内是蓝色，第3封内应是黄色，第4封是白色；第5封是紫色．
+
+老师在3个小箱中各放一个彩色球，让小明、小强、小亮、小佳四人猜一下各个箱子中放了什么颜色的球．
+小明说：“ EMBED Equation.DSMT4  号箱中放的是黄色的， EMBED Equation.DSMT4  号箱中放的是黑色的， EMBED Equation.DSMT4  号箱中放的是红色的．”
+小亮说：“ EMBED Equation.DSMT4  号箱中放的是橙色的， EMBED Equation.DSMT4  号箱中放的是黑色的， EMBED Equation.DSMT4  号箱中放的是绿色的．”
+小强说：“ EMBED Equation.DSMT4  号箱中放的是紫色的， EMBED Equation.DSMT4  号箱中放的是黄色的， EMBED Equation.DSMT4  号箱中放的是蓝色的．”
+	小佳说：“ EMBED Equation.DSMT4  号箱中放的是橙色的， EMBED Equation.DSMT4  号箱中放的是绿色的， EMBED Equation.DSMT4  号箱中放的是紫色的．”
+老师说：“你们中有一个人恰好猜对了两个，其余的三人都只猜对一个．”
+那么 EMBED Equation.DSMT4  号箱子中放的是________色的球．
+【考点】逻辑推理           【难度】2星            【题型】解答
+【关键词】迎春杯 
+由于猜中的总次数为 EMBED Equation.DSMT4  次，所以有一个箱子至少被猜中了 EMBED Equation.DSMT4  次以上，从而这个箱子只能是 EMBED Equation.DSMT4  号箱，推理得出只能是小亮对了 EMBED Equation.DSMT4  次，其他人只对一次，所以 EMBED Equation.DSMT4  号箱只能是橙色的，那么 EMBED Equation.DSMT4  号箱的颜色是蓝色的．
+【答案】蓝色
+
+四张卡片上分别写着奥、林、匹、克四个字（一张上写一个字），取出三张字朝下放在桌上， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  三人分别猜每张卡片上是什么字，猜的情况见下表：
+
+结果，有一人一张也没猜中，一人猜中两张，另一人猜中三张.问：这三张卡片上各写着什么字．
+【考点】逻辑推理           【难度】2星            【题型】解答
+ EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  有两张猜的相同，必有一人全对，一人对两张，因此， EMBED Equation.DSMT4  全错，推知 EMBED Equation.DSMT4  全对.
+【答案】林、匹、克
+
+老师让小新把小胖、小贝、小丸子、小淘气、小马虎的作业本带回去，小新见到这五人后就一人给了一本，结果全发错了．现在知道：⑴小胖拿的不是小贝的，也不是小淘气的；⑵小贝拿的不是小丸子的，也不是小淘气的；⑶小丸子拿的不是小贝的，也不是小马虎的；⑷小淘气拿的不是小丸子的，也不是小马虎的；⑸小马虎拿的不是小淘气的，也不是小胖的．另外，没有两人相互拿错(例如小胖拿小贝的，小贝拿小胖的)．问：小丸子拿的是谁的本？小丸子的本被谁拿走了？
+【考点】逻辑推理           【难度】2星            【题型】解答
+根据“全发错了”及条件⑴～⑸，可以得到下表：
+
+由表1看出，小淘气的本被小丸子拿了．此时，再继续推理分析不大好下手，我们可用假设法．
+由上表知，小胖拿的本不是小丸子的就是小马虎的．先假设小胖拿了小丸子的本．于是得到下表，
+表中小贝拿小马虎的本，小马虎拿小贝的本．两人相互拿错，不合题意．
+
+再假设小胖拿小马虎的本．于是又可得表，经检验，下表符合题意．
+
+所以小丸子拿了小淘气的本，小丸子的本被小马虎拿去了．
+【答案】小丸子拿了小淘气的本，小丸子的本被小马虎拿去了
+
+模块二、假设推理
+甲、乙、丙三人，一个总说谎，一个从不说谎，一个有时说谎．有一次谈到他们的职业．甲说：“我是油漆匠，乙是钢琴师，丙是建筑师．”乙说：“我是医生，丙是警察，你如果问甲，甲会说他是油漆匠．”丙说：“乙是钢琴师，甲是建筑师，我是警察．”你知道谁总说谎吗？
+【考点】逻辑推理           【难度】2星            【题型】解答
+甲．如果甲从不说谎，那么乙的最后一句、丙的第一句都对，没有总说谎的人，矛盾；同理，如果丙从不说谎，也将推出矛盾．
+【答案】甲
+
+在神话王国内，居民不是骑士就是骗子，骑士不说谎，骗子永远说谎，有一天国王遇到该国的居民小白、小黑、小蓝，小白说：“小蓝是骑士，小黑是骗子．”，小蓝说：“小白和我不同，一个是骑士，一个是骗子．”国王很快判断出谁是骑士，谁是骗子．你能判断出吗？
+【考点】逻辑推理           【难度】2星            【题型】解答
+假设小白是骑士（说实话），则小蓝是骑士，小黑是骗子；又因为小蓝是骑士，那么小白、小蓝不同，一个是骑士，一个是骗子，与小白、小蓝均为骑士矛盾．假设小白是骗子（说假话），那么小蓝是骗子，小黑是骑士，又因为小蓝是骗子，所以小白、小蓝不同是假话．因此，小白、小蓝是骗子，小黑是骑士.
+【答案】小白、小蓝是骗子，小黑是骑士.
+
+一个骗子和一个老实人一路同行，骗子总是讲假话，老实人总是讲真话．请提一个尽量简单的问题，使两人的回答相同．这个问题可以是                  .
+【考点】逻辑推理           【难度】2星            【题型】解答
+这个问题可以是：你是老实人吗?如果问的问题是客观的，也就是说对于这两个人来说真正的答案是一样的话，那么他们的回答肯定不一样．所以要问一个与他们自身相关的问题，例如你是老实人吗?或者问你是骗子吗?这样他们的回答才会一样．
+【答案】你是老实人吗?
+
+甲说：“乙和丙都说谎。”乙说：“甲和丙都说谎。”丙说：“甲和乙都说谎。”根据三人所说，你判断一下，下面的结论哪一个正确：（1）三人都说谎；（2）三人都不说谎；（3）三人中只有一人说谎；（4）三人中只有一人不说谎。
+【考点】逻辑推理           【难度】2星            【题型】解答
+（4）正确。
+【答案】（4）正确
+
+某地质学院的学生对一种矿石进行观察和鉴别。甲判断：不是铁，也不是铜。乙判断：不是铁，而是锡。丙判断：不是锡，而是铁。经化验证明：有一个人的判断完全正确，有一个人说对了一半，而另一个人完全说错了。你知道三人中谁是对的，谁是错的，谁是只对一半的吗？
+【考点】逻辑推理           【难度】2星            【题型】解答
+丙全说对了，甲说对了一半，乙全说错了。先假设甲全对，推出矛盾后，再设乙全对，又推出矛盾，则说明丙全对，甲说对了一半，乙全说错了。
+【答案】甲说对了一半
+
+三只小猴子聪聪、淘淘、皮皮见到一个水果，他们分别判断这是什么水果：聪聪判断：不是苹果，也不是梨．淘淘判断：不是苹果，而是桃子．皮皮判断：不是桃子，而是苹果．老猴子告诉他们：有一只小猴子的判断完全正确，有一只小猴子说对了一半，而另一只小猴子完全说错了．你知道三只小猴中谁是对的，谁是错的，谁是只对一半的吗？
+【考点】逻辑推理           【难度】2星            【题型】解答
+先设聪聪全对，不是苹果，也不是梨只能是桃子，那么淘淘两句也都说对了，推出矛盾；再设淘淘全对，不是苹果，而是桃子，推出这个水果是桃子，那么聪聪说的也都对了，又推出矛盾；则说明皮皮全对，那么这种水果是苹果，聪聪说对了一半，淘淘全说错了．
+【答案】聪聪说对了一半
+
+ EMBED Equation.DSMT4  名运动员参加一项比赛，赛前，甲说：“我肯定是最后一名．”乙说：“我不可能是第一名，也不可能是最后一名．”丙说：“我绝对不会得最后一名．”丁说：“我肯定得第一名．”赛后，发现他们 EMBED Equation.DSMT4  人的预测中只有一人是错误的．请问谁的预测是错误的？
+【考点】逻辑推理           【难度】2星            【题型】解答
+【关键词】太原，福布斯迎奥运数学展示活动
+假设甲的预测是错的，那么其他三人的预测都是对的，那么甲不是最后一名，乙和丙也不是最后一名，丁是第一名，这样的话没有人是最后一名，矛盾．所以甲的预测是对的，甲是最后一名，那么丙的预测也是对的．如果乙的预测是错的，那么乙是第一名，而丁的预测是对的，丁也是第一名，矛盾．所以乙的预测是对的，丁的预测是错的．
+【答案】丁的预测是错的
+
+甲、乙、丙、丁在比较他们的身高，甲说：“我最高．”乙说：“我不最矮．”丙说：“我没甲高，但还有人比我矮．”丁说：“我最矮．”实际测量的结果表明，只有一人说错了．请将他们按身高次序从高到矮排列出来．
+【考点】逻辑推理           【难度】2星            【题型】解答
+丁不可能说错，否则就没有人最矮了．由此知乙没有说错．若甲也没有说错，则没有人说错，矛盾．所以只有甲一人说错．所以丁是最矮的，甲不是最高的，丙没甲高，但还有人比他矮，那么只能是甲第二高，丙第三高，乙最高．所以他们的身高次序为乙、甲、丙、丁．
+【答案】身高次序为乙、甲、丙、丁
+
+百米决赛前，小芳对参赛的五名选手的名次作了预测，比赛的结果同她预测的名次全不相同．由下图知小芳预测为第一名的选手的实际名次是第      名．
+
+【考点】逻辑推理           【难度】2星            【题型】解答
+【关键词】希望杯，一试
+假设小芳预测第一名、第二名、第三名、第四名、第五名对应的人分别是甲、乙、丙、丁、戊，由小芳说的话知第四名丁就是实际名次的第一名, 预测的第二名乙就是实际名次的第三名, 预测的第三名丙就是实际名次的第二名,因此实际的第一名、第二名、第三名的人分别是丁、丙、乙，又知道比赛的结果同她预测的名次全不相同,所以小芳预测的第五名戊只能是实际的第四名了，这样实际名次的第五名只能是小芳预测的第一名甲了.（如下表所述）
+
+【答案】第五名
+
+在期末考试前，学生 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别预测他们的成绩是 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，评分标准是 EMBED Equation.DSMT4  比 EMBED Equation.DSMT4   好， EMBED Equation.DSMT4  比 EMBED Equation.DSMT4  好， EMBED Equation.DSMT4  比 EMBED Equation.DSMT4  好．
+ EMBED Equation.DSMT4  说：“我们的成绩都将不相同．若我的成绩得 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  将得 EMBED Equation.DSMT4  ．”
+ EMBED Equation.DSMT4  说：“若 EMBED Equation.DSMT4  的成绩得 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  将得 EMBED Equation.DSMT4  ． EMBED Equation.DSMT4  的成绩将比 EMBED Equation.DSMT4  好．”
+ EMBED Equation.DSMT4  说：“若 EMBED Equation.DSMT4  的成绩不是得到 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  将得 EMBED Equation.DSMT4  ．若我的成绩得到 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  的成绩将不是 EMBED Equation.DSMT4  ．”
+ EMBED Equation.DSMT4  说：“若 EMBED Equation.DSMT4  的成绩得到 EMBED Equation.DSMT4  ，则我将得到 EMBED Equation.DSMT4  ．若 EMBED Equation.DSMT4  的成绩不是得到 EMBED Equation.DSMT4  ，则我也将不会得到 EMBED Equation.DSMT4  ．”
+当期末考试的成绩公布，每位学生所得到的成绩都完全符合他们的预测．请问这四位学生的成绩分别是什么？
+【考点】逻辑推理           【难度】2星            【题型】解答
+【关键词】台湾，小学数学世界邀请赛
+由于每位学生所得到的成绩都完全符合他们的预测，所以 EMBED Equation.DSMT4  说：“ EMBED Equation.DSMT4  的成绩将比 EMBED Equation.DSMT4  好”是正确的，这样 EMBED Equation.DSMT4  将不可能得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  不可能得 EMBED Equation.DSMT4  ．这样 EMBED Equation.DSMT4  不可能得 EMBED Equation.DSMT4  （否则 EMBED Equation.DSMT4  得 EMBED Equation.DSMT4  ）．
+⑴如果 EMBED Equation.DSMT4  得 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  将得 EMBED Equation.DSMT4  ．由于 EMBED Equation.DSMT4  的成绩不是得到 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  将得 EMBED Equation.DSMT4  ，这与 EMBED Equation.DSMT4  得 EMBED Equation.DSMT4  矛盾．所以 EMBED Equation.DSMT4  不得 EMBED Equation.DSMT4  ．
+⑵如果 EMBED Equation.DSMT4  得 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  将得到 EMBED Equation.DSMT4  ．但这样 EMBED Equation.DSMT4  的成绩将不可能比 EMBED Equation.DSMT4  好，矛盾．所以 EMBED Equation.DSMT4  不得 EMBED Equation.DSMT4  ．
+⑶由于 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  均不得 EMBED Equation.DSMT4  ，那么只有 EMBED Equation.DSMT4  得 EMBED Equation.DSMT4  ．
+⑷如果 EMBED Equation.DSMT4  得 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  的成绩将不是 EMBED Equation.DSMT4  ．这样 EMBED Equation.DSMT4  的成绩将是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的成绩将是 EMBED Equation.DSMT4  ，矛盾．所以 EMBED Equation.DSMT4  不得 EMBED Equation.DSMT4  ．由于 EMBED Equation.DSMT4  不得 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  得 EMBED Equation.DSMT4  ．
+⑸由于 EMBED Equation.DSMT4  的成绩比 EMBED Equation.DSMT4  好，所以剩下的 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  只能是 EMBED Equation.DSMT4  得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  得 EMBED Equation.DSMT4  ．
+所以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的成绩分别是 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  
+
+一位法官在审理一起盗窃案中，对涉及到的四名嫌疑犯甲、乙、丙、丁进行了审问．四人分别供述如下：
+　　    甲说：“罪犯在乙、丙、丁三人之中．”
+　　    乙说：“我没有作案，是丙偷的．”
+　　    丙说：“在甲和丁中间有一人是罪犯．”
+　　    丁说：“乙说的是事实．”
+经过充分的调查，证实这四人中有两人说了真话，另外两人说的是假话．
+同学们，请你做一名公正的法官，对此案进行裁决，确认谁是罪犯？
+【考点】逻辑推理           【难度】2星            【题型】解答
+如果甲说的是假话，那么剩下三人中有一人说的也是假话，另外两人说的是真话．可是乙和丁两人的观点一致，所以在剩下的三人中只能是丙说了假话，乙和丁说的都是真话．即“丙是盗窃犯”．这样一来，甲说的也是对的，不是假话．这样，前后就产生了矛盾．所以甲说的不可能是假话，只能是真话．同理，剩下的三人中只能是丙说真话．乙和丁说的是假话，即丙不是罪犯，乙是罪犯．又由甲所述为真话，即甲不是罪犯．再由丙所述为真话，即丁是罪犯．所以乙和丁是盗窃犯．
+【答案】乙和丁是盗窃犯
+
+四个小朋友宝宝、星星、强强和乐乐在院子里踢足球，一阵响声，惊动了正在读书的陆老师，陆老师跑出来查看，发现一块窗户玻璃被打破了。陆老师问：“是谁打破了玻璃？”
+宝宝说：“是星星无意打破的。”
+星星说：“是乐乐打破的。”
+乐乐说：“星星说谎。”
+强强说：“反正不是我打破的。”
+如果只有一个孩子说了实话，那么这个孩子是谁？是谁打破了玻璃？
+【考点】逻辑推理           【难度】2星            【题型】解答
+因为星星和乐乐说的正好相反，所以必是一对一错，我们可以逐一假设检验。
+　　    假设星星说得对，即玻璃窗是乐乐打破的，那么强强也说对了，这与“只有一个孩子说了实话”矛盾，所以星星说错了。
+　　    假设乐乐说对了，按题意其他孩子就都说错了。由强强说错了，推知玻璃是强强打破的。宝宝、星星确实都说错了。符合题意。
+　　    所以是强强打破了玻璃。
+【答案】强强打破了玻璃
+
+ EMBED Equation.DSMT4  名谋杀案的嫌疑人，在犯罪现场被警察询问，其中有一名是凶手．下面 EMBED Equation.DSMT4  个人的供述中，只有 EMBED Equation.DSMT4   句是对的：
+ EMBED Equation.DSMT4  说： EMBED Equation.DSMT4  是杀人犯；
+ EMBED Equation.DSMT4  说：我是无辜的；
+ EMBED Equation.DSMT4  说： EMBED Equation.DSMT4  不是杀人犯；
+ EMBED Equation.DSMT4  说： EMBED Equation.DSMT4  在说谎；
+ EMBED Equation.DSMT4  说： EMBED Equation.DSMT4  说的是实话．
+在这 EMBED Equation.DSMT4  个人中，            是凶手．
+【考点】逻辑推理           【难度】2星            【题型】解答
+【关键词】武汉明心奥数挑战赛
+ EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  判断相同，要么都对，要么都错．
+假设 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  都错，即凶手是 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  也错，就出现了 EMBED Equation.DSMT4  句错的，与“有 EMBED Equation.DSMT4  句是对的”矛盾．所以 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  都是对的．
+余下的 EMBED Equation.DSMT4  人中还有 EMBED Equation.DSMT4  人判断是对的，由于 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  互相矛盾，所以这两个人中必有一个是对的，一个是错的，由于只有 EMBED Equation.DSMT4  句是对的，那么 EMBED Equation.DSMT4  必定是错的，所以 EMBED Equation.DSMT4  是凶手．
+【答案】 EMBED Equation.DSMT4  是凶手
+
+三位女孩 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  进行百米赛跑，裁判 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  在赛前猜测她们之间的名次。 EMBED Equation.DSMT4  说：“我猜 EMBED Equation.DSMT4  是第一名。” EMBED Equation.DSMT4  说：“我猜 EMBED Equation.DSMT4  不会是最后一名。” EMBED Equation.DSMT4  说：“我猜 EMBED Equation.DSMT4  不会是第一名。”成绩揭晓后已知恰只有一位裁判的猜测是正确的，请问哪位女孩得第一名？
+【考点】逻辑推理           【难度】2星            【题型】解答
+【关键词】香港，保良局小学数学世界邀请赛个人赛
+假设 EMBED Equation.DSMT4  是第一名，那么 EMBED Equation.DSMT4  猜测正确， EMBED Equation.DSMT4  猜测正确，出现矛盾。假设 EMBED Equation.DSMT4  是第一名，那么 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  猜测错误，而当 EMBED Equation.DSMT4  为第二名时， EMBED Equation.DSMT4  猜测正确。假设 EMBED Equation.DSMT4  为第一名，那么 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  猜测正确，出现矛盾，所以第一名是 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+小强、小明、小勇三人参加数学竞赛，他们分别来自甲、乙、丙三个学校，并分别获得一、二、三等奖．已知：⑴小强不是甲校选手；⑵小明不是乙校选手；⑶甲校的选手不是一等奖；⑷乙校的选手得二等奖；⑸小明不是三等奖．根据上述情况，可判断出小勇是　　　校的选手，他得的是　　等奖．
+【考点】逻辑推理           【难度】2星            【题型】解答
+甲校；三等奖．由⑵、小明得的不是二等奖，由⑸知小明得的不是三等奖，所以小明得的是-等奖，由⑶、⑷知小明是丙校的，由⑴知小强是乙校的，所以小勇是甲校的，他得的是三等奖．
+【答案】三等奖
+
+甲，乙，丙，丁四个同学中有两个同学在假日为街道做好事，班主任把这四人找来了解情况，四人分别回答如下．甲：“丙、丁两人中有人做了好事．”
+乙：“丙做了好事，我没做．”
+丙：“甲、丁中只有一人做了好事．”
+丁：“乙说的是事实．”最后通过仔细分析调查，发现四人中有两人说的是事实，另两人说的与事
+实有出入．到底是谁做了好事？
+【考点】逻辑推理           【难度】2星            【题型】解答
+我们用假设法来解决．题目说四人中有两人说的是事实，另两人说的与事实有出入．注意，此处的“与事实有出入”表示不完全与事实相符，比如，当乙、丙都做了好事，或乙、丙都没做好事，或乙做了好事而丙没做好事时，乙说的话都与事实有出入．
+　　    因为乙与丁说的是一样的，所以只有两种可能，要么乙与丁正确，甲与丙错；要么乙与丁错，甲与丙正确．
+⑴假设乙与丁说的话正确．这时丙做了好事，甲说丙、丁两人中有人做了好事，甲说的话也正确，这与题目条件只有“两人说的是事实”相矛盾．所以假设错误．
+　　    ⑵假设甲与丙说的话正确．那么做好事的是甲与丙，或乙与丁，或丙与丁．若做好事的是甲与丙，或丙与丁，则乙说的话也正确，与题意不符；若做好事的是乙与丁，则乙说的话与事实不符，符合题意．综上所述，做好事的是乙与丁．
+【答案】乙与丁
+
+甲、乙、丙、丁四人同时参加全国小学数学夏令营。赛前甲、乙、丙分别做了预测。甲说：“丙第 EMBED Equation.DSMT4  名，我第 EMBED Equation.DSMT4  名。”乙说：“我第 EMBED Equation.DSMT4  名，丁第 EMBED Equation.DSMT4  名。”丙说：“丁第 EMBED Equation.DSMT4  名，我第 EMBED Equation.DSMT4   名。”成绩揭晓后，发现他们每人只说对了一半，你能说出他们的名次吗？
+【考点】逻辑推理           【难度】2星            【题型】解答
+我们以“他们每人只说对了一半”作为前提，进行逻辑推理。
+　　    假设甲说的第一句话“丙第 EMBED Equation.DSMT4  名”是对的，第二句话“我第 EMBED Equation.DSMT4  名”是错的。由此推知乙说的“我第 EMBED Equation.DSMT4  名”是错的，“丁第 EMBED Equation.DSMT4  名”是对的；丙说的“丁第 EMBED Equation.DSMT4  名”是错的，“丙第 EMBED Equation.DSMT4  名”是对的。这与假设“丙第 EMBED Equation.DSMT4  名是对的”矛盾，所以假设不成立。
+　　    再假设甲的第二句话“我第 EMBED Equation.DSMT4  名”是对的，那么丙说的第二句“我第 EMBED Equation.DSMT4  名”是错的，从而丙说的第一句话“丁第 EMBED Equation.DSMT4  名”是对的；由此推出乙说的“丁第 EMBED Equation.DSMT4  名”是错的，“我第 EMBED Equation.DSMT4  名”是对的。至此可以排出名次顺序：乙第 EMBED Equation.DSMT4  名、丁第 EMBED Equation.DSMT4  名、甲第 EMBED Equation.DSMT4  名、丙第 EMBED Equation.DSMT4  名。
+【答案】乙第 EMBED Equation.DSMT4  名、丁第 EMBED Equation.DSMT4  名、甲第 EMBED Equation.DSMT4  名、丙第 EMBED Equation.DSMT4  名
+
+编号分别为1，2，3，4的四位同学参加了学校的110米栏比赛，获得了全校的前四名，1号同学说：“3号比我先到达终点.”得第三名的同学说：“1号不是第四名.”而另一位同学说：“我们的号码与我们所得的名次都不相同.”聪明的同学们，你们能说出这四位同学各自所得到的名次吗？
+【考点】逻辑推理           【难度】2星            【题型】解答
+从得第三名同学的话中可以推知：1号不是第三名，也不是第四名；而1号同学又说“3号比我先到终点”，这说明1号同学不是第一名，这样我们可以得知1号同学是第二名，于是3号同学是第一名， 而另一位同学说：“我们的号码与我们所得的名次都不相同.”，这样4号不是第四名，只能是第三名，所以获得第四名的同学是2号.
+【答案】得第四名的同学是2号
+
+在一次数学竞赛中， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  五位同学分别得了前五名（没有并列同一名次的），关于各人的名次大家作出了下面的猜测： EMBED Equation.DSMT4  说：“第二名是 EMBED Equation.DSMT4  ，第三名是 EMBED Equation.DSMT4  ．”  EMBED Equation.DSMT4  说：“第二名是 EMBED Equation.DSMT4  ，第四名是 EMBED Equation.DSMT4  ．”  EMBED Equation.DSMT4  说：“第一名是 EMBED Equation.DSMT4  ，第五名是 EMBED Equation.DSMT4  ．”  EMBED Equation.DSMT4  说：“第三名是 EMBED Equation.DSMT4  ，第四名是 EMBED Equation.DSMT4  ．”  EMBED Equation.DSMT4  说：“第二名是 EMBED Equation.DSMT4  ，第五名是 EMBED Equation.DSMT4  ．”结果每人都只猜对了一半，他们的名次如何？
+【考点】逻辑推理           【难度】2星            【题型】解答
+假设 EMBED Equation.DSMT4  猜的第一句是真的，那么 EMBED Equation.DSMT4  猜的第二句是真的，即第四名是 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  猜的“ EMBED Equation.DSMT4  是第一名”是错的， EMBED Equation.DSMT4  是第五名，那么 EMBED Equation.DSMT4  猜的 EMBED Equation.DSMT4  是第三名是对的，那么 EMBED Equation.DSMT4  就是第一名，从而 EMBED Equation.DSMT4  说的全是错的，所以假设不成立．所以 EMBED Equation.DSMT4  猜的第二句是真的，即 EMBED Equation.DSMT4  是第三名，那么 EMBED Equation.DSMT4  猜的第一句是错的，从而 EMBED Equation.DSMT4  是第四名，所以 EMBED Equation.DSMT4  猜的第二句是错的， EMBED Equation.DSMT4  是第一名，从而 EMBED Equation.DSMT4  猜的 EMBED Equation.DSMT4  是第二名是对的， EMBED Equation.DSMT4  猜的第五名是 EMBED Equation.DSMT4  正确，所以，第一名是 EMBED Equation.DSMT4  ，第二名是 EMBED Equation.DSMT4  ，第三名是 EMBED Equation.DSMT4  ，第四名是 EMBED Equation.DSMT4  ，第五名是 EMBED Equation.DSMT4  ．
+【答案】第一名是 EMBED Equation.DSMT4  ，第二名是 EMBED Equation.DSMT4  ，第三名是 EMBED Equation.DSMT4  ，第四名是 EMBED Equation.DSMT4  ，第五名是 EMBED Equation.DSMT4  
+
+传说有个说谎国，这个国家的男人在星期四、五、六、日说真话，在星期一、二、三说假话；女人在星期一、二、三、日说真话，在星期四、五、六说假话．有一天，一个人到说谎国去旅游，他在那里认识了一男一女．男人说：“昨天我说的是假话”，女人说：“昨天也是我说假话的日子”．这下，那个外来的游人可发愁了，到底今天星期几呢？请同学们根据他们说的话，判断一下今天是星期几呢？
+【考点】逻辑推理           【难度】2星            【题型】解答
+假设男人今天说的是真话，那么今天是星期四、五、六、日其中的一天，而且今天的前一天男人说的是假话，所以，根据男人的话，确定今天是星期四，所以女人说的话是假话，昨天也就是星期三女人说的是真话，符合题意，所以，今天是星期四.
+【答案】今天是星期四
+
+从A，B，C，D，E，F六种产品中挑选出部分产品去参加博览会。根据挑选规则，参展产品满足下列要求：（1）A，B两种产品中至少选一种；（2）A，D两种产品不能同时入选；（3）A，E，F三种产品中要选两种；（4）B，C两种产品都入选或都不能入选；（5）C，D两种产品中选一种；（6）若D种产品不入选，则E种也不能入选。　问：哪几种产品被选中参展？
+【考点】逻辑推理           【难度】2星            【题型】解答
+用假设法。从条件（1）开始，有三种情况：
+①假设选A不B选，由（2）知D不能入选，再由（5）知C入选，再由（4）推知C，B同时入选，与前面假设不选B矛盾。假设不成立。
+②假设选B不选A，由（3）知选E，F，由（6）知D入选，再由（5）知C不入选，再由（4）推知B，C都不入选，与假设选B矛盾。假设不成立。
+③假设A，B都入选，由（2）知D不入选，由（6）知E也不入选，再由（3）知F入选，由（4）知C入选。符合题意。因此，A，B，C，F选中参展。
+【答案】A，B，C，F选中参展
+
+三年级一班新转来三名学生，班主任问他们三人的年龄．刘强说：“我12岁，比陈红小2岁，比李丽大1岁．”陈红说：“我不是年龄最小的，李丽和我差3岁，李丽是15岁．”李丽说：“我比刘强年岁小，刘强13岁，陈红比刘强大3岁．”这三位学生在他们每人说的三句话中，都有一句是错的．请你帮助班主任分析出他们三人各是多少岁？
+【考点】逻辑推理           【难度】2星            【题型】解答
+经过审题，仔细分析这九句话，不难发现有两句话是相互矛盾的．一句话是刘强说的第一句话：“我12岁”，另一句话是李丽说的第二句话：“刘强13岁”．这两句话不能都真，必有一句是假的．为了确定这两句话的真假性．可以先假设某一句为真，如果推不出矛盾，本题就获得了解决；如果推出矛盾，就说明这句话是假的，从而也就找到了突破口．先假设刘强说的第一句话“我12岁”为真，那么李丽说的第二句话“刘强13岁”就为假，因此李丽的另外两句话就应该是真话，从“陈红比刘强大3岁”就推出陈红是15岁；又从“我比刘强年岁小”推出李丽小于12岁．可是这样一来，陈红说的三句话中，“李丽和我差3岁”和“李丽15岁”这两句话都不能成立，这与本题中的要求(“每人说的三句话中，都有一句是错的”，即三句话中有两句话是真的)相矛盾．因此，刘强说的“我12岁”这句话是假的．由于刘强说的第一句话是假的，所以后两句话就是真的．因此，李丽说的第三句话“陈红比刘强大3岁”就是假的，所以，李丽说的第二句话“刘强13岁”就是真的．于是就可以推出：李丽12岁，陈红15岁，刘强13岁．
+【答案】李丽12岁，陈红15岁，刘强13岁
+
+甲和乙做猜数的游戏。首先，甲在纸上写 EMBED Equation.DSMT4  个各位数字都不同的四位数，写好后将纸翻过来。不让乙看到，然后让乙猜这个四位数的各位数字。如果数字和位数都猜对了就是○，如果数字对而位数不对就是△。
+例如：甲写的是 EMBED Equation.DSMT4  ，乙猜的是 EMBED Equation.DSMT4  ，那么就是 EMBED Equation.DSMT4  个○， EMBED Equation.DSMT4  个△。
+请阅读以下对话并回答问题： 
+乙：“我猜 EMBED Equation.DSMT4  ”，甲：“ EMBED Equation.DSMT4  个○， EMBED Equation.DSMT4  个△。”
+乙：“ EMBED Equation.DSMT4  ？”，甲：“也是 EMBED Equation.DSMT4  个○， EMBED Equation.DSMT4  个△。”
+乙：“ EMBED Equation.DSMT4  ？”，甲：“也是 EMBED Equation.DSMT4  个○， EMBED Equation.DSMT4  个△。”
+乙：“ EMBED Equation.DSMT4  呢？”，甲：“ EMBED Equation.DSMT4  个△。”
+乙：“哇，猜不着呀， EMBED Equation.DSMT4  呢？”甲：“也是 EMBED Equation.DSMT4  个△。”
+（1）：请从以上的对话中答出甲最可能写的 EMBED Equation.DSMT4  个四位数。
+后来，甲发现自己刚才的回答中对四位数的判断有误。
+甲：“对不起，刚才有搞错的。”乙：“啊！那么 EMBED Equation.DSMT4  ”
+甲“只是 EMBED Equation.DSMT4  个数字搞错了，在刚才说到的数字中，只是对 EMBED Equation.DSMT4  的判断有误，正确的回答应该是 EMBED Equation.DSMT4  个○， EMBED Equation.DSMT4  个△。”
+乙“稍等一会儿 EMBED Equation.DSMT4  ，啊！我知道啦！甲写的四位数是         吗”？
+甲：“对啦！你真棒！”
+(2)：请问甲写的这个四位数是什么？
+【考点】逻辑推理           【难度】3星            【题型】解答
+【关键词】日本小学算术奥林匹克大赛，决赛
+如下表：
+
+由1、4次猜测结果知，2到9中包含了正确数字中的全部四位数字，也即甲写的数字各位都不是0或1；由2、3次猜测结果，同理知甲写的数字各位都不是1或4；再考察第3、4次猜测结果，由于其中的0和4一定是错的，而且两次各猜对了正确数字四位数中的两位，可以先假设甲写的数字各位上没有3，那么甲写的数字各位就是2、5、7、8，那么第5次猜测的结果就应该是（0，1）或者（1，0）而非（0，2）。因此甲写的数字一定有一位是3；再由第5次猜测结果，甲所写的数字各位有且只有6、8、9中的一个；于是由第1次猜测结果，甲所写的数字中一定有一位是5
+再综合第3、5次猜测结果，知甲所写的数字各位上没有8，而一定有且只有6、9其一
+根据第2次的猜测结果，甲所写的数字应该有一位是2、7其一。
+假定第1、3次猜测中位数对的数字是5，那么根据第3、5次的猜测结果
+可以判断出3在甲所写的数字的个位上
+于是由第2次猜测结果，2或7一定是数字对而位数不对的，那么6或9一定是数字对且位数对的，于是甲可能写的数字是：6253、2953或7953
+假定第1、3次猜测中位数对的数字不是5，那么第3次猜测中位数对的数字一定是3，
+第1次猜测中位数对的数字只能是6而不能是9，于是只能第百位是5，十位是7，
+这时甲可能写的数字只有3576
+综上所述，甲可能写的四位数是6253、2953、7953或3576
+（2）由上述前半部分推理，仍然能判断出甲写的数字各位上一定有3和5，
+且仍然6、9中有其一，而2、7中有其一。
+仍然先假设第3次猜测中数字对且位数对的是3，那么第1次猜测中数字对且位数对的只能是6，
+而不能是5或9。那么由于第1次猜测中5是数字对而位数不对的，则5只能放在百位，
+又由于第2次猜测中有一位数字对且位数对，所以只能是十位上为7，这时这个四位数是3576，
+但这时第4次猜测将没有数字对且位数对的数，与甲的叙述不附，因此最开始的假设不成立。
+那么第3次猜测中数字对且位数对的数只能是5，由第3、5次猜测结果可以推知，
+3不在千位也不在百位，那么3只能在个位。
+考虑到第四次猜测中要有一位数字对且位数对，只能是百位上的7，
+再由第1次猜测的结果推出千位上不能是9而只能是6，
+于是这个四位数是6753，经过检验可知，这个四位数满足所有五个条件，
+因此甲写的四位数就是6753。
+【答案】甲写的四位数就是6753
+
+一只皮箱的密码是一个三位数。小光说：“它是954。”小明说：“它是358。”小亮说：“它是214。”小强说：“你们每人都只猜对了位置不同的一个数字。”这只皮箱的密码是          。
+【考点】逻辑推理           【难度】2星            【题型】解答
+每个人只猜了位置不同的一个数字，也就是说一样的数字必然不对，“5、4”第一位肯定是9，第三位是8，第二位是1，密码就是918。
+【答案】918
+
+一次数学考试，共六道判断题．考生认为正确的就画“√”，认为错误的就画“ EMBED Equation.DSMT4  ”．记分的方法是：答对一题给2分；不答的给1分；答错的不给分．已知 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  七人的答案及前六个人的得分记录在表中，请在表中填出 EMBED Equation.DSMT4  的得分．并简单说明你的思路．
+
+【考点】逻辑推理           【难度】2星            【题型】解答
+由于 EMBED Equation.DSMT4  得了9分，说明他只答错了一道题．先假定答错的是第1题，这样就有一个标准答案，并由此可分析其他人的得分．如出现矛盾，再假定 EMBED Equation.DSMT4  答错的是第2题……直到判断出 EMBED Equation.DSMT4  答错的题号为止．有了正确的答案，就可以写出 EMBED Equation.DSMT4  的得分．
+假设 EMBED Equation.DSMT4  的第1题答错，那么 EMBED Equation.DSMT4  至少错3道题，一题未答，最多得5分，与 EMBED Equation.DSMT4  得7分矛盾．所以 EMBED Equation.DSMT4  第1题答对．
+假设 EMBED Equation.DSMT4  第2题答错，可知 EMBED Equation.DSMT4  最多得3分，矛盾．所以 EMBED Equation.DSMT4  第2题答对．
+假设 EMBED Equation.DSMT4  第3题答错，则 EMBED Equation.DSMT4  最多得3分，矛盾．所以 EMBED Equation.DSMT4  第3题答对．
+假设 EMBED Equation.DSMT4  第6题答错，则 EMBED Equation.DSMT4  最多得3分，矛盾．所以 EMBED Equation.DSMT4  第6题答对．
+由于 EMBED Equation.DSMT4  得9分，因此 EMBED Equation.DSMT4  只答错一题，因此 EMBED Equation.DSMT4  第4题答错，于是 EMBED Equation.DSMT4  的第2，4两题对，3，6两题错．而 EMBED Equation.DSMT4  得7分，说明 EMBED Equation.DSMT4  的第5题是对的．由 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  两人的答案，可得一标准答案如下表：
+
+按此标准评分，与题中所给 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  得分相符合，所以 EMBED Equation.DSMT4  的第4题确实答错了．
+上表的答案是正确的．故可知 EMBED Equation.DSMT4  得8分．
+【答案】 EMBED Equation.DSMT4  得8分
+
+学校新来了一位老师，五个学生分别听到如下的情况：⑴是一位姓王的中年女老师，教语文课；⑵是一位姓丁的中年男老师，教数学课；⑶是一位姓刘的青年男老师，教外语课；⑷是一位姓李的青年男老师，教数学课；⑸是一位姓王的老年男老师，教外语课．他们每人听到的四项情况中各有一项正确．问：真实情况如何？
+【考点】逻辑推理           【难度】2星            【题型】解答
+真实情况是姓刘的老年女老师，教数学．假设是男老师，由⑵、⑶、⑸知，他既不是青年、中年，也不是老年，矛盾，所以是女老师．再由⑴知，她不教语文，不是中年人．假设她教外语，由⑶、⑸知她必是中年人，矛盾，所以她教数学．由⑵、⑷知她是老年人，由⑶知她姓刘．
+【答案】真实情况是姓刘的老年女老师，教数学
+
+有六个大小相同的彩球，三个红，三个白，分别放入三个罐子里，一个罐里放两红球，一个罐里放两白球，另一罐放一红一白．然后将写有“两红”、“两白”、“红白”的三个标签贴在三个罐子上，由于粗心，三个标签全贴错了．试问此时最少要从罐子中取出几个球，才能确定三个罐分别装的是什么彩球？
+【考点】逻辑推理           【难度】2星            【题型】解答
+因为所有罐子上的标签都和罐中实物不符，所以在贴有“红白”标签的罐子中只能是两红或两白．那么只需在“红白”罐子中取出一个彩球，若是红色球，则可知罐中是两红，那么标有“两白”的罐子中就是“一红一白”，标有“两红”的罐子中就是“两白”；若是白色球，则可知罐中是“两白”，那么标有“两红”的罐子中就是“一红一白”，而标有“两白”的罐子中就是“两红”．
+【答案】一个
+
+有三个盒子，甲盒装了两个 EMBED Equation.DSMT4  克的砝码，乙盒装了两个 EMBED Equation.DSMT4  克的砝码，丙盒装了一个 EMBED Equation.DSMT4  克、一个 EMBED Equation.DSMT4  克的砝码．每只盒子外面所贴的标明砝码重量的标签都是错的．聪明的小明只从一个盒子里取出一个砝码，放到天平上称了一下，就把所有标签都改正过来了．你知道这是为什么吗？
+【考点】逻辑推理           【难度】2星            【题型】解答
+略．
+【答案】其实不用那么麻烦，我们发现“每只盒子外面所贴的标明砝码重量的标签都是错的”这句话说明标签的可能只有两种：
+标注     　两个1克                两个2克               一个1克一个两克
+可能1：   两个2克             一个1克一个两克          　  两个1克
+可能2：一个1克一个两克       　  两个1克             　    两个2克
+所以我们可以从标注“一个1克一个两克”里面拿一个，如果是“1克”的就是上面那种情况，否则就是下面那种情况
+
+振华小学组织了一次投篮比赛，规定投进一球得 EMBED Equation.DSMT4  分，投不进倒扣 EMBED Equation.DSMT4  分．小亮投了 EMBED Equation.DSMT4  个球，投进了 EMBED Equation.DSMT4  个．那么，他应该得多少分？
+【考点】逻辑推理           【难度】2星            【题型】解答
+小亮投的 EMBED Equation.DSMT4  个球中，投进的 EMBED Equation.DSMT4  个球得到 EMBED Equation.DSMT4  (分)，而没有投进的 EMBED Equation.DSMT4  个球被扣掉 EMBED Equation.DSMT4  (分)，于是他应得 EMBED Equation.DSMT4  (分)．
+【答案】他应得 EMBED Equation.DSMT4  分
+
+小华在一个文具店里买了5支铅笔，4块橡皮，8个练习本，付给售货员2元钱，售货员叔叔找给他5角5分．小华看了看铅笔的价格是每支8分，就说：“叔叔，您把帐算错啦！”请问：小华怎么知道这笔帐算错了？
+【考点】逻辑推理           【难度】2星            【题型】解答
+略．
+【答案】因为每支铅笔的价格是8分，所以5支铅笔的价钱是 EMBED Equation.DSMT4  (分)，40是4的倍数；4块橡皮和8个笔记本，不管它们各自的单价是多少，总共应付的钱也是4的倍数．但是小华给了售货员2元钱，找回5角5分，实际付给售货员1元4角5分，因为145(分)不是4的倍数，所以小华断定售货员把这笔帐算错了
+
+张红因病在家休息了几天，这期间的气候是：⑴下了8次雨，时间是上午或下午；⑵当下午下雨时，当天上午是晴天；⑶有9个下午是晴天；⑷有13个上午是晴天。问她一共在家休息了几天？
+【考点】逻辑推理           【难度】2星            【题型】解答
+因为（2）当下午下雨时，当天上午恰好是晴天，如果上午下雨，下午也必定是晴天因此每天只可能上午或者下午下雨。设他休息了X天，（X-9）为下午下雨的次数，（X-13）为上午下雨的次数(X-9)+(X-13)=8，2X=30，X=15，休息了15天
+【答案】休息了15天
+
+五号楼住着四个女孩和两个男孩，他们的年龄各不相同，最大的 EMBED Equation.DSMT4  岁，最小的 EMBED Equation.DSMT4  岁，最大的女孩比最小的男孩大 EMBED Equation.DSMT4  岁，最大的男孩比最小的女孩也大 EMBED Equation.DSMT4  岁，求最大的男孩的岁数．
+【考点】逻辑推理           【难度】2星            【题型】解答
+假设最小的男孩 EMBED Equation.DSMT4  岁，那么最大的女孩有 EMBED Equation.DSMT4  （岁），四个女孩年龄都不同，最小的女孩应是 EMBED Equation.DSMT4  岁，那么最大的男孩为 EMBED Equation.DSMT4  （岁），与题目说最大的孩子 EMBED Equation.DSMT4  岁矛盾．所以假设不成立．再假设最小的女孩 EMBED Equation.DSMT4  岁，那么最大的男孩为 EMBED Equation.DSMT4  岁，最大的女孩 EMBED Equation.DSMT4  岁，最小的男孩 EMBED Equation.DSMT4  岁，符合题意．所以最大男孩是 EMBED Equation.DSMT4  岁．
+【答案】最大男孩是 EMBED Equation.DSMT4  岁
+
+四对夫妇坐在一起闲谈．四个女人中， EMBED Equation.DSMT4  吃了 EMBED Equation.DSMT4  个梨， EMBED Equation.DSMT4  吃了 EMBED Equation.DSMT4  个， EMBED Equation.DSMT4  吃了 EMBED Equation.DSMT4  个， EMBED Equation.DSMT4  吃了 EMBED Equation.DSMT4  个；四个男人中，甲吃的梨和他妻子一样多，乙吃的是妻子的 EMBED Equation.DSMT4  倍，丙吃的是妻子的 EMBED Equation.DSMT4  倍，丁吃的是妻子的 EMBED Equation.DSMT4  倍．四对夫妇共吃了 EMBED Equation.DSMT4  个梨．问：丙的妻子是谁？
+【考点】逻辑推理           【难度】2星            【题型】解答
+分别设 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的丈夫吃梨的个数为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，则有：
+　　     EMBED Equation.DSMT4  
+　　    由题意知， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  分别等于 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  四个数之一，且互不相同．所以
+ EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  ．所以 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的奇偶性相同．
+由于 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  只能为 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ．
+如果 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  ，由 EMBED Equation.DSMT4  得到 EMBED Equation.DSMT4  ，矛盾．所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．因为丙吃的梨是妻子的 EMBED Equation.DSMT4  倍，而 EMBED Equation.DSMT4  ，所以丙的妻子是 EMBED Equation.DSMT4  ．
+【答案】丙的妻子是 EMBED Equation.DSMT4  
+
+有一座四层楼房（如右图），每个窗户的4块玻璃分别涂上红色和白色，每个窗户代表一个数字。每层楼有三个窗户，由左向右表示一个三位数。四个楼层表示的三位数有：791，275，362，612。问：第二层楼表示哪个三位数？ 
+
+【考点】逻辑推理           【难度】2星            【题型】解答
+【关键词】华杯赛，初赛，第15题
+给出的4个数中362和612个位数字相同，第二和第四层右边窗户符号也相同，可以肯定这两层分别代表362和612，这二个数中又有数字6是一样的，对照第二层和第四层的窗户，便可确定第二层代表612。
+【答案】 EMBED Equation.DSMT4  
+
+已知图4中正方体相对的两个面上的数字之和是10，则未标出的三个数的乘积是            。
+
+【考点】逻辑推理           【难度】2星            【题型】解答
+【关键词】希望杯，4年级，1试
+1的对面是9，5的对面是5，7的对面是3，3×5×9=135
+【答案】 EMBED Equation.DSMT4  
+
+号码分别为2005，2006，2007，2008的4名运动员进行乒乓球比赛，规定每两人比赛的场数是他们号码的和被4除所得的余数。那么，2008号运动员赛了多少场？
+【考点】逻辑推理           【难度】2星            【题型】解答
+【关键词】希望杯，五年级，二试，第15题
+由于 EMBED Equation.DSMT4  能被 EMBED Equation.DSMT4  整除， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  除以 EMBED Equation.DSMT4  的余数分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  号运动员与 EMBED Equation.DSMT4  号运动员赛了 EMBED Equation.DSMT4  场，与 EMBED Equation.DSMT4  号运动员赛了 EMBED Equation.DSMT4  场，与 EMBED Equation.DSMT4  号运动员赛了 EMBED Equation.DSMT4  场，总共赛了： EMBED Equation.DSMT4  （场）。
+【答案】 EMBED Equation.DSMT4  场
+
+奥运五福娃贝贝、晶晶、欢欢、迎迎、妮妮在鸟巢奥运场馆见面了，每两个福娃都会握一次手，当贝贝握了 EMBED Equation.DSMT4  次手，晶晶握了 EMBED Equation.DSMT4  次手，欢欢握了 EMBED Equation.DSMT4  次手，迎迎握了 EMBED Equation.DSMT4  次手时，妮妮握了        次手。
+【考点】逻辑推理           【难度】2星            【题型】解答
+如图 EMBED Equation.DSMT4  ，当贝贝握了 EMBED Equation.DSMT4  次手，晶晶握了 EMBED Equation.DSMT4  次手，欢欢握了 EMBED Equation.DSMT4  次手，迎迎握了 EMBED Equation.DSMT4  次手时，妮妮握了 EMBED Equation.DSMT4  次手。
+
+【答案】 EMBED Equation.DSMT4  
+
+古时候某国有两座城，一座“真城”，一座“假城”，真城的人都说真话，假城的人都说假话。一天，一个国外游客来到其中的一座城，他向遇到的一位该国国民提了一个问题，就明白了自己到的是真城还是假城。
+        以下（   ）最可能是游客提的问题。
+           EMBED Equation.DSMT4  .你是真城的人吗？　　　　  　 EMBED Equation.DSMT4  .你是假城的人吗？
+  　       EMBED Equation.DSMT4  .你是说真话的人吗？　　 　 　 EMBED Equation.DSMT4  .你是说假话的人吗？       
+ EMBED Equation.DSMT4  .你是这座城的人吗？
+【考点】逻辑推理           【难度】2星            【题型】选择
+【关键词】学而思杯，2年级
+只有问一个游客自己可以确定答案的问题，他才能知道对方说的是真话还是假话。对于 EMBED Equation.DSMT4  四个选项的问题，答案现在还是不知道的，无法判断。而 EMBED Equation.DSMT4  选项的问题的答案是已知的，游客可以根据对方的回答来判断。
+【答案】 EMBED Equation.DSMT4  
+
+桌子上摆着金匣子、银匣子和铜匣子。金匣子上写着一句话：“珠宝不在此匣中。”银匣子上写着一句话：“珠宝在金匣中。”铜匣子上写着一句话：“珠宝不在此匣中。”
+        现已知道，这三句话中只有一句话是真的，那么则可以推出：（   ）
+           EMBED Equation.DSMT4  .珠宝在金匣子中。             EMBED Equation.DSMT4  .珠宝在银匣子中。    
+           EMBED Equation.DSMT4  .珠宝在铜匣子中。             EMBED Equation.DSMT4  .珠宝不在任何匣子中。   
+ EMBED Equation.DSMT4  .每个匣子中都有珠宝。
+【考点】逻辑推理           【难度】2星            【题型】选择 【关键词】学而思杯，2年级
+金匣子和银匣子上的话恰好是矛盾的，也就是这两句话必定一真一假。三句话只有一句是真的，那么铜匣子上的话一定是假的。所以珠宝就在铜匣子中。
+【答案】 EMBED Equation.DSMT4  
+
+二年级的四个同学站成一列纵队，学学在前，思思紧跟其后，聪聪在思思后面，最后是明明．明明拿出两顶红帽子和两顶黄帽子，分给四人戴，每人一顶，站在前面的人不能回过头来看，后面的人可以看前面人头上戴的帽子（单选）．
+⑴ 如果聪聪说：“我头上戴的是黄帽子”．那么， EMBED Equation.DSMT4  （A、学学；B、思思；C、学学和思思；D、学学和思思都不）能说出自己戴什么颜色的帽子．
+⑵ 如果聪聪说：“我头上戴的是红帽子”．那么， EMBED Equation.DSMT4  （A、学学；B、思思；C、学学和思思；D、学学和思思都不）能说出自己戴什么颜色的帽子．
+⑶ 如果聪聪说：“我不知道自己戴的是什么颜色的帽子”．那么 EMBED Equation.DSMT4  （A、学学；B、思思；C、学学和思思；D、学学和思思都不）能说出自己戴什么颜色的帽子．
+【考点】逻辑推理           【难度】2星            【题型】解答
+因为聪聪只能看见学学和思思两个人戴的帽子，如果他能确定自己戴的是什么颜色的帽子，说明学学和思思肯定戴的是同色的帽子。如果他不能确定自己戴什么颜色的帽子，说明学学和思思戴的是不同颜色的帽子。
+            如果聪聪说：“我头上戴的是黄帽子”。那么学学和思思都能确定自己戴的是红帽子
+            如果聪聪说：“我头上戴的是红帽子”。那么学学和思思都能确定自己戴的是黄帽子
+            如果聪聪说：“我不知道自己戴的是什么颜色的帽子”。那么学学和思思一个人红帽子一个人
+            而思思可以看见学学戴的什么帽子，那么思思就能说出自己帽子的颜色
+【答案】学学和思思，学学和思思，思思
+
+甲、乙、丙、丁、戊、己六人围坐在一圆桌边，乙是坐在甲右边的第二人，丁坐在戊的正对面，戊、己不相邻。_           _坐在甲、乙之间。
+【考点】逻辑推理           【难度】2星            【题型】解答
+【关键词】走美杯,3年级,决赛
+丙的位置可能为图中①、②、③，若丙在①，则③为己，②、④为丁、戊，不符；若丙在②，则①为己，③、④为丁、戊，不符；若丙在③，则②为己，则①为戊，④为丁，可行．则戊坐在甲、乙之间．
+
+【答案】戊
+
+一栋公寓楼有5层。每层有一或两套公寓。楼内共有8套公寓。住户J、K、L、M、N、O、P、Q共8人住在不同公寓里。已知： （1）J住在两套公寓的楼层。 （2）K住在P的上一层。（3）二层只有一套公寓。（4）M、N住在同一层。（5）O、Q不同层。（6）Q不住在一层或二层。（7）L住在她所在层公有的公寓里，且不在第一层或第五层。（8）M在第四层。J住在第            层里。
+【考点】逻辑推理           【难度】2星            【题型】解答
+【关键词】走美杯，五年级，初赛，六年级
+第5层
+【答案】5
+
+从敌方截获了10组数据：14073，63136，29402，35862，84271，79588，42936，98174，50811，07145．破译人员知道这是一个五位数的密码．每一组数据与这个密码，都只有一个数位上的数字相同．这个密码是 （    ）。
+【考点】逻辑推理           【难度】2星            【题型】解答
+【关键词】走美杯，五年级，初赛，四年级
+09876（7是突破口）
+【答案】09876
+
+同学们，你玩过“扫雷”的游戏吗？在64个方格内一共有10个地雷，每格中至多有一个，对于填有数字的方格，其格内无地雷且与其相邻的所有方格中地雷的个数与该数字相等，你认为图中所标的数字_______是有雷的。
+
+【考点】逻辑推理           【难度】2星            【题型】解答
+【关键词】走美杯，五年级，初赛
+ “扫雷”游戏主要考查观察能力和推理能力。
+先考虑标有①②的两个方格周边的情况。由于第六行有4个方格中的数字都是0，表示它们的周围没有雷，所以得到第五行前三列的3个方格都不是雷，而第四行第一列的方格中的数是1，表示它的周围有1个雷，所以标有①②的两个方格中恰好有1个雷，那么对于第三行第一列标有2的方格来说，它的周围有2个雷，其中一个在标有①②的两个方格中，另一个只能在第二行第二列的方格内。然后再看第二行第一列的方格，它的周围有1个雷，在第二行第二列的方格内，所以标有①的方格中没有雷，标有②的方格中有雷。
+再考虑标有③的方格的周边。由于第七行第一列的方格标有数字1，表示第八行第一、二列的两个方格中恰好有1个雷，而第七行第二列的方格标有数字2，说明它的周围有2个雷，那么一个雷在第八行第一、二列的两个方格中，另一个雷只能在标有③的方格中，所以标有③的方格中有雷。
+再看标有④⑤的方格的周边。由于第八行第七列的方格标有数字1，说明第八行第八列和第七行第八列的两个方格内恰有1个雷，而第七行第七列的方格也标有数字1，所以标有④的方格是没有雷的。而第六行第七列的方格标有数字3，说明它的周围有3个雷，所以标有⑤的方格是有雷的。
+所以图中所标数字为②、③、⑤的方格是有雷的。
+【答案】②、③、⑤的方格是有雷的
+
+学而思学员根据下列条件从 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  五个地方选定参观地点，最多能去的地方是_____和__________两地．
+⑴若去 EMBED Equation.DSMT4  地也必须去 EMBED Equation.DSMT4  地.
+⑵ EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地最多去一地.
+⑶ EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地至少去一地.
+⑷ EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地都去或者都不去.
+⑸若去 EMBED Equation.DSMT4  地,一定要去 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地.
+【考点】逻辑推理           【难度】2星            【题型】解答
+【关键词】学而思杯，3年级
+如果去 EMBED Equation.DSMT4  地，就必须去 EMBED Equation.DSMT4  地，不能去 EMBED Equation.DSMT4  地，不能去 EMBED Equation.DSMT4  地，发现 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地不能同时去，也就是不可能去 EMBED Equation.DSMT4  地。
+根据条件 EMBED Equation.DSMT4  ，就必须去 EMBED Equation.DSMT4  地，根据条件 EMBED Equation.DSMT4  ，必须去 EMBED Equation.DSMT4  地，根据条件 EMBED Equation.DSMT4  ，不能去 EMBED Equation.DSMT4  。根据条件 EMBED Equation.DSMT4  ，也不能去 EMBED Equation.DSMT4  地。所以只能去 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两地。
+【答案】 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+8-3.逻辑推理.题库	                                    教师版                                page  PAGE 25 of  NUMPAGES 25
+
+
+
+逻辑推理
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

@@ -1,0 +1,261 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+了解进制；
+会对进制进行相应的转换；
+能够运用进制进行解题
+
+ SHAPE  \* MERGEFORMAT 
+
+一、数的进制
+
+1.十进制：
+我们常用的进制为十进制，特点是“逢十进一”。在实际生活中，除了十进制计数法外，还有其他的大于1的自然数进位制。比如二进制，八进制，十六进制等。
+
+2.二进制：
+在计算机中，所采用的计数法是二进制，即“逢二进一”。因此，二进制中只用两个数字0和1。二进制的计数单位分别是1、21、22、23、……，二进制数也可以写做展开式的形式，例如100110在二进制中表示为：(100110)2=1×25+0×24+0×23+1×22+1×21+0×20。
+
+二进制的运算法则：“满二进一”、“借一当二”，乘法口诀是：零零得零，一零得零，零一得零，一一得一。
+注意：对于任意自然数n,我们有n0=1。
+
+3. EMBED Equation.DSMT4  进制：
+一般地，对于k进位制，每个数是由0，1，2， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  共k个数码组成，且“逢k进一”． EMBED Equation.DSMT4  进位制计数单位是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．如二进位制的计数单位是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，八进位制的计数单位是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+
+4. EMBED Equation.DSMT4  进位制数可以写成不同计数单位的数之和的形式
+ EMBED Equation.DSMT4  
+十进制表示形式： EMBED Equation.DSMT4  ；
+二进制表示形式： EMBED Equation.DSMT4  ；
+为了区别各进位制中的数，在给出数的右下方写上 EMBED Equation.DSMT4  ，表示是 EMBED Equation.DSMT4  进位制的数
+如： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ,分别表示八进位制，二进位制，十二进位制中的数．
+
+5. EMBED Equation.DSMT4  进制的四则混合运算和十进制一样
+先乘除，后加减；同级运算，先左后右；有括号时先计算括号内的。
+
+二、进制间的转换：
+一般地，十进制整数化为 EMBED Equation.DSMT4  进制数的方法是：除以 EMBED Equation.DSMT4  取余数，一直除到被除数小于 EMBED Equation.DSMT4  为止，余数由下到上按从左到右顺序排列即为 EMBED Equation.DSMT4  进制数．反过来， EMBED Equation.DSMT4  进制数化为十进制数的一般方法是：首先将 EMBED Equation.DSMT4  进制数按 EMBED Equation.DSMT4  的次幂形式展开，然后按十进制数相加即可得结果．
+如右图所示:
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+模块一、进制在生活中的运用
+
+有个吝啬的老财主，总是不想付钱给长工。这一次，拖了一个月的工钱，还是不想付。可是不付又说不过去，便故作大方地拿出一条金链，共有7环。对长工说：“我不是要拖欠工资，只是想连这一个月加上再做半年的工资，都以这根金链来付。”他望向吃惊的长工，心中很是得意，“本人说话，从不食言，可以请大老爷作证。”大老爷可是说一不二的人，谁请他作证，他当作一种荣耀，总是分文不取，并会以命相拼也要兑现的。这越发让长工不敢相信，要知道，这在以往，这样的金链中的一环三个月的工钱也不止。老财主越发得意，终于拿出杀手锏：“不过，我请大老爷作证的时候，提到一项附加条件，就是这样的金链实在不能都把它断开，请你只能打开一环，以后按月来取才行！”当长工明白了老财主的要求后，不仅不为难，反倒爽快地答应了，而且，从第一个月到第七个月，顺利地拿到了这条金链，你知道怎么断开这条金链吗？
+【考点】进制在生活中的运用   【难度】2星   【题型】解答
+断开第三环，从而得到1，2，4环的三段，第一个月拿走一环，第二个月以一换二，第三个月取一环，第四个月以三换四，第五个月再取一环，第六个月以一换二，第七个月再取一环。
+【答案】 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+
+现有1克，2克，4克，8克，16克的砝码各1枚，在天平上能称多少种不同重量的物体？
+【考点】进制在生活中的运用   【难度】2星   【题型】解答
+因为砝码的克数恰好是1，2，4，8，16，而二进位制数从右往左数各位数字分别表示：1，2，22=4，23=8，24=16，在砝码盘上放1克砝码认为是二进位制数第一位(从右数)是1，放2克砝码认为是二进位制数第二位是1，……，放16克砝码认为是二进位制数第五位是1，不放砝码就认为相应位数是零，这样所表示的数中最小的是1，最大的是(11111)2=24+23＋22＋21＋20=(31)10，这就是说1至31的每个整数(克)均能称出。所以共可以称出31种不同重量的物体。
+【答案】 EMBED Equation.DSMT4  
+
+茶叶店老板要求员工提高服务质量，开展“零等待”活动，当顾客要买茶叶的时候，看谁最快 
+满足顾客的需要则为优秀。结果有一个员工总是第一名，而且顾客到他那儿不需要等待。原来他把茶叶先称出若干包来，放在柜台上，顾客告诉他重量，他就拿出相应重量的茶叶。别的伙计看在眼里，立即学习，可是柜台上却放不下许多包。奇怪的是，最佳员工的柜台上的茶叶包裹却不是很多。于是有员工去取经，发现最佳员工准备的茶叶数量是：1，2，4，8，16，32，64，128，256。你能解释一下其中的道理么?这些重量可以应付的顾客需要的最高重量是多少？
+【考点】进制在生活中的运用   【难度】3星   【题型】解答
+略
+【答案】由于 EMBED Equation.DSMT4  观察一下你会发现最佳员工：所取的数字与二进制中的 EMBED Equation.DSMT4  对应，而我们所要的3，5，6，7，9， EMBED Equation.DSMT4  等等数字都可以用这些二进制相加得来，老师可以在黑板上给学生列竖式演示此道理，说明取1，2，4，8，16，32，64，128，256的道理。
+
+如果只考虑100克以内的重量，至少需要多少包？
+【考点】进制在生活中的运用   【难度】3星   【题型】解答
+至少需要1，2，4，8，16，32，64（7包）
+【答案】至少需要1，2，4，8，16，32，64（7包）
+
+如果只许在天平的一边放砝码，要称量100g以内的各种整数克数，至少需要多少个砝码？
+【考点】进制在生活中的运用   【难度】3星   【题型】解答
+至少需要：1，2，4，8，16，32，64这七种重量的砝码即可。
+【答案】至少需要：1，2，4，8，16，32，64这七种重量的砝码即可
+
+古代英国的一位商人有一个 EMBED Equation.DSMT4  磅的砝码，由于跌落在地碎成 EMBED Equation.DSMT4  块，后来，称得每块碎片的重量都是整磅数，而且可以用这 EMBED Equation.DSMT4  块来称从 EMBED Equation.DSMT4  至 EMBED Equation.DSMT4  磅之间的任意整数磅的重物（砝码只能放在天平的一边）。那么这 EMBED Equation.DSMT4  块砝码碎片各重        ，        ，        ，        
+【考点】   【难度】星   【题型】填空
+【关键词】走美杯，3年级，初赛，第15题
+因为二进制数可以表达所有的自然数，而且表达形式是唯一的，例如： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ……所以只要准备质量为1,2,4,8的二进制数砝码即可。
+【答案】1,2,4,8
+
+有10箱钢珠，每个钢珠重10克，每箱600个.如果这10箱钢珠中有1箱次品，次品钢珠每个重9克，那么，要找出这箱次品最少要称几次?
+
+【考点】进制在生活中的运用   【难度】3星   【题型】解答
+略
+【答案】解决这个问题有一个巧妙的方法.将10箱钢珠分别编为1～10号，然后从1号箱中取1个钢珠，从2号箱中取2个钢珠……，这样共取了 EMBED Equation.DSMT4  （个）钢珠，重量是： EMBED Equation.DSMT4  （克），如果轻了n(1≤n≤10)克，那么第几号箱就是次品.在这个方法中，第10号箱也可不取，这样共取出45个钢珠，如果重450克，那么10号箱是次品；否则，轻几克几号箱就是次品.总结：不同的进制数与十进制数的对应关系，即：每个十进制数都能表示成一个相应的二进制数，反之，也是。
+
+小马虎将一些零件装箱，每个零件10g，装了10箱，结果发现，混进了几箱次品进去，每个次                          
+品零件9克，但从外观上看不出来，聪明的你能只称量一次就能把所有的次品零件都找出来么？
+【考点】进制在生活中的运用   【难度】4星   【题型】解答
+略
+【答案】解决这个问题有一个巧妙的方法.将10箱钢珠分别编为1～10号，然后从1号箱中取1个钢珠，从2号箱中取2个钢珠，从3号箱中取4个钢珠，从4号箱中取8个钢珠……从10号箱中取512个钢珠，共取出1+2+4+8+…+512=1023个钢珠，将这些钢珠放到天平上称，本来应重10230克，如果轻了n(1≤n≤10)克，就看n是由1，2，4，8，16，…512中的那些数字组成，则数字对应的那些号箱就是次品.在这个方法中，第10号箱也可不取，这样共取出511个钢珠，如果重500克，那么1，2，4号箱是次品。
+
+计算机存储容量的基本单位是字节，用B表示，一般用KB、MB、GB作为存储容量的单位，它们之间的关系是1KB= EMBED Equation.DSMT4  B，1MB= EMBED Equation.DSMT4  KB，1GB= EMBED Equation.DSMT4  MB。小明新买了一个MP3播放器，存储容量为256MB，它相当于_____B。
+【考点】进制在生活中的运用    【难度】3星   【题型】填空
+【关键词】希望杯，4年级，1试
+256MB=256× EMBED Equation.DSMT4  = EMBED Equation.DSMT4  KB= EMBED Equation.DSMT4  B
+【答案】 EMBED Equation.DSMT4  
+
+向电脑输入汉字，每个页面最多可输入1677个五号字。现在页面中有1个五号字，将它复制后粘贴到该页面，就得到2个字；再将这2个字复制后粘贴到该页面，就得到4个字。每次复制和粘贴为1次操作，要使整个页面都排满五号字，至少需要操作            次。
+【考点】进制在生活中的运用   【难度】3星   【题型】填空
+【关键词】希望杯，五年级，复赛，第7题，4分
+2的10次方为1024，2的11次方为2048，所以需要操作11次。
+【答案】 EMBED Equation.DSMT4  次
+
+成语“愚公移山”比喻做事有毅力，不怕困难。假设愚公家门口的大山有80万吨重，愚公有两个儿子，他的两个儿子又分别有两个儿子，依此类推。愚公和它的子孙每人一生能搬运100吨石头。如果愚公是第1代，那么到了第        代，这座大山可以搬完。（已知10个2连乘之积等于1024）
+【考点】进制在生活中的运用    【难度】3星   【题型】填空
+【关键词】希望杯，4年级，1试
+设到了第n代，这座大山可以搬完
+       20+21+22+……+2n-1≥800000÷100
+                   2n-1≥8000
+                     2n≥8001
+       212=4096，213=8192
+答：到了第13代，这座大山可以搬完。
+【答案】 EMBED Equation.DSMT4  代
+
+123456789012345678901234567890……1234567890,共10000个数字。第一轮去掉在奇数位置（从左数起）上的数字，剩下5000个数字;第二轮再去掉这5000个数字中奇数位置上的数字，剩下2500个;第三轮，……;直到只剩下一个数字。最后剩下的数字是__    ,这时已经操作了       轮。
+【考点】进制在生活中的运用    【难度】3星   【题型】填空
+【关键词】走美杯，五年级，初赛，12题
+最后剩下的数是接近10000的2n。已知213=8192， EMBED Equation.DSMT4  ，第二个数正好就是2。另外，根据操作规律，每2n个数，操作n次剩下最后一个数，所以，操作13次。
+【答案】 EMBED Equation.DSMT4  ，操作 EMBED Equation.DSMT4  次
+
+10个砝码，每个砝码重量都是整数克，无论怎样放都不能使天平平衡，这堆砝码总重量最少为_________克。
+【考点】进制在生活中的运用    【难度】3星   【题型】填空
+【关键词】走美杯，初赛，六年级，第7题
+由于无论怎样放都不能使天平平衡，首先可以知道这10个砝码的重量各不相同。最轻的那个砝码至少为1克，次轻的至少为2克，由于 EMBED Equation.DSMT4  ，接下来的至少为4克，……由此想到我们熟悉的2的次幂，当10个砝码的重量分别为1克，2克，4克，8克，16克，……，512克时满足题意，所以这堆砝码的总重量至少为 EMBED Equation.DSMT4  克。
+【答案】 EMBED Equation.DSMT4  克
+
+将6个灯泡排成一行，用 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  表示灯亮和灯不亮，下图是这一行灯的五种情况，分别表示五个数字：1，2，3，4，5。那么 EMBED Equation.DSMT4  表示的数是           。
+
+【考点】进制在生活中的运用   【难度】5星   【题型】填空
+【关键词】希望杯，五年级，初赛，第16题，5分
+从图中数字1、2、4的表示可知：自右向左第一个灯亮表示1，第二个灯亮表示2，第三个灯亮表示4，第四个灯亮表示8，第五个灯亮表示16，第六个灯亮表示32。因此问题当中的表示16+8+2=26。
+【答案】 EMBED Equation.DSMT4  
+
+模块二、巧求余数问题
+
+已知正整数 EMBED Equation.DSMT4  的八进制表示为 EMBED Equation.DSMT4  ，那么在十进制下， EMBED Equation.DSMT4  除以7的余数与 EMBED Equation.DSMT4  除以9的余数之和是多少？
+【考点】巧求余数问题   【难度】3星   【题型】解答
+【关键词】2009年，清华附中，入学测试题
+与十进制相类似，有： EMBED Equation.DSMT4  ．
+根据8进制的弃7法， EMBED Equation.DSMT4  被7除的余数等于其各位数字之和，为6，而 EMBED Equation.DSMT4  除以7的余数为1，所以 EMBED Equation.DSMT4  的平方被7除余1，即 EMBED Equation.DSMT4  除以7的余数为1；
+另外， EMBED Equation.DSMT4  ，显然 EMBED Equation.DSMT4  能被 EMBED Equation.DSMT4  整除，所以其平方也能被 EMBED Equation.DSMT4  整除，即 EMBED Equation.DSMT4  除以9的余数为0．
+因此两个余数之和为 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+在8进制中，一个多位数的数字和为十进制中的68，求除以7的余数为多少？
+【考点】巧求余数问题   【难度】3星   【题型】解答
+【关键词】人大附中，分班考试
+类似于十进制中的“弃九法”，8进制中也有“弃7法”，也就是说8进制中一个数除以7的余数等于这个数的各位数字之和除以7的余数．
+本题中，这个数的各位数字之和在十进制中为68，而68除以7的余数为5，所以这个数除以7的余数也为5．
+【答案】 EMBED Equation.DSMT4  
+
+试求 EMBED Equation.DSMT4  除以992的余数是多少? 
+【考点】巧求余数问题   【难度】4星   【题型】解答
+我们通过左式的短除法，或者直接运用通过2次幂来表达为2进制：
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  我们知道在2进制中 EMBED Equation.DSMT4  一定能被 (1111100000)2整除，所以 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，因为 EMBED Equation.DSMT4  能被 (1111100000)2整除，所以余数为 EMBED Equation.DSMT4  ，所以原式的余数为63。
+【答案】 EMBED Equation.DSMT4  
+
+计算 EMBED Equation.DSMT4  除以7的余数．
+【考点】巧求余数问题   【难度】4星   【题型】解答
+由于 EMBED Equation.DSMT4  除以7余1，而 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  除以7的余数为 EMBED Equation.DSMT4  ．
+本题也可以转化为2进制进行计算： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，
+所以 EMBED Equation.DSMT4  ．
+而 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  余 EMBED Equation.DSMT4  ．
+所以 EMBED Equation.DSMT4  除以7的余数为3．
+【答案】 EMBED Equation.DSMT4  
+
+计算 EMBED Equation.DSMT4  除以26的余数．
+【考点】巧求余数问题   【难度】4星   【题型】解答
+题中有3的次幂，令人联想到将题中的数转化成3进制下的数再进行计算．
+ EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  ，
+所以， EMBED Equation.DSMT4  ．
+由于 EMBED Equation.DSMT4  整除 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  余 EMBED Equation.DSMT4  ．
+所以 EMBED Equation.DSMT4  除以26的余数为8．
+【答案】 EMBED Equation.DSMT4  
+
+模块三、进制与位值的综合运用
+
+在美洲的一个小镇中，对于200以下的数字读法都是采取20进制的。如果十进制中的147在20进制中的读音是“seyth ha seyth ugens”，而十进制中的49在20进制中的读音是“naw ha dew ugens”，那么20进制中读音是“dew ha naw ugens”的数指的是十进制中的数	       
+【考点】   【难度】星   【题型】填空
+【关键词】学而思杯，6年级，1试，第12题
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以ha代表十位，ugens代表个位，dew代表9，naw代表2。 EMBED Equation.DSMT4  ，所以答案是182. 
+【答案】 EMBED Equation.DSMT4  
+
+一个自然数，在3进制中的数字和是2007，它在9进制中的数字和最小是      ，最大是       。
+【考点】进制与位值的综合运用   【难度】5星   【题型】解答
+【关键词】走美杯，初赛，六年级，第9题
+最大为2007×3=6021，最小为2007.
+【答案】最小 EMBED Equation.DSMT4  ，最大 EMBED Equation.DSMT4  
+
+在6进制中有三位数 EMBED Equation.DSMT4  ，化为9进制为 EMBED Equation.DSMT4  ，求这个三位数在十进制中为多少? 
+【考点】进制与位值的综合运用   【难度】5星   【题型】解答
+  EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ；
+所以 EMBED Equation.DSMT4  ；于是 EMBED Equation.DSMT4  ；
+因为35a是5的倍数，80c也是5的倍数．所以3b也必须是5的倍数，
+又(3，5)=1．所以，b=0或5．
+①当b=0，则35a=80c；则7a=16c；(7，16)=1，并且a、c≠0，所以a=16，c=7。但是在6,9进制，不可以有一个数字为16．
+②当b=5，则35a=3×5+80c；则7a=3+16c；mod 7后，3+2c≡0。所以c=2或者2+7k(k为整数)．因为有6进制，所以不可能有9或者9以上的数，于是c=2；35a=15+80×2，a=5。所以(abc)6  =(552)6 =5×62+5×6+2=212。这个三位数在十进制中为212。
+【答案】 EMBED Equation.DSMT4  
+
+在7进制中有三位数 EMBED Equation.DSMT4  ，化为9进制为 EMBED Equation.DSMT4  ，求这个三位数在十进制中为多少？
+【考点】进制与位值的综合运用   【难度】5星   【题型】解答
+首先还原为十进制：
+ EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ．
+于是 EMBED Equation.DSMT4  ；得到 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ．
+因为 EMBED Equation.DSMT4  是8的倍数， EMBED Equation.DSMT4  也是8的倍数，所以 EMBED Equation.DSMT4  也应该是8的倍数，于是 EMBED Equation.DSMT4  或8．
+但是在7进制下，不可能有8这个数字．于是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ．
+所以 EMBED Equation.DSMT4  为5的倍数， EMBED Equation.DSMT4  为3的倍数．
+所以， EMBED Equation.DSMT4  或5，但是，首位不可以是0，于是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ；
+所以 EMBED Equation.DSMT4  ．
+于是，这个三位数在十进制中为248．
+【答案】 EMBED Equation.DSMT4  
+
+一个人的年龄用十进制数和三进制数表示，若在十进制数末尾添个“0”就是三进制数，求此人的年龄．
+【考点】进制与位值的综合运用   【难度】5星   【题型】解答
+①设这个人为 EMBED Equation.DSMT4  岁，得 EMBED Equation.DSMT4  ，又 EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  ，不合题意，所以这个人的年龄不可能是一位数．
+②设这个人是 EMBED Equation.DSMT4  岁，由题意得： EMBED Equation.DSMT4  ．
+因为 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ．又因为 EMBED Equation.DSMT4  是三进制数， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  都小于3，所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．所以，这个人为21岁．
+③设这个人为 EMBED Equation.DSMT4  岁，由题意有， EMBED Equation.DSMT4  ，因为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ．即 EMBED Equation.DSMT4  ．又 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  都小于3，所以上述等式不成立．所以这个人的年龄不可能是三位数．
+综上可知这个人的年龄是21岁．
+【答案】 EMBED Equation.DSMT4  
+
+N是整数，它的b进制表示是777，求最小的正整数b，使得N是十进制整数的四次方．
+【考点】进制与位值的综合运用   【难度】5星   【题型】解答
+设b是所求的最小正整数， EMBED Equation.DSMT4  ，因为质数7能整除 EMBED Equation.DSMT4  ，所以也能整除x，不妨设 EMBED Equation.DSMT4  ，m是大于0的自然数。则： EMBED Equation.DSMT4  ，化简得： EMBED Equation.DSMT4  ，易知，b的值随m的增大而增大，当m=1时，b=18。
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+5-8-2.进制的应用.题库	                        教师版                           page  PAGE 8 of  NUMPAGES 8
+
+
+
+5-8-2.进制的应用
+
+教学目标
+
+知识点拨
+
+十进制
+
+二进制
+
+十六进制
+
+八进制
+
+例题精讲
+
+
+

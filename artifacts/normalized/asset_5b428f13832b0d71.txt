@@ -1,0 +1,563 @@
+	
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+一、基本概念
+①周长：封闭图形一周的长度就是这个图形的周长．
+②面积：物体的表面或封闭图形的大小，叫做它们的面积．
+
+二、基本公式：
+①长方形的周长 EMBED Equation.DSMT4  (长 EMBED Equation.DSMT4  宽)，面积 EMBED Equation.DSMT4  长 EMBED Equation.DSMT4  宽．
+②正方形的周长 EMBED Equation.DSMT4  边长，正方形的面积 EMBED Equation.DSMT4  边长 EMBED Equation.DSMT4  边长．
+
+三、常用方法：
+（1）对于基本的长方形和正方形图形，可以直接用公式求出它们的周长和面积，对于一些不规则的比较复杂的几何图形，我们可以采用转化的数学思想方法割补成基本图形，利用长方形、正方形周长及面积计算的公式求解．
+（2）转化是一种重要的数学思想方法，在转化过程中要抓住“变”与“不变”两个部分．转化后的图形虽然形状变了，但其周长和面积不应该改变，所以在求解过程中不能遗漏掉某些线段的长度或某部分图形的面积．转化的目标是将复杂的图形转化为周长或面积可求的图形．
+（3）寻求正确有效的解题思路，意味着寻找一条摆脱困境、绕过障碍的途径．因此，我们在解决数学问题时，思考的着重点就是要把所需解决的问题转化为已经能够解决的问题．也就是说，在直接求解不容易或很难找到解题途径的问题时，我们往往转化问题的形式，从侧面或反面寻找突破口，知道最终把它转化成一个或若干个能解决的问题．这种解决问题的思想在数学中叫“化归”，它是数学思维中重要的思想和方法．
+
+（4）在几何中，有许多图形是由一些基本图形组合、拼凑而成的．这样的图形我们称为不规则图形．不规则图形的面积往往无法直接应用公式计算．那么，不规则图形的面积怎样去计算呢？对称、旋转、平移这几种几何变换就是解决这类面积问题的手段．
+
+四、几个重要的解题思想
+（1）平移
+在平面图形的计算中，常常要将一个平面图形移动到平面上的另一个位置进行计算．其中，将图形沿一个固定方向的移动叫做平移，一个图形经过平行移动不改变其形状与大小，所以图形面积是保持不变的．利用图形的平移，可以使面积计算问题的解法简捷明快，颇有新意．
+
+（2）割补
+割补法在我国古代叫“出入相补原理”，我国古代魏晋时期著名的数学家刘徽在《九章算术注》中就明确地提出“出入相补，各从其类”的出入相补原理．这个原理的内容是几何图形经过分、合、移、补所拼凑成的新图形，它的面积不变．
+
+（3）旋转
+在平面图形的割补中，有时要将一个图形绕定点旋转到一个新的位置，产生一种新的图形结构，图形在转动过程中形状大小不发生改变．利用这种新的图形结构可以帮我们解决面积的计算问题．
+
+（4）对称
+平面图形中有许多简单漂亮的图形都是轴对称图形．轴对称图形沿对称轴折叠，轴两侧可以完全重合．也就是说，如果一个图形是轴对称图形，那么对称轴平分这个图形的面积．熟悉轴对称图形这个性质，对面积计算会有很大帮助．
+
+（5）代换
+在几何计算中，对有关数量进行适当的等量代换也是解决问题的已知技巧．
+
+小结：本讲主要通过求一些不规则图形的周长，体会一种转化思想，重点在于把不规则图形转化为规则图形的方法，包括平移、旋转、割补、差不变原理，通过这些方法的学习，让学生体会求周长的技巧，提高学生的观察能力、动手操作能力、综合运用能力．
+ SHAPE  \* MERGEFORMAT 
+
+模块一、图形的周长和面积——割补法
+
+求图中所有线段的总长(单位：厘米)
+
+【考点】巧求周长  【难度】2星   【题型】填空
+要注意到，题目所求的是图中所有线段的总长，而图中的线段，并不仅仅是 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  四段，还包括 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  等等，因此不能简单地将图中标示的线段长度进行求和．同时应该注意到， EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ，等等．因此，为了计算图中所有线段的总长，需要先计算 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  这四条线段分别被累加了几次．这里，可以按照每条线段分别是由几部分组成的加以讨论：由1段组成的线段共有4条，即 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，而求和过程中 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  这四条线段各被累加了1次．类似地考虑到，由2段组成的线段共有3条，求和过程中 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  各被累加了1次,  EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  各被累加了2次．由3段组成的线段共有2条，求和过程中 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  各被累加了1次， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  各被累加了2次．由4段组成的线段只有AE，其中 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  各被计算了1次．综上所述， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  各被计算了4次， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  各被计算了6次．因而图中所有线段的总长度为： EMBED Equation.DSMT4  （厘米）
+【答案】 EMBED Equation.DSMT4  
+
+如图所示，点 EMBED Equation.DSMT4  是线段 EMBED Equation.DSMT4  的中点，由 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  四个点所构成的所有线段的长度均为整数，若这些线段的长度之积为10500，则线段AB的长度是             。
+
+【考点】巧求周长  【难度】2星   【题型】填空
+【关键词】华杯赛，决赛，第7题，10分
+线段所有长度包括 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  。由于最后要求的是 EMBED Equation.DSMT4  ，我们可用 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  来表示这所有线段之积，为：
+ EMBED Equation.DSMT4  
+对10500进行分解质因式，可得 EMBED Equation.DSMT4  所以 EMBED Equation.DSMT4  长度为 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+三只猴子走得一样快，所走的路线如下图。哪只猴子先吃到桃子，就在它旁边的(  )里画勾。
+
+【考点】巧求周长  【难度】2星   【题型】填空
+【关键词】走美杯，3年级，决赛，第9题，12分
+猴子走的路线应该分为横向与竖向，两个纬度来看，横向看三只猴子所走路线是相同的，竖向看A走的路程最少，所以A先吃到桃子。
+【答案】 EMBED Equation.DSMT4  
+
+在一个长方形的面积为169平方厘米。在这个长方形内任取一点P，则点P到长方形四边的距离之和最小值为_______厘米。
+【考点】巧求周长   【难度】2星   【题型】填空
+【关键词】走美杯，四年级，初赛，第13题
+容易知道，无论点P在长方形内的位置在哪，P点到则点P到长方形四边的距离之和都为该长方形的“长+宽”，若“长+宽”最小，则长与宽的差要尽量小，即长=宽=13厘米时，P到长方形四边的距离之和最小，为26厘米。
+
+【答案】 EMBED Equation.DSMT4  厘米
+
+边长是 EMBED Equation.DSMT4  厘米的 EMBED Equation.DSMT4  个正方形拼成一个长方形，这个长方形的周长是多少？
+【考点】巧求周长  【难度】2星   【题型】解答
+想一想，把几个正方形拼合在一起，拼出的长方形的周长与所有正方形的周长相差多少呢？
+由 EMBED Equation.DSMT4  个大小相同正方形拼成一个长方形，只有一种拼法，就是把三个正方形排成一排．于是拼成的长方形的长是 EMBED Equation.DSMT4  厘米，宽是 EMBED Equation.DSMT4  厘米．
+所以长方形的周长是：(长 EMBED Equation.DSMT4  宽) EMBED Equation.DSMT4  (厘米)．
+【答案】 EMBED Equation.DSMT4  厘米
+
+【巩固】用一块长 EMBED Equation.DSMT4  分米，宽 EMBED Equation.DSMT4  分米的长方形纸板与两块边长 EMBED Equation.DSMT4  分米的正方形纸板拼成一个正方形．拼成的正方形的周长是多少分米？
+
+【考点】巧求周长    【难度】3星   【题型】解答
+两块边长 EMBED Equation.DSMT4  分米的正方形纸可以拼成一个长 EMBED Equation.DSMT4  分米，宽 EMBED Equation.DSMT4  分米的长方形纸板，与原有的一块 EMBED Equation.DSMT4  分米，宽 EMBED Equation.DSMT4  分米的长方形纸板的面积一样大，而且这两个长方形两条宽的和正好等于一条长．所以，拼法如图所示．然后运用正方形的周长计算公式很容易求出它的周长．
+拼成的正方形的周长是： EMBED Equation.DSMT4  (分米)
+【答案】 EMBED Equation.DSMT4  分米
+
+用7个长4厘米，宽3厘米的长方形拼成一个大长方形，在所有可能的拼法中，大长方形周长的最小值是　　　　厘米。
+【考点】巧求周长    【难度】3星   【题型】填空
+【关键词】迎春杯，中年级，复试，2题
+这是一道几何问题，可以动手操作．要使所摆的大长方形的周长最小，应使7个小长方形有尽可能多的边重合．只有如下的3种摆法：
+
+图1的周长为 EMBED Equation.DSMT4  厘米；图2的周长为 EMBED Equation.DSMT4  厘米；图3的周长为 EMBED Equation.DSMT4  厘米;显然，在所有的拼法中，大长方形周长的最小值是38厘米．
+【答案】 EMBED Equation.DSMT4  厘米
+
+用6张边长为2厘米的正方形纸片拼成一个长方形，这个长方形的周长是________厘米．
+【考点】巧求周长   【难度】3星   【题型】填空
+【关键词】走美杯，3年级，初赛，第6题
+6张边长为2的正方形可以拼成的长方形有两种情况具体分析为：
+
+        周长为 EMBED Equation.DSMT4  （厘米）
+
+        周长为 EMBED Equation.DSMT4  （厘米）
+【答案】 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  厘米
+
+用6张边长为3厘米的正方形纸片拼成一个长方形，这个长方形的周长是_______厘米。
+【考点】巧求周长   【难度】3星   【题型】填空
+【关键词】走美杯，四年级，初赛，第2题
+可能拼出的长方形有如下两种可能，周长依次为42厘米，30厘米
+
+【答案】 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  厘米
+
+用若干个边长都是 EMBED Equation.DSMT4  厘米的平行四边形与三角形(如右图)拼接成一个大的平行四边形，已知大平行四边形的周长是 EMBED Equation.DSMT4  厘米，那么平行四边形和三角形各有多少个？
+
+【考点】巧求周长   【难度】3星   【题型】解答
+大平行四边形上、下两边的长为 EMBED Equation.DSMT4  厘米，观察上边，每 EMBED Equation.DSMT4  厘米有两个平行四边形的边，所以共有小平行四边形 EMBED Equation.DSMT4  个，而三角形的数量与小平行四边形的数量相等，也是 EMBED Equation.DSMT4  个．
+【答案】平行四边形 EMBED Equation.DSMT4  个，三角形 EMBED Equation.DSMT4  个
+
+用若干个边长都是 EMBED Equation.DSMT4  厘米的平行四边形与三角形(如右图)拼接成一个大的平行四边形，已知大平行四边形的周长是 EMBED Equation.DSMT4  厘米，那么平行四边形和三角形各有多少个？
+
+【考点】巧求周长   【难度】3星   【题型】解答
+大平行四边形上、下两边的长为 EMBED Equation.DSMT4  厘米，观察上边，每 EMBED Equation.DSMT4  厘米有两个平行四边形的边， EMBED Equation.DSMT4  ，所以有三角形 EMBED Equation.DSMT4  个，小平行四边形 EMBED Equation.DSMT4  个．
+【答案】三角形 EMBED Equation.DSMT4  个，平行四边形 EMBED Equation.DSMT4  个
+
+将一个边长为4厘米的正方形对折，再沿折线剪开，得到两个长方形．请问：这两个长方形的周长之和比原来正方形的周长多几厘米？
+
+【考点】巧求周长     【难度】1星   【题型】解答
+剪开后的图形与原图形相比，多了两条边，这两条边的长度即为所求． EMBED Equation.DSMT4  （厘米）。
+【答案】 EMBED Equation.DSMT4  
+
+把一个边长为a的正方形分成两个完全相同的长方形，则这两个长方形的周长的和是            。
+【考点】巧求周长  【难度】1星   【题型】填空
+【关键词】希望杯，4年级，初赛，12题
+剪开后的图形与原图形相比，多了两条边，这两条边的长度为 EMBED Equation.DSMT4  ，所以这两个长方形的长度为 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+如图，两个长方形拼成了一个正方形。如果正方形的周长比两个长方形的周长的和少6厘米，则正方形面积是________平方厘米。
+
+【考点】巧求周长  【难度】1星   【题型】填空
+【关键词】希望杯，4年级，初赛
+正方形的周长比两个长方形的周长的和少2个边长,2个边长是6厘米,则边长是3厘米,面积是9平方厘米.
+【答案】 EMBED Equation.DSMT4  平方厘米
+
+两个大小相同的正方形拼成了一个长方形，长方形的周长比原来的两个正方形周长的和减少了 EMBED Equation.DSMT4  厘米，原来一个正方形的周长是多少厘米？
+【考点】巧求周长  【难度】2星   【题型】解答
+先想一想，减少的 EMBED Equation.DSMT4  厘米相当于正方形的几条边的边长呢？
+把两个正方形拼成一个长方形时，拼成的长方形的周长比原来两个正方形的 EMBED Equation.DSMT4  条边减少了 EMBED Equation.DSMT4  条边(如图所示)
+
+而这两条边的和正好是减少的 EMBED Equation.DSMT4  厘米，所以，正方形的边长是 EMBED Equation.DSMT4  厘米，原来一个正方形的周长是 EMBED Equation.DSMT4  厘米．所以原来一个正方形的周长是： EMBED Equation.DSMT4  (厘米)
+【总结】通过这个例题，可以看出，求组合图形及一些特殊图形的周长与面积，一定要仔细观察，善于发现其中内在的联系，找出未知与已知的关系，将问题转化，从而得到解决．下面我们来学习几种求几何图形周长和面积的技巧．
+【答案】 EMBED Equation.DSMT4  厘米
+
+长方形 EMBED Equation.3  长为l0厘米，宽为4厘米． EMBED Equation.3  是 EMBED Equation.3  中点，四边形 EMBED Equation.3  的周长比三角形 EMBED Equation.3  的周长多（     ）厘米．
+
+【考点】巧求周长   【难度】2星   【题型】填空
+【关键词】走美杯，3年级，初赛，第14题
+通过比较得出，四边形 EMBED Equation.3  的周长比三角形 EMBED Equation.3  的周长多的是 EMBED Equation.3  边，多10厘米。
+【答案】 EMBED Equation.DSMT4  厘米
+
+（第六届走美四年级初赛第15题）E是正方形ABCD的边CD上的三等分点(如图)，BE把正方形分成一个梯形和一个三角形．梯形的周长比三角形的周长大8厘米．正方形ABCD的面积是    ．
+
+由E是正方形ABCD的边CD上的三等分点，知	DC=3EC，又有梯形的周长比三角形的周长大8厘米，知4份量是8厘米，1份量是2厘米，则有正方形的边是6厘米，则正方形ABCD的面积是36
+
+如图所示，一个大长方形被三条线段分成了四个小长方形，各条线段长度见图(单位：厘米)．求：图中所有长方形的周长之和．
+
+【考点】巧求周长  【难度】3星   【题型】解答
+类似于上题，题目中所说的长方形，并不只包括最小的几个长方形，因此需要先求出每条线段在求和过程中被累加了多少次．因为没从大长方形的长上找到一条线段，就能对应地找到大长方形内的一个长方形，所以可以利用上一个问题的结论来解决这个问题．当然，要考虑到，每个长方形都有两条长和两条宽，因此计算过程中应该注意不要漏算．先考虑大长方形的长上各边：应用上一道题目的结论，每条边上长为4、3、1、2的线段分别被计算了4、6、6、4次．然后再考虑大长方形的宽：因为共有个长方形，所以长度为2的宽被计算了 EMBED Equation.DSMT4  （次）．
+故总周长可以用下式计算得到：．
+【答案】 EMBED Equation.DSMT4  厘米
+
+如图，从长方形纸片ABCD上剪去正方形ADFE，剩下的长方形EFCB的周长是100厘米，则AB的长是       厘米。
+
+【考点】巧求周长  【难度】3星   【题型】填空
+【关键词】希望杯，4年级，初赛， 15题
+长方形的周长 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  ，所以AB=AE+EB=EF+FB=100÷2=50厘米.
+【答案】 EMBED Equation.DSMT4  厘米
+
+如图，正方形ABCD的边长是6厘米，过正方形内的任意两点画直线，可把正方形分成9个小长方形。这9个小长方形的周长之和是           厘米。
+
+【考点】巧求周长  【难度】3星   【题型】填空
+【关键词】2006年，第4届，希望杯，4年级，初赛，13题
+从总体考虑，在求这 EMBED Equation.DSMT4  个小长方形的周长之和时， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  这四条边被用了 EMBED Equation.DSMT4  次，其余四条虚线被用了 EMBED Equation.DSMT4  次，所以 EMBED Equation.DSMT4  个小长方形的周长之和是： EMBED Equation.DSMT4  （厘米）。
+【答案】 EMBED Equation.DSMT4  厘米
+
+如图，正方形的边长为 EMBED Equation.DSMT4  ，被分割成如下 EMBED Equation.DSMT4  个小长方形，求这 EMBED Equation.DSMT4  个小长方形的所有周长之和．
+
+【考点】巧求周长  【难度】3星   【题型】解答
+ EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+有一个长方形纸片，长比宽多 EMBED Equation.DSMT4  厘米，周长是 EMBED Equation.DSMT4  厘米，用剪刀剪 EMBED Equation.DSMT4  下（如图），这 EMBED Equation.DSMT4  个长方形的周长之和是        。
+
+【考点】巧求周长   【难度】3星   【题型】填空
+【关键词】学而思杯，3年级，第4题
+根据题意知：长为： EMBED Equation.DSMT4  （厘米），宽为： EMBED Equation.DSMT4  （厘米），剪 EMBED Equation.DSMT4  刀后增加了 EMBED Equation.DSMT4  个长， EMBED Equation.DSMT4  个宽，则周长和为： EMBED Equation.DSMT4  （厘米）。
+【答案】 EMBED Equation.DSMT4  厘米
+
+如图，一个正方形被分割成 EMBED Equation.DSMT4  个互不重叠的小长方形，这 EMBED Equation.DSMT4  个小长方形的周长总和为 EMBED Equation.DSMT4  ，原正方形的面积是         。
+
+【考点】巧求周长  【难度】4星   【题型】填空
+【关键词】走美杯，5年级，决赛，第10题，10分
+由题目中的图可以看出，小长方形的周长和相当于正方形的 EMBED Equation.DSMT4  （条）边长，所以正方形面积为 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+如图，有一张长为12厘米，宽为10厘米的长方形纸片，按照虚线将这个纸片剪为两部分，这两部分的周长之和是_____________厘米．
+
+【考点】巧求周长   【难度】3星   【题型】填空
+【关键词】中年级，决赛，4题
+所求的周长之和＝原长方形的周长 EMBED Equation.DSMT4  虚线的总长度．原长方形的周长＝ EMBED Equation.DSMT4  （厘米），虚线的总长度＝ EMBED Equation.DSMT4  （厘米），则所求周长之和＝ EMBED Equation.DSMT4  （厘米）．
+【答案】 EMBED Equation.DSMT4  厘米
+
+将若干个边长为 EMBED Equation.DSMT4  的正六边形(即单位六边形)拼接起来，得到一个拼接图形，如图：
+
+那么，要拼接成周长等于 EMBED Equation.DSMT4  的拼接图形，需要多少个单位六边形？画出对应的一种图形．
+【考点】巧求周长   【难度】5星   【题型】解答
+【关键词】希望杯，复试
+先从变化中观察，寻找规律．细心观察四个图形，可以发现：在拼接图形时，每增加一个单位六边形，拼接图形的周长要么不增加，要么增加 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，如图
+
+因为两个单位六边形拼接的图形的周长只能是 EMBED Equation.DSMT4  ，因为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以当拼接图形的周长等于 EMBED Equation.DSMT4  时，所拼接的单位六边形有 EMBED Equation.DSMT4  个、 EMBED Equation.DSMT4  个、 EMBED Equation.DSMT4  个或 EMBED Equation.DSMT4  个．如图：
+ EMBED Equation.DSMT4  个：
+ EMBED Equation.DSMT4  个：
+ EMBED Equation.DSMT4  个：
+ EMBED Equation.DSMT4  个：
+【答案】周长等于 EMBED Equation.DSMT4  时，所拼接的单位六边形有 EMBED Equation.DSMT4  个、 EMBED Equation.DSMT4  个、 EMBED Equation.DSMT4  个或 EMBED Equation.DSMT4  个．如图：
+ EMBED Equation.DSMT4  个：
+ EMBED Equation.DSMT4  个：
+ EMBED Equation.DSMT4  个：
+ EMBED Equation.DSMT4  个：
+
+模块二、图形的周长和面积——平移
+
+一个周长是20厘米的正方形，剪下一个周长是6厘米的正方形，剩下的图形的周长是______（写出所有可能的结果）
+【考点】巧求周长   【难度】2星   【题型】填空
+【关键词】走美杯，四年级，初赛，第5题
+可以知道，我们可以得到如下几种类型的图形，利用平移的方法可以得到它们的周长依次为20厘米、23厘米，26厘米。
+
+【答案】 EMBED Equation.DSMT4  厘米、 EMBED Equation.DSMT4  厘米、 EMBED Equation.DSMT4  厘米
+
+如图3所示，这是三个边长为10厘米的正方形纸片。从（1）和（2）中各剪去一个面积是4平方厘米的小正方形，从（3）中剪去一个面积是4平方厘米的长方形。比较（1），（2），（3），剩下部分周长最小的是_________（填图形编号），它的周长是_________厘米。
+
+【考点】巧求周长   【难度】2星   【题型】填空
+【关键词】希望杯，四年级，复赛，第11题
+观察三个图形，可以得出，( EMBED Equation.DSMT4  )中剩下部分周长与原正方形的周长相等，( EMBED Equation.DSMT4  )、( EMBED Equation.DSMT4  )剩下部分周长都比原正方形的周长要大，所以剩下部分最小的是( EMBED Equation.DSMT4  )，为 EMBED Equation.DSMT4  （厘米）。
+【答案】( EMBED Equation.DSMT4  )周长为 EMBED Equation.DSMT4  厘米
+
+一个长为 EMBED Equation.DSMT4  厘米，宽为 EMBED Equation.DSMT4  厘米的长方形，挖去一个边长为 EMBED Equation.DSMT4  厘米的正方形补在另一边上（如图）。所得图形的周长为        厘米。
+
+【考点】巧求周长  【难度】2星   【题型】填空
+【关键词】走美杯，3年级，决赛，第3题，8分
+原长方形周长为 EMBED Equation.DSMT4  （厘米），进行挖补后，周长增加了 EMBED Equation.DSMT4  （厘米），所以所得图形的周长为 EMBED Equation.DSMT4  （厘米）。
+【答案】 EMBED Equation.DSMT4  厘米
+
+一个周长是20厘米的正方形，剪下一个周长是6厘米的正方形，剩下的图形的周长是            ．  (写出所有可能的结果)
+【考点】巧求周长   【难度】2星   【题型】填空
+周长为6厘米的正方形的边长为： EMBED Equation.DSMT4  (厘米)，周长为20厘米的正方形的边长为 EMBED Equation.DSMT4  (厘米)，在一个正方形中剪下一个小正方形有两种情况：
+        
+对于图1的周长，与原来正方形的周长相等，为20厘米；图2的周长，观察可以发现，比原来正方形的周长多了两条小正方形的边，即为： EMBED Equation.DSMT4  (厘米)．
+【答案】 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  厘米
+
+下边这个图形的周长等于_________厘米。
+
+【考点】巧求周长    【难度】2星   【题型】填空
+【关键词】走美杯，3年级，决赛，第6题，10分
+整体看问题，本题周长相当于将60、30、20各算了两次所以周长为：(20+30+60)×2 EMBED Equation.DSMT4  220(厘米)
+【答案】 EMBED Equation.DSMT4  厘米
+
+下图中标出的数表示每边长，单位是厘米．它的周长是多少厘米？ 
+
+【考点】巧求周长   【难度】2星   【题型】解答
+平移转化为求长方形的周长，长方形的长5+6=11(厘米)，宽1+3=4(厘米)，周长(11+4)×2=30(厘米)，[(5+6)+(1+3)]×2=30(厘米)，它的周长是30厘米．
+【答案】 EMBED Equation.DSMT4  厘米
+
+求右图所示图形的周长(单位：分米) 
+
+【考点】巧求周长   【难度】2星   【题型】解答
+这道题最简单的方法也是用平移法来解．下面我们来看一个基本解法．
+这是一个组合图形，由两个矩形组成，不要误认为两个矩形周长的和就是组合图形的周长．仔细观察图形可以发现：右边矩形的右边边长可以移到左边，这样就可以使左边的矩形变得完整．所以，这个组合图形的周长就是左边矩形的周长再加上右边矩形的一条已知边长的 EMBED Equation.DSMT4  倍．
+即： EMBED Equation.DSMT4  (分米)
+【答案】 EMBED Equation.DSMT4  分米
+
+如下图是某校的平面图，已知线段a＝120米，b＝130米，c＝70米，d＝60米，l＝250米．杨老师每天早晨绕学校跑3圈，问每天跑多少米？
+       
+【考点】巧求周长   【难度】3星   【题型】解答
+平移法转化为长方形再求．［(120＋130+60)＋(70+250)］×2×3＝3780(米)．
+【答案】 EMBED Equation.DSMT4  米
+
+下图表示一块地，四周都用篱笆围起来，转弯处都是直角．已知西边篱笆长 EMBED Equation.DSMT4  米，南边篱笆长 EMBED Equation.DSMT4  米．四周篱笆长多少米？
+     
+【考点】巧求周长   【难度】3星   【题型】解答
+因为这块地的东边和北边的篱笆转弯处是直角，可以将东西方向的篱笆平移到最外边得到线段 EMBED Equation.DSMT4  ，将南北方向的篱笆平移到最外边得到线段 EMBED Equation.DSMT4  ，则折线 EMBED Equation.DSMT4  的长等于折线 EMBED Equation.DSMT4  的长．
+所以东边和北边篱笆的长分别和西边、南边的篱笆长相等．列式为：
+   　　 四周篱笆长为： EMBED Equation.DSMT4  (米)
+【答案】 EMBED Equation.DSMT4  米
+
+右图的周长是          分米．
+
+【考点】巧求周长   【难度】3星   【题型】填空
+【关键词】希望杯，培训题
+把那些与水平方向平行的小线段都”放”下来，恰好与底边一致；把竖直方向的小线段都依次”贴到”左边，恰好贴满左边，因此多有的短横线的长的和为 EMBED Equation.DSMT4  分米，所有的短竖线的长的和为 EMBED Equation.DSMT4  分米，图形的周长为 EMBED Equation.DSMT4  (分米)
+【答案】 EMBED Equation.DSMT4  分米
+
+计算右边图形的周长(单位：厘米)。
+
+【考点】巧求周长   【难度】3星   【题型】解答
+要求这个图形的周长，似乎不可能，因为缺少条件。但是，我们仔细观察这个图形，发现它的每一个角都是直角，所以，我们可以将图中右上缺角处的线段分别向上、向右平行移动到虚线处(见右下图)，这样正好移补成一个长方形。求长方形的周长就易如反掌了。所以图形的周长是： EMBED Equation.DSMT4  (厘米)。
+【答案】 EMBED Equation.DSMT4  厘米
+
+下图是一个锯齿状的零件，每一个锯齿的两条线段都长2厘米，求这个零件的周长．
+        
+【考点】巧求周长   【难度】3星   【题型】解答 
+平移法，将锯齿状的零件转化成平行四边形，两组对边相等都等于24厘米 ，所以这个零件的周长是24×2=48(厘米)．
+【答案】 EMBED Equation.DSMT4  厘米
+
+将边长为10厘米的五张正方形纸片如图那样放置，每张小正方形纸片被盖住的部分是一个较小的正方形，它的边长是原正方形边长的一半，则图中的图形外轮廓（图中粗线条）的周长为___________厘米。
+
+【考点】巧求周长   【难度】3星   【题型】填空
+【关键词】希望杯，4年级，初赛、9题
+可以把图形平移扩大成为边长30厘米的大正方形，周长不变，所以周长是30×4＝120厘米。
+【答案】 EMBED Equation.DSMT4  厘米
+
+下图是一面砖墙的平面图，每块砖长20厘米，高8厘米，像图中那样一层、二层…一共摆十层，求摆好后这十层砖墙的周长是多少？
+      
+【考点】巧求周长   【难度】4星   【题型】解答
+我们仍然可以通过平移转化为长方形来求．长方形的长是10块砖的长度，即20×10=200(厘米)，宽是10块砖的宽度，即8×10=80(厘米)，所以十层砖墙的周长是(200+80)×2=560(厘米)．
+【答案】 EMBED Equation.DSMT4  厘米
+
+ “走美商场”开业了！每口如图有规律地放了一些同样的礼品盒供顾客免费领取。每一礼品盒宽 EMBED Equation.DSMT4  厘米，长 EMBED Equation.DSMT4  厘米（取“永久发达”的吉祥寓意）。摆好后其上面四层的正面图如下图所示，共摆十层，则一共有        个礼品盒，整个图形周长为        厘米。
+
+【考点】巧求周长   【难度】4星   【题型】填空
+【关键词】走美杯，3年级，初赛，第13题，四年级，初赛，第11题
+
+
+如图所示，用平移的方法可以将“金字塔”形的礼品盒的周长变成一个长方形的周长。
+十层的话，长 EMBED Equation.DSMT4  厘米，宽 EMBED Equation.DSMT4  厘米，周长为 EMBED Equation.DSMT4  厘米。
+共有 EMBED Equation.DSMT4  个礼品盒。
+【答案】 EMBED Equation.DSMT4  个，周长 EMBED Equation.DSMT4  厘米
+
+下图由25个边长为3厘米的小正方形拼成，它的周长为    厘米。
+
+【考点】巧求周长   【难度】3星   【题型】填空
+【关键词】走美杯，4年级，决赛，第3题，8分
+它的周长与边长为21厘米的正方形的周长相同。为84厘米。
+【答案】 EMBED Equation.DSMT4  厘米
+
+如图，每个小方格是一个正方形，如果该图总面积是52个平方单位，试求这个图形的外沿周长是多少个长度单位？ 
+
+【考点】巧求周长   【难度】3星   【题型】解答
+40个长度单位
+【答案】 EMBED Equation.DSMT4  
+
+把长2厘米、宽1厘米的长方形砖块摆成如图的形状，求该图形的周长？
+
+【考点】巧求周长   【难度】4星   【题型】解答
+66厘米
+【答案】 EMBED Equation.DSMT4  厘米
+
+两只小蚂蚁同时从图中的 EMBED Equation.DSMT4  点出发开始爬向 EMBED Equation.DSMT4  点，红蚂蚁沿图中的实线爬行，黑蚂蚁沿图中虚线爬行，如果两只蚂蚁的爬行速度相同，则最先到达 EMBED Equation.DSMT4  点的是          ．
+
+【考点】巧求周长    【难度】3星   【题型】填空
+【关键词】学而思杯，4年级，第4题
+红蚂蚁
+【答案】红蚂蚁
+
+如下图，正方形操场边长100米，一只蚂蚁沿甲地走了一圈，另一只蚂蚁沿乙地走了一圈，谁走的路长？ 它们各走了多少米？
+
+【考点】巧求周长   【难度】3星   【题型】解答
+我们分别求甲、乙的周长．甲的周长可转化为长方形周长(如图)
+          
+即为(100+50+30)×2=360(米)．再求乙的周长． 乙的周长等于长方形周长加上2个30米，
+即为(100+50)×2+30×2=360(米)．所以它俩走的一样长．
+【答案】两个人走路一样长， EMBED Equation.DSMT4  米
+
+求下图的周长．
+
+【考点】巧求周长  【难度】3星   【题型】解答
+通过平移转化为右上图，周长等于大长方形周长加上AB、CD的长，即有周长为(50+35)×2+10×2=190(厘米)．
+【答案】 EMBED Equation.DSMT4  厘米
+
+求右图的周长． 
+
+【考点】巧求周长  【难度】3星   【题型】解答
+140厘米
+【答案】 EMBED Equation.DSMT4  厘米
+
+右图是由七个长5厘米、宽3厘米的相同长方形经过竖放、横放而成的图形．求这个图形的周长？
+
+【考点】巧求周长   【难度】3星   【题型】解答
+平移法． EMBED Equation.DSMT4  (厘米).
+【答案】 EMBED Equation.DSMT4  厘米
+
+下图的小正方形边长为1厘米．这个图形的外沿的周长是多少厘米？
+
+【考点】巧求周长   【难度】3星   【题型】解答
+根据平移性质得到28厘米
+【答案】 EMBED Equation.DSMT4  厘米
+
+(第七届”小机灵杯”数学竞赛初赛)下面两张图中，周长较大的是        ．(在横线上填写表示图名的字母)
+
+【考点】巧求周长   【难度】3星   【题型】填空
+通过平移比较发现 EMBED Equation.DSMT4  比 EMBED Equation.DSMT4  多两小段边，得 EMBED Equation.DSMT4  的周长较大．
+【答案】 EMBED Equation.DSMT4  
+
+如图是一个机器零件的侧面图，图中每一条最短线段长5厘米，这个零件高30厘米，求这个零件侧面的周长是多少厘米？
+    
+【考点】巧求周长   【难度】3星   【题型】解答
+采用平移，零件侧面的周长等于长方形周长加上内部10条最短线段长，即(5×7+30)×2+5×10=180(厘米)．
+【答案】 EMBED Equation.DSMT4  厘米
+
+图中是由周长都是20厘米的小正方形组成的，它的周长是多少厘米？
+
+【考点】巧求周长   【难度】3星   【题型】解答
+160cm
+【答案】 EMBED Equation.DSMT4  厘米
+
+下图是由边长为1厘米的11个正方形堆成的“土”字图形．试求出其周长．
+
+【考点】巧求周长   【难度】3星   【题型】解答
+周长是由24条1厘米的边长组成，所以周长=1×24=24(厘米)．
+【答案】 EMBED Equation.DSMT4  厘米
+
+右图是由 EMBED Equation.DSMT4  个同样大小的正方形组成的，如果这个图形的面积是 EMBED Equation.DSMT4  平方厘米，那么它的周长是多少厘米？
+
+【考点】巧求周长   【难度】3星   【题型】解答
+考虑此类问题我们即可以局部分析，各个突破，也可以纵观全局整体思考．
+每个正方形的面积为 EMBED Equation.DSMT4  (平方厘米)，所以每个正方形的边长是 EMBED Equation.DSMT4  厘米．观察右图，这个图形的周长从上下方向来看是由 EMBED Equation.DSMT4  条正方形的边组成，从左右方向来看是由 EMBED Equation.DSMT4  条正方形的边组成，所以其周长为 EMBED Equation.DSMT4  厘米．
+【答案】 EMBED Equation.DSMT4  厘米
+
+图⑴、图⑵都是由完全相同的正方形拼成的，并且图⑴的周长是 EMBED Equation.DSMT4  厘米，那么图⑵的周长是多少厘米？
+       
+【考点】巧求周长   【难度】4星   【题型】解答
+图⑴的周长是小正方形边长的 EMBED Equation.DSMT4  倍，图⑵的周长是小正方形边长的 EMBED Equation.DSMT4  倍，因此，图⑵的周长为 EMBED Equation.DSMT4  厘米．
+【答案】 EMBED Equation.DSMT4  厘米
+
+图中共有16条线段，每两条相邻的线段都是互相垂直的．为了计算出这个图形的周长，最少要量出多少条线段的长度?
+
+【考点】巧求周长   【难度】4星    【题型】解答
+如下图所示，我们想像某只昆虫绕图形爬行一周，回到原出发点，那么往右的路程等于往左的路程，往上的路程等于往下的路程．于是只用量出往右的路程，往下的路程，再将它们的和乘以2即为所求的周长．所以，最少的量出下列6段即可．
+
+【答案】 EMBED Equation.DSMT4  段，如图：
+         
+
+如图，每个小格的边长都是1个单位长度，一只甲虫在水平方向上每爬行1个单位长度需要5秒，在竖直方向上每爬行1个单位长度需要6秒，每拐弯一次需要1秒。它从A点爬到B点，最少需要        秒。
+
+【考点】巧求周长   【难度】4星   【题型】填空
+【关键词】希望杯，五年级，初赛，第13题，5分
+最短也需要爬水平5格，竖直4格，拐弯最少时需要时间最好少，那么水平2格，竖直2格，水平3格，竖直2格只需要拐弯3次，时间最少5×5+4×6+3=52秒
+【答案】 EMBED Equation.DSMT4  秒
+
+右图中的每个拐弯处的角都是直角，且它的八条边的边长分别是1、2、3、4、5、6、7、8厘米。这个图形的面积最大是_____________平方厘米；最小是__________平方厘米．
+
+【考点】巧求周长   【难度】4星   【题型】填空
+【关键词】走美杯，五年级，初赛，第15题
+因为八条边的长不同，而且AB的长为另外三边长的和，在8个数中，有6=1+2+3，7=1+2+4，8=1+2+5=1+3+4。八个数的和为1+2+3+…+8=36，那么就有三种情况：
+（1）AB=6时，将图形补为长方形后的长为：（36-6×2）÷2=12，12=4+8=5+7，               
+长方形的面积为12×6=72，要使图形面积最大，则要减去的两个小长方形的面积最小，当EF=1，CF=5；GH=2,GD=4时，满足要求，那么图形的最大面积为：72-1×5-2×4=59（平方厘米）。要使图形面积最小，则要减去的两个小长方形的面积最大，当EF=2，CF=7；GH=3,GD=8时，满足要求，那么图形的最小面积为：72-2×7-3×8=34（平方厘米）。
+（2）AB=7时，将图形补为长方形后的长为：（36-7×2）÷2=11，11=3+8=5+6，长方形的面积为11×7=77，要使图形面积最大，则要减去的两个小长方形的面积最小，当EF=1，CF=5；GH=2,GD=3时，满足要求，那么图形的最大面积为：77-1×5-2×3=66（平方厘米）。要使图形面积最小，则要减去的两个小长方形的面积最大，当EF=2，CF=6；GH=4,GD=8时，满足要求，那么图形的最小面积为：77-2×6-4×8=33（平方厘米）。
+（3）AB=8时，将图形补为长方形后的长为：（36-8×2）÷2=10，10=3+7=4+6，长方形的面积为10×8=80，要使图形面积最大，则要减去的两个小长方形的面积最小，当EF=1，CF=4；GH=2,GD=3时，满足要求，那么图形的最大面积为：80-1×4-2×3=70（平方厘米）。要使图形面积最小，则要减去的两个小长方形的面积最大，当EF=2，CF=6；GH=5,GD=7时，满足要求，那么图形的最小面积为：80-2×6-5×7=33（平方厘米）。
+综上，这个图形的面积最大是70平方厘米；最小是33平方厘米．
+【答案】面积最大 EMBED Equation.DSMT4  平方厘米，最小 EMBED Equation.DSMT4  平方厘米
+
+如图，一个长方形被分成A、B、C三块，其中B和C都是长方形，A的八条边的边长分别是l、2、3、4、5、6、7、8厘米。那么B和C的面积和最多是     平方厘米。(示意图不成比例)
+
+【考点】巧求周长   【难度】5星   【题型】填空
+【关键词】迎春杯，四年级，初赛，12题
+如图，a=b+c+d，e=f+h-g满足第一条等式的有：
+
+6=1+2+3    剩下4、5、7、8   凑出8=5+7-4 
+7=1+2+4    剩下3、5、6、8   凑出8=6+5-3
+8=1+2+5    剩下3、4、6、7   凑出7=6+4-3
+8=1+3+4    剩下2、5、6、7   无法凑
+所以长方形长宽有（6、8）（7、8）（8、7）三种情况.B和C的面积和越大，A的面积越小.对于于每一种情况在横方向线段长度已经确定的情况下.竖直线段一定是c>b>d的时候A的面积最小.在竖方向线段长度确定的情况下.横方向一定是f>h的情况面积最小.依次计算各部分的B和C面积：
+1、（3+2）×7-2×4=27
+2、（2+4）×6-2×3=30
+3、（5+2）×6-2×3=36
+所以最多有36平方厘米.
+【答案】 EMBED Equation.DSMT4  平方厘米
+
+模块三、整体看问题
+
+下图中的阴影部分 EMBED Equation.DSMT4  是正方形，线段 EMBED Equation.DSMT4  长 EMBED Equation.DSMT4  厘米，线段 EMBED Equation.DSMT4  长 EMBED Equation.DSMT4  厘米，则长方形 EMBED Equation.DSMT4  的周长是       厘米．
+
+【考点】巧求周长   【难度】3星   【题型】填空
+【关键词】希望杯，五年级，初赛，第11题，6分
+本题需要注意，长方形 EMBED Equation.DSMT4  的宽应等于正方形 EMBED Equation.DSMT4  的边长．
+由于图中阴影部分 EMBED Equation.DSMT4  是个正方形，其四条边的边长都相等，且等于长方形 EMBED Equation.DSMT4  的宽． EMBED Equation.DSMT4  的和应为长方形 EMBED Equation.DSMT4  的长加上正方形 EMBED Equation.DSMT4  的边长，所以等于长方形 EMBED Equation.DSMT4  的长与宽之和．所以长方形 EMBED Equation.DSMT4  的周长为： EMBED Equation.DSMT4  厘米．
+【答案】 EMBED Equation.DSMT4  厘米
+
+如图，在长方形 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  是正方形．已知 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，求长方形 EMBED Equation.DSMT4  的周长．
+
+【考点】巧求周长   【难度】3星   【题型】解答
+通过观察发现 EMBED Equation.DSMT4  是长方形的长与宽，所以长方形 EMBED Equation.DSMT4  的周长是 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )．
+【答案】 EMBED Equation.DSMT4  厘米
+
+如图，长方形ABCD中有一个正方形EFGH,且AF=16厘米，HC=13厘米，长方形ABCD的周长为        厘米。
+
+【考点】巧求周长   【难度】3星   【题型】填空
+【关键词】走美杯，3年级，初赛，第8题）
+长方形的周长为（长+宽）×2，即 EMBED Equation.DSMT4  ，容易知道 EMBED Equation.DSMT4  = EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，于是我们可以得到 EMBED Equation.DSMT4  = EMBED Equation.DSMT4  ，故长方形的周长为 EMBED Equation.DSMT4  。 
+【答案】 EMBED Equation.DSMT4  
+
+如右图所示，在一个正方形内画中、小两个正方形，使三个正方形具有公共顶点，这样大正方形被分割成了正方形区域甲，和 EMBED Equation.DSMT4  形区域乙和丙．甲的边长为 EMBED Equation.DSMT4  厘米，乙的边长是甲的周长的 EMBED Equation.DSMT4  倍，丙的周长是乙的周长的 EMBED Equation.DSMT4  倍，那么丙的周长为多少厘米？ EMBED Equation.DSMT4  长多少厘米？
+
+【考点】巧求周长   【难度】3星   【题型】解答
+乙的周长实际上是正方形 EMBED Equation.DSMT4  的周长(我们可将乙与甲重合的两条线段分别向左、向下平移)，同样的，丙的周长也就是正方形 EMBED Equation.DSMT4  的周长．由于 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以丙的周长为 EMBED Equation.DSMT4  厘米， EMBED Equation.DSMT4  (厘米)．
+【答案】丙丁周长为 EMBED Equation.DSMT4  厘米， EMBED Equation.DSMT4  厘米
+
+图内9个相同的小长方形构成大长方形，大长方形周长为90，则每个小长方形周长为      。
+
+【考点】巧求周长   【难度】3星   【题型】填空
+【关键词】学而思杯，3年级，第7题
+小长方形的宽的三倍等于长的两倍，大长方形的周长其实是9个小长方形的宽加4个小长方形的长，即 EMBED Equation.DSMT4  小长方形的长。所以小长方形长 EMBED Equation.DSMT4  ，宽 EMBED Equation.DSMT4  ，小长方形周长为 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+有 EMBED Equation.DSMT4  个小长方形，它们的长和宽分别相等，用这 EMBED Equation.DSMT4  个小长方形拼成的大长方形(如图)的面积是 EMBED Equation.DSMT4  平方厘米，求这个大长方形的周长．
+
+【考点】巧求周长   【难度】3星   【题型】解答
+从图上可以知道，小长方形的长的 EMBED Equation.DSMT4  倍等于宽的 EMBED Equation.DSMT4  倍，所以长是宽的 EMBED Equation.DSMT4  倍．每个小长方形的面积为 EMBED Equation.DSMT4  平方厘米，所以 EMBED Equation.DSMT4  宽 EMBED Equation.DSMT4  宽 EMBED Equation.DSMT4  ，所以宽为 EMBED Equation.DSMT4  厘米，长为 EMBED Equation.DSMT4  厘米．大长方形的周长为 EMBED Equation.DSMT4  厘米．
+【答案】 EMBED Equation.DSMT4  厘米
+
+右图的长方形被分割成 EMBED Equation.DSMT4  个正方形，已知原长方形的面积为 EMBED Equation.DSMT4  平方厘米，求原长方形的长与宽．
+
+【考点】巧求周长   【难度】3星   【题型】解答
+大正方形边长的 EMBED Equation.DSMT4  倍等于小正方形边长的 EMBED Equation.DSMT4  倍，所以大正方形的边长是小正方形边长的 EMBED Equation.DSMT4  倍，大正方形的面积是小正方形面积的 EMBED Equation.DSMT4  倍，所以小正方形面积为 EMBED Equation.DSMT4  平方厘米，所以小正方形的边长为 EMBED Equation.DSMT4  厘米，大正方形的边长为 EMBED Equation.DSMT4  厘米，原长方形的长为 EMBED Equation.DSMT4  厘米，宽为 EMBED Equation.DSMT4  厘米．
+【答案】长 EMBED Equation.DSMT4  厘米，宽 EMBED Equation.DSMT4  厘米
+
+小明骑车到A、B和C三个景点旅游，如果从A地出发经过B地到C地，共行10千米；如果从B地出发经过C地到A地，共行13千米；如果从C地出发经过A地到B地，共行11千米，则距离最短的两个景点之间相距               千米。
+【考点】巧求周长   【难度】4星   【题型】填空
+【关键词】希望杯，5年级，复赛，第9题
+如图所示，令AB,BC,CA间的距离分别为a,b,c.
+
+从而根据题意有： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，从而有： EMBED Equation.DSMT4  ，
+分别求得： EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ，
+可见距离最近的是AB间的距离为4。
+【答案】 EMBED Equation.DSMT4  千米
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+教师寄语：拼一个春夏秋冬，换一生无怨无悔。
+
+
+
+
+4-2-2.巧求周长
+
+知识点拨
+
+例题精讲
+
+
+ PAGE  \* MERGEFORMAT 23
+
+
+

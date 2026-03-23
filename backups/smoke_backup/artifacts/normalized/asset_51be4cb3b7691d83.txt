@@ -1,0 +1,423 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+利用位值原理的定义进行拆分
+巧用方程解位值原理的题
+
+ SHAPE  \* MERGEFORMAT 
+位值原理
+当我们把物体同数相联系的过程中，会碰到的数越来越大，如果这种联系过程中，只用我们的手指头，那么到了“十”这个数，我们就无法数下去了，即使象古代墨西哥尤里卡坦的玛雅人把脚趾也用上，只不过能数二十。我们显然知道，数是可以无穷无尽地写下去的，因此，我们必须把数的概念从实物的世界中解放出来，抽象地研究如何表示它们，如何对它们进行运算。这就涉及到了记数，记数时，同一个数字由于所在位置的不同，表示的数值也不同。既是说，一个数字除了本身的值以外，还有一个“位置值”。例如，用符号555表示五百五十五时，这三个数字具有相同的数值五，但由于位置不同，因此具有不同的位置值。最右边的五表示五个一，最左边的五表示五个百，中间的五表示五个十。但是在奥数中位值问题就远远没有这么简单了，现在就将解位值的三大法宝给同学们。希望同学们在做题中认真体会。
+
+1.位值原理的定义：同一个数字，由于它在所写的数里的位置不同，所表示的数值也不同。也就是说，每一个数字除了有自身的一个值外，还有一个“位置值”。例如“2”,写在个位上，就表示2个一，写在百位上，就表示2个百，这种数字和数位结合起来表示数的原则，称为写数的位值原理。
+
+2.位值原理的表达形式：以六位数为例： EMBED Equation.DSMT4  a×100000+b×10000+c×1000+d×100+e×10+f。
+
+3.解位值一共有三大法宝：（1）最简单的应用解数字谜的方法列竖式
+（2）利用十进制的展开形式，列等式解答
+（3）把整个数字整体的考虑设为x，列方程解答
+
+ SHAPE  \* MERGEFORMAT 
+
+模块一、简单的位值原理拆分
+
+一个两位数，加上它的个位数字的9倍，恰好等于100。这个两位数的各位数字的和是          。
+【考点】简单的位值原理拆分   【难度】2星   【题型】填空
+【关键词】希望杯，4年级，初赛，7题，六年级，初赛，第8题，5分
+这个两位数，加上它的个位数字的9倍，恰好等于100，也就是说，十位数字的10倍加上个位数字的10倍等于100，所以十位数字加个位数字等于100÷10＝10。
+【答案】 EMBED Equation.DSMT4  
+
+学而思的李老师比张老师大18岁，有意思的是，如果把李老师的年龄颠倒过来正好是张老师的年龄，求李老师和张老师的年龄和最少是________？（注：老师年龄都在20岁以上）
+【考点】简单的位值原理拆分   【难度】3星   【题型】填空
+【关键词】学而思杯，4年级，第5题
+解设张老师年龄为 EMBED Equation.DSMT4  ，则李老师的年龄为 EMBED Equation.DSMT4  ，根据题意列式子为： EMBED Equation.DSMT4  ，整理这个式子得到： EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，符合条件的最小的值是 EMBED Equation.DSMT4  ，但是 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  不符合题意，所以，答案为 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  符合条件的为： EMBED Equation.DSMT4  6岁。
+【答案】 EMBED Equation.DSMT4  岁
+
+把一个数的数字顺序颠倒过来得到的数称为这个数的逆序数，比如89的逆序数为98．如果一个两位数等于其逆序数与1的平均数，这个两位数是________．
+【考点】简单的位值原理拆分    【难度】2星   【题型】填空
+【关键词】学而思杯，5年级，第3题
+设为 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，整理得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，两位数为37
+【答案】 EMBED Equation.DSMT4  
+
+几百年前，哥伦布发现美洲新大陆，那年的年份的四个数字各不相同，它们的和等于16，如果十位数字加1，则十位数字恰等于个位数字的5倍，那么哥伦布发现美洲新大陆是在公元___________年。
+【考点】简单的位值原理拆分   【难度】2星   【题型】填空
+【关键词】希望杯，4年级，初赛，10题
+肯定是1×××年，16－1＝15，百位，十位与个位和是15，十位加1后，数字和是15＋1＝16，此时十位和个位和是6的倍数，个位不是1，只能是2，十位原来是9，百位是4，所以是在1492年。
+【答案】 EMBED Equation.DSMT4  
+
+小明今年的年龄是他出生那年的年份的数字之和．问：他今年多少岁?
+【考点】简单的位值原理拆分   【难度】2星   【题型】填空
+【关键词】华杯赛，初赛，第11题
+设小明出生那年是，则1＋9＋a＋b＝95－10a－b 从而11a＋2b＝85在a≥8时，11＋2b＞85；在a≤6时，11a＋2b≤66＋2×9＝84，所以必有a＝7，b＝4。小明今年是1＋9＋7＋4＝21(岁).
+【答案】 EMBED Equation.DSMT4  岁
+
+将一个数A的小数点向右移动两位，得到数B。那么B＋A是B－A的________倍。(结果写成分数形式)
+【考点】简单的位值原理拆分   【难度】2星   【题型】填空
+【关键词】希望杯，六年级，初赛，第9题，5分
+将A的小数点向右移动两位则A变成100倍，即B=100A，那么B+A=101A，B-A=99A，B＋A是B－A的 EMBED Equation.DSMT4  倍。
+【答案】 EMBED Equation.DSMT4  
+
+一个十位数字是0的三位数，等于它的各位数字之和的67倍，交换这个三位数的个位数字和百位数字，得到的新三位数是它的各位数字之和的        倍。
+【考点】简单的位值原理拆  【难度】3星   【题型】填空
+【关键词】希望杯，五年级，复赛，第4题，5分
+令这个三位数为 EMBED Equation.DSMT4  ，则由题意可知， EMBED Equation.DSMT4  ，可得 EMBED Equation.DSMT4  ，而调换个位和百位之后变为： EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  ，则得到的新三位数是它的各位数字之和的 EMBED Equation.DSMT4  倍。
+【答案】 EMBED Equation.DSMT4  
+
+一个三位数，个位和百位数字交换后还是一个三位数，它与原三位数的差的个位数字是7，试求它们的差。
+【考点】简单的位值原理拆分   【难度】2星   【题型】填空
+【关键词】希望杯，四年级，复赛，第18题，10分
+ EMBED Equation.DSMT4  个位是7，明显a大于c，所以10+c-a=7，a-c=3，所以他们的差为297
+【答案】 EMBED Equation.DSMT4  
+
+三位数 EMBED Equation.DSMT4  比三位数 EMBED Equation.DSMT4  小99，若 EMBED Equation.DSMT4  彼此不同，则 EMBED Equation.DSMT4  最大是________
+【考点】简单的位值原理拆分   【难度】2星   【题型】填空
+【关键词】希望杯，五年级，初赛，第7题，6分
+由题意， EMBED Equation.DSMT4  ，有 EMBED Equation.DSMT4  ，要 EMBED Equation.DSMT4  最大，如果 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  ，与 EMBED Equation.DSMT4  为三位数矛盾；如果 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  ，剩下 EMBED Equation.DSMT4  最大取7，所以 EMBED Equation.DSMT4  最大是879。
+【答案】 EMBED Equation.DSMT4  
+
+一个三位数abc与它的反序数 EMBED Equation.DSMT4  的和等于888，这样的三位数有_________个。
+【考点】简单的位值原理拆分   【难度】2星   【题型】填空
+【关键词】希望杯，六年级，二试，第4题，5分
+显然 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  都没有发生进位，所以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的情况有1+7、2+6、3+5、4+4、5+3、6+2、7+1这7种。所以这样的三位数有7种。
+【答案】 EMBED Equation.DSMT4  个
+
+将2，3，4，5，6，7，8，9这八个数分别填入下面的八个方格内（不能重复），可以组成许多不同的减法算式，要使计算结果最小，并且是自然数，则这个计算结果是__________。
+ EMBED Equation.DSMT4  
+【考点】简单的位值原理拆分  【难度】2星   【题型】填空
+【关键词】希望杯，六年级，初赛，第5题，6分
+设原式 EMBED Equation.DSMT4  ,其中 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  从 EMBED Equation.DSMT4  中选择。显然，  EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，要让这个差最小，则应使 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，∴这个计算结果是 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+用1，2，3，4，5，7，8，9组成两个四位数，这两个四位数的差最小是___________。
+【考点】简单的位值原理拆分   【难度】2星   【题型】填空
+【关键词】希望杯，四年级，复赛，第5题，5分
+千位数差1，后三位，大数的尽量取小，小者尽量取大，最大的可以取987，小的可以取123，所以这两个四位数应该是4987和5123，差为136.
+【答案】 EMBED Equation.DSMT4  
+
+在下面的等式中，相同的字母表示同一数字， 若 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  中应填              。
+【考点】填横式数字谜之复杂的横式数字谜   【难度】3星   【题型】填空
+【关键词】华杯赛，五年级，决赛，第3题，10分
+由题意知，a≥d,由差的个位为7可知，被减数个位上的d要向十位上的c借一位，则10+d－a=7,即a－d=3.又因为差的十位及百位均为9，由分析可知b=c，故被减数的十位要向百位借一位，百位要向千位借一位，即 EMBED Equation.DSMT4  ,因此 EMBED Equation.DSMT4  内应填入2。
+【答案】 EMBED Equation.DSMT4  
+
+某三位数 EMBED Equation.DSMT4  和它的反序数 EMBED Equation.DSMT4  的差被99除，商等于______与______的差；
+【考点】简单的位值原理拆分   【难度】2星   【题型】填空
+【关键词】希望杯，五年级，初赛，第6题，4分
+本题属于基础型题型。我们不妨设a＞b＞c。
+( EMBED Equation.DSMT4  - EMBED Equation.DSMT4  ）÷99＝[(100a+10b+c)-(100c+10b+a)]÷99＝(99a-99c)÷99＝a-c；
+【答案】 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的差
+
+ EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的差被9除，商等于______与______的差；
+【考点】简单的位值原理拆分   【难度】2星   【题型】填空
+( EMBED Equation.DSMT4  - EMBED Equation.DSMT4  ）÷9＝[(10a+b)-(10b+a)]÷9＝(9a-9b)÷9＝a-b；
+【答案】 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的差
+
+ EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的和被11除，商等于______与______的和。
+【考点】简单的位值原理拆分   【难度】2星   【题型】填空
+( EMBED Equation.DSMT4  + EMBED Equation.DSMT4  ）÷11＝[(10a+b)+(10b+a)]÷11＝(11a+11b)÷11＝a+b。
+【答案】 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的和
+
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  各表示一个两位数，若 EMBED Equation.DSMT4  + EMBED Equation.DSMT4  =139，则x+y+z+w=            。
+【考点】简单的位值原理拆分  【难度】2星   【题型】填空
+【关键词】希望杯，五年级，初赛，第5题，4分
+和的个位为9，不会发生进位，y+w=9，十位明显进位x+z=13，所以x+y+z+w=22
+【答案】 EMBED Equation.DSMT4  
+
+把一个两位数的十位与个位上的数字加以交换，得到一个新的两位数．如果原来的两位数和交换后的新的两位数的差是45，试求这样的两位数中最大的是多少？
+【考点】简单的位值原理拆分   【难度】2星   【题型】解答
+【关键词】美国，小学数学奥林匹克
+设原来的两位数为 EMBED Equation.DSMT4  ，交换后的新的两位数为 EMBED Equation.DSMT4  ，根据题意，
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，原两位数最大时，十位数字至多为9，即 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，原来的两位数中最大的是94．
+【答案】 EMBED Equation.DSMT4  
+
+一个两位数的中间加上一个0，得到的三位数比原来两位数的8倍小1，原来的两位数是______。
+【考点】简单的位值原理拆分【难度】3星   【题型】填空
+【关键词】希望杯，六年级，初赛，第13题，6分
+设这个两位数是 EMBED Equation.DSMT4  ，则100a+b=8(10a+b)-1，化为20a+1=7b，方程的数字解只有a=1，b=3，原来的两位数是13。
+【答案】 EMBED Equation.DSMT4  
+
+已知一个四位数加上它的各位数字之和后等于2008，则所有这样的四位数之和为多少．
+【考点】简单的位值原理拆分   【难度】3星   【题型】解答
+【关键词】清华附中
+设这样的四位数为 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，
+则 EMBED Equation.DSMT4  或2．
+⑴若 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ；
+⑵若 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  为9， EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  为偶数，且 EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  ，由 EMBED Equation.DSMT4  为偶数知 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ；
+所以，这样的四位数有2003和1985两个，其和为： EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+已知 EMBED Equation.DSMT4  .
+【考点】简单的位值原理拆分   【难度】3星   【题型】解答
+原式：1111a＋111b＋11c＋d＝1370，
+所以a＝1， 则111b＋11c＋d＝1370－1111＝259，111b＋11c＋d＝259
+推知b＝2；则222＋11c＋d＝259，11c＋d＝37
+进而推知c＝3，d＝4所以 EMBED Equation.DSMT4  ＝1234。
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  依次表示四位数、三位数、两位数及一位数，且满足 EMBED Equation.DSMT4  — EMBED Equation.DSMT4  — EMBED Equation.DSMT4  — EMBED Equation.DSMT4  = 1787，则这四位数 EMBED Equation.DSMT4  =      或        。
+【考点】简单的位值原理拆分   【难度】3星   【题型】填空
+【关键词】希望杯，4年级，初赛，16题
+原式可表示成： EMBED Equation.DSMT4  ，则知 EMBED Equation.DSMT4  只能取：1或2，当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  无法取，故此值舍去。当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  或1， EMBED Equation.DSMT4  相应的取9或0.所以这个四位数是：2009或2010。
+【答案】 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  
+
+将一个四位数的数字顺序颠倒过来，得到一个新的四位数(这个数也叫原数的反序数)，新数比原数大8802．求原来的四位数．
+【考点】简单的位值原理拆分   【难度】3星   【题型】解答
+设原数为 EMBED Equation.DSMT4  ，则新数为 EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4  ．
+根据题意，有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+推知 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，原数为1099．
+【答案】 EMBED Equation.DSMT4  
+
+将四位数的数字顺序重新排列后，可以得到一些新的四位数．现有一个四位数码互不相同，且没有0的四位数 EMBED Equation.DSMT4  ，它比新数中最大的小3834，比新数中最小的大4338．求这个四位数．
+【考点】简单的位值原理拆分   【难度】3星   【题型】解答
+设组成这个四位数的四个数码为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4   ( EMBED Equation.DSMT4  )，
+则有 EMBED Equation.DSMT4  ，
+可得 EMBED Equation.DSMT4  ，
+则 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，且M的四位数字分别为1、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、9，由于 EMBED Equation.DSMT4  的个位数字为7，所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  中有一个为7，但 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  不能为7，故 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+如果一个自然数的各个数码之积加上各个数码之和，正好等于这个自然数，我们就称这个自然数为“巧数”。例如，99就是一个巧数，因为9×9＋(9＋9)＝99。可以证明，所有的巧数都是两位数。请你写出所有的巧数。
+【考点】简单的位值原理拆分   【难度】3星   【题型】解答
+设这个巧数为 EMBED Equation.DSMT4  ，则有ab+a+b＝10a+b，a(b+1)＝10a，所以b+1＝10，b＝9。
+满足条件的巧数有：19、29、39、49、59、69、79、89、99。
+【答案】巧数有：19、29、39、49、59、69、79、89、99。
+
+聪聪和明明做猜数游戏，聪聪让明明任意写出一个四位数，明明就写了明年的年号2008，聪聪让明明用这个四位数减去它各个数位上的数的和，明明得到 EMBED Equation.DSMT4  ，聪聪又让明明将所得的数随便圈掉一个数，将剩下的数说出来，明明圈掉了8，告诉聪聪剩下的三个数是1，9，9。聪聪一下就猜出圈掉的是8，明明感到莫名其妙，于是又做了一遍这个游戏，最后剩下的三个数是6，3，7，这次明明圈掉的数是多少，聪明你猜出来了么？
+【考点】简单的位值原理拆分   【难度】3星   【题型】解答
+设任意一个四位数为 EMBED Equation.DSMT4  依题意中的计算方法可得
+ EMBED Equation.DSMT4  即任意一个四位数减去其各个数位数字之和后的结果是9的倍数，根据被9整除的数字特点：各位数字之和应是9的倍数，而6＋3＋7＝16，16不是9的倍数，所以圈掉的数字是2。
+【答案】 EMBED Equation.DSMT4  
+
+设八位数 EMBED Equation.DSMT4  具有如下性质： EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  中数码 EMBED Equation.DSMT4  的个数， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  中数码 EMBED Equation.DSMT4  的个数，……， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  中数码 EMBED Equation.DSMT4  的个数，则 EMBED Equation.DSMT4           。 EMBED Equation.DSMT4           ，该八位数 EMBED Equation.DSMT4           。
+【考点】简单的位值原理拆分   【难度】3星   【题型】填空
+【关键词】学而思杯，6年级
+ EMBED Equation.DSMT4  由于 EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  中数码 EMBED Equation.DSMT4  的个数， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  中数码 EMBED Equation.DSMT4  的个数， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  是 EMBED Equation.DSMT4  中数码 EMBED Equation.DSMT4  的个数，那么 EMBED Equation.DSMT4  表示 EMBED Equation.DSMT4  中所有数码的个数；而实际上 EMBED Equation.DSMT4  中共有 EMBED Equation.DSMT4  个数码，所以 EMBED Equation.DSMT4  。
+ EMBED Equation.DSMT4  略
+ EMBED Equation.DSMT4    EMBED Equation.DSMT4  ，说明 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  都是 EMBED Equation.DSMT4  ，这就表明 EMBED Equation.DSMT4  的末三位都是 EMBED Equation.DSMT4  ，另外还表明 EMBED Equation.DSMT4  的各位数码中都没有出现 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  的数码中最大的最多为 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  。如果 EMBED Equation.DSMT4  ，也就是 EMBED Equation.DSMT4  的首位为 EMBED Equation.DSMT4  ，末位都为 EMBED Equation.DSMT4  ，中间的四位中还有一位为 EMBED Equation.DSMT4  ，另外的三个数之和为 EMBED Equation.DSMT4  ，只能是 EMBED Equation.DSMT4  个 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  个 EMBED Equation.DSMT4  。由于 EMBED Equation.DSMT4  出现了两次，所以 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  各出现了 EMBED Equation.DSMT4  次，所以 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  都是 EMBED Equation.DSMT4  ，这样可得 EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+
+模块二、复杂的位值原理拆分
+
+ 有3个不同的数字，用它们组成6个不同的三位数，如果这6个三位数的和是1554，那么这3个数字分别是多少？
+【考点】复杂的位值原理拆分   【难度】3星   【题型】解答
+【关键词】希望杯，培训试题
+设这六个不同的三位数为 EMBED Equation.DSMT4  ，
+因为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，……，它们的和是： EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，由于这三个数字互不相同且均不为0，所以这三个数中较小的两个数至少为1，2，而 EMBED Equation.DSMT4  ，所以最大的数最大为4；又 EMBED Equation.DSMT4  ，所以最大的数大于 EMBED Equation.DSMT4  ，所以最大的数为4，其他两数分别是1，2．
+【答案】 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+
+有三个数字能组成6个不同的三位数，这6个三位数的和是2886，求所有这样的6个三位数中最小的三位数的最小值．
+【考点】复杂的位值原理拆分   【难度】3星   【题型】解答
+【关键词】迎春杯，决赛
+设三个数字分别为a、b、c，那么6个不同的三位数的和为：
+ EMBED Equation.DSMT4          所以 EMBED Equation.DSMT4  ，最小的三位数的百位数应为1，十位数应尽可能地小，由于十位
+数与个位数之和一定，故个位数应尽可能地大，最大为9，此时十位数为 EMBED Equation.DSMT4  ，所以所
+有这样的6个三位数中最小的三位数为 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+从1～9九个数字中取出三个，用这三个数可组成六个不同的三位数。若这六个三位数之和是3330，则这六个三位数中最小的可能是几？最大的可能是几？
+【考点】复杂的位值原理拆分   【难度】3星   【题型】解答
+设这三个数字分别为a、b、c。由于每个数字都分别有两次作百位、十位、个位，所以六个不同的三位数之和为222×（a＋b＋c）＝3330，推知a＋b＋c＝15。所以，当a、b、c取1、5、9时，它们组成的三位数最小为159，最大为951。
+【答案】最小为159，最大为951
+
+用1，9，7三张数字卡片可以组成若干个不同的三位数，所有这些三位数的平均值是多少？
+【考点】复杂的位值原理拆分   【难度】3星   【题型】解答
+卡片“9”倒过来看是“6”。作为卡片“9”，由第3题的结果可知，1，9，7可组成的六个不同的三位数之和是（1＋9＋7）×222；同理，作为卡片“6”，1，6，7可组成的六个数之和是（1＋6＋7）×222。这12个数的平均值是：［（1＋9＋7）＋（1＋6＋7）］×222÷12＝573.5。
+【答案】 EMBED Equation.DSMT4  
+
+a，b，c分别是 EMBED Equation.DSMT4  中不同的数码，用a，b，c共可组成六个三位数，如果其中五个三位数之和是2234，那么另一个三位数是几？
+【考点】复杂的位值原理拆分   【难度】3星   【题型】解答
+由 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  组成的六个数的和是 EMBED Equation.DSMT4  ．因为 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ．
+若 EMBED Equation.DSMT4  ，则所求数为 EMBED Equation.DSMT4  ，但 EMBED Equation.DSMT4  ，不合题意．
+若 EMBED Equation.DSMT4  ，则所求数为 EMBED Equation.DSMT4  ，但 EMBED Equation.DSMT4  ，不合题意．
+若 EMBED Equation.DSMT4  ，则所求数为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，符合题意．
+若 EMBED Equation.DSMT4  ，则所求数为 EMBED Equation.DSMT4  ，但 EMBED Equation.DSMT4  ，不合题意．
+若 EMBED Equation.DSMT4  ，则所求数 EMBED Equation.DSMT4  ，但所求数为三位数，不合题意．
+所以，只有 EMBED Equation.DSMT4  时符合题意，所求的三位数为652．
+【答案】 EMBED Equation.DSMT4  
+
+在两位自然数的十位与个位中间插入0～9中的一个数码，这个两位数就变成了三位数，有些两位数中间插入某个数码后变成的三位数，恰好是原来两位数的9倍。求出所有这样的三位数。
+【考点】复杂的位值原理拆分   【难度】3星   【题型】解答
+因为原两位数与得到的三位数之和是原两位数的10倍，所以原两位数的个位数只能是0或5。如果个位数是0，那么无论插入什么数，得到的三位数至少是原两位数的10倍，所以个位数是5。设原两位数是 EMBED Equation.DSMT4  ，则b=5，变成的三位数为 EMBED Equation.DSMT4  ，由题意有100a＋10b＋5＝（10a＋5）×9，化简得a＋b＝4。变成的三位数只能是405，315，225，135。
+【答案】三位数只能是405，315，225，135
+
+一辆汽车进入高速公路时，入口处里程碑上是一个两位数，汽车匀速行使，一小时后看到里程碑上的数是原来两位数字交换后的数。又经一小时后看到里程碑上的数是入口处两个数字中间多一个0的三位数，请问：再行多少小时，可看到里程碑上的数是前面这个三位数首末两个数字交换所得的三位数。
+【考点】复杂的位值原理拆分   【难度】3星   【题型】解答
+设第一个2位数为10a+b；第二个为10b+a ；第三个为100a+b ；由题意：(100a+b)-（10b+a）=( 10b+a)-（10a+b) ；化简可以推得b=6a，0≤a,b≤9，得a=1，b=6；即每小时走61-16=45 ；（601-106)÷45=11；再行11小时，可看到里程碑上的数是前面这个三位数首末两个数字交换所得的三位数。
+【答案】 EMBED Equation.DSMT4  小时
+
+有一个两位数，如果把数码3加写在它的前面，则可得到一个三位数，如果把数码3加写在它的后面，则可得到一个三位数，如果在它前后各加写一个数码3，则可得到一个四位数．将这两个三位数和一个四位数相加等于 EMBED Equation.DSMT4  ．求原来的两位数．
+【考点】复杂的位值原理拆分   【难度】3星   【题型】解答
+设原来的两位数是 EMBED Equation.DSMT4  ，则得到的两个三位数分别为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，四位数为 EMBED Equation.DSMT4  ，由题知 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+将4个不同的数字排在一起，可以组成24个不同的四位数( EMBED Equation.DSMT4  )．将这24个四位数按从小到大的顺序排列的话，第二个是5的倍数；按从大到小排列的话，第二个是不能被4整除的偶数；按从小到大排列的第五个与第二十个的差在3000～4000之间．求这24个四位数中最大的那个．
+【考点】复杂的位值原理拆分   【难度】4星   【题型】解答
+从题中可以看出，这4个数都不为0．设这4个不同的数从小到大依次为a,b,c,d，它们组成的24个四位数中，第二小的是 EMBED Equation.DSMT4  ，是5的倍数，又 EMBED Equation.DSMT4  不为0，所以 EMBED Equation.DSMT4  ．
+它们组成的24个四位数中，第二大的是 EMBED Equation.DSMT4  ，是2的倍数但不是4的倍数，所以 EMBED Equation.DSMT4  是偶数，而 EMBED Equation.DSMT4  不是4的倍数．由 EMBED Equation.DSMT4  是偶数且 EMBED Equation.DSMT4  知b为4或2．若为2，那么 EMBED Equation.DSMT4  ，但此时 EMBED Equation.DSMT4  是4的倍数，矛盾，所以，又 EMBED Equation.DSMT4  不是4的倍数，所以 EMBED Equation.DSMT4  为1或3．
+它们组成的24个四位数中，第五小的为 EMBED Equation.DSMT4   (最小的5个依次为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  )，第五大(第二十小)的为 EMBED Equation.DSMT4   (最大的5个依次为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  )，所以 EMBED Equation.DSMT4  得到的四位数的千位为3．由于 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，那么减法算式中百位要向千位借位，所以 EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  ．又 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，
+它们组成的24个四位数中最大的为 EMBED Equation.DSMT4  ，即7543．
+【答案】 EMBED Equation.DSMT4  
+
+记四位数 EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  ，由它的四个数字a,b,c,d组成的最小的四位数记为 EMBED Equation.DSMT4  ，如果 EMBED Equation.DSMT4  ，那么这样的四位数 EMBED Equation.DSMT4  共有_______个．
+【考点】复杂的位值原理拆分   【难度】4星   【题型】填空
+【关键词】迎春杯，高年级，复赛，8题
+ EMBED Equation.DSMT4  得到 EMBED Equation.DSMT4  ，所以如果 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  组成的四位数 EMBED Equation.DSMT4  末位数字不是0，那么 EMBED Equation.DSMT4  等于将 EMBED Equation.DSMT4  的千位数字加1，个位数字减1，反过来 EMBED Equation.DSMT4  等于 EMBED Equation.DSMT4  的千位数字减1，个位数字加1，所以 EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  ，与 EMBED Equation.DSMT4  比较， EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  位置没有换，交换的是 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  表示为 EMBED Equation.DSMT4  ，可以得到等式 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ．所以 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  的取值组合，只有2和1，3和2，……，9和8，共8种情况．
+对于其中任意一种组合，由于 EMBED Equation.DSMT4  是由四个数字 EMBED Equation.DSMT4  组成的最小的四位数，分别考虑 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  中有0的情况(可能两个都为0；若只有一个0，则 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  )；以及 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  都不为0的情况(此时 EMBED Equation.DSMT4  )，可知两种情况下各有3种可能，共6种可能： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．比如以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  为例， EMBED Equation.DSMT4  可能的取值有3004，3034，3044，3334，3344，34444这6个数．根据乘法原理，满足条件的四位数一共有 EMBED Equation.DSMT4  种．
+如果 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  组成的最小的四位数 EMBED Equation.DSMT4  末位数字是0，显然 EMBED Equation.DSMT4  的百位、十位都是0，此时 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  无法组成其它的四位数，不合题意．
+由于每一个 EMBED Equation.DSMT4  对应一个 EMBED Equation.DSMT4  ，所以满足条件的四位数 EMBED Equation.DSMT4  共有48个．
+【答案】 EMBED Equation.DSMT4  
+
+9000名同学参加一次数学竞赛，他们的考号分别是1000,1001,1002,…9999．小明发现他的考号是8210，而他的朋友小强的考号是2180．他们两人的考号由相同的数字组成（顺序不一样），差为2010的倍数．那么，这样的考号（由相同的数字组成并且差为2010的倍数）共有        对．
+【考点】复杂的位值原理拆分   【难度】5星   【题型】填空
+【关键词】迎春杯，高年级，复试，14题
+设 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  由相同的数字组成（顺序不一样），并且 EMBED Equation.DSMT4  ．由于 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  的数字和相同，它们除以9的余数相同，即 EMBED Equation.DSMT4  ，从而 EMBED Equation.DSMT4  ．考虑到 EMBED Equation.DSMT4  ，于是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．从末位数字可知 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．若 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，但 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  不成立．若 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，同上知这种情况也不成立．因此， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．  EMBED Equation.DSMT4  ． EMBED Equation.DSMT4  在这里可能等于 EMBED Equation.DSMT4  或者 EMBED Equation.DSMT4  ．如果 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，此时 EMBED Equation.DSMT4  可以等于 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  以及 EMBED Equation.DSMT4  ；如果 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，此时 EMBED Equation.DSMT4  可以等于 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ． EMBED Equation.DSMT4  确定之后，再考虑 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  可以等于0,1,2,…9中的任何一个数字．这样，可以得到50个不同的 EMBED Equation.DSMT4  ，继而可得到相应的 EMBED Equation.DSMT4  ．于是，一共有50对这样的考号，由相同的数字组成，并且差为2010的倍数．
+【答案】 EMBED Equation.DSMT4  
+
+有一类三位数，它的各个数位上的数字之和是12，各个数位上的数字之积是30，所有这样的三位数的和是多少？
+【考点】复杂的位值原理拆分   【难度】4星   【题型】解答
+设这个三位数是 EMBED Equation.DSMT4  ，则根据题意可得： EMBED Equation.DSMT4   ，由 EMBED Equation.DSMT4  找突破口，将30分解成3个因数相乘，符合 EMBED Equation.DSMT4  的即为所求，组成三位数的三个数码只有1，5，6符合要求，即三位数有：156，165，516，561，615，651。其和为： EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+一个三位数除以11所得的商等于这个三位数各位数码之和，求这个三位数是多少？
+【考点】复杂的位值原理拆分   【难度】4星   【题型】解答
+设这个三位数是 EMBED Equation.DSMT4  ，则根据题意有： EMBED Equation.DSMT4  ，化简得 EMBED Equation.DSMT4  因为a，b，c都是位值，即为一位数，所以 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+模块三、巧用方程解位值原理
+
+有一个两位数，如果把数码1加写在它的前面，那么可以得到一个三位数，如果把1写在它的后面，那么也可以得到一个三位数，而且这两个三位数相差414，求原来的两位数。
+【考点】巧用方程解位值原理   【难度】3星   【题型】解答
+本题可以有三种分析方法：
+方法一：可以用大家喜欢的数字谜的方法来解。列竖式如下：
+
+分析竖式知1减b不够减，肯定要向前借1位，即： EMBED Equation.DSMT4  ，整理得：b＝7，b借1给个位十位，此时6－a＝1，整理得：a＝5，经百位计算验证，结果正确。
+方法二：设原两位数为 EMBED Equation.DSMT4  ，则数码1加写在它的前面为 EMBED Equation.DSMT4  ，数码1
+        写在它的后面为 EMBED Equation.DSMT4  ，分析比较知道 EMBED Equation.DSMT4  ＞ EMBED Equation.DSMT4  ，
+所以可以得到： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，即： EMBED Equation.DSMT4  
+方法三：设两位数为x，则有（10x＋1）－（100＋x）＝414，解得：x＝57。
+【答案】 EMBED Equation.DSMT4  
+
+有一个三位数，如果把数码6加写在它的前面，则可得到一个四位数，如果把6加写在它的后面，则也可以得到一个四位数，且这两个四位数之和是9999，求原来的三位数。
+【考点】巧用方程解位值原理   【难度】3星   【题型】解答
+本题可以有两种分析方法：
+方法一：可以用大家喜欢的数字谜的方法来解。列竖式如下：
+
+分析可得c＝3，b＝6 ，a＝3 。
+方法二：设三位数为x，则有（6000＋x）＋（10x＋6）＝9999，解得：x＝363.
+【答案】 EMBED Equation.DSMT4  
+
+如果 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  等于几？
+【考点】巧用方程解位值原理   【难度】3星   【题型】解答
+本题可以有两种分析方法：
+方法一：可以用大家喜欢的数字谜的方法来解。列竖式如下：
+
+通过分析 EMBED Equation.DSMT4  知道 EMBED Equation.DSMT4  ，同时向前进3，同时 EMBED Equation.DSMT4  ，知道 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ＝15.
+方法二：将 EMBED Equation.DSMT4  ，展开整理得： EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   
+                                                        EMBED Equation.DSMT4  
+由于位值的性质，每个数位上的数值在0 ～9之间，得出 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+已知 EMBED Equation.DSMT4  （n>2）的和的个位数为3，十位数为0，则n的最小值是            
+【考点】巧用方程解位值原理   【难度】4星   【题型】填空
+【关键词】华杯赛，决赛，第8题，10分
+根据题意，前n项和等于（1+n）×n÷2，而现在的个位为3，十位上是0，则（n+1）×n的末两位是06，易知末位是6的连续的两个自然数的成积的末位只能为2×3或者7 EMBED Equation.DSMT4  8，经试验，最小的n取37时，37×38=1406符合条件，所以n的最小值为37。
+【答案】 EMBED Equation.DSMT4  
+
+把7位数 EMBED Equation.DSMT4  变成7位数 EMBED Equation.DSMT4  ，已知新7位数比原7位数大3591333，聪明的宝贝来求求：（1）原7位数是几，（2）如果把汉语拼音字母顺序编为1～26号，且以所求得原7位数的前四个数字组成的两个两位数 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  所对应的拼音字母拼成一个汉字，再以后三个数字D，E，F分别对应的拼音字母拼成另一个汉字，请写出由这两个汉字组成的词。
+【考点】巧用方程解位值原理   【难度】4星   【题型】解答
+【关键词】2005年，祖冲之杯
+（1）设 EMBED Equation.DSMT4  ，根据题意得， EMBED Equation.DSMT4  ，解得，x＝621259，   原7位数是2621259。
+（2）按顺序写出26个字母，从左到右给每个字母从1～26编号，结合 EMBED Equation.DSMT4  ＝26， EMBED Equation.DSMT4  ＝21，D＝2，E＝5，F＝9，按对应关系有：26对应Z，21对应U，2对应B，5对应E,9对应I，ZU拼成“祖”，BEI拼成“杯”
+【答案】（1）2621259，（2）祖杯
+
+把5写在某个四位数的左端得到一个五位数，把5写在这个四位数的右端也得到一个五位数，已知这两个五位数的差是22122，求这个四位数。
+【考点】巧用方程解位值原理   【难度】3星   【题型】解答
+设这个四位数为x，则有：（50000＋x）－（10x＋5）＝22122或（10x＋5）－（50000＋x）＝22122，得，x＝3097或x＝8013.
+【答案】x＝3097或x＝8013
+
+如果把数码5加写在某自然数的右端，则该数增加 EMBED Equation.DSMT4  ，这里A表示一个看不清的数码，求这个数和A。
+【考点】巧用方程解位值原理   【难度】3星   【题型】解答
+设这个数为x，则10x+5-x＝ EMBED Equation.DSMT4  ，化简得9x＝ EMBED Equation.DSMT4  ，等号右边是9的倍数，试验可得A＝1，x＝1234。
+【答案】A＝1，x＝1234
+
+如果把数码3加写在某自然数的右端，则该数增加了 EMBED Equation.DSMT4  ，这里A表示一个看不清的数码，求这个数和A。
+【考点】巧用方程解位值原理   【难度】3星   【题型】解答
+设这个数码为x，则有：（10x＋3）－x＝123450＋A,解得，9x＝123447＋A，右边是9的倍数，根据被9整除的数字的特点知道，A＝6，故：x＝13717。
+【答案】 EMBED Equation.DSMT4  
+
+等式： EMBED Equation.DSMT4  ＝39× EMBED Equation.DSMT4  恰好出现1、2、3、4、…、9九个数字， EMBED Equation.DSMT4  代表的三位数是（    ）。
+【考点】巧用方程解位值原理   【难度】3星   【题型】填空
+【关键词】华杯赛，决赛，第3题，10分
+根据题意，a、b只能从2，7，8里选，而39能被3整除，则a+b+5+4也要能被3整除，则a、b从2，7里选，a+b=9或者a、b从7或8里选a+b等于15；或者a、b从2或8里选a+b等于10，若a+b=9，则左边是9的倍数，而等式39是3的倍数，1+8+6也是，符合，则186×39=7254，即 EMBED Equation.DSMT4  =728。若a+b等于15，即c=2,39×126=4914。不符；此题也可以用126，176，186试算。
+【答案】 EMBED Equation.DSMT4  
+
+某八位数形如 EMBED Equation.DSMT4  ，它与3的乘积形如 EMBED Equation.DSMT4  ，则七位数 EMBED Equation.DSMT4  应是多少？
+【考点】巧用方程解位值原理   【难度】4星   【题型】解答
+设 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，根据题意，有 EMBED Equation.DSMT4  ，得 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+一个六位数 EMBED Equation.DSMT4  ，如果满足 EMBED Equation.DSMT4  ，则称 EMBED Equation.DSMT4  为“迎春数”(例如 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，则102564就是“迎春数”)．请你求出所有“迎春数”的总和．
+【考点】巧用方程解位值原理   【难度】5星   【题型】解答
+由于是把六位数 EMBED Equation.DSMT4  的末位 EMBED Equation.DSMT4  调到首位构成了新六位数 EMBED Equation.DSMT4  ，所以不妨把 EMBED Equation.DSMT4  看成一个整体，设 EMBED Equation.DSMT4  ，则根据位值原理可知“迎春数”是 EMBED Equation.DSMT4  ，并满足关系式： EMBED Equation.DSMT4  ．对等式化简得： EMBED Equation.DSMT4  ．
+所以： EMBED Equation.DSMT4  ．
+因为 EMBED Equation.DSMT4  是五位数， EMBED Equation.DSMT4  是一位数，所以 EMBED Equation.DSMT4  可以为4，5，6，7，8，9．
+而“迎春数” EMBED Equation.DSMT4  ，
+那么，所有“迎春数”的总和是： EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+设六位数 EMBED Equation.DSMT4  满足 EMBED Equation.DSMT4  ，请写出这样的六位数．
+【考点】巧用方程解位值原理   【难度】5星   【题型】解答
+【关键词】华杯赛，决赛，第12题，10分
+令 EMBED Equation.DSMT4  ，则： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，可得 EMBED Equation.DSMT4  ．此时可将 EMBED Equation.DSMT4  ，2，3，4，5，6，7，8，9一一代入进行检验，可得当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ；当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ．只有这两个数满足条件．
+由于将 EMBED Equation.DSMT4  可能的值一一代入进行检验有些麻烦，可以将其进行如下变形后再进行：
+ EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，则	 EMBED Equation.DSMT4  是整数．
+设其为 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  是整数，所以 EMBED Equation.DSMT4  是999999的约数．
+当 EMBED Equation.DSMT4  ，2，3，4，5，6，7，8，9时， EMBED Equation.DSMT4  分别为9，19，29，39，49，59，69，79，89，由 EMBED Equation.DSMT4  容易知道其中只有9和39是999999的约数，此时 EMBED Equation.DSMT4  分别为1和4．这样的六位数有111111和102564．
+【答案】六位数有111111和102564
+
+如果一个五位数，它的各位数字乘积恰好是它的各位数字和的25倍．那么，这个五位数的前两位的最大值是       　　   。
+【考点】巧用方程解位值原理   【难度】5星   【题型】填空
+【关键词】六年级，初赛，第9题
+假设组成这个五位数的 EMBED Equation.DSMT4  个数字分别为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，可知其中不能有0. 由题知 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )，由于 EMBED Equation.DSMT4  可知 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  中有两个 EMBED Equation.DSMT4  ，不妨设 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4   要求这个五位数的最大值，必须使其中最大的数尽可能大.不妨设 EMBED Equation.DSMT4  是其中最大的数. 如果 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，故( EMBED Equation.DSMT4  )( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ，此时没有满足条件的整数 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ； 如果 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，故( EMBED Equation.DSMT4  )( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ，此时没有满足条件的整数 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ； 如果 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，故( EMBED Equation.DSMT4  )( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  除以 EMBED Equation.DSMT4  都余 EMBED Equation.DSMT4  ，可知分别为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  .故此时编成五位数的 EMBED Equation.DSMT4  个数字分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以所求最大的五位数为 EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  
+
+在横线上写出所有满足下面条件的六位数的个数：这个六位数的个位是6，如果将这个六位数增加6，它的数字和就减少到原来的 EMBED Equation.DSMT4  。则满足该条件的六位数有___个。
+【考点】巧用方程解位值原理   【难度】5星   【题型】填空
+【关键词】走美杯，6年级，决赛，第9题，10分
+首先，了解一个结论。两个数相比，如果发生n次进位，和的各位数字之和就等于两个加数的各位数字之和减9n。例如，2705+7328=10033，个、百、千位各发生1次进位，两个加数的各位数字之和是34，和的各位数字之和是7，满足34—9×3=7。
+设原来的六位数的各位数字之和是x，加6后发生n次进位，则相加后的和的各位数字之和是 EMBED Equation.DSMT4  由题意得到： EMBED Equation.DSMT4  ，整理后得到： EMBED Equation.DSMT4  ，因为5与18互质，所以5能整除(3n-2)，推知n=4，从而x=36。因为n=4，所以原来的六位数形如 EMBED Equation.DSMT4  ，前两位的数字之和为36 EMBED Equation.DSMT4  (9+9+9+6) EMBED Equation.DSMT4  3。满足题意的六位数有309996，219996，129996共 EMBED Equation.DSMT4  个。
+【答案】 EMBED Equation.DSMT4  个
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+5-7-1.位值原理.题库	                        教师版                           page  PAGE 15 of  NUMPAGES 15
+
+
+
+5-7-1.位值原理
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

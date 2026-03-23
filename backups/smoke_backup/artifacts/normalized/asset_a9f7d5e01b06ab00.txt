@@ -1,0 +1,204 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE  \* MERGEFORMAT 
+
+1.使学生正确理解组合的意义；正确区分排列、组合问题；
+2.了解组合数的意义，能根据具体的问题，写出符合要求的组合；
+3.掌握组合的计算公式以及组合数与排列数之间的关系；
+4.会分析与数字有关的计数问题，以及与其他专题的综合运用，培养学生的抽象能力和逻辑思维能力；
+通过本讲的学习，对组合的一些计数问题进行归纳总结，重点掌握组合的联系和区别，并掌握一些组合技巧，如排除法、插板法等．
+
+ SHAPE  \* MERGEFORMAT 
+
+一、组合问题
+日常生活中有很多“分组”问题．如在体育比赛中，把参赛队分为几个组，从全班同学中选出几人参加某项活动等等．这种“分组”问题，就是我们将要讨论的组合问题，这里，我们将着重研究有多少种分组方法的问题．
+一般地，从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个( EMBED Equation.DSMT4  )元素组成一组不计较组内各元素的次序，叫做从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个元素的一个组合．
+    从排列和组合的定义可以知道，排列与元素的顺序有关，而组合与顺序无关．如果两个组合中的元素完全相同，那么不管元素的顺序如何，都是相同的组合，只有当两个组合中的元素不完全相同时，才是不同的组合．
+从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个元素( EMBED Equation.DSMT4  )的所有组合的个数，叫做从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个不同元素的组合数．记作 EMBED Equation.DSMT4  ．
+一般地，求从 EMBED Equation.DSMT4  个不同元素中取出的 EMBED Equation.DSMT4  个元素的排列数 EMBED Equation.DSMT4  可分成以下两步：
+第一步：从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个元素组成一组，共有 EMBED Equation.DSMT4  种方法；
+　　第二步：将每一个组合中的 EMBED Equation.DSMT4  个元素进行全排列，共有 EMBED Equation.DSMT4  种排法．
+根据乘法原理，得到 EMBED Equation.DSMT4  ．
+因此，组合数 EMBED Equation.DSMT4  ．
+这个公式就是组合数公式．
+
+二、组合数的重要性质
+一般地，组合数有下面的重要性质： EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )
+这个公式的直观意义是： EMBED Equation.DSMT4  表示从 EMBED Equation.DSMT4  个元素中取出 EMBED Equation.DSMT4  个元素组成一组的所有分组方法． EMBED Equation.DSMT4  表示从 EMBED Equation.DSMT4  个元素中取出( EMBED Equation.DSMT4  )个元素组成一组的所有分组方法．显然，从 EMBED Equation.DSMT4  个元素中选出 EMBED Equation.DSMT4  个元素的分组方法恰是从 EMBED Equation.DSMT4  个元素中选 EMBED Equation.DSMT4  个元素剩下的( EMBED Equation.DSMT4  )个元素的分组方法．
+例如，从 EMBED Equation.DSMT4  人中选 EMBED Equation.DSMT4  人开会的方法和从 EMBED Equation.DSMT4  人中选出 EMBED Equation.DSMT4  人不去开会的方法是一样多的，即 EMBED Equation.DSMT4  ．
+规定 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+
+ SHAPE  \* MERGEFORMAT 
+插板法一般用来解决求分解一定数量的无差别物体的方法的总数，使用插板法一般有三个要求：①所要分解的物体一般是相同的：②所要分解的物体必须全部分完：③参与分物体的组至少都分到1个物体，不能有没分到物体的组出现．
+在有些题目中，已知条件与上面的三个要求并不一定完全相符，对此应当对已知条件进行适当的变形，使得它与一般的要求相符，再适用插板法．
+使用插板法一般有如下三种类型：
+⑴  EMBED Equation.DSMT4  个人分 EMBED Equation.DSMT4  个东西，要求每个人至少有一个．这个时候我们只需要把所有的东西排成一排，在其中的 EMBED Equation.DSMT4  个空隙中放上 EMBED Equation.DSMT4  个插板，所以分法的数目为 EMBED Equation.DSMT4  ．
+⑵  EMBED Equation.DSMT4  个人分 EMBED Equation.DSMT4  个东西，要求每个人至少有 EMBED Equation.DSMT4  个．这个时候，我们先发给每个人 EMBED Equation.DSMT4  个，还剩下 EMBED Equation.DSMT4  个东西，这个时候，我们把剩下的东西按照类型⑴来处理就可以了．所以分法的数目为 EMBED Equation.DSMT4  ．
+⑶  EMBED Equation.DSMT4  个人分 EMBED Equation.DSMT4  个东西，允许有人没有分到．这个时候，我们不妨先借来 EMBED Equation.DSMT4  个东西，每个人多发1个，这样就和类型⑴一样了，不过这时候物品总数变成了 EMBED Equation.DSMT4  个，因此分法的数目为 EMBED Equation.DSMT4  ．
+
+将三盆同样的红花和四盆同样的黄花摆放成一排，要求三盆红花互不相邻，共有       种不同的放法。
+【考点】计数之插板法   【难度】2星   【题型】填空
+【关键词】希望杯，五年级，一试，第18题
+四盆黄花摆好后，剩下5个位子可插进红花，选三个位置将三盆红花插入， EMBED Equation.DSMT4  ，所以有10种选择.
+【答案】 EMBED Equation.DSMT4  种
+
+在1，2，3，……，7，8的任意排列中，使得相邻两数互质的排列方式共有______  种． 
+【考点】复杂乘法原理           【难度】4星          【题型】解答 
+【关键词】西城实验
+这8个数之间如果有公因子，那么无非是2或3．
+8个数中的4个偶数一定不能相邻，对于这类多个元素不相邻的排列问题，考虑使用“插入法” 即首先忽略偶数的存在，对奇数进行排列，然后将偶数插入 但在偶数插入时，还要考虑3和6相邻的情况．
+奇数的排列一共有 EMBED Equation.DSMT4  种 对任意一种排列4个数形成5个空位，将6插入，可以有符合条件的3个位置可以插 再在剩下的四个位置中插入2、4、8，一共有 EMBED Equation.DSMT4  种 所以一共有 EMBED Equation.DSMT4  种．
+【答案】 EMBED Equation.DSMT4  
+
+有10粒糖，分三天吃完，每天至少吃一粒，共有多少种不同的吃法？
+【考点】计数之插板法   【难度】2星   【题型】解答
+如图：○○|○○○○|○○○○，将10粒糖如下图所示排成一排，这样每两颗之间共有9个空，从头开始吃，若相邻两块糖是分在两天吃的，就在其间画一条竖线隔开表示之前的糖和之后的糖不是在同一天吃掉的，九个空中画两条竖线，一共有 EMBED Equation.DSMT4  种方法．
+【答案】 EMBED Equation.DSMT4  
+
+【巩固】小红有10块糖，每天至少吃1块，7天吃完，她共有多少种不同的吃法？
+【考点】计数之插板法   【难度】3星   【题型】解答
+分三种情况来考虑：
+⑴ 当小红最多一天吃 EMBED Equation.DSMT4  块时，其余各每天吃 EMBED Equation.DSMT4  块，吃 EMBED Equation.DSMT4  块的这天可以是这七天里的任何一天，有 EMBED Equation.DSMT4  种吃法；
+⑵ 当小红最多一天吃 EMBED Equation.DSMT4  块时，必有一天吃 EMBED Equation.DSMT4  块，其余五天每天吃 EMBED Equation.DSMT4  块，先选吃 EMBED Equation.DSMT4  块的那天，有 EMBED Equation.DSMT4  种选择，再选吃 EMBED Equation.DSMT4  块的那天，有 EMBED Equation.DSMT4  种选择，由乘法原理，有 EMBED Equation.DSMT4  种吃法；
+⑶ 当小红最多一天吃 EMBED Equation.DSMT4  块时，必有三天每天吃 EMBED Equation.DSMT4  块，其四天每天吃 EMBED Equation.DSMT4  块，从 EMBED Equation.DSMT4  天中选 EMBED Equation.DSMT4  天，有 EMBED Equation.DSMT4  (种)吃法．
+根据加法原理，小红一共有 EMBED Equation.DSMT4  (种)不同的吃法．
+另外还可以用挡板法来解这道题， EMBED Equation.DSMT4  块糖有 EMBED Equation.DSMT4  个空，选 EMBED Equation.DSMT4  个空放挡板，有 EMBED Equation.DSMT4  (种)不同的吃法．
+【答案】 EMBED Equation.DSMT4  
+
+【巩固】有12块糖，小光要6天吃完，每天至少要吃一块，问共有        种吃法．
+【考点】计数之插板法   【难度】3星   【题型】解答
+【关键词】西城实验
+将12块糖排成一排，中间共有11个空，从11个空中挑出5个空插挡板，把12块糖分成6堆，则这样的每一种分法即对应一种吃法，所以共有 EMBED Equation.DSMT4  种．
+【答案】 EMBED Equation.DSMT4  
+
+【巩固】把5件相同的礼物全部分给3个小朋友，要使每个小朋友都分到礼物，则分礼物的不同方法一共有        种．
+【考点】计数之插板法   【难度】3星   【题型】解答
+【关键词】十三分，小升初，入学测试
+把5件相同的礼物排成一列，中间有4个间隔，现在用两个板去隔，每个间隔最多放一个板．这2个板的每一种放法都把5件礼物分成3份，所以这两个板的每一种放法都对应一种分礼物的方法．而板的放法有 EMBED Equation.DSMT4  种，所以分礼物的不同方法有6种．
+【答案】 EMBED Equation.DSMT4  
+
+【巩固】把7支完全相同的铅笔分给甲、乙、丙3 个人，每人至少1支，问有多少种方法？
+【考点】计数之插板法   【难度】3星   【题型】解答
+将铅笔排成一排，用两块挡板将这一排铅笔隔开成三份，然后分与甲、乙、丙，挡板可插入的位置一共有 EMBED Equation.DSMT4  个，6个位置中安插两个不分次序的挡板一共有 EMBED Equation.DSMT4  种方法．处理分东西的问题用隔板(挡板)法可以顺利解决．
+【答案】 EMBED Equation.DSMT4  
+
+【巩固】学校合唱团要从 EMBED Equation.DSMT4  个班中补充 EMBED Equation.DSMT4  名同学，每个班至少 EMBED Equation.DSMT4  名，共有多少种抽调方法？
+【考点】计数之插板法   【难度】3星   【题型】解答
+插板法，8名同学之间有7个空，插5块板，一共有 EMBED Equation.DSMT4  (种)方法．
+【答案】 EMBED Equation.DSMT4  
+
+10只无差别的橘子放到3个不同的盘子里，允许有的盘子空着．请问一共有多少种不同的放法？
+【考点】计数之插板法   【难度】3星   【题型】解答
+把10只无差别的橘子放到3个不同的盘子里，允许有的盘子空着，然后在每个盘子里再另加一个橘子，这就变成了把13只无差别的橘子放到3个不同的盘子里，不允许任何一个盘子空着．反过来也是一样，把13只橘子放到3个盘子里，不允许任何一个盘子空着，再从每一个盘子中取出一个橘子，这就变回题目中的放法．所以把10只无差别的橘子放到3个不同的盘子里且允许有的盘子空着的放法数目，和把13只无差别的橘子放到3个不同的盘子里且不允许任何一个盘子空着的放法数目相同．
+我们现在来计算把13只无差别的橘子放到3个不同的盘子里且不允许任何一个盘子空着的放法数目．这时我们用隔板地方法，把这13只橘子排成一列，则这13只橘子之间有12个空隙．我们只要选定这12个空隙中的2个空隙，再这两个空隙中分别放一块隔板，这样就分成了3组，就相当于把这13只橘子分成了3堆，如下图．所以只要求出从12个空隙中选出2个空隙有多少种方法就可以了．
+ EMBED Equation.DSMT4  ，所以题目中所求的不同的放法有66种．
+【答案】 EMBED Equation.DSMT4  
+
+将 EMBED Equation.DSMT4  个相同的苹果放到 EMBED Equation.DSMT4  个不同的盘子里，允许有盘子空着。一共有         种不同的放法。
+【考点】计数之插板法   【难度】3星   【题型】填空
+【关键词】学而思杯，6年级，第8题
+ EMBED Equation.DSMT4  种。
+【答案】 EMBED Equation.DSMT4  种
+
+把20个苹果分给3个小朋友，每人最少分3个，可以有多少种不同的分法？
+【考点】计数之插板法   【难度】3   【题型】解答
+先给每人2个，还有14个苹果，每人至少分一个，13个空插2个板，有 EMBED Equation.DSMT4  种分法．
+【答案】 EMBED Equation.DSMT4  
+
+【巩固】三所学校组织一次联欢晚会，共演出14个节目，如果每校至少演出3个节目，那么这三所学校演出节目数的不同情况共有多少种？
+【考点】计数之插板法   【难度】3星   【题型】解答
+由于每校至少演出3个节目，所以可以由每所学校先分别出2个节目，剩下的8个节目再由3所学校分，也就是在8个物体间插入2个挡板，8个物体一共有7个间隔，这样的话一共有 EMBED Equation.DSMT4  种方法．
+【答案】 EMBED Equation.DSMT4  
+
+(1)小明有10块糖，每天至少吃1块，8天吃完，共有多少种不同吃法?
+(2)小明有10块糖，每天至少吃1块，8天或8天之内吃完，共有多少种吃法? 
+【考点】计数之插板法   【难度】3星   【题型】解答
+将10拆成8个自然数的和，
+有两种拆法，10=1+1+1+1+1+1+1+3=1+1+1+1+1+1+2+2．
+若8天中有7天每天吃一块，另外一天吃三块，有8种吃法．
+若8天中有6天每天吃一块，另外2天每天吃两块，有8×7÷2=28种吃法．
+8+28=36，所以共有36种吃法．
+（2）考虑有n块糖，每天至少吃1块，n天之内吃完的情况．将n块糖排成一行，这样在n块糖之间就产生了n-1个空隙．可以在这些空隙中插入竖线，如果一条竖线都没有插，就代表着1天把所有的糖吃完．如果每个空隙都插入竖线，就代表着每天吃一块糖，n天吃完．每个空隙都可以选择插或者不插，这样每一种插法都代表着一种吃法．由于每个空隙都有插或者不插两个选择，所以n-1个空隙就有2n-1种插法，即n块糖每天至少吃1块，一共有2n-1种不同的吃法．当有10块糖时，10天之内吃完共有29=512种吃法．
+10块糖9天吃完时，其中1天要吃2块，其余8天每天吃1块，共有9种吃法．10块糖10天吃完时，每天吃1块，有1种吃法．512-9-1=502，所以10块糖8天或8天之内吃完，共有502种吃法．
+【答案】 EMBED Equation.DSMT4  
+
+【巩固】有10粒糖，每天至少吃一粒，吃完为止，共有多少种不同的吃法？
+【考点】计数之插板法   【难度】3星   【题型】解答
+初看本题似乎觉得很好入手，比如可以按天数进行分类枚举：
+1天吃完的有1种方法，这天吃10块；2天吃完的有9种方法，10=1+9=2+8=……=9+1；
+当枚举到3天吃完的时，情况就有点错综复杂了，叫人无所适从……所以我们必须换一种角度来思考．
+不妨从具体的例子入手来分析，比如这10块糖分4天吃完：   
+        第1天吃2块；第2天吃3块；第3天吃1块；第4天吃4块．
+我们可以将10个“○”代表10粒糖，把10个“○”排成一排，“○”之间共有9个空位，若相邻两块糖是分在两天吃的，就在其间画一条竖线(如下图)．
+○○|○○○|○|○○○○
+        比如上图就表示“第1天吃2块；第2天吃3块；第3天吃1块；第4天吃4块．”
+        这样一来，每一种吃糖的方法就对应着一种“在9个空位中插入若干个‘|’的方法”，要求有多少个不同的吃法，就是要求在这9个空位中插入若干个“|”的方法数．
+由于每个空位都有画‘|’与“不画‘|’两种可能：
+
+ SHAPE  \* MERGEFORMAT 
+根据乘法原理，在这9个空位中画若干个“|”的方法数有： EMBED Equation.DSMT4  ，这也就说明吃完10颗糖共有512种不同的吃法．
+【答案】 EMBED Equation.DSMT4  
+
+马路上有编号为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，…， EMBED Equation.DSMT4  的十只路灯，为节约用电又能看清路面，可以把其中的三只灯关掉，但又不能同时关掉相邻的两只，在两端的灯也不能关掉的情况下，求满足条件的关灯方法有多少种？
+【考点】计数之插板法   【难度】3星   【题型】解答
+ EMBED Equation.DSMT4  只灯关掉 EMBED Equation.DSMT4  只，实际上还亮 EMBED Equation.DSMT4  只灯，而又要求不关掉两端的灯和相邻的灯，此题可以转化为在 EMBED Equation.DSMT4  只亮着的路灯之间的 EMBED Equation.DSMT4  个空档中放入 EMBED Equation.DSMT4  只熄灭的灯，有 EMBED Equation.DSMT4  种方法．
+【答案】 EMBED Equation.DSMT4  
+
+学校新修建的一条道路上有 EMBED Equation.DSMT4  盏路灯，为了节省用电而又不影响正常的照明，可以熄灭其中 EMBED Equation.DSMT4  盏灯，但两端的灯不能熄灭，也不能熄灭相邻的 EMBED Equation.DSMT4  盏灯，那么熄灯的方法共有多少种？ 
+【考点】组合之基本运用          【难度】3星          【题型】解答 
+要熄灭的是除两端以外的 EMBED Equation.DSMT4  盏灯，但不相邻．可以看成有 EMBED Equation.DSMT4  盏灯，共有 EMBED Equation.DSMT4  个空位，在这 EMBED Equation.DSMT4  个空位中找 EMBED Equation.DSMT4  个空位的方法数就是熄灭 EMBED Equation.DSMT4  盏灯的方法数，那么熄灯的方法数有 EMBED Equation.DSMT4  (种)．
+【答案】 EMBED Equation.DSMT4  
+
+在四位数中，各位数字之和是4的四位数有多少？
+【考点】计数之插板法   【难度】3星   【题型】解答
+设原四位数为 EMBED Equation.DSMT4  ，按照题意，我们有 EMBED Equation.DSMT4  ，但是对 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  要求不同，因为这是一个四位数，所以应当有 EMBED Equation.DSMT4  ，而其他三个字母都可以等于0，这样就不能使用我们之前的插板法了，因此我们考虑将 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  都加上1，这样 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  都至少是1，而且这个时候它们的和为 EMBED Equation.DSMT4  ，即问题变成如下表达：
+一个各位数字不为0的四位数，它的各位数字之和为7，这样的四位数有多少个？
+采用插板法，共有6个间隔，要插入3个板，可知这样的四位数有 EMBED Equation.DSMT4  个，对应着原四位数也应该有20个．
+【答案】 EMBED Equation.DSMT4  
+
+【巩固】大于2000小于3000的四位数中数字和等于9的数共有多少个？
+【考点】计数之插板法   【难度】3星   【题型】解答
+大于2000小于3000的四位数，首位数字只能为2，所以后三位数字之和为7，后三位数字都有可能为0，为使用隔板法，先将它们变成至少为1的数，可以将每个数都加上1，这样它们的和为10，且每个数都至少为1，那么采用隔板法，相当于在9个间隔中选择2个插入隔板，有 EMBED Equation.DSMT4  种方法，所以满足题意的四位数有36个．
+【答案】 EMBED Equation.DSMT4  
+
+兔妈妈摘了15个相同的磨菇，分装在3个相同的筐子里，如果不允许有空筐，共有多少种不同的装法？如果分装在3个不同的筐子里，不允许有空筐，又有多少种不同的装法？
+【考点】计数之插板法   【难度】4星   【题型】解答
+⑴分装在3个相同的筐子里，两种不同的装法意味着这两种装法中3个筐子里的蘑菇数量不完全相同．可以进行分类讨论：
+①如果每个筐至少有 EMBED Equation.DSMT4  个，有 EMBED Equation.DSMT4  种情况；
+        ②如果每个筐至少有 EMBED Equation.DSMT4  个，则相当于把 EMBED Equation.DSMT4  个蘑菇分装在3个筐子里，且至少有1个筐子是空的(否则没有筐子是空的，将与①中的情况相同)，有(0，0，3)和(0，1，2) EMBED Equation.DSMT4  种情况；
+        ③如果每个筐至少有 EMBED Equation.DSMT4  个，则相当于把6个蘑菇分装在3个筐子里，且至少有1个筐子是空的，有(0，0，6)，(0，1，5)，(0，2，4)和(0，3，3) EMBED Equation.DSMT4  种情况；
+        ④如果每个筐至少有 EMBED Equation.DSMT4  个，类似分析可知有 EMBED Equation.DSMT4  种情况；
+        ⑤如果每个筐至少有 EMBED Equation.DSMT4  个，类似分析可知有 EMBED Equation.DSMT4  种情况．
+所以共有 EMBED Equation.DSMT4  种不同的装法．
+        ⑵如果分装在3个不同的筐子里，不允许有空筐，可以把这15个蘑菇排成一列，中间有14个间隔，现在用两个板去隔，每个间隔最多放一个板．这2个板的每一种放法都把15个蘑菇分成3份，所以这两个板的每一种放法都对应一种装蘑菇的方法．而板的放法有 EMBED Equation.DSMT4  种，所以装蘑菇的不同方法有91种．
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+PAGE  
+
+
+7-5-4.组合之插板法.题库	                         教师版                        page  PAGE 7 of  NUMPAGES 7
+
+
+
+7-5-4.组合之插板法
+
+
+
+
+例题精讲
+
+知识要点
+
+教学目标
+
+每个空位都有画“|”与不画“|”两种可能
+
+
+

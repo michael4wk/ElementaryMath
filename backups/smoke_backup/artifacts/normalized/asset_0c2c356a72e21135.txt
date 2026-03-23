@@ -1,0 +1,487 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE  \* MERGEFORMAT 
+
+本讲知识点属于计算大板块内容，其实分数裂项很大程度上是发现规律、利用公式的过程，可以分为观察、改造、运用公式等过程。很多时候裂项的方式不易找到，需要进行适当的变形，或者先进行一部分运算，使其变得更加简单明了。
+本讲是整个奥数知识体系中的一个精华部分，列项与通项归纳是密不可分的，所以先找通项是裂项的前提，是能力的体现，对学生要求较高。
+
+ SHAPE  \* MERGEFORMAT 
+分数裂项
+一、“裂差”型运算
+将算式中的项进行拆分，使拆分后的项可前后抵消，这种拆项计算称为裂项法.裂项分为分数裂项和整数裂项，常见的裂项方法是将数字分拆成两个或多个数字单位的和或差。遇到裂项的计算题时，要仔细的观察每项的分子和分母，找出每项分子分母之间具有的相同的关系，找出共有部分，裂项的题目无需复杂的计算，一般都是中间部分消去的过程，这样的话，找到相邻两项的相似部分，让它们消去才是最根本的。
+(1)对于分母可以写作两个因数乘积的分数，即 EMBED Equation.DSMT4  形式的，这里我们把较小的数写在前面，即 EMBED Equation.DSMT4  ，那么有 EMBED Equation.DSMT4  
+(2)对于分母上为3个或4个连续自然数乘积形式的分数，即：
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  形式的，我们有：
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+裂差型裂项的三大关键特征：
+（1）分子全部相同，最简单形式为都是1的，复杂形式可为都是x(x为任意自然数)的，但是只要将x提取出来即可转化为分子都是1的运算。
+（2）分母上均为几个自然数的乘积形式，并且满足相邻2个分母上的因数“首尾相接”
+（3）分母上几个因数间的差是一个定值。
+
+二、“裂和”型运算：
+常见的裂和型运算主要有以下两种形式：
+（1） EMBED Equation.DSMT4   （2） EMBED Equation.DSMT4  
+裂和型运算与裂差型运算的对比：
+裂差型运算的核心环节是“两两抵消达到简化的目的”，裂和型运算的题目不仅有“两两抵消”型的，同时还有转化为“分数凑整”型的，以达到简化目的。
+
+ SHAPE  \* MERGEFORMAT 
+ EMBED Equation.DSMT4           。
+【考点】分数裂项           【难度】2星          【题型】计算 
+【关键词】美国长岛，小学数学竞赛
+原式 EMBED Equation.DSMT4  
+提醒学生注意要乘以(分母差)分之一，如改为： EMBED Equation.DSMT4  ，计算过程就要变为：
+ EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】分数裂项           【难度】2星          【题型】计算  
+原式 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4            
+【考点】分数裂项           【难度】2星          【题型】计算  
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】分数裂项           【难度】3星          【题型】计算  
+本题为典型的“隐藏在等差数列求和公式背后的分数裂差型裂项”问题。此类问题需要从最简单的项开始入手，通过公式的运算寻找规律。从第一项开始，对分母进行等差数列求和运算公式的代入有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，……， 
+原式 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4           
+【考点】分数裂项           【难度】2星          【题型】计算  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4           
+【考点】分数裂项           【难度】2星          【题型】计算  
+【关键词】迎春杯，初赛，六年级
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4   
+【考点】分数裂项           【难度】2星          【题型】计算  
+【关键词】台湾，小学数学竞赛，初赛
+原式 EMBED Equation.DSMT4  
+			 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4            
+【考点】分数裂项           【难度】3星          【题型】计算  
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4         
+【考点】分数裂项           【难度】2星          【题型】计算  
+【关键词】101中学
+原式 EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  _______
+【考点】分数裂项           【难度】2星          【题型】计算 
+【关键词】走美杯，初赛，六年级
+根据裂项性质进行拆分为：
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4          
+【考点】分数裂项           【难度】6星          【题型】计算  
+【关键词】走美杯，6年级，决赛
+原式 EMBED Equation.DSMT4  
+         EMBED Equation.DSMT4  
+         EMBED Equation.DSMT4  
+         EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  ＝          
+【考点】分数裂项           【难度】3星          【题型】计算  
+【关键词】走美杯，6年级，决赛
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4           。
+【考点】分数裂项           【难度】3星          【题型】计算  
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】分数裂项           【难度】3星          【题型】计算  
+【关键词】华杯赛，总决赛，二试
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4          
+【考点】分数裂项           【难度】3星          【题型】计算  
+【关键词】仁华学校
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】分数裂项           【难度】3星          【题型】计算  
+【关键词】小数报，初赛
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  =         。
+【考点】分数裂项           【难度】2星          【题型】计算  
+【关键词】学而思杯，6年级，1试
+原式 EMBED Equation.DSMT4  
+                  EMBED Equation.DSMT4  
+                  EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+
+计算： EMBED Equation.DSMT4      ____。
+【考点】分数裂项           【难度】2星          【题型】计算 
+【关键词】学而思杯，6年级 
+原式 EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】分数裂项           【难度】3星          【题型】计算  
+分析这个算式各项的分母，可以发现它们可以表示为： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，……， EMBED Equation.DSMT4  ，
+所以原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4          ． 
+【考点】分数裂项           【难度】3星          【题型】计算  
+【关键词】四中
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4   
+【考点】分数裂项           【难度】3星          【题型】计算  
+首先分析出 EMBED Equation.DSMT4  
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】分数裂项           【难度】3星          【题型】计算  
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4   
+【考点】分数裂项           【难度】3星          【题型】计算  
+原式＝ EMBED Equation.DSMT4  ＋ EMBED Equation.DSMT4  ＋…+ EMBED Equation.DSMT4  + EMBED Equation.DSMT4  +…+ EMBED Equation.DSMT4  
+＝ EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  － EMBED Equation.DSMT4  )＋ EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  － EMBED Equation.DSMT4  ) ＝ EMBED Equation.DSMT4  ＋ EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  ＋ EMBED Equation.DSMT4  
+＝ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4   
+【考点】分数裂项           【难度】3星          【题型】计算  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】分数裂项           【难度】3星          【题型】计算  
+ EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  － EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  － EMBED Equation.DSMT4  
+ 	 EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  － EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  － EMBED Equation.DSMT4  
+ 	 EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  － EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  － EMBED Equation.DSMT4  ……
+ EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  － EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  － EMBED Equation.DSMT4  
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4   
+【考点】分数裂项           【难度】3星          【题型】计算  
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】分数裂项           【难度】3星          【题型】计算  
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4            ． 
+【考点】分数裂项           【难度】3星          【题型】计算  
+如果式子中每一项的分子都相同，那么就是一道很常见的分数裂项的题目．但是本题中分子不相同，而是成等差数列，且等差数列的公差为2．相比较于2，4，6，……这一公差为2的等差数列(该数列的第 EMBED Equation.DSMT4  个数恰好为 EMBED Equation.DSMT4  的2倍)，原式中分子所成的等差数列每一项都比其大3，所以可以先把原式中每一项的分子都分成3与另一个的和再进行计算．
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4    EMBED Equation.DSMT4    EMBED Equation.DSMT4  
+也可以直接进行通项归纳．根据等差数列的性质，可知分子的通项公式为 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，再将每一项的 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  分别加在一起进行裂项．后面的过程与前面的方法相同．
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】分数裂项           【难度】3星          【题型】计算  
+【关键词】迎春杯，初赛，五年级
+本题的重点在于计算括号内的算式： EMBED Equation.DSMT4  ．这个算式不同于我们常见的分数裂项的地方在于每一项的分子依次成等差数列，而非常见的分子相同、或分子是分母的差或和的情况．所以应当对分子进行适当的变形，使之转化成我们熟悉的形式．
+观察可知 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，……即每一项的分子都等于分母中前两个乘数的和，所以
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+　　　　 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+所以原式 EMBED Equation.DSMT4  ．
+（法二）
+上面的方法是最直观的转化方法，但不是唯一的转化方法．由于分子成等差数列，而等差数列的通项公式为 EMBED Equation.DSMT4  ，其中 EMBED Equation.DSMT4  为公差．如果能把分子变成这样的形式，再将 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  分开，每一项都变成两个分数，接下来就可以裂项了．
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  ，
+所以原式 EMBED Equation.DSMT4  ．
+（法三）
+本题不对分子进行转化也是可以进行计算的：
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+所以原式 EMBED Equation.DSMT4  ．
+（法四）对于这类变化较多的式子，最基本的方法就是通项归纳．先找每一项的通项公式：
+ EMBED Equation.DSMT4  （ EMBED Equation.DSMT4  ，3，……，9）
+如果将分子 EMBED Equation.DSMT4  分成 EMBED Equation.DSMT4  和1，就是上面的法二；如果将分子分成 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，就是上面的法一．
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4   
+【考点】分数裂项           【难度】3星          【题型】计算  
+观察可知原式每一项的分母中如果补上分子中的数，就会是5个连续自然数的乘积，所以可以先将每一项的分子、分母都乘以分子中的数．即：
+原式 EMBED Equation.DSMT4  
+现在进行裂项的话无法全部相消，需要对分子进行分拆，考虑到每一项中分子、分母的对称性，可以用平方差公式： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ……
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】分数裂项           【难度】4星          【题型】计算  
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+  EMBED Equation.DSMT4  
+【考点】分数裂项           【难度】4星          【题型】计算  
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4           . 
+【考点】分数裂项           【难度】4星          【题型】计算  
+原式为阶乘的形式，较难进行分析，但是如果将其写成连乘积的形式，题目就豁然开朗了．
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】分数裂项           【难度】3星          【题型】计算  
+原式＝ EMBED Equation.DSMT4  ＋ EMBED Equation.DSMT4  ＋ EMBED Equation.DSMT4  ＋ EMBED Equation.DSMT4  ＋…＋ EMBED Equation.DSMT4  
+＝（ EMBED Equation.DSMT4   EMBED Equation.DSMT4  ）＋（ EMBED Equation.DSMT4   EMBED Equation.DSMT4  ）＋（ EMBED Equation.DSMT4   EMBED Equation.DSMT4  ）＋（ EMBED Equation.DSMT4   EMBED Equation.DSMT4  ）＝ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】分数裂项           【难度】3星          【题型】计算  
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，……，
+ EMBED Equation.DSMT4  ，所以
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】分数裂项           【难度】2星          【题型】计算  
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4          . 
+【考点】分数裂项           【难度】3星          【题型】计算  
+【关键词】仁华学校
+这题是利用平方差公式进行裂项： EMBED Equation.DSMT4  ，
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.3          
+【考点】分数裂项           【难度】3星          【题型】计算  
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，……所以，
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】分数裂项           【难度】3星          【题型】计算  
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4            ． 
+【考点】分数裂项           【难度】3星          【题型】计算  
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4          ． 
+【考点】分数裂项           【难度】3星          【题型】计算  
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，……由于 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，
+可见原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4            ． 
+【考点】分数裂项           【难度】3星          【题型】计算  
+式子中每一项的分子与分母初看起来关系不大，但是如果将其中的分母根据平方差公式分别变为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，……， EMBED Equation.DSMT4  ，可以发现如果分母都加上1，那么恰好都是分子的4倍，所以可以先将原式乘以4后进行计算，得出结果后除以4就得到原式的值了．
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】分数裂项           【难度】3星          【题型】计算  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+  EMBED Equation.DSMT4   
+【考点】分数裂项           【难度】3星          【题型】计算 
+【关键词】第三届，祖冲之杯，人大附中 
+原式= EMBED Equation.DSMT4  = EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+【巩固】计算： EMBED Equation.DSMT4          
+【考点】分数裂项           【难度】3星          【题型】计算  
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4   
+【考点】分数裂项           【难度】3星          【题型】计算  
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4    EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4   
+【考点】分数裂项           【难度】3星          【题型】计算  
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】分数裂项           【难度】3星          【题型】计算  
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4    EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】分数裂项           【难度】3星          【题型】计算  
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+   		 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】分数裂项           【难度】3星          【题型】计算  
+原式 EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4   
+【考点】分数裂项           【难度】3星          【题型】计算  
+原式 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】分数裂项           【难度】4星          【题型】计算  
+原式= EMBED Equation.DSMT4  
+= EMBED Equation.DSMT4  
+= EMBED Equation.DSMT4  
+= EMBED Equation.DSMT4  
+= EMBED Equation.DSMT4  
+= EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4            
+【考点】分数裂项           【难度】5星          【题型】计算  
+原式 EMBED Equation.DSMT4          EMBED Equation.DSMT4          EMBED Equation.DSMT4          EMBED Equation.DSMT4          EMBED Equation.DSMT4          EMBED Equation.DSMT4          EMBED Equation.DSMT4          EMBED Equation.DSMT4          EMBED Equation.DSMT4          EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4            
+【考点】分数裂项           【难度】4星          【题型】计算  
+原式 EMBED Equation.DSMT4          EMBED Equation.DSMT4          EMBED Equation.DSMT4          EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4        
+【考点】分数裂项           【难度】5星          【题型】计算  
+ EMBED Equation.DSMT4    EMBED Equation.DSMT4   所以原式 EMBED Equation.DSMT4            EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+1-2-2-1.分数裂项.题库	                          教师版                          page  PAGE 18 of  NUMPAGES 18
+
+
+
+分数裂项计算
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

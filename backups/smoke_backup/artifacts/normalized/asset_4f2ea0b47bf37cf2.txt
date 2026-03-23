@@ -1,0 +1,269 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+数字谜从形式上可以分为横式数字谜与竖式数字谜，从运算法则上可以分为加减乘除四种形式的数字谜。横式与竖式亦可以互相转换，本讲中将主要介绍数字谜的一般解题技巧。主要涉及小数、分数、循环小数的数字谜问题，因此，会需要利用数论的知识解决数字谜问题
+
+ SHAPE  \* MERGEFORMAT 
+一、数字迷加减法
+1.个位数字分析法
+2.加减法中的进位与退位
+3.奇偶性分析法
+二、数字谜问题解题技巧
+1.解题的突破口多在于竖式或横式中的特殊之处，例如首位、个位以及位数的差异；
+2.要根据不同的情况逐步缩小范围，并进行适当的估算；
+3.题目中涉及多个字母或汉字时，要注意用不同符号表示不同数字这一条件来排除若干可能性；
+4.注意结合进位及退位来考虑；
+
+ SHAPE  \* MERGEFORMAT 
+
+模块一、加法数字谜
+
+“华杯赛”是为了纪念和学习我国杰出的数学家华罗庚教授而举办的全国性大型少年数学竞赛．华罗庚教授生于1910年，现在用“华杯”代表一个两位数．已知1910与“华杯”之和等于2004，那么“华杯”代表的两位数是多少？
+
+【考点】加法数字谜   【难度】1星   【题型】填空
+【关键词】华杯赛，初赛，第1题
+由 EMBED Equation.DSMT4  +“杯”=4，知“杯”代表4（不进位加法）；再由191+“华”=200，知“华”代表9．因此，“华杯”代表的两位数是94．
+【答案】 EMBED Equation.DSMT4  
+
+下面的算式里，四个小纸片各盖住了一个数字。被盖住的四个数字的总和是多少?
+
+【考点】加法数字谜  【难度】2星   【题型】填空
+【关键词】华杯赛，初赛，第5题
+149的个位数是9，说明两个个位数相加没有进位，因此，9是两个个位数的和，14是两个十位数的和。于是，四个数字的总和是14＋9＝23。
+【答案】 EMBED Equation.DSMT4  
+
+在下边的算式中，被加数的数字和是和数的数字和的三倍。问：被加数至少是多少？
+
+【考点】加法数字谜   【难度】3星   【题型】填空
+【关键词】第四届，华杯赛，初赛，第2题
+从“被加数的数字和是和的数字和的三倍”这句话，可以推断出两点：①被加数可以被3整除。②在做加法运算时，个位数字相加一定进位，否则和的数字和只会增加。从前一点可以得出被加数在12，15，18……中。再从后一点可以得出被加数最小是18，这时数字和1＋8＝9，恰好是和21的数字和2＋1＝3的3倍。因此，满足题目的最小的被加数是18
+【答案】 EMBED Equation.DSMT4  
+
+两个自然数，它们的和加上它们的积恰为34，这两个数中较大数为（     ）．
+【考点】加法数字谜   【难度】2星   【题型】填空
+【关键词】走美杯，3年级，初赛
+（4+6）+4×6=34，这两个数中较大数为6。
+【答案】 EMBED Equation.DSMT4  
+
+下面的算式里，每个方框代表一个数字．问：这6个方框中的数字的总和是多少？
+
+【考点】加法数字谜   【难度】3星   【题型】填空
+【关键词】华杯赛，初赛，第11题
+方法一：每个方框中的数字只能是0～9，因此任两个方框中数字之和最多是18．现在先看看被加数与加数中处于“百位”的两个数字之和，这个和不可能小于18，因为不管它们后面的两个二位数是什么，相加后必小于200，也就是说最多只能进1．这样便可以断定，处于“百位”的两个数字之和是18，而且后面两位数相加进1，同样理由，处于“十位”的两个数字之和是18，而且两个“个位”数字相加后进1。因此，处于“个位”的两个数字之和必是11，6个方框中数字之和为18＋18＋11＝47
+方法二：被加数不会大于999，所以加数不会小于1991－999＝992。同样，被加数不会小于992也就是说，加数和被加数都是不小于992，不大于999的数这样便确定了加数和被加数的“百位”数字和“十位”数字都是9，而两个个位数字之和必是11。 于是，总和为9×4＋11＝47
+【答案】 EMBED Equation.DSMT4  
+
+在下边的竖式中，相同字母代表相同数字，不同字母代表不同数字，则四位数 EMBED Equation.DSMT4  ______
+ EMBED Equation.DSMT4  
+【考点】加法数字谜   【难度】2星   【题型】填空  
+【关键词】迎春杯，五年级，初赛，第5题
+两个四位数相加得到一个五位数，显然这个五位数的首位只能为1，所以可以确定 EMBED Equation.DSMT4  ，那么百位不可能向千位进位，所以 EMBED Equation.DSMT4  ，十位向百位进了1位，所以 EMBED Equation.DSMT4  ，可得 EMBED Equation.DSMT4  ．又因为 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，四位数 EMBED Equation.DSMT4  为1038。
+【答案】1038
+
+下面的字母各代表什么数字，算式才能成立？
+
+【考点】加法数字谜   【难度】2星   【题型】填空  
+由于四位数加上四位数其和为五位数，所以可确定和的首位数字E＝1.又因为个位上D＋D＝D，所以D=0.此时算式为：
+
+　　   下面分两种情况进行讨论：
+　　   ①若百位没有向千位进位，则由千位可确定A=9，由十位可确定C=8，由百位可确定B=4.
+因此得到问题的一个解：
+
+　　   ②若百位向千位进1，则由千位可确定A=8，由十位可确定C＝7，百位上不论B为什么样的整数，B+B和的个位都不可能为7，因此此时不成立。
+【答案】
+
+
+右面算式中每一个汉字代表一个数字，不同的汉字表示不同的数字.当它们各代表什么数字时算式成立？
+
+【考点】加法数字谜   【难度】2星   【题型】填空  
+由于是三位数加上三位数，其和为四位数，所以“真”=1.由于十位最多向百位进1，因而百位上的“是”=0，“好”=8或9。①若“好”=8，个位上因为8+8＝16，所以“啊”=6，十位上，由于6＋0＋1=7≠8，所以“好”≠8。②若“好”=9，个位上因为9＋9=18，所以“啊”=8，十位上，8＋0＋1=9，百位上，9＋1=10，因而问题得解。真=1，是=0，好=9，啊=8
+
+【答案】
+
+
+下面算式中，相同汉字代表相同数字，不同汉字代表不同数字，求“数学真好玩”代表的数是几？
+ EMBED Equation.DSMT4  
+【考点】加法数字谜   【难度】2星   【题型】填空  
+【关键词】走美杯，初赛，六年级，第3题
+题中竖式为两个四位数相加得到一个五位数，这个五位数的首位只能为1，所以“数” EMBED Equation.DSMT4  。再看千位，由于百位至多进1位，而“爱” EMBED Equation.DSMT4  “数” EMBED Equation.DSMT4  最大为 EMBED Equation.DSMT4  ，所以“学”不超过1，而“数”为1，所以“学”只能为0．竖式变为
+ EMBED Equation.DSMT4  。
+那么“真”至少为2，所以百位不可能进位，故“爱” EMBED Equation.DSMT4  。由于“好”和“真”不同，所以“真” EMBED Equation.DSMT4  “好” EMBED Equation.DSMT4  ，十位向百位进1位。如果个位不向十位进位，则“真” EMBED Equation.DSMT4  “更” EMBED Equation.DSMT4  “好” EMBED Equation.DSMT4  ，得到“更” EMBED Equation.DSMT4  ，不合题意，所以个位必定向十位进1位，则“真” EMBED Equation.DSMT4  “更” EMBED Equation.DSMT4   EMBED Equation.DSMT4  “好” EMBED Equation.DSMT4  ，得到“更” EMBED Equation.DSMT4  。现在，“真” EMBED Equation.DSMT4  “好” EMBED Equation.DSMT4  ，“知” EMBED Equation.DSMT4  “好” EMBED Equation.DSMT4  “玩”．“真”、“好”、“知”、“玩”为2，3，4，5，6，7中的数。由于“玩”至少为2，而“知” EMBED Equation.DSMT4  “好”最大为 EMBED Equation.DSMT4  ，所以“玩”为2或3。若“玩”为3，则“知”与“好”分别为6和7，此时无论“好”为6还是7，“真”都会与已有的数字重复，不合题意。若“玩”为2，则“知”与“好”分别为5和7，只能是“知” EMBED Equation.DSMT4  ，“好” EMBED Equation.DSMT4  ，“真” EMBED Equation.DSMT4  。此时“数学真好玩”代表的数是10652。
+【答案】10652
+
+下图是一个正确的加法算式，其中相同的字母代表相同的数字，不同的字母代表不同的数字．已知 EMBED Equation.DSMT4  不是 EMBED Equation.DSMT4  的倍数， EMBED Equation.DSMT4  不是 EMBED Equation.DSMT4  的倍数，那么 EMBED Equation.DSMT4  代表的四位数是多少？
+ EMBED Equation.DSMT4  
+【考点】加法数字谜   【难度】3星   【题型】填空  
+首先可以确定 EMBED Equation.DSMT4  的值一定是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的值一定是 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，可见 EMBED Equation.DSMT4  为偶数，只能是 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  不是 EMBED Equation.DSMT4  的倍数， EMBED Equation.DSMT4  不是 EMBED Equation.DSMT4  的倍数，所以 EMBED Equation.DSMT4  不是3的倍数，也不是4的倍数，可以排除144和188，再检验122和166可知只有 EMBED Equation.DSMT4  符合，此时 EMBED Equation.DSMT4  为830，所以 EMBED Equation.DSMT4  的值为 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+在下面的算式中，汉字“第、十、一、届、华、杯、赛’，代表1，2，3，4，5，6，7，8，9中的7个数字，不同的汉字代表不同的数字，恰使得加法算式成立．则“第、十、一、届、华、杯、赛’’所代表的7个数字的和等于        ．
+
+【考点】加法数字谜   【难度】3星   【题型】填空
+【关键词】华杯赛，初赛
+显然十位和百位都出现了进位，所以有以下的等式：“第” EMBED Equation.DSMT4  ，“十” EMBED Equation.DSMT4  “华” EMBED Equation.DSMT4  ，如果“届” EMBED Equation.DSMT4  “赛”没有出现进位，那么“一” EMBED Equation.DSMT4  “杯” EMBED Equation.DSMT4  ，“届” EMBED Equation.DSMT4  “赛” EMBED Equation.DSMT4  ，那么“届”和“赛”一个是2另一个是4，那么“一” EMBED Equation.DSMT4  “杯”中有一个小于5的数必然是3，另一个是7，这样的话就不存在不重复的“十”和“华”使它们的和是9，所以“届” EMBED Equation.DSMT4  “赛”必定出现进位．
+由于“届” EMBED Equation.DSMT4  “赛”出现进位，那么“一” EMBED Equation.DSMT4  “杯” EMBED Equation.DSMT4  ，“届” EMBED Equation.DSMT4  “赛” EMBED Equation.DSMT4  ，所以7个汉字代表的7个数字之和等于  EMBED Equation.DSMT4  ．经过尝试“十”、“华”、“一”、“杯”、“届”、“赛”分别是3、6、4、5、7、9时可满足条件(答案不止一种)．
+另解：本题也可采用弃九法．由于 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  除以9的余数等于2006除以9的余数，为8．
+由于“第、十、一、届、华、杯、赛’，代表1，2，3，4，5，6，7，8，9中的7个数字，且不同的汉字代表不同的数字，假设1～9中的另外两个数为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，那么
+ EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  除以9的余数为8，则 EMBED Equation.DSMT4  除以9的余数为1．
+由题意可以看出“第” EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  不能为1，则 EMBED Equation.DSMT4  ，其中满足除以9余1的只有10，所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+在下边的算式中，相同的符号代表相同的数字，不同的符号代表不同的数字，根据这个算式，可以推算出： EMBED Equation.DSMT4  _______.
+ EMBED Equation.DSMT4  
+【考点】加法数字谜   【难度】3星   【题型】填空  
+比较竖式中百位与十位的加法，如果十位上没有进位，那么百位上两个“□”相加等于一个“□”，得到“□” EMBED Equation.DSMT4  ，这与“□”在首位不能为0矛盾，所以十位上的“□ EMBED Equation.DSMT4  □”肯定进位，那么百位上有“□ EMBED Equation.DSMT4  □ EMBED Equation.DSMT4  □”，从而“□” EMBED Equation.DSMT4  ，“☆” EMBED Equation.DSMT4  。再由个位的加法，推知“○ EMBED Equation.DSMT4  △ EMBED Equation.DSMT4  ”．从而“ EMBED Equation.DSMT4   EMBED Equation.DSMT4  ”．
+【答案】 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+
+下面两个算式中，相同的字母代表相同的数字，不同的字母代表不同的数字，那么A EMBED Equation.DSMT4  B EMBED Equation.DSMT4  C EMBED Equation.DSMT4  D EMBED Equation.DSMT4  E EMBED Equation.DSMT4  F EMBED Equation.DSMT4  G EMBED Equation.DSMT4          。
+    
+【考点】加法数字谜   【难度】3星   【题型】填空
+【关键词】迎春杯，三年级，初赛，第8题
+突破口是A=1，所以E=6，B=3或4.若B=3，F=5，C=4，G=9，D=8，满足题目；若B=4，F=4，矛盾，舍.综上，A EMBED Equation.DSMT4  B EMBED Equation.DSMT4  C EMBED Equation.DSMT4  D EMBED Equation.DSMT4  E EMBED Equation.DSMT4  F EMBED Equation.DSMT4  G=1+3+4+8+6+5+9=36.
+【答案】 EMBED Equation.DSMT4  
+
+在下面两个算式中，相同的字母代表相同的数字，不同的字母代表不同的数字，那么四位数 EMBED Equation.DSMT4  为        .
+ EMBED Equation.DSMT4     EMBED Equation.DSMT4  
+【考点】加法数字谜   【难度】3星   【题型】填空
+【关键词】迎春杯，中年级，复赛，第6题
+如果 EMBED Equation.DSMT4  ，那么将有 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，与题意不符，所以 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ．类似分析可知 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．由 EMBED Equation.DSMT4  知 EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+由 EMBED Equation.DSMT4  得 EMBED Equation.DSMT4  ，由 EMBED Equation.DSMT4  得 EMBED Equation.DSMT4  ，由 EMBED Equation.DSMT4  得 EMBED Equation.DSMT4  ，由 EMBED Equation.DSMT4  得 EMBED Equation.DSMT4  ，故四位数 EMBED Equation.DSMT4  为8203．
+
+从0、1、2、3、4、5、6、7、8、9 这十个数字中，选出九个数字，组成一个两位数、一个三位数和一个四位数，使这三个数的和等于2010. 其中未被选中的数字是           
+【考点】加法数字谜    【难度】3星   【题型】填空
+【关键词】华杯赛，初赛，第9题
+9、6根据弃九法，所有加数的各位数字总和与求得总和的各位数字之和应该差9的整数倍。由于2010的各位数字之和为3，而0+1+2+…+9=45，所以应该从中去掉6。
+【答案】 EMBED Equation.DSMT4  
+
+把0~9中的数填到下图的方格中，每个数只能用一次，其中5已经填好，位于上方的格子中所填数总大于它正下方的格子中所填数．
+
+【考点】加法数字谜   【难度】3星   【题型】填空
+【关键词】学而思杯，3年级，第2题
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+下面的算式中不同的汉字表示不同的数字，相同的汉字表示相同的数字.如果巧+解+数+字+谜=30，那么“巧解数字谜”所代表的五位数是多少？
+
+【考点】加法数字谜   【难度】3星   【题型】填空  
+观察算式的个位，由于谜+谜+谜+谜+谜和的个位还是“谜”，所以“谜”＝0或5。
+若“谜”=0，则十位上字×4的个位是字，字=0，出现重复数字，因此“谜”≠0。
+②若“谜”=5，则巧+解+数+字=25.观察这个算式的十位，由于字+字+字+字+2和的个位还是“字”，所以“字”=6，则巧+解+数=19.再看算式的百位，由于数+数+数+2和的个位还是“数”，因而“数”=4或9，若“数”=4，则“解”＝9.因而“巧”=19-4-9＝6，“赛”=5，与“谜”=5重复，因此“数”≠4，所以“数”=9，则“巧”+“解”＝10.最后看算式的千位，由于“解”+ “解”+2和的个位还是“解”，所以“解”＝8，则“巧”=2，因此“赛”＝1.问题得解。
+
+　　    因此，“巧解数字谜”所代表的五位数为28965。
+【答案】28965
+
+如图所示的算式中，不同的汉字表示不同的数字，相同的汉字表示相同的数字．求使算式成立的汉字所表示的数字.
+ EMBED Equation.DSMT4  
+【考点】加法数字谜   【难度】3星   【题型】填空  
+将竖式化为横式就是： EMBED Equation.DSMT4  ，从“ EMBED Equation.DSMT4  ”到“ EMBED Equation.DSMT4  ”依次考虑，并注意到“喜”、“爱”、“数”都不能等于0，可以得到： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+
+如图所示的算式中，相同的汉字表示相同的一位数字，不同的汉字表示不同的一位数字，则数+学+竞+赛=            或           。 HYPERLINK "http://photo.blog.sina.com.cn/showpic.html" \l "blogid=48ef377d0100ccfq&url=http://static14.photo.sina.com.cn/orignal/48ef377dx653942b9f01d" \t "_blank" 
+
+【考点】加法数字谜   【难度】3星   【题型】填空
+【关键词】希望杯，4年级，1试
+从个位上看起，个位上的“赛”只能是5，则由 EMBED Equation.DSMT4  竞 EMBED Equation.DSMT4  竞，知“竞”只能取6，又由 EMBED Equation.DSMT4  学 EMBED Equation.DSMT4  学，则知学可取4或9，当取4时，数等于9；当取9时，数等于8.所以数+学+竞+赛=5+6+4+9=24或5+6+8+9=28。
+【答案】 EMBED Equation.DSMT4  
+
+在 EMBED Equation.DSMT4  的方格中，各有一个数，由一张或两张数字卡片组成，请你移动一张卡片，使每行每列三个数的和都相等．用箭头表示将哪一张卡片移动到哪里．
+
+【考点】加法数字谜   【难度】4星   【题型】填空  
+【关键词】走美杯，3年级，初赛
+把第三列中的最下边一个“1”放到第一列的2后面就可以了。
+【答案】把第三列中的最下边一个“1”放到第一列的2后面。
+
+模块二、减法数字谜
+
+如下图是两个三位数相减的算式，每个方框代表一个数字．问：这六个方框中的数字的连乘积等于多少？
+
+【考点】减法数字谜    【难度】3星   【题型】填空
+【关键词】华杯赛，初赛，试题，第6题
+因为差的首位是8，所以被减数首位是9，减数的首位是1。第二位上两数的差是9，所以被减数的第二位是9，减数的第二位是0。于是这六个方框中的数字的连乘积等于0。 答：六个方框中的数字的连乘积等于0．
+【答案】 EMBED Equation.DSMT4  
+
+在下式的每个空格里填入一个数字，使竖式成立。
+
+【考点】减法数字谜   【难度】2星   【题型】填空
+【关键词】（走美杯3年级决赛第4题，8分）
+原式 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+把 EMBED Equation.DSMT4  这 EMBED Equation.DSMT4  个数字填入下图（已填两个数字），使得等式成立。减数为_____
+
+【考点】减法数字谜   【难度】3星   【题型】填空  
+【关键词】走美杯，3年级，初赛
+减数的个位必须是0，从1的位置入手尝试可得： EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+在下面的减法算式中，每一个字母代表一个数字，不同的字母代表不同的数字，那么D＋G=？
+
+【考点】减法数字谜   【难度】3星   【题型】填空  
+由于是五位数减去四位数，差为三位数，所以可确定A=1，B=0，E=9.此时算式为：
+
+　　   分成两种情况进行讨论：
+　　   ①若个位没有向十位借1，则由十位可确定F=9，但这与E=9矛盾。
+　　   ②若个位向十位借1，则由十位可确定F=8，百位上可确定C=7.这时只剩下2、3、4、5、6五个数字，由个位可确定出：
+　　    EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，因此，问题得解
+
+　　     所以 D＋G=2＋4=6或D＋G=3＋5=8或 D＋G=4＋6=10
+【答案】6或8或10
+
+英文“HALLEY”表示“哈雷”，“COMET”表示“彗星”，“EARTH”表示地球.在下面的算式中，每个字母均表示0～9中的某个数字，且相同的字母表示相同的数字，不同的字母表示不同的数字.这些字母各代表什么数字时，算式成立？
+
+【考点】减法数字谜   【难度】4星   【题型】填空  
+因为是一个六位数减去一个五位数，其差为五位数，所以可确定被减数的首位数字H＝1.若个位没有向十位借1，则十位上E-E=0，有T=0，那么个位上，Y-0＝1，得Y＝1，与H=1矛盾，所以个位要向十位借1，于是十位必向百位借1，则十位上，10＋E-1-E＝9，则T=9，因此，由个位可确定Y＝0.此时算式为：
+
+若百位不向千位借位，则有R＋M＋1=L，这时剩下数字2、3、4、5、6、7、8，因为2＋3＋1=6，所以L最小为6。若L=6，则（R，M）=（2，3）（表示R、M为2、3这两个数字，其中R可能为2，也可能为3，M也同样）.这时还剩下4、5、7、8这四个数字，由千位上有O+A=6，而在4、5、7、8这四个数字中，不论哪两个数字相加，和都不可能为6，因此L≠6.若L＝7，则M＋R=6，于是（M，R）＝（2，4），还剩下3、5、6、8这四个数字.由千位上O＋A=7，而在 3、5、6、8这四个数字中，不论哪两个数字相加，和都不可能为7，因此L≠7。若L=8，则M＋R＝7，（M，R）=（2，5）或（M，R）＝（3，4）。若（M，R）=（2，5），则还剩下3、4、6、7这四个数字。由千位可确定O＋A=8，而在3、4、6、7这四个数字中，不论哪两个数字相加，和都不可能为8，因此（M， R） ≠（2，5）。若（M，R）＝（3，4），则还剩下2、5、6、7这四个数字。由千位可确定O＋A=8，而2＋6=8，所以（O，A）＝（2，6），最后剩下5和7.因为5＋7＝12，所以可确定A＝2，O=6，则（C，E）＝（5，7）.由于C与E可对换，M与R可对换，所以得到问题的四个解：
+
+
+　   　②若百位向千位借1，则M＋R＝L＋9.还剩下2、3、4、5、6、7、8。
+若L＝2，则（M，R）＝（3， 8）或（M，R）=（4，7）或（M，R）＝（5，6）.
+由千位得O+A＝11，则必有C＋E=11，而万位上C＋E＝9+A，由此可得A=2，与L＝2矛盾.
+所以L≠2。
+若L＝3，则M＋R＝12，（M，R）=（4，8）或（M，R）＝（5，7）.由千位得O＋A＝12，
+这时还剩下2、6这两个数字.由万位得C+E=9＋A，即2＋6=9＋A，A无解.所以L≠3。
+若L＝4，则M＋R＝13，（M，R）＝（5，8）或（M，R）＝（6，7）.由千位得O＋A=13，
+这时还剩下2和3这两个数字.由万位得C+E＝A+9，即2＋3＝A＋9，A无解.所以 L≠4。
+若L=5，则M＋R＝14，（M，R）=（6，8）.由千位得O＋A＝14，
+而在剩下的2、3、4、7这四个数中，任意两个数字的和都不等于14.所以L≠5。
+若L=6，则 M＋R=15，（M， R）=（7，8）.由千位得O＋A＝5，则（O，A）=（2，3）.
+这时还剩下4和5这两个数字，由万位得C+E＝10+A，即4＋5=10＋A，A无解.所以 L≠6。
+因为M＋R的和最大为15，所以L最大取6。
+
+
+　   　共以上四个解。
+【答案】
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+5-1-2-1.加减法数字谜.题库	                        教师版                           page  PAGE 13 of  NUMPAGES 13
+
+
+
+5-1-2-1.加减法数字谜
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

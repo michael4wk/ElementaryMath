@@ -1,0 +1,9 @@
+{
+  "queue_total": 0,
+  "retried_count": 0,
+  "resolved_count": 0,
+  "pending_count": 0,
+  "exhausted_count": 0,
+  "succeeded_this_run": 0,
+  "exhausted_this_run": 0
+}

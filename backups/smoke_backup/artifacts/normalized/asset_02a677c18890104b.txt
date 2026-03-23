@@ -1,0 +1,356 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE \* MERGEFORMAT 
+分数是小学阶段的关键知识点，在小学的学习有分水岭一样的阶段性标志，许多难题也是从分数的学习开始遇到的。
+分数基本运算的常考题型有
+分数的四则混合运算
+分数与小数混合运算，分化小与小化分的选择
+复杂分数的化简
+繁分数的计算
+ SHAPE \* MERGEFORMAT 
+分数与小数混合运算的技巧
+在分数、小数的四则混合运算中，到底是把分数化成小数，还是把小数化成分数，这不仅影响到运算过程的繁琐与简便，也影响到运算结果的精确度，因此，要具体情况具体分析，而不能只机械地记住一种化法：小数化成分数，或分数化成小数。
+技巧1：一般情况下，在加、减法中，分数化成小数比较方便。
+技巧2：在加、减法中，有时遇到分数只能化成循环小数时，就不能把分数化成小数。此时要将包括循环小数在内的所有小数都化为分数。
+技巧3：在乘、除法中，一般情况下，小数化成分数计算，则比较简便。
+技巧4：在运算中，使用假分数还是带分数，需视情况而定。
+技巧5：在计算中经常用到除法、比、分数、小数、百分数相互之间的变，把这些常用的数互化数表化对学习非常重要。
+
+ SHAPE \* MERGEFORMAT 
+分数混合运算
+0.3 EMBED Equation.DSMT4  0.8＋0.2＝             。（结果写成分数形式）
+【考点】分数混合运算         【难度】1星         【题型】计算
+【关键词】希望杯，五年级，一试
+ EMBED Equation.DSMT4  × EMBED Equation.DSMT4  + EMBED Equation.DSMT4  = EMBED Equation.DSMT4  + EMBED Equation.DSMT4  = EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+计算： EMBED Equation.DSMT4  
+【考点】分数混合运算         【难度】2星         【题型】计算
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【考点】分数混合运算         【难度】2星         【题型】计算
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  =16
+【答案】 EMBED Equation.DSMT4  
+计算  EMBED Equation.DSMT4   
+【考点】分数混合运算         【难度】1星         【题型】计算
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算： EMBED Equation.DSMT4  
+【考点】分数混合运算         【难度】2星         【题型】计算
+【关键词】小数报，初赛
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4          ． 
+【考点】分数混合运算         【难度】2星         【题型】计算
+【关键词】清华附中
+观察发现如果将 EMBED Equation.DSMT4  分成50与 EMBED Equation.DSMT4  的和，那么50是除数 EMBED Equation.DSMT4  的分子的整数倍， EMBED Equation.DSMT4  则恰好与除数相等．原式中其它两个被除数也可以进行同样的分拆．
+原式 EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4          ． 
+【考点】分数混合运算         【难度】2星         【题型】计算
+观察发现如果将 EMBED Equation.DSMT4  分成30与 EMBED Equation.DSMT4  的和，那么30是除数 EMBED Equation.DSMT4  的分子的整数倍， EMBED Equation.DSMT4  则恰好与除数相等．原式中其它两个被除数也可以进行同样的分拆．
+原式 EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4          ． 
+【考点】分数混合运算         【难度】2星         【题型】计算
+原式 EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算： EMBED Equation.DSMT4              。
+【考点】分数混合运算         【难度】2星         【题型】计算
+【关键词】希望杯，五年级，一试
+原式=2
+【答案】 EMBED Equation.DSMT4  
+2006×2008×（  EMBED Equation.DSMT4  ）＝           
+【考点】分数混合运算         【难度】2星         【题型】计算
+【关键词】2006年，希望杯，第四届，五年级，六年级，一试
+2006×2008× EMBED Equation.DSMT4   +2006×2008× EMBED Equation.DSMT4  = EMBED Equation.DSMT4  + EMBED Equation.DSMT4  =2。
+【答案】 EMBED Equation.DSMT4  
+计算 EMBED Equation.DSMT4  
+【考点】分数混合运算         【难度】2星         【题型】计算
+【关键词】华杯赛，初赛
+原式 EMBED Equation.DSMT4          EMBED Equation.DSMT4          EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算： EMBED Equation.DSMT4  （    　）
+【考点】分数混合运算         【难度】2星         【题型】计算
+【关键词】华杯赛，决赛
+0.1　　
+【答案】 EMBED Equation.DSMT4  
+计算  EMBED Equation.DSMT4  
+【考点】分数混合运算         【难度】2星         【题型】计算
+原式= EMBED Equation.DSMT4  = EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   
+【考点】分数混合运算         【难度】3星         【题型】计算
+【关键词】小学数学夏令营
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  _______． 
+【考点】分数混合运算         【难度】3星         【题型】计算
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  _______． 
+【考点】分数混合运算         【难度】3星         【题型】计算
+【关键词】希望杯，五年级，2试
+原式 EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+ EMBED EQUATION.DSMT4  
+【考点】分数混合运算         【难度】3星         【题型】计算
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   
+【答案】 EMBED Equation.DSMT4  
+计算： EMBED Equation.DSMT4  
+【考点】分数混合运算         【难度】3星         【题型】计算
+原式 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  ，其中（ ）应填        
+【考点】分数混合运算         【难度】3星         【题型】计算
+【关键词】走美杯，6年级，决赛
+右边 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，左式 EMBED Equation.DSMT4  所以，（   ） EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+计算  EMBED Equation.DSMT4   
+【考点】分数混合运算         【难度】3星         【题型】计算
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+分数小数混合计算
+计算 EMBED Equation.DSMT4  
+【考点】分数小数混合运算         【难度】3星         【题型】计算
+原式 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4   
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算： EMBED Equation.DSMT4  ． 
+【考点】分数小数混合运算         【难度】3星         【题型】计算
+【关键词】迎春杯，初赛
+原式 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+计算： ① 18.3×0.25+5.3÷0.4-7.13 = (　);　　② EMBED Equation.DSMT4  = (　)。
+【考点】分数小数混合运算         【难度】3星         【题型】计算
+【关键词】华杯赛，总决赛，一试
+10.695；1
+【答案】10.695；1
+请计算： EMBED Equation.DSMT4  
+【考点】分数小数混合运算         【难度】3星         【题型】计算
+【关键词】华杯赛，初赛
+原式＝ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+请将下面算式结果写成带分数： EMBED Equation.DSMT4  
+【考点】分数小数混合运算         【难度】2星         【题型】计算
+【关键词】华杯赛，初赛
+原式 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算  EMBED Equation.DSMT4  
+【考点】分数小数混合运算         【难度】2星         【题型】计算
+原式= EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算： EMBED Equation.DSMT4  .
+【考点】分数小数混合运算         【难度】3星         【题型】计算
+原式 EMBED Equation.DSMT4  .⑵原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  
+计算  EMBED Equation.DSMT4  
+【考点】分数小数混合运算         【难度】3星         【题型】计算
+原式= EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算  EMBED Equation.DSMT4  
+【考点】分数小数混合运算         【难度】3星         【题型】计算
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算： EMBED Equation.DSMT4  的值为多少? 
+【考点】分数小数混合运算         【难度】3星         【题型】计算
+【关键词】迎春杯
+原式 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算（1） EMBED Equation.DSMT4   
+（2） EMBED Equation.DSMT4  
+（3） EMBED Equation.DSMT4  
+【考点】分数小数混合运算         【难度】3星         【题型】计算
+如果按照算式中的运算顺序进行运算，势必太麻烦.当我们观察出：
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  时，本题运用乘法的结合律、分配律可以很       	快地算出结果.
+（1）原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+（2）原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+（3）原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】（1）158000         （2） EMBED Equation.DSMT4           （3） EMBED Equation.DSMT4  
+计算： EMBED Equation.DSMT4  
+【考点】分数小数混合运算         【难度】3星         【题型】计算
+【关键词】迎春杯，决赛
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算： EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  
+【考点】分数小数混合运算         【难度】3星         【题型】计算
+ EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算：  EMBED Equation.DSMT4  ． 
+【考点】分数小数混合运算         【难度】3星         【题型】计算
+【关键词】迎春杯，决赛
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+计算： EMBED Equation.DSMT4  
+【考点】分数小数混合运算         【难度】3星         【题型】计算
+【关键词】小学数学奥林匹克竞赛
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算： EMBED Equation.DSMT4  
+【考点】分数小数混合运算         【难度】3星         【题型】计算
+⑴  EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【考点】分数小数混合运算         【难度】3星         【题型】计算
+本题观察发现除以 EMBED Equation.DSMT4  相当于乘以3.6则公因数就出来了
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算 EMBED Equation.DSMT4  
+【考点】分数小数混合运算         【难度】3星         【题型】计算
+【关键词】希望杯，1试
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+繁分数计算与复杂分数化简
+计算： EMBED Equation.DSMT4  ________． 
+【考点】反分数计算与复杂分数化简         【难度】3星         【题型】计算
+【关键词】华杯赛，决赛
+
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算   EMBED Equation.DSMT4   
+【考点】反分数计算与复杂分数化简         【难度】3星         【题型】计算
+原式＝ EMBED Equation.DSMT4  ÷ EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+算式 EMBED Equation.DSMT4  等于（　） 　A. 3　　B. 2　　C. 1　　D. 0
+【考点】反分数计算与复杂分数化简         【难度】2星         【题型】选择
+【关键词】华杯赛，初赛
+原式＝ EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  ＝2　 
+【答案】 EMBED Equation.DSMT4  
+计算： EMBED Equation.DSMT4  
+【考点】反分数计算与复杂分数化简         【难度】3星         【题型】计算
+【关键词】华杯赛，初赛
+原式= EMBED Equation.DSMT4        EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算：EMBED Equation.DSMT4=               
+【考点】反分数计算与复杂分数化简         【难度】3星         【题型】计算
+【关键词】华杯赛，五年级，决赛
+原式=EMBED Equation.DSMT4 EMBED Equation.DSMT4 EMBED Equation.DSMT4 EMBED Equation.DSMT4
+【答案】 EMBED Equation.DSMT4  
+设 EMBED Equation.DSMT4  ，其中a、b、c、d都是非零自然数，则a＋b＋c＋d＝___.
+【考点】反分数计算与复杂分数化简         【难度】3星         【题型】计算
+【关键词】华杯赛，总决赛，二试
+ EMBED Equation.DSMT4  
+　       ∴a＋b＋c＋d＝2＋3＋5＋9＝19
+【答案】 EMBED Equation.DSMT4  
+计算  EMBED Equation.DSMT4   
+【考点】反分数计算与复杂分数化简         【难度】3星         【题型】计算
+原式 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算： EMBED Equation.DSMT4  
+【考点】反分数计算与复杂分数化简         【难度】3星         【题型】计算
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算  EMBED Equation.DSMT4  
+【考点】反分数计算与复杂分数化简         【难度】3星         【题型】计算
+原式= EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   
+【考点】反分数计算与复杂分数化简         【难度】3星         【题型】计算
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4          ． 
+【考点】反分数计算与复杂分数化简         【难度】3星         【题型】计算
+【关键词】华杯赛，复赛
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算： EMBED Equation.3          ． 
+【考点】反分数计算与复杂分数化简         【难度】3星         【题型】计算
+观察发现分子和分母的项数相同，各有98项，且分子分母中对应项的分数的分母相同，进一步观察分子分母中相对应的数，可以发现分母中的数恰好都是分子中的数的2倍．于是，
+原式 EMBED Equation.3  
+【答案】 EMBED Equation.DSMT4  
+计算： EMBED Equation.DSMT4           
+【考点】反分数计算与复杂分数化简         【难度】3星         【题型】计算
+【关键词】迎春杯，六年级，初赛
+
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算： EMBED Equation.DSMT4  ________
+【考点】反分数计算与复杂分数化简         【难度】3星         【题型】计算
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4  
+             EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+教师寄语：拼一个春夏秋冬，换一生无怨无悔。
+
+
+
+
+分数的四则混合运算综合
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+ PAGE  \* MERGEFORMAT 12
+
+
+

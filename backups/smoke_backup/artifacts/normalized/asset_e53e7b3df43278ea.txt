@@ -1,0 +1,186 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+掌握最值中的数字谜的技巧
+能够综合运用数论相关知识解决数字谜问题
+
+ SHAPE  \* MERGEFORMAT 
+
+数字谜中的最值问题常用分析方法
+
+数字谜一般分为横式数字谜和竖式数字谜．横式数字谜经常和数论里面的知识结合考察，有些时候也可以转化为竖式数字谜；
+竖式数字谜通常有如下突破口：末位和首位、进位和借位、个位数字、位数的差别等．
+数字谜的常用分析方法有：个位数字分析法、高位数字分析法、数字大小估算分析法、进位错位分析法、分解质因数法、奇偶分析法等．
+除了数字谜问题常用的分析方法外，还会经常采用比较法，通过比较算式计算过程的各步骤，得到所求的最值的可能值，再验证能否取到这个最值．
+数字谜问题往往综合了数字的整除特征、质数与合数、分解质因数、个位数字、余数、分数与小数互化、方程、估算、找规律等题型。 
+
+ SHAPE  \* MERGEFORMAT 
+
+有四个不同的数字，用它们组成最大的四位数和最小的四位数，这两个四位数之和是11469，那么其中最小的四位数是多少？
+【考点】加减法的进位与借位   【难度】3星   【题型】填空  
+设这四个数字是 EMBED Equation.DSMT4  ，如果 EMBED Equation.DSMT4  ，用它们组成的最大数与最小数的和式是 EMBED Equation.DSMT4  ，由个位知 EMBED Equation.DSMT4  ，由于百位最多向千位进1，所以此时千位的和最多为10，与题意不符．所以 EMBED Equation.DSMT4  ，最大数与最小数的和式为 EMBED Equation.DSMT4  ，由此可得 EMBED Equation.DSMT4  ，百位没有向千位进位，所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ．所以最小的四位数 EMBED Equation.DSMT4  是2049．
+【答案】2049	
+
+将一个四位数的数字顺序颠倒过来，得到一个新的四位数，如果新数比原数大7902，那么所有符合这样条件的四位数中原数最大的是       ．
+ EMBED Equation.DSMT4  
+【考点】加减法的进位与借位   【难度】4星   【题型】填空   
+用 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别表示原数的千位、百位、十位、个位数字，按题意列减法算式如上式．从首位来看 EMBED Equation.DSMT4  只能是1或2， EMBED Equation.DSMT4  是8或9；从末位来看， EMBED Equation.DSMT4  ，得 EMBED Equation.DSMT4  ，所以只能是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．被减数的十位数 EMBED Equation.DSMT4  ，要被个位借去1，就有 EMBED Equation.DSMT4  ． EMBED Equation.DSMT4  最大能取9，此时 EMBED Equation.DSMT4  为8，因此，符合条件的原数中，最大的是1989．
+【答案】1989
+
+在下面的算式中， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别代表1～9中的数字，不同的字母代表不同的数字，恰使得加法算式成立．则三位数 EMBED Equation.DSMT4  的最大可能值是        ．
+ EMBED Equation.DSMT4  
+【考点】加减法的进位与借位   【难度】4星   【题型】填空  
+可以看出， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  或16．若 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别为2和4，此时 EMBED Equation.DSMT4  ，只能是 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别为3或7，此时 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  只能分别取 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，但此时1、2、3、4均已取过，不能再取，所以 EMBED Equation.DSMT4  不能为6， EMBED Equation.DSMT4  ．这时 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别为9和7；且 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以它们可以取 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  两组．要使 EMBED Equation.DSMT4  最大，百位、十位、个位都要尽可能大，因此 EMBED Equation.DSMT4  的最大可能值为659．事实上 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  最大为659．
+【答案】659
+
+如图，相同的汉字代表相同的数字，不同的汉字代表不同的数字，那么四位数“奥林匹克”最大是        
+ EMBED Equation.DSMT4  
+【考点】加减法的进位与借位   【难度】4星   【题型】填空
+【关键词】学而思杯，6年级，1试，第2题
+显然“ EMBED Equation.DSMT4  ”，所以“ EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ”，如果“ EMBED Equation.DSMT4  ”，则四位数与三位数的和超过 EMBED Equation.DSMT4  ，显然不符合条件，所以“ EMBED Equation.DSMT4  ”，所以“ EMBED Equation.DSMT4  ”，如果“ EMBED Equation.DSMT4  ”那么“ EMBED Equation.DSMT4  ”，“ EMBED Equation.DSMT4  ”，不符合条件，所以“ EMBED Equation.DSMT4  ”最大只能是 EMBED Equation.DSMT4  ，所以“ EMBED Equation.DSMT4  ”，为了保证不同的汉字代表不同的数字，“ EMBED Equation.DSMT4  ”最大是 EMBED Equation.DSMT4  ，所以“奥林匹克”最大是 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+下面是一个 EMBED Equation.DSMT4  进制中的加法算式，其中不同的字母表示不同的数，求 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  的值．
+ EMBED Equation.DSMT4  
+【考点】加减法的进位与借位   【难度】5星   【题型】填空  
+由于算式中出现5个不同的数字，所以 EMBED Equation.DSMT4  至少为5．在 EMBED Equation.DSMT4  进制中，就像在10进制中一样，两个四位数相加得到一个五位数，那么这个五位数的首位只能为1(因为这两个四位数都小于10000，它们的和小于20000，故首位为1)，即 EMBED Equation.DSMT4  ．由于 EMBED Equation.DSMT4  最大为 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，即两个四位数的首位向上位进 EMBED Equation.DSMT4  后最多还剩下 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  最大为 EMBED Equation.DSMT4  ，又因为不同的字母表示不同的数， EMBED Equation.DSMT4  不能 EMBED Equation.DSMT4  与相同，所以 EMBED Equation.DSMT4  只能为 EMBED Equation.DSMT4  ．则 EMBED Equation.DSMT4  ，末位向上进1位； EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ，不向上进位，所以 EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ，得 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ．所以 EMBED Equation.DSMT4  为5， EMBED Equation.DSMT4  为42130．
+【答案】 EMBED Equation.DSMT4  为5， EMBED Equation.DSMT4  为42130
+
+右式中的 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  分别代表0～9中的一个数码，并且满足 EMBED Equation.DSMT4  ，被加数最大是多少？
+ EMBED Equation.DSMT4  
+【考点】加减法的进位与借位   【难度】4星   【题型】填空  
+若 EMBED Equation.DSMT4  ，则由竖式知 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，不满足 EMBED Equation.DSMT4  ；若 EMBED Equation.DSMT4  ，则由竖式知 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，代入 EMBED Equation.DSMT4  ，得 EMBED Equation.DSMT4  ．由此推知 EMBED Equation.DSMT4  最大为40， EMBED Equation.DSMT4  最大为 EMBED Equation.DSMT4  ．
+【答案】35
+
+下式中的 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  分别代表0～9中的一个数码，并且满足 EMBED Equation.DSMT4  ，被减数最小是多少？
+ EMBED Equation.DSMT4    
+【考点】加减法的进位与借位   【难度】4星   【题型】填空  
+若 EMBED Equation.DSMT4  ，则由竖式知 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，不满足 EMBED Equation.DSMT4  ；若 EMBED Equation.DSMT4  ，则由竖式知 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，代入 EMBED Equation.DSMT4  ，得 EMBED Equation.DSMT4  ．由 EMBED Equation.DSMT4  知 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  最小为42．
+【答案】42
+
+从1—9这9个数字中选出8个不同的数字填入右面的方格中，使得竖式成立．其中的四位数最大可能是　      　．
+ INCLUDEPICTURE "http://beijing.neworiental.org/Portals/24/C_Info/ImageFile/84496/2010-01/04.jpg" \* MERGEFORMATINET 
+【考点】加减法的进位与借位   【难度】3星   【题型】填空
+【关键词】迎春杯，三年级，初赛，第9题
+由题目可知，四位数的千位数字肯定是1，此时还剩下2～9这8个数字，再看三个数的个位数字之和的尾数为0，可找出三个数的个位数字有以下几种情况，（2，3，5）、（3，8，9）、（4，7，9）、（5，6，9）、（5，7，8）.经试验，只有两种情况下竖式成立.而题目要求四位数最大，所以答案为1759.
+ INCLUDEPICTURE "http://beijing.neworiental.org/Portals/24/C_Info/ImageFile/84496/2010-01/05.jpg" \* MERGEFORMATINET 　　　　 INCLUDEPICTURE "http://beijing.neworiental.org/Portals/24/C_Info/ImageFile/84496/2010-01/06.jpg" \* MERGEFORMATINET 
+【答案】 EMBED Equation.DSMT4  
+
+如图，在加法算式中，八个字母“ EMBED Equation.DSMT4  ”分别代表0到9中的某个数字，不同的字母代表不同的数字，使得算式成立，那么四位数“ EMBED Equation.DSMT4  ”的最大值是多少？
+ EMBED Equation.DSMT4  
+【考点】加减法的进位与借位   【难度】5星   【题型】填空  
+【关键词】清华附中，入学测试题
+原式为 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ．为了使 EMBED Equation.DSMT4  最大，则前两位 EMBED Equation.DSMT4  先尽量大，由于 EMBED Equation.DSMT4  小于100，所以 EMBED Equation.DSMT4  最大可能为80．若 EMBED Equation.DSMT4  ，则继续化简为 EMBED Equation.DSMT4  ．现在要使 EMBED Equation.DSMT4  尽量大．由于8和0已经出现，所以此时 EMBED Equation.DSMT4  最大为 EMBED Equation.DSMT4  ，此时出现重复数字，可见 EMBED Equation.DSMT4  小于76．而 EMBED Equation.DSMT4  符合题意，所以此时 EMBED Equation.DSMT4  最大为75， EMBED Equation.DSMT4  的最大值为8075．
+【答案】8075
+
+把 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，…， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  这十个数字填到下列加法算式中四个加数的方格内，要求每个数字各用一次，那么加数中的三位数的最小值是多少？
+                                            EMBED Equation.DSMT4  
+【考点】加减法的进位与借位   【难度】5星   【题型】填空  
+【关键词】湖北省“创新杯”
+从式中可以看出，千位上的方框中的数为 EMBED Equation.DSMT4  ，那么百位上两方框中的数再加上低位进位的和为 EMBED Equation.DSMT4  ．由于三位数的百位上不能为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，所以要使三位数最小，它的百位应该为 EMBED Equation.DSMT4  ，十位应该为 EMBED Equation.DSMT4  ．那么十位向百位的进位为 EMBED Equation.DSMT4  ，所以四位数的百位为 EMBED Equation.DSMT4  ，且十位上三个方框中的数之和再加上个位的进位的和为 EMBED Equation.DSMT4  ．又剩下的数字 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  中除 EMBED Equation.DSMT4  只向十位进 EMBED Equation.DSMT4  外，其余任选四数字的和都大于 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  的尾数不为 EMBED Equation.DSMT4  ，所以个位上四个数字不能是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以个位向十位进位为 EMBED Equation.DSMT4  ，也就是十位上的三个方框中的数的和为 EMBED Equation.DSMT4  (其中有一个为 EMBED Equation.DSMT4  )，而剩下的 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  中只有 EMBED Equation.DSMT4  ，所以个位上的四个方框中的数为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，那么加数中的三位数最小为 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+如图，相同的汉字代表相同的数字，不同的汉字代表不同的数字．“美妙数学花园”代表的 EMBED Equation.DSMT4  位数最小为          ．
+ EMBED Equation.DSMT4  
+【考点】加减法的进位与借位   【难度】5星   【题型】填空
+【关键词】走美杯，3年级，决赛，第9题，12分
+ “好”为 EMBED Equation.DSMT4  ，要使算式满足则必有(美 EMBED Equation.DSMT4  数 EMBED Equation.DSMT4  花 EMBED Equation.DSMT4  。要使“美妙数学花园”代表的 EMBED Equation.DSMT4  位数最小，则美 EMBED Equation.DSMT4  数 EMBED Equation.DSMT4  花 EMBED Equation.DSMT4  ，妙 EMBED Equation.DSMT4  学 EMBED Equation.DSMT4  园 EMBED Equation.DSMT4  ．即“美妙数学花园”代表的 EMBED Equation.DSMT4  位数最小为 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+面算式由1～9中的8个组成，相同的汉字表示相同的数，不同的汉字表示不同的数.那么“数学解题”与“能力”的差的最小值是__________.
+
+【考点】加减法的进位与借位   【难度】3星   【题型】填空
+【关键词】迎春杯，中年级，复试，11题
+为了让“数学解题”与“能力”的差最小，应该让“数学解题”尽量小，也就是让“能力”和“展示”尽量大，其中较大的应是“能力”，那么“数学解题”最小应该是一千八百多，“能”应该是9，“展”应该是7，于是“解题”+“力”+“示”=2010-1800-90-70=50，所以“解”应该是4，那么“题”+“力”+“示”=10，那么只能是2+3+5，为了“数学解题”与“能力”的差最小，让“题”=2，“力”=5，于是“数学解题”-“能力”=1842-95=1757.
+【答案】 EMBED Equation.DSMT4  
+
+右边的加法算式中，每个“□”内有一个数字，所有“ EMBED Equation.DSMT4  ”内的数字之和最大可达到            。
+
+【考点】加减法的进位与借位   【难度】5星   【题型】填空
+【关键词】希望杯，五年级，初赛，第5题，5分
+末尾和最大24，十位和最大18，百位和最大18，24+18+18=60
+【答案】 EMBED Equation.DSMT4  
+
+将数字1至9分别填入右边竖式的方格内使算式成立(每个数字恰好使用一次)，那么加数中的四位数最小是多少？
+ EMBED Equation.DSMT4  
+【考点】加减法的进位与借位   【难度】6星   【题型】填空  
+【关键词】 “迎春杯”，高年级组，复赛
+9个方框中的数之和为45．三个加数的个位数字之和可能是8，18；十位数字之和可能是9，10，19，20；百位数字之和可能是8，9，10，其中只有 EMBED Equation.DSMT4  ．所以三个加数的个位数字之和为18，十位数字之和为19，百位数字之和为8．要使加数中的四位数最小，尝试在它的百位填1，十位填2，此时另两个加数的百位只能填3，4；则四位数的加数个位可填5，另两个加数的十位可填8，9，个位可填6，7，符合条件，所以加数中的四位数最小是1125．
+【答案】最小是1125
+
+在右边的加法算式中，若每个字母均表示0到9中的一个数字，任意两个字母表示的数字都不相同，也不与算式中已有的数字相同，则 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  乘积的最大值是多少？
+ EMBED Equation.DSMT4  
+【考点】加减法的进位与借位   【难度】6星   【题型】填空  
+本题把数字谜与奇偶性、最值问题巧妙地结合在一起，可以从奇偶性方面来分析.考虑加法算式的个位，若个位不进位，则四个数字 EMBED Equation.DSMT4  之和为 EMBED Equation.DSMT4  ，是偶数；若个位进位，则四个数字 EMBED Equation.DSMT4  之和为 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，还是偶数．所以 EMBED Equation.DSMT4  为偶数，又 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  为奇数．如果加法算式中个位不进位，那么 EMBED Equation.DSMT4  ，这样 EMBED Equation.DSMT4  为偶数，与上面的分析矛盾，所以加法算式中个位向十位进奇数位，只能是1位，故 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，得 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  可能为2、6或3、5，乘积为12或15，故 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  乘积的最大值是15．
+另解：因为 EMBED Equation.DSMT4  ，等号两边除以9的余数相等，所以等号两边的各个数字的和除以9的余数相等，而所有数字的和是9的倍数，所以两边都是9的倍数，即 EMBED Equation.DSMT4  是9的倍数，由于 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，再根据“和一定，差小积大”，所以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的取值为3、5时， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  乘积的最大值是15．
+【答案】15
+
+右式中不同的汉字代表l一9中不同的数字，当算式成立时，“中国”这两个汉字所代表的两位数最大是多少?
+
+【考点】加减法的进位与借位   【难度】3星   【题型】填空
+【关键词】华杯赛，初赛，第3题
+ “新”必为9，千位才能得2，所以“中”应为8.“国”、“京”、“运”之和应为8或18，但当和为18时，（“国”、“京”、“运”分别为7，6，5），“中”、“北”、“奥”之和最大为15（“中”、“北”、“奥”分别为8，4，3），不能进位2，所以“国”、“京”、“运”之和只能是8，此时，“北”、“奥”只能分别为7和5，则“国”、“京”、“运”分别为4、3、1，为使“中国”代表的两位数最大，“国”取4.即“中国”这两个汉字所代表的两位数最大是84.
+【答案】 EMBED Equation.DSMT4  
+
+华杯赛网址是 EMBED Equation.DSMT4  ，将其中的字母组成如下算式： EMBED Equation.DSMT4  ，如果每个字母分别代表0～9这十个数字中的一个，相同的字母代表相同的数字，不同的字母代表不同的数字，并且 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，则三位数 EMBED Equation.DSMT4  的最小值是        ．
+【考点】   【难度】星   【题型】填空
+【关键词】华杯赛，初赛
+根据题意可知， EMBED Equation.DSMT4  ，有 EMBED Equation.DSMT4  ，此时 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  只能取0，1，2，3，4，5．
+ EMBED Equation.DSMT4  的最小值为1， EMBED Equation.DSMT4  的最小值为0， EMBED Equation.DSMT4  最小取2，若 EMBED Equation.DSMT4  ，此时 EMBED Equation.DSMT4  最大只能取2，矛盾；所以 EMBED Equation.DSMT4  至少为3，若 EMBED Equation.DSMT4  ，此时 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，符合条件，所以三位数 EMBED Equation.DSMT4  的最小值是103．
+另解：此题也可采用弃九法．等式 EMBED Equation.DSMT4  两边除以9的余数相同，左边除以9的余数与 EMBED Equation.DSMT4  除以9的余数相同，即与 EMBED Equation.DSMT4  除以9的余数相同；右边除以9的余数为1，所以 EMBED Equation.DSMT4  除以9的余数为1．而 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，除以9的余数为1，可见 EMBED Equation.DSMT4  除以9的余数为3，那么 EMBED Equation.DSMT4  只能为3．
+由于 EMBED Equation.DSMT4  的最小值为1， EMBED Equation.DSMT4  的最小值为0，所以三位数 EMBED Equation.DSMT4  的最小可能值是103；又当 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ，所以三位数 EMBED Equation.DSMT4  的最小值就是103．
+【答案】 EMBED Equation.DSMT4  
+
+在下面的表1中，一条直线穿过其中若干个方格，穿过的方格中各数之和为 EMBED Equation.DSMT4  。请你在表2中画一条直线，穿过其中若干个方格。穿过的方格中各数之和最大是        。
+
+表1              表2
+【考点】加减法的进位与借位   【难度】3星   【题型】填空
+【关键词】迎春杯，中年级，复赛，第9题
+首先应考虑尽可能穿过较多的方格，也就是说可以穿过一条对角线和它旁边的三格： 主对角线14+7+10+6和一侧的17+11+9，总和为74； 副对角线8+11+13+3和一侧的18+10+12，总和为75。 再看看能否做优化：观察到前一种方法中可以舍弃10和6而取18，总和增加2，这样总和为76。而后一种方法无法再做优化，所以最大值为76。
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+5-1-2-4.最值的数字谜（一）.题库	                        教师版                           page  PAGE 9 of  NUMPAGES 9
+
+
+
+5-1-2-4.最值中的数字谜（一）
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

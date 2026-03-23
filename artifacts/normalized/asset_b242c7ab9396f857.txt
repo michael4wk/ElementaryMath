@@ -1,0 +1,260 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+数字谜是杯赛中非常重要的一块，特别是迎春杯，数字谜是必考的，一般学生在做数字谜的时候都采用尝试的方式，但是这样会在考试中浪费很多时间．本模块主要讲乘除竖式数字谜的解题方法，学会通过找突破口来解决问题．最后通过例题的学习，总结解数字谜问题的关键是找到合适的解题突破口．在确定各数位上的数字时，首先要对填写的数字进行估算，这样可以缩小取值范围，然后再逐一检验，去掉不符合题意的取值，直到取得正确的解答． 
+
+ SHAPE  \* MERGEFORMAT 
+
+数字谜定义:一般是指那些含有未知数字或未知运算符号的算式．
+
+数字谜突破口：这种不完整的算式，就像“谜”一样，要解开这样的谜，就得根据有关的运算法则，数的性质（和差积商的位数，数的整除性，奇偶性，尾数规律等）来进行正确的推理，判断．
+
+解数字谜：一般是从某个数的首位或末位数字上寻找突破口．推理时应注意：
+⑴ 数字谜中的文字，字母或其它符号，只取 EMBED Equation.DSMT4  中的某个数字；
+⑵ 要认真分析算式中所包含的数量关系，找出尽可能多的隐蔽条件；
+⑶ 必要时应采用枚举和筛选相结合的方法（试验法），逐步淘汰掉那些不符合题意的数字；
+⑷ 数字谜解出之后，最好验算一遍．
+
+ SHAPE  \* MERGEFORMAT 
+
+模块一、与数论结合的数字谜
+（1）、特殊数字
+如图，不同的汉字代表不同的数字，其中“变”为1，3，5，7，9，11，13这七个数的平均数，那么“学习改变命运”代表的多位数是             ．
+ EMBED Equation.DSMT4  
+【考点】与数论结合的数字谜之特殊数字   【难度】2星   【题型】填空
+【关键词】学而思杯，4年级，第9题
+ “变”就是7， EMBED Equation.DSMT4    
+【答案】 EMBED Equation.DSMT4  
+
+右边是一个六位乘以一个一位数的算式，不同的汉字表示不同的数，相同的汉字表示相同的数，其中的六位数是______ 。
+
+【考点】与数论结合的数字谜之特殊数字   【难度】3星   【题型】填空
+【关键词】希望杯，4年级，初赛，20题
+赛×赛的个位是9，赛=3或7，赛=3，小学希望杯赛=333333，不合题意，舍去；故赛=7，小学希望杯赛=999999÷7=142857
+【答案】 EMBED Equation.DSMT4  
+
+右面算式中相同的字母代表相同的数字，不同的字母代表不同的数字，问A和E各代表什么数字？
+
+【考点】与数论结合的数字谜之特殊数字   【难度】3星   【题型】填空
+由于被乘数的最高位数字与乘数相同，且乘积为 EMBED Equation.DSMT4  ,是重复数字根据重复数字的特点拆分，
+将其分解质因数后为： EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  或者是 EMBED Equation.DSMT4  
+①若A＝3，因为3×3＝9，则E＝1，而个位上1×3＝3≠1，因此，A≠3。
+⑤若A＝7，因为7×7＝49，49＋6＝55，则E＝5.个位上，5×7＝35，写5进3.十位上，因为6×7+3＝45，所以D＝6.百位上，因为3×7＋4＝25，所以C＝3.千位上，因为9×7＋2＝65，所以B＝9.万位上，因为7×7＋6＝55，所以得到该题的一个解。
+
+所以，A＝7，E＝5。
+【答案】A＝7，E＝5
+
+下页算式中不同的汉字表示不同的数字，相同的汉字表示相同的数字，则符合题意的数“华罗庚学校赞”是什么？
+
+【考点】与数论结合的数字谜之特殊数字   【难度】3星   【题型】填空
+本题是 EMBED Equation.DSMT4  ，数几个数字的轮换应用和7的秘密数字特点相同，所以本题的好的结果在：2≤好≤6，经过试验得到答案是
+
+　  　  则“华罗庚学校赞”=428571或857142。
+【答案】“华罗庚学校赞”=428571或857142
+
+如图相同字母表示相同的数字，不同字母表示不同的数字。两位数 EMBED Equation.DSMT4  
+    
+【考点】与数论结合的数字谜之特殊数字   【难度】3星   【题型】填空  
+【关键词】走美杯，3年级，初赛
+ EMBED Equation.DSMT4  ,因此 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  中必有一个是37的倍数，只能是37或74。经试验，只有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  满足要求。 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+“迎杯×春杯=好好好”在上面的乘法算式中,不同的汉字表示不同的数字,相同的汉字表示相同的数字。那么“迎+春+杯+好”之和等于多少? 
+【考点】与数论结合的数字谜之特殊数字   【难度】3星   【题型】填空  
+好好好=好×111=好×3×37，100以内37的倍数只有37和74，所以“迎杯”或“春杯”中必有1个是37或74，判断出“杯”是7或4。 若 杯=7，则好=9，999/37=27，所以，迎+春+杯+好=3+2+7+9=21 若 杯=4，则好=6，666/74=9，不是两位数，不符合题意 。迎+春+杯+好=3+2+7+9=21。
+【答案】迎+春+杯+好=3+2+7+9=21
+
+在下面的算式中，每一个汉字代表一个数字，不同的汉字表示不同的数字，当“开放的中国盼奥运”代表什么数时，算式成立？盼盼盼盼盼盼盼盼盼÷ EMBED Equation.DSMT4  =开放的中国盼奥运
+【考点】与数论结合的数字谜之特殊数字   【难度】3星   【题型】填空  
+这是一道除法算式题.因为盼盼盼盼盼盼盼盼盼是“□”的倍数，且又为9的倍数，所以“□”可能为3或9.
+①若“ EMBED Equation.DSMT4  ”=3，则盼盼盼盼盼盼盼盼盼÷3的商出现循环，且周期为3，这样就出现重复数字，
+因此“ EMBED Equation.DSMT4  ”≠3。
+　　    ②若“ EMBED Equation.DSMT4  ”=9，因为 盼盼盼盼盼盼盼盼盼÷9=盼×（111111111÷9）=盼×12345679
+　　若“盼”=1，则“开放的中国盼奥运”=12345679×1=12345679，“盼”=6，前后矛盾，所以“盼”≠1。
+　　若“盼”=2，则“开放的中国盼奥运”=12345679×2=24691358，“盼”=3，矛盾，所以“盼”≠2。
+　　若“盼”=3，则“开放的中国盼奥运”=12345679×3=37037037，“盼”=0，矛盾，所以“盼”≠3。
+　　若“盼”=4，则“开放的中国盼奥运”=12345679×4=49382716，“盼”=7，矛盾，所以“盼”≠4。
+　　若“盼”=5，则“开放的中国盼奥运”=12345679×5=61728395，“盼”＝3，矛盾，所以“盼”≠5。
+　　若“盼”=6，则“开放的中国盼奥运”=12345679×6=74074074，则“盼”＝0，矛盾，所以“盼”≠6。
+若“盼”=7，则“开放的中国盼奥运”=12345679×7=86419753，“盼”=7，
+得到一个解：777777777÷9=86419753
+　　若“盼”＝8，则“开放的中国盼奥运”=12345679×8＝98765432，“盼”=4，矛盾，所以“盼”≠8。
+　　若“盼”＝9 ，则“开放的中国盼奥运”＝12345679×9=111111111，“盼”=1，矛盾，所以“盼”≠9。
+　　解：777777777÷9＝86419753
+　　则“开放的中国盼奥运”＝86419753。
+【答案】“开放的中国盼奥运”＝86419753
+（2）整除性质
+如图是一个等式：等式中的汉字代表数字，不同的汉字代表不同的数字，每个汉字是1、2、3、4、5、6、7、8、9中的一个，问：“学而思五年级”所代表的六位整数是什么？学而思杯×5=五年级试题×4
+【考点】与数论结合的数字谜之整除性质   【难度】3星   【题型】填空
+【关键词】学而思杯，5年级，第8题
+因为5和4互质，所以“五年级试题”一定可以被5整除，所以“题”应该是5或者0，但是数字只能是1~9，所以“题”表示的数字是5，因为“学而思杯”最大是9876，所以“五年级试题”最大是12345，但是可以发现“五年级试题”用1~9组成的最小数就是12345，所以“五年级试题”只能是12345，“学而思五年级”所代表的五位整数是987123。
+【答案】 EMBED Equation.DSMT4  
+
+右边算式中， EMBED Equation.DSMT4  表示同一个数字，在各个 EMBED Equation.DSMT4  中填入适当的数字，使算式完整．那么两个乘数的差(大数减小数)是       
+ EMBED Equation.DSMT4  
+【考点】与数论结合的数字谜之整除性质   【难度】3星   【题型】填空 
+由 EMBED Equation.DSMT4  能被 EMBED Equation.DSMT4  整除及只有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的个位是 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  可能为1，3，7或9，而且 EMBED Equation.DSMT4  可分解成11与1个一位数和一个两位数的乘积．分别检验1111、1331、1771、1991，只有1771满足： EMBED Equation.DSMT4  ，可知原式是 EMBED Equation.DSMT4  ．所以两个乘数的差是 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+下面的算式中，同一个汉字代表同一个数字，不同的汉字代表不同的数字，团团×圆圆=大熊猫则“大熊猫”代表的三位数是______.
+【考点】与数论结合的数字谜之整除性质   【难度】2星   【题型】填空
+【关键词】华杯赛，初赛，10分
+由于团团=团×11，圆圆=圆×11，所以大熊猫=团团×圆圆=团×圆×121，也就是说“大熊猫”这个三位数是121的倍数，那么“团×圆”应当小于9（ 否则9×121=1089为四位数），所以“团×圆”最大为8.由于“团×圆”为一位数，“团×圆”再与121相乘即得到“大熊猫”，所以“大熊猫”的个位数字“猫”就等于“团×圆”，而百位数字与个位数字不相同，所以十位必须要向百位进位，即“团×圆”与2相乘至少为10，所以“团×圆”至少为5.另外“团×圆”不能为质数，否则“团”、“圆”中有一个为1，而“猫”等于“团×圆”，则“猫”与“团”、“圆”中的另一个相等，不合题意。“团×圆”至少为5，最大为8，又不能是质数，且“团”、“圆”都不为1，那么“团×圆”可能为6或8.如果为6，则“团”、“圆”分别为2和3，“大熊猫”为6×121=726，“熊”与“团”、“圆”中的一个数相同，不合题意；如果为8，则“团”、“圆”分别为2和4，“大熊猫”为8×121=968，满足题意。所以“大熊猫”代表的三位数为968.
+【答案】 EMBED Equation.DSMT4  
+
+在如图所示的乘法算式中，汉字代表1至9这9个数字，不同汉字代表不同的数字．若“祝”字和“贺”字分别代表数字“4”和“8”，求出“华杯赛”所代表的整数．
+ EMBED Equation.DSMT4  
+【考点】与数论结合的数字谜之整除性质   【难度】3星   【题型】填空  
+根据题意可知“祝”、“贺”、“华”、“杯”、“赛”、“第”、“十”、“四”、“届”这9个汉字恰好代表1～9这9个数字，那么它们的和为45．由于“祝”、“贺”分别代表4和8，那么“祝贺” EMBED Equation.DSMT4  是3的倍数，则“第十四届”也是3的倍数，这样它的各位数字之和之和也是3的倍数，可知“祝”、“贺”与“第”、“十”、“四”、“届”这6个数的和也是3的倍数，那么“华”、“杯”、“赛”这3个数和也是3的倍数，从而“华杯赛”这个三位数是3的倍数．由于“第十四届”等于48与“华杯赛”这两个3的倍数的乘积，所以它是9的倍数．从而“第”、“十”、“四”、“届”这4个数的和是9的倍数．由于“华”、“杯”、“赛”、“第”、“十”、“四”、“届”的总和为 EMBED Equation.DSMT4  ，所以“第”、“十”、“四”、“届”这4个数的和可能为27或18(它们的和显然大于9)，对应的“华”、“杯”、“赛”这3个数和是6或15．⑴如果“华”、“杯”、“赛”这3个数和是6，则“华”、“杯”、“赛”分别为1、2、3，如果“华”为2，则“华杯赛”至少为213，则 EMBED Equation.DSMT4  ，不是四位数，所以“华”只能为1，这样“华杯赛”可能为123和132，分别有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，都不符合；⑵如果“华”、“杯”、“赛”这3个数和是15，根据上面的分析可知“华”只能为1，这样“杯”、“赛”之和为14，可能为 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，由于“贺”为8，所以“杯”、“赛”分别为5和9，显然“赛”不能为5，则“华杯赛”为159。
+【答案】159
+
+一个六位数 EMBED Equation.DSMT4  ，如果满足 EMBED Equation.DSMT4  ，则称 EMBED Equation.DSMT4  为“迎春数”(如 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  就是“迎春数”).请你求出所有“迎春数”的总和. 
+【考点】与数论结合的数字谜之整除性质   【难度】4星   【题型】填空  
+方法一：显然， EMBED Equation.DSMT4  不小于4，原等式变形为 EMBED Equation.DSMT4  
+化简得 EMBED Equation.DSMT4  ，当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ，于是 EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  ．同理． EMBED Equation.DSMT4  ，6，7，8，9，可以得到 EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  .
+        所有的和是 EMBED Equation.DSMT4  ．
+方法二：显然， EMBED Equation.DSMT4  不小于4，若 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  末尾数字，所以 EMBED Equation.DSMT4  ；
+ EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  的末2位，所以 EMBED Equation.DSMT4  ；
+ EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  的末3位，所以 EMBED Equation.DSMT4  ；    
+ EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  的末4位，所以 EMBED Equation.DSMT4  ；
+ EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  的末5位，所以 EMBED Equation.DSMT4  ；
+于是 EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  ．
+同理． EMBED Equation.DSMT4  ，6，7，8，9，可以得到 EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  .
+        所有的和是 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+（3）、质数与合数
+每个方框内填入一个数字，要求所填数字都是质数，并使竖式成立？
+
+【考点】与数论结合的数字谜之质数与合数   【难度】4星   【题型】填空
+一位质数只有2、3、5、7，且两位数乘以三位数都需要进位，相乘个位为质数的只有3-5和5-7，逐步递推，答案775 EMBED Equation.DSMT4  33．
+【答案】775 EMBED Equation.DSMT4  33
+
+模块二、电子数字问题
+
+电子数字 EMBED Equation.DSMT4  如图所示，右图是由电子数字组成的乘法算式，但有一些模糊不清，请将右图的电子数字恢复，并将它写成横式形式：          
+   
+【考点】电子数字问题   【难度】5星   【题型】填空
+【关键词】迎春杯，四年级，初赛，第3题
+⑴可以看出乘积的百位可能是2或8，由于被乘数的十位和乘数都不能是9，最大可能为8，所以它们的乘积不超过 EMBED Equation.DSMT4  ，故乘积的首位不能为8，只能为 EMBED Equation.DSMT4  ；⑵被乘数的十位和乘数要与图中相符，只能是 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  首先可以排除，所以可能为2、6或8；⑶如果被乘数的十位是 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，那么乘数无论是 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，都不可能乘出百位是 EMBED Equation.DSMT4  的三位数．所以被乘数的十位是 EMBED Equation.DSMT4  ，相应得出乘数是 EMBED Equation.DSMT4  ；⑷被乘数应大于 EMBED Equation.DSMT4  ，可能为27、28或29，检验得到符合条件的答案： EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+电子数字0～9如图1所示，图2是由电子数字组成的乘法算式，但有一些已经模糊不清．请将图2的电子数字恢复，并将它写成横式：          ：
+
+【考点】电子数字问题   【难度】6星   【题型】填空
+设竖式如 EMBED Equation.DSMT4  ，那么各个字母可以代表的数如下表
+
+
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+
+
+
+
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+
+
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+
+
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+⑴ EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  或者 EMBED Equation.DSMT4  ；⑵若 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  ，并且 EMBED Equation.DSMT4  一定是 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，如果是 EMBED Equation.DSMT4  ，那么由于 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  进位，导致 EMBED Equation.DSMT4  ，产生矛盾；如果是 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  时 EMBED Equation.DSMT4  百位小于8， EMBED Equation.DSMT4  时 EMBED Equation.DSMT4  百位大于8，也产生矛盾；所以只有可能 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，并可以得到 EMBED Equation.DSMT4  ，考虑到 EMBED Equation.DSMT4  是三位数，所以 EMBED Equation.DSMT4  ，再根据 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  ，所得到的数式为 EMBED Equation.DSMT4  ．⑶若 EMBED Equation.DSMT4  ，则可以得到 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  (因为 EMBED Equation.DSMT4  )；⑷由于 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  或者 EMBED Equation.DSMT4  ．当 EMBED Equation.DSMT4  时，竖式 EMBED Equation.DSMT4  成立；当 EMBED Equation.DSMT4  时，竖式 EMBED Equation.DSMT4  成立。
+【答案】 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+5-1-2-3.乘除法数字谜（二）.题库	                        教师版                           page  PAGE 8 of  NUMPAGES 8
+
+
+
+5-1-2-3.乘除法数字谜（二）
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,210 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+能够利用短除法分解
+整数唯一分解定理：让学生自己初步领悟“任何一个数字都可以表示为 EMBED Equation.DSMT4  的结构，而且表达形式唯一”
+ SHAPE  \* MERGEFORMAT 
+
+一、质因数与分解质因数
+（1）.质因数：如果一个质数是某个数的约数，那么就说这个质数是这个数的质因数.
+（2）.互质数：公约数只有1的两个自然数，叫做互质数.
+（3）.分解质因数：把一个合数用质因数相乘的形式表示出来，叫做分解质因数.
+例如： EMBED Equation.DSMT4  .其中2、3、5叫做30的质因数.又如 EMBED Equation.DSMT4  ，2、3都叫做12的质因数，其中后一个式子叫做分解质因数的标准式，在求一个数约数的个数和约数的和的时候都要用到这个标准式.分解质因数往往是解数论题目的突破口，因为这样可以帮助我们分析数字的特征.
+（4）.分解质因数的方法：短除法
+例如： EMBED Equation.DSMT4  ，（┖是短除法的符号） 所以 EMBED Equation.DSMT4  ；
+二、唯一分解定理
+任何一个大于1的自然数n都可以写成质数的连乘积，即： EMBED Equation.DSMT4  其中为质数， EMBED Equation.DSMT4  为自然数，并且这种表示是唯一的.该式称为n的质因子分解式.
+例如：三个连续自然数的乘积是210，求这三个数.
+分析：∵210=2×3×5×7，∴可知这三个数是5、6和7.
+三、部分特殊数的分解
+ EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  .
+ SHAPE  \* MERGEFORMAT 
+
+模块一、分数的拆分
+算式“ EMBED Equation.DSMT4  ＋ EMBED Equation.DSMT4  ＋ EMBED Equation.DSMT4  ＝1”中，不同的汉字表示不同的自然数，则“希＋望＋杯”＝       。
+【考点】分数的拆分   【难度】1星   【题型】填空
+【关键词】希望杯，五年级，初赛，第19题，6分
+三个分数中一定有大于三分之一的，那个数是二分之一，剩下的两个数必有一个大于四分之一，即是三分之一，那么剩下的只能是六分之一.希+望+杯=2+3+6=11
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  个质数的倒数之和是 EMBED Equation.DSMT4  ，则这 EMBED Equation.DSMT4  个质数之和为多少．
+【考点】分数的拆分   【难度】3星   【题型】解答
+设这 EMBED Equation.DSMT4  个质数从小到大为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，它们的倒数分别为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ，计算它们的和时需通分，且通分后的分母为 EMBED Equation.DSMT4  ，求和得到的分数为 EMBED Equation.DSMT4  ,如果这个分数能够约分，那么得到的分数的分母为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  或它们之间的积.现在和为 EMBED Equation.DSMT4  ，分母 EMBED Equation.DSMT4  ，所以一定是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，检验满足.所以这 EMBED Equation.DSMT4  个质数的和为 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+一个分数，分母是 EMBED Equation.DSMT4  ，分子是一个质数．现在有下面两种方法：⑴ 分子和分母各加一个相同的一位数；⑵ 分子和分母各减一个相同的一位数．用其中一种方法组成一个新分数，新分数约分后是 EMBED Equation.DSMT4  ．那么原来分数的分子是多少． 
+【考点】分数的拆分   【难度】3星   【题型】解答
+因为新分数约分后分母是 EMBED Equation.DSMT4  ，而原分母为 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  ，所以分母是加上 EMBED Equation.DSMT4  或者减去 EMBED Equation.DSMT4  ．若是前者则原来分数分子为 EMBED Equation.DSMT4  ，但 EMBED Equation.DSMT4  ，不是质数；若是后者则原来分数分子是 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  是质数．所以原来分数分子为 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+将1到9这9个数字在算式 EMBED Equation.DSMT4  的每一个括号内各填入一个数字，使得算式成立，并且要求所填每一个括号内数字均为质数? 
+【考点】分数的拆分   【难度】4星   【题型】填空
+本题中括号内所填的数字要求为个位质数，那么只能是2，3，5，7.将原始代入字母分析有 EMBED Equation.DSMT4  ，即有 EMBED Equation.DSMT4  ，那么很容易发现只有3×5-2×7=1。符合原式的填法为 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+求满足条件 EMBED Equation.DSMT4  的a、b的值(a、b都是四位数)． 
+【考点】分数的拆分   【难度】4星   【题型】解答
+取1001的两个不同约数x、 EMBED Equation.DSMT4  ，得到：
+ EMBED Equation.DSMT4  ，因为x、y都是1001的约数，所以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  都是整数．所以只需令 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  就可以了．而a、b都要大于1001，要保证a、b都是四位数，所以a、b的比值都要小于10，即x、y的比值小于10．而1001的两个互质且比值小于10的约数有以下几组： EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ．所以我们依次取x、y为上面所列的数对中的数，代入a、b的表达式，得到本题的答案：
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+若 EMBED Equation.DSMT4  ，其中a、b都是四位数，且a<b，那么满足上述条件的所有数对（a,b）是       
+【考点】分数的拆分   【难度】4星   【题型】填空  
+2004的约数有：1,2004,2,1002,3,668,4,501，满足题意的分拆有：
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+
+在下面的括号里填上不同的自然数，使等式成立．
+（1） EMBED Equation.DSMT4  ；
+（2） EMBED Equation.DSMT4  
+【考点】分数的拆分   【难度】4星   【题型】填空
+单位分数的拆分，主要方法是从分母 EMBED Equation.DSMT4  的约数中任意找出两个数 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，有：
+            EMBED Equation.DSMT4  ，
+从分母 EMBED Equation.DSMT4  的约数中任意找出两个 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4   ( EMBED Equation.DSMT4  )，有：
+ EMBED Equation.DSMT4  
+ 本题 EMBED Equation.DSMT4  的约数有： EMBED Equation.DSMT4  ，10，2，5．
+例如：选1和2，有： EMBED Equation.DSMT4  ；
+	从上面变化的过程可以看出，如果取出的两组不同的 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，它们的数值虽然不同，但是如果 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  	的比值相同，那么最后得到的 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  也是相同的．本题中，从10的约数中任取两个数， 共有 EMBED Equation.DSMT4  种，但是其中比值不同的只有5组：(1，1)；(1，2)；(1，5)；(1，10)；(2，5)，所以本题共可拆分成5组．具体的解如下：
+		    EMBED Equation.DSMT4  ．
+⑵ 	10的约数有1、2、5、10，我们可选2和5：
+        EMBED Equation.DSMT4  
+        另外的解让学生去尝试练习．
+【答案】（1） EMBED Equation.DSMT4  
+       （2） EMBED Equation.DSMT4  
+
+如果 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  均为正整数，则 EMBED Equation.DSMT4  最大是多少？
+【考点】分数的拆分   【难度】4星   【题型】填空
+【关键词】101中学，分班考试
+ 从前面的例题我们知道，要将 EMBED Equation.DSMT4  按照如下规则写成 EMBED Equation.DSMT4  的形式：
+ EMBED Equation.DSMT4  ，其中 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  都是 EMBED Equation.DSMT4  的约数。
+ 如果要让 EMBED Equation.DSMT4  尽可能地大，实际上就是让上面的式子中的 EMBED Equation.DSMT4  尽可能地小而 EMBED Equation.DSMT4  尽可能地大，因此应当
+  EMBED Equation.DSMT4  取最大的约数，而 EMBED Equation.DSMT4  应取最小的约数，因此 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】分数的拆分   【难度】4星   【题型】填空
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+在下面的括号里填上不同的自然数，使等式成立．
+ EMBED Equation.DSMT4  
+【考点】分数的拆分   【难度】4星   【题型】填空
+先选10的三个约数，比如5、2和1，表示成连减式 EMBED Equation.DSMT4  和连加式 EMBED Equation.DSMT4  ．
+则： EMBED Equation.DSMT4  
+如果选10、5、2，那么有： EMBED Equation.DSMT4  ．
+另外，对于这类题还有个方法，就是先将单位分数拆分，拆成两个单位分数的和或差，再将其中的一个单位分数拆成两个单位分数的和或差，这样就将原来的单位分数拆成了3个单位分数的和或差了．比如，要得到 EMBED Equation.DSMT4  ，根据前面的拆分随意选取一组，比如 EMBED Equation.DSMT4  ，再选择其中的一个分数进行拆分，比如 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+已知等式 EMBED Equation.DSMT4  其中a，b是非零自然数，求a+b的最大值。
+【考点】分数的拆分   【难度】5星   【题型】填空
+【关键词】华杯赛，决赛，第13题
+易知， EMBED Equation.DSMT4  ，令（m，n）为互质的一对数，现在要让分母为1，只需m，n是15的一对互质的约数即可。
+当(m，n)=（1，1）时， EMBED Equation.DSMT4  ，此时，a+b=60；
+当(m，n)=（1，3）时， EMBED Equation.DSMT4  ，此时，a+b=80；
+当(m，n)=（1，5）时， EMBED Equation.DSMT4  ，此时，a+b=108；
+当(m，n)=（1，15）时， EMBED Equation.DSMT4  ，此时，a+b=256；
+当(m，n)=（3，5）时	， EMBED Equation.DSMT4  ，此时，a+b=64；所以，a+b的最大值为256。
+【答案】 EMBED Equation.DSMT4  
+模块四、分解质因数的综合应用
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  都是整数， EMBED Equation.DSMT4  大于 EMBED Equation.DSMT4  ，且 EMBED Equation.DSMT4  ,那么 EMBED Equation.DSMT4  的最大值为          ，最小值为          。
+【考点】   【难度】   【题型】填空
+【关键词】走美杯，3年级，初赛
+ EMBED Equation.DSMT4  
+最大值为 EMBED Equation.DSMT4  
+最小值为 EMBED Equation.DSMT4  
+【答案】最大为 EMBED Equation.DSMT4  ，最小为 EMBED Equation.DSMT4  
+
+写出所有数字和为11，数字乘积为20的四位偶数：________．
+【考点】   【难度】   【题型】填空
+【关键词】走美杯，3年级，初赛
+本题属于数字拆分，目的就是讲11拆成四个数字和，20拆成4个数字的乘积，需要确定的是个位数字为偶数。根据拆分的特点应该从20开始拆分。先将20分解质因数为： EMBED Equation.DSMT4  ，所以各个数位数字乘积为20的数字有：2、2、5、1；4、5、1、1；数字和分别为10和11，符合条件的是4、5、1、1这四个数字组成的四位偶数，所以答案为1154、1514、5114这3个答案。
+【答案】1154、1514、5114
+
+在做一道两位数乘以两位数的乘法题时，小马虎把一乘数中的数字5看成8，由此得乘积为1872．那么原来的乘积是多少? 
+【考点】分解质因数的综合应用   【难度】3星   【题型】解答
+1872=2×2×2×2×3×3×13=口口×口口，其中某个口为8，一一验证只有：1872=48×39，1872=78×24满足．当为1872=48×39时，小马虎错把5看成8，也就是错把45看成48，所以正确的乘积应该是45×39=1755．当为1872=78×24时，小马虎错把5看成8，也就是错把75看成78，所以正确的乘积应该是75×24=1800．所以原来的积为1755或1800．
+【答案】1755或1800
+
+两个学生抄写同一个乘法算式，两个乘数都是两位数，他们各抄错了一个数字，于是得到两个不同的算式，但巧合的是，他们计算的结果都是936.如果正确的乘积不能被6整除，那么它等于多少？ 
+【考点】分解质因数的综合应用   【难度】4星   【题型】解答
+注意936中有质因数13，故易见将其分解成两个两位数相乘的形式有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  这5种可能，由于两人各抄错了一个数字，因此两人的算式中应有两个位置上的数字相同.经枚举可知，他们所抄错的算式可能是( EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  )，( EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  )，( EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  )或( EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ).对于第一种情况，两人抄错的是第一个乘数的个位数字和第二个乘数的十位数字，正确的算式应是 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，后者乘积是6的倍数，与题意不符，故原算式应为前者，正确的乘法算式是 EMBED Equation.DSMT4  .对后三种情况作类似分析，可得出 EMBED Equation.DSMT4  种可能的原乘法算式，但它们的结果都是6的倍数，不合题意.因此676即为所求.
+【答案】676
+
+在射箭运动中，每射一箭得到的环数或者是“0”(脱靶)，或者是不超过10的自然数．甲、乙两名运动员各射了5箭，每人5箭得到的环数的积都是1764，但是甲的总环数比乙少4环．求甲、乙的总环数各是多少？ 
+【考点】分解质因数的综合应用   【难度】4星   【题型】解答
+应对应为5个小于10的自然数乘积．通常我们会考虑将1764的6个质因数组合为5个因数，从而这5个因数一定都是大于1的，于是得到了如下几种分解情况1764=4×3×3×7×7 =2×6×3×7×7=2×2×9×7×7但是发现其中任何两组的和的差均不是4.原因是我们忽略了在题目叙述实际环境中还会有1环存在，从而要考虑含有因数1的另外2种情况1784=1×6×6×7×7=1×4×9×7×7．所以总的情况对应的和依次为4+3+3+7+7=24，2+6+3+7+7=25，2+2+9+7+7=27，1+6+6+7+7=27，l+4+9+7+7=28．对应的和中只有24，28相差4，所以甲的5箭环数为4、3、3、7、7，乙的5箭环数为1、4、9、7、7．所以甲的总环数为24，乙的总环数为28。
+【答案】甲的总环数为24，乙的总环数为28
+
+某校师生为贫困地区捐款1995元．这个学校共有35名教师，14个教学班．各班学生人数相同且多于30人不超过45人．如果平均每人捐款的钱数是整数，那么平均每人捐款多少元? 
+【考点】分解质因数的综合应用   【难度】3星   【题型】解答
+这个学校最少有35+14×30=455名师生，最多有35+14×45=665名师生，并且师生总人数能整除1995．1995=3×5×133，在455～665之间的约数只有5×133=665，所以师生总数为665人，则平均每人捐款1995÷665=3元．
+【答案】3
+
+张老师带领同学们去种树，学生的人数恰好等分成三组.已知老师和学生共种树312棵，老师与学生每人种的树一样多，并且不超过10棵.问：一共有多少学生？每人种了几棵树？
+【考点】分解质因数的综合应用   【难度】3星   【题型】解答
+因为总棵数是每人种的棵数和人数乘积，而每个人种的棵数又不超过10所以通过枚举法来解(注意人数是减去1后是3的倍数)： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  不是3的倍数； EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  不是3的倍数； EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  不是3的倍数； EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  不是3的倍数； EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  是3的倍数； EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  不是3的倍数；共有51个学生，每个人种了6棵树.
+【答案】共有51个学生，每个人种了6棵树
+
+某班同学在班主任老师带领下去种树，学生恰好平均分成三组，如果老师与学生每人种树一样多，共种了1073棵，那么平均每人种了棵树？
+【考点】分解质因数的综合应用   【难度】3星   【题型】解答
+因为总棵数是每人种的棵数和人数的乘积，所以首先想到的是把1073数相乘，一个数为人数一个数为每人种的棵数， EMBED Equation.DSMT4  ，注意到人数是减去1是3倍数，所以人数是37均每人种了29棵。
+【答案】29
+
+幼儿园里给小朋友分苹果，420个苹果正好均分。但今天刚好又新人园一位小朋友，这样每个小朋友就要少分2个苹果。原来有    个小朋友。
+【考点】分解质因数的综合应用    【难度】3星   【题型】填空
+【关键词】走美杯，6年级，决赛，第8题，10分
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+上式中只有14×30=(14+1)(30-2)=15×28符合题意，所以原有14个小朋友。
+【答案】 EMBED Equation.DSMT4  
+
+2006个弹珠，平均分给若干个人，正好分完．若有1人退出，不参加分球，并且弹珠增加10个，则每人可以多分8个．原来有             人． 
+【考点】分解质因数的综合应用    【难度】4星   【题型】填空
+【关键词】走美杯，5年级，决赛，第4题，8分
+对2006进行分解质因式，得到2006=2×17×59；对2016进行分解质因式得到，  2016= EMBED Equation.DSMT4  ，发现只有16到17相差1人。经验证符合条件，所以原来有17人。
+【答案】 EMBED Equation.DSMT4  人
+
+已知， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  这 EMBED Equation.DSMT4  个质数互不相同，并且符合下面的算式： EMBED Equation.DSMT4  ，那么，这 EMBED Equation.DSMT4  个数当中最大的数至多是        。
+【考点】分解质因数的综合应用   【难度】5星   【题型】填空
+【关键词】学而思杯，5年级，第4题
+ EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  中只有一个偶数。如果 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  中没有 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  均为偶数，矛盾，所以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  中有一个为 EMBED Equation.DSMT4  ，不妨设 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  只能为 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  。如果 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  ，而 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  均大于 EMBED Equation.DSMT4  ，只有分解成 EMBED Equation.DSMT4  才有可能，但此时 EMBED Equation.DSMT4  ，得 EMBED Equation.DSMT4  为合数，与题意不符；如果 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  ，可能为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  。若为前者， EMBED Equation.DSMT4  将为合数，所以只能是后者，得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  至少为 EMBED Equation.DSMT4  ，所以最大为 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+5-3-4.分解质因数.题库	                        教师版                           page  PAGE 8 of  NUMPAGES 8
+
+
+
+5-3-4.分解质因数
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

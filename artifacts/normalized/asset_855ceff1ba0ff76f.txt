@@ -1,0 +1,154 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+板块一  任意四边形模型
+
+任意四边形中的比例关系(“蝴蝶定理”)：
+
+① EMBED Equation.DSMT4  或者 EMBED Equation.DSMT4  ② EMBED Equation.DSMT4  
+
+蝴蝶定理为我们提供了解决不规则四边形的面积问题的一个途径．通过构造模型，一方面可以使不规则四边形的面积关系与四边形内的三角形相联系；另一方面，也可以得到与面积对应的对角线的比例关系．
+
+图中的四边形土地的总面积是52公顷，两条对角线把它分成了4个小三角形，其中2个小三角形的面积分别是6公顷和7公顷．那么最大的一个三角形的面积是多少公顷？
+    
+
+
+
+
+
+
+
+如图，某公园的外轮廓是四边形ABCD，被对角线AC、BD分成四个部分，△AOB面积为1平方千米，△BOC面积为2平方千米，△COD的面积为3平方千米，公园由陆地面积是6．92平方千米和人工湖组成，求人工湖的面积是多少平方千米？
+
+
+
+
+一个矩形分成4个不同的三角形（如右图），绿色三角形面积占矩形面积的15％，黄色三角形的面积是21平方厘米．问：矩形的面积是多少平方厘米？
+
+【巩固】如图，四边形被两条对角线分成4个三角形，其中三个三角形的面积已知，求：⑴三角形 EMBED Equation.DSMT4  的面积；⑵ EMBED Equation.DSMT4  ？
+
+
+
+
+
+四边形 EMBED Equation.DSMT4  的对角线 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  交于点 EMBED Equation.DSMT4  (如图所示)．如果三角形 EMBED Equation.DSMT4  的面积等于三角形 EMBED Equation.DSMT4  的面积的 EMBED Equation.DSMT4  ，且 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  的长度是 EMBED Equation.DSMT4  的长度的_________倍．
+     
+
+
+
+
+
+
+如图，平行四边形 EMBED Equation.DSMT4  的对角线交于 EMBED Equation.DSMT4  点， EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  的面积依次是2、4、4和6．求：⑴求 EMBED Equation.DSMT4  的面积；⑵求 EMBED Equation.DSMT4  的面积．
+
+
+
+
+
+
+
+
+如图相邻两个格点间的距离是1，则图中阴影三角形的面积为        ．
+        
+
+
+
+
+【巩固】如图，每个小方格的边长都是1，求三角形 EMBED Equation.DSMT4  的面积．
+
+如图，边长为1的正方形 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，求三角形 EMBED Equation.DSMT4  的面积．
+    
+
+
+
+
+
+
+
+如图，长方形 EMBED Equation.DSMT4  中， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，三角形 EMBED Equation.DSMT4  的面积为 EMBED Equation.DSMT4  平方厘米，求长方形 EMBED Equation.DSMT4  的面积．
+    
+
+
+
+
+
+
+
+如图，已知正方形 EMBED Equation.DSMT4  的边长为10厘米， EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  中点， EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  中点， EMBED Equation.DSMT4  为 EMBED Equation.DSMT4  中点，求三角形 EMBED Equation.DSMT4  的面积．
+    
+
+
+
+
+
+如图，在 EMBED Equation.DSMT4  中，已知 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  分别在边 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  上， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  相交于 EMBED Equation.DSMT4  ,若 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  的面积分别是3、2、1，则 EMBED Equation.DSMT4  的面积是      ．
+
+
+
+
+
+
+
+
+正六边形 EMBED Equation.DSMT4  的面积是2009平方厘米， EMBED Equation.DSMT4  分别是正六边形各边的中点；那么图中阴影六边形的面积是        平方厘米．
+    
+
+
+
+
+
+如图，ABCD是一个四边形，M、N分别是AB、CD的中点．如果△ASM、△MTB与△DSN的面积分别是6、7和8，且图中所有三角形的面积均为整数，则四边形ABCD的面积为         ．
+       
+
+
+
+
+
+
+
+
+已知 EMBED Equation.DSMT4  是平行四边形， EMBED Equation.DSMT4  ，三角形 EMBED Equation.DSMT4  的面积为 EMBED Equation.DSMT4  平方厘米。则阴影部分的面积是        平方厘米。
+
+
+
+
+
+
+
+
+正方形ABCD边长为6厘米，AE＝ EMBED Equation.DSMT4  AC，CF＝ EMBED Equation.DSMT4  BC。三角形DEF的面积为    平方厘米。
+
+
+
+
+
+
+
+如图4，在三角形ABC中，已知三角形ADE、三角形DCE、三角形BCD的面积分别是89、28、26，那么三角形DBE的面积是        。
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+4-3-3.任意四边形、梯形与相似模型 题库	                            学生版                         page  PAGE 5 of  NUMPAGES 5
+
+
+
+任意四边形、梯形与相似模型
+
+例题精讲
+
+
+

@@ -1,0 +1,125 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+1．对扶梯问题中顺(逆)扶梯速度、扶梯速度、人的速度的理解。
+2．在扶梯的相遇与追及问题中引入消元思想。
+3．解决行程问题时画线段图可以帮助解题。
+ SHAPE  \* MERGEFORMAT 
+一、扶梯问题说明
+扶梯问题与流水行船问题十分相像，区别只在与这里的速度并不是我们常见的“千米每小时”，或者“米每秒”，而是“每分钟走多少个台阶”，或是“每秒钟走多少个台阶”。从而在扶梯问题中“总路程”并不是求扶梯有多少“千米”或者多少“米”，而是求扶梯的“静止时可见台阶总数”。
+二、扶梯问题解题关键
+1、当人顺着扶梯的运动方向走台阶时，相当与流水行船中的“顺水行驶”，这里的水速就是扶梯自身的台阶运行速度。有：人的速度+扶梯速度=人在扶梯上的实际速度
+扶梯静止可见台阶总数=时间×人速+时间×扶梯速=人走的台阶数+扶梯自动运行的台阶数
+2、当人沿着扶梯逆行时，有：人的速度-扶梯速度=人在扶梯上的实际速度
+扶梯静止可见台阶总数=时间×人速-时间×扶梯速=人走的台阶数-扶梯自动运行的台阶数。
+
+小明站着不动乘电动扶梯上楼需EMBED Equation.DSMT4秒，如果在乘电动扶梯的同时小明继续向上走需12秒，那么电动扶梯不动时，小明徒步沿扶梯上楼需多少秒？
+【考点】行程问题之扶梯问题           【难度】3星          【题型】解答
+电梯每秒完成EMBED Equation.DSMT4，电梯加小明徒步上楼每秒完成EMBED Equation.DSMT4，小明徒步上楼每秒完成EMBED Equation.DSMT4，所以小明徒步上楼需EMBED Equation.DSMT4(秒)
+【答案】EMBED Equation.DSMT4秒
+
+如果在乘电动扶梯的同时小明继续向上走需12秒到达楼上，如果在乘电动扶梯的同时小明逆着向下走需EMBED Equation.DSMT4秒到达楼下（千万别模仿！），那么电动扶梯不动时，小明徒步沿扶梯上楼需多少秒？
+【考点】行程问题之扶梯问题           【难度】3星          【题型】解答 
+小明徒步走的速度是EMBED Equation.DSMT4，所以小明徒步上楼需EMBED Equation.DSMT4(秒).
+【答案】EMBED Equation.DSMT4秒
+
+在地铁车站中，从站台到地面有一架向上的自动扶梯．小强乘坐扶梯时，如果每秒向上迈一级台阶，那么他走过EMBED Equation.DSMT4级台阶后到达地面；如果每秒向上迈两级台阶，那么走过EMBED Equation.DSMT4级台阶到达地面．从站台到地面有        级台阶．
+【考点】行程问题之扶梯问题           【难度】3星          【题型】填空 
+小强每秒走一阶，需要EMBED Equation.DSMT4秒；每秒走2阶，需要EMBED Equation.DSMT4秒．
+设电梯每秒钟需要走EMBED Equation.DSMT4阶，由电梯长度可得：EMBED Equation.DSMT4，解得EMBED Equation.DSMT4．
+那么扶梯长度为EMBED Equation.DSMT4（阶）．
+本题非常类似于“牛吃草问题”，如将题目改为： “在地铁车站中，从站台到地面有一架向上的自动扶梯．小强乘坐扶梯时，如果每秒向上迈一级台阶，那么他走过20秒后到达地面；如果每秒向上迈两级台阶，那么走过15秒到达地面．问：从站台到地面有多少级台阶？”
+采用牛吃草问题的方法，电梯EMBED Equation.DSMT4秒内所走的阶数等于小强多走的阶数：EMBED Equation.DSMT4阶，电梯的速度为EMBED Equation.DSMT4阶/秒，扶梯长度为EMBED Equation.DSMT4（阶）．
+【答案】EMBED Equation.DSMT4阶
+
+在地铁车站中，从站台到地面架设有向上的自动扶梯．小强想逆行从上到下，如果每秒向下迈两级台阶，那么他走过EMBED Equation.DSMT4级台阶后到达站台；如果每秒向下迈三级台阶，那么走过EMBED Equation.DSMT4级台阶到达站台．自动扶梯有多少级台阶?
+【考点】行程问题之扶梯问题           【难度】3星          【题型】解答 
+设50秒扶梯向上走EMBED Equation.DSMT4级，则25秒走EMBED Equation.DSMT4级．由扶梯长度可得EMBED Equation.DSMT4．
+解得 EMBED Equation.DSMT4  ．扶梯长 EMBED Equation.DSMT4   (级)。
+【答案】 EMBED Equation.DSMT4  级
+
+小丁在捷运站搭一座电扶梯下楼．如果他向下走EMBED Equation.DSMT4阶，则需时EMBED Equation.DSMT4秒即可由电扶梯顶到达底部；如果他向下走EMBED Equation.DSMT4阶，则需时EMBED Equation.DSMT4秒即可由电扶梯顶到达底部．请问这座电扶梯有几阶？
+【考点】行程问题之扶梯问题           【难度】4星          【题型】解答 
+【关键词】台湾小学数学竞赛，决赛
+首先从题中可以看出两种情况下小丁的速度是不相同的，否则两次走过的阶数之比为EMBED Equation.DSMT4，时间之比也应该为EMBED Equation.DSMT4才对．
+既然小丁的速度有变化，那么应该考虑其中的不变量，也就是电扶梯的速度不变．假设这座电扶梯有EMBED Equation.DSMT4阶，那么在第一种情况下电扶梯走了EMBED Equation.DSMT4阶，第二种情况下电扶梯走了EMBED Equation.DSMT4阶，根据电扶梯的速度相同可得EMBED Equation.DSMT4，解得EMBED Equation.DSMT4．
+即这座电扶梯有49阶．
+【答案】49阶
+
+在商场里，小明从正在向上移动的自动楼梯顶部下EMBED Equation.DSMT4级台阶到达底部，然后从底部上EMBED Equation.DSMT4级台阶回到顶部．自动楼梯从底部到顶部的台阶数是不变的，假设小明单位时间内下的台阶数是他上的台阶数的EMBED Equation.DSMT4倍．则该自动楼梯从底到顶的台阶数为       ．
+【考点】行程问题之扶梯问题           【难度】4星          【题型】解答 
+本题要知道向上与向下的时间之比(即是电梯运行时间的比)，可用量化思想．EMBED Equation.DSMT4，设该自动楼梯从底到顶的台阶数为EMBED Equation.DSMT4级，自动楼梯的速度为EMBED Equation.DSMT4级/单位时间．则有：EMBED Equation.DSMT4，解得EMBED Equation.DSMT4．即该自动楼梯从底到顶的台阶数为108级．
+【答案】108级
+
+商场的自动扶梯以匀速由下往上行驶，两个孩子在行驶的扶梯上上下走动，女孩由下往上走，男孩由上往下走，结果女孩走了EMBED Equation.DSMT4级到达楼上，男孩走了EMBED Equation.DSMT4级到达楼下．如果男孩单位时间内走的扶梯级数是女孩的EMBED Equation.DSMT4倍，则当该扶梯静止时，可看到的扶梯梯级有多少级？
+【考点】行程问题之扶梯问题           【难度】4星          【题型】解答 
+当电梯静止时，无论是由下往上，还是由上往下，两个孩子走的阶数都是电梯的可见阶数．当电梯运行时，女孩所走的阶数与电梯同时间内所走的阶数之和等于电梯可见阶数，男孩所走的阶数与电梯同时间内所走的阶数之差也等于电梯可见阶数.
+因为男孩的速度是女孩速度的2倍，所以男孩走80阶到达楼下与女孩走40阶到达楼上所用时间相同，则在这段时间内，电梯所走的阶数也相同.有：
+EMBED Equation.DSMT4电梯走的阶数EMBED Equation.DSMT4电梯走的阶数，
+可得电梯走的阶数为EMBED Equation.DSMT4（阶），所以电梯可见阶数为EMBED Equation.DSMT4（阶）.
+【答案】EMBED Equation.DSMT4阶
+
+商场的自动扶梯以匀速由下往上行驶，两个孩子在行驶的扶梯上上下走动，女孩由下往上走，男孩由上往下走，结果女孩走了40级到达楼上，男孩走了80级到达楼下．如果男孩单位时间内走的扶梯级数是女孩的3倍，则当该扶梯静止时，可看到的扶梯梯级有多少级？
+【考点】行程问题之扶梯问题           【难度】4星          【题型】解答 
+男孩与女孩走完电梯的时间比为：EMBED Equation.DSMT4．
+　　　　所以有     EMBED Equation.DSMT4电梯可见部分级数EMBED Equation.DSMT4电梯运行速度
+EMBED Equation.DSMT4电梯可见部分级数EMBED Equation.DSMT4电梯运行速度
+　　　　解得        电梯运行速度EMBED Equation.DSMT4(级)．
+　　　　所以电梯可见部分级数为：EMBED Equation.DSMT4(级)．
+【点评】本题的关键是求出男孩和女孩走完电梯的时间比，另外结合二元一次方程比较容易理解数量关系．请对比原例题，体会其中的数量关系．
+【答案】EMBED Equation.DSMT4级
+
+自动扶梯以均匀的速度由下往上行驶着，两位性急的孩子要从扶梯上楼，已知男孩每分走 EMBED Equation.DSMT4  级，女孩每分走 EMBED Equation.DSMT4  级，结果男孩用了 EMBED Equation.DSMT4  分到达楼上，女孩用了 EMBED Equation.DSMT4  分到达楼上．问该扶梯露在外面的部分共有多少级？
+【考点】行程问题之扶梯问题           【难度】4星          【题型】解答 
+男孩每分钟比女孩每分钟多行扶梯级数的EMBED Equation.DSMT4，相差EMBED Equation.DSMT4级，因此自动扶梯露在外面的部分共有EMBED Equation.DSMT4级．
+【答案】EMBED Equation.DSMT4级
+
+小志与小刚两个孩在电梯上的行走速度分别为每秒EMBED Equation.DSMT4个台阶和每秒EMBED Equation.DSMT4个台阶，电梯运行后，他俩沿电梯运行方向的相同方向从一楼走上二楼，分别用时EMBED Equation.DSMT4秒和EMBED Equation.DSMT4秒，那么如果小志攀登静止的电梯需要用时多少秒？
+【考点】行程问题之扶梯问题           【难度】4星          【题型】解答 
+小志和小刚顺向攀登运行的电梯分别都攀登了EMBED Equation.DSMT4级和EMBED Equation.DSMT4级，小刚比小志多走了EMBED Equation.DSMT4级，这4级台阶实际上是小志多走的8秒钟内，电梯“缩”进去的，因此电梯的运行速度为每秒半个台阶，那么在小刚登梯的20秒内，电梯也“缩”了10级，所以电梯所能见到的部分是60+10=70级，所以，小志攀登静止的电梯分别需要用时70÷2=35秒．
+【答案】35秒
+
+小淘气乘正在下降的自动扶梯下楼，如果他一级一级的走下去，从扶梯的上端走到下端需要走EMBED Equation.DSMT4级．如果小淘气沿原自动扶梯从下端走到上端(很危险哦，不要效仿!)，需要用下楼时EMBED Equation.DSMT4倍的速度走EMBED Equation.DSMT4级才能走到上端．请问这个自动扶梯在静止不动时有多少级?
+【考点】行程问题之扶梯问题           【难度】4星          【题型】解答 
+小淘气上楼走60级的时间，下楼只能走EMBED Equation.DSMT4(级)．而下楼走了36级，所以下楼用的时间是上楼时间的EMBED Equation.DSMT4(倍). 
+        设小淘气上楼的时间自动扶梯走了EMBED Equation.DSMT4级，则下楼的时间内自动扶梯走了EMBED Equation.DSMT4级．
+根据自动扶梯的级数可列方程：EMBED Equation.DSMT4，解得EMBED Equation.DSMT4(级)，
+自动扶梯有EMBED Equation.DSMT4(级)．
+【答案】EMBED Equation.DSMT4级
+
+甲在商场中乘自动扶梯从一层到二层，并在顺扶梯运行方向向上走，同时乙站在速度相等的并排扶梯从二层到一层．当甲乙处于同一高度时，甲反身向下走，结果他走了60级到达一层．如果他到了顶端再从“上行扶梯”返回，则要往下走80级．那么，自动扶梯不动时甲从下到上要走多少级？
+【考点】行程问题之扶梯问题           【难度】4星          【题型】解答 
+首先，由于第一种情况下甲往下走时走的总台阶数是第二种情况下的EMBED Equation.DSMT4，也就是说在相同时间内，自动扶梯由上往下走了两层高度的EMBED Equation.DSMT4，而甲和自动扶梯共同走了两层高度的EMBED Equation.DSMT4，说明第一种情况下，甲乙相遇时甲的高度是两层之间高度的EMBED Equation.DSMT4．那么可知甲和自动扶梯的速度和与自动扶梯的速度之比是EMBED Equation.DSMT4，说明甲走动的速度是扶梯速度的2倍．
+如果甲沿着扶梯向下走，那么整体的速度就和自动扶梯的速度一样，是整体向上走时速度的EMBED Equation.DSMT4，所用的时间就是向上走所用时间的3倍，那么甲所走的台阶数就是向上时所走台阶数的3倍．因此甲向上走时实际走了EMBED Equation.DSMT4级台阶．甲走EMBED Equation.DSMT4级台阶的同时自动扶梯向上移动了EMBED Equation.DSMT4级台阶，因此如果扶梯不动，甲从下到上要走EMBED Equation.DSMT4级台阶．
+【答案】EMBED Equation.DSMT4级
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+3-2-7.扶梯问题.题库	                                  教师版                                      page  PAGE 6 of  NUMPAGES 6
+
+
+
+扶梯问题
+
+教学目标
+
+知识精讲
+
+
+

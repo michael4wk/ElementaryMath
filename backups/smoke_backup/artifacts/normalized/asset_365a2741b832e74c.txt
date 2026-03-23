@@ -1,0 +1,137 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE  \* MERGEFORMAT 
+
+1.使学生正确理解排列的意义；
+2.了解排列、排列数的意义，能根据具体的问题，写出符合要求的排列；
+3.掌握排列的计算公式；
+4.会分析与数字有关的计数问题，以及与其他专题的综合运用，培养学生的抽象能力和逻辑思维能力；
+通过本讲的学习，对排列的一些计数问题进行归纳总结，并掌握一些排列技巧，如捆绑法等．
+
+ SHAPE  \* MERGEFORMAT 
+
+一、排列问题
+在实际生活中经常会遇到这样的问题，就是要把一些事物排在一起，构成一列，计算有多少种排法，就是排列问题．在排的过程中，不仅与参与排列的事物有关，而且与各事物所在的先后顺序有关．
+一般地，从 EMBED Equation.DSMT4  个不同的元素中取出 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )个元素，按照一定的顺序排成一列，叫做从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个元素的一个排列．
+根据排列的定义，两个排列相同，指的是两个排列的元素完全相同，并且元素的排列顺序也相同．如果两个排列中，元素不完全相同，它们是不同的排列；如果两个排列中，虽然元素完全相同，但元素的排列顺序不同，它们也是不同的排列．
+排列的基本问题是计算排列的总个数．
+从 EMBED Equation.DSMT4  个不同的元素中取出 EMBED Equation.DSMT4  ( EMBED Equation.DSMT4  )个元素的所有排列的个数，叫做从 EMBED Equation.DSMT4  个不同的元素的排列中取出 EMBED Equation.DSMT4  个元素的排列数，我们把它记做 EMBED Equation.DSMT4  ．
+根据排列的定义，做一个 EMBED Equation.DSMT4  元素的排列由 EMBED Equation.DSMT4  个步骤完成：
+步骤 EMBED Equation.DSMT4  ：从 EMBED Equation.DSMT4  个不同的元素中任取一个元素排在第一位，有 EMBED Equation.DSMT4  种方法；
+步骤 EMBED Equation.DSMT4  ：从剩下的( EMBED Equation.DSMT4  )个元素中任取一个元素排在第二位，有( EMBED Equation.DSMT4  )种方法；
+……
+步骤 EMBED Equation.DSMT4  ：从剩下的 EMBED Equation.DSMT4  个元素中任取一个元素排在第 EMBED Equation.DSMT4  个位置，有 EMBED Equation.DSMT4  (种)方法；
+由乘法原理，从 EMBED Equation.DSMT4  个不同元素中取出 EMBED Equation.DSMT4  个元素的排列数是 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，这里， EMBED Equation.DSMT4  ，且等号右边从 EMBED Equation.DSMT4  开始，后面每个因数比前一个因数小 EMBED Equation.DSMT4  ，共有 EMBED Equation.DSMT4  个因数相乘．
+
+二、排列数
+一般地，对于 EMBED Equation.DSMT4  的情况，排列数公式变为 EMBED Equation.DSMT4  ．
+表示从 EMBED Equation.DSMT4  个不同元素中取 EMBED Equation.DSMT4  个元素排成一列所构成排列的排列数．这种 EMBED Equation.DSMT4  个排列全部取出的排列，叫做 EMBED Equation.DSMT4  个不同元素的全排列．式子右边是从 EMBED Equation.DSMT4  开始，后面每一个因数比前一个因数小 EMBED Equation.DSMT4  ，一直乘到 EMBED Equation.DSMT4  的乘积，记为 EMBED Equation.DSMT4  ，读做 EMBED Equation.DSMT4  的阶乘，则 EMBED Equation.DSMT4  还可以写为： EMBED Equation.DSMT4  ，其中 EMBED Equation.DSMT4  ．
+ SHAPE  \* MERGEFORMAT 
+在排列问题中，有时候会要求某些物体或元素必须相邻；求某些物体必须相邻的方法数量，可以将这些物体当作一个整体捆绑在一起进行计算．
+
+4个男生2个女生6人站成一排合影留念，有多少种排法？如果要求2个女生紧挨着排在正中间有多少种不同的排法？ 
+【考点】排列之捆绑法          【难度】2星          【题型】解答 
+⑴ 4男2女6人站成一排相当于6个人站成一排的方法，可以分为六步来进行，第一步，确定第一个位置的人，有6种选择；第二步，确定第二个位置的人，有5种选择；第三步，排列第三个位置的人，有4种选择，依此类推，第六步，最后一个位置只有一种选择．根据乘法原理，一共有 EMBED Equation.DSMT4  种排法．
+⑵ 根据题意分为两步来排列．第一步，先排4个男生，一共有 EMBED Equation.DSMT4  种不同的排法；第二步，将2个女生安排完次序后再插到中间一共有2种方法．根据乘法原理，一共有 EMBED Equation.DSMT4  种排法．
+【答案】⑴ EMBED Equation.DSMT4                   ⑵ EMBED Equation.DSMT4  
+
+4男2女6个人站成一排合影留念，要求2个女的紧挨着有多少种不同的排法？ 
+【考点】排列之捆绑法          【难度】2星          【题型】解答 
+分为三步：
+第一步：4个男得先排，一共有 EMBED Equation.DSMT4  种不同的排法；
+第二步：2个女的排次序一共有2种方法；
+第三步：将排完次序的两名女生插到排完次序的男生中间，一共有5个位置可插．
+根据乘法原理，一共有 EMBED Equation.DSMT4  种排法．
+【答案】 EMBED Equation.DSMT4  
+
+将A、B、C、D、E、F、G七位同学在操场排成一列，其中学生B与C必须相邻．请问共有多少种不同的排列方法？
+【考点】排列之捆绑法          【难度】2星          【题型】解答 
+【关键词】2007年，台湾，第十一届，小学数学世界邀请赛
+（法 EMBED Equation.DSMT4  ）七人排成一列，其中 EMBED Equation.DSMT4  要与 EMBED Equation.DSMT4  相邻，分两种情况进行考虑．
+若 EMBED Equation.DSMT4  站在两端， EMBED Equation.DSMT4  有两种选择， EMBED Equation.DSMT4  只有一种选择，另五人的排列共有 EMBED Equation.DSMT4  种，所以这种情况有 EMBED Equation.DSMT4  种不同的站法．若 EMBED Equation.DSMT4  站在中间， EMBED Equation.DSMT4  有五种选择， EMBED Equation.DSMT4  无论在中间何处， EMBED Equation.DSMT4  都有两种选择．另五人的排列共有 EMBED Equation.DSMT4  种，所以这种情况共有 EMBED Equation.DSMT4  种不同的站法．
+所以共有 EMBED Equation.DSMT4  种不同的站法．
+（法 EMBED Equation.DSMT4  ）由于 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  必须相邻，可以把 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  当作一个整体来考虑，这样相当于 EMBED Equation.DSMT4  个元素的全排列，另外注意 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  内部有 EMBED Equation.DSMT4  种不同的站法，
+所以共有 EMBED Equation.DSMT4  种不同的站法．
+【答案】 EMBED Equation.DSMT4  	
+
+【巩固】6名小朋友 EMBED Equation.DSMT4  站成一排，若 EMBED Equation.DSMT4  两人必须相邻，一共有多少种不同的站法？若 EMBED Equation.DSMT4  两人不能相邻，一共有多少种不同的站法？ 
+【考点】排列之捆绑法          【难度】3星          【题型】解答 
+若A、B两人必须站在一起，那么可以用“捆绑”的思想考虑，甲和乙两个人占据一个位置，但在这个位置上，可以甲在左乙在右，也可以甲在右乙在左．因此站法总数为 EMBED Equation.DSMT4   QUOTE  =2×120=240（种）
+A、B两个人不能相邻与A、B两个人必须相邻是互补的事件，因为不加任何条件的站法总数为 QUOTE   EMBED Equation.DSMT4  =720（种），所以A、B两个人不能相邻的站法总数为720-240=480（种）．
+【答案】 EMBED Equation.DSMT4  
+
+某小组有12个同学，其中男少先队员有3人，女少先队员有 EMBED Equation.DSMT4  人，全组同学站成一排，要求女少先队员都排一起，而男少先队员不排在一起，这样的排法有多少种？ 
+【考点】排列之捆绑法          【难度】3星          【题型】解答 
+把 EMBED Equation.DSMT4  个女少先队员看成一个整体，将这个整体与不是少先队员的 EMBED Equation.DSMT4  名同学一块儿进行排列，有 EMBED Equation.DSMT4  (种)排法．然后在七个空档中排列 EMBED Equation.DSMT4  个男少先队员，有 EMBED Equation.DSMT4    EMBED Equation.DSMT4  (种)排法，最后 EMBED Equation.DSMT4  个女少先队员内部进行排列，有 EMBED Equation.DSMT4  (种)排法．由乘法原理，这样的排法一共有 EMBED Equation.DSMT4  (种)．
+【答案】 EMBED Equation.DSMT4  
+
+学校乒乓球队一共有4名男生和3名女生．某次比赛后他们站成一排照相，请问：
+（1）如果要求男生不能相邻，一共有多少不同的站法？
+（2）如果要求女生都站在一起，一共有多少种不同的站法？ 
+【考点】排列之捆绑法          【难度】3星          【题型】解答 
+ (1)要求男生不能相邻，则可以先排女生，然后把男生插进女生之间的空位里．因为有3名女生，考虑到两端也可以放人，所以一共有四个空位．则站法总数为：
+ EMBED Equation.DSMT4   QUOTE  （种）
+(2)根据题意，采用捆绑法，将所有女生看成一个整体，则站法总数为：
+ EMBED Equation.DSMT4  （种）．
+【答案】(1)  EMBED Equation.DSMT4               (2)  EMBED Equation.DSMT4  
+
+书架上有4本不同的漫画书，5本不同的童话书，3本不同的故事书，全部竖起排成一排，如果同类型的书不要分开，一共有多少种排法？如果只要求童话书和漫画书不要分开有多少种排法？
+【考点】排列之捆绑法          【难度】3星          【题型】解答 
+⑴每种书内部任意排序，分别有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  种排法，然后再排三种类型的顺序，有 EMBED Equation.DSMT4  种排法，整个过程分4步完成． EMBED Equation.DSMT4  种，一共有103680种不同排法．
+⑵方法一：首先将漫画书和童话书全排列，分别有 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  种排法，然后将漫画书和童话书捆绑看成一摞，再和3本故事书一起全排列，一共有 EMBED Equation.DSMT4  种排法，所以一共有 EMBED Equation.DSMT4  种排法．
+方法二：首先将三种书都全排列，分别有24、120、6种排法，然后将排好了顺序的漫画书和童话书，整摞得先后插到故事书中，插漫画书时有4个地方可以插，插童话书时就有5个地方可插，所以一共有 EMBED Equation.DSMT4  种排法．
+【答案】⑴103680                 ⑵ EMBED Equation.DSMT4  
+
+
+四年级三班举行六一儿童节联欢活动．整个活动由2个舞蹈、2个演唱和3个小品组成．请问：如果要求同类型的节目连续演出，那么共有多少种不同的出场顺序？ 
+【考点】排列之捆绑法          【难度】2星          【题型】解答 
+要求同类型的节目连续演出，则可以应用“捆绑法”．先对舞蹈、演唱、小品三种节目做全排列， 再分别在各类节目内部排列具体节目的次序．因此出场顺序总数为：
+ QUOTE   EMBED Equation.DSMT4  =144（种）．
+【答案】144
+
+停车站划出一排 EMBED Equation.DSMT4  个停车位置，今有 EMBED Equation.DSMT4  辆不同的车需要停放，若要求剩余的 EMBED Equation.DSMT4  个空车位连在一起，一共有多少种不同的停车方案? 
+【考点】排列之捆绑法          【难度】2星          【题型】解答 
+把 EMBED Equation.DSMT4  个空车位看成一个整体，与 EMBED Equation.DSMT4  辆车一块进行排列，这样相当于 EMBED Equation.DSMT4  个元素的全排列，所以共有 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+a，b，c，d，e五个人排成一排，a与b不相邻，共有多少种不同的排法？ 
+【考点】排列之捆绑法          【难度】2星          【题型】解答 
+解法一：插空法，先排 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，有 EMBED Equation.DSMT4  种排法．
+在 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  三个人之间有2个空，再加上两端，共有4个空， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  排在这4个空的位置上， EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  就不相邻，有 EMBED Equation.DSMT4  种排法．根据分步计数乘法原理，不同的排法共有 EMBED Equation.DSMT4  （种）．
+解法二：排除法，把 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  当作一个人和其他三个人在一起排列，再考虑 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  本身的顺序，有 EMBED Equation.DSMT4  种排法．总的排法为 EMBED Equation.DSMT4  ．总的排法减去 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  相邻的排法即为 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  不相邻的排法，应为 EMBED Equation.DSMT4  （种）．
+【答案】 EMBED Equation.DSMT4  
+
+8人围圆桌聚餐，甲、乙两人必须相邻，而乙、丙两人不得相邻，有几种坐法？ 
+【考点】排列之捆绑法          【难度】3星          【题型】解答 
+ EMBED Equation.DSMT4  人的环状排列与线状排列的不同之处在于： EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、…、 EMBED Equation.DSMT4  在线状排列里是 EMBED Equation.DSMT4  个不同的排列，而在环状排列中是相同的排列．所以， EMBED Equation.DSMT4  个不同的元素的环状排列数为 EMBED Equation.DSMT4  ．
+甲、乙两人必须相邻，可把他们看作是1人（当然，他们之间还有顺序），总排列数为 EMBED Equation.DSMT4  ．从中扣除甲、乙相邻且乙、丙也相邻（注意，这和甲、乙、丙三人相邻是不同的．如甲在乙、丙之间合于后者，但不合于前者）的情况 EMBED Equation.DSMT4  种．所以，符合题意的排法有 EMBED Equation.DSMT4  （种）．
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+PAGE  
+
+
+7-4-2.排列之捆绑法.题库	                         教师版                        page  PAGE 4 of  NUMPAGES 4
+
+
+
+7-4-2.排列之捆绑法
+
+
+
+例题精讲
+
+知识要点
+
+
+
+教学目标
+
+
+

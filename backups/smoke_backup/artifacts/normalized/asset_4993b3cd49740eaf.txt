@@ -1,0 +1,279 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE \* MERGEFORMAT 
+多位数的运算在奥数计算体系里面一般都扮演难题角色，因为多位数计算不仅能体现普通数字四则运算的一切考法，还有自身的“独门秘籍”，那就是“数字多的数不出来”，只能依靠观察数字结构发现数字规律的方式掌握多位数的整体结构，然后再确定方法进行解题。
+多位数的主要考查方式有
+1.用带省略号的描述方式进行多位数的具体值四则计算
+2.计算多位数的各个位数字之和
+ SHAPE \* MERGEFORMAT 
+多位数运算求精确值的常见方法
+1. 利用 EMBED Equation.DSMT4  ，进行变形
+2. “以退为进”法找规律递推求解
+多位数运算求数字之和的常见方法
+M× EMBED Equation.DSMT4  的数字和为9×k．(其中M为自然数，且M≤ EMBED Equation.DSMT4  )．可以利用上面性质较快的获得结果．
+ SHAPE \* MERGEFORMAT 
+模块一、多位数求精确值运算
+计算： EMBED Equation.DSMT4   
+【考点】多位数计算之求精确值           【难度】3星          【题型】计算 
+这道题目，你会发现无规律可循.这时我们就要从找规律这个思想里走出来，将  EMBED Equation.DSMT4  乘以3凑出一个 EMBED Equation.DSMT4  ，然后在原式乘以3的基础上除以3，所以
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+          	 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】多位数计算之求精确值           【难度】3星          【题型】计算 
+这道题目，你会发现无规律可循.这时我们就要从找规律这个思想里走出来，将  EMBED Equation.DSMT4  乘以3凑出一个 EMBED Equation.DSMT4  ，然后在原式乘以3的基础上除以3，所以
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+          	 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算 EMBED Equation.DSMT4  
+【考点】多位数计算之求精确值           【难度】3星          【题型】计算 
+我们可以把 EMBED Equation.DSMT4  转化为 EMBED Equation.DSMT4  ，进而可以进行下一步变形，具体为：
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算 EMBED Equation.DSMT4  的乘积是多少？ 
+【考点】多位数计算之求精确值           【难度】3星          【题型】计算 
+我们可以将原题的多位数进行 EMBED Equation.DSMT4  的变形：
+原式= EMBED Equation.DSMT4   EMBED Equation.DSMT4  = EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+= EMBED Equation.DSMT4  （ EMBED Equation.DSMT4  ）= EMBED Equation.DSMT4  × EMBED Equation.DSMT4  - EMBED Equation.DSMT4  
+= EMBED Equation.DSMT4  .
+【答案】 EMBED Equation.DSMT4  
+
+快来自己动手算算 EMBED Equation.DSMT4  的结果看谁算得准？ 
+【考点】多位数计算之求精确值           【难度】3星          【题型】计算 
+本题是提取公因数和凑整的综合。
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+      		 EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算 EMBED Equation.DSMT4  
+【考点】多位数计算之求精确值           【难度】3星          【题型】计算 
+本题着重是给大家一种凑的思想，除数是 EMBED Equation.DSMT4  ，所以需要我们的被除数也能凑出 EMBED Equation.DSMT4  
+      	这就需要我们根据乘法的性质来计算了。所以：
+ 		原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+            EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+请你计算 EMBED Equation.DSMT4  结果的末尾有多少个连续的零？ 
+【考点】多位数计算之求精确值           【难度】3星          【题型】计算 
+同学们观察会发现，两个乘数都非常大，不便直接相乘，可以引导学生按照两种思路给学生展开
+方法一：是学生喜欢的从简单情况找规律
+9×9=81；99×99=9801 ；999×999=998001；9999×9999=99980001；……
+所以： EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+方法二：观察一下你会发现，两个乘数都非常大，不便直接相乘，其中 999 EMBED Equation.DSMT4   很接近 1 000  EMBED Equation.DSMT4  ，于是我们采用添项凑整，简化运算。
+  原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+       EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+所以末尾有4016个0
+【答案】4016个0
+
+计算 EMBED Equation.DSMT4  的积
+【考点】多位数计算之求精确值           【难度】3星          【题型】计算 
+我们先还是同上例来凑成 EMBED Equation.DSMT4  ；
+ EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  
+＝ EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  
+＝ EMBED Equation.DSMT4  、
+我们知道 EMBED Equation.DSMT4  能被9整除，商为：049382716．又知1997个4，9个数一组，共221组，还剩下8个4，则这样数字和为8×4=32,加上后面的3，则数字和为35，于是再加上2个5，数字和为45，可以被9整除． EMBED Equation.DSMT4  能被9整除，商为04938271595；我们知道 EMBED Equation.DSMT4  能被9整除，商为：061728395；这样9个数一组，共221组，剩下的1995个5还剩下6个5，而6个5和1个、6，数字和36，可以被9整除． EMBED Equation.DSMT4  能被9整除，商为0617284．于是，最终的商为：
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】多位数计算之求精确值           【难度】3星          【题型】计算 
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  
+【考点】多位数计算之求精确值           【难度】3星          【题型】计算
+【关键词】武汉，明心奥数
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+求 EMBED Equation.DSMT4  的末三位数字. 
+【考点】多位数计算之求精确值           【难度】3星          【题型】计算 
+原式的末三位和每个数字的末三位有关系，有2007个3，2006个30，2005个300 ，
+则 EMBED Equation.DSMT4  ，原式末三位数字为701
+【答案】 EMBED Equation.DSMT4  
+
+模块二、多位数求数字之和
+求 EMBED Equation.DSMT4  乘积的各位数字之和. 
+【考点】多位数计算之求数字和           【难度】3星          【题型】计算 
+方法一：本题可用找规律方法：
+3×6=18  ； 33 × 66 =2178  ；333 × 666 =221778；3333 × 6666 =22217778；……
+所以： EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，则原式数字之和 EMBED Equation.DSMT4  
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+所以，各位数字之和为 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+求111 111 × 999 999 乘积的各位数字之和。
+【考点】多位数计算之求数字和           【难度】3星          【题型】计算 
+观察可以发现，两个乘数都非常大，不便直接相乘，其中 999 999 很接近 1 000 000, 于是我们采用添项凑整，简化运算。
+原式=111111×(1000000-1) 
+=111111×1000000-111111×1 
+=111111000000-111111 
+=111110888889  数字之和为 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+如果EMBED Equation.DSMT4，那么A的各位数字之和等于		。
+【考点】多位数计算之求数字和           【难度】3星          【题型】计算 
+【关键词】学而思杯，5年级
+ EMBED Equation.DSMT4  ，所以  EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，数字和为 EMBED Equation.DSMT4  . 
+【答案】 EMBED Equation.DSMT4  
+
+若 EMBED Equation.DSMT4  ，则整数 EMBED Equation.DSMT4  的所有数位上的数字和等于（    ）．
+		（ EMBED Equation.DSMT4  ） EMBED Equation.DSMT4       （ EMBED Equation.DSMT4  ） EMBED Equation.DSMT4      （ EMBED Equation.DSMT4  ） EMBED Equation.DSMT4      （ EMBED Equation.DSMT4  ） EMBED Equation.DSMT4  
+【考点】多位数计算之求数字和           【难度】3星          【题型】选择 
+【关键词】第十三届，华杯赛
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+所以整数 EMBED Equation.DSMT4  的所有数位上的数字和 EMBED Equation.DSMT4  ．
+【答案】（ EMBED Equation.DSMT4  ） EMBED Equation.DSMT4  
+
+计算 EMBED Equation.DSMT4  的乘积数字和是多少? 
+【考点】多位数计算之求数字和           【难度】4星          【题型】计算 
+我们还是利用 EMBED Equation.DSMT4  ，来简便计算，但是不同于上式的是不易得出凑成 EMBED Equation.DSMT4  ，于是我们就创造条件使用：
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  × EMBED Equation.DSMT4  =[ EMBED Equation.DSMT4  ×（ EMBED Equation.DSMT4  ）]×[ EMBED Equation.DSMT4  ×（ EMBED Equation.DSMT4  ）+1]×25
+= EMBED Equation.DSMT4  × EMBED Equation.DSMT4  ×[2× EMBED Equation.DSMT4  -2]×[2×（ EMBED Equation.DSMT4  ）+1]×25= EMBED Equation.DSMT4  ×[4× EMBED Equation.DSMT4  -2× EMBED Equation.DSMT4  -2]
+= EMBED Equation.DSMT4  × EMBED Equation.DSMT4  - EMBED Equation.DSMT4  × EMBED Equation.DSMT4  =100× EMBED Equation.DSMT4  -50× EMBED Equation.DSMT4  
+= EMBED Equation.DSMT4  = EMBED Equation.DSMT4  
+所以原式的乘积为 EMBED Equation.DSMT4  ，那么原式乘积的数字和为1×2004+5×2004=12024．
+【答案】 EMBED Equation.DSMT4  
+
+试求1993×123×999999乘积的数字和为多少? 
+【考点】多位数计算之求数字和           【难度】3星          【题型】计算 
+我们可以先求出1993×123的乘积，再计算与(1000000—1)的乘积，但是1993×123还是有点繁琐．
+设1993×123=M，则(1000×123＝)123000<M<(2000×123=)246000，所以M为6位数，并且末位不是0；令M＝ EMBED Equation.DSMT4  
+则M×999999＝M×（1000000-1）＝1000000M-M
+＝ EMBED Equation.DSMT4  - EMBED Equation.DSMT4  
+＝ EMBED Equation.DSMT4  +1－ EMBED Equation.DSMT4  
+＝ EMBED Equation.DSMT4  +1
+＝ EMBED Equation.DSMT4  
+那么这个数的数字和为：a+b+c+d+e+(f－1)+(9－a)+(9－b)+(9－c)+(9－d)+(9－e)+(9－f+1)=9×6=54．所以原式的计算结果的数字和为54．
+【答案】 EMBED Equation.DSMT4   
+下面是两个1989位整数相乘： EMBED Equation.DSMT4  。那么乘积的各位数字之和是多少? 
+【考点】多位数计算之求数字和           【难度】4星          【题型】计算 
+解法一：
+在算式中乘以9，再除以9，则结果不变．因为 EMBED Equation.DSMT4  能被9整除，所以将一个 EMBED Equation.DSMT4  乘以9，另一个除以9，使原算式变成：
+ EMBED Equation.DSMT4  = EMBED Equation.DSMT4  
+= EMBED Equation.DSMT4  
+= EMBED Equation.DSMT4  
+得到的结果中有1980÷9=220个“123456790”和“987654320”及一个“12345678”和一个“987654321”，所以各位数之和为：
+ EMBED Equation.DSMT4  
++ EMBED Equation.DSMT4  
+解法二：
+ EMBED Equation.DSMT4  ，其中N＜ EMBED Equation.DSMT4  
+所以 EMBED Equation.DSMT4  的各个位数字之和为：9×1989=17901
+【答案】 EMBED Equation.DSMT4  
+
+试求 EMBED Equation.DSMT4  乘积的数字和为多少? 
+【考点】多位数计算之求数字和           【难度】4星          【题型】计算 
+设 EMBED Equation.DSMT4  
+则原式表示为 EMBED Equation.DSMT4  。
+注意到9×99×9999×99999999×…× EMBED Equation.DSMT4  × EMBED Equation.DSMT4  ＝M，
+则M<10×100×100013×100000000×…× EMBED Equation.DSMT4  × EMBED Equation.DSMT4  ＝ EMBED Equation.DSMT4  
+其中k=1+2+4+8+16+…+512=1024－l=1023
+即M< EMBED Equation.DSMT4  ，即M最多为1023位数，所以满足的使用条件，那么M与 EMBED Equation.DSMT4  乘积的数字和为1024×9=10240—1024=9216．原式的乘积数字和为9216．
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  结果的各位数字之和是          
+【考点】多位数计算之求数字和           【难度】3星          【题型】计算 
+原式 EMBED Equation.DSMT4          EMBED Equation.DSMT4   各位数字之和是 EMBED Equation.DSMT4  = EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+模块三、多位数运算中的公因式
+（1） EMBED Equation.DSMT4   （2） EMBED Equation.DSMT4  
+【考点】多位数计算之提取公因式           【难度】3星          【题型】计算 
+ = 1 \* GB2  \* MERGEFORMAT ⑴原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ = 2 \* GB2  \* MERGEFORMAT ⑵原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 = 1 \* GB2  \* MERGEFORMAT ⑴ EMBED Equation.DSMT4             = 2 \* GB2  \* MERGEFORMAT ⑵ EMBED Equation.DSMT4  
+
+计算（1） EMBED Equation.DSMT4   
+（2） EMBED Equation.DSMT4  
+【考点】多位数计算之提取公因式           【难度】3星          【题型】计算 
+（1）原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+（2）原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】（1） EMBED Equation.DSMT4               （2） EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】多位数计算之提取公因式           【难度】3星          【题型】计算 
+【关键词】我爱数学夏令营
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】多位数计算之提取公因式           【难度】3星          【题型】计算 
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算：（1998+19981998+199819981998+… EMBED Equation.DSMT4  ）÷（1999+19991999+199919991999…   
+	 EMBED Equation.DSMT4  ）×1999
+【考点】多位数计算之提取公因式           【难度】3星          【题型】计算 
+ EMBED Equation.DSMT4  ＝1998× EMBED Equation.DSMT4  
+原式＝1998（1+10001+100010001+… EMBED Equation.DSMT4  ）÷［1999×（1+10001+100010001+… EMBED Equation.DSMT4  ）］×1999＝1998÷1999×1999＝1998.
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4  
+【考点】多位数计算之提取公因式           【难度】3星          【题型】计算 
+【关键词】小学奥林匹克
+原式 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+计算： EMBED Equation.DSMT4           。
+【考点】多位数计算之提取公因式           【难度】3星          【题型】计算 
+【关键词】学而思杯，6年级
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4  ，即这 EMBED Equation.DSMT4  个数都等于 EMBED Equation.DSMT4  ，
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+1-3-2.多位数计算.题库	                              教师版                            page  PAGE 9 of  NUMPAGES 9
+
+
+
+多位数计算
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

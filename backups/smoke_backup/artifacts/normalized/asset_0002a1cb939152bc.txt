@@ -1,0 +1,333 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE  \* MERGEFORMAT 
+
+本讲知识点属于计算大板块内容，其实分数裂项很大程度上是发现规律、利用公式的过程，可以分为观察、改造、运用公式等过程。很多时候裂项的方式不易找到，需要进行适当的变形，或者先进行一部分运算，使其变得更加简单明了。
+本讲是整个奥数知识体系中的一个精华部分，列项与通项归纳是密不可分的，所以先找通项是裂项的前提，是能力的体现，对学生要求较高。
+
+ SHAPE  \* MERGEFORMAT 
+分数裂项
+一、“裂差”型运算
+将算式中的项进行拆分，使拆分后的项可前后抵消，这种拆项计算称为裂项法.裂项分为分数裂项和整数裂项，常见的裂项方法是将数字分拆成两个或多个数字单位的和或差。遇到裂项的计算题时，要仔细的观察每项的分子和分母，找出每项分子分母之间具有的相同的关系，找出共有部分，裂项的题目无需复杂的计算，一般都是中间部分消去的过程，这样的话，找到相邻两项的相似部分，让它们消去才是最根本的。
+(1)对于分母可以写作两个因数乘积的分数，即 EMBED Equation.DSMT4  形式的，这里我们把较小的数写在前面，即 EMBED Equation.DSMT4  ，那么有 EMBED Equation.DSMT4  
+(2)对于分母上为3个或4个连续自然数乘积形式的分数，即：
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  形式的，我们有：
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+裂差型裂项的三大关键特征：
+（1）分子全部相同，最简单形式为都是1的，复杂形式可为都是x(x为任意自然数)的，但是只要将x提取出来即可转化为分子都是1的运算。
+（2）分母上均为几个自然数的乘积形式，并且满足相邻2个分母上的因数“首尾相接”
+（3）分母上几个因数间的差是一个定值。
+
+二、“裂和”型运算：
+常见的裂和型运算主要有以下两种形式：
+（1） EMBED Equation.DSMT4   （2） EMBED Equation.DSMT4  
+裂和型运算与裂差型运算的对比：
+裂差型运算的核心环节是“两两抵消达到简化的目的”，裂和型运算的题目不仅有“两两抵消”型的，同时还有转化为“分数凑整”型的，以达到简化目的。
+
+ SHAPE  \* MERGEFORMAT 
+ EMBED Equation.DSMT4           。
+
+
+ EMBED Equation.DSMT4  
+
+
+
+
+ EMBED Equation.DSMT4            
+
+
+
+
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4           
+
+
+
+
+
+计算： EMBED Equation.DSMT4           
+
+
+
+
+ EMBED Equation.DSMT4   
+
+
+
+
+
+计算： EMBED Equation.DSMT4            
+
+
+
+
+计算： EMBED Equation.DSMT4         
+
+
+
+
+
+ EMBED Equation.DSMT4  _______
+
+
+
+
+
+ EMBED Equation.DSMT4          
+
+
+计算： EMBED Equation.DSMT4  ＝          
+ EMBED Equation.DSMT4           。
+
+
+计算： EMBED Equation.DSMT4  
+
+
+
+ EMBED Equation.DSMT4          
+
+
+
+
+计算： EMBED Equation.DSMT4  
+
+
+
+
+计算： EMBED Equation.DSMT4  =         。
+
+
+
+计算： EMBED Equation.DSMT4      ____。
+
+
+
+
+计算： EMBED Equation.DSMT4  
+
+
+
+
+
+计算： EMBED Equation.DSMT4          ． 
+
+
+
+ EMBED Equation.DSMT4   
+计算： EMBED Equation.DSMT4  
+
+
+
+
+计算： EMBED Equation.DSMT4   
+
+
+
+
+
+ EMBED Equation.DSMT4   
+
+
+
+
+
+ EMBED Equation.DSMT4  
+
+
+
+
+ EMBED Equation.DSMT4   
+
+
+
+
+ EMBED Equation.DSMT4  
+
+
+
+
+计算： EMBED Equation.DSMT4            ． 
+
+
+
+
+计算： EMBED Equation.DSMT4  
+
+
+计算： EMBED Equation.DSMT4   
+
+
+
+
+
+
+
+ EMBED Equation.DSMT4  
+
+
+
+
+
+  EMBED Equation.DSMT4  
+
+
+
+
+
+计算： EMBED Equation.DSMT4           . 
+
+
+
+
+
+ EMBED Equation.DSMT4  
+
+
+
+
+
+ EMBED Equation.DSMT4  
+
+
+
+
+
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4          . 
+
+
+
+
+计算： EMBED Equation.3          
+
+
+
+
+计算： EMBED Equation.DSMT4  
+
+
+
+
+计算： EMBED Equation.DSMT4            ． 
+
+
+
+
+
+计算： EMBED Equation.DSMT4          ． 
+
+
+
+
+
+计算： EMBED Equation.DSMT4            ． 
+
+
+
+
+
+ EMBED Equation.DSMT4  
+
+
+
+
+ EMBED Equation.DSMT4   
+
+
+
+
+【巩固】计算： EMBED Equation.DSMT4          
+
+
+
+ EMBED Equation.DSMT4   
+
+
+
+
+ EMBED Equation.DSMT4   
+
+
+
+
+
+ EMBED Equation.DSMT4  
+
+
+
+
+
+计算： EMBED Equation.DSMT4  
+
+
+
+
+ EMBED Equation.DSMT4  
+
+
+
+
+ EMBED Equation.DSMT4   
+
+
+
+
+ EMBED Equation.DSMT4  
+
+
+
+
+
+
+计算： EMBED Equation.DSMT4            
+
+
+
+
+
+
+
+
+
+计算： EMBED Equation.DSMT4            
+
+
+
+
+
+
+
+
+计算： EMBED Equation.DSMT4        
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+1-2-2-1.分数裂项.题库	                          学生版                          page  PAGE 9 of  NUMPAGES 9
+
+
+
+分数裂项计算
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

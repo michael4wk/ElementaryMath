@@ -1,0 +1,260 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+学习余数的三大定理及综合运用
+理解弃9法，并运用其解题
+
+ SHAPE  \* MERGEFORMAT 
+一、三大余数定理：
+1.余数的加法定理
+a与b的和除以c的余数，等于a,b分别除以c的余数之和，或这个和除以c的余数。
+例如：23，16除以5的余数分别是3和1，所以23+16＝39除以5的余数等于4，即两个余数的和3+1.当余数的和比除数大时，所求的余数等于余数之和再除以c的余数。
+例如：23，19除以5的余数分别是3和4，所以23+19＝42除以5的余数等于3+4=7除以5的余数为2
+2.余数的加法定理
+a与b的差除以c的余数，等于a,b分别除以c的余数之差。
+例如：23，16除以5的余数分别是3和1，所以23－16＝7除以5的余数等于2，两个余数差3－1＝2.
+当余数的差不够减时时，补上除数再减。
+例如：23，14除以5的余数分别是3和4，23－14＝9除以5的余数等于4，两个余数差为3＋5－4＝4
+3.余数的乘法定理
+a与b的乘积除以c的余数，等于a,b分别除以c的余数的积，或者这个积除以c所得的余数。
+例如：23，16除以5的余数分别是3和1，所以23×16除以5的余数等于3×1＝3。
+当余数的和比除数大时，所求的余数等于余数之积再除以c的余数。
+例如：23，19除以5的余数分别是3和4，所以23×19除以5的余数等于3×4除以5的余数，即2.
+乘方：如果a与b除以m的余数相同，那么 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  除以m的余数也相同．
+二、弃九法原理
+在公元前9世纪，有个印度数学家名叫花拉子米，写有一本《花拉子米算术》，他们在计算时通常是在一个铺有沙子的土板上进行，由于害怕以前的计算结果丢失而经常检验加法运算是否正确，他们的检验方式是这样进行的：
+例如：检验算式 EMBED Equation.DSMT4  
+1234除以9的余数为1
+1898除以9的余数为8
+18922除以9的余数为4
+678967除以9的余数为7
+178902除以9的余数为0
+这些余数的和除以9的余数为2
+而等式右边和除以9的余数为3，那么上面这个算式一定是错的。
+上述检验方法恰好用到的就是我们前面所讲的余数的加法定理，即如果这个等式是正确的，那么左边几个加数除以9的余数的和再除以9的余数一定与等式右边和除以9的余数相同。
+
+而我们在求一个自然数除以9所得的余数时，常常不用去列除法竖式进行计算，只要计算这个自然数的各个位数字之和除以9的余数就可以了，在算的时候往往就是一个9一个9的找并且划去，所以这种方法被称作“弃九法”。
+所以我们总结出弃九法原理：任何一个整数模9同余于它的各数位上数字之和。
+以后我们求一个整数被9除的余数，只要先计算这个整数各数位上数字之和，再求这个和被9除的余数即可。
+利用十进制的这个特性，不仅可以检验几个数相加，对于检验相乘、相除和乘方的结果对不对同样适用
+注意：弃九法只能知道原题一定是错的或有可能正确，但不能保证一定正确。
+例如：检验算式9+9=9时，等式两边的除以9的余数都是0，但是显然算式是错误的
+
+但是反过来，如果一个算式一定是正确的，那么它的等式2两端一定满足弃九法的规律。这个思想往往可以帮助我们解决一些较复杂的算式谜问题。
+
+ SHAPE  \* MERGEFORMAT 
+
+模块一、余数的加减法定理
+
+幼儿园的老师给班里的小朋友送来40只桔子，200块饼干，120块奶糖。平均分发完毕，还剩4只桔子，20块饼干，12粒奶糖。这班里共有_______位小朋友。
+【考点】余数的加减法定理   【难度】1星   【题型】填空
+【关键词】走美杯，4年级，决赛，第3题，8分
+40-4=36，200-20=180，120-12=108。小朋友的人数应是36，180，108的大于20的公约数，只有36。
+【答案】 EMBED Equation.DSMT4  
+
+在1995，1998，2000，2001，2003中，若其中几个数的和被9除余7，则将这几个数归为一组．这样的数组共有______组．
+【考点】余数的加减法定理  【难度】2星   【题型】填空
+【关键词】少年数学智力冬令营
+1995，1998，2000，2001，2003除以9的余数依次是6，0，2，3，5．因为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以这样的数组共有下面4个： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4   ， EMBED Equation.DSMT4   ， EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+号码分别为101,126,173,193的4个运动员进行乒乓球比赛,规定每两人比赛的盘数是他们号码的和被3除所得的余数.那么打球盘数最多的运动员打了多少盘? 
+【考点】余数的加减法定理  【难度】2星   【题型】解答
+本题可以体现出加法余数定理的巧用。计算101，126，173，193除以3的余数分别为2，0，2，1。那么任意两名运动员的比赛盘数只需要用2，0，2，1两两相加除以3即可。显然126运动员打5盘是最多的。
+【答案】 EMBED Equation.DSMT4  
+
+有一个整数，用它去除70，110，160所得到的3个余数之和是50，那么这个整数是______．
+【考点】余数的加减法定理  【难度】3星   【题型】填空
+【关键词】小学数学奥林匹克
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，除数应当是290的大于17小于70的约数，只可能是29和58， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以除数不是58． EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以除数是 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+ 用自然数n去除63，91，129得到的三个余数之和为25，那么n=________．
+【考点】余数的加减法定理  【难度】3星   【题型】填空
+【关键词】小学数学奥林匹克
+ n能整除 EMBED Equation.DSMT4  ．因为 EMBED Equation.DSMT4  ，所以n是258大于8的约数．显然，n不能大于63．符合条件的只有43.
+【答案】 EMBED Equation.DSMT4  
+
+如果1＝1！，1×2＝2！，1×2×3＝3！……1×2×3×……×99×100＝100！那么1！+2！+3！+……+100！的个位数字是多少？
+【考点】余数的加减法定理  【难度】3星   【题型】解答
+从5！开始个位数字都是0了因此只需要计算前4个数,1！+2！+3！+4！=1+2+6+24=33所以末位数字一定是3
+【答案】 EMBED Equation.DSMT4  
+
+六名小学生分别带着14元、17元、18元、21元、26元、37元钱，一起到新华书店购买《成语大词典》．一看定价才发现有5个人带的钱不够，但是其中甲、乙、丙3人的钱凑在一起恰好可买2本，丁、戊2人的钱凑在一起恰好可买1本．这种《成语大词典》的定价是________元．
+【考点】余数的加减法定理  【难度】3星   【题型】填空
+【关键词】小数报
+六名小学生共带钱133元．133除以3余1，因为甲、乙、丙、丁、戊的钱恰好能买3本，所以他们五人带的钱数是3的倍数，另一人带的钱除以3余1．易知，这个钱数只能是37元，所以每本《成语大词典》的定价是 EMBED Equation.DSMT4   (元) ．
+【答案】 EMBED Equation.DSMT4  
+
+商店里有六箱货物，分别重15，16，18，19，20，31千克，两个顾客买走了其中的五箱．已知一个顾客买的货物重量是另一个顾客的2倍，那么商店剩下的一箱货物重量是________千克．
+【考点】余数的加减法定理  【难度】3星   【题型】填空
+【关键词】小学数学奥林匹克
+两个顾客买的货物重量是 EMBED Equation.DSMT4  的倍数． EMBED Equation.DSMT4  ，剩下的一箱货物重量除以3应当余2，只能是20千克．
+【答案】 EMBED Equation.DSMT4  
+
+六张卡片上分别标上1193、1258、1842、1866、1912、2494六个数，甲取3张，乙取2张，丙取1张，结果发现甲、乙各自手中卡片上的数之和一个人是另—个人的2倍，则丙手中卡片上的数是________．(第五届小数报数学竞赛初赛) 
+【考点】余数的加减法定理  【难度】3星   【题型】填空
+【关键词】小学数学奥林匹克
+根据“甲、乙二人各自手中卡片上的数之和一个人是另一个人的2倍”可知，甲、乙手中五张卡片上的数之和应是3的倍数．计算这六个数的总和是 EMBED Equation.DSMT4  ，
+10565除以3余2；因为甲、乙二人手中五张卡片上的数之和是3的倍数，那么丙手中的卡片上
+的数除以3余2．六个数中只有1193除以3余2，故丙手中卡片上的数为1193．
+【答案】 EMBED Equation.DSMT4  
+
+从1，2，3，4，…，2007中取N个不同的数，取出的数中任意三个的和能被15整除．N最大为多少？
+【考点】余数的加减法定理  【难度】3星   【题型】解答
+【关键词】走美杯，初赛，六年级，第8题
+取出的N个不同的数中，任意三个的和能被15整除，则其中任意两个数除以15的余数相同，且这个余数的3倍能被15整除，所以这个余数只能是0，5或者10．在 EMBED Equation.DSMT4  中，除以15的余数为0的有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，…， EMBED Equation.DSMT4  ，共有 EMBED Equation.DSMT4  个；除以15的余数为5的有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，…， EMBED Equation.DSMT4  ，共有134个；除以15的余数为10的有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，…， EMBED Equation.DSMT4  ，共有134个．所以N最大为134．
+【答案】 EMBED Equation.DSMT4  
+
+一个家庭，有父、母、兄、妹四人，他们任意三人的岁数之和都是3的整数倍，每人的岁数都是一个质数，四人岁数之和是100，父亲岁数最大，问：母亲是多少岁? 
+【考点】余数的加减法定理  【难度】3星   【题型】解答
+【关键词】香港圣公会，小学数学奥林匹克
+从任意三人岁数之和是3的倍数，100除以3余1，就知四个岁数都是 EMBED Equation.DSMT4  型的数，又是质数．只有7，13，19，31，37，43，就容易看出：父43岁，母37岁，兄13岁，妹7岁．
+【答案】 EMBED Equation.DSMT4  
+
+有三所学校，高中A校比B校多10人，B校比C校多10人．三校共有高中生2196人．有一所学校初中人数是高中人数的2倍；有一所学校初中人数是高中人数的1.5倍；还有一所学校高中、初中人数相等．三所学校总人数是5480人，那么A校总人数是________人．
+【考点】余数的加减法定理  【难度】3星   【题型】填空
+【关键词】香港圣公会，小学数学奥林匹克
+三所学校的高中生分别是：A校742人，B校732人，C校722人．如果A校或C校初中人数是高中人数的1.5倍，该校总人数是奇数，而按照给出条件得出其他两校总人数都是偶数，与三校总人数5480是偶数矛盾，因此只能是B校的初中人数是高中人数的1.5倍．三校初中的总人数是 EMBED Equation.DSMT4  ，被3除余2；732被3整除，722被3除余2,742被3除余1．从余数来看 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，就断定初中人数是高中人数的2倍，只能是C校．所以，A校总人数是 EMBED Equation.DSMT4   (人) ．
+【答案】 EMBED Equation.DSMT4  
+
+模块二、余数的乘法定理
+
+求 EMBED Equation.DSMT4  的余数．
+【考点】余数的乘法定理  【难度】3星   【题型】解答
+因为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，根据同余定理(三)，                
+ EMBED Equation.DSMT4  的余数等于 EMBED Equation.DSMT4  的余数，而 EMBED Equation.DSMT4  ，
+ EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  的余数为5．
+【答案】 EMBED Equation.DSMT4  
+
+求 EMBED Equation.DSMT4  除以17的余数．
+【考点】余数的乘法定理  【难度】3星   【题型】解答
+【关键词】华杯赛
+ 先求出乘积再求余数，计算量较大．可先分别计算出各因数除以17的余数，再求余数之积除
+以17的余数． EMBED Equation.DSMT4  除以17的余数分别为2，7和11， EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+求 EMBED Equation.DSMT4  被7除的余数．
+【考点】余数的乘法定理  【难度】3星   【题型】解答
+方法一：先将 EMBED Equation.DSMT4  算出以后，即 EMBED Equation.DSMT4  ．再求得此数被7除的余
+数为1．
+方法二：因为 EMBED Equation.DSMT4  除以7的余数为3， EMBED Equation.DSMT4  除以7的余数为1，由“同余的可乘性”知： EMBED Equation.DSMT4  除以7的余数为 EMBED Equation.DSMT4  ．又因为1993除以7的余数为5，所以 EMBED Equation.DSMT4  除以7的余数等于 EMBED Equation.DSMT4  即15除以7的余数，算出 EMBED Equation.DSMT4  被7除的余数为1．
+方法三：利用余数判别法⑹，算出 EMBED Equation.DSMT4  ，奇数节的数之和与偶数节的数之和的差即 EMBED Equation.DSMT4  ，36除以7的余数为1，即 EMBED Equation.DSMT4  被7除的余数为1．
+【答案】 EMBED Equation.DSMT4  
+
+
+
+求 EMBED Equation.DSMT4  除以9的余数．
+【考点】余数的乘法定理  【难度】3星   【题型】解答
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  除以9的余数等于 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+一个数被7除，余数是3，该数的3倍被7除，余数是           。
+【考点】余数的乘法定理   【难度】3星   【题型】填空
+【关键词】希望杯，五年级，初赛，第3题，5分
+余数是3×3÷7的余数，为2
+【答案】 EMBED Equation.DSMT4  
+
+在图表的第二行中，恰好填上 EMBED Equation.DSMT4  这十个数，使得每一竖列上下两个因数的乘积除以11所得的余数都是3．
+
+【考点】余数的乘法定理  【难度】3星   【题型】填空
+ 因为两个数的乘积除以11的余数，等于两个数分别除以11的余数之积．因此原题中的 EMBED Equation.DSMT4  
+可以改换为 EMBED Equation.DSMT4  ，这样上下两数的乘积除以11余3就容易计算了．我们得到下面的结果：
+
+进而得到本题的答案是：
+
+【答案】
+
+ EMBED Equation.DSMT4  除以7的余数是多少？
+【考点】余数的乘法定理  【难度】3星   【题型】解答
+【关键词】实验中学
+由于 EMBED Equation.DSMT4  ，而1001是7的倍数，所以这个乘积也是7的倍数，故 EMBED Equation.DSMT4  除以7的余数是0；
+【答案】 EMBED Equation.DSMT4  
+
+求 EMBED Equation.DSMT4  的余数
+【考点】余数的乘法定理  【难度】3星   【题型】解答
+本题为余数乘法定理的拓展模式，即数字的乘方与一个数相除的余数情况。由6443÷19余2，求原式的余数只要求 EMBED Equation.DSMT4  的余数即可。但是如果用2÷19发现会进入一个死循环，因为这时被除数比除数小了，所以可以进行适当的调整， EMBED Equation.DSMT4  ，
+64÷19余数为7，那么求 EMBED Equation.DSMT4  的余数就转化为求 EMBED Equation.DSMT4  的余数，即49÷19的余数。
+49÷19余数为11，所以原式 EMBED Equation.DSMT4  的余数为11.
+【答案】 EMBED Equation.DSMT4  
+
+
+求 EMBED Equation.DSMT4  除以7的余数．
+【考点】余数的乘法定理  【难度】3星   【题型】解答
+法一：由于 EMBED Equation.DSMT4   (143被7除余3)，所以 EMBED Equation.DSMT4   ( EMBED Equation.DSMT4  被7除所得余数与 EMBED Equation.DSMT4  被7除所得余数相等),而 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  （729除以7的余数为1），
+所以 EMBED Equation.DSMT4  ,故 EMBED Equation.DSMT4  除以7的余数为5.
+        法二：计算 EMBED Equation.DSMT4  被7除所得的余数可以用找规律的方法，规律如下表：
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4   于是余数以6为周期变化．所以 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+求 EMBED Equation.DSMT4  写成十进制数时的个位数．
+【考点】余数的乘法定理  【难度】3星   【题型】解答
+要想把 EMBED Equation.DSMT4  具体数字算出来显然是不可能的，由于题目可以转化为求 EMBED Equation.DSMT4  除以10的余数．看到题目里面有个很大的乘方，我们想到利用“同余的乘方性”．可先确定n，使 EMBED Equation.DSMT4  除以10的余数为1．
+通过尝试可知，最小的n为4．因为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  除以10的余数等于 EMBED Equation.DSMT4  除以10的余数即1， EMBED Equation.DSMT4  除以10的余数为9，所以， EMBED Equation.DSMT4  除以10的余数为 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  写成十进制数时的个位数为9．
+【答案】 EMBED Equation.DSMT4  
+
+ EMBED Equation.DSMT4  的个位数字是________．
+【考点】余数的乘法定理    【难度】3星   【题型】填空
+【关键词】迎春杯，五年级,初赛，第4题
+易知２００９的个位数字是９， EMBED Equation.DSMT4  的个位数字是１， EMBED Equation.DSMT4  的个位数字是９， EMBED Equation.DSMT4  的个位数字是１，两个为一周期，则 EMBED Equation.DSMT4  的个位数字是１.
+【答案】 EMBED Equation.DSMT4  
+
+2007×2007×…×2007（2008个2007）的个位数字是         。
+【考点】余数的乘法定理   【难度】3星   【题型】填空
+【关键词】走美杯，初赛，六年级，第1题
+可以看出2007的乘方其尾数是7、9、3、1四个数字循环的，2008个2007相乘，其尾数为1.
+【答案】 EMBED Equation.DSMT4  
+
+今天是星期四， EMBED Equation.DSMT4  天之后将是星期几？
+【考点】余数的乘法定理  【难度】3星   【题型】解答
+先求较小的n，使 EMBED Equation.DSMT4  除以7的余数为1．
+10除以7余3， EMBED Equation.DSMT4  除以7余2， EMBED Equation.DSMT4  除以7余 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  除以7余 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  除以7的余数等于 EMBED Equation.DSMT4  除以7的余数等于1．所以， EMBED Equation.DSMT4  除以7的余数等于 EMBED Equation.DSMT4  除以7的余数等于 EMBED Equation.DSMT4  ，故 EMBED Equation.DSMT4  天之后，应是星期一．
+【答案】星期一
+
+ 求 EMBED Equation.DSMT4  的最后两位数．
+【考点】余数的乘法定理  【难度】3星   【题型】解答
+即考虑 EMBED Equation.DSMT4  除以100的余数．由于 EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  除以25余2，所以 EMBED Equation.DSMT4  除以25余8，
+ EMBED Equation.DSMT4  除以25余24，那么 EMBED Equation.DSMT4  除以25余1；又因为 EMBED Equation.DSMT4  除以4余1，则 EMBED Equation.DSMT4  除以4余1；即 EMBED Equation.DSMT4  能被4 和25整除，而4与25互质，所以 EMBED Equation.DSMT4  能被100整除，即 EMBED Equation.DSMT4  除以100余1，由于 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  除以100的余数即等于 EMBED Equation.DSMT4  除以100的余数，而 EMBED Equation.DSMT4  除以100余29， EMBED Equation.DSMT4  除以100余43， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  除以100的余数等于 EMBED Equation.DSMT4  除以100的余数，而 EMBED Equation.DSMT4  除以100余63，所以 EMBED Equation.DSMT4  除以100余63，即 EMBED Equation.DSMT4  的最后两位数为63．
+【答案】 EMBED Equation.DSMT4  
+
+求 EMBED Equation.DSMT4  的所有自然数中，有多少个整数a使 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  被7除余数相同？
+【考点】余数的乘法定理  【难度】3星   【题型】解答
+让我们用列表的方法来寻找 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  被7除余数的规律：        
+a123456789101112131415161718192021 EMBED Equation.DSMT4   EMBED Equation.DSMT4  被7除的余数241241241241241241241 EMBED Equation.DSMT4   EMBED Equation.DSMT4  被7除的余数142241014224101422410 EMBED Equation.DSMT4  从上表可以看出：
+ EMBED Equation.DSMT4  被7除的余数是2，4，1，2，4，1，2，4，1， EMBED Equation.DSMT4  ，每3个一循环；
+ EMBED Equation.DSMT4  被7除的余数是1，4，2，2，4，1，0，1，4，2，2，4，1，0， EMBED Equation.DSMT4  ，每7个一循环．
+所以能同时满足这两个条件的规律，必须是3和7的公倍数，即为21的倍数，也就是使 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  被7除的余数相同的数，在自然数列中，是每21一个循环，其中有6个余数相同，分别是每个循环中的第2，4，5，6，10，15个数．
+又因为 EMBED Equation.DSMT4  ，所以，在 EMBED Equation.DSMT4  的所有自然数中，能使 EMBED Equation.DSMT4  与 EMBED Equation.DSMT4  被7除余数相同的数共有： EMBED Equation.DSMT4  （个）．
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+5-5-3.余数性质（一）.题库	                        教师版                           page  PAGE 8 of  NUMPAGES 8
+
+
+
+5-5-3.余数性质（三）
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+

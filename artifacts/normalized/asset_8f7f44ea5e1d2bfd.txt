@@ -1,0 +1,137 @@
+ SHAPE  \* MERGEFORMAT 
+
+ SHAPE \* MERGEFORMAT 
+分数是小学阶段的关键知识点，在小学的学习有分水岭一样的阶段性标志，许多难题也是从分数的学习开始遇到的。
+分数基本运算的常考题型有
+分数的四则混合运算
+分数与小数混合运算，分化小与小化分的选择
+复杂分数的化简
+繁分数的计算
+ SHAPE \* MERGEFORMAT 
+分数与小数混合运算的技巧
+在分数、小数的四则混合运算中，到底是把分数化成小数，还是把小数化成分数，这不仅影响到运算过程的繁琐与简便，也影响到运算结果的精确度，因此，要具体情况具体分析，而不能只机械地记住一种化法：小数化成分数，或分数化成小数。
+技巧1：一般情况下，在加、减法中，分数化成小数比较方便。
+技巧2：在加、减法中，有时遇到分数只能化成循环小数时，就不能把分数化成小数。此时要将包括循环小数在内的所有小数都化为分数。
+技巧3：在乘、除法中，一般情况下，小数化成分数计算，则比较简便。
+技巧4：在运算中，使用假分数还是带分数，需视情况而定。
+技巧5：在计算中经常用到除法、比、分数、小数、百分数相互之间的变，把这些常用的数互化数表化对学习非常重要。
+
+ SHAPE \* MERGEFORMAT 
+
+ EMBED Equation.DSMT4  的分母扩大到32，要使分数大小不变，分子应该为__________。 
+【考点】分数乘除法           【难度】2星          【题型】填空 
+【关键词】走美杯，五年级，初赛  
+根据分数的基本性质：分母扩大倍数，要使分数大小不变，分子应该为扩大相同的倍数。分母扩大： EMBED Equation.DSMT4  （倍），分子为： EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+小虎是个粗心大意的孩子，在做一道除法算式时，把除数 EMBED Equation.DSMT4  看成了 EMBED Equation.DSMT4  来计算，算出的结果是120，这道算式的正确答案是__________ 。
+【考点】分数乘除法           【难度】2星          【题型】填空   
+【关键词】走美杯，初赛，六年级
+根据题意可知，被除数为 EMBED Equation.DSMT4  ，所以正确的答案为 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+将下列算式的计算结果写成带分数：  EMBED Equation.DSMT4   
+【考点】分数乘除法           【难度】2星          【题型】计算   
+原式= EMBED Equation.DSMT4  = EMBED Equation.DSMT4  = EMBED Equation.DSMT4  ×59=59- EMBED Equation.DSMT4  =58 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算 EMBED Equation.DSMT4  
+【考点】分数乘除法           【难度】2星          【题型】计算   
+【关键词】希望杯，1试
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算 EMBED Equation.DSMT4  
+【考点】分数乘除法           【难度】2星          【题型】计算 
+【关键词】希望杯，2试 
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算   EMBED Equation.DSMT4   
+【考点】分数乘除法           【难度】3星          【题型】计算   
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算  EMBED Equation.DSMT4  ÷ EMBED Equation.DSMT4  ÷ EMBED Equation.DSMT4   
+【考点】分数乘除法           【难度】3星          【题型】填空   
+ EMBED Equation.DSMT4  ÷ EMBED Equation.DSMT4  ÷ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算：  EMBED Equation.DSMT4  =_____
+【考点】分数乘除法           【难度】2星          【题型】填空   
+【关键词】希望杯，五年级，一试
+原式 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算  EMBED Equation.DSMT4   
+【考点】分数乘除法           【难度】2星          【题型】填空   
+原式= EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+计算 EMBED Equation.DSMT4   
+【考点】分数乘除法           【难度】2星          【题型】填空   
+【关键词】2007年，希望杯，1试
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4   
+【考点】分数乘除法           【难度】2星          【题型】填空   
+本题考察学生对带分数的灵活转化及四则运算定律的准确理解
+本题非常容易出现的一种错误解法是：
+ EMBED Equation.DSMT4  
+也就是学生会惯性的理解为除法具有除法分配率！正确的解法如下：
+ EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+ EMBED Equation.DSMT4          ． 
+【考点】分数乘除法           【难度】2星          【题型】填空   
+原式 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+  EMBED Equation.DSMT4            
+【考点】分数乘除法           【难度】2星          【题型】填空   
+【关键词】2008年，清华附中考题
+原式 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+计算 EMBED Equation.DSMT4   
+【考点】分数乘除法           【难度】3星          【题型】填空   
+本题用是重复数字的拆分和分数计算的综合，
+例如： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+原式 EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+一根铁丝，第一次剪去了全长的 EMBED Equation.DSMT4  ，第二次剪去所剩铁丝的 EMBED Equation.DSMT4  ，第三次剪去所剩铁丝的 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4   第 EMBED Equation.DSMT4  次剪去所剩铁丝的 EMBED Equation.DSMT4  ，这时量得所剩铁丝为 EMBED Equation.DSMT4  米，那么原来的铁丝长        米。
+【考点】分数乘除法           【难度】2星          【题型】填空   
+【关键词】中环杯，六年级，初赛
+第 EMBED Equation.DSMT4  次剪去后剩下的铁丝为 EMBED Equation.DSMT4  (米)，第 EMBED Equation.DSMT4  次剪去后剩下的铁丝长为 EMBED Equation.DSMT4  ，依次可以得出，原来的铁丝长为 EMBED Equation.DSMT4  （米）。
+【答案】 EMBED Equation.DSMT4  
+2008减去它的 EMBED Equation.DSMT4  ，再减去所得差的 EMBED Equation.DSMT4  ，……，依此类推，直到减去上次所得差的 EMBED Equation.DSMT4  ．最后的数是___________．
+【考点】分数乘除法           【难度】2星          【题型】填空   
+【关键词】走美杯，五年级，初赛
+2008减去 EMBED Equation.DSMT4  后变为了原来的 EMBED Equation.DSMT4  ，再减去所得差的 EMBED Equation.DSMT4  则变成了原来的 EMBED Equation.DSMT4  ，依次类推，最后所得的数为 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+教师寄语：拼一个春夏秋冬，换一生无怨无悔。
+
+
+
+
+分数乘除法速算巧算
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+ PAGE  \* MERGEFORMAT 4
+
+
+

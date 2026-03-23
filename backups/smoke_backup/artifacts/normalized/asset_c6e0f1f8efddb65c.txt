@@ -1,0 +1,206 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+掌握用线段图法来分析题中的年龄关系.
+利用已经学习的和差、和倍、差倍的方法求解年龄问题．
+ SHAPE  \* MERGEFORMAT 
+知识点说明：
+一、年龄问题变化关系的三个基本规律：
+两人年龄的倍数关系是变化的量.
+每个人的年龄随着时间的增加都增加相等的量；
+两个人之间的年龄差不变
+二、年龄问题的解题要点是：
+1．入手：分析题意从表示年龄间倍数关系的条件入手理解数量关系．
+2．关键：抓住“年龄差”不变．
+3．解法：应用“差倍”、“和倍”或“和差”问题数量关系式．
+4．陷阱：求过去、现在、将来。
+年龄问题变化关系的三个基本规律：
+1．两人年龄的差是不变的量；
+2.两个人的年龄增加量是不变的；
+3．两人年龄的倍数关系是变化的量；年龄问题的解题正确率保证：验算！
+ SHAPE  \* MERGEFORMAT 
+年龄与和差倍分问题综合
+王刚、李强和小莉、小芳是两对夫妻，四人的年龄和为132，丈夫都比妻子大5岁，李强比小芳大6岁．小莉（     ）岁．
+【考点】年龄问题   【难度】3星   【题型】填空
+【关键词】走美杯，3年级，初赛
+通过丈夫都比妻子大5岁，李强比小芳大6岁．知道李强和小莉才是夫妻，那么小莉比李强小5岁，王刚和小芳是夫妻，小芳比李强小6岁，小芳又比王刚小5岁，可见王刚比李强小1岁，画图如下：
+
+       我们可以先求出李强的年龄：（132+1+6+5）÷4=36（岁），那么小莉的年龄是：36-5=31（岁）。
+【答案】小莉 EMBED Equation.DSMT4  岁。
+一家三口人，三人年龄之和是72岁，妈妈和爸爸同岁，妈妈的年龄是孩子的4倍，三人各是多少岁？
+【考点】年龄问题   【难度】3星   【题型】解答
+妈妈的年龄是孩子的4倍，爸爸和妈妈同岁，那么爸爸的年龄也是孩子的4倍，把孩子的年龄作为1倍数，已知三口人年龄和是72岁，那么孩子的年龄为：72÷（1+4+4）=8（岁），妈妈的年龄是：8×4=32（岁），爸爸和妈妈同岁为32岁.
+ 【答案】孩子 EMBED Equation.DSMT4  岁，爸爸妈妈 EMBED Equation.DSMT4  岁
+
+父子年龄之和是 EMBED Equation.DSMT4  岁，再过 EMBED Equation.DSMT4  年，父亲的年龄正好是儿子的 EMBED Equation.DSMT4  倍，父子今年各多少岁？
+【考点】年龄问题   【难度】3星   【题型】解答
+再过 EMBED Equation.DSMT4  年，父子俩一共长了 EMBED Equation.DSMT4  岁，那时他们的年龄之和是 EMBED Equation.DSMT4  (岁)，由于父亲的年龄是儿子的 EMBED Equation.DSMT4  倍，因而 EMBED Equation.DSMT4  岁相当于儿子年龄的 EMBED Equation.DSMT4  倍，可以先求出儿子 EMBED Equation.DSMT4  年后的年龄，再求出他们父子今年的年龄． EMBED Equation.DSMT4  年后的年龄和为： EMBED Equation.DSMT4  (岁)；
+ EMBED Equation.DSMT4  年后儿子的年龄： EMBED Equation.DSMT4  (岁)
+儿子今年的年龄： EMBED Equation.DSMT4  (岁)，父亲今年的年龄： EMBED Equation.DSMT4  (岁)
+ 【答案】儿子 EMBED Equation.DSMT4  岁，父亲 EMBED Equation.DSMT4  岁
+
+父子年龄之和是 EMBED Equation.DSMT4  岁， EMBED Equation.DSMT4  年前父亲的年龄正好是儿子的 EMBED Equation.DSMT4  倍，问父子今年各多少岁？
+【考点】年龄问题   【难度】3星   【题型】解答
+由已知条件可以得出， EMBED Equation.DSMT4  年前父子年龄之和是 EMBED Equation.DSMT4  (岁)，又知道 EMBED Equation.DSMT4  年前父亲的年龄正好是儿子的 EMBED Equation.DSMT4  倍，由此可得：
+儿子： EMBED Equation.DSMT4  (岁)；父亲： EMBED Equation.DSMT4  (岁)
+ 【答案】父亲 EMBED Equation.DSMT4  岁，儿子 EMBED Equation.DSMT4  岁
+
+王老师与王平和李刚两位同学的平均年龄是 EMBED Equation.DSMT4  岁，李老师与王平和李刚两位同学的平均年龄是  EMBED Equation.DSMT4  岁．王老师今年 EMBED Equation.DSMT4  岁，李老师今年多少岁?
+【考点】年龄问题   【难度】3星   【题型】解答
+王老师比李老师大 EMBED Equation.DSMT4  (岁)．故李老师今年的年龄为 EMBED Equation.DSMT4  (岁)．
+ 【答案】 EMBED Equation.DSMT4  岁
+
+小明与爸爸的年龄和是53岁，小明年龄的4倍比爸爸的年龄多2岁，小明与爸爸的年龄相差几岁？
+【考点】年龄问题   【难度】3星   【题型】解答
+把小明的年龄看成是一份，那么爸爸的年龄是四份少2，根据和倍关系：
+小明的年龄是：（53＋2）÷（4＋1）＝11（岁），
+爸爸的年龄是：53－11＝42（岁），
+小明与爸爸的年龄差是：42－11＝31（岁）．
+ 【答案】 EMBED Equation.DSMT4  岁
+
+我们每次过生日都要吃蛋糕，一般蛋糕上面都要插蜡烛，而且蜡烛数目恰好等于他生日那天的年龄.小明每年过生日都要吃蛋糕，今天又是小明的生日，从出生到今天，他的生日蛋糕共有24根蜡烛，则小明今天过的是____________________岁生日．
+【考点】年龄问题   【难度】3星   【题型】填空
+【关键词】学而思杯，4年级，第2题
+ EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，无法达到 EMBED Equation.DSMT4  。所以小明不是每年都能过生日，只有二月29日会使得他每四年过一次生日。 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，小明过得是 EMBED Equation.DSMT4  岁、 EMBED Equation.DSMT4  岁、 EMBED Equation.DSMT4  岁生日。所以小明今天过的是 EMBED Equation.DSMT4  岁生日。
+【答案】 EMBED Equation.DSMT4  岁。
+
+甲、乙、丙三人平均年龄为 EMBED Equation.DSMT4  岁，若将甲的岁数增加 EMBED Equation.DSMT4  ，乙的岁数扩大 EMBED Equation.DSMT4  倍，丙的岁数缩小 EMBED Equation.DSMT4  倍，则三人岁数相等，丙的年龄为多少岁？ 
+【考点】年龄问题   【难度】4星   【题型】解答
+【关键词】迎春杯，决赛
+当遇关系复杂时，将条件分别列出，再进行解决。
+甲增加 EMBED Equation.DSMT4  岁后，三人总年龄是 EMBED Equation.DSMT4  岁，并且这时丙是甲的 EMBED Equation.DSMT4  倍，甲是乙的 EMBED Equation.DSMT4  倍，丙是乙的 EMBED Equation.DSMT4  倍，所以这时乙的年龄是 EMBED Equation.DSMT4  (岁)，所以丙的年龄是 EMBED Equation.DSMT4  (岁)
+ 【答案】 EMBED Equation.DSMT4  岁
+
+甲的年龄比乙的年龄的4倍少3，甲在3年后的年龄等于乙9年后的年龄，问甲、乙现在各几岁？
+【考点】年龄问题   【难度】4星   【题型】解答
+甲在3年后的年龄等于乙9年后的年龄，也就是甲在3年后的年龄比乙在3年后的年龄多6岁，即甲、乙两人年龄差为6岁．甲的年龄比乙的年龄的4倍少3，即“甲的年龄+3”就是乙年龄的4倍，刚才已经得到甲、乙两人年龄之差为6岁，所以“甲的年龄+3”与乙年龄之差为 EMBED Equation.DSMT4  ，问题就转化为“差倍问题”了．乙年龄为： EMBED Equation.DSMT4  （岁），甲年龄为： EMBED Equation.DSMT4  （岁）．
+ 【答案】甲年龄为 EMBED Equation.DSMT4  岁，乙年龄为 EMBED Equation.DSMT4  岁
+
+今年，祖父的年龄是小明的年龄的6倍，几年后，祖父的年龄将是小明年龄的5倍，又过几年以后，祖父的年龄将是小明的年龄的4倍，求：祖父今年是多少岁？  
+【考点】年龄问题   【难度】3星   【题型】解答
+祖父的年龄比小明的年龄大，两人的年龄差是不变的.因为今年祖父的年龄是小明的年龄的6倍，所以年龄差是小明年龄的5倍，从而是年年差是5的倍数，同理，由“几年后，祖父的年龄是小明的年龄的5倍”，“又过几年以后，祖父的年龄是小明的年龄的4倍”，知道年龄差是4、3的倍数，所以，年龄差是 EMBED Equation.DSMT4  的倍数.而60的倍数是：60，120，…，合理的选择是60，今年小明的年龄是 EMBED Equation.DSMT4  (岁)，祖父的年龄是 EMBED Equation.DSMT4  (岁).
+ 【答案】 EMBED Equation.DSMT4  岁
+
+梁老师问陈老师有多少子女，她说：“现在我和爱人的年龄和是子女年龄和的6倍；两年前，我们的年龄和是子女年龄和的10倍；六年后，我们的年龄和是子女年龄和的3倍．”问陈老师有多少子女．
+【考点】年龄问题   【难度】4星   【题型】解答
+2年前，年龄差是子女年龄和的10-1=9倍；今年，年龄差是子女年龄和的6-1=5倍；6年后，年龄差是子女年龄和的3-1=2倍．这个时候可以看到这个题中的年龄差不是一定的，否则年龄差是9，5，2倍数，至少是90，这是不合常理的，也就是说子女个数不会是2个．最好的方法就是先假设陈老师有1个子女，很快就会得到矛盾，最后可以算出陈老师是3个子女．
+ 【答案】 EMBED Equation.DSMT4  个
+
+同学们可能知道，歌星、影星一般都不愿意公开自己的年龄。这个小故事说的就是一个记者千方百计要从一个女影星嘴里打听出她的年龄。影星不想说谎，却又不愿意把自己的年龄讲出来，于是就对记者说：“我 EMBED Equation.DSMT4  年后岁数的 EMBED Equation.DSMT4  倍，减去我 EMBED Equation.DSMT4  年前岁数的 EMBED Equation.DSMT4  倍，正好是我现在的年龄。”记者想了半天，还是没有想出来影星的年龄。同学们开动脑筋想一想，这个影星今年到底多少岁了？
+【考点】年龄问题   【难度】4星   【题型】解答
+可以假设影星现在的年龄是 EMBED Equation.DSMT4  岁，那么她 EMBED Equation.DSMT4  年前、 EMBED Equation.DSMT4  年后的年龄分别是 EMBED Equation.DSMT4  岁和 EMBED Equation.DSMT4  岁。两者相差 EMBED Equation.DSMT4  （岁），所以这个影星今年的年龄是 EMBED Equation.DSMT4  岁。
+同学们可以考虑一下，自己 EMBED Equation.DSMT4  年后比 EMBED Equation.DSMT4  年前的年龄大多少岁？自己的爸爸、妈妈 EMBED Equation.DSMT4  年后又比 EMBED Equation.DSMT4  年前的年龄大多少岁呢？我们会发现，都是 EMBED Equation.DSMT4  岁。所以，这个影星今年的年龄是 EMBED Equation.DSMT4  （岁）。
+ 【答案】 EMBED Equation.DSMT4  岁
+
+一位美妇，人到中年，很不愿提起自己的年龄，但她又从不愿说谎。一天，有人问及她的年龄，她只好实话实说：“我4年后的年龄的6倍减去我3年前的年龄的6倍，就是我现在的年龄。”这位妇人今年________岁。
+【考点】年龄问题   【难度】4星    【题型】填空
+【关键词】走美杯，3年级，决赛
+根据差不变的原理，4年后的年龄：现在年龄+4岁，3年前的年龄：现在年龄 EMBED Equation.DSMT4  3岁，两个年龄做差的六倍为：(4+3)×6 EMBED Equation.DSMT4  42(岁)，所以她现在年龄是42岁。
+【答案】 EMBED Equation.DSMT4  岁
+
+ EMBED Equation.DSMT4  年前姐姐与妹妹的年龄比为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  年后姐姐和妹妹的年龄比为 EMBED Equation.DSMT4  ，问姐姐和妹妹的年龄差为          
+【考点】年龄问题   【难度】3星   【题型】填空
+这样年龄差为 EMBED Equation.DSMT4  份，从 EMBED Equation.DSMT4  年前到 EMBED Equation.DSMT4  年后是 EMBED Equation.DSMT4  年，恰好对应 EMBED Equation.DSMT4  份，所以姐姐和妹妹的年龄差为 EMBED Equation.DSMT4  岁
+ 【答案】 EMBED Equation.DSMT4  岁
+
+今年，小军和小勇的年龄的比是3：5，两年后，两人的年龄的比是2：3，那么，小军今年        岁，小勇今年      岁。
+【考点】年龄问题   【难度】3星   【题型】填空
+【关键词】希望杯，五年级，一试，第11题
+两年后，两人的年龄比试2：3，也即4：6，跟现在的年龄比3：5相比正好每个人都增加了1份，说明1份正好是2年，所以，小军今年是2×3=6（岁），小勇今年是2×5=10（岁）。另本题还可以方程解。
+【答案】 EMBED Equation.DSMT4  岁
+
+小明今年的年龄是他出生那年的年份的数字之和．问：他今年（1995年）多少岁？
+【考点】年龄问题   【难度】3星   【题型】解答
+【关键词】华杯赛，初赛
+设小明出生那年是 EMBED Equation.DSMT4  年，则 EMBED Equation.DSMT4  ，从而有 EMBED Equation.DSMT4  ．若 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ；若 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ．所以必有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．小明今年是 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  （岁）．
+ 【答案】 EMBED Equation.DSMT4  岁
+
+小明爷爷的年龄是一个二位数，将此二位数的数字交换得到的数就是小明爸爸的年龄，又知道他们年龄之差是小明年龄的4倍，求小明的年龄。
+【考点】年龄问题   【难度】3星   【题型】解答
+【关键词】华杯赛，初赛，第9题
+设爷爷的年龄是1Oa＋b，其中a、b都是数字，则爸爸的年龄是1Ob＋a，年龄差是：(10a＋b)－(10b＋a)＝9×(a－b)；这差是4的倍数，所以a－b是4的倍数，但a≤9，而根据常识，小明爸爸的年龄不可能是十几岁，因此b≥2，a－b≤7，从而，必有a－b＝4.小明的年龄是9×(a－b)÷4＝9(岁)。
+【答案】 EMBED Equation.DSMT4  岁
+
+已知小明的爸爸和妈妈的年龄不同，且相差不超过10岁。如果去年，今年和明年，爸爸和妈妈的年龄都是小明年龄的整数倍，那么小明今年__________岁。
+【考点】年龄问题   【难度】3星   【题型】填空
+【关键词】希望杯，六年级，一试，第15题
+爸爸、妈妈、小明三人的年龄在去年、今年和明年各是3个连续自然数，爸爸、妈妈的年龄差不超过10岁，且均为小明年龄的倍数，则小明年龄只能是2岁（去年、今年依次为1、2、3岁），否则  EMBED Equation.DSMT4  ，例如： EMBED Equation.DSMT4  ，则小明父母年龄不可能相差在10岁以内可构造出满足题意的解，如：爸爸：37,38,39；妈妈：31,32,33；小明：1，2，3；∴小明今年2岁。
+【答案】 EMBED Equation.DSMT4  岁
+
+小明爷爷的年龄是一个两位数，将此两位数的数字交换得到的数就是小明爸爸的年龄，又知道他们的年龄的差是小明年龄的4倍，求小明的年龄．
+【考点】年龄问题   【难度】3星   【题型】解答
+【关键词】华杯赛，初赛
+假设爷爷的年龄是 EMBED Equation.DSMT4  ，其中 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  都是数字，则爸爸的年龄是 EMBED Equation.DSMT4  ，年龄差是 EMBED Equation.DSMT4    EMBED Equation.DSMT4  ．这差是4的倍数，所以 EMBED Equation.DSMT4  是4的倍数，但 EMBED Equation.DSMT4  ，而根据常识，小明爸爸的年龄不可能是十几岁，因此 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，从而必有 EMBED Equation.DSMT4  ．
+小明的年龄是 EMBED Equation.DSMT4  （岁）．
+ 【答案】 EMBED Equation.DSMT4  岁
+
+一位一百多岁的老寿星（2001年时），公元 EMBED Equation.DSMT4  年时年龄为 EMBED Equation.DSMT4  岁，此老寿星 EMBED Equation.DSMT4  年是多少？
+【考点】年龄问题   【难度】4星   【题型】解答
+【关键词】小学数学奥林匹克，决赛
+ EMBED Equation.DSMT4  年，老寿星 EMBED Equation.DSMT4  多岁，说明出生年份是 EMBED Equation.DSMT4  年．在此后的某一年，他的年龄为 EMBED Equation.DSMT4  岁，而那一年恰是公元 EMBED Equation.DSMT4  年．平方大于 EMBED Equation.DSMT4  而小于2001的数在 EMBED Equation.DSMT4  与45之间，这就大大缩小了思考范围，再通过检验就可确定 EMBED Equation.DSMT4  ，进而确定老寿星的出生年份及 EMBED Equation.DSMT4  年的岁数．
+由于 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  应在 EMBED Equation.DSMT4  ～ EMBED Equation.DSMT4  之间．
+而 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  显然不等于 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ．
+若 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  年时 EMBED Equation.DSMT4  岁，则出生于 EMBED Equation.DSMT4  年， EMBED Equation.DSMT4  年 EMBED Equation.DSMT4  岁；
+若 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  年时 EMBED Equation.DSMT4  岁，出生于 EMBED Equation.DSMT4  年， EMBED Equation.DSMT4  年 EMBED Equation.DSMT4  岁．
+可知比较合乎实际的答案是老寿星 EMBED Equation.DSMT4  年 EMBED Equation.DSMT4  岁．
+ 【答案】 EMBED Equation.DSMT4  岁
+
+三个人的年龄和是75岁，最大的人比其它两个人的年龄和还要大15岁，最小的人是12岁，问三个人的年龄各是多少？
+【考点】年龄问题   【难度】4星   【题型】解答
+已知“最大的人比其它两个人的年龄和还要大15岁”，把“其它两个人的年龄和”看成一个数，还知道三个人年龄和是75岁，这便是转化成一个典型的和差问题，最大的人的年龄是： EMBED Equation.DSMT4  (岁)，其它两人的年龄和是： EMBED Equation.DSMT4  (岁)，已知最小的年龄是12岁，所以剩下的一人年龄为： EMBED Equation.DSMT4  (岁)．
+ 【答案】最大 EMBED Equation.DSMT4  (岁)，最小的是12岁，中间的是 EMBED Equation.DSMT4  岁
+
+四个人年龄之和是 EMBED Equation.DSMT4  岁，最小的一个 EMBED Equation.DSMT4  岁，他与最大的人年龄之和比另外两个人年龄之和大 EMBED Equation.DSMT4  岁，那么这四个人中年龄最大的一个年龄是多少？
+【考点】年龄问题   【难度】4星   【题型】解答
+最小的一个与最大的人年龄之和比另外两个人年龄之和大 EMBED Equation.DSMT4  岁．最小的一个与最大的人年龄之和看成一个数，把另外两个人年龄之和也看成一个数．问题就转化为两个数的和是 EMBED Equation.DSMT4  ，差是 EMBED Equation.DSMT4  ．这是一个典型的和差同题．因此最小的一个与最大的人年龄之和是： EMBED Equation.DSMT4  (岁)．最小的 EMBED Equation.DSMT4  岁，因此最大的年龄为： EMBED Equation.DSMT4  (岁)
+ 【答案】 EMBED Equation.DSMT4  岁
+
+五位老人的年龄互不相同，其中年龄最大的比年龄最小的大 EMBED Equation.DSMT4  岁，已知他们的平均年龄为 EMBED Equation.DSMT4  岁，其中年龄最大的一位老人的年龄是多少岁？
+【考点】年龄问题   【难度】4星   【题型】解答
+如果最小的比 EMBED Equation.DSMT4  只小 EMBED Equation.DSMT4  岁，那么由于这时其他人的年龄均不小于 EMBED Equation.DSMT4  岁，而最大的比 EMBED Equation.DSMT4  大 EMBED Equation.DSMT4  岁，这样平均年龄必超过 EMBED Equation.DSMT4  岁；如果最小的比 EMBED Equation.DSMT4  小 EMBED Equation.DSMT4  岁，那么可能还有一人比 EMBED Equation.DSMT4  小 EMBED Equation.DSMT4  岁，但最大的比 EMBED Equation.DSMT4  大 EMBED Equation.DSMT4  岁，而 EMBED Equation.DSMT4  ，从而平均年龄仍超过 EMBED Equation.DSMT4  岁；如果最小的比 EMBED Equation.DSMT4  小 EMBED Equation.DSMT4  岁，那么最大的比 EMBED Equation.DSMT4  大 EMBED Equation.DSMT4  岁，两人的平均年龄正好是 EMBED Equation.DSMT4  岁，其他三人如果年龄是 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  (或 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  )，那么五人平均年龄正好是 EMBED Equation.DSMT4  岁；如果最小的比 EMBED Equation.DSMT4  小 EMBED Equation.DSMT4  岁或小 EMBED Equation.DSMT4  岁，类似前面的分析可知，这时平均年龄必小于 EMBED Equation.DSMT4  岁．因此 ，最大的年龄一定是 EMBED Equation.DSMT4  岁．
+ 【答案】 EMBED Equation.DSMT4  岁
+
+今年儿子的年龄是父亲年龄的 EMBED Equation.DSMT4  ,15年后,儿子的年龄是父亲年龄的 EMBED Equation.DSMT4  。今年儿子______岁。
+【考点】年龄问题   【难度】4星   【题型】填空
+【关键词】希望杯，六年级，一试，第10题
+今年儿子的年龄相当于父子年龄差的 EMBED Equation.DSMT4  ，15年后今年儿子的年龄相当于父子年龄差的 EMBED Equation.DSMT4  ，所以15年相当于父子年龄差的 EMBED Equation.DSMT4  ，年龄差为 EMBED Equation.DSMT4  岁.今年儿子 EMBED Equation.DSMT4  岁.
+【答案】 EMBED Equation.DSMT4  岁
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+6-1-8.年龄问题（三）.题库	                      教师版                              page  PAGE 8 of  NUMPAGES 8
+
+
+知识精讲
+
+
+
+
+例题精讲
+
+
+6-1-8.年龄问题（三）
+
+
+
+
+教学目标
+
+
+
+
+
+

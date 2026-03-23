@@ -1,0 +1,219 @@
+      SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+
+了解数阵图的种类
+学会一些解决数阵图的解题方法
+能够解决和数论相关的数阵图问题
+ SHAPE  \* MERGEFORMAT .
+
+一、数阵图定义及分类：
+
+定义：把一些数字按照一定的要求，排成各种各样的图形，这类问题叫数阵图.
+数阵是一种由幻方演变而来的数字图.数阵图的种类繁多，这里只向大家介绍三种数阵图：即封闭型数阵图、辐射型数阵图和复合型数阵图.
+
+二、解题方法：
+解决数阵类问题可以采取从局部到整体再到局部的方法入手：
+第一步：区分数阵图中的普通点(或方格)和关键点(或方格)；
+第二步：在数阵图的少数关键点(一般是交叉点)上设置未知数，计算这些关键点与相关点的数量关系，得到关键点上所填数的范围；
+第三步：运用已经得到的信息进行尝试．这个步骤并不是对所有数阵题都适用，很多数阵题更需要对数学方法的综合运用．
+ SHAPE  \* MERGEFORMAT 
+复合型数阵图
+由数字1、2、3组成的不同的两位数共有9个，老师将这9个数写在一个九宫格上，让同学选数，每个同学可以从中选5个数来求和．小刚选的5个数的和是120，小明选的5个数的和是111．如果两人选的数中只有一个是相同的，那么这个数是_____________．
+
+【考点】复合型数阵图   【难度】3星   【题型】填空
+【关键词】迎春杯，中年级，决赛，3题
+这9个数的和： EMBED Equation.DSMT4                EMBED Equation.DSMT4   由小刚和小明选的数中只有一个是相同的，可知他们正好把这9个数全部都取到了，且有一个数取了两遍．所以他们取的数的总和比这9个数的和多出来的部分就是所求的数．那么，这个数是 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+如图1，圆圈内分别填有1，2，……，7这7个数。如果6个三角形的顶点处圆圈内的数字的和是64，那么，中间圆圈内填入的数是     。
+
+【考点】复合型数阵图   【难度】3星   【题型】填空
+【关键词】希望杯，五年级，复赛，第5题，5分
+2
+【答案】 EMBED Equation.DSMT4  
+
+如下图（1）所示，在每个小圆圈内填上一个数，使得每一条直线上的三个数的和都等于大圆圈上三个数的和.
+
+【考点】复合型数阵图   【难度】3星   【题型】填空  
+为叙述方便，先在每个圆圈内标上字母，如图（2），
+
+则有a+4+9=a+b+c（1）
+b+8+9=a+b+c（2）
+　　        c+17+9=a+b+c（3）
+　　   （1）+（2）+（3）：（a+b+c）+56=3（a+b+c），a+b+c=28，则 a=28－（4+9）=15，b=28－（8+9）=11，
+ c=28-（17+9）=2解：见图.
+
+【答案】
+
+
+请你将数字1、2、3、4、5、6、7填在下面图（1）所示的圆圈内，使得每个圆圈上的三个数之和与每条直线上的三个数之和相等.应怎样填？
+
+【考点】复合型数阵图   【难度】3星   【题型】填空  
+为了叙述方便，将各圆圈内先填上字母，如图（2）所示.设A+B+C=A+F+G=A+D+E=B+D+F=C+E+G=k（A+B+C）+（A+F+G）+（A+D+E）+（B+D+F）+（C+E+G）=5k，3A+2B+2C+2D+2E+2F+2G=5k，2（A+B+C+D+E+F+G）+A=5k，2（1+2+3+4+5+6+7）+A=5k，56+A=5k.，因为56+A为5的倍数，得A=4，进而推出k=12，因为在1、2、3、5、6、7中，1+5+6=7+3+2=12，不妨设B=1，F=5，D=6，则C=12-（4+1）=7，G=12-（4+5）=3，E=12-（4+6）=2.，解：得到一个基本解为：（见图）
+
+【答案】
+
+
+在左下图的每个圆圈中填上一个数，各数互不相等，每个圆圈有3个相邻(即有线段相连的圆圈)的圆圈。将左下图中每个圆圈中的数改为3个相邻圆圈所填数的平均值，便得到右下图。如果左下图中已有一个数1，请填出左下图中的其它数，使得右下图中的数都是自然数。
+
+
+【考点】复合型数阵图   【难度】4星   【题型】填空
+【关键词】走美杯，6年级，决赛，第10题，10分
+答案不唯一。要求四个灰色圆圈中所填的数除以3的余数相同，另外四个圆圈中所填的数除以3的余数也相同。注：题中左、右两图是两个不同的图，左图要求各数互不相同(见答案)，右图中各数是根据左图改的，只要求是自然数，可以相同。
+
+【答案】
+
+
+将1至8这八个自然数分别填入图中的正方体的八个顶点处的 EMBED Equation.DSMT4  内，并使每个面上的四个 EMBED Equation.DSMT4  内的数字之和都相等。求与填入数字1的 EMBED Equation.DSMT4  有线段相连的三个 EMBED Equation.DSMT4  内的数的和的最大值。
+ 
+【考点】复合型数阵图   【难度】4星   【题型】填空  
+【考点】   【难度】星   【题型】填空
+【关键词】希望杯，六年级，二试，第13题，15分
+因为1到8的和为36，而上面四个数的和等于下面四个数的和，所以都为18。因为每个面的数字和相等，所以一个面上应当大小数搭配，也就是说，和最小的数字1在同一个面上的应该有较大的数。尝试最大的三个数8，7，6，则和1，8，7在同一个面上的数应该是18-1-8-7=2，和1，8，6在同一个面上的数应该是18-1-8-6=3，和1，7，6在同一个面上的数应该是在同一个面上的数应该是18-1-7-6=4，剩下一个5填在剩下的○中，经检验，符合题意，那么与1相连的三个○的和是 EMBED Equation.DSMT4  
+
+【答案】 EMBED Equation.DSMT4  
+
+将自然数 EMBED Equation.DSMT4  到 EMBED Equation.DSMT4  分别填在右图的圆圈内，使得图中每条直线上的三个圆圈内的数的和相等．
+
+【考点】复合型数阵图   【难度】5星   【题型】填空  
+设左下角的数为 EMBED Equation.DSMT4  ，每条直线上的三个数的和为 EMBED Equation.DSMT4  ．由于这11个数的和为 EMBED Equation.DSMT4  ．从左下角引出的 EMBED Equation.DSMT4  条直线的总和为 EMBED Equation.DSMT4  ，其中左下角的数多计算了4次，则 EMBED Equation.DSMT4  ；又由三条横线及左下角引出的一条斜线上的数的总和可得 EMBED Equation.DSMT4  ．从而结合上面的两个式子可得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，即左下角的数为6，每条线上的数之和为18．再设大正方形其他三个圆圈上的数分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，于是可得各个圆圈中的数如图所示．除6以外的10个数分别为： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．由于 EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ．所以，只要选取适当的 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的值，使得上面的10个数各不相同即可．比如，选择 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，则可得到如右上图所示的一种填法．本题答案不唯一，下面再给出两种填法。
+ 	
+【答案】
+ 
+
+
+在下图中，在每个圆圈中填入一个数，使每条直线上所有圆圈中数的和都是234，那么标有★的圆圈中所填的数是_____________．
+   
+【考点】复合型数阵图   【难度】5星   【题型】填空
+【关键词】迎春杯，中年级，决赛，11题
+为表述方便，将圆圈中数用字母替代（如右图）． 根据题意，有  EMBED Equation.DSMT4        ⑴  EMBED Equation.DSMT4        ⑵  EMBED Equation.DSMT4        ⑶  EMBED Equation.DSMT4         ⑷  EMBED Equation.DSMT4        ⑸ ⑴ EMBED Equation.DSMT4  ⑵ EMBED Equation.DSMT4  ⑶ EMBED Equation.DSMT4  ⑷ EMBED Equation.DSMT4  ⑸，有 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ．
+【答案】 EMBED Equation.DSMT4  
+
+请将1，2，3，…，10这10个自然数填入图中的10个小圆圈内，使得图中的10条直线上圆圈内数字之和都相等．那么乘积 EMBED Equation.DSMT4           ？
+
+【考点】复合型数阵图   【难度】5星   【题型】填空  
+【关键词】迎春杯，高年级，决赛，10题
+对于本题，可以通过“10条直线上圆圈内数字之和都相等”(实际上是11条)这一等量关系，将每一个小圆圈中的数表示出来．由于每一条直线上的数之和都为 EMBED Equation.DSMT4  ，可得图中每一个小圆圈中的数如下图。
+
+由于中间竖直方向的线段以及从左下角 EMBED Equation.DSMT4  出发的只有两个数字的那条线段，它们的数字和都是 EMBED Equation.DSMT4  ，可以得到， EMBED Equation.DSMT4  ，可得 EMBED Equation.DSMT4  ，代入得 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ，只能是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  
+【答案】 EMBED Equation.DSMT4  
+
+下图中有11条直线．请将1至11这11个数分别填在11个圆圈里，使每一条直线上所有数的和相等．求这个相等的和以及标有*的圆圈中所填的数．
+
+【考点】复合型数阵图   【难度】5星   【题型】填空  
+设每行的和为 EMBED Equation.DSMT4  ，在左下图中，除了 EMBED Equation.DSMT4  出现2次，其他数字均只出现了1次，并且每个数字都出现了，于是有 EMBED Equation.DSMT4  ；
+        
+在右上图中除了 EMBED Equation.DSMT4  出现5次，其他数字均只出现了1次，并且每个数字都出现了，于是有 EMBED Equation.DSMT4  ．
+综合以上两式， EMBED Equation.DSMT4  ，解得 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+考虑到含有*的五条线，有 EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ．
+可见 EMBED Equation.DSMT4  是4的倍数，在1～11间可能为4和8，但 EMBED Equation.DSMT4  为8时 EMBED Equation.DSMT4  也为8，重复．所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．
+即每行相等的和为18，标有*的圆圈中所填的数为7．
+最终的填法如右下图．
+        
+【答案】
+
+ “美妙的数学花园”这7个字各代表1~7中的一个数，并且每个圆中4个数的和都是15。如果学比美大，美比园大，那么，园表示       。
+
+【考点】复合型数阵图   【难度】5星   【题型】填空
+【关键词】（走美杯3年级决赛第11题，12分）
+首先找出从 EMBED Equation.DSMT4  到 EMBED Equation.DSMT4  中四个数之和为 EMBED Equation.DSMT4  的有以下四组：① EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ；② EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ；③ EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  ；④ EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  需要从其中选出 EMBED Equation.DSMT4  组，其中每两个组间都有两个相等的数，且这三组都含有同一个数，分析发现这三组可为①、③、④或②、③、④，当这三组数为①、③、④时即 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ； EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ．其中①、③公有的是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ；①、④公有是 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ；③、④公有 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，即“妙，花，数”应为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  其中之一．则剩下数字 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  应为美、学、园其中之一．又因为学 EMBED Equation.DSMT4  美 EMBED Equation.DSMT4  园，所以学 EMBED Equation.DSMT4  ，美 EMBED Equation.DSMT4  ，园 EMBED Equation.DSMT4  ．当这三组数为②、③、④时同样的方法可分析出园 EMBED Equation.DSMT4  ．
+
+【答案】 EMBED Equation.DSMT4  
+
+图2中的五个问号分别表示五个连续的自然数，它们的和等于130，三角形内两个数的和等于53，圆内三个数的和等于79，正方形内两个数的和等于50。那么，从左向右，这五个问号依次是    
+
+【考点】复合型数阵图   【难度】3星   【题型】填空
+【关键词】希望杯，四年级，复赛，第5题，5分
+根据题意答案为：25，28，27，24，26
+【答案】25，28，27，24，26
+
+右图是大家都熟悉的奥林匹克五环标志．请将 EMBED Equation.DSMT4  分别填入五个圆相互分割的九个部分，并且使每个圆环内的数字之和都相等．
+
+【考点】复合型数阵图   【难度】5星   【题型】填空  
+设每个圆内的数字之和为 EMBED Equation.DSMT4  ，则五个圆内的数字之和是 EMBED Equation.DSMT4  ，它等于 EMBED Equation.DSMT4  的和 EMBED Equation.DSMT4  再加上两两重叠处的四个数之和．而两两重叠处的四个数之和最小是 EMBED Equation.DSMT4  ，最大是 EMBED Equation.DSMT4  ，所以， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，即 EMBED Equation.DSMT4  ．当 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  时可得四种填法(见右下图)．
+
+当 EMBED Equation.DSMT4  时，如右上图，设两两重叠处的四个数分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，由上面的分析可知， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，由于 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，那么，不论 EMBED Equation.DSMT4  为多少，最左边的数总是会与 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  中的某一个相同，矛盾．所以当 EMBED Equation.DSMT4  时没有符合题意的填法．
+当 EMBED Equation.DSMT4  时， EMBED Equation.DSMT4  ．如果 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  中有一个数为 EMBED Equation.DSMT4  ，比如 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  ，这样与 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  在同一个圆内的那个数将与 EMBED Equation.DSMT4  相同．可见 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  都不能为 EMBED Equation.DSMT4  ．如果 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  中至少有 EMBED Equation.DSMT4  个数大于 EMBED Equation.DSMT4  ，那么它们至少为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，另一个数至少为 EMBED Equation.DSMT4  ，它们的和将不小于 EMBED Equation.DSMT4  ，矛盾．所以 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  中至少有 EMBED Equation.DSMT4  个数小于 EMBED Equation.DSMT4  ，这 EMBED Equation.DSMT4  个数只能为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，那么另两个数之和为 EMBED Equation.DSMT4  ．如果这两个数中有一个为 EMBED Equation.DSMT4  或者 EMBED Equation.DSMT4  ，那么最左边或者最右边的数将与 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  中的某一个相同，矛盾；如果这两个数为 EMBED Equation.DSMT4  和 EMBED Equation.DSMT4  ，那么与 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  在同一个圆内的那个数将只能为 EMBED Equation.DSMT4  ，这也不可能出现．所以当 EMBED Equation.DSMT4  时也没有符合题意的填法．
+【答案】当 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  时可得四种填法
+
+
+2008年奥运会在北京举行。“奥”、“运”、 “会”、“北”、“京”这五个汉字代表五个连续的自然数，将其分别填在五环图案的五个环内，满足“奥”+“运”+“会”=“北”+“京”。这五个自然数的和最大是         。
+
+【考点】复合型数阵图   【难度】5星   【题型】填空
+【关键词】迎春杯，四年级，初赛，第2题）
+不妨设最小一个数是x，那么这5个数是x，x+1，x+2，x+3，x+4.但无法将它们对应，但无论怎么样，列出的方程一定是这个形式的：（x+a）+（x+b）+（x+c）=（x+d）+（x+e），其中a、b、c、d、e分别是0、1、2、3、4.方程解得：x=（d+e）-（a+b+c），如果连续5个自然数最大，那么最小的那个自然数也必须取得最大，显然减号前是3、4，减号后0、1、2时，x取得最大值4，所以这5个数是4、5、6、7、8，和为30
+【答案】 EMBED Equation.DSMT4  
+
+如图， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  代表九个各不相同的正整数，且每个圆中所填数的和都等于 EMBED Equation.DSMT4  。这九个数总和最小为        。
+
+【考点】复合型数阵图   【难度】5星   【题型】填空
+【关键词】走美杯，5年级，决赛，第12题，15分
+假设 EMBED Equation.DSMT4  个数总和是 EMBED Equation.DSMT4  ，则 EMBED Equation.DSMT4  ,上面三个环的总和为： EMBED Equation.DSMT4  ，所以当 EMBED Equation.DSMT4  时，总和最小为 EMBED Equation.DSMT4  。
+【答案】 EMBED Equation.DSMT4  
+
+如图， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  代表九个各不相同的正整数， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  的总和是 EMBED Equation.DSMT4  ，并且每个圆中所填的数和都等于 EMBED Equation.DSMT4  。 EMBED Equation.DSMT4   EMBED Equation.DSMT4  最大为多少？ EMBED Equation.DSMT4   EMBED Equation.DSMT4  最小为多少？
+
+【考点】复合型数阵图   【难度】6星   【题型】填空
+【关键词】走美杯，6年级，决赛，第11题，15分
+上面三个环里数的和为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  最大可以取 EMBED Equation.DSMT4  ，此时 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  分别为 EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  。五环的和是 EMBED Equation.DSMT4  ，要使 EMBED Equation.DSMT4  最小，只要取 EMBED Equation.DSMT4  最小为 EMBED Equation.DSMT4  ，此时 EMBED Equation.DSMT4  。
+【答案】最大 EMBED Equation.DSMT4  ，最小 EMBED Equation.DSMT4  
+
+将数字1~9分别填在下图空白的正六边形格子中，使得箭头所指直线方向上空格中所填的数字和等于该箭头所在格中的给定数（每个方向上所填的数互不相同，且到写有另一个给定数字的格为止）。例如： EMBED Equation.DSMT4  当填写完后，字母C处所写的数字是_____________。
+
+4            B.  5              C.  7            D.  9
+【考点】复合型数阵图   【难度】6星   【题型】填空
+【关键词】迎春杯，中年级，复试，7题
+ EMBED Equation.DSMT4   EMBED Equation.DSMT4   EMBED Equation.DSMT4  ，提示：在下图中，直线 EMBED Equation.DSMT4  上的 EMBED Equation.DSMT4  个数之和是，只有 EMBED Equation.DSMT4  ，直线 EMBED Equation.DSMT4  上的 EMBED Equation.DSMT4  个数之和是 EMBED Equation.DSMT4  ，只有 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  等于 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ；
+
+直线 EMBED Equation.DSMT4  上的 EMBED Equation.DSMT4  个数之和是 EMBED Equation.DSMT4  ，只有： EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，再考虑到 EMBED Equation.DSMT4  等于 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，得到 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  。直线 EMBED Equation.DSMT4  上的 EMBED Equation.DSMT4  个数之和是 EMBED Equation.DSMT4  ，并且 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  或 EMBED Equation.DSMT4  ，只有 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  ，再考虑到 EMBED Equation.DSMT4  上的数不大于 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  。下图是一种填法（填法不唯一）。
+
+【答案】C=7。
+
+用数字 EMBED Equation.DSMT4  至 EMBED Equation.DSMT4  填满空格，一个格子只能填入一个数字，每个数字在每一行，每一列（相连或不相连）及每个粗线围成的区域中至多出现一次。
+
+【考点】数阵图与数论   【难度】5星   【题型】填空
+【关键词】走美杯，3年级，决赛，第11题，12分
+如图 EMBED Equation.DSMT4  ，因为 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  所在列已经出现 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  不等于 EMBED Equation.DSMT4  ，
+在这四个数所在的粗黑线围成的区域中可知 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  不等于 EMBED Equation.DSMT4  ，而在 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  所在的列中出现了数字 EMBED Equation.DSMT4  ，所以 EMBED Equation.DSMT4  、 EMBED Equation.DSMT4  不等于 EMBED Equation.DSMT4  ，那么 EMBED Equation.DSMT4  ，之后用同样的方法可以得出结果如图 EMBED Equation.DSMT4  。
+
+【答案】
+
+
+用l—9填满三角形空格，一个格子只能填入一个数字，使每个数字在每一行，每一列(包括不相连的行，列)及每个粗黑线围成的区域中至多出现一次．
+
+【考点】数阵图与数论   【难度】6星   【题型】填空
+【关键词】走美杯，初赛，六年级，第10题
+解题顺序如第二附图，依照A、B、C、D……的顺序.
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+5-1-3-2.数阵图.题库	                        教师版                           page  PAGE 11 of  NUMPAGES 11
+
+
+
+5-1-3-2.数阵图
+
+教学目标
+
+知识点拨
+
+例题精讲
+
+
+
+

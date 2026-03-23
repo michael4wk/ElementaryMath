@@ -1,0 +1,192 @@
+ SHAPE  \* MERGEFORMAT 
+ SHAPE  \* MERGEFORMAT 
+等差数列的相关公式
+(1)三个重要的公式
+① 通项公式：递增数列：末项 EMBED Equation.DSMT4  首项 EMBED Equation.DSMT4  (项数 EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  公差， EMBED Equation.DSMT4   
+递减数列：末项 EMBED Equation.DSMT4  首项 EMBED Equation.DSMT4  (项数 EMBED Equation.DSMT4  ) EMBED Equation.DSMT4  公差， EMBED Equation.DSMT4  
+回忆讲解这个公式的时候可以结合具体数列或者原来学的植树问题的思想，让学生明白      末项其实就是首项加上(末项与首项的)间隔个公差个数，或者从找规律的情况入手．同时还可延伸出来这样一个有用的公式： EMBED Equation.DSMT4  ， EMBED Equation.DSMT4  
+② 项数公式：项数 EMBED Equation.DSMT4  (末项 EMBED Equation.DSMT4  首项) EMBED Equation.DSMT4  公差+1 
+由通项公式可以得到： EMBED Equation.DSMT4   (若 EMBED Equation.DSMT4  )； EMBED Equation.DSMT4   (若 EMBED Equation.DSMT4  )．
+找项数还有一种配组的方法，其中运用的思想我们是常常用到的．
+譬如：找找下面数列的项数：4、7、10、13、 EMBED Equation.DSMT4  、40、43、46 ，
+分析：配组：(4、5、6)、(7、8、9)、(10、11、12)、(13、14、15)、 EMBED Equation.DSMT4  、(46、47、48)，注意等差是3 ，那么每组有3个数，我们数列中的数都在每组的第1位，所以46应在最后一组第1位，4到48有 EMBED Equation.DSMT4  项，每组3个数，所以共 EMBED Equation.DSMT4  组，原数列有15组． 当然还可以有其他的配组方法．
+③ 求和公式：和=(首项 EMBED Equation.DSMT4  末项) EMBED Equation.DSMT4  项数÷2 
+对于这个公式的得到可以从两个方面入手：
+(思路1)  EMBED Equation.DSMT4  
+　           EMBED Equation.DSMT4   EMBED Equation.DSMT4  
+(思路2)这道题目，还可以这样理解： 
+ EMBED Equation.DSMT4  即，和 EMBED Equation.DSMT4  
+(2) 中项定理：对于任意一个项数为奇数的等差数列，中间一项的值等于所有项的平均数，也等于首项与末项和的一半；或者换句话说，各项和等于中间项乘以项数．
+譬如：①  EMBED Equation.DSMT4  ，
+题中的等差数列有9项，中间一项即第5项的值是20，而和恰等于 EMBED Equation.DSMT4  ；
+②  EMBED Equation.DSMT4  ，
+题中的等差数列有33项，中间一项即第17项的值是33，而和恰等于 EMBED Equation.DSMT4  ．
+ SHAPE  \* MERGEFORMAT 
+用等差数列的求和公式会计算下面各题吗？ 
+⑴ EMBED Equation.DSMT4  
+⑵ EMBED Equation.DSMT4  
+⑶ EMBED Equation.DSMT4  
+
+
+1+2+……+8+9+10+9+8+……+2+1=_____。
+
+
+1966、1976、1986、1996、2006这五个数的总和是多少? 
+
+
+计算：110＋111＋112＋…＋126＝         
+
+
+计算下面结果． 
+    ⑴ EMBED Equation.DSMT4  
+   ⑵ EMBED Equation.DSMT4  
+ ⑶ EMBED Equation.DSMT4  
+
+用等差数列的求和公式会计算下面各题吗？ 
+⑴ EMBED Equation.DSMT4  
+⑵ EMBED Equation.DSMT4  
+⑶ EMBED Equation.DSMT4  
+
+
+
+计算下列一组数的和：105，110，115，120，…，195，200
+
+
+
+
+
+
+聪明的小朋友们， EMBED Equation.DSMT4  一下吧． 
+    ⑴ EMBED Equation.DSMT4  
+   ⑵ EMBED Equation.DSMT4  
+
+
+
+巧算下题： 
+⑴ EMBED Equation.DSMT4  
+⑵ EMBED Equation.DSMT4  
+
+
+
+
+ EMBED Equation.DSMT4  
+
+
+
+
+ EMBED Equation.3  __________
+
+
+
+
+计算：1÷50+2÷50+……+98÷50+99÷50=          HYPERLINK "http://photo.blog.sina.com.cn/showpic.html" \l "blogid=48ef377d0100ccfq&url=http://static7.photo.sina.com.cn/orignal/48ef377dx65392e8e5bc6" \t "_blank" 
+
+
+
+
+计算： 
+⑴ EMBED Equation.DSMT4  
+⑵ EMBED Equation.DSMT4  
+⑶ EMBED Equation.DSMT4  
+
+
+
+
+计算 EMBED Equation.DSMT4  
+
+
+
+
+
+计算： EMBED Equation.DSMT4  
+
+
+
+
+
+计算：⑴  EMBED Equation.DSMT4  
+⑵  EMBED Equation.DSMT4  ；
+⑶  EMBED Equation.DSMT4  ．
+⑷  EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+计算： EMBED Equation.DSMT4   
+
+
+
+
+
+
+计算： EMBED Equation.DSMT4  ．
+
+
+
+ 
+计算：   EMBED Equation.DSMT4  ．
+
+
+
+
+计算： EMBED Equation.DSMT4  ． 
+
+
+
+
+
+计算：  EMBED Equation.DSMT4  ．
+
+
+
+
+计算 EMBED Equation.DSMT4  ______
+
+
+
+
+
+ = 1 \* GB2 ⑴计算 EMBED Equation.DSMT4  
+ = 2 \* GB2 ⑵以质数71做分母的最简真分数有 EMBED Equation.DSMT4   EMBED Equation.DSMT4  求这列数的和
+ = 3 \* GB2 ⑶计算： EMBED Equation.DSMT4  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+|初一·数学·基础-提高-精英·学生版| 第1讲 第页
+
+
+1-2-1-2.等差数列的认识与公式运用.题库	                      学生版                               page  PAGE 4 of  NUMPAGES 5
+
+
+
+
+
+
+
+等差数列计算题
+
+知识点拨
+
+例题精讲
+
+
+
