@@ -24,6 +24,7 @@ def main() -> None:
     graph = read_json(root / "artifacts" / "graph" / "summary.json")
     quality = read_json(root / "artifacts" / "quality" / "report.json")
     validation = read_json(root / "artifacts" / "quality" / "validation.json")
+    gate = read_json(root / "artifacts" / "quality" / "gate_report.json")
     changes = read_json(root / "artifacts" / "changes" / "summary.json")
     ops_health = read_json(root / "artifacts" / "ops" / "health_report.json")
     security_conf = read_json(root / "config" / "security_config.json")
@@ -38,6 +39,7 @@ def main() -> None:
     explanation_quality = quality.get("explanation_quality", {})
     completeness = validation.get("completeness", {})
     consistency = validation.get("consistency", {})
+    traceability = validation.get("traceability", {})
 
     report = {
         "snapshot": {
@@ -60,6 +62,9 @@ def main() -> None:
             "common_mistakes_coverage_pct": completeness.get("common_mistakes_coverage_pct", 0),
             "method_tags_coverage_pct": completeness.get("method_tags_coverage_pct", 0),
             "answer_analysis_consistency_rate_pct": consistency.get("answer_analysis_consistency_rate_pct", 0),
+            "source_ref_coverage_pct": traceability.get("source_ref_coverage_pct", 0),
+            "gate_can_release": gate.get("can_release", False),
+            "gate_blocker_count": len(gate.get("blockers", [])) if isinstance(gate.get("blockers", []), list) else 0,
         },
         "graph_validation": {
             "topic_cycle_detected": graph.get("topic_cycle_detected", None),
@@ -78,8 +83,10 @@ def main() -> None:
             "model_ready_minimum": bool(curated.get("topic_count", 0) > 0 and curated.get("problem_count", 0) > 0),
             "completeness_ready": bool(completeness.get("required_objects_ready", False) and completeness.get("fields_ready", False)),
             "consistency_ready": bool(consistency.get("logic_consistent_ready", False)),
+            "traceability_ready": bool(traceability.get("traceability_ready", False)),
             "graph_ready": bool(graph.get("edge_count", 0) > 0 and graph.get("topic_cycle_detected", True) is False),
             "incremental_ready": bool(changes.get("change_count", 1) is not None),
+            "quality_gate_ready": bool(gate.get("can_release", False)),
             "ops_ready": bool(
                 bool(ops_health.get("ok", False))
                 and access_log_path.exists()
@@ -114,6 +121,9 @@ def main() -> None:
         f"- 易错点覆盖率: {report['quality']['common_mistakes_coverage_pct']}%",
         f"- 方法标签覆盖率: {report['quality']['method_tags_coverage_pct']}%",
         f"- 题干-答案-解析一致率: {report['quality']['answer_analysis_consistency_rate_pct']}%",
+        f"- source_ref覆盖率: {report['quality']['source_ref_coverage_pct']}%",
+        f"- 发布门禁可放行: {report['quality']['gate_can_release']}",
+        f"- 门禁阻断项数量: {report['quality']['gate_blocker_count']}",
         "",
         "## 自动验收视图",
         f"- 数据准备就绪: {report['acceptance_view']['data_preparation_ready']}",
@@ -121,8 +131,10 @@ def main() -> None:
         f"- 结构化最小就绪: {report['acceptance_view']['model_ready_minimum']}",
         f"- 完整性就绪: {report['acceptance_view']['completeness_ready']}",
         f"- 一致性就绪: {report['acceptance_view']['consistency_ready']}",
+        f"- 可追溯就绪: {report['acceptance_view']['traceability_ready']}",
         f"- 图谱就绪: {report['acceptance_view']['graph_ready']}",
         f"- 增量接入就绪: {report['acceptance_view']['incremental_ready']}",
+        f"- 质量门禁就绪: {report['acceptance_view']['quality_gate_ready']}",
         f"- 运维就绪: {report['acceptance_view']['ops_ready']}",
     ]
     (out_dir / "report.md").write_text("\n".join(lines) + "\n", encoding="utf-8")

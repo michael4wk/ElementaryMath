@@ -1,0 +1,118 @@
+{
+  "profile": "staging",
+  "generated_at": "2026-03-24T01:58:09.646508+00:00",
+  "can_release": true,
+  "blockers": [],
+  "warnings": [
+    {
+      "code": "soft_rule_failed",
+      "metric": "missing_grade_band_rate_pct",
+      "source": "quality.problem_quality",
+      "operator": "<=",
+      "threshold": 10.0,
+      "value": 11.9
+    }
+  ],
+  "hard_results": [
+    {
+      "metric": "answer_analysis_consistency_rate_pct",
+      "source": "validation.consistency",
+      "operator": ">=",
+      "threshold": 92.0,
+      "value": 92.48,
+      "passed": true
+    },
+    {
+      "metric": "empty_analysis_rate_pct",
+      "source": "quality.problem_quality",
+      "operator": "<=",
+      "threshold": 8.0,
+      "value": 6.29,
+      "passed": true
+    },
+    {
+      "metric": "missing_common_mistakes_rate_pct",
+      "source": "quality.topic_quality",
+      "operator": "<=",
+      "threshold": 15.0,
+      "value": 0.0,
+      "passed": true
+    }
+  ],
+  "soft_results": [
+    {
+      "metric": "missing_grade_band_rate_pct",
+      "source": "quality.problem_quality",
+      "operator": "<=",
+      "threshold": 10.0,
+      "value": 11.9,
+      "passed": false
+    },
+    {
+      "metric": "missing_difficulty_rate_pct",
+      "source": "quality.problem_quality",
+      "operator": "<=",
+      "threshold": 3.0,
+      "value": 1.61,
+      "passed": true
+    },
+    {
+      "metric": "missing_learning_objectives_rate_pct",
+      "source": "quality.topic_quality",
+      "operator": "<=",
+      "threshold": 10.0,
+      "value": 7.82,
+      "passed": true
+    }
+  ],
+  "regression": {
+    "enabled": true,
+    "passed": true,
+    "details": [
+      {
+        "metric": "answer_analysis_consistency_rate_pct",
+        "previous": 92.48,
+        "current": 92.48,
+        "drop_pct": 0.0,
+        "max_drop_pct": 1.0,
+        "passed": true
+      },
+      {
+        "metric": "learning_objectives_coverage_pct",
+        "previous": 92.18,
+        "current": 92.18,
+        "drop_pct": 0.0,
+        "max_drop_pct": 1.0,
+        "passed": true
+      },
+      {
+        "metric": "common_mistakes_coverage_pct",
+        "previous": 100.0,
+        "current": 100.0,
+        "drop_pct": 0.0,
+        "max_drop_pct": 1.0,
+        "passed": true
+      },
+      {
+        "metric": "method_tags_coverage_pct",
+        "previous": 100.0,
+        "current": 100.0,
+        "drop_pct": 0.0,
+        "max_drop_pct": 1.0,
+        "passed": true
+      }
+    ]
+  },
+  "metrics": {
+    "answer_analysis_consistency_rate_pct": 92.48,
+    "empty_analysis_rate_pct": 6.29,
+    "missing_common_mistakes_rate_pct": 0.0,
+    "missing_grade_band_rate_pct": 11.9,
+    "missing_difficulty_rate_pct": 1.61,
+    "missing_learning_objectives_rate_pct": 7.82,
+    "learning_objectives_coverage_pct": 92.18,
+    "common_mistakes_coverage_pct": 100.0,
+    "method_tags_coverage_pct": 100.0,
+    "source_ref_coverage_pct": 100.0
+  }
+}

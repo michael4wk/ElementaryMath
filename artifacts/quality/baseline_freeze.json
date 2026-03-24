@@ -1,0 +1,26 @@
+{
+  "frozen_at": "2026-03-24T01:58:09.806767+00:00",
+  "baseline_origin": "phase_start_acceptance_snapshot",
+  "initial": {
+    "answer_analysis_consistency_rate_pct": 79.51,
+    "empty_analysis_rate_pct": 19.26,
+    "missing_common_mistakes_rate_pct": 35.75
+  },
+  "current": {
+    "answer_analysis_consistency_rate_pct": 92.48,
+    "empty_analysis_rate_pct": 6.29,
+    "missing_common_mistakes_rate_pct": 0.0,
+    "source_ref_coverage_pct": 100.0
+  },
+  "gate": {
+    "can_release": true,
+    "blocker_count": 0,
+    "warning_count": 1
+  },
+  "golden_samples": {
+    "sample_total": 599,
+    "bucket_total": 321,
+    "max_per_bucket": 3,
+    "output_path": "artifacts/quality/golden_samples.jsonl"
+  }
+}

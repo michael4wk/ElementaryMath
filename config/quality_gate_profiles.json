@@ -1,0 +1,143 @@
+{
+    "default_profile": "staging",
+    "profiles": {
+        "dev": {
+            "hard_rules": [
+                {
+                    "metric": "answer_analysis_consistency_rate_pct",
+                    "operator": ">=",
+                    "threshold": 85.0,
+                    "source": "validation.consistency"
+                },
+                {
+                    "metric": "empty_analysis_rate_pct",
+                    "operator": "<=",
+                    "threshold": 15.0,
+                    "source": "quality.problem_quality"
+                },
+                {
+                    "metric": "missing_common_mistakes_rate_pct",
+                    "operator": "<=",
+                    "threshold": 25.0,
+                    "source": "quality.topic_quality"
+                }
+            ],
+            "soft_rules": [
+                {
+                    "metric": "missing_grade_band_rate_pct",
+                    "operator": "<=",
+                    "threshold": 15.0,
+                    "source": "quality.problem_quality"
+                },
+                {
+                    "metric": "missing_difficulty_rate_pct",
+                    "operator": "<=",
+                    "threshold": 5.0,
+                    "source": "quality.problem_quality"
+                }
+            ],
+            "regression": {
+                "enabled": true,
+                "max_drop_pct": 3.0
+            }
+        },
+        "staging": {
+            "hard_rules": [
+                {
+                    "metric": "answer_analysis_consistency_rate_pct",
+                    "operator": ">=",
+                    "threshold": 92.0,
+                    "source": "validation.consistency"
+                },
+                {
+                    "metric": "empty_analysis_rate_pct",
+                    "operator": "<=",
+                    "threshold": 8.0,
+                    "source": "quality.problem_quality"
+                },
+                {
+                    "metric": "missing_common_mistakes_rate_pct",
+                    "operator": "<=",
+                    "threshold": 15.0,
+                    "source": "quality.topic_quality"
+                }
+            ],
+            "soft_rules": [
+                {
+                    "metric": "missing_grade_band_rate_pct",
+                    "operator": "<=",
+                    "threshold": 10.0,
+                    "source": "quality.problem_quality"
+                },
+                {
+                    "metric": "missing_difficulty_rate_pct",
+                    "operator": "<=",
+                    "threshold": 3.0,
+                    "source": "quality.problem_quality"
+                },
+                {
+                    "metric": "missing_learning_objectives_rate_pct",
+                    "operator": "<=",
+                    "threshold": 10.0,
+                    "source": "quality.topic_quality"
+                }
+            ],
+            "regression": {
+                "enabled": true,
+                "max_drop_pct": 1.0
+            }
+        },
+        "prod": {
+            "hard_rules": [
+                {
+                    "metric": "answer_analysis_consistency_rate_pct",
+                    "operator": ">=",
+                    "threshold": 92.0,
+                    "source": "validation.consistency"
+                },
+                {
+                    "metric": "empty_analysis_rate_pct",
+                    "operator": "<=",
+                    "threshold": 8.0,
+                    "source": "quality.problem_quality"
+                },
+                {
+                    "metric": "missing_common_mistakes_rate_pct",
+                    "operator": "<=",
+                    "threshold": 15.0,
+                    "source": "quality.topic_quality"
+                },
+                {
+                    "metric": "source_ref_coverage_pct",
+                    "operator": ">=",
+                    "threshold": 99.0,
+                    "source": "validation.traceability"
+                }
+            ],
+            "soft_rules": [
+                {
+                    "metric": "missing_grade_band_rate_pct",
+                    "operator": "<=",
+                    "threshold": 8.0,
+                    "source": "quality.problem_quality"
+                },
+                {
+                    "metric": "missing_difficulty_rate_pct",
+                    "operator": "<=",
+                    "threshold": 3.0,
+                    "source": "quality.problem_quality"
+                },
+                {
+                    "metric": "missing_learning_objectives_rate_pct",
+                    "operator": "<=",
+                    "threshold": 8.0,
+                    "source": "quality.topic_quality"
+                }
+            ],
+            "regression": {
+                "enabled": true,
+                "max_drop_pct": 0.5
+            }
+        }
+    }
+}

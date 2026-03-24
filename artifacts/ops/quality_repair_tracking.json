@@ -1,0 +1,15 @@
+{
+  "issue_total": 1447,
+  "severity_distribution": {
+    "P2": 617,
+    "P1": 748,
+    "P0": 82
+  },
+  "review_pool_total": 300,
+  "reviewed_total": 0,
+  "pending_total": 300,
+  "review_close_rate_pct": 0.0,
+  "feedback_total": 0,
+  "reviewed_feedback_total": 0,
+  "action_distribution": {}
+}

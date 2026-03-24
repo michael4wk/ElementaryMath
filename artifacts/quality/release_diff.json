@@ -1,0 +1,23 @@
+{
+  "profile": "staging",
+  "has_previous_cycle": true,
+  "current_can_release": true,
+  "current_blocker_count": 0,
+  "current_warning_count": 1,
+  "previous_blocker_count": 0,
+  "previous_warning_count": 1,
+  "metric_delta_pct": {
+    "answer_analysis_consistency_rate_pct": 0.0,
+    "common_mistakes_coverage_pct": 0.0,
+    "empty_analysis_rate_pct": 0.0,
+    "learning_objectives_coverage_pct": 0.0,
+    "method_tags_coverage_pct": 0.0,
+    "missing_common_mistakes_rate_pct": 0.0,
+    "missing_difficulty_rate_pct": 0.0,
+    "missing_grade_band_rate_pct": 0.0,
+    "missing_learning_objectives_rate_pct": 0.0,
+    "source_ref_coverage_pct": 0.0
+  },
+  "rollback_recommended": false,
+  "rollback_reason": "stable"
+}

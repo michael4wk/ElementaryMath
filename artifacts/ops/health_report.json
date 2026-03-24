@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-03-23T12:36:43.526275+00:00",
+  "checked_at": "2026-03-24T01:43:58.975470+00:00",
   "base_url": "http://127.0.0.1:18080",
   "total_checks": 23,
   "failed_checks": 0,
@@ -16,7 +16,7 @@
         "data": {
           "status": "up"
         },
-        "trace_id": "eb92bc52f48f4b479d13987fa120f878"
+        "trace_id": "dd57d5ee685f4752ab64b8eee4a89f43"
       }
     },
     {
@@ -45,7 +45,8 @@
               "asset_id": "asset_97f0858849fbe632",
               "file_path": "小学数学（教师版）/1-1-1-1 小数四则混合运算综合.教师版.doc",
               "text_path": "artifacts/normalized/asset_97f0858849fbe632.txt"
-            }
+            },
+            "common_mistakes_source": "direct"
           }
         ],
         "meta": {
@@ -53,7 +54,7 @@
           "offset": 0,
           "limit": 1
         },
-        "trace_id": "688a8df3a4fe4346a58ed8d4eb6bd1e3"
+        "trace_id": "7fd5dad549f84e42aa55203365d0fafc"
       }
     },
     {
@@ -91,7 +92,7 @@
           "offset": 0,
           "limit": 1
         },
-        "trace_id": "75bbf38693b445c3b082e48e3ae38c47"
+        "trace_id": "2efc1f8b89bf49e5b7c58b4cce26214e"
       }
     },
     {
@@ -105,36 +106,42 @@
         "data": {
           "topics": [
             {
-              "topic_id": "3-1-1",
-              "title": "行程问题基础",
+              "topic_id": "2-2-3",
+              "title": "不定方程与不定方程组",
               "canonical_edition": "teacher",
               "pair_status": "paired",
               "prerequisites": [],
-              "learning_objectives": [],
+              "learning_objectives": [
+                "3.学会解不定方程的经典例题",
+                "在各类竞赛考试中，不定方程经常以应用题的形式出现，除此以外，不定方程还经常作为解题的重要方法贯穿在行程问题、数论问题等压轴大题之中．在以后初高中数学的进一步学习中，不定方程也同样有着重要的地位，所以本讲的着重目的是让学生学会利用不定方程这个"
+              ],
               "common_mistakes": [
-                "注意：在这种特定的题目中，随便选一个方便的数字做总路程并不是不科学的，因为我们可以把总路程设为“单位1”，这样做无非是设了“单位24”，也就是把所有路程扩大了24倍变成整数，没有任何问题，不论总路程设成多少，结论都是一样的，大家可以验证一下"
+                "移项时符号处理错误，导致方程变形不等价。",
+                "去括号或合并同类项时漏项，破坏解题链路。",
+                "求得未知数后未代回检验，遗漏无效解。"
               ],
               "source_ref": {
-                "asset_id": "asset_1b129bf52f8fcbba",
-                "file_path": "小学数学（教师版）/3-1-1 行程问题基础.教师版.doc",
-                "text_path": "artifacts/normalized/asset_1b129bf52f8fcbba.txt"
+                "asset_id": "asset_88108ff344fb82ff",
+                "file_path": "小学数学（教师版）/2-2-3 不定方程与不定方程组.教师版.doc",
+                "text_path": "artifacts/normalized/asset_88108ff344fb82ff.txt"
               },
+              "common_mistakes_source": "template",
               "evidence": {
                 "query": "行程",
                 "fields": [
                   {
-                    "field": "title",
-                    "snippet": "行程问题基础",
-                    "match_index": 0
+                    "field": "learning_objectives",
+                    "snippet": "...除此以外，不定方程还经常作为解题的重要方法贯穿在行程问题、数论问题等压轴大题之中．在以后初高中数学的...",
+                    "match_index": 49
                   }
                 ],
                 "source_locator": {
-                  "topic_id": "3-1-1",
+                  "topic_id": "2-2-3",
                   "problem_id": "",
-                  "asset_id": "asset_1b129bf52f8fcbba",
-                  "file_path": "小学数学（教师版）/3-1-1 行程问题基础.教师版.doc",
-                  "text_path": "artifacts/normalized/asset_1b129bf52f8fcbba.txt",
-                  "line_hint": 3
+                  "asset_id": "asset_88108ff344fb82ff",
+                  "file_path": "小学数学（教师版）/2-2-3 不定方程与不定方程组.教师版.doc",
+                  "text_path": "artifacts/normalized/asset_88108ff344fb82ff.txt",
+                  "line_hint": 21
                 }
               }
             }
@@ -183,11 +190,11 @@
           ]
         },
         "meta": {
-          "topic_total": 6,
+          "topic_total": 11,
           "problem_total": 91,
           "limit": 1
         },
-        "trace_id": "b79ad0aa26fc4848a6244f44ce92a7a5"
+        "trace_id": "1da164e84ca149e1a1766addb784aa23"
       }
     },
     {
@@ -201,36 +208,42 @@
         "data": {
           "topics": [
             {
-              "topic_id": "3-1-1",
-              "title": "行程问题基础",
+              "topic_id": "2-2-3",
+              "title": "不定方程与不定方程组",
               "canonical_edition": "teacher",
               "pair_status": "paired",
               "prerequisites": [],
-              "learning_objectives": [],
+              "learning_objectives": [
+                "3.学会解不定方程的经典例题",
+                "在各类竞赛考试中，不定方程经常以应用题的形式出现，除此以外，不定方程还经常作为解题的重要方法贯穿在行程问题、数论问题等压轴大题之中．在以后初高中数学的进一步学习中，不定方程也同样有着重要的地位，所以本讲的着重目的是让学生学会利用不定方程这个"
+              ],
               "common_mistakes": [
-                "注意：在这种特定的题目中，随便选一个方便的数字做总路程并不是不科学的，因为我们可以把总路程设为“单位1”，这样做无非是设了“单位24”，也就是把所有路程扩大了24倍变成整数，没有任何问题，不论总路程设成多少，结论都是一样的，大家可以验证一下"
+                "移项时符号处理错误，导致方程变形不等价。",
+                "去括号或合并同类项时漏项，破坏解题链路。",
+                "求得未知数后未代回检验，遗漏无效解。"
               ],
               "source_ref": {
-                "asset_id": "asset_1b129bf52f8fcbba",
-                "file_path": "小学数学（教师版）/3-1-1 行程问题基础.教师版.doc",
-                "text_path": "artifacts/normalized/asset_1b129bf52f8fcbba.txt"
+                "asset_id": "asset_88108ff344fb82ff",
+                "file_path": "小学数学（教师版）/2-2-3 不定方程与不定方程组.教师版.doc",
+                "text_path": "artifacts/normalized/asset_88108ff344fb82ff.txt"
               },
+              "common_mistakes_source": "template",
               "evidence": {
                 "query": "行程",
                 "fields": [
                   {
-                    "field": "title",
-                    "snippet": "行程问题基础",
-                    "match_index": 0
+                    "field": "learning_objectives",
+                    "snippet": "...除此以外，不定方程还经常作为解题的重要方法贯穿在行程问题、数论问题等压轴大题之中．在以后初高中数学的...",
+                    "match_index": 49
                   }
                 ],
                 "source_locator": {
-                  "topic_id": "3-1-1",
+                  "topic_id": "2-2-3",
                   "problem_id": "",
-                  "asset_id": "asset_1b129bf52f8fcbba",
-                  "file_path": "小学数学（教师版）/3-1-1 行程问题基础.教师版.doc",
-                  "text_path": "artifacts/normalized/asset_1b129bf52f8fcbba.txt",
-                  "line_hint": 3
+                  "asset_id": "asset_88108ff344fb82ff",
+                  "file_path": "小学数学（教师版）/2-2-3 不定方程与不定方程组.教师版.doc",
+                  "text_path": "artifacts/normalized/asset_88108ff344fb82ff.txt",
+                  "line_hint": 21
                 }
               }
             }
@@ -279,11 +292,11 @@
           ]
         },
         "meta": {
-          "topic_total": 6,
+          "topic_total": 11,
           "problem_total": 91,
           "limit": 1
         },
-        "trace_id": "a15f2c2f0be54cae958ade288cca5211"
+        "trace_id": "476f06d0b9e549fd8f04d44c46076c91"
       }
     },
     {
@@ -302,7 +315,7 @@
           "override_error_count": 0,
           "override_errors": []
         },
-        "trace_id": "52ab442a787340ffa0a933f255421a83"
+        "trace_id": "9bf60b89b638434f97fc40e7235d0e8d"
       }
     },
     {
@@ -320,8 +333,8 @@
           "problem_quality": {
             "empty_answer_count": 98,
             "empty_answer_rate_pct": 7.52,
-            "empty_analysis_count": 251,
-            "empty_analysis_rate_pct": 19.26,
+            "empty_analysis_count": 82,
+            "empty_analysis_rate_pct": 6.29,
             "formula_only_answer_count": 403,
             "formula_only_answer_rate_pct": 30.93,
             "formula_in_stem_count": 948,
@@ -350,8 +363,8 @@
           "topic_quality": {
             "missing_learning_objectives_count": 14,
             "missing_learning_objectives_rate_pct": 7.82,
-            "missing_common_mistakes_count": 64,
-            "missing_common_mistakes_rate_pct": 35.75
+            "missing_common_mistakes_count": 0,
+            "missing_common_mistakes_rate_pct": 0.0
           },
           "explanation_quality": {
             "missing_summary_count": 0,
@@ -440,7 +453,7 @@
             }
           ]
         },
-        "trace_id": "bcfa31454413451ea45282a6c759a9d5"
+        "trace_id": "f67665246341409c99f90ae1b28e743b"
       }
     },
     {
@@ -465,11 +478,11 @@
           "allow_audiences": [],
           "audience_hint": "",
           "revoked_reason": "",
-          "config_mtime": 1774267408528831874,
+          "config_mtime": 1774316638820435015,
           "rotation_group": "",
           "rotation_phase": ""
         },
-        "trace_id": "6e943a84d048491b90f1566c363cdd65"
+        "trace_id": "6acbf5666dbd461aa129aa7f891aead0"
       }
     },
     {
@@ -487,9 +500,9 @@
           ],
           "api_key_count": 6,
           "revoked_key_count": 1,
-          "config_mtime": 1774267408528831874
+          "config_mtime": 1774316638820435015
         },
-        "trace_id": "6b0e894416984014903858305bbefdd4"
+        "trace_id": "ffd7a52d496642b1b603cb62f9460a6f"
       }
     },
     {
@@ -503,7 +516,7 @@
         "data": {
           "reloaded": true
         },
-        "trace_id": "52584e118c764b85a1a2cd1bd46aebc7"
+        "trace_id": "ee3bc4eb58224a879d77ed5e66768725"
       }
     },
     {
@@ -525,7 +538,7 @@
         "meta": {
           "total": 1
         },
-        "trace_id": "9bf08b78a8b7452b8baa8be342a33595"
+        "trace_id": "e4c86208324d4e40a66ec31c4a978b75"
       }
     },
     {
@@ -552,7 +565,7 @@
           "issues": [],
           "ok": true
         },
-        "trace_id": "4e044612c3ad45a2be2e8df88012d5c4"
+        "trace_id": "6aa848ca0cb942dd9135bccb6cacd776"
       }
     },
     {
@@ -571,14 +584,14 @@
               "old_key_id": "key_1a577057f0",
               "new_key_id": "key_0a2e7957b9",
               "old_success_count": 0,
-              "new_success_count": 12,
-              "old_blocked_count": 12,
+              "new_success_count": 15,
+              "old_blocked_count": 15,
               "suggestion": "stable"
             }
           ],
-          "window": 479
+          "window": 556
         },
-        "trace_id": "0501d2a63577493caf2b9c73f340fa77"
+        "trace_id": "a653b35e10814a858291702f4eef6587"
       }
     },
     {
@@ -593,7 +606,7 @@
           "can_promote": true,
           "blockers": [],
           "min_consecutive_ok": 2,
-          "recent_consecutive_ok": 10,
+          "recent_consecutive_ok": 13,
           "rotation_check_ok": true,
           "advice": [
             {
@@ -602,13 +615,13 @@
               "old_key_id": "key_1a577057f0",
               "new_key_id": "key_0a2e7957b9",
               "old_success_count": 0,
-              "new_success_count": 12,
-              "old_blocked_count": 12,
+              "new_success_count": 15,
+              "old_blocked_count": 15,
               "suggestion": "stable"
             }
           ]
         },
-        "trace_id": "22477544a0e5447c9bf8414870630fb6"
+        "trace_id": "6183a59bf29148b3b604d0cfd17ac068"
       }
     },
     {
@@ -632,7 +645,7 @@
             }
           ]
         },
-        "trace_id": "894331848f6644bb9803c2b4c707e765"
+        "trace_id": "3579f8f7e65e48fc8d5143d7a175ce1f"
       }
     },
     {
@@ -665,11 +678,11 @@
           ],
           "audience_hint": "",
           "revoked_reason": "",
-          "config_mtime": 1774267408528831874,
+          "config_mtime": 1774316638820435015,
           "rotation_group": "",
           "rotation_phase": ""
         },
-        "trace_id": "51bb60147857483db5a61ef72b8f9142"
+        "trace_id": "effd9a1a2f8d4247aad21b20b96205b5"
       }
     },
     {
@@ -698,7 +711,8 @@
               "asset_id": "asset_97f0858849fbe632",
               "file_path": "小学数学（教师版）/1-1-1-1 小数四则混合运算综合.教师版.doc",
               "text_path": "artifacts/normalized/asset_97f0858849fbe632.txt"
-            }
+            },
+            "common_mistakes_source": "direct"
           }
         ],
         "meta": {
@@ -706,7 +720,7 @@
           "offset": 0,
           "limit": 1
         },
-        "trace_id": "66793b4fb84647109500f57071db3de9"
+        "trace_id": "60efe5a7f023465caa8ad51dab264c04"
       }
     },
     {
@@ -770,7 +784,8 @@
               "asset_id": "asset_97f0858849fbe632",
               "file_path": "小学数学（教师版）/1-1-1-1 小数四则混合运算综合.教师版.doc",
               "text_path": "artifacts/normalized/asset_97f0858849fbe632.txt"
-            }
+            },
+            "common_mistakes_source": "direct"
           }
         ],
         "meta": {
@@ -778,7 +793,7 @@
           "offset": 0,
           "limit": 1
         },
-        "trace_id": "875675149b2f4cd797050662c5ebfad6"
+        "trace_id": "4262363c9a4f40088df6e2214d41d10d"
       }
     }
   ]

@@ -5,8 +5,8 @@
   "problem_quality": {
     "empty_answer_count": 98,
     "empty_answer_rate_pct": 7.52,
-    "empty_analysis_count": 251,
-    "empty_analysis_rate_pct": 19.26,
+    "empty_analysis_count": 82,
+    "empty_analysis_rate_pct": 6.29,
     "formula_only_answer_count": 403,
     "formula_only_answer_rate_pct": 30.93,
     "formula_in_stem_count": 948,
@@ -35,8 +35,8 @@
   "topic_quality": {
     "missing_learning_objectives_count": 14,
     "missing_learning_objectives_rate_pct": 7.82,
-    "missing_common_mistakes_count": 64,
-    "missing_common_mistakes_rate_pct": 35.75
+    "missing_common_mistakes_count": 0,
+    "missing_common_mistakes_rate_pct": 0.0
   },
   "explanation_quality": {
     "missing_summary_count": 0,

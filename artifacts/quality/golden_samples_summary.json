@@ -1,0 +1,6 @@
+{
+  "sample_total": 599,
+  "bucket_total": 321,
+  "max_per_bucket": 3,
+  "output_path": "artifacts/quality/golden_samples.jsonl"
+}

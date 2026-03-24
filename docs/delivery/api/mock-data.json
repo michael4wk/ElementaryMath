@@ -1,0 +1,94 @@
+{
+    "health": {
+        "code": 0,
+        "message": "ok",
+        "data": {
+            "status": "up"
+        },
+        "trace_id": "trace_health_001"
+    },
+    "topics_list": {
+        "code": 0,
+        "message": "ok",
+        "data": [
+            {
+                "topic_id": "grade4-fraction-add",
+                "title": "分数加减法",
+                "learning_objectives": [
+                    "掌握同分母分数加减",
+                    "掌握异分母分数通分"
+                ]
+            }
+        ],
+        "meta": {
+            "total": 1,
+            "offset": 0,
+            "limit": 20
+        },
+        "trace_id": "trace_topics_001"
+    },
+    "problem_detail": {
+        "code": 0,
+        "message": "ok",
+        "data": {
+            "problem_id": "problem_0001",
+            "topic_id": "grade4-fraction-add",
+            "stem": "计算：1/4 + 1/2",
+            "answer": "3/4",
+            "analysis_steps": [
+                "将1/2化为2/4",
+                "1/4 + 2/4 = 3/4"
+            ],
+            "difficulty": "2星",
+            "grade_band": "四年级"
+        },
+        "trace_id": "trace_problem_001"
+    },
+    "search_result": {
+        "code": 0,
+        "message": "ok",
+        "data": {
+            "topics": [
+                {
+                    "topic_id": "grade4-fraction-add",
+                    "title": "分数加减法",
+                    "evidence": {
+                        "query": "分数",
+                        "fields": [
+                            {
+                                "field": "title",
+                                "snippet": "分数加减法",
+                                "match_index": 0
+                            }
+                        ],
+                        "source_locator": {
+                            "topic_id": "grade4-fraction-add",
+                            "problem_id": "",
+                            "asset_id": "asset_001",
+                            "file_path": "source/demo.md",
+                            "text_path": "artifacts/normalized/asset_demo.txt",
+                            "line_hint": 18
+                        }
+                    }
+                }
+            ],
+            "problems": []
+        },
+        "meta": {
+            "topic_total": 1,
+            "problem_total": 0,
+            "limit": 10
+        },
+        "trace_id": "trace_search_001"
+    },
+    "quality_summary": {
+        "code": 0,
+        "message": "ok",
+        "data": {
+            "consistency_rate": 0.9248,
+            "analysis_missing_rate": 0.0629,
+            "common_mistakes_missing_rate": 0.0
+        },
+        "trace_id": "trace_quality_001"
+    }
+}

@@ -1,0 +1,49 @@
+{
+  "generated_at": "2026-03-24T01:58:09.806767+00:00",
+  "hotspot_fix_status": "completed",
+  "hotspot_fix_reason": "empty_analysis_rate_pct_reached_threshold",
+  "gate_can_release": true,
+  "rollback_recommended": false,
+  "top_missing_hotspots": [
+    {
+      "topic_id": "4-3-1",
+      "count": 84
+    },
+    {
+      "topic_id": "4-4-2",
+      "count": 78
+    },
+    {
+      "topic_id": "4-3-5",
+      "count": 62
+    },
+    {
+      "topic_id": "2-3-1",
+      "count": 44
+    },
+    {
+      "topic_id": "4-5-2",
+      "count": 44
+    },
+    {
+      "topic_id": "5-7-1",
+      "count": 43
+    },
+    {
+      "topic_id": "4-3-6",
+      "count": 42
+    },
+    {
+      "topic_id": "4-2-6",
+      "count": 36
+    },
+    {
+      "topic_id": "4-3-4",
+      "count": 35
+    },
+    {
+      "topic_id": "4-2-5",
+      "count": 33
+    }
+  ]
+}

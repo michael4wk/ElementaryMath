@@ -1,0 +1,34 @@
+{
+  "owner_groups": {
+    "consistency": {
+      "primary": "算法工程",
+      "secondary": "数据工程",
+      "qa": "QA工程"
+    },
+    "traceability": {
+      "primary": "后端工程",
+      "secondary": "数据工程",
+      "qa": "QA工程"
+    },
+    "parsing_missing": {
+      "primary": "数据工程",
+      "secondary": "算法工程",
+      "qa": "QA工程"
+    },
+    "common_mistake_missing": {
+      "primary": "产品/教研",
+      "secondary": "数据工程",
+      "qa": "QA工程"
+    },
+    "gate_and_release": {
+      "primary": "后端工程",
+      "secondary": "运维工程",
+      "qa": "QA工程"
+    }
+  },
+  "severity_sla_hours": {
+    "P0": 8,
+    "P1": 24,
+    "P2": 72
+  }
+}

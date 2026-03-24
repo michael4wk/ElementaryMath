@@ -48,6 +48,9 @@ class AppState:
         self.cache["graph_map"] = {r.get("topic_id"): r for r in graph_rows if r.get("topic_id")}
         self.cache["chapter_graph_map"] = {r.get("chapter_id"): r for r in chapter_rows if r.get("chapter_id")}
         self.cache["quality_report"] = read_json(self.project_root / "artifacts" / "quality" / "report.json")
+        self.cache["validation_report"] = read_json(self.project_root / "artifacts" / "quality" / "validation.json")
+        self.cache["quality_gate_report"] = read_json(self.project_root / "artifacts" / "quality" / "gate_report.json")
+        self.cache["quality_gate_profiles"] = read_json(self.project_root / "config" / "quality_gate_profiles.json")
         self.cache["graph_validation"] = read_json(self.project_root / "artifacts" / "graph" / "validation.json")
         security_path = self.project_root / "config" / "security_config.json"
         security = read_json(security_path)
@@ -108,6 +111,28 @@ class AppState:
         self.cache["rotation_gate"] = {
             "min_consecutive_ok": int(gate.get("min_consecutive_ok", 2) or 2),
             "require_rotation_check_ok": bool(gate.get("require_rotation_check_ok", True)),
+        }
+        cors = security.get("cors", {}) if isinstance(security.get("cors", {}), dict) else {}
+        allow_origins = [str(x).strip() for x in cors.get("allow_origins", []) if str(x).strip()]
+        if not allow_origins:
+            allow_origins = ["*"]
+        allow_methods = [str(x).strip().upper() for x in cors.get("allow_methods", []) if str(x).strip()]
+        if not allow_methods:
+            allow_methods = ["GET", "POST", "OPTIONS"]
+        allow_headers = [str(x).strip() for x in cors.get("allow_headers", []) if str(x).strip()]
+        if not allow_headers:
+            allow_headers = ["Content-Type", "X-API-Key", "X-Trace-Id"]
+        expose_headers = [str(x).strip() for x in cors.get("expose_headers", []) if str(x).strip()]
+        if not expose_headers:
+            expose_headers = ["X-Trace-Id"]
+        self.cache["cors"] = {
+            "enabled": bool(cors.get("enabled", True)),
+            "allow_origins": allow_origins,
+            "allow_methods": allow_methods,
+            "allow_headers": allow_headers,
+            "expose_headers": expose_headers,
+            "allow_credentials": bool(cors.get("allow_credentials", False)),
+            "max_age": int(cors.get("max_age", 600) or 600),
         }
         revoked_map: Dict[str, str] = {}
         for item in security.get("revoked_keys", []):
@@ -333,18 +358,59 @@ class Handler(BaseHTTPRequestHandler):
                         return True
         return False
 
+    def _write_cors_headers(self) -> None:
+        cors = self.state.cache.get("cors", {})
+        if not bool(cors.get("enabled", False)):
+            return
+        allow_origins = cors.get("allow_origins", ["*"])
+        allow_credentials = bool(cors.get("allow_credentials", False))
+        req_origin = self.headers.get("Origin", "").strip()
+        origin_header = "*"
+        origin_allowed = False
+        if "*" in allow_origins:
+            origin_header = req_origin if allow_credentials and req_origin else "*"
+            origin_allowed = True
+        elif req_origin and req_origin in allow_origins:
+            origin_header = req_origin
+            origin_allowed = True
+        elif not req_origin and allow_origins:
+            origin_header = allow_origins[0]
+            origin_allowed = True
+        else:
+            origin_header = "null"
+        self.send_header("Access-Control-Allow-Origin", origin_header)
+        if req_origin:
+            self.send_header("Vary", "Origin")
+        self.send_header("Access-Control-Allow-Methods", ",".join(cors.get("allow_methods", ["GET", "POST", "OPTIONS"])))
+        self.send_header("Access-Control-Allow-Headers", ",".join(cors.get("allow_headers", ["Content-Type", "X-API-Key", "X-Trace-Id"])))
+        self.send_header("Access-Control-Expose-Headers", ",".join(cors.get("expose_headers", ["X-Trace-Id"])))
+        self.send_header("Access-Control-Max-Age", str(int(cors.get("max_age", 600) or 600)))
+        if allow_credentials and origin_allowed and origin_header != "*":
+            self.send_header("Access-Control-Allow-Credentials", "true")
+
     def _json(self, code: int, data: dict) -> None:
         trace_id = self._ensure_trace()
         if isinstance(data, dict) and "trace_id" not in data:
             data = {**data, "trace_id": trace_id}
         body = json.dumps(data, ensure_ascii=False).encode("utf-8")
         self.send_response(code)
+        self._write_cors_headers()
         self.send_header("Content-Type", "application/json; charset=utf-8")
         self.send_header("Content-Length", str(len(body)))
         self.send_header("X-Trace-Id", trace_id)
         self.end_headers()
         self.wfile.write(body)
         self._log_access(code)
+
+    def do_OPTIONS(self) -> None:
+        self._trace_id = self._new_trace()
+        self._auth_context = {"authorized": True, "reason": "cors_preflight"}
+        self.send_response(204)
+        self._write_cors_headers()
+        self.send_header("Content-Length", "0")
+        self.send_header("X-Trace-Id", self._ensure_trace())
+        self.end_headers()
+        self._log_access(204)
 
     def _topic_problem_stats(self, audience: str, topic_id: str) -> dict:
         rows = [r for r in self.state.cache[f"problems_{audience}"] if r.get("topic_id") == topic_id]
@@ -732,6 +798,110 @@ class Handler(BaseHTTPRequestHandler):
             )
         return {"can_promote": bool(gate.get("can_promote", False)), "blockers": gate.get("blockers", []), "plans": plans}
 
+    def _pick_quality_metric(self, metric: str, source: str) -> float | None:
+        quality = self.state.cache.get("quality_report", {})
+        validation = self.state.cache.get("validation_report", {})
+        if "." in source:
+            top, section = source.split(".", 1)
+        else:
+            top, section = source, ""
+        top = top.strip()
+        section = section.strip()
+        value = None
+        if top == "quality":
+            block = quality.get(section, {}) if section else quality
+            value = block.get(metric)
+        elif top == "validation":
+            block = validation.get(section, {}) if section else validation
+            value = block.get(metric)
+        if value is None:
+            return None
+        try:
+            return float(value)
+        except Exception:
+            return None
+
+    def _quality_rule_passed(self, value: float | None, operator: str, threshold: float) -> bool:
+        if value is None:
+            return False
+        if operator == ">=":
+            return value >= threshold
+        if operator == "<=":
+            return value <= threshold
+        if operator == ">":
+            return value > threshold
+        if operator == "<":
+            return value < threshold
+        if operator == "==":
+            return abs(value - threshold) < 1e-9
+        return False
+
+    def _quality_gate_evaluate(self, profile: str = "", knowledge_version: str = "") -> dict:
+        gate_conf = self.state.cache.get("quality_gate_profiles", {})
+        default_profile = str(gate_conf.get("default_profile", "staging")).strip() or "staging"
+        selected_profile = str(profile).strip() or default_profile
+        profiles = gate_conf.get("profiles", {})
+        selected = profiles.get(selected_profile)
+        if not isinstance(selected, dict):
+            return {
+                "profile": selected_profile,
+                "knowledge_version": knowledge_version,
+                "can_release": False,
+                "blockers": [{"code": "profile_not_found", "detail": selected_profile}],
+                "warnings": [],
+                "hard_results": [],
+                "soft_results": [],
+            }
+        hard_results: List[dict] = []
+        soft_results: List[dict] = []
+        blockers: List[dict] = []
+        warnings: List[dict] = []
+        for rule in selected.get("hard_rules", []):
+            metric = str(rule.get("metric", "")).strip()
+            source = str(rule.get("source", "")).strip()
+            operator = str(rule.get("operator", "")).strip()
+            threshold = float(rule.get("threshold", 0.0))
+            value = self._pick_quality_metric(metric, source)
+            passed = self._quality_rule_passed(value, operator, threshold)
+            item = {
+                "metric": metric,
+                "source": source,
+                "operator": operator,
+                "threshold": threshold,
+                "value": value,
+                "passed": passed,
+            }
+            hard_results.append(item)
+            if not passed:
+                blockers.append({"code": "hard_rule_failed", **item})
+        for rule in selected.get("soft_rules", []):
+            metric = str(rule.get("metric", "")).strip()
+            source = str(rule.get("source", "")).strip()
+            operator = str(rule.get("operator", "")).strip()
+            threshold = float(rule.get("threshold", 0.0))
+            value = self._pick_quality_metric(metric, source)
+            passed = self._quality_rule_passed(value, operator, threshold)
+            item = {
+                "metric": metric,
+                "source": source,
+                "operator": operator,
+                "threshold": threshold,
+                "value": value,
+                "passed": passed,
+            }
+            soft_results.append(item)
+            if not passed:
+                warnings.append({"code": "soft_rule_failed", **item})
+        return {
+            "profile": selected_profile,
+            "knowledge_version": knowledge_version,
+            "can_release": len(blockers) == 0,
+            "blockers": blockers,
+            "warnings": warnings,
+            "hard_results": hard_results,
+            "soft_results": soft_results,
+        }
+
     def _problem_facets(self, rows: List[dict]) -> dict:
         return {
             "grade_band": self._distribution(rows, "grade_band"),
@@ -746,7 +916,7 @@ class Handler(BaseHTTPRequestHandler):
         parsed = urlparse(self.path)
         path = parsed.path
         payload: dict = {}
-        if path == "/search":
+        if path in ("/search", "/quality/gate/evaluate"):
             payload, err = self._read_json_body()
             if err:
                 self._bad_request(err)
@@ -756,6 +926,12 @@ class Handler(BaseHTTPRequestHandler):
         self._auth_context = ctx
         if not ok:
             self._unauthorized("missing or invalid api key")
+            return
+        if path == "/quality/gate/evaluate":
+            profile = str(payload.get("gate_profile", "")).strip()
+            knowledge_version = str(payload.get("knowledge_version", "")).strip()
+            data = self._quality_gate_evaluate(profile=profile, knowledge_version=knowledge_version)
+            self._json(200, {"code": 0, "message": "ok", "data": data})
             return
         if path != "/search":
             self._json(404, {"code": 404, "message": "not found", "data": None})
@@ -929,6 +1105,15 @@ class Handler(BaseHTTPRequestHandler):
                 },
             )
             return
+        if path.startswith("/problems/"):
+            problem_id = path.split("/problems/", 1)[1]
+            rows = self.state.cache[f"problems_{audience}"]
+            found = next((r for r in rows if str(r.get("problem_id", "")).strip() == problem_id), None)
+            if not found:
+                self._json(404, {"code": 404, "message": "not found", "data": None})
+                return
+            self._json(200, {"code": 0, "message": "ok", "data": found})
+            return
         if path == "/facets/problems":
             rows = self.state.cache[f"problems_{audience}"]
             topic_id = self._get_text_param(qs, "topic_id", "")
@@ -991,6 +1176,20 @@ class Handler(BaseHTTPRequestHandler):
         if path == "/quality/summary":
             report = self.state.cache.get("quality_report", {})
             self._json(200, {"code": 0, "message": "ok", "data": report})
+            return
+        if path == "/quality/validation":
+            report = self.state.cache.get("validation_report", {})
+            self._json(200, {"code": 0, "message": "ok", "data": report})
+            return
+        if path == "/quality/gate/report":
+            report = self.state.cache.get("quality_gate_report", {})
+            self._json(200, {"code": 0, "message": "ok", "data": report})
+            return
+        if path == "/quality/gate/evaluate":
+            profile = self._get_text_param(qs, "gate_profile", "")
+            knowledge_version = self._get_text_param(qs, "knowledge_version", "")
+            data = self._quality_gate_evaluate(profile=profile, knowledge_version=knowledge_version)
+            self._json(200, {"code": 0, "message": "ok", "data": data})
             return
         if path == "/auth/whoami":
             self._json(200, {"code": 0, "message": "ok", "data": self._auth_summary()})

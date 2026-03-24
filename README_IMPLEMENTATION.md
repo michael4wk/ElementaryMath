@@ -12,6 +12,9 @@
 - `config/projection_rules.json`：教师/学生端字段投影规则
 - `config/prerequisite_overrides.json`：前置关系人工映射覆盖配置
 - `config/security_config.json`：API访问控制配置（API Key 与白名单）
+- `config/quality_gate_profiles.json`：质量门禁阈值配置（dev/staging/prod）
+- `config/common_mistake_templates.json`：易错点词典与题型模板配置
+- `config/quality_issue_owners.json`：质量问题责任映射与SLA配置
 - `tools/build_baseline.py`：生成文档资产清单与对齐报告
 - `tools/normalize_documents.py`：将源文档转换到清洗层文本
 - `tools/retry_failed_extractions.py`：重试抽取失败队列并更新状态
@@ -20,6 +23,13 @@
 - `tools/build_graph.py`：构建 topic 前置与后续关系图谱
 - `tools/build_quality_report.py`：输出结构化内容质量报表
 - `tools/build_validation_report.py`：输出完整性与一致性校验报告
+- `tools/evaluate_quality_gate.py`：按门禁配置评估是否可发布
+- `tools/build_quality_ops_report.py`：输出质量热区、复核池与回滚建议
+- `tools/apply_review_feedback.py`：应用人工复核结果并生成回流报告
+- `tools/build_quality_release_diff.py`：输出发布前后质量差异报告
+- `tools/build_quality_observability.py`：输出趋势看板、告警与修复跟踪
+- `tools/build_golden_samples.py`：生成分层黄金样本集
+- `tools/build_phase_closure_evidence.py`：生成基线冻结与热点修复收尾证据
 - `tools/build_acceptance_report.py`：输出阶段验收报告
 - `tools/ops_health_check.py`：执行接口巡检并输出告警报告
 - `tools/build_rotation_report.py`：输出密钥轮换状态报告
@@ -40,6 +50,13 @@ python3 tools/build_projection.py --project-root .
 python3 tools/build_graph.py --project-root .
 python3 tools/build_quality_report.py --project-root .
 python3 tools/build_validation_report.py --project-root .
+python3 tools/evaluate_quality_gate.py --project-root . --profile staging
+python3 tools/build_quality_ops_report.py --project-root .
+python3 tools/apply_review_feedback.py --project-root .
+python3 tools/build_quality_release_diff.py --project-root . --profile staging
+python3 tools/build_quality_observability.py --project-root .
+python3 tools/build_golden_samples.py --project-root . --max-per-bucket 3
+python3 tools/build_phase_closure_evidence.py --project-root .
 python3 tools/build_acceptance_report.py --project-root .
 python3 tools/build_rotation_report.py --project-root .
 python3 tools/ops_health_check.py --project-root . --base-url http://127.0.0.1:18080 --api-key dev-key-001 --readonly-api-key readonly-key-001 --disabled-api-key disabled-key-001 --revoked-api-key revoked-key-001 --rotate-old-api-key rotate-old-001 --rotate-new-api-key rotate-new-001
@@ -69,6 +86,21 @@ python3 api/minimal_api.py --project-root . --host 127.0.0.1 --port 18080
 - `artifacts/graph/validation.json`：图谱前置关系校验报告
 - `artifacts/quality/report.json`：结构化质量分析结果
 - `artifacts/quality/validation.json`：完整性与一致性校验结果
+- `artifacts/quality/issues.jsonl`：质量问题明细（含分级、类型、原因码）
+- `artifacts/quality/gate_report.json`：质量门禁评估结果
+- `artifacts/quality/gate_history.jsonl`：质量门禁历史记录
+- `artifacts/quality/ops_report.json`：质量热区与运营建议报告
+- `artifacts/quality/review_pool.jsonl`：低置信样本人工复核池
+- `artifacts/quality/review_backflow.json`：人工复核回流结果
+- `artifacts/quality/release_diff.json`：发布前后质量差异与回滚建议
+- `artifacts/quality/golden_samples.jsonl`：分层黄金样本集
+- `artifacts/quality/golden_samples_summary.json`：黄金样本汇总信息
+- `artifacts/quality/baseline_freeze.json`：阶段基线冻结记录
+- `artifacts/quality/hotspot_fix_report.json`：高频缺失场景专项修复收尾报告
+- `artifacts/ops/quality_trend.json`：日/周质量趋势看板数据
+- `artifacts/ops/quality_alerts.json`：质量告警明细
+- `artifacts/ops/quality_repair_tracking.json`：修复时效与复发率跟踪数据
+- `artifacts/ops/monthly_quality_review.md`：月度质量复盘模板
 - `artifacts/acceptance/report.md`：当前阶段验收报告
 - `artifacts/ops/health_report.json`：接口巡检报告
 - `artifacts/ops/health_history.jsonl`：巡检历史记录
@@ -88,6 +120,7 @@ python3 api/minimal_api.py --project-root . --host 127.0.0.1 --port 18080
 - `GET /topics`：主题列表（支持 `audience/q/chapter_id/domain/grade_band/difficulty/has_prerequisites/has_learning_objectives/order_by/order/offset/limit`）
 - `GET /topics/{topic_id}`：主题详情（含图谱关系与题目统计）
 - `GET /problems`：题目列表（支持 `audience/topic_id/chapter_id/grade_band/difficulty/method_tag/q/order_by/order/offset/limit`）
+- `GET /problems/{problem_id}`：题目详情
 - `GET /facets/problems`：题目分面统计（支持 `audience/topic_id/chapter_id/q`）
 - `GET /search`：统一检索（支持 `chapter_id/grade_band/difficulty/method_tag` 过滤）
 - `POST /search`：统一检索（JSON body，参数同 GET 版）
@@ -96,6 +129,10 @@ python3 api/minimal_api.py --project-root . --host 127.0.0.1 --port 18080
 - `GET /graph/chapter/{chapter_id}`：章节级依赖关系
 - `GET /graph/validation`：图谱校验结果
 - `GET /quality/summary`：质量报表摘要
+- `GET /quality/validation`：质量校验报告（完整性/一致性/可追溯）
+- `GET /quality/gate/report`：最近一次质量门禁报告
+- `GET /quality/gate/evaluate`：按 `gate_profile` 动态评估门禁
+- `POST /quality/gate/evaluate`：按请求体动态评估门禁（支持 `knowledge_version`）
 - `GET /auth/whoami`：返回当前 API Key 的鉴权上下文
 - `GET /auth/config`：返回当前鉴权配置摘要
 - `GET /auth/reload`：热加载鉴权配置
@@ -108,6 +145,8 @@ python3 api/minimal_api.py --project-root . --host 127.0.0.1 --port 18080
 ## 响应规范
 
 - 所有接口响应均包含 `trace_id`，并通过响应头 `X-Trace-Id` 返回
+- 服务支持 CORS 与 `OPTIONS` 预检（策略可由 `config/security_config.json` 的 `cors` 字段控制）
+- 默认 CORS 白名单：`http://127.0.0.1:5173`、`http://localhost:5173`、`http://127.0.0.1:3000`、`http://localhost:3000`
 - 服务端访问日志记录在 `artifacts/ops/access.log`
 - 访问日志新增 `authorized/auth_reason/api_key_id/api_key_name/audience_hint/revoked_reason` 字段
 
@@ -133,3 +172,27 @@ python3 api/minimal_api.py --project-root . --host 127.0.0.1 --port 18080
 - 难度识别支持数字星级与星符号计数（如 `2星`、`★★★`）
 - 缺失年级与难度支持按专题众数回填（保留 `grade_source/difficulty_source`）
 - 缺失方法标签支持按专题标题回填（保留 `method_tag_source`）
+- 缺失解析步骤支持答案驱动回填，降低无解析样本
+- 缺失易错点支持词典模板回填（保留 `common_mistakes_source`）
+
+## 质量运营SOP
+
+- 质量治理执行规范见 `docs/operations/QUALITY_OPERATIONS_SOP.md`
+
+## 前端移交文档
+
+- `docs/delivery/api/openapi.yaml`
+- `docs/delivery/api/frontend-integration-guide.md`
+- `docs/delivery/api/environment-matrix.md`
+- `docs/delivery/api/examples.md`
+- `docs/delivery/api/mock-data.json`
+- `docs/delivery/api/api-changelog.md`
+- `docs/delivery/api/error-codes.md`
+- `docs/delivery/api/compatibility-mapping.md`
+- `docs/delivery/api/integration-issues-log.md`
+- `docs/delivery/api/contract-governance.md`
+
+## 契约一致性校验
+
+- 校验脚本：`tools/check_api_contract_consistency.py`
+- 执行方式：`python3 tools/check_api_contract_consistency.py --project-root .`

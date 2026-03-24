@@ -5,7 +5,7 @@
     "problem_total": 1303,
     "explanation_total": 179,
     "learning_objectives_coverage_pct": 92.18,
-    "common_mistakes_coverage_pct": 64.25,
+    "common_mistakes_coverage_pct": 100.0,
     "method_tags_coverage_pct": 100.0,
     "required_objects_ready": true,
     "fields_ready": true
@@ -13,8 +13,45 @@
   "consistency": {
     "checked_problem_count": 1303,
     "answer_present_rate_pct": 92.48,
-    "analysis_present_rate_pct": 80.74,
-    "answer_analysis_consistency_rate_pct": 79.51,
+    "analysis_present_rate_pct": 93.71,
+    "answer_analysis_consistency_rate_pct": 92.48,
+    "semantic_consistency_confidence_avg_pct": 39.63,
     "logic_consistent_ready": true
+  },
+  "traceability": {
+    "topic_source_ref_coverage_pct": 100.0,
+    "concept_source_ref_coverage_pct": 100.0,
+    "problem_source_ref_coverage_pct": 100.0,
+    "explanation_source_ref_coverage_pct": 100.0,
+    "source_ref_coverage_pct": 100.0,
+    "traceability_ready": true
+  },
+  "issues": {
+    "total": 1447,
+    "severity_distribution": {
+      "P2": 617,
+      "P1": 748,
+      "P0": 82
+    },
+    "issue_type_distribution": {
+      "consistency": 1447
+    },
+    "conflict_type_distribution": {
+      "answer_formula_placeholder": 403,
+      "step_structure_weak": 56,
+      "semantic_weak_overlap": 465,
+      "number_mismatch": 236,
+      "analysis_not_grounded": 118,
+      "answer_analysis_missing": 82,
+      "answer_missing": 16,
+      "unit_not_grounded": 40,
+      "unit_mismatch": 31
+    },
+    "missing_reason_distribution": {
+      "formula_placeholder": 403,
+      "rule_detected": 946,
+      "extraction_missing_both": 82,
+      "extraction_missing_answer": 16
+    }
   }
 }

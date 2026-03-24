@@ -88,6 +88,30 @@
         "min_consecutive_ok": 2,
         "require_rotation_check_ok": true
     },
+    "cors": {
+        "enabled": true,
+        "allow_origins": [
+            "http://127.0.0.1:5173",
+            "http://localhost:5173",
+            "http://127.0.0.1:3000",
+            "http://localhost:3000"
+        ],
+        "allow_methods": [
+            "GET",
+            "POST",
+            "OPTIONS"
+        ],
+        "allow_headers": [
+            "Content-Type",
+            "X-API-Key",
+            "X-Trace-Id"
+        ],
+        "expose_headers": [
+            "X-Trace-Id"
+        ],
+        "allow_credentials": false,
+        "max_age": 600
+    },
     "public_paths": [
         "/health"
     ]

@@ -11,14 +11,17 @@
     "missing_method_tags_rate_pct": 0.0,
     "missing_grade_band_rate_pct": 11.9,
     "missing_difficulty_rate_pct": 1.61,
-    "empty_analysis_rate_pct": 19.26,
+    "empty_analysis_rate_pct": 6.29,
     "missing_learning_objectives_rate_pct": 7.82,
-    "missing_common_mistakes_rate_pct": 35.75,
+    "missing_common_mistakes_rate_pct": 0.0,
     "missing_summary_rate_pct": 0.0,
     "learning_objectives_coverage_pct": 92.18,
-    "common_mistakes_coverage_pct": 64.25,
+    "common_mistakes_coverage_pct": 100.0,
     "method_tags_coverage_pct": 100.0,
-    "answer_analysis_consistency_rate_pct": 79.51
+    "answer_analysis_consistency_rate_pct": 92.48,
+    "source_ref_coverage_pct": 100.0,
+    "gate_can_release": true,
+    "gate_blocker_count": 0
   },
   "graph_validation": {
     "topic_cycle_detected": false,
@@ -37,8 +40,10 @@
     "model_ready_minimum": true,
     "completeness_ready": true,
     "consistency_ready": true,
+    "traceability_ready": true,
     "graph_ready": true,
     "incremental_ready": true,
+    "quality_gate_ready": true,
     "ops_ready": true
   }
 }

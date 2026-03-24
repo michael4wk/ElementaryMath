@@ -33,6 +33,12 @@ def read_jsonl(path: Path) -> List[dict]:
     return rows
 
 
+def read_json(path: Path) -> dict:
+    if not path.exists():
+        return {}
+    return json.loads(path.read_text(encoding="utf-8"))
+
+
 def write_jsonl(path: Path, rows: Iterable[dict]) -> None:
     with path.open("w", encoding="utf-8") as f:
         for row in rows:
@@ -137,6 +143,15 @@ def build_fallback_analysis(block: List[str]) -> List[str]:
     return rows
 
 
+def build_answer_backfill(answer: str) -> List[str]:
+    text = (answer or "").strip()
+    if not text:
+        return []
+    if text == "【公式】":
+        return ["根据题目条件代入并化简，得到结果见答案。"]
+    return [f"根据题目条件代入并逐步计算，可得答案：{text}"]
+
+
 def normalize_grade(grade_token: str) -> str:
     mapping = {
         "一": "1",
@@ -220,6 +235,55 @@ def infer_method_tags_from_title(title: str) -> List[str]:
     return tags[:3]
 
 
+def infer_common_mistakes(topic_title: str, method_tags: List[str], template_conf: dict) -> List[str]:
+    rows = template_conf.get("keyword_templates", []) if isinstance(template_conf, dict) else []
+    search_text = " ".join([topic_title] + method_tags)
+    matched: List[str] = []
+    for row in rows:
+        if not isinstance(row, dict):
+            continue
+        keyword = str(row.get("keyword", "")).strip()
+        mistakes = row.get("mistakes", [])
+        if not keyword or not isinstance(mistakes, list):
+            continue
+        if keyword in search_text:
+            for item in mistakes:
+                text = str(item).strip()
+                if text and text not in matched:
+                    matched.append(text)
+    if matched:
+        return matched[:5]
+    defaults = template_conf.get("default_mistakes", []) if isinstance(template_conf, dict) else []
+    out = [str(x).strip() for x in defaults if str(x).strip()]
+    return out[:5]
+
+
+def enrich_topics_common_mistakes(topic_rows: List[dict], problem_rows: List[dict], template_conf: dict) -> List[dict]:
+    by_topic: Dict[str, List[dict]] = defaultdict(list)
+    for row in problem_rows:
+        by_topic[str(row.get("topic_id", "")).strip()].append(row)
+    for topic in topic_rows:
+        existing = topic.get("common_mistakes", [])
+        if isinstance(existing, list) and len(existing) > 0:
+            topic["common_mistakes_source"] = "direct"
+            continue
+        topic_id = str(topic.get("topic_id", "")).strip()
+        title = str(topic.get("title", "")).strip()
+        method_counter = Counter()
+        for p in by_topic.get(topic_id, []):
+            for tag in p.get("method_tags", []):
+                if isinstance(tag, str) and tag.strip():
+                    method_counter[tag.strip()] += 1
+        tags = [x for x, _ in method_counter.most_common(8)]
+        inferred = infer_common_mistakes(title, tags, template_conf)
+        if inferred:
+            topic["common_mistakes"] = inferred
+            topic["common_mistakes_source"] = "template"
+        else:
+            topic["common_mistakes_source"] = "none"
+    return topic_rows
+
+
 def build_problem(topic_id: str, topic_title: str, asset_id: str, idx: int, block: List[str], source_ref: dict) -> dict:
     stem = block[0][:500]
     if re.fullmatch(r"(计算[：:]|求[：:]|解[：:]|应用题[：:])", stem):
@@ -264,6 +328,8 @@ def build_problem(topic_id: str, topic_title: str, asset_id: str, idx: int, bloc
     grade_band = grade_band or extract_grade_band(stem, joined)
     if not analysis_steps:
         analysis_steps = build_fallback_analysis(block)
+    if not analysis_steps:
+        analysis_steps = build_answer_backfill(answer)
 
     problem_id = f"problem_{hashlib.sha1(f'{topic_id}:{asset_id}:{idx}'.encode('utf-8')).hexdigest()[:16]}"
     method_tags = sorted(set(method_tags))[:20]
@@ -333,6 +399,7 @@ def main() -> None:
 
     project_root = Path(args.project_root).resolve()
     topics, assets, status = load_inputs(project_root)
+    common_mistake_templates = read_json(project_root / "config" / "common_mistake_templates.json")
     curated_dir = project_root / "artifacts" / "curated"
     curated_dir.mkdir(parents=True, exist_ok=True)
 
@@ -398,11 +465,12 @@ def main() -> None:
         for idx, block in enumerate(problem_blocks, start=1):
             problem_rows.append(build_problem(topic_id, topic.get("title", ""), canonical_asset_id, idx, block, source_ref))
 
-    write_jsonl(curated_dir / "topics.jsonl", topic_rows)
-    write_jsonl(curated_dir / "explanations.jsonl", explanation_rows)
     enriched_problem_rows = enrich_problem_fields(problem_rows)
+    enriched_topic_rows = enrich_topics_common_mistakes(topic_rows, enriched_problem_rows, common_mistake_templates)
+    write_jsonl(curated_dir / "topics.jsonl", enriched_topic_rows)
+    write_jsonl(curated_dir / "explanations.jsonl", explanation_rows)
     write_jsonl(curated_dir / "problems.jsonl", enriched_problem_rows)
-    concept_rows = build_concepts(topic_rows, enriched_problem_rows)
+    concept_rows = build_concepts(enriched_topic_rows, enriched_problem_rows)
     write_jsonl(curated_dir / "concepts.jsonl", concept_rows)
     write_jsonl(curated_dir / "issues.jsonl", issue_rows)
 

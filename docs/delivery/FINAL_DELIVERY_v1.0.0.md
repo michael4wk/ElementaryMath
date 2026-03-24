@@ -5,7 +5,7 @@
 - 项目名称：小学数学结构化知识库（阶段性交付）
 - 交付状态：已完成既定范围，进入“可运行 + 可验收 + 可运维”状态
 - 定版基线：
-  - 验收清单全量通过：`checklist.md`
+  - 验收清单全量通过：`specs/quality_optimization_v1/checklist.md`
   - 自动验收视图全绿：`artifacts/acceptance/report.md`
 
 ## 2. 本次交付范围
@@ -35,7 +35,7 @@
 
 ## 5. 可追溯交付产物
 
-- 验收清单：`checklist.md`
+- 验收清单：`specs/quality_optimization_v1/checklist.md`
 - 阶段验收报告：`artifacts/acceptance/report.md`
 - 质量报告：`artifacts/quality/report.json`
 - 完整性/一致性校验：`artifacts/quality/validation.json`
